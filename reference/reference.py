@@ -157,9 +157,14 @@ SPELL_TRAP_ICONS_VALUE = [
 CardTypes = Enum("CardTypes", CARD_TYPES)
 
 # enum with the name repect to the value used by yugioh database
-MonsterAttributes = Enum("MonsterAttributes", [(MONSTER_ATTRIBUTES[index], MONSTER_ATTRIBUTES_VALUE[index]) for index in range(len(MONSTER_ATTRIBUTES))])
-MonsterTypes = Enum("MonsterTypes", [(MONSTER_TYPES[index], MONSTER_TYPES_VALUE[index]) for index in range(len(MONSTER_TYPES))])
-SpellTrapIcons = Enum("SpellTrapIcons", [(SPELL_TRAP_ICONS[index], SPELL_TRAP_ICONS_VALUE[index]) for index in range(len(SPELL_TRAP_ICONS))])
+# lcMA: create a list comprehension of of monster attribute seperately before calling Enum(),
+# so that Enum() register the MonsterAttributes as an enum type instead of a variable
+lcMA = [(MONSTER_ATTRIBUTES[index], MONSTER_ATTRIBUTES_VALUE[index]) for index in range(len(MONSTER_ATTRIBUTES))]
+MonsterAttributes = Enum("MonsterAttributes", lcMA)
+lcMT = [(MONSTER_TYPES[index], MONSTER_TYPES_VALUE[index]) for index in range(len(MONSTER_TYPES))]
+MonsterTypes = Enum("MonsterTypes", lcMT)
+lcSTI = [(SPELL_TRAP_ICONS[index], SPELL_TRAP_ICONS_VALUE[index]) for index in range(len(SPELL_TRAP_ICONS))]
+SpellTrapIcons = Enum("SpellTrapIcons", lcSTI)
 
 # for monster card type, there can be multiple: e.g. Synchro + Pendulum + Effect
 # thus, instead of making a list, gives each enum a binary representation
@@ -168,10 +173,12 @@ SpellTrapIcons = Enum("SpellTrapIcons", [(SPELL_TRAP_ICONS[index], SPELL_TRAP_IC
 #       ritual = 0b00100    (decimal 4)
 #       fusion = 0b01000    (decimal 8)
 # so for a ritual effect monster, can do bitwise or operator: effect | ritual = 0b00110
-MonsterCardTypes = Enum("MonsterCardTypes", [(MONSTER_CARD_TYPES[index], 2**index) for index in range(len(MONSTER_CARD_TYPES))])
+lcMCT = [(MONSTER_CARD_TYPES[index], 2**index) for index in range(len(MONSTER_CARD_TYPES))]
+MonsterCardTypes = Enum("MonsterCardTypes", lcMCT)
 
 # map the enum name with the value used in the official database
-MonsterCardTypes_db = Enum("MonsterCardTypes_db" [(MONSTER_CARD_TYPES[index], MONSTER_CARD_TYPES_VALUE[index])] for index in range(len(MONSTER_CARD_TYPES)))
+lcMCTdb = [(MONSTER_CARD_TYPES[index], MONSTER_CARD_TYPES_VALUE[index]) for index in range(len(MONSTER_CARD_TYPES))]
+MonsterCardTypes_db = Enum("MonsterCardTypes_db", lcMCTdb)
 
 ###########################################################################
 # miscellaneous enum for easier classify
@@ -186,7 +193,8 @@ LevelRankTypes = Enum("LevelRankType", ["Level", "Rank"])
 availableLinkIndex = [index for index in range(1, 10) if index != 5]
 # the link arrow has bit start with integer 2 instead of 1
 # i.e. first value is 0b10 instead of 0b1 since the lowest link is 1 (2**1 = 2)
-LinkArrows = Enum("LinkArrows", [(str(index), 2**(index)) for index in availableLinkIndex])
+lcLA = [(str(index), 2**(index)) for index in availableLinkIndex]
+LinkArrows = Enum("LinkArrows", lcLA)
 
 # spell or trap enum
 SpellTrapTypes = Enum("SpellTrapTypes", ["Spell", "Trap"])
