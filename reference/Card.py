@@ -153,7 +153,7 @@ class NonMonsterCard(Card):
         available_set: list,
         # extended
         spell_trap_type: SpellTrapTypes,
-        icon: SpellIcons | TrapIcons
+        icon: SpellTrapIcons
     ):
         super().__init__(
             name = name,
