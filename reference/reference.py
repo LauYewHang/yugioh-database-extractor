@@ -1,3 +1,5 @@
+from enum import Enum
+
 # available filters for the cards
 CARD_TYPES = [
     "Monster",
@@ -6,7 +8,7 @@ CARD_TYPES = [
 ]
 
 # monster card
-ATTRIBUTES = [
+MONSTER_ATTRIBUTES = [
     "DARK",
     "LIGHT",
     "EARTH",
@@ -86,3 +88,20 @@ TRAP_ICONS = [
     "Counter",
     "Normal"
 ]
+
+###########################################################################
+# create enum for each filter
+CardTypes = Enum("CardTypes", CARD_TYPES)
+MonsterAttributes = Enum("MonsterAttributes", MONSTER_ATTRIBUTES)
+MonsterTypes = Enum("MonsterTypes", MONSTER_TYPES)
+SpellIcons = Enum("SpellIcons", SPELL_ICONS)
+TrapIcons = Enum("TrapIcons", TRAP_ICONS)
+
+# for monster card type, there can be multiple: e.g. Synchro + Pendulum + Effect
+# thus, instead of making a list, gives each enum a binary representation
+# e.g.  normal = 0b00001    (decimal 1)
+#       effect = 0b00010    (decimal 2)
+#       ritual = 0b00100    (decimal 4)
+#       fusion = 0b01000    (decimal 8)
+# so for a ritual effect monster, can do bitwise or operator: effect | ritual = 0b00110
+MonsterCardTypes = Enum("MonsterCardTypes", [(MONSTER_CARD_TYPES[index], 2**index) for index in range(len(MONSTER_CARD_TYPES))])
