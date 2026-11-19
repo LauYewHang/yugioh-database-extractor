@@ -105,3 +105,19 @@ TrapIcons = Enum("TrapIcons", TRAP_ICONS)
 #       fusion = 0b01000    (decimal 8)
 # so for a ritual effect monster, can do bitwise or operator: effect | ritual = 0b00110
 MonsterCardTypes = Enum("MonsterCardTypes", [(MONSTER_CARD_TYPES[index], 2**index) for index in range(len(MONSTER_CARD_TYPES))])
+
+###########################################################################
+# miscellaneous enum for easier classify
+# level or rank enum
+LevelRankTypes = Enum("LevelRankType", ["Level", "Rank"])
+
+# link arrow enum, also apply bitwise operator
+# according to the yugioh database, link arrow classify as following direction:
+#   7   8   9
+#   4   -   6
+#   1   2   3
+availableLinkIndex = [index for index in range(1, 10) if index != 5]
+LinkArrows = Enum("LinkArrows", [(str(index), 2**(index-1)) for index in availableLinkIndex])
+
+# spell or trap enum
+SpellTrapTypes = Enum("SpellTrapTypes", ["Spell", "Trap"])
