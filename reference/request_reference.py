@@ -28,7 +28,8 @@ REQUEST_PARAMETER_TEMPLATE = {
     "releaseDEnd" : None, # release day to this value
     "releaseMEnd" : None, # release month to this value
     "releaseYEnd" : None, # release year to this value
-    "page" : 1 # the number of page
+    "page" : 1, # the number of page
+    "request_locale" : "en" # the language to display
 }
 
 # the list of parameter that allows duplicate value
@@ -69,3 +70,18 @@ ResultsPerPage = Enum("ResultsPerPage", [("10", 10), ("50", 50), ("100", 100)])
 SortBy = Enum("SortBy", SORT_BY)
 SearchBy = Enum("SearchBy", ["Card Name", "Card Text", "Pendulum Effect", "Card Number"])
 SearchCondition = Enum("SearchCondition", ["And", "Or"])
+Language = Enum(
+    "Language", 
+    [
+        ("Japanese", "ja"),
+        ("Korean", "ko"),
+        ("English(Asia)", "ae"),
+        ("Chinese", "cn"),
+        ("English", "en"),
+        ("Deutsch", "de"),
+        ("Francais", "fr"),
+        ("Italiano", "it"),
+        ("Espanol", "es"),
+        ("Portugues", "pt")
+    ]
+)
