@@ -1,5 +1,5 @@
 import json, requests
-from typing import List
+from typing import List, TypedDict
 
 from reference.card_reference import *
 from reference.request_reference import *
@@ -52,7 +52,8 @@ def request_search_card(
         release_year_from: int | None = None,
         release_day_to: int | None = None,
         release_month_to: int | None = None,
-        release_year_to: int | None = None
+        release_year_to: int | None = None,
+        page: int | None = 1
     ) -> requests.Response:
 
     # get the necessary query parameter
@@ -133,6 +134,10 @@ def request_search_card(
     if (type(release_year_to) is int):
         requestParameterDict["releaseYEnd"] = release_year_to
 
+    # check for number of page to display (for continuous retrieving)
+    if (type(page) is int):
+        requestParameterDict["page"] = page
+
     # check for the parameter that can have duplicate value
     # check for attribute
     if (type(attribute) is MonsterAttributes):
@@ -205,6 +210,58 @@ def request_search_card(
     )
     
     return request
+
+# return the number of search results
+# i.e. "Search Results: 41 - 50 of 14,068"
+# i.e. {"current_start" : 41, "current_end" : 50, "total" : 14068}
+TypeSearchResultsDict = TypedDict("TypeSearchResultsDict", {"current_start" : int | None, "current_end" : int | None, "total" : int | None})
+def request_search_results(
+        response: requests.Response | None = None,
+        response_text: str | None = None
+    ) -> TypeSearchResultsDict:
+    if (response is None and response_text is None):
+        raise ValueError("The argument 'response' and 'response_text' cannot both be None at the same time.")
+
+    if (type(response) is requests.Response):
+        response_text = response.text
+
+    # split the whole text into list of str, seperate by newline
+    # reference: https://stackoverflow.com/a/15422155/21952784
+    response_text_list = response_text.splitlines()
+    # dictionary to be returned
+    search_results_dict = {"current_start" : None, "current_end" : None, "total" : None}
+    # placeholder list to store the value
+    search_results_value = []
+
+    for text in response_text_list:
+        if "Search Results: " in text:
+            # split the text by " "
+            # e.g.  from " Search Results: 1 - 10 of 14,068"
+            #       to ['\t\t\t\tSearch', 'Results:', '1', '-', '10', 'of', '14,068']
+            text_list = text.split(" ")
+            for item in text_list:
+                try:
+                    # replace the comma in the number, so that it can be converted to int
+                    # reference: https://stackoverflow.com/a/2953756/21952784
+                    item = item.replace(',', '')
+                    search_results_value.append(int(item))
+                except ValueError:
+                    pass
+            break
+
+    if (len(search_results_dict.keys()) == len(search_results_value)):
+        keys = list(search_results_dict.keys())
+        for index in range(len(keys)):
+            search_results_dict[keys[index]] = search_results_value[index]
+    else:
+        raise ValueError("Unexpected value error: The number of keys in search_results_dict is not equal to the number of search_results_value.")
+
+    return search_results_dict
+
+# search the card and write to a file
+def retrieve_card_information(filepath: str = "cards.json"):
+    file = open(filepath, mode = "w", encoding = "utf-8")
+    pass
 
 if __name__ == "__main__":
     None
