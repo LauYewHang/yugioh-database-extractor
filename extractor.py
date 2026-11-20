@@ -1,4 +1,4 @@
-import json, requests, re, html
+import json, requests, re, html, datetime
 from typing import List, TypedDict
 
 from reference.card_reference import *
@@ -341,20 +341,21 @@ def extract_specific_card_information(
     if (type(response) is requests.Response):
         response_text = response.text
 
+    # unescape html character
+    # e.g. "&lt;" -> '<
+    response_text = html.unescape(response_text)
+
     # split the response text by "<div id=\"CardSet\">"
     # the html elements between "<div id=\"CardSet\">" and "<!-- #CardSet -->"
     # contain the necessary information of the card
     # after splitting you will get a list with two elements,
     # [0] is the text before the split text,
     # [1] is the text after the split text
-    informationText = response_text.split("<div id=\"CardSet\">")[1]
+    cardInformationText = response_text.split("<div id=\"CardSet\">")[1]
     # the necessary card information is between:
     # 1. "<div id=\"CardSet\">"
     # 2. "<!-- #CardSet -->"
-    cardInformationText = informationText.split("<!-- #CardSet -->")[0]
-    # unescape html character
-    # e.g. "&lt;" -> '<
-    cardInformationText = html.unescape(cardInformationText)
+    cardInformationText = cardInformationText.split("<!-- #CardSet -->")[0]
     # split the text by lines to get a list
     cardInformationTextList = cardInformationText.splitlines()
 
@@ -471,6 +472,62 @@ def extract_specific_card_information(
             cardText = reFormat.sub('', re.escape(text))
             # remove the prefix and suffix <div> to get the pure card text
             cardText = cardText.removeprefix("<div class=\"text_linebreak\">").removesuffix("</div>")
+            break
+
+    releaseDate: datetime.date = None
+    releaseDateString: str = ""
+    availableSet: list = []
+    # check for release date and available set
+    # the required body text is between:
+    # 1. <div class="t_body">
+    # 2. <!--#update_list-->
+    cardReleaseInformationText = response_text.split("<div class=\"t_body\">")[1]
+    cardReleaseInformationText = cardReleaseInformationText.split("<!--#update_list-->")[0]
+    cardReleaseInformationTextList = cardReleaseInformationText.splitlines()
+
+    # the release date is written in <div class="time"> </div>
+    # thus, count the number of time "<div class="time">",
+    # we can get the number of set the card is released on (though duplicate can happened due to different rarity, thus require filter)
+    availableSetAmount = cardReleaseInformationText.count("<div class=\"time\">")
+    
+    # the oldest release date is in the last <div class="time">
+    # the available set is in <div class="pack_name flex_1" > </div>
+    traversedSet = 0
+    for index in range(len(cardReleaseInformationTextList)):
+        # read the available set of the card
+        if "<div class=\"pack_name flex_1\" >" in cardReleaseInformationTextList[index]:
+            availableSet.append("")
+            for index2 in range(index + 1, len(cardReleaseInformationTextList)):
+                if "</div>" not in cardReleaseInformationTextList[index2]:
+                    availableSet[traversedSet] += cardReleaseInformationTextList[index2]
+                else:
+                    # remove the escape character '\t'
+                    availableSet[traversedSet] = reFormat.sub('', re.escape(availableSet[traversedSet]))
+                    traversedSet += 1
+                    break
+
+        # retrieve the date if it is the last set
+        # traversedSet + 1 because in the website, the date comes before the set name
+        # thus, we need to retrieve the date at second last iteration
+        if (traversedSet + 1 == availableSetAmount):
+            if "<div class=\"time\">" in cardReleaseInformationTextList[index]:
+                for index2 in range(index + 1, len(cardReleaseInformationTextList)):
+                    if "</div>" not in cardReleaseInformationTextList[index2]:
+                        releaseDateString += cardReleaseInformationTextList[index2]
+                    else:
+                        # remove the escape character '\t'
+                        releaseDateString = reFormat.sub('', re.escape(releaseDateString))
+                        break
+
+        # early break if traversedSet is equal to availableSetAmount
+        if (traversedSet == availableSetAmount):
+            # convert list to set to remove duplicate, then convert it back to list again for format
+            # reference: https://stackoverflow.com/a/9841328/21952784
+            # I was actually so drunk I searched "removed duplicate from string" instead of "remove duplicate from list" but it still work www
+            availableSet = list(set(availableSet))
+            # convert date string to list and convert it to datetime.date type
+            releaseDateValueList = releaseDateString.split('-')
+            releaseDate = datetime.date(int(releaseDateValueList[0]), int(releaseDateValueList[1]), int(releaseDateValueList[2]))
             break
 
 # search the card and write to a file
