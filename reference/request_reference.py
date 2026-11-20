@@ -28,6 +28,7 @@ REQUEST_PARAMETER_TEMPLATE = {
     "releaseDEnd" : None, # release day to this value
     "releaseMEnd" : None, # release month to this value
     "releaseYEnd" : None, # release year to this value
+    "page" : 1 # the number of page
 }
 
 # the list of parameter that allows duplicate value
