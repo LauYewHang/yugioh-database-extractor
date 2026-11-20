@@ -45,6 +45,13 @@ REQUEST_DUPLICATE_PARAMETER_TEMPLATE = {
     "linkbtn" : None, # list of link arrows to search for
 }
 
+# the list of parameter that is used when browsing a specific card
+REQUEST_BROWSING_PARAMETER_TEMPLATE = {
+    "rp" : 10, # number of results per page (for related card section)
+    "page" : 1, # the number of page (for related card section)
+    "request_locale" : "en" # the language to display
+}
+
 ###########################################################################
 # supporting data
 SORT_BY = [
