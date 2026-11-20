@@ -69,7 +69,7 @@ class MonsterCard(Card):
         self.monster_type = monster_type
         self.monster_card_type = monster_card_type
 
-class NonLinkMonsterCard(Card):
+class NonLinkMonsterCard(MonsterCard):
     def __init__(
         self,
         # inherited
