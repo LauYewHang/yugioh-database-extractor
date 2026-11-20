@@ -4,8 +4,10 @@ from typing import List, TypedDict
 from reference.card_reference import *
 from reference.request_reference import *
 
-# the url for search from the database
-YUGIOH_DATABASE_URL = "https://www.db.yugioh-card.com/yugiohdb/card_search.action"
+# the root url for the database
+YUGIOH_DATABASE_URL = "https://www.db.yugioh-card.com"
+# the url for search action on the database
+YUGIOH_DATABASE_SEARCH_URL = "https://www.db.yugioh-card.com/yugiohdb/card_search.action"
 
 # exponential waiting varible
 # in case of sending multiple requests results in the request being blocked,
@@ -205,7 +207,7 @@ def request_search_card(
 
     request = requests.request(
         method = "GET",
-        url = YUGIOH_DATABASE_URL,
+        url = YUGIOH_DATABASE_SEARCH_URL,
         params = requestParameterList
     )
     
@@ -219,6 +221,7 @@ def request_search_results(
         response: requests.Response | None = None,
         response_text: str | None = None
     ) -> TypeSearchResultsDict:
+
     if (response is None and response_text is None):
         raise ValueError("The argument 'response' and 'response_text' cannot both be None at the same time.")
 
@@ -238,7 +241,7 @@ def request_search_results(
             # split the text by " "
             # e.g.  from " Search Results: 1 - 10 of 14,068"
             #       to ['\t\t\t\tSearch', 'Results:', '1', '-', '10', 'of', '14,068']
-            text_list = text.split(" ")
+            text_list = text.split(' ')
             for item in text_list:
                 try:
                     # replace the comma in the number, so that it can be converted to int
@@ -257,6 +260,42 @@ def request_search_results(
         raise ValueError("Unexpected value error: The number of keys in search_results_dict is not equal to the number of search_results_value.")
 
     return search_results_dict
+
+# get the list of card url on the page
+# i.e.  after searching, there should be "Search Results: <x amount> - <y amount> of <z amount>"
+#       this function then return list of (x to y) cards that are displaying on the page
+def request_card_url_list(
+        response: requests.Response | None = None,
+        response_text: str | None = None
+    ) -> List[str]:
+
+    if (response is None and response_text is None):
+            raise ValueError("The argument 'response' and 'response_text' cannot both be None at the same time.")
+
+    if (type(response) is requests.Response):
+            response_text = response.text
+
+    response_text_list = response_text.splitlines()
+    card_url_list = []
+
+    for text in response_text_list:
+        if "class=\"link_value\"" in text:
+            # if the text match, it should have a format like:
+            # <input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=2&amp;cid=21385&amp;iid=1">
+            # remove the '<' and '>' at the front and back for easier splitting
+            text = text[1:-1]
+            # then, split the text by space, which gives a list of str
+            # e.g.
+            # ['input', 'type="hidden"', 'class="link_value"', 'value="/yugiohdb/card_search.action?ope=2&amp;cid=21385&amp;iid=1"']
+            # take the last element (contain the card url link)
+            text = text.split(' ')[-1]
+            # remove the prefix "value="
+            # remove the double quote
+            text = text.removeprefix("value=").replace('"', '')
+            # add the link to the list
+            card_url_list.append(text)
+
+    return card_url_list
 
 # search the card and write to a file
 def retrieve_card_information(filepath: str = "cards.json"):
