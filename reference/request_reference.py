@@ -1,6 +1,6 @@
 from enum import Enum
 
-from reference.reference import *
+from reference.card_reference import *
 
 # available parameter for the query string
 # parameter template: template to show what are the possible parameter (that does not have duplicate)

@@ -1,7 +1,7 @@
 import json, requests
 from typing import List
 
-from reference.reference import *
+from reference.card_reference import *
 from reference.request_reference import *
 
 # the url for search from the database

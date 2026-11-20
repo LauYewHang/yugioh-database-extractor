@@ -1,6 +1,6 @@
 import datetime
 
-from reference.reference import *
+from reference.card_reference import *
 
 # generic card class
 class Card:
