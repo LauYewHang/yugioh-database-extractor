@@ -13,10 +13,31 @@ class Card:
         related_card: list
     ):
         self.name = name
+        self.filename = self.name_to_filename()
         self.card_text = card_text
         self.release_date = release_date
         self.available_set = available_set
         self.related_card = related_card
+
+    # convert the card name to a valid file name
+    # basically remove all special character, just in case
+    # e.g.  Maxx "C" -> Maxx_C
+    #       Maliss <Q> White Binder -> Maliss_Q_White_Binder
+    #       Purrelyeap!? -> Purrelyeap
+    # who named these cards...
+    # very cool name but...
+    def name_to_filename(self):
+        filename = ""
+        for char in self.name:
+            charASCII = ord(char)
+            # a-z & A-Z
+            if ((charASCII >= 65 and charASCII <= 90) or (charASCII >= 97 and charASCII <= 122)):
+                filename += char
+            # space converted to '_'
+            elif (charASCII == 32):
+                filename += '_'
+
+        return filename
 
 # monster card type
 class MonsterCard(Card):
