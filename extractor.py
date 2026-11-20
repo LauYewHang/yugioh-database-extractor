@@ -1,8 +1,9 @@
-import json, requests
+import json, requests, re, html
 from typing import List, TypedDict
 
 from reference.card_reference import *
 from reference.request_reference import *
+from reference.Card import *
 
 # the root url for the database
 YUGIOH_DATABASE_URL = "https://www.db.yugioh-card.com"
@@ -216,6 +217,7 @@ def request_search_card(
 # return the number of search results
 # i.e. "Search Results: 41 - 50 of 14,068"
 # i.e. {"current_start" : 41, "current_end" : 50, "total" : 14068}
+# can be used at first request_search_card() and finding the amount of related cards
 TypeSearchResultsDict = TypedDict("TypeSearchResultsDict", {"current_start" : int | None, "current_end" : int | None, "total" : int | None})
 def request_search_results(
         response: requests.Response | None = None,
@@ -261,9 +263,12 @@ def request_search_results(
 
     return search_results_dict
 
-# get the list of card url on the page
+# get the list of card url (or related url) on the page
 # i.e.  after searching, there should be "Search Results: <x amount> - <y amount> of <z amount>"
 #       this function then return list of (x to y) cards that are displaying on the page
+# 1. can be used at first request_search_card() to get the list of cards that fulfill the search condition
+# 2. can be used to find the list of available set url of a card (need filter)
+# 3. can be used to find the list of related card url of a card (need filter)
 def request_card_url_list(
         response: requests.Response | None = None,
         response_text: str | None = None
@@ -296,6 +301,177 @@ def request_card_url_list(
             card_url_list.append(text)
 
     return card_url_list
+
+# browse a specific card (with a link that direct you to the card page)
+def request_browse_specific_card(
+        card_url: str,
+        result_per_page: ResultsPerPage | None = None,
+        page: int | None = None,
+        language: Language | None = None
+    ) -> requests.Response:
+
+    requestParameterDict = dict(REQUEST_BROWSING_PARAMETER_TEMPLATE)
+
+    if (type(result_per_page) is ResultsPerPage):
+        requestParameterDict["rp"] = result_per_page.value
+
+    if (type(page) is int):
+        requestParameterDict["page"] = page
+
+    if (type(language) is Language):
+        requestParameterDict["request_locale"] = language.value
+
+    request = requests.request(
+        method = "GET",
+        url = YUGIOH_DATABASE_URL + card_url,
+        params = requestParameterDict
+    )
+
+    return request
+
+# retrieve the information of the specific card, from the response
+def extract_specific_card_information(
+        response: requests.Response | None = None,
+        response_text: str | None = None
+    ) -> Card:
+    
+    if (response is None and response_text is None):
+            raise ValueError("The argument 'response' and 'response_text' cannot both be None at the same time.")
+
+    if (type(response) is requests.Response):
+        response_text = response.text
+
+    # split the response text by "<div id=\"CardSet\">"
+    # the html elements between "<div id=\"CardSet\">" and "<!-- #CardSet -->"
+    # contain the necessary information of the card
+    # after splitting you will get a list with two elements,
+    # [0] is the text before the split text,
+    # [1] is the text after the split text
+    informationText = response_text.split("<div id=\"CardSet\">")[1]
+    # the necessary card information is between:
+    # 1. "<div id=\"CardSet\">"
+    # 2. "<!-- #CardSet -->"
+    cardInformationText = informationText.split("<!-- #CardSet -->")[0]
+    # unescape html character
+    # e.g. "&lt;" -> '<
+    cardInformationText = html.unescape(cardInformationText)
+    # split the text by lines to get a list
+    cardInformationTextList = cardInformationText.splitlines()
+
+    # count the html element with class "item_box_value"
+    # with the format of yugioh database,
+    # the number of element with this class hint the type of the card
+    # 3: spell / trap
+    # 6: non-pendulum monster
+    # 7: pendulum monster
+    mainValueCount = cardInformationText.count("class=\"item_box_value\"")
+
+    # the line after the html element with class "item_box_value"
+    # represents some value of the card,
+    # 3 -> [icon of spell or trap]
+    # 6 -> [attribute, (level / rank / link), attack, defence]
+    # 7 -> [attribute, (level / rank / link), attack, defence, pendulum scale]
+    # the last two elements with this class are always the language button (ocg/tcg)
+    # thus, the amount of information you can retrieve from the mainValueCount is: mainValueCount - 2
+    # e.g.  if there is 6 "class=\"item_box_value\"" from the text, that means the card is a non-pendulum monster,
+    #       and the amount of information I can retrieve is: [attribute, (level / rank / link), attack, defence] (6-2=4)
+    valueInformationList = []
+    for index in range(len(cardInformationTextList)):
+        if "class=\"item_box_value\"" in cardInformationTextList[index] and len(valueInformationList) < mainValueCount - 2:
+            valueInformationList.append("")
+            for index2 in range(index + 1, len(cardInformationTextList)):
+                if "</span>" not in cardInformationTextList[index2]:
+                    valueInformationList[len(valueInformationList) - 1] += cardInformationTextList[index2]
+                else:
+                    break;
+
+        if (len(valueInformationList) >= mainValueCount - 2):
+            break
+    
+    # put character '\t' and '\' as part of the regular expression format
+    # https://stackoverflow.com/a/56206194/21952784
+    reFormat = re.compile(r"(\\\t)|\\")
+    # the text copy from html text contain the escape character '\t',
+    # remove the escape character by using regular expression
+    # reference: https://stackoverflow.com/a/4202559/21952784
+    valueInformationList = [reFormat.sub('', re.escape(text)) for text in valueInformationList]
+
+    # get the card name
+    # tha card name is between <h1> tag,
+    # the returned card name may contain multiple '\t', so filter is needed
+    cardName: str = None
+    for index in range(len(cardInformationTextList)):
+        if "<h1>" in cardInformationTextList[index]:
+            cardName = ""
+            for index2 in range(index + 1, len(cardInformationTextList)):
+                if "</h1>" not in cardInformationTextList[index2]:
+                    cardName += cardInformationTextList[index2]
+                else:
+                    break
+        if cardName is not None:
+            cardName = reFormat.sub('', re.escape(cardName))
+            break
+
+    # check the number of item obtained for valueInformationList
+    # 1: spell / trap card
+    # 4: non-pendulum monster
+    # 5: pendulum monster
+    # if it is not a spell / trap, identify the monster type and monster card type
+    if (len(valueInformationList) != 1):
+        monsterTypeList = []
+        # regular expression for monster type format
+        # search for any character that is not alphabet or '-'
+        reMonsterTypeFormat = re.compile(r"[^a-zA-Z-]")
+        for index in range(len(cardInformationTextList)):
+            # the monster type and monster card type is within the paragraph
+            # <p class="species"> </p>
+            if "class=\"species\"" in cardInformationTextList[index]:
+                for index2 in range(index + 1, len(cardInformationTextList)):
+                    if "</p>" not in cardInformationTextList[index2]:
+                        # the html content in the paragraph contain '\t',
+                        # thus use regular expression to escape the character and remove them
+                        monsterTypes = reFormat.sub('', re.escape(cardInformationTextList[index2]))
+                        # remove the html <span> tag in betweem
+                        monsterTypes = monsterTypes.removeprefix("<span>").removesuffix("</span>")
+                        # the website use a special slash character, 
+                        # which is not in ascii to seperate the different monster type (probably slash in japanese input)
+                        # check if the content is equal to empty string after all the filter
+                        if (monsterTypes != ""):
+                            # if not empty, replace the slash to normal comma
+                            monsterTypes = reMonsterTypeFormat.sub(',', monsterTypes)
+                            # split the results by comma (in case there are multiple types)
+                            # e.g.  from: "Ritual／Effect"
+                            #       to: "Ritual,Effect"
+                            monsterTypes = monsterTypes.split(',')
+                            # if there is a resulting list
+                            if (type(monsterTypes) is list):
+                                # check for empty string, as the website has a <span> with only slash,
+                                # so after all the filter will result in an empty string for that <span>
+                                monsterTypeList += [monsterType for monsterType in monsterTypes if monsterType != ""]
+                            else: # else, it probably is a monster type (species) (instead of monster card type, i.e. effect, synchro)
+                                monsterTypeList.append(monsterTypes)
+
+                    # break if encounter "</p>", 
+                    # it means the paragraph related to monster type has ended
+                    else:
+                        break
+
+            # early break if we already added monster type value into the list
+            if (len(monsterTypeList) > 1):
+                break
+
+    cardText: str = ""
+    # search for the card text
+    # within the cardInformationText, the card text is within the
+    # <div class="text_linebreak"> </div>
+    # the text is in a single line of the <div>
+    for text in cardInformationTextList:
+        if "class=\"text_linebreak\"" in text:
+            # remove the '\t' from the text
+            cardText = reFormat.sub('', re.escape(text))
+            # remove the prefix and suffix <div> to get the pure card text
+            cardText = cardText.removeprefix("<div class=\"text_linebreak\">").removesuffix("</div>")
+            break
 
 # search the card and write to a file
 def retrieve_card_information(filepath: str = "cards.json"):
