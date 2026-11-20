@@ -9,12 +9,14 @@ class Card:
         name: str,
         card_text: str,
         release_date: datetime.date,
-        available_set: list
+        available_set: list,
+        related_card: list
     ):
         self.name = name
         self.card_text = card_text
         self.release_date = release_date
         self.available_set = available_set
+        self.related_card = related_card
 
 # monster card type
 class MonsterCard(Card):
@@ -25,6 +27,7 @@ class MonsterCard(Card):
         card_text: str,
         release_date: datetime.date,
         available_set: list,
+        related_card: list,
         # extended
         attribute: MonsterAttributes,
         attack: int,
@@ -36,7 +39,8 @@ class MonsterCard(Card):
             name = name,
             card_text = card_text,
             release_date = release_date,
-            available_set = available_set
+            available_set = available_set,
+            related_card = related_card
         )
         self.attribute = attribute
         self.attack = attack
@@ -52,6 +56,7 @@ class NonLinkMonsterCard(Card):
         card_text: str,
         release_date: datetime.date,
         available_set: list,
+        related_card: list,
         attribute: MonsterAttributes,
         attack: int,
         defense: int,
@@ -66,6 +71,7 @@ class NonLinkMonsterCard(Card):
             card_text = card_text,
             release_date = release_date,
             available_set = available_set,
+            related_card = related_card,
             attribute = attribute,
             attack = attack,
             defense = defense,
@@ -83,6 +89,7 @@ class LinkMonsterCard(MonsterCard):
         card_text: str,
         release_date: datetime.date,
         available_set: list,
+        related_card: list,
         attribute: MonsterAttributes,
         attack: int,
         # link monster don't have defense
@@ -98,6 +105,7 @@ class LinkMonsterCard(MonsterCard):
             card_text = card_text,
             release_date = release_date,
             available_set = available_set,
+            related_card = related_card,
             attribute = attribute,
             attack = attack,
             defense = None,
@@ -115,6 +123,7 @@ class PendulumMonsterCard(NonLinkMonsterCard):
         card_text: str,
         release_date: datetime.date,
         available_set: list,
+        related_card: list,
         attribute: MonsterAttributes,
         attack: int,
         defense: int,
@@ -131,6 +140,7 @@ class PendulumMonsterCard(NonLinkMonsterCard):
             card_text = card_text,
             release_date = release_date,
             available_set = available_set,
+            related_card = related_card,
             attribute = attribute,
             attack = attack,
             defense = defense,
@@ -151,6 +161,7 @@ class NonMonsterCard(Card):
         card_text: str,
         release_date: datetime.date,
         available_set: list,
+        related_card: list,
         # extended
         spell_trap_type: SpellTrapTypes,
         icon: SpellTrapIcons
@@ -159,7 +170,8 @@ class NonMonsterCard(Card):
             name = name,
             card_text = card_text,
             release_date = release_date,
-            available_set = available_set
+            available_set = available_set,
+            related_card = related_card
         )
         self.spell_trap_type = spell_trap_type
         self.icon = icon
