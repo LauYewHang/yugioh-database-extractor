@@ -51,8 +51,8 @@ class MonsterCard(Card):
         related_card: list,
         # extended
         attribute: MonsterAttributes,
-        attack: int,
-        defense: int | None,
+        attack: int | str,
+        defense: int | str | None,
         monster_type: MonsterTypes,
         monster_card_type: int # the bit combination that represents the monster card types
     ):
@@ -79,8 +79,8 @@ class NonLinkMonsterCard(MonsterCard):
         available_set: list,
         related_card: list,
         attribute: MonsterAttributes,
-        attack: int,
-        defense: int,
+        attack: int | str,
+        defense: int | str | None,
         monster_type: MonsterTypes,
         monster_card_type: int, # the bit combination that represents the monster card types
         # extended
@@ -112,9 +112,9 @@ class LinkMonsterCard(MonsterCard):
         available_set: list,
         related_card: list,
         attribute: MonsterAttributes,
-        attack: int,
+        attack: int | str,
         # link monster don't have defense
-        # defense: int | None,
+        # defense: int | str | None,
         monster_type: MonsterTypes,
         monster_card_type: int, # the bit combination that represents the monster card types
         # extended
@@ -146,8 +146,8 @@ class PendulumMonsterCard(NonLinkMonsterCard):
         available_set: list,
         related_card: list,
         attribute: MonsterAttributes,
-        attack: int,
-        defense: int,
+        attack: int | str,
+        defense: int | str | None,
         monster_type: MonsterTypes,
         monster_card_type: int, # the bit combination that represents the monster card types
         level_rank_type: LevelRankTypes,
