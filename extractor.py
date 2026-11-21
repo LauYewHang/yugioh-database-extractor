@@ -418,7 +418,9 @@ def extract_specific_card_information(
     # 5: pendulum monster
     # if it is not a spell / trap, identify the monster type and monster card type
     if (len(valueInformationList) != 1):
-        monsterTypeList = []
+        # for monster type list, the first array element is always the species (monster type),
+        # the subsequent element would be the monster card type (effect, ritual)
+        monsterTypeList: list = []
         # regular expression for monster type format
         # search for any character that is not alphabet or '-'
         reMonsterTypeFormat = re.compile(r"[^a-zA-Z-]")
@@ -465,12 +467,22 @@ def extract_specific_card_information(
     # within the cardInformationText, the card text is within the
     # <div class="text_linebreak"> </div>
     # the text is in a single line of the <div>
-    for text in cardInformationTextList:
+    # for pendulum monster, there can be 2 class="text_linebreak",
+    # 1 for pendulum effect, another for normal card text
+    # thus, we can have an additional filter (split) of:
+    # 1. <!-- #CardTextSet -->
+    # 2. class="CardText"
+    cardTextText = cardInformationText.split("<!-- #CardTextSet -->")[1]
+    cardTextText = cardTextText.split("class=\"CardText\"")[1]
+    cardTextTextList = cardTextText.splitlines()
+    for text in cardTextTextList:
         if "class=\"text_linebreak\"" in text:
             # remove the '\t' from the text
             cardText = reFormat.sub('', re.escape(text))
             # remove the prefix and suffix <div> to get the pure card text
             cardText = cardText.removeprefix("<div class=\"text_linebreak\">").removesuffix("</div>")
+            # replace the <br> from the html text to escape character '\n'
+            cardText = cardText.replace("<br>", '\n')
             break
 
     releaseDate: datetime.date = None
@@ -589,7 +601,155 @@ def extract_specific_card_information(
                 relatedCardText = newResponseText.split("id=\"relationCard\"")[1]
                 relatedCardText = relatedCardText.split("<!-- ///count  -->")[0]
                 relatedCardTextList = relatedCardText.splitlines()
-                
+
+    # extract the information from valueInformationList
+    # array element : value
+    # 1             : (spell / trap icon) || monster attribute
+    # 2             : level / rank / link rating
+    # 3             : attack
+    # 4             : defence
+    # 5             : pendulum scale
+    cardType: CardTypes = None
+    if (len(valueInformationList) == 1):
+        # if the length of valueInformationList is 1, it is guarantee to be a spell or trap
+        # split the value by ' ' to get the spell / trap icon and card type
+        # e.g. "Counter Trap" -> ["Counter", "Trap"]
+        valueInformationList = valueInformationList[0].split(' ')
+        cardType = CardTypes[valueInformationList[-1]]
+    else:
+        # don't split the second element
+        # i.e. keep "Rank 12" as it, since we need to differentiate level / rank later on
+        cardType = CardTypes["Monster"]
+    
+    if (len(valueInformationList) == 5):
+        # if the length of valueInformationList is 5, it is a pendulum monster
+        # process the last element of array to extract the pure number value (in str format first)
+        # e.g. "Pendulum Scale 13" -> ["Pendulum", "Scale", "13"] -> "13"
+        valueInformationList[-1] = valueInformationList[-1].split(' ')[-1]
+
+    card: Card = None
+    # create the Card object based on the length of valueInformationList after processing the value
+    # length    : card type
+    # 2         : spell / trap
+    # 4         : non-pendulum monster
+    # 5         : pendulum monster
+    if (len(valueInformationList) == 2):
+        # if it is a spell / trap, the array element would be:
+        # [Icon, (Spell || Trap)]
+        card = NonMonsterCard(
+            name = cardName,
+            card_text = cardText,
+            release_date = releaseDate,
+            available_set = availableSet,
+            related_card = relatedCardList,
+            spell_trap_type = SpellTrapTypes[valueInformationList[-1]],
+            icon = SpellTrapIcons[valueInformationList[0]]
+        )
+    elif (len(valueInformationList) == 4):
+        # if it is a non-pendulum monster
+        # calculate the bit combination that represents the monster card type
+        monsterCardType = 0
+        # start from second element since the first element is monster species
+        for monsterCardTypeValue in monsterTypeList[1:]:
+            monsterCardType += MonsterCardTypes[monsterCardTypeValue].value
+
+        # check the last array element (defence) to see if it is a link monster
+        if (valueInformationList[-1] == '-'):
+            # if defence is '-', then it is a link monster
+            # calculate the bit combination that represents the link arrow direction
+            # extract the text that contains information about link arrow,
+            # which is inside <span class="icon_img_set link846" alt="Link" title="Link">
+            # the key is the "link846", where 846 represents the link arrow direction
+            # we can filter the text by finding the span that contains: alt="Link"
+            linkArrow: int = 0
+            for text in cardInformationTextList:
+                if "alt=\"Link\"" in text:
+                    # remove the escape character '\t'
+                    text = reFormat.sub('', re.escape(text))
+                    # split the text by '"', the "icon_img_set link846" would be the second element after the split
+                    text = text.split('"')[1]
+                    # split it again by "link"
+                    # i.e. "link846" -> ["", "846"]
+                    linkText = text.split("link")[-1]
+                    # add all the value together (with respect to the bit representation)
+                    for value in linkText:
+                        linkArrow += LinkArrows[value].value
+                    break
+            
+            card = LinkMonsterCard(
+                name = cardName,
+                card_text = cardText,
+                release_date = releaseDate,
+                available_set = availableSet,
+                related_card = relatedCardList,
+                attribute = MonsterAttributes[valueInformationList[0]],
+                attack = int(valueInformationList[2]),
+                monster_type = MonsterTypes[monsterTypeList[0]],
+                monster_card_type = monsterCardTypeValue,
+                # split "Link x" to ["Link", "x"]
+                link_rating = int(valueInformationList[1].split(' ')[-1]),
+                link_arrow = linkArrow
+            )
+        else:
+            # else, it is a non-link monster
+            card = NonLinkMonsterCard(
+                name = cardName,
+                card_text = cardText,
+                release_date = releaseDate,
+                available_set = availableSet,
+                related_card = relatedCardList,
+                attribute = MonsterAttributes[valueInformationList[0]],
+                attack = int(valueInformationList[2]),
+                defense = int(valueInformationList[3]),
+                monster_type = MonsterTypes[monsterTypeList[0]],
+                monster_card_type = monsterCardTypeValue,
+                # split "Level 4" to ["Level", "4"] to get level rank type and rating
+                level_rank_type = LevelRankTypes[valueInformationList[1].split(' ')[0]],
+                level_rank_rating = int(valueInformationList[1].split(' ')[-1])
+            )
+    elif (len(valueInformationList) == 5):
+        # if it is a pendulum monster
+        # calculate the bit combination that represents the monster card type
+        monsterCardType = 0
+        # start from second element since the first element is monster species
+        for monsterCardTypeValue in monsterTypeList[1:]:
+            monsterCardType += MonsterCardTypes[monsterCardTypeValue].value
+
+        pendulumEffectText: str = ""
+        # extract the pendulum effect, which is between:
+        # 1. class="CardText pen"
+        # 2. <!-- CardText -->
+        pendulumEffectTextText = cardInformationText.split("class=\"CardText pen\"")[1]
+        pendulumEffectTextText = pendulumEffectTextText.split("<!-- CardText -->")[0]
+        pendulumEffectTextTextList = pendulumEffectTextText.splitlines()
+        for text in pendulumEffectTextTextList:
+            if "class=\"text_linebreak\"" in text:
+                # remove the '\t' from the text
+                pendulumEffectText = reFormat.sub('', re.escape(text))
+                # remove the prefix and suffix <div> to get the pure card text
+                pendulumEffectText = pendulumEffectText.removeprefix("<div class=\"text_linebreak\">").removesuffix("</div>")
+                # replace the <br> from the html text to escape character '\n'
+                pendulumEffectText = pendulumEffectText.replace("<br>", '\n')
+                break
+
+        card = PendulumMonsterCard(
+            name = cardName,
+            card_text = cardText,
+            release_date = releaseDate,
+            available_set = availableSet,
+            related_card = relatedCardList,
+            attribute = MonsterAttributes[valueInformationList[0]],
+            attack = int(valueInformationList[2]),
+            defense = int(valueInformationList[3]),
+            monster_type = MonsterTypes[monsterTypeList[0]],
+            monster_card_type = monsterCardTypeValue,
+            # split "Level 4" to ["Level", "4"] to get level rank type and rating
+            level_rank_type = LevelRankTypes[valueInformationList[1].split(' ')[0]],
+            level_rank_rating = int(valueInformationList[1].split(' ')[-1]),
+            pendulum_effect = pendulumEffectText,
+            pendulum_scale = int(valueInformationList[4])
+        )
+        
 # search the card and write to a file
 def retrieve_card_information(filepath: str = "cards.json"):
     file = open(filepath, mode = "w", encoding = "utf-8")
