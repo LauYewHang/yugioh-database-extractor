@@ -30,8 +30,8 @@ class Card:
         filename = ""
         for char in self.name:
             charASCII = ord(char)
-            # a-z & A-Z
-            if ((charASCII >= 65 and charASCII <= 90) or (charASCII >= 97 and charASCII <= 122)):
+            # a-z & A-Z & 0-9
+            if ((charASCII >= 65 and charASCII <= 90) or (charASCII >= 97 and charASCII <= 122) or (charASCII >= 48 and charASCII <= 57)):
                 filename += char
             # space converted to '_'
             elif (charASCII == 32):
