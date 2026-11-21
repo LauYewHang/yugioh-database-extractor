@@ -333,15 +333,12 @@ def request_browse_specific_card(
 
 # retrieve the information of the specific card, from the response
 def extract_specific_card_information(
-        response: requests.Response | None = None,
-        response_text: str | None = None
+        card_url: str
     ) -> Card:
-    
-    if (response is None and response_text is None):
-            raise ValueError("The argument 'response' and 'response_text' cannot both be None at the same time.")
 
-    if (type(response) is requests.Response):
-        response_text = response.text
+    # request the page of the specific card
+    response = request_browse_specific_card(card_url)
+    response_text = response.text
 
     # unescape html character
     # e.g. "&lt;" -> '<
@@ -586,7 +583,7 @@ def extract_specific_card_information(
             #     print(response.request.url)
             #     currentRelatedCardPage += 1
                 #nextResponseText = request_browse_specific_card()
-        print(len(relatedCardList))
+        print(relatedCardList)
 
 # search the card and write to a file
 def retrieve_card_information(filepath: str = "cards.json"):
