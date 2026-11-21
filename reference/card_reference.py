@@ -32,7 +32,7 @@ MONSTER_TYPES = [
     "Dinosaur",
     "Reptile",
     "Fish",
-    "Sea Serphent",
+    "Sea Serpent",
     "Aqua",
     "Pyro",
     "Thunder",
