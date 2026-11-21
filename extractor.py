@@ -568,10 +568,10 @@ def extract_specific_card_information(
                     relatedCardList.append("")
                     for textIndex2 in range(textIndex + 1, len(relatedCardTextList)):
                         if "</span>" not in relatedCardTextList[textIndex2]:
-                            relatedCardTextList[-1] += relatedCardTextList[textIndex2]
+                            relatedCardList[-1] += relatedCardTextList[textIndex2]
                         else:
                             # remove escape character
-                            relatedCardTextList[-1] = reFormat.sub('', re.escape(relatedCardTextList[-1]))
+                            relatedCardList[-1] = reFormat.sub('', re.escape(relatedCardList[-1]))
                             break
 
                 # early break if it reaches the current_end (current maximum related card that can be retrieved)
@@ -579,12 +579,17 @@ def extract_specific_card_information(
                     break
 
             # after finishing the current page, retrieve the next page (if available)
-            # if (currentRelatedCardPage < maxRelatedCardPage):
-            #     print(response.request.url)
-            #     currentRelatedCardPage += 1
-                #nextResponseText = request_browse_specific_card()
-        print(relatedCardList)
-
+            if (currentRelatedCardPage < maxRelatedCardPage):
+                # request a new response (the subsequent page of related cards)
+                newResponse = request_browse_specific_card(card_url, page = currentRelatedCardPage + 1)
+                currentRelatedCardPage += 1
+                # filter the response text and find the new related cards text section
+                newResponseText = newResponse.text
+                newResponseText = html.unescape(newResponseText)
+                relatedCardText = newResponseText.split("id=\"relationCard\"")[1]
+                relatedCardText = relatedCardText.split("<!-- ///count  -->")[0]
+                relatedCardTextList = relatedCardText.splitlines()
+                
 # search the card and write to a file
 def retrieve_card_information(filepath: str = "cards.json"):
     file = open(filepath, mode = "w", encoding = "utf-8")
