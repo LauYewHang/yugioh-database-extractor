@@ -1,5 +1,6 @@
-import json, requests, re, html, datetime, math
+import json, requests, re, html, datetime, math, os
 from typing import List, TypedDict
+from enum import Enum
 
 from reference.card_reference import *
 from reference.request_reference import *
@@ -753,9 +754,41 @@ def extract_specific_card_information(
     return card
         
 # search the card and write to a file
-def retrieve_card_information(filepath: str = "cards.json"):
-    file = open(filepath, mode = "w", encoding = "utf-8")
-    pass
+def write_card_information(
+        card_url: str,
+        folder_path: str | None = None,
+        file_name: str | None = None
+    ):
+
+    card = extract_specific_card_information(card_url)
+
+    if (folder_path is None):
+        folder_path = "cards/"
+
+    if (file_name is None):
+        file_name = f"{card.filename}.json"
+
+    # convert object to dictionary for parsing as JSON
+    # reference: https://stackoverflow.com/a/10252138/21952784
+    card_dict = card.__dict__
+    # convert value to string type for storing
+    for key in card_dict.keys():
+        # check if the value is an Enum
+        if (isinstance(card_dict[key], Enum)):
+            # take the string representation
+            card_dict[key] = card_dict[key].name
+        # check if the value is datetime
+        if (type(card_dict[key]) is datetime.date):
+            # convert date to string format
+            card_dict[key] = str(card_dict[key])
+
+    # convert dict to JSON with pretty print
+    # reference: https://stackoverflow.com/a/12944035/21952784
+    jsonString = json.dumps(card_dict, indent = 4)
+
+    file = open(os.path.join(folder_path, file_name), mode = "w", encoding = "utf-8")
+    file.write(jsonString)
+    file.close()
 
 if __name__ == "__main__":
     None
