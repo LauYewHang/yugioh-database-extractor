@@ -1,4 +1,4 @@
-import json, requests, re, html, datetime
+import json, requests, re, html, datetime, math
 from typing import List, TypedDict
 
 from reference.card_reference import *
@@ -312,6 +312,8 @@ def request_browse_specific_card(
 
     requestParameterDict = dict(REQUEST_BROWSING_PARAMETER_TEMPLATE)
 
+    # note that the default result per page is 100 for browsing specific card
+    # (easier to extract related cards information)
     if (type(result_per_page) is ResultsPerPage):
         requestParameterDict["rp"] = result_per_page.value
 
@@ -529,6 +531,62 @@ def extract_specific_card_information(
             releaseDateValueList = releaseDateString.split('-')
             releaseDate = datetime.date(int(releaseDateValueList[0]), int(releaseDateValueList[1]), int(releaseDateValueList[2]))
             break
+
+    # check for the related cards
+    # the number of related cards can be get from "Search Results: 1 - 10 of 39"
+    # (use request_search_results())
+    # the content for related cards is between:
+    # 1. <div class="list_style" id="relationCard">
+    # 2. <!-- ///count  -->
+    # note that for 1., from the website, it actually show:
+    # <div id="relationCard" class="list_style">
+    # (the order of class and id is reverse)
+    # so just in case, only check for the id
+    # some cards don't have related cards, so a try catch is needed
+    hasRelatedCard = True
+    relatedCardList: list = []
+    try:
+        relatedCardText = response_text.split("id=\"relationCard\"")[1]
+        relatedCardText = relatedCardText.split("<!-- ///count  -->")[0]
+        relatedCardTextList = relatedCardText.splitlines()
+    except:
+        hasRelatedCard = False
+
+    if (hasRelatedCard):
+        relatedCardSearchResults: TypeSearchResultsDict = {}
+        relatedCardSearchResults = request_search_results(response_text = relatedCardText)
+        # which page of the related card we are at
+        currentRelatedCardPage = 1
+        # how many results per page we want
+        resultsPerPage = ResultsPerPage["100"]
+        # get the maximum pages of related card (divide by resultsPerPage to calculate the maximum page, given we have x results per page)
+        # some cards only have a page of related card, so "total" - "current_end" would be 0,
+        # thus, the answer need to +1
+        maxRelatedCardPage = math.ceil((relatedCardSearchResults["total"] - relatedCardSearchResults["current_end"]) / resultsPerPage.value) + 1
+        for index in range(0, maxRelatedCardPage):
+            # the card name of related card is within
+            # <span class="card_name"> </span>
+            for textIndex in range(len(relatedCardTextList)):
+                if "class=\"card_name\"" in relatedCardTextList[textIndex]:
+                    relatedCardList.append("")
+                    for textIndex2 in range(textIndex + 1, len(relatedCardTextList)):
+                        if "</span>" not in relatedCardTextList[textIndex2]:
+                            relatedCardTextList[-1] += relatedCardTextList[textIndex2]
+                        else:
+                            # remove escape character
+                            relatedCardTextList[-1] = reFormat.sub('', re.escape(relatedCardTextList[-1]))
+                            break
+
+                # early break if it reaches the current_end (current maximum related card that can be retrieved)
+                if (len(relatedCardTextList) == relatedCardSearchResults["current_end"]):
+                    break
+
+            # after finishing the current page, retrieve the next page (if available)
+            # if (currentRelatedCardPage < maxRelatedCardPage):
+            #     print(response.request.url)
+            #     currentRelatedCardPage += 1
+                #nextResponseText = request_browse_specific_card()
+        print(len(relatedCardList))
 
 # search the card and write to a file
 def retrieve_card_information(filepath: str = "cards.json"):
