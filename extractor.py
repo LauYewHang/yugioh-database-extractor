@@ -749,6 +749,8 @@ def extract_specific_card_information(
             pendulum_effect = pendulumEffectText,
             pendulum_scale = int(valueInformationList[4])
         )
+
+    return card
         
 # search the card and write to a file
 def retrieve_card_information(filepath: str = "cards.json"):
