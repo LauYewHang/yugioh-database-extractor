@@ -8,7 +8,7 @@ class Card:
         self,
         name: str,
         card_text: str,
-        release_date: datetime.date,
+        release_date: datetime.date | None,
         available_set: list,
         related_card: list
     ):
@@ -46,7 +46,7 @@ class MonsterCard(Card):
         # inherited
         name: str,
         card_text: str,
-        release_date: datetime.date,
+        release_date: datetime.date | None,
         available_set: list,
         related_card: list,
         # extended
@@ -75,7 +75,7 @@ class NonLinkMonsterCard(MonsterCard):
         # inherited
         name: str,
         card_text: str,
-        release_date: datetime.date,
+        release_date: datetime.date | None,
         available_set: list,
         related_card: list,
         attribute: MonsterAttributes,
@@ -108,7 +108,7 @@ class LinkMonsterCard(MonsterCard):
         # inherited
         name: str,
         card_text: str,
-        release_date: datetime.date,
+        release_date: datetime.date | None,
         available_set: list,
         related_card: list,
         attribute: MonsterAttributes,
@@ -142,7 +142,7 @@ class PendulumMonsterCard(NonLinkMonsterCard):
         # inherited
         name: str,
         card_text: str,
-        release_date: datetime.date,
+        release_date: datetime.date | None,
         available_set: list,
         related_card: list,
         attribute: MonsterAttributes,
@@ -180,7 +180,7 @@ class NonMonsterCard(Card):
         # inherited
         name: str,
         card_text: str,
-        release_date: datetime.date,
+        release_date: datetime.date | None,
         available_set: list,
         related_card: list,
         # extended
