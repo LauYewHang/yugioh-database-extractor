@@ -4,10 +4,10 @@
     "card_text": "When this card is Normal or Special Summoned: You can change its battle position. \"Superheavy Samurai\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
     "release_date": "2014-08-15",
     "available_set": [
-        "2015 MEGA-TINS MEGA PACK",
-        "STAR PACK ARC-V",
         "DUELIST ALLIANCE",
-        "ASTRAL PACK SIX"
+        "2015 MEGA-TINS MEGA PACK",
+        "ASTRAL PACK SIX",
+        "STAR PACK ARC-V"
     ],
     "related_card": [
         "Superheavy Samurai Battleball",
@@ -61,7 +61,7 @@
     "attack": 1000,
     "defense": 3500,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

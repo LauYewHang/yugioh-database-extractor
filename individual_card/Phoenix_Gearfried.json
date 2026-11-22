@@ -4,16 +4,16 @@
     "card_text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cfIf your opponent activates a Spell Card: You can target 1 Gemini monster in your Graveyard; Special Summon that target. During either player's turn, when a Spell/Trap Card is activated that targets a monster(s) on the field: You can send 1 face-up Equip Card you control to the Graveyard; negate the activation, and if you do, destroy it.",
     "release_date": "2009-10-27",
     "available_set": [
-        "LEGENDARY DECKS II",
         "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "WARRIORS' STRIKE STRUCTURE DECK"
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "LEGENDARY DECKS II"
     ],
     "related_card": [],
     "attribute": "FIRE",
     "attack": 2800,
     "defense": 2200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 514,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

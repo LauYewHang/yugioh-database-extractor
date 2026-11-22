@@ -4,10 +4,10 @@
     "card_text": "7 \"Crystal Beast\" monsters\n(This card is always treated as an \"Ultimate Crystal\" card.)\nMust be either Fusion Summoned, or Special Summoned by Tributing 1 Level 10 \"Ultimate Crystal\" monster. Once per turn: You can banish 1 \"Crystal Beast\" monster from your GY; this card gains ATK equal to the banished monster's, until the end of this turn. (Quick Effect): You can Tribute this Fusion Summoned card; shuffle all cards on the field into the Deck.",
     "release_date": "2018-02-23",
     "available_set": [
-        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
-        "LEGENDARY DUELISTS: SEASON 1",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
         "SPEED DUEL GX: DUEL ACADEMY BOX",
-        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS"
+        "LEGENDARY DUELISTS: SEASON 1",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM"
     ],
     "related_card": [
         "Advanced Crystal Beast Amber Mammoth",
@@ -41,7 +41,7 @@
     "attack": 4000,
     "defense": 0,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 12
 }

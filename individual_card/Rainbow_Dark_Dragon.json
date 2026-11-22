@@ -4,14 +4,14 @@
     "card_text": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your GY. You can banish all other DARK monsters from your field and GY; this card gains 500 ATK for each card banished this way.",
     "release_date": "2008-02-13",
     "available_set": [
-        "RA YELLOW MEGA PACK",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
         "SPEED DUEL GX: DUEL ACADEMY BOX",
         "LEGENDARY DUELISTS: SEASON 1",
         "BATTLES OF LEGEND: RELENTLESS REVENGE",
-        "STRUCTURE DECK: SACRED BEASTS",
-        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "RA YELLOW MEGA PACK",
         "PHANTOM DARKNESS",
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+        "STRUCTURE DECK: SACRED BEASTS"
     ],
     "related_card": [
         "Advanced Dark",
@@ -31,7 +31,7 @@
     "attack": 4000,
     "defense": 0,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

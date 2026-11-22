@@ -4,8 +4,8 @@
     "card_text": "Cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. You can Tribute any number of WATER monsters for the Tribute Summon of this card. If this card is Tribute Summoned: Place 1 Fog Counter on it for each WATER monster you Tributed. This card gains 500 ATK for each Fog Counter on the field.",
     "release_date": "2007-11-14",
     "available_set": [
-        "GLADIATOR'S ASSAULT",
-        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "GLADIATOR'S ASSAULT"
     ],
     "related_card": [
         "Cloudian - Acid Cloud",
@@ -31,7 +31,7 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

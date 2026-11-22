@@ -4,8 +4,8 @@
     "card_text": "While this card is an Equip Card, your opponent cannot target the equipped monster with card effects. You can only use each of the following effects of \"Infernoble Knight Oliver\" once per turn. You can send 1 FIRE Warrior monster or 1 Equip Spell from your hand or face-up field to the GY; Special Summon this card from your hand as a Level 1 monster. If this card is in your GY: You can target 1 Warrior monster you control; equip this card to that monster you control.",
     "release_date": "2020-08-07",
     "available_set": [
-        "RISE OF THE DUELIST",
-        "2021 TIN OF ANCIENT BATTLES"
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST"
     ],
     "related_card": [
         "Artorigus, King of the Noble Knights",
@@ -46,7 +46,7 @@
     "attack": 1000,
     "defense": 1500,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

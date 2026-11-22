@@ -4,13 +4,13 @@
     "card_text": "Negate your opponent's Spell effects that target this card. During your Standby Phase: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV5\" from your hand or Deck. You cannot activate this effect the turn this card is Summoned or flipped face-up.",
     "release_date": "2004-12-01",
     "available_set": [
-        "YUGI'S LEGENDARY DECKS",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "DARK REVELATION Volume 3",
-        "STARTER DECK YUGI RELOADED",
         "RISE OF DESTINY",
-        "DUELIST PACK - RIVALS OF THE PHARAOH -",
-        "DUEL TERMINAL 5A"
+        "STARTER DECK YUGI RELOADED",
+        "YUGI'S LEGENDARY DECKS",
+        "DUEL TERMINAL 5A",
+        "DARK REVELATION Volume 3",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -"
     ],
     "related_card": [
         "Level Down!?",
@@ -26,7 +26,7 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

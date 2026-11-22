@@ -6,8 +6,8 @@
     "available_set": [
         "QUARTER CENTURY BONANZA",
         "2020 TIN OF LOST MEMORIES",
-        "RISING RAMPAGE",
         "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
+        "RISING RAMPAGE",
         "MAXIMUM GOLD: EL DORADO"
     ],
     "related_card": [
@@ -39,7 +39,7 @@
     "attack": 1850,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

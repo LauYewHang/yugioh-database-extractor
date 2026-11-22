@@ -4,15 +4,15 @@
     "card_text": "If a monster(s) is Special Summoned by your Trap effect (except during the Damage Step): You can Special Summon this card from your hand or GY, but if you Summon it from the GY, banish it when it leaves the field. During your opponent's Battle Phase (Quick Effect): You can activate 1 of these effects;\n\u25cfImmediately after this effect resolves, Synchro Summon using this card you control.\n\u25cfImmediately after this effect resolves, Xyz Summon using this card you control.\nYou can only use each effect of \"Magicolloidal Sol\" once per turn.",
     "release_date": "2024-07-19",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "THE INFINITE FORBIDDEN"
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 400,
     "defense": 300,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

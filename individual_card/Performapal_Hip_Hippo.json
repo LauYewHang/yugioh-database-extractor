@@ -4,10 +4,10 @@
     "card_text": "After you Normal Summon this card, you can Tribute Summon 1 Level 7 or higher monster in face-up Attack Position during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
     "release_date": "2014-08-15",
     "available_set": [
-        "STAR PACK ARC-V",
-        "DUELIST ALLIANCE DELUXE EDITION",
         "DUELIST ALLIANCE",
         "2015 MEGA-TINS MEGA PACK",
+        "DUELIST ALLIANCE DELUXE EDITION",
+        "STAR PACK ARC-V",
         "STARTER DECK YUYA"
     ],
     "related_card": [
@@ -83,7 +83,7 @@
     "attack": 800,
     "defense": 800,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

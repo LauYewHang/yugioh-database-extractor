@@ -4,8 +4,8 @@
     "card_text": "A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.",
     "release_date": "2013-10-11",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "SPEED DUEL: ARENA OF LOST SOULS"
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Great Mammoth of Goldfine",
@@ -15,7 +15,7 @@
     "attack": 1500,
     "defense": 1200,
     "monster_type": "Zombie",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

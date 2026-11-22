@@ -4,8 +4,8 @@
     "card_text": "\"Elemental HERO Neos\" + 1 \"Wingman\" Fusion Monster\nMust be Fusion Summoned. Gains 300 ATK for each monster in your GY, also cannot be destroyed by card effects. If this card is Special Summoned: You can destroy cards your opponent controls up to the number of different Attributes among the monsters on the field. You can only use this effect of \"Elemental HERO Shining Neos Wingman\" once per turn. If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK.",
     "release_date": "2022-08-05",
     "available_set": [
-        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "POWER OF THE ELEMENTS"
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS"
     ],
     "related_card": [
         "A Hero Lives",
@@ -146,7 +146,7 @@
     "attack": 3100,
     "defense": 2500,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

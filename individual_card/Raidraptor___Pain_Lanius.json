@@ -4,8 +4,8 @@
     "card_text": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a Winged Beast-Type monster. If this card is in your hand: You can target 1 \"Raidraptor\" monster you control that has a Level; take damage equal to its ATK or DEF (whichever is lower, but your choice if tied), and if you do, Special Summon this card, and if you do that, this card's Level becomes the current Level of the targeted monster. You can only use this effect of \"Raidraptor - Pain Lanius\" once per turn.",
     "release_date": "2016-05-06",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
-        "SHINING VICTORIES"
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Phantom Knights' Rank-Up-Magic Force",
@@ -67,7 +67,7 @@
     "attack": 100,
     "defense": 100,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

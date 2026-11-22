@@ -4,8 +4,8 @@
     "card_text": "Once per turn, you can either: Target 1 Fairy monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead. When the equipped monster declares an attack: You can have it gain 500 ATK. (This ATK gain remains even if this card leaves the field.)",
     "release_date": "2019-05-03",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "DARK NEOSTORM"
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES"
     ],
     "related_card": [
         "Apple of Enlightenment",
@@ -32,7 +32,7 @@
     "attack": 500,
     "defense": 1000,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 258,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

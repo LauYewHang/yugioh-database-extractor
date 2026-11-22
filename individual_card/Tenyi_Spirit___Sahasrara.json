@@ -4,8 +4,8 @@
     "card_text": "2+ Wyrm monsters\nWhile you control a face-up non-Effect Monster, monsters your opponent controls cannot target Effect Monsters for attacks, also your opponent cannot target Effect Monsters on the field with card effects. (Quick Effect): You can target 1 Effect Monster your opponent controls; Special Summon 1 \"Tenyi Spirit Token\" (Wyrm/LIGHT/Level 4/ATK ?/DEF 0). This Token's ATK becomes that targeted monster's original ATK. You can only use this effect of \"Tenyi Spirit - Sahasrara\" once per turn.",
     "release_date": "2020-03-20",
     "available_set": [
-        "OTS TOURNAMENT PACK 17",
-        "DUEL OVERLOAD"
+        "DUEL OVERLOAD",
+        "OTS TOURNAMENT PACK 17"
     ],
     "related_card": [
         "Heavenly Dragon Circle",
@@ -19,7 +19,7 @@
     "attack": 3000,
     "defense": null,
     "monster_type": "Wyrm",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 780
 }

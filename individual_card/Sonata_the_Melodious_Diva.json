@@ -4,8 +4,8 @@
     "card_text": "If you control a \"Melodious\" monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.",
     "release_date": "2014-08-15",
     "available_set": [
-        "2015 MEGA-TINS MEGA PACK",
-        "DUELIST ALLIANCE"
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "1st Movement Solo",
@@ -39,7 +39,7 @@
     "attack": 1200,
     "defense": 1000,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

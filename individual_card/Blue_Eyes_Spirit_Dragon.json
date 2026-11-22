@@ -5,10 +5,10 @@
     "release_date": "2016-05-06",
     "available_set": [
         "SHINING VICTORIES",
-        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
-        "2016 MEGA-TINS",
         "25TH ANNIVERSARY RARITY COLLECTION 2",
-        "LEGENDARY DUELISTS: SEASON 2"
+        "2016 MEGA-TINS",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY"
     ],
     "related_card": [
         "Beacon of White",
@@ -55,7 +55,7 @@
     "attack": 2500,
     "defense": 3000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

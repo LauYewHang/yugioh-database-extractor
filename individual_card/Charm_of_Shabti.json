@@ -4,9 +4,9 @@
     "card_text": "During either player's turn: You can discard this card; until the End Phase, \"Gravekeeper's\" monsters you control cannot be destroyed by battle.",
     "release_date": "2003-07-18",
     "available_set": [
+        "DARK REVELATION Volume 1",
         "PHARAONIC GUARDIAN",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "DARK REVELATION Volume 1"
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Gravekeeper's Ambusher",
@@ -40,7 +40,7 @@
     "attack": 100,
     "defense": 100,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

@@ -4,13 +4,13 @@
     "card_text": "If you control a \"Blackwing\" monster, you can Normal Summon this card without Tributing. When this card is Normal Summoned: You can target 1 monster your opponent controls; change that target's battle position.",
     "release_date": "2009-05-12",
     "available_set": [
-        "EXCLUSIVE TINS 2009",
-        "DUELIST PACK - CROW -",
         "LEGENDARY COLLECTION 5D's MEGA PACK",
-        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
         "MAZE OF MEMORIES",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
         "RAGING BATTLE",
-        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+        "EXCLUSIVE TINS 2009",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DUELIST PACK - CROW -"
     ],
     "related_card": [
         "Against the Wind",
@@ -96,7 +96,7 @@
     "attack": 2200,
     "defense": 1200,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

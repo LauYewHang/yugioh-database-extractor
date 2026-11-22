@@ -7,17 +7,17 @@
         "TOON CHAOS",
         "25TH ANNIVERSARY TIN: DUELING HEROES",
         "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "COLLECTIBLE TIN SERIES 5 WAVE 1",
+        "DUEL POWER VARIANT CARDS",
         "Legendary 5D's Decks",
+        "DAWN OF MAJESTY",
+        "PREMIUM GOLD",
         "GOLD SERIES 3",
         "SHADOW SPECTERS SPECIAL EDITION",
-        "COLLECTIBLE TIN 2010 WAVE 2",
-        "COLLECTIBLE TIN SERIES 5 WAVE 1",
-        "PREMIUM GOLD",
-        "THE DUELIST GENESIS",
-        "TURBO PACK BOOSTER SIX",
         "DUELIST PACK - YUSEI -",
-        "DUEL POWER VARIANT CARDS",
-        "DAWN OF MAJESTY"
+        "COLLECTIBLE TIN 2010 WAVE 2",
+        "THE DUELIST GENESIS",
+        "TURBO PACK BOOSTER SIX"
     ],
     "related_card": [
         "Accel Synchro Stardust Dragon",
@@ -58,7 +58,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

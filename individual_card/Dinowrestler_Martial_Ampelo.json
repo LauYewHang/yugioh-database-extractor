@@ -4,8 +4,8 @@
     "card_text": "During damage calculation, if your other \"Dinowrestler\" monster battles an opponent's monster with an equal or higher ATK (Quick Effect): You can send this card from your hand or field to the GY; for that battle, your monster cannot be destroyed and the battle damage you take is halved. When an opponent's monster declares an attack: You can banish this card from your GY; add 1 \"Dinowrestler\" monster from your Deck to your hand, except \"Dinowrestler Martial Ampelo\". You can only use this effect of \"Dinowrestler Martial Ampelo\" once per turn.",
     "release_date": "2019-10-25",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "CHAOS IMPACT"
+        "CHAOS IMPACT",
+        "2020 TIN OF LOST MEMORIES"
     ],
     "related_card": [
         "Dinowrestler Capaptera",
@@ -31,7 +31,7 @@
     "attack": 600,
     "defense": 0,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

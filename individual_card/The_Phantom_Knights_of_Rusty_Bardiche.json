@@ -4,8 +4,8 @@
     "card_text": "2+ DARK monsters\nDuring your Main Phase: You can send 1 \"The Phantom Knights\" monster from your Deck to the GY, then Set 1 \"Phantom Knights\" Spell/Trap directly from your Deck to your Spell & Trap Zone. If a DARK Xyz Monster(s) is Special Summoned to a zone(s) this card points to, while this monster is on the field (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use each effect of \"The Phantom Knights of Rusty Bardiche\" once per turn. Cannot be used as Link Material.",
     "release_date": "2018-10-12",
     "available_set": [
-        "Gold Series: Maximum Gold",
-        "LEGENDARY HERO DECKS"
+        "LEGENDARY HERO DECKS",
+        "Gold Series: Maximum Gold"
     ],
     "related_card": [
         "Dark Rebellion Xyz Dragon, Four Heavenly Dragons",
@@ -46,7 +46,7 @@
     "attack": 2100,
     "defense": null,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 74
 }

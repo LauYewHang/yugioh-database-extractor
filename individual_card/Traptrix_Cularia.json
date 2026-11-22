@@ -4,9 +4,9 @@
     "card_text": "2 Insect and/or Plant monsters\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Cularia\" once per turn. After you activate a \"Hole\" Normal Trap Card, you can Set it instead of sending it to the GY. During your End Phase: You can target 1 \"Traptrix\" monster in your GY; Special Summon it in Defense Position.",
     "release_date": "2021-06-04",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
         "LIGHTNING OVERDRIVE",
-        "STRUCTURE DECK: BEWARE OF TRAPTRIX"
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Acid Trap Hole",
@@ -55,7 +55,7 @@
     "attack": 1800,
     "defense": null,
     "monster_type": "Plant",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 68
 }

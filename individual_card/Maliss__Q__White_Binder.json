@@ -4,8 +4,8 @@
     "card_text": "2+ monsters, including a \"Maliss\" monster\nIf this card is Special Summoned: You can target up to 3 cards in any GY(s); banish them. During your Main Phase: You can Set 1 \"Maliss\" Trap from your Deck or GY. If this card is banished: You can pay 900 LP; Special Summon it, then you can draw 1 card. You can only use each effect of \"Maliss <Q> White Binder\" once per turn.",
     "release_date": "2024-12-06",
     "available_set": [
-        "CROSSOVER BREAKERS",
-        "2025 MEGA-PACK TIN"
+        "2025 MEGA-PACK TIN",
+        "CROSSOVER BREAKERS"
     ],
     "related_card": [
         "Maliss <C> GWC-06",
@@ -24,7 +24,7 @@
     "attack": 2300,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 336
 }

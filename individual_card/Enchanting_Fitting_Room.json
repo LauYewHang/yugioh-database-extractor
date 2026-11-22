@@ -4,11 +4,11 @@
     "card_text": "Pay 800 LP; excavate the top 4 cards of your Deck and Special Summon all excavated Level 3 or lower Normal Monsters, also, after that, shuffle the rest back into your Deck.",
     "release_date": "2004-06-01",
     "available_set": [
-        "DARK REVELATION Volume 2",
-        "SPEED DUEL TOURNAMENT PACK 02",
-        "The Lost Art Promotion 6",
         "ANCIENT SANCTUARY",
-        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS"
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "The Lost Art Promotion 6",
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "DARK REVELATION Volume 2"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

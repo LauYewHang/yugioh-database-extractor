@@ -4,17 +4,17 @@
     "card_text": "A feared salmon, master of the Sea of Darkness. Its roe is the best delicacy in the World of Darkness.",
     "release_date": "2004-03-01",
     "available_set": [
-        "INVASION OF CHAOS",
         "DARK REVELATION Volume 2",
         "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "INVASION OF CHAOS"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 2400,
     "defense": 1000,
     "monster_type": "Fish",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

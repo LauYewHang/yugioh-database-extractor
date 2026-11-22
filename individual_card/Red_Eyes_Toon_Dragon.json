@@ -4,9 +4,9 @@
     "card_text": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn: You can Special Summon 1 Toon monster from your hand, except \"Red-Eyes Toon Dragon\", ignoring its Summoning conditions.",
     "release_date": "2016-05-06",
     "available_set": [
-        "MAGNIFICENT MAESTROS",
+        "SHINING VICTORIES",
         "LEGENDARY DUELISTS: SEASON 1",
-        "SHINING VICTORIES"
+        "MAGNIFICENT MAESTROS"
     ],
     "related_card": [
         "Animimicat",
@@ -49,7 +49,7 @@
     "attack": 2400,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 66,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

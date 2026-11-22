@@ -4,8 +4,8 @@
     "card_text": "With her magical staff, she can channel the living heart of her world to shield her people from the Mekk-Knights that have overrun it.",
     "release_date": "2017-08-04",
     "available_set": [
-        "CODE OF THE DUELIST",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST"
     ],
     "related_card": [
         "Auram the World Chalice Blademaster",
@@ -22,7 +22,7 @@
     "attack": 0,
     "defense": 2100,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

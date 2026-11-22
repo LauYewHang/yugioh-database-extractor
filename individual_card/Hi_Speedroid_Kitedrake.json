@@ -4,10 +4,10 @@
     "card_text": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects;\n\u25cfDestroy all other cards on the field.\n\u25cfNegate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by an opponent's card: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
     "release_date": "2019-07-12",
     "available_set": [
-        "BATTLES OF LEGEND: HERO'S REVENGE",
         "LEGENDARY ARC-V DECKS",
-        "LEGENDARY DUELISTS: SYNCHRO STORM",
-        "BATTLES OF LEGEND - CHAPTER 1"
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
     ],
     "related_card": [
         "Ambulanceroid",
@@ -74,7 +74,7 @@
     "attack": 3000,
     "defense": 2800,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

@@ -4,9 +4,9 @@
     "card_text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can Special Summon 1 \"Photon\" monster from your hand. While this Xyz Summoned monster is on the field, your opponent cannot target monsters you control with 2000 or more ATK with card effects, also they cannot be destroyed by your opponent's card effects. Once per opponent's turn (Quick Effect): You can detach 1 material from this card, then target 1 of your \"Galaxy-Eyes Photon Dragon\" that is banished or in your GY; Special Summon it.",
     "release_date": "2018-09-28",
     "available_set": [
-        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
         "LEGENDARY DUELISTS: SEASON 2",
-        "2025 MEGA-PACK TIN"
+        "2025 MEGA-PACK TIN",
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
     ],
     "related_card": [
         "Accellight",
@@ -76,7 +76,7 @@
     "attack": 1800,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

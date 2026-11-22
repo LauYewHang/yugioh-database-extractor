@@ -4,15 +4,15 @@
     "card_text": "Known to many as the \"Burning Executioner\", this monster is capable of burning enemies to cinders.",
     "release_date": "2002-06-26",
     "available_set": [
-        "METAL RAIDERS (LC01 25th Anniversary Edition)",
-        "METAL RAIDERS"
+        "METAL RAIDERS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)"
     ],
     "related_card": [],
     "attribute": "FIRE",
     "attack": 2100,
     "defense": 1800,
     "monster_type": "Pyro",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

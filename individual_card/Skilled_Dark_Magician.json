@@ -4,19 +4,19 @@
     "card_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or GY.",
     "release_date": "2003-10-10",
     "available_set": [
-        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1",
+        "DEMO PROGRESSION SET 2026",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "STARTER DECK YUGI RELOADED",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
         "YUGI'S LEGENDARY DECKS",
         "SPEED DUEL: STREETS OF BATTLE CITY",
-        "DEMO PROGRESSION SET 2026",
-        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
-        "SPEED DUEL TOURNAMENT PACK 7",
         "DUELIST LEAGUE 15",
-        "TOURNAMENT PACK 7",
-        "DARK REVELATION Volume 1",
-        "STARTER DECK YUGI RELOADED",
-        "LEGENDARY DRAGON DECKS",
         "SPELLCASTER'S COMMAND STRUCTURE DECK",
-        "STRUCTURE DECK : YUGI MUTO"
+        "STRUCTURE DECK : YUGI MUTO",
+        "MAGICIAN'S FORCE",
+        "LEGENDARY DRAGON DECKS",
+        "TOURNAMENT PACK 7"
     ],
     "related_card": [
         "Alchemist of Black Spells",
@@ -108,7 +108,7 @@
     "attack": 1900,
     "defense": 1700,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

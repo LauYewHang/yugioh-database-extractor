@@ -6,9 +6,9 @@
     "available_set": [
         "LEGENDARY COLLECTION 5D's MEGA PACK",
         "DUELIST LEAGUE 2",
-        "BROTHERS OF LEGEND",
+        "DUEL TERMINAL 5B",
         "THE DUELIST GENESIS",
-        "DUEL TERMINAL 5B"
+        "BROTHERS OF LEGEND"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -44,7 +44,7 @@
     "attack": 2700,
     "defense": 2300,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

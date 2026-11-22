@@ -4,9 +4,9 @@
     "card_text": "Activate this card by declaring 1 Monster Type and 1 Attribute; Special Summon this card as a Normal Monster (Level 4/ATK 0/DEF 2200) with that Type and Attribute. (This card is also still a Trap.)",
     "release_date": "2014-08-01",
     "available_set": [
-        "STRUCTURE DECK : CYBERSE LINK",
         "BATTLE PACK 3 MONSTER LEAGUE",
-        "Speed Duel: Battle City Box"
+        "Speed Duel: Battle City Box",
+        "STRUCTURE DECK : CYBERSE LINK"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

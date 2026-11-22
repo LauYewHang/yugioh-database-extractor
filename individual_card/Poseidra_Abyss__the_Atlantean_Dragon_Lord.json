@@ -4,9 +4,9 @@
     "card_text": "3 Level 7 monsters\nOnce per turn, you can also Xyz Summon \"Poseidra Abyss, the Atlantean Dragon Lord\" by using 1 \"Atlantean\" or \"Mermail\" Xyz Monster you control (transfer its materials to this card). Once per turn: You can detach 2 materials from this card, then send 1 WATER monster from your hand or Deck to the GY; return up to 3 cards your opponent controls to the hand. If this Xyz Summoned card is sent to the GY: You can discard 1 card to the GY; Special Summon 3 Level 3 or lower Fish, Sea Serpent, and/or Aqua monsters from your hand and/or GY.",
     "release_date": "2024-10-11",
     "available_set": [
+        "RAGE OF THE ABYSS",
         "LIMITED PACK WORLD CHAMPIONSHIP 2025",
-        "2025 MEGA-PACK TIN",
-        "RAGE OF THE ABYSS"
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Abyss-sting Triaina",
@@ -47,7 +47,7 @@
     "attack": 3000,
     "defense": 1800,
     "monster_type": "Sea Serpent",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 7
 }

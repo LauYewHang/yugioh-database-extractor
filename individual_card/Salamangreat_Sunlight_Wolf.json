@@ -4,11 +4,11 @@
     "card_text": "2 FIRE Effect Monsters\nIf a monster(s) is Normal or Special Summoned to the zone(s) this card points to (except during the Damage Step): You can add 1 FIRE monster from your GY to your hand, but for the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters with the added monster's name. During your Main Phase, if you control this card that was Link Summoned using \"Salamangreat Sunlight Wolf\" as material: You can add 1 \"Salamangreat\" Spell/Trap from your GY to your hand. You can only use each effect of \"Salamangreat Sunlight Wolf\" once per turn.",
     "release_date": "2019-02-01",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "OTS TOURNAMENT PACK 10",
         "SAVAGE STRIKE",
-        "BATTLES OF LEGEND: ARMAGEDDON",
-        "OTS TOURNAMENT PACK 10"
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "2020 TIN OF LOST MEMORIES",
+        "BATTLES OF LEGEND: ARMAGEDDON"
     ],
     "related_card": [
         "Burning Draw",
@@ -63,7 +63,7 @@
     "attack": 1800,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 260
 }

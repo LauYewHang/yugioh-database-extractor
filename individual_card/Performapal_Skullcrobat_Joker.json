@@ -4,12 +4,12 @@
     "card_text": "When this card is Normal Summoned: You can add 1 \"Performapal\" monster, \"Magician\" Pendulum Monster, or \"Odd-Eyes\" monster from your Deck to your hand, except \"Performapal Skullcrobat Joker\".",
     "release_date": "2015-12-04",
     "available_set": [
-        "MASTER OF PENDULUM STRUCTURE DECK",
-        "LEGENDARY ARC-V DECKS",
         "PENDULUM EVOLUTION",
+        "OTS TOURNAMENT PACK 19",
+        "MASTER OF PENDULUM STRUCTURE DECK",
         "OTS TOURNAMENT PACK 1",
         "LEGENDARY DRAGON DECKS",
-        "OTS TOURNAMENT PACK 19",
+        "LEGENDARY ARC-V DECKS",
         "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
@@ -175,7 +175,7 @@
     "attack": 1800,
     "defense": 100,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "You cannot Pendulum Summon monsters, except \"Performapal\" monsters, \"Magician\" Pendulum Monsters, and \"Odd-Eyes\" monsters. This effect cannot be negated.",

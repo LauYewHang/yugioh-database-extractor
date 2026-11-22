@@ -4,9 +4,9 @@
     "card_text": "2 \"Trickstar\" monsters\nEach time a \"Trickstar\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, inflict 200 damage to your opponent. \"Trickstar\" monsters this card points to cannot be destroyed by battle or card effects. If your opponent takes damage by a \"Trickstar\" monster's effect: This card gains ATK equal to the damage they took, until the end of this turn.",
     "release_date": "2017-08-04",
     "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
         "DUEL POWER",
-        "CODE OF THE DUELIST",
-        "2018 MEGA-TINS MEGA PACK"
+        "CODE OF THE DUELIST"
     ],
     "related_card": [
         "Trickstar Aqua Angel",
@@ -44,7 +44,7 @@
     "attack": 2000,
     "defense": null,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

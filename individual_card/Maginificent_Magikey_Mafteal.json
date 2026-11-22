@@ -4,8 +4,8 @@
     "card_text": "Cannot be used as material for a Synchro or Xyz Summon, except for the Synchro or Xyz Summon of a \"Magikey\" monster. If you control a \"Magikey\" monster: You can reveal this card in your hand; you can Normal Summon 1 \"Magikey\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When this card is Normal Summoned: You can target 1 Level 4 or lower Normal Monster, or Level 4 or lower \"Magikey\" monster, in your GY; Special Summon it in Defense Position. You can only use this effect of \"Maginificent Magikey Mafteal\" once per turn.",
     "release_date": "2021-11-05",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "BURST OF DESTINY"
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Clavkiys, the Magikey Skyblaster",
@@ -27,7 +27,7 @@
     "attack": 1600,
     "defense": 1600,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

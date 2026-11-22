@@ -5,17 +5,17 @@
     "release_date": "2008-11-18",
     "available_set": [
         "SECRET SLAYERS",
-        "ASTRAL PACK FOUR",
         "PREMIUM GOLD",
-        "GOLD SERIES 4 PYRAMIDS EDITION",
-        "CROSSROADS OF CHAOS"
+        "CROSSROADS OF CHAOS",
+        "ASTRAL PACK FOUR",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": 2800,
     "defense": 2600,
     "monster_type": "Plant",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

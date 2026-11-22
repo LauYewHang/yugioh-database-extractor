@@ -4,8 +4,8 @@
     "card_text": "1 Level 5 or higher \"D/D\" monster + 1 \"D/D\" monster\nIf another \"D/D\" monster(s) is Normal or Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 \"D/D\" monster in your GY; Special Summon it. You can only use this effect of \"D/D/D Flame High King Genghis\" once per turn. Once per your turn, when a Spell/Trap Card, or its effect, is activated (Quick Effect): You can negate the activation.",
     "release_date": "2018-10-19",
     "available_set": [
-        "SOUL FUSION",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
     ],
     "related_card": [
         "D/D Ark",
@@ -90,7 +90,7 @@
     "attack": 2800,
     "defense": 2400,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

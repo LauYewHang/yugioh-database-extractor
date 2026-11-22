@@ -4,10 +4,10 @@
     "card_text": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up Spellcaster monster and 1 face-up Level 4 or lower WATER monster you control to the GY. You can only use each of the following effects of \"Awakening of the Possessed - Gagigobyte\" once per turn. When this card is Special Summoned by its effect: You can send 1 random card from your opponent's hand to the GY, then each player draws 1 card. If this card is sent from the field to the GY: You can add 1 \"Spiritual Water Art\" card or 1 \"Possessed\" Spell/Trap from your Deck to your hand.",
     "release_date": "2020-09-11",
     "available_set": [
-        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
         "PHANTOM RAGE",
         "2021 TIN OF ANCIENT BATTLES",
-        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
     ],
     "related_card": [
         "Awakening of the Possessed",
@@ -21,7 +21,7 @@
     "attack": 2000,
     "defense": 200,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

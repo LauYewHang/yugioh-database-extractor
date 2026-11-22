@@ -4,8 +4,8 @@
     "card_text": "(This card is always treated as a \"Mermail\" card.)\nYou can Tribute this card from your hand and 1 \"Atlantean\" or \"Mermail\" monster from your hand or field; take 1 Level 7 Fish, Sea Serpent, or Aqua monster from your Deck and either add it to your hand or Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. During your opponent's turn (Quick Effect): You can banish this card from your GY and discard 1 card to the GY; draw 1 card. You can only use each effect of \"Abyssrhine, the Atlantean Spirit\" once per turn.",
     "release_date": "2024-10-11",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "RAGE OF THE ABYSS"
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Abyss-scale of Cetus",
@@ -53,7 +53,7 @@
     "attack": 1600,
     "defense": 1600,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

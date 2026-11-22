@@ -4,8 +4,8 @@
     "card_text": "Once per turn, during either player's turn: You can target 1 face-up \"Vylon\" Equip Card you control and 1 appropriate face-up monster; equip the first target to the second target.",
     "release_date": "2012-05-25",
     "available_set": [
-        "HIDDEN ARSENAL 6 OMEGA XYZ",
-        "DUEL TERMINAL 6B"
+        "DUEL TERMINAL 6B",
+        "HIDDEN ARSENAL 6 OMEGA XYZ"
     ],
     "related_card": [
         "Vylon Alpha",
@@ -38,7 +38,7 @@
     "attack": 1600,
     "defense": 1000,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

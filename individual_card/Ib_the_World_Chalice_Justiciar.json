@@ -4,10 +4,10 @@
     "card_text": "1 Tuner + 1+ non-Tuners\nFor this card's Synchro Summon, you can treat 1 \"World Chalice\" Normal Monster you control as a Tuner. You can only use each of the following effects of \"Ib the World Chalice Justiciar\" once per turn.\n\u25cfIf this card is Synchro Summoned: You can add 1 \"World Legacy\" card from your Deck to your hand.\n\u25cfIf this Synchro Summoned card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your Deck or GY, except \"Ib the World Chalice Justiciar\".",
     "release_date": "2019-05-03",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
         "DARK NEOSTORM",
+        "MAGNIFICENT MONSTERS",
         "BATTLES OF LEGEND: TERMINAL REVENGE",
-        "MAGNIFICENT MONSTERS"
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "Auram the World Chalice Blademaster",
@@ -60,7 +60,7 @@
     "attack": 1800,
     "defense": 2100,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1042,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

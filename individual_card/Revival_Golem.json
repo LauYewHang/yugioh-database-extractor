@@ -4,15 +4,15 @@
     "card_text": "If this card is sent from the Deck to the GY: Activate 1 of these effects;\n\u25cfSpecial Summon this card.\n\u25cfAdd this card to your hand.\nYou can only use this effect of \"Revival Golem\" once per turn.",
     "release_date": "2012-08-28",
     "available_set": [
-        "RETURN OF THE DUELIST",
-        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "RETURN OF THE DUELIST"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 100,
     "defense": 2100,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

@@ -5,8 +5,8 @@
     "release_date": "2022-06-17",
     "available_set": [
         "OTS TOURNAMENT PACK 30",
-        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
-        "Justice Hunters"
+        "Justice Hunters",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
     ],
     "related_card": [
         "CXyz N.As.Ch. Knight",
@@ -178,7 +178,7 @@
     "attack": 1700,
     "defense": 2700,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

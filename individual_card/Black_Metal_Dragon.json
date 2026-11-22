@@ -4,12 +4,12 @@
     "card_text": "You can target 1 \"Red-Eyes\" monster you control; equip this monster from your hand or field to that target. It gains 600 ATK. If this card is sent from the field to the GY: You can add 1 \"Red-Eyes\" card from your Deck to your hand.",
     "release_date": "2015-08-07",
     "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "OTS TOURNAMENT PACK 6",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
         "LEGENDARY DECKS II",
         "CLASH OF REBELLIONS",
-        "LEGENDARY DUELISTS: SEASON 1",
-        "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "QUARTER CENTURY STAMPEDE",
-        "OTS TOURNAMENT PACK 6"
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Gearfried the Red-Eyes Iron Knight",
@@ -50,7 +50,7 @@
     "attack": 600,
     "defense": 600,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

@@ -4,8 +4,8 @@
     "card_text": "If this card inflicts battle damage to your opponent, at the end of that Damage Step: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied), and if you do, this card loses 800 ATK.",
     "release_date": "2013-03-08",
     "available_set": [
-        "STAR PACK 2014",
-        "ZEXAL COLLECTION TIN"
+        "ZEXAL COLLECTION TIN",
+        "STAR PACK 2014"
     ],
     "related_card": [
         "Dodododo Warrior",
@@ -24,7 +24,7 @@
     "attack": 1800,
     "defense": 600,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

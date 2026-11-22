@@ -4,8 +4,8 @@
     "card_text": "\"Des Frog\" + \"Des Frog\" + \"Des Frog\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card gains 500 ATK for each \"Treeborn Frog\" in your Graveyard.",
     "release_date": "2006-02-18",
     "available_set": [
-        "DARK REVELATION Volume 4",
-        "SHADOW OF INFINITY"
+        "SHADOW OF INFINITY",
+        "DARK REVELATION Volume 4"
     ],
     "related_card": [
         "Des Frog",
@@ -24,7 +24,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

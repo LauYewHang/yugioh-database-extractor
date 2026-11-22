@@ -4,8 +4,8 @@
     "card_text": "You can discard 1 other \"HERO\" monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can place 1 \"Vision HERO\" monster from your Deck, except \"Vision HERO Faris\", in your Spell & Trap Zone as a face-up Continuous Trap, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"HERO\" monsters. You can only use each effect of \"Vision HERO Faris\" once per turn.",
     "release_date": "2019-07-12",
     "available_set": [
-        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
         "25TH ANNIVERSARY RARITY COLLECTION",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
         "BATTLES OF LEGEND: HERO'S REVENGE"
     ],
     "related_card": [
@@ -193,7 +193,7 @@
     "attack": 1600,
     "defense": 1800,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

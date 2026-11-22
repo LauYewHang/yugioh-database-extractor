@@ -4,9 +4,9 @@
     "card_text": "If this card is Tribute Summoned by Tributing at least 1 \"roid\" monster: Banish all Spells and Traps on the field.",
     "release_date": "2009-03-03",
     "available_set": [
+        "HIGH-SPEED RIDERS",
         "LEGENDARY DUELISTS",
-        "CRIMSON CRISIS",
-        "HIGH-SPEED RIDERS"
+        "CRIMSON CRISIS"
     ],
     "related_card": [
         "Ambulance Rescueroid",
@@ -91,7 +91,7 @@
     "attack": 2700,
     "defense": 2000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

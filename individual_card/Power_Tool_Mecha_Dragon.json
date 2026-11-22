@@ -4,8 +4,8 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nDuring your turn, when an Equip Spell(s) becomes equipped to this card: You can draw 1 card. You can only use this effect of \"Power Tool Mecha Dragon\" once per turn. Once per turn (Quick Effect): You can target 1 appropriate face-up Equip Card on the field; equip that target to this card.",
     "release_date": "2014-03-28",
     "available_set": [
-        "OTS TOURNAMENT PACK 22",
-        "PREMIUM GOLD"
+        "PREMIUM GOLD",
+        "OTS TOURNAMENT PACK 22"
     ],
     "related_card": [
         "Duel Link Dragon, the Duel Dragon",
@@ -18,7 +18,7 @@
     "attack": 2300,
     "defense": 2500,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

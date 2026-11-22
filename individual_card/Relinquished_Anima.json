@@ -5,8 +5,8 @@
     "release_date": "2020-03-20",
     "available_set": [
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "BROTHERS OF LEGEND",
-        "DUEL OVERLOAD"
+        "DUEL OVERLOAD",
+        "BROTHERS OF LEGEND"
     ],
     "related_card": [
         "Golden-Eyes Idol"
@@ -15,7 +15,7 @@
     "attack": 0,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 256
 }

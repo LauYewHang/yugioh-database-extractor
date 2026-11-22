@@ -6,8 +6,8 @@
     "available_set": [
         "LEGENDARY COLLECTION 5D's MEGA PACK",
         "Legendary 5D's Decks",
-        "STARSTRIKE BLAST",
         "COLLECTIBLE TIN 2010 WAVE 2",
+        "STARSTRIKE BLAST",
         "BROTHERS OF LEGEND"
     ],
     "related_card": [
@@ -26,7 +26,7 @@
     "attack": 3300,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

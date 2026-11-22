@@ -4,16 +4,16 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can declare a Level from 1 to 3; this card becomes that Level, also you cannot Special Summon for the rest of this turn, except for a Synchro Summon using this card as material. You can only Special Summon \"Phonon Pulse Dragon(s)\" once per turn.",
     "release_date": "2014-05-16",
     "available_set": [
-        "OTS TOURNAMENT PACK 16",
         "PRIMAL ORIGIN",
-        "2015 MEGA-TINS MEGA PACK"
+        "2015 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 16"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1900,
     "defense": 800,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1042,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

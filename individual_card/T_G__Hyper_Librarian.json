@@ -4,13 +4,13 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf a monster is Synchro Summoned: Draw 1 card. This card must be face-up on the field to activate and to resolve this effect.",
     "release_date": "2011-05-01",
     "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "OTS TOURNAMENT PACK 10",
         "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2011 Qualifier",
         "OTS TOURNAMENT PACK 23",
-        "LEGENDARY COLLECTION 5D's MEGA PACK",
         "RETURN OF THE DUELIST SPECIAL EDITION",
-        "25TH ANNIVERSARY RARITY COLLECTION 2",
-        "SHONEN JUMP Subscription Promotional Card - June/July 2011 -",
-        "OTS TOURNAMENT PACK 10"
+        "SHONEN JUMP Subscription Promotional Card - June/July 2011 -"
     ],
     "related_card": [
         "Sonic Stun",
@@ -48,7 +48,7 @@
     "attack": 2400,
     "defense": 1800,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

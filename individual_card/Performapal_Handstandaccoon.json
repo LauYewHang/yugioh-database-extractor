@@ -4,8 +4,8 @@
     "card_text": "When this card is destroyed by battle: You can target 1 card on the field; return it to the hand.",
     "release_date": "2017-02-10",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
-        "RAGING TEMPEST"
+        "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Bubble Barrier",
@@ -122,7 +122,7 @@
     "attack": 400,
     "defense": 600,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "You can target 1 \"Performapal\" card you control; return it to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as the one returned to the hand by this effect (even if this card leaves the field). You can only use this effect of \"Performapal Handstandaccoon\" once per turn.",

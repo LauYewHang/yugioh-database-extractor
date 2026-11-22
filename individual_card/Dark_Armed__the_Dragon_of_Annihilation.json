@@ -6,15 +6,15 @@
     "available_set": [
         "SHONEN JUMP membership Promotional Card - December 2019  - \u30102\u3011",
         "BATTLES OF LEGEND: ARMAGEDDON",
-        "2025 MEGA-PACK TIN",
-        "BATTLES OF LEGEND - CHAPTER 1"
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 2800,
     "defense": 1000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 7
 }

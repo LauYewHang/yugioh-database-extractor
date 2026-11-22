@@ -4,8 +4,8 @@
     "card_text": "2 Pendulum Monsters, including a \"Majespecter\" monster\nIf this card is Link Summoned: You can add up to 2 face-up \"Majespecter\" Pendulum Monsters from your Extra Deck to your hand, then you can add up to 2 \"Majespecter\" Pendulum Monsters with different names from your Deck to your face-up Extra Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Majespecter\" or \"Dracoslayer\" monsters. You can only use this effect of \"Majespecter Orthrus - Nue\" once per turn.",
     "release_date": "2024-02-09",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "PHANTOM NIGHTMARE"
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Dinomight Powerload, the Dracoslayer",
@@ -40,7 +40,7 @@
     "attack": 1500,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

@@ -4,9 +4,9 @@
     "card_text": "Activate only when an opponent's monster declares an attack. Negate that attack, and select another face-up monster your opponent controls. That monster attacks instead. (If it is in face-up Defense Position, change it to Attack Position.)",
     "release_date": "2003-03-01",
     "available_set": [
+        "DARK BEGINNING 2",
         "LABYRINTH OF NIGHTMARE",
-        "RETRO PACK 2",
-        "DARK BEGINNING 2"
+        "RETRO PACK 2"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

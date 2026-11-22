@@ -4,8 +4,8 @@
     "card_text": "You can Ritual Summon this card with \"Rise of the Salamangreat\". When this card is Ritual Summoned using \"Salamangreat Emerald Eagle\" you control: You can destroy all Special Summoned monsters your opponent controls. Once per turn: You can Tribute 1 \"Salamangreat\" Link Monster; this turn, this card gains this effect.\n\u25cfAt the start of the Damage Step, if this card battles an opponent's monster: Destroy that opponent's monster, and if you do, inflict damage to your opponent equal to that monster's original ATK.",
     "release_date": "2018-10-19",
     "available_set": [
-        "SOUL FUSION",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
     ],
     "related_card": [
         "Burning Draw",
@@ -60,7 +60,7 @@
     "attack": 2800,
     "defense": 2000,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 6,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

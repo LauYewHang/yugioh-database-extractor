@@ -4,8 +4,8 @@
     "card_text": "If a Level 8 or higher Dragon Synchro Monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Red Nova\" once per turn this way. If this card is sent to the GY for a Synchro Summon that uses 2 or more Tuners as material: You can Special Summon 1 FIRE Fiend monster from your Deck in Defense Position.",
     "release_date": "2016-08-19",
     "available_set": [
-        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
         "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
         "DRAGONS OF LEGEND -UNLEASHED-"
     ],
     "related_card": [],
@@ -13,7 +13,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

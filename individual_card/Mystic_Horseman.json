@@ -4,12 +4,12 @@
     "card_text": "Half man and half horse, this monster is known for its extreme speed.",
     "release_date": "2002-03-29",
     "available_set": [
-        "METAL RAIDERS (LC01 25th Anniversary Edition)",
         "25TH ANNIVERSARY ULTIMATE KAIBA SET",
-        "METAL RAIDERS",
-        "STARTER DECK KAIBA",
-        "DARK BEGINNING 2",
         "SPEED DUEL: ARENA OF LOST SOULS",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "STARTER DECK KAIBA",
         "STARTER DECK KAIBA Evolution"
     ],
     "related_card": [
@@ -19,7 +19,7 @@
     "attack": 1300,
     "defense": 1550,
     "monster_type": "Beast",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

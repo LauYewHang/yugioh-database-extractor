@@ -4,13 +4,13 @@
     "card_text": "If you control a \"The Phantom Knights\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"The Phantom Knights of Silent Boots\" once per turn this way. You can banish this card from your GY; add 1 \"Phantom Knights\" Spell/Trap from your Deck to your hand. You can only use this effect of \"The Phantom Knights of Silent Boots\" once per turn.",
     "release_date": "2016-02-12",
     "available_set": [
-        "LEGENDARY HERO DECKS",
-        "WING RAIDERS",
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
         "BATTLES OF LEGEND: RELENTLESS REVENGE",
         "OTS TOURNAMENT PACK 18",
+        "LEGENDARY HERO DECKS",
         "BATTLES OF LEGEND - CHAPTER 1",
-        "MAXIMUM GOLD: EL DORADO"
+        "MAXIMUM GOLD: EL DORADO",
+        "WING RAIDERS"
     ],
     "related_card": [
         "Dark Rebellion Xyz Dragon, Four Heavenly Dragons",
@@ -51,7 +51,7 @@
     "attack": 200,
     "defense": 1200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

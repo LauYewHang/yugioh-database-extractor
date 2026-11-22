@@ -4,9 +4,9 @@
     "card_text": "2+ monsters, including a Fish, Sea Serpent, or Aqua monster\nYour opponent cannot target WATER monsters this card points to with card effects. You can only use each of the following effects of \"Mermail King - Neptabyss\" once per turn. If a WATER monster(s) is sent to the GY to activate a card or effect (except during the Damage Step): You can take 1 \"Abyss-\" Equip Spell from your Deck or GY and either add it to your hand or equip it to this card. If this card in its owner's possession is destroyed by an opponent's card: You can add 1 \"Atlantean\" or \"Mermail\" monster from your Deck to your hand.",
     "release_date": "2024-10-11",
     "available_set": [
+        "RAGE OF THE ABYSS",
         "LIMITED PACK WORLD CHAMPIONSHIP 2025",
-        "2025 MEGA-PACK TIN",
-        "RAGE OF THE ABYSS"
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Abyss-scale of Cetus",
@@ -55,7 +55,7 @@
     "attack": 2400,
     "defense": null,
     "monster_type": "Sea Serpent",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 14
 }

@@ -4,8 +4,8 @@
     "card_text": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"King of the Ashened City\" once per turn this way. During your Main Phase: You can Special Summon 1 \"Ashened\" monster from your hand, except \"King of the Ashened City\", or if your opponent controls a monster with 2800 or more ATK, you can Special Summon it from your Deck instead. You can only use this effect of \"King of the Ashened City\" once per turn.",
     "release_date": "2024-02-09",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "PHANTOM NIGHTMARE"
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Ashened for Eternity",
@@ -26,7 +26,7 @@
     "attack": 1400,
     "defense": 2700,
     "monster_type": "Pyro",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

@@ -4,10 +4,10 @@
     "card_text": "Target 1 face-up monster on the field; it cannot be destroyed by battle this turn, also its ATK is halved until the end of this turn.",
     "release_date": "2010-06-01",
     "available_set": [
-        "5D's STARTER DECK DUELIST TOOLBOX",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
         "SPEED DUEL TOURNAMENT PACK 02",
-        "SPEED DUEL: ARENA OF LOST SOULS"
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

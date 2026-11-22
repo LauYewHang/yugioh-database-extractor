@@ -4,12 +4,12 @@
     "card_text": "1 \"Destiny HERO\" monster + 1 DARK Effect Monster\n(Quick Effect): You can discard 1 card; send 1 \"Destiny HERO\" monster from your hand or Deck to the GY, and if you do, \"Destiny HERO\" monsters you control gain 200 ATK for each \"Destiny HERO\" monster in your GY until the end of this turn. You can only use this effect of \"Destiny HERO - Dangerous\" once per turn.",
     "release_date": "2017-08-04",
     "available_set": [
-        "LEGENDARY HERO DECKS",
         "SPEED DUEL GX: DUEL ACADEMY BOX",
-        "BATTLES OF LEGEND - CHAPTER 1",
-        "CODE OF THE DUELIST",
         "2018 MEGA-TINS MEGA PACK",
-        "BATTLES OF LEGEND: HERO'S REVENGE"
+        "CODE OF THE DUELIST",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "LEGENDARY HERO DECKS",
+        "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
         "Apparition",
@@ -124,7 +124,7 @@
     "attack": 2000,
     "defense": 2600,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

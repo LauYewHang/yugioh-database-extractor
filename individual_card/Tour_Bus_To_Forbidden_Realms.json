@@ -4,15 +4,15 @@
     "card_text": "FLIP: Add 1 Fiend monster from your Deck to your hand, except a DARK or LIGHT monster.",
     "release_date": "2013-08-09",
     "available_set": [
-        "Gold Series: Maximum Gold",
-        "JUDGMENT OF THE LIGHT"
+        "JUDGMENT OF THE LIGHT",
+        "Gold Series: Maximum Gold"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 600,
     "defense": 1000,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2050,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

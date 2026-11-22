@@ -4,9 +4,9 @@
     "card_text": "If this card is sent from the hand or Deck to the GY: You can Special Summon up to 2 Level 3 or lower \"Nimble\" monsters from your Deck, except \"Nimble Angler\".",
     "release_date": "2012-11-09",
     "available_set": [
-        "OTS TOURNAMENT PACK 22",
+        "ABYSS RISING",
         "MAZE OF MEMORIES",
-        "ABYSS RISING"
+        "OTS TOURNAMENT PACK 22"
     ],
     "related_card": [
         "Nimble Beaver",
@@ -20,7 +20,7 @@
     "attack": 600,
     "defense": 100,
     "monster_type": "Fish",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

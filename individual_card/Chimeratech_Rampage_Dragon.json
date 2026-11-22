@@ -4,10 +4,10 @@
     "card_text": "2+ \"Cyber Dragon\" monsters\nA Fusion Summon of this card can only be done with the above Fusion Materials. When this card is Fusion Summoned: You can target Spells/Traps on the field, up to the number of materials used for its Fusion Summon; destroy them. Once per turn: You can send up to 2 LIGHT Machine monsters from your Deck to the GY, and if you do, for each monster sent to the GY, this card gains 1 additional attack during each Battle Phase this turn.",
     "release_date": "2016-01-15",
     "available_set": [
-        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
-        "BREAKERS OF SHADOW",
+        "LEGENDARY DRAGON DECKS",
         "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
-        "LEGENDARY DRAGON DECKS"
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
+        "BREAKERS OF SHADOW"
     ],
     "related_card": [
         "Cyber Dragon",
@@ -29,7 +29,7 @@
     "attack": 2100,
     "defense": 1600,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

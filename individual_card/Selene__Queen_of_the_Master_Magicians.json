@@ -4,10 +4,10 @@
     "card_text": "2+ monsters, including a Spellcaster monster\nIf this card is Link Summoned: Place Spell Counters on this card, equal to the number of Spells on the field and in the GYs. While an \"Endymion\" card(s) is on the field, your opponent's monsters cannot target this card for attacks. Once per turn, during the Main Phase (Quick Effect): You can remove 3 Spell Counters from your field; Special Summon 1 Spellcaster monster from your hand or GY in Defense Position, to your zone this card points to.",
     "release_date": "2020-03-20",
     "available_set": [
-        "BATTLES OF LEGEND: CRYSTAL REVENGE",
-        "DUEL OVERLOAD",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
         "25TH ANNIVERSARY RARITY COLLECTION",
-        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+        "DUEL OVERLOAD",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
     ],
     "related_card": [
         "Alchemist of Black Spells",
@@ -90,7 +90,7 @@
     "attack": 1850,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 14
 }

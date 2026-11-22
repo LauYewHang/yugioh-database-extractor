@@ -4,9 +4,9 @@
     "card_text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned. You can only use each of these effects of \"Nekroz of Clausolas\" once per turn.\n\u25cfYou can discard this card; add 1 \"Nekroz\" Spell/Trap from your Deck to your hand.\n\u25cf(Quick Effect): You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; until the end of this turn, that target's ATK becomes 0, also that target's effects are negated.",
     "release_date": "2015-02-13",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
         "DUEL POWER",
-        "THE SECRET FORCES"
+        "THE SECRET FORCES",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "Ariel, Priestess of the Nekroz",
@@ -37,7 +37,7 @@
     "attack": 1200,
     "defense": 2300,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 6,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

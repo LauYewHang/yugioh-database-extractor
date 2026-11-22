@@ -4,13 +4,13 @@
     "card_text": "Once, while this card is in the GY, you can Normal Summon 1 Level 5 or higher \"Elemental HERO\" monster without Tributing.",
     "release_date": "2006-01-10",
     "available_set": [
-        "RA YELLOW MEGA PACK",
         "SPEED DUEL GX: DUEL ACADEMY BOX",
-        "Yu-Gi-Oh! GX Duel Academy Bundles",
         "HERO STRIKE STRUCTURE DECK",
-        "DUEL TERMINAL 4",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "STARTER DECK JADEN YUKI"
+        "RA YELLOW MEGA PACK",
+        "STARTER DECK JADEN YUKI",
+        "DUEL TERMINAL 4",
+        "Yu-Gi-Oh! GX Duel Academy Bundles"
     ],
     "related_card": [
         "A Hero Lives",
@@ -187,7 +187,7 @@
     "attack": 1600,
     "defense": 1800,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

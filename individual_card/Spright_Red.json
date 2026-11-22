@@ -5,8 +5,8 @@
     "release_date": "2022-08-05",
     "available_set": [
         "POWER OF THE ELEMENTS",
-        "OTS TOURNAMENT PACK 21",
-        "BATTLES OF LEGEND: TERMINAL REVENGE"
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "OTS TOURNAMENT PACK 21"
     ],
     "related_card": [
         "Spright Blue",
@@ -18,7 +18,7 @@
     "attack": 1200,
     "defense": 1800,
     "monster_type": "Thunder",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

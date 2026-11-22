@@ -4,8 +4,8 @@
     "card_text": "Cannot be Special Summoned, except by Pendulum Summon. This card's Pendulum Summon cannot be negated. If this card is Normal or Special Summoned: You can target up to 2 cards on the field; return them to the hand. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
     "release_date": "2015-02-13",
     "available_set": [
-        "THE SECRET FORCES",
-        "STAR PACK BATTLE ROYAL"
+        "STAR PACK BATTLE ROYAL",
+        "THE SECRET FORCES"
     ],
     "related_card": [
         "Dizzying Winds of Yosen Village",
@@ -33,7 +33,7 @@
     "attack": 3000,
     "defense": 300,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 10,
     "pendulum_effect": "When a \"Yosenju\" monster you control declares an attack: You can have that attacking monster gain 300 ATK until the end of the Battle Phase.",

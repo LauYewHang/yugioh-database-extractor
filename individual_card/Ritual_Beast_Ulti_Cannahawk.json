@@ -4,8 +4,8 @@
     "card_text": "1 \"Ritual Beast Tamer\" monster + 1 \"Spiritual Beast\" monster\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control. Once per turn: You can target 2 of your banished \"Ritual Beast\" cards; return them to the GY, and if you do, add 1 \"Ritual Beast\" card from your Deck to your hand. (Quick Effect): You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 \"Ritual Beast Tamer\" monster and 1 \"Spiritual Beast\" monster); Special Summon them in Defense Position.",
     "release_date": "2015-02-13",
     "available_set": [
-        "THE SECRET FORCES",
-        "BATTLES OF LEGEND: TERMINAL REVENGE"
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "THE SECRET FORCES"
     ],
     "related_card": [
         "Ritual Beast Ambush",
@@ -35,7 +35,7 @@
     "attack": 1400,
     "defense": 1600,
     "monster_type": "Thunder",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

@@ -4,10 +4,10 @@
     "card_text": "\"Dark Magician\" + 1 Dragon monster\nMust be Fusion Summoned with the above Fusion Materials or with \"The Eye of Timaeus\". If this card is Special Summoned: Target any number of Spells in any GY(s) (min. 1); banish those targets, and if you do, this card gains 100 ATK for each card banished by this effect. If this card is destroyed: You can target 1 Spellcaster monster in your GY; Special Summon that target.",
     "release_date": "2014-04-25",
     "available_set": [
-        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
-        "DRAGONS OF LEGEND -UNLEASHED-",
+        "LEGENDARY DRAGON DECKS",
         "DRAGONS OF LEGEND",
-        "LEGENDARY DRAGON DECKS"
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
     ],
     "related_card": [
         "Chronicle Sorceress",
@@ -31,7 +31,7 @@
     "attack": 2900,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

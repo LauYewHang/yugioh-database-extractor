@@ -4,9 +4,9 @@
     "card_text": "\"Drill Synchron\" + 1+ non-Tuner monsters\nOnce per turn, during your Main Phase 1: You can halve this card's ATK, and if you do, it can attack your opponent directly this turn. Once per turn: You can discard 1 card, and if you do, banish this card. During your next Standby Phase: Special Summon this card banished by this effect, then add 1 monster from your GY to your hand.",
     "release_date": "2010-02-16",
     "available_set": [
-        "QUARTER CENTURY BONANZA",
-        "ABSOLUTE POWERFORCE",
         "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "ABSOLUTE POWERFORCE",
+        "QUARTER CENTURY BONANZA",
         "DUELIST REVOLUTION SPECIAL EDITION",
         "DUELIST PACK - YUSEI 3 -"
     ],
@@ -30,7 +30,7 @@
     "attack": 2400,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

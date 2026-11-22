@@ -4,15 +4,15 @@
     "card_text": "When this card is changed from Attack Position to Defense Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire.",
     "release_date": "2002-06-26",
     "available_set": [
-        "METAL RAIDERS (LC01 25th Anniversary Edition)",
-        "METAL RAIDERS"
+        "METAL RAIDERS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 900,
     "defense": 1700,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

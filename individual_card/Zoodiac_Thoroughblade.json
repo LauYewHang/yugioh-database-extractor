@@ -4,8 +4,8 @@
     "card_text": "If this card is Normal or Special Summoned: You can discard 1 \"Zoodiac\" card, and if you do, draw 1 card. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\n\u25cfIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
     "release_date": "2017-02-10",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
-        "RAGING TEMPEST"
+        "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Zodiac Sign",
@@ -28,7 +28,7 @@
     "attack": 1600,
     "defense": 0,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

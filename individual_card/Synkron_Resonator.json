@@ -4,9 +4,9 @@
     "card_text": "If a Synchro Monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Synkron Resonator\" once per turn this way. If this card is sent from the field to the GY: You can target 1 \"Resonator\" monster in your GY, except \"Synkron Resonator\"; add it to your hand.",
     "release_date": "2015-10-02",
     "available_set": [
-        "STRUCTURE DECK: THE CRIMSON KING",
         "HIGH-SPEED RIDERS",
-        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
+        "STRUCTURE DECK: THE CRIMSON KING"
     ],
     "related_card": [
         "Barrier Resonator",
@@ -38,7 +38,7 @@
     "attack": 100,
     "defense": 100,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

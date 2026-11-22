@@ -4,15 +4,15 @@
     "card_text": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
     "release_date": "2007-08-15",
     "available_set": [
-        "RA YELLOW MEGA PACK",
-        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
         "25TH ANNIVERSARY TIN: DUELING HEROES",
         "LEGENDARY DUELISTS: SEASON 1",
-        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
-        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
-        "COLLECTIBLE TIN SERIES 4 WAVE 2",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "TACTICAL EVOLUTION"
+        "TACTICAL EVOLUTION",
+        "COLLECTIBLE TIN SERIES 4 WAVE 2",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "RA YELLOW MEGA PACK"
     ],
     "related_card": [
         "Advanced Crystal Beast Amber Mammoth",
@@ -47,7 +47,7 @@
     "attack": 4000,
     "defense": 0,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

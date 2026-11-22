@@ -5,14 +5,14 @@
     "release_date": "2011-08-16",
     "available_set": [
         "Yu-Gi-Oh! Championship Prize Cards 2025",
-        "ZEXAL COLLECTION TIN",
-        "DUELIST LEAGUE 15",
-        "BATTLE PACK EPIC DAWN",
-        "SUPER STARTER V FOR VICTORY",
         "PREMIUM GOLD",
         "GENERATION FORCE",
+        "SUPER STARTER V FOR VICTORY",
+        "DUELIST LEAGUE 15",
         "STAR PACK 2013",
         "2-PLAYER STARTER SET",
+        "BATTLE PACK EPIC DAWN",
+        "ZEXAL COLLECTION TIN",
         "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
@@ -53,7 +53,7 @@
     "attack": 1500,
     "defense": 1000,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

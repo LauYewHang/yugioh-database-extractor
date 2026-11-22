@@ -4,11 +4,11 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, including at least 1 \"Destiny HERO\" monster. Once per turn, if you still control this face-up card during your opponent's next Standby Phase after you Special Summoned it this way: Halve your opponent's LP.",
     "release_date": "2006-08-16",
     "available_set": [
-        "LEGENDARY HERO DECKS",
         "SPEED DUEL GX: DUEL ACADEMY BOX",
-        "POWER OF THE DUELIST",
-        "DUELIST PACK - ASTER PHOENIX -",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "LEGENDARY HERO DECKS",
+        "DUELIST PACK - ASTER PHOENIX -",
+        "POWER OF THE DUELIST",
         "DESTINY SOLDIERS"
     ],
     "related_card": [
@@ -124,7 +124,7 @@
     "attack": 3400,
     "defense": 2400,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

@@ -4,21 +4,21 @@
     "card_text": "Before damage calculation, if this card is being attacked by an opponent's monster, and was in Attack Position at the start of the Damage Step: Inflict damage to your opponent equal to the attacking monster's ATK. If you do, after damage calculation: Destroy this card.",
     "release_date": "2003-12-01",
     "available_set": [
-        "DARK CRISIS (LC01 25th Anniversary Edition)",
-        "SPEED DUEL: STREETS OF BATTLE CITY",
-        "DARK CRISIS (Reprint)",
-        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
         "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "DARK CRISIS (Reprint)",
         "CHAMPION PACK GAME ONE",
-        "DARK CRISIS",
-        "TURBO PACK BOOSTER TWO"
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "TURBO PACK BOOSTER TWO",
+        "DARK CRISIS"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 1700,
     "defense": 1000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

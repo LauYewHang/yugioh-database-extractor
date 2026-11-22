@@ -59,7 +59,7 @@
     "attack": 1000,
     "defense": 1500,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 5122,
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "If you have no Spells/Traps in your GY: You can place 1 \"Superheavy Samurai\" Pendulum Monster from your Deck, except \"Superheavy Samurai Prodigy Wakaushi\", in your other Pendulum Zone, then Special Summon this card. You can only use this effect of \"Superheavy Samurai Prodigy Wakaushi\" once per turn.",

@@ -4,17 +4,17 @@
     "card_text": "FLIP: Tribute 1 other monster, and if you do, Special Summon 1 Fusion Monster from your Extra Deck, but destroy it during the End Phase of this turn.",
     "release_date": "2003-03-01",
     "available_set": [
-        "FUSION ENFORCERS",
-        "LABYRINTH OF NIGHTMARE",
         "GOLD SERIES",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+        "FUSION ENFORCERS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "LABYRINTH OF NIGHTMARE"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 800,
     "defense": 900,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2050,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

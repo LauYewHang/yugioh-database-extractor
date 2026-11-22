@@ -4,12 +4,12 @@
     "card_text": "When a Spell Card that targets exactly 1 monster on the field (and no other cards) is activated: Negate the activation, and if you do, destroy it.",
     "release_date": "2003-03-01",
     "available_set": [
-        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
         "LABYRINTH OF NIGHTMARE",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
         "DARK BEGINNING 2",
         "Speed Duel: Battle City Box",
-        "STARTER DECK KAIBA Evolution",
-        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "STARTER DECK KAIBA Evolution"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

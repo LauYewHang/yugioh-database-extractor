@@ -4,8 +4,8 @@
     "card_text": "If you control \"Toy Vendor\": You can banish this card from your GY, then target 1 \"Fluffal\" monster in your GY; banish it, and if you do, draw 1 card, then you can send 1 \"Toy Vendor\" you control to the GY, and if you do, draw 1 card. You can only use this effect of \"Fluffal Wings\" once per turn.",
     "release_date": "2015-11-06",
     "available_set": [
-        "DIMENSION OF CHAOS",
-        "MAGNIFICENT MONSTERS"
+        "MAGNIFICENT MONSTERS",
+        "DIMENSION OF CHAOS"
     ],
     "related_card": [
         "Dangerous Frightfur Nightmary",
@@ -44,7 +44,7 @@
     "attack": 100,
     "defense": 100,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

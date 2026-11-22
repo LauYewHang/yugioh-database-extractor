@@ -4,9 +4,9 @@
     "card_text": "2+ Level 8 monsters\nIf you use a monster(s) with a Level that is owned by your opponent for the Xyz Summon of this card, treat it as Level 8. Neither player can target this card with effects of Special Summoned monsters, except those Special Summoned from the GY. You can detach 1 material from this card; each player sends the top 4 cards from their Deck to the GY, then if any monsters were sent to either GY by this effect, you can Special Summon 1 of those monsters to your field. You can only use this effect of \"The Zombie Vampire\" once per turn.",
     "release_date": "2022-02-11",
     "available_set": [
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
         "BATTLE OF CHAOS",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
-        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
     ],
     "related_card": [
         "Shadow Vampire",
@@ -30,7 +30,7 @@
     "attack": 3000,
     "defense": 2800,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

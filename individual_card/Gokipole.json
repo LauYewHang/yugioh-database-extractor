@@ -4,16 +4,16 @@
     "card_text": "If this card is sent to the GY: You can add 1 Level 4 Insect monster from your Deck to your hand, then, if you added a Normal Monster, you can Special Summon it, then you can destroy 1 monster on the field with ATK greater than or equal to that Special Summoned monster's. You can only use this effect of \"Gokipole\" once per turn.",
     "release_date": "2018-10-19",
     "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
         "SOUL FUSION",
-        "THE GRAND CREATORS",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "THE GRAND CREATORS"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1000,
     "defense": 1200,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,8 +4,8 @@
     "card_text": "If this card is Normal or Special Summoned: You can look at the top 3 cards of your opponent's Deck, and if you do, place them on top of their Deck in any order. (Quick Effect): You can Tribute this card, then target 1 \"SPYRAL\" monster you control; it gains 500 ATK for each card your opponent controls. You can banish this card and 1 \"SPYRAL\" card from your GY, then target 1 \"SPYRAL Super Agent\" in your GY; add it to your hand.",
     "release_date": "2016-08-05",
     "available_set": [
-        "OTS TOURNAMENT PACK 13",
-        "THE DARK ILLUSION"
+        "THE DARK ILLUSION",
+        "OTS TOURNAMENT PACK 13"
     ],
     "related_card": [
         "SPYRAL Double Agent",
@@ -28,7 +28,7 @@
     "attack": 100,
     "defense": 100,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

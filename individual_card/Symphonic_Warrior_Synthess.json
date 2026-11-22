@@ -4,8 +4,8 @@
     "card_text": "FLIP: You can add 1 \"Symphonic Warrior\" monster from your Deck to your hand, except \"Symphonic Warrior Synthess\".\nOnce per turn: You can target 1 monster you control or in your Graveyard whose original name includes \"Symphonic Warrior\", except \"Symphonic Warrior Synthess\"; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. You can banish this card from your Graveyard, then target 1 of your banished \"Symphonic Warrior\" monsters, except \"Symphonic Warrior Synthess\"; Special Summon it.",
     "release_date": "2017-02-10",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
-        "RAGING TEMPEST"
+        "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Generalprobe",
@@ -23,7 +23,7 @@
     "attack": 1200,
     "defense": 1900,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2050,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

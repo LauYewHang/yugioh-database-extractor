@@ -4,15 +4,15 @@
     "card_text": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card resolves, and destroy all cards of that declared type.",
     "release_date": "2007-05-16",
     "available_set": [
-        "FORCE OF THE BREAKER",
-        "GATES OF THE UNDERWORLD STRUCTURE DECK",
-        "QUARTER CENTURY BONANZA",
-        "MASTER OF PENDULUM STRUCTURE DECK",
-        "THE DUELIST GENESIS SPECIAL EDITION",
-        "LEGENDARY COLLECTION KAIBA MEGA PACK",
-        "WILD SURVIVORS",
         "OTS TOURNAMENT PACK 26",
-        "STRUCTURE DECK : LAIR OF DARKNESS"
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "THE DUELIST GENESIS SPECIAL EDITION",
+        "FORCE OF THE BREAKER",
+        "QUARTER CENTURY BONANZA",
+        "WILD SURVIVORS",
+        "MASTER OF PENDULUM STRUCTURE DECK",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

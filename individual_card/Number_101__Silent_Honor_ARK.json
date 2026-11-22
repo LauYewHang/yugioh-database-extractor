@@ -4,14 +4,14 @@
     "card_text": "2 Level 4 monsters\nYou can detach 2 materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card on the field would be destroyed by battle or card effect, you can detach 1 material from this card instead.",
     "release_date": "2014-01-24",
     "available_set": [
-        "PREMIUM GOLD: RETURN OF THE BLING",
-        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
-        "2014 MEGA-TINS MEGA PACK",
-        "LEGACY OF THE VALIANT",
         "Gold Series: Maximum Gold",
-        "Duel Devastator",
+        "QUARTER CENTURY STAMPEDE",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "2014 MEGA-TINS MEGA PACK",
         "WING RAIDERS",
-        "QUARTER CENTURY STAMPEDE"
+        "Duel Devastator",
+        "LEGACY OF THE VALIANT",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
     ],
     "related_card": [
         "Abyss Shark",
@@ -85,7 +85,7 @@
     "attack": 2100,
     "defense": 1000,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

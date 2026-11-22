@@ -4,13 +4,13 @@
     "card_text": "Target 1 Union monster in your GY; equip that target to an appropriate monster you control for that Union monster's effect.",
     "release_date": "2005-11-05",
     "available_set": [
-        "GEARGIA RAMPAGE STRUCTURE DECK",
-        "ELEMENTAL ENERGY",
-        "STRUCTURE DECK : SETO KAIBA",
         "STRUCTURE DECK MACHINE RE-VOLT",
+        "STRUCTURE DECK : SETO KAIBA",
+        "ELEMENTAL ENERGY",
         "Speed Duel: Battle City Box",
-        "MACHINA MAYHEM STRUCTURE DECK",
-        "DARK REVELATION Volume 4"
+        "DARK REVELATION Volume 4",
+        "GEARGIA RAMPAGE STRUCTURE DECK",
+        "MACHINA MAYHEM STRUCTURE DECK"
     ],
     "related_card": [
         "Union Controller"

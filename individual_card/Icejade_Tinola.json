@@ -4,8 +4,8 @@
     "card_text": "You can send 1 card from your hand to the GY, then target 1 WATER monster in your GY; send this card from the field to the GY, and if you do, Special Summon the targeted monster. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 \"Icejade\" monster from your hand or GY, except \"Icejade Tinola\". You can only use each effect of \"Icejade Tinola\" once per turn.",
     "release_date": "2021-11-05",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "BURST OF DESTINY"
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Icejade Acti",
@@ -26,7 +26,7 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

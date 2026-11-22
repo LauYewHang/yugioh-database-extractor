@@ -4,11 +4,11 @@
     "card_text": "Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
     "release_date": "2009-11-17",
     "available_set": [
-        "SPEED DUEL: ATTACK FROM THE DEEP",
-        "OTS TOURNAMENT PACK 11",
-        "ASTRAL PACK ONE",
         "STARDUST OVERDRIVE",
-        "REALM OF THE SEA EMPEROR STRUCTURE DECK"
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 11",
+        "ASTRAL PACK ONE"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

@@ -4,15 +4,15 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate this effect; this card gains 300 ATK for each Level that the non-Tuners used had, then inflict 300 damage to your opponent for each Level that the Tuner used had. The ATK increase lasts until the end of the next turn. You can only use this effect of \"Vagnawa the Moon-Eating Dragon\" once per turn.",
     "release_date": "2024-02-09",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "PHANTOM NIGHTMARE"
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1500,
     "defense": 1500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

@@ -4,16 +4,16 @@
     "card_text": "1 Tuner + 1+ non-Tuners\nThis card in your field or GY can be used as a substitute for any 1 Fusion Material whose name is mentioned on the Fusion Monster Card, but the other materials must be correct. During your Main Phase, if you control this Synchro Summoned card: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control, including this card. You can only use this effect of \"Muddy Mudragon\" once per turn.",
     "release_date": "2019-05-03",
     "available_set": [
-        "OTS TOURNAMENT PACK 13",
+        "DARK NEOSTORM",
         "ULTIMATE TOURNAMENT PACK 2",
-        "DARK NEOSTORM"
+        "OTS TOURNAMENT PACK 13"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 500,
     "defense": 2200,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

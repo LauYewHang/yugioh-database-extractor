@@ -5,11 +5,11 @@
     "release_date": "2011-02-08",
     "available_set": [
         "BATTLES OF LEGEND: GLORIOUS GALLERY",
-        "QUARTER CENTURY BONANZA",
-        "SPIRIT WARRIORS",
-        "RA YELLOW MEGA PACK SPECIAL EDITION",
         "OTS TOURNAMENT PACK 26",
-        "STORM OF RAGNAROK"
+        "QUARTER CENTURY BONANZA",
+        "RA YELLOW MEGA PACK SPECIAL EDITION",
+        "STORM OF RAGNAROK",
+        "SPIRIT WARRIORS"
     ],
     "related_card": [
         "Anarchist Monk of the Six Samurai",
@@ -77,7 +77,7 @@
     "attack": 2500,
     "defense": 1400,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

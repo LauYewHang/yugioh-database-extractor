@@ -4,21 +4,21 @@
     "card_text": "2 Level 4 monsters\nWhen a monster declares an attack: You can detach 1 material from this card; negate the attack. If this card is targeted for an attack, while it has no material: Destroy this card.",
     "release_date": "2011-07-12",
     "available_set": [
-        "STARTER DECK DAWN OF THE XYZ",
-        "25TH ANNIVERSARY TIN: DUELING HEROES",
-        "KING'S COURT",
-        "BROTHERS OF LEGEND",
-        "SUPER STARTER V FOR VICTORY",
-        "BATTLE PACK EPIC DAWN",
-        "OTS TOURNAMENT PACK 17",
-        "BATTLES OF LEGEND: ARMAGEDDON",
-        "STAR PACK 2013",
-        "GOLD SERIES HAUNTED MINE",
-        "DUELIST LEAGUE 14",
-        "BATTLES OF LEGEND - CHAPTER 1",
         "STARTER DECK XYZ SYMPHONY",
+        "25TH ANNIVERSARY TIN: DUELING HEROES",
+        "DUEL TERMINAL 7A",
+        "KING'S COURT",
         "DUEL POWER VARIANT CARDS",
-        "DUEL TERMINAL 7A"
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "SUPER STARTER V FOR VICTORY",
+        "OTS TOURNAMENT PACK 17",
+        "GOLD SERIES HAUNTED MINE",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "STARTER DECK DAWN OF THE XYZ",
+        "STAR PACK 2013",
+        "DUELIST LEAGUE 14",
+        "BATTLE PACK EPIC DAWN",
+        "BROTHERS OF LEGEND"
     ],
     "related_card": [
         "Abyss Shark",
@@ -136,7 +136,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

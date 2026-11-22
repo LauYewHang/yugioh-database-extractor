@@ -4,15 +4,15 @@
     "card_text": "You can Special Summon this card (from your hand) by banishing 3 cards from your GY (1 monster, 1 Spell, and 1 Trap). If this card is Special Summoned from the hand: You can banish 1 monster and 2 Spells/Traps from your opponent's field and/or GY. You can only use this effect of \"Lord of the Missing Barrows\" once per turn.",
     "release_date": "2024-07-19",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "THE INFINITE FORBIDDEN"
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 3100,
     "defense": 2900,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

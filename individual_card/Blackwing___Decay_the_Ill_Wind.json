@@ -4,8 +4,8 @@
     "card_text": "Once per turn, during the End Phase, if this card is in the Graveyard because it was sent there this turn: Take 1000 damage. When this card is Normal or Special Summoned: You can target 1 \"Blackwing\" monster you control, then activate 1 of these effects;\n\u25cfIncrease its Level by 1.\n\u25cfReduce its Level by 1.\nYou can only use this effect of \"Blackwing - Decay the Ill Wind\" once per turn.",
     "release_date": "2016-05-06",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
-        "SHINING VICTORIES"
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Against the Wind",
@@ -91,7 +91,7 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

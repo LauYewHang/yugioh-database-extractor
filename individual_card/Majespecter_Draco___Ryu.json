@@ -39,7 +39,7 @@
     "attack": 2300,
     "defense": 2000,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4130,
     "level_rank_type": "Rank",
     "level_rank_rating": 4,
     "pendulum_effect": "If you have a \"Majespecter\" or \"Dracoslayer\" card in your other Pendulum Zone: You can add 1 \"Majespecter\" card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of \"Majespecter Draco - Ryu\" once per turn.",

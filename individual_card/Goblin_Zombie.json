@@ -4,16 +4,16 @@
     "card_text": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY. If this card is sent from the field to the GY: Add 1 Zombie monster with 1200 or less DEF from your Deck to your hand.",
     "release_date": "2008-02-13",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "SPEED DUEL: ATTACK FROM THE DEEP",
-        "DUEL TERMINAL 2",
         "GOLD SERIES 3",
         "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "PHANTOM DARKNESS",
+        "SPEED DUEL TOURNAMENT PACK 6",
         "GOLD SERIES HAUNTED MINE",
-        "STRUCTURE DECK: ZOMBIE HORDE",
         "CRIMSON CRISIS SPECIAL EDITION",
-        "SPEED DUEL TOURNAMENT PACK 6"
+        "DUEL TERMINAL 2",
+        "PHANTOM DARKNESS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STRUCTURE DECK: ZOMBIE HORDE"
     ],
     "related_card": [
         "Goblin Biker Big Gabonga",
@@ -35,7 +35,7 @@
     "attack": 1100,
     "defense": 1050,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

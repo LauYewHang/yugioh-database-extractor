@@ -4,15 +4,15 @@
     "card_text": "2 Level 2 monsters\nIf this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Face-up monsters you control gain 200 ATK and DEF for each Xyz Material attached to this card.",
     "release_date": "2011-07-12",
     "available_set": [
-        "BATTLE PACK EPIC DAWN",
-        "STARTER DECK DAWN OF THE XYZ"
+        "STARTER DECK DAWN OF THE XYZ",
+        "BATTLE PACK EPIC DAWN"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 500,
     "defense": 1800,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 2
 }

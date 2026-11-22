@@ -4,9 +4,9 @@
     "card_text": "When this face-down card is destroyed and sent to the Graveyard, your opponent selects and executes 1 of the following effects:\n\u25cfDiscard 1 random card in their hand.\n\u25cfSelect 1 monster on their side of the field and destroy it.",
     "release_date": "2003-07-18",
     "available_set": [
+        "PHARAONIC GUARDIAN",
         "DARK BEGINNING 2",
-        "STRUCTURE DECK LORD OF THE STORM",
-        "PHARAONIC GUARDIAN"
+        "STRUCTURE DECK LORD OF THE STORM"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

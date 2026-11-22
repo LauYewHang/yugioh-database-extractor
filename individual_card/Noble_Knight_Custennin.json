@@ -4,9 +4,9 @@
     "card_text": "If you control a \"Noble Arms\" Equip Spell, you can Special Summon this card (from your hand). You can only Special Summon \"Noble Knight Custennin\" once per turn this way. A \"Noble Knight\" monster that was Synchro, Xyz or Link Summoned using this card on the field as material gains this effect.\n\u25cfIf this card is Special Summoned: You can Normal Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn), also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Noble Knight\" monsters.",
     "release_date": "2018-07-27",
     "available_set": [
-        "CYBERNETIC HORIZON",
         "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "CYBERNETIC HORIZON"
     ],
     "related_card": [
         "\"Infernoble Arms - Almace\"",
@@ -77,7 +77,7 @@
     "attack": 1000,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

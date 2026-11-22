@@ -4,9 +4,9 @@
     "card_text": "2 monsters, including a DARK monster\n(This card is always treated as a \"Familiar-Possessed\" card.)\nYou can target 1 DARK monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 DARK monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Dharc the Dark Charmer, Gloomy\" once per turn.",
     "release_date": "2022-02-11",
     "available_set": [
-        "BATTLE OF CHAOS",
-        "QUARTER CENTURY BONANZA",
         "LEGENDARY MODERN DECKS 2026",
+        "QUARTER CENTURY BONANZA",
+        "BATTLE OF CHAOS",
         "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
     ],
     "related_card": [
@@ -38,7 +38,7 @@
     "attack": 1850,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

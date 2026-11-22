@@ -4,8 +4,8 @@
     "card_text": "If you control a \"Rokket\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Absorouter Dragon\" once per turn this way. If this card is sent to the GY: You can add 1 \"Rokket\" monster from your Deck to your hand. You can only use this effect of \"Absorouter Dragon\" once per turn.",
     "release_date": "2019-08-16",
     "available_set": [
-        "STRUCTURE DECK: ROKKET REVOLT",
-        "MAZE OF MUERTOS"
+        "MAZE OF MUERTOS",
+        "STRUCTURE DECK: ROKKET REVOLT"
     ],
     "related_card": [
         "Anesthrokket Dragon",
@@ -29,7 +29,7 @@
     "attack": 1200,
     "defense": 2800,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

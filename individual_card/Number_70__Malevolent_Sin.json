@@ -76,7 +76,7 @@
     "attack": 2400,
     "defense": 1200,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

@@ -4,9 +4,9 @@
     "card_text": "The machine's ability is said to vary according to its slot results.",
     "release_date": "2002-09-16",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "DARK BEGINNING 1",
         "SPELL RULER (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "SPELL RULER",
         "SPEED DUEL: SCARS OF BATTLE"
     ],
@@ -15,7 +15,7 @@
     "attack": 2000,
     "defense": 2300,
     "monster_type": "Machine",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

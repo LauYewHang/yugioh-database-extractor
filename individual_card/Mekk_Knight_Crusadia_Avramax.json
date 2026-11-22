@@ -4,12 +4,12 @@
     "card_text": "2+ monsters Special Summoned from the Extra Deck\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by an opponent's card: You can shuffle 1 card on the field into the Deck.",
     "release_date": "2019-05-03",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "25TH ANNIVERSARY RARITY COLLECTION",
-        "MAGNIFICENT MONSTERS",
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
         "MAZE OF MEMORIES",
-        "DARK NEOSTORM"
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "2020 TIN OF LOST MEMORIES",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "DARK NEOSTORM",
+        "MAGNIFICENT MONSTERS"
     ],
     "related_card": [
         "Crusadia Arboria",
@@ -44,7 +44,7 @@
     "attack": 3000,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 90
 }

@@ -5,10 +5,10 @@
     "release_date": "2007-07-26",
     "available_set": [
         "YUGI'S LEGENDARY DECKS",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
         "PREMIUM PACK",
+        "SPEED DUEL TOURNAMENT PACK 6",
         "SPEED DUEL: TRIALS OF THE KINGDOM",
-        "SPEED DUEL TOURNAMENT PACK 6"
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Black Magic Ritual",
@@ -24,7 +24,7 @@
     "attack": 2800,
     "defense": 2600,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Ritual",
+    "monster_card_type": 4,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

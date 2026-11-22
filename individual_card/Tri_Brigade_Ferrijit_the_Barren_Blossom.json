@@ -26,7 +26,7 @@
     "attack": 1600,
     "defense": null,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 18
 }

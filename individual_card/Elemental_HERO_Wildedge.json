@@ -5,11 +5,11 @@
     "release_date": "2005-11-05",
     "available_set": [
         "Mattel Action Figure Series 2",
-        "SPEED DUEL GX: MIDTERM DESTRUCTION",
-        "ELEMENTAL ENERGY",
-        "DUELIST PACK - JADEN YUKI 2 -",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "DARK REVELATION Volume 4"
+        "ELEMENTAL ENERGY",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "DARK REVELATION Volume 4",
+        "DUELIST PACK - JADEN YUKI 2 -"
     ],
     "related_card": [
         "A Hero Lives",
@@ -143,7 +143,7 @@
     "attack": 2600,
     "defense": 2300,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

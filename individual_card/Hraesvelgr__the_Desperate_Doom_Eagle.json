@@ -4,16 +4,16 @@
     "card_text": "2+ WIND monsters\nGains 2400 ATK while your opponent has no monsters in their GY. (Quick Effect): You can target 1 monster in your opponent's GY; shuffle it into the Deck. You can only use this effect of \"Hraesvelgr, the Desperate Doom Eagle\" once per turn.",
     "release_date": "2019-07-27",
     "available_set": [
-        "RISING RAMPAGE",
+        "2020 TIN OF LOST MEMORIES",
         "MAGNIFICENT MAESTROS",
-        "2020 TIN OF LOST MEMORIES"
+        "RISING RAMPAGE"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": 2400,
     "defense": null,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 266
 }

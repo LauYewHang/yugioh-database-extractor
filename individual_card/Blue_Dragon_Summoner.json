@@ -4,17 +4,17 @@
     "card_text": "If this card is sent from the field to the GY: You can add 1 Dragon, Warrior, or Spellcaster Normal Monster from your Deck to your hand.",
     "release_date": "2014-07-11",
     "available_set": [
-        "DEMO DECK 2026",
-        "SUPER STARTER SPACE-TIME SHOWDOWN",
         "DEMO DECK 2016 (UK)",
-        "SPEED DUEL STARTER DECK: DESTINY MASTERS"
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "DEMO DECK 2026"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": 1500,
     "defense": 600,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

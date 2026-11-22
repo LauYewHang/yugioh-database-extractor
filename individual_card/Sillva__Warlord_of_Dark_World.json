@@ -4,13 +4,13 @@
     "card_text": "If this card is discarded to the GY by card effect: Special Summon this card, then, if it was discarded from your hand to your GY by an opponent's card effect, your opponent places exactly 2 cards from their hand on the bottom of their Deck, in any order.",
     "release_date": "2005-11-05",
     "available_set": [
-        "GATES OF THE UNDERWORLD STRUCTURE DECK",
-        "QUARTER CENTURY BONANZA",
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "GOLD SERIES",
-        "ELEMENTAL ENERGY",
         "STRUCTURE DECK: DARK WORLD",
-        "DARK REVELATION Volume 4"
+        "QUARTER CENTURY BONANZA",
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "GOLD SERIES"
     ],
     "related_card": [
         "Ceruli, Guru of Dark World",
@@ -32,7 +32,7 @@
     "attack": 2300,
     "defense": 1400,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

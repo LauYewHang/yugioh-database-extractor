@@ -4,17 +4,17 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing all face-up monsters on the field that activated their effects this turn in your opponent's Monster Zone. Gains 1500 ATK for each monster Tributed to Special Summon this card. During your End Phase: You can target 1 monster in your opponent's GY; Special Summon it to your field. You can only use this effect of \"Kurikara Divincarnate\" once per turn.",
     "release_date": "2022-08-05",
     "available_set": [
-        "OTS TOURNAMENT PACK 23",
         "POWER OF THE ELEMENTS",
-        "RARITY COLLECTION 5",
-        "BATTLES OF LEGEND: TERMINAL REVENGE"
+        "OTS TOURNAMENT PACK 23",
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "RARITY COLLECTION 5"
     ],
     "related_card": [],
     "attribute": "FIRE",
     "attack": 1500,
     "defense": 1500,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

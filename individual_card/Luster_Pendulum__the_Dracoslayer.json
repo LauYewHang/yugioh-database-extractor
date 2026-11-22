@@ -4,10 +4,10 @@
     "card_text": "Cannot Special Summon Fusion, Synchro, or Xyz Monsters using this card as material, except \"Dracoslayer\" monsters.",
     "release_date": "2015-08-07",
     "available_set": [
-        "ANCIENT\u3000GUARDIANS",
-        "QUARTER CENTURY STAMPEDE",
+        "CLASH OF REBELLIONS",
         "PREMIUM GOLD: INFINITE GOLD",
-        "CLASH OF REBELLIONS"
+        "ANCIENT\u3000GUARDIANS",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Dinomight Powerload, the Dracoslayer",
@@ -32,7 +32,7 @@
     "attack": 1850,
     "defense": 0,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 5122,
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn, if you have a card in your other Pendulum Zone: You can destroy that card, and if you do, add 1 card from your Deck to your hand, with the same name as that card.",

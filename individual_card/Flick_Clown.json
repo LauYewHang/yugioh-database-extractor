@@ -4,16 +4,16 @@
     "card_text": "If you control at least 2 other Cyberse monsters and have no cards in your hand: You can pay 1000 LP; draw 1 card. You can only use this effect of \"Flick Clown\" once per turn.",
     "release_date": "2018-02-02",
     "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
         "EXTREME FORCE",
-        "STAR PACK: VRAINS",
-        "2018 MEGA-TINS MEGA PACK"
+        "STAR PACK: VRAINS"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1000,
     "defense": 1400,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

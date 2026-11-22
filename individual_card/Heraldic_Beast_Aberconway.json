@@ -4,8 +4,8 @@
     "card_text": "If this card is in your GY: You can banish 1 other \"Heraldic Beast Aberconway\" from your GY, then target 1 \"Heraldic Beast\" monster in your GY; add that target to your hand. You can only use this effect of \"Heraldic Beast Aberconway\" once per turn.",
     "release_date": "2012-11-09",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
-        "ABYSS RISING"
+        "ABYSS RISING",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "Advanced Heraldry Art",
@@ -29,7 +29,7 @@
     "attack": 1800,
     "defense": 900,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

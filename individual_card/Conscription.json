@@ -4,11 +4,11 @@
     "card_text": "Excavate the top card of your opponent's Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it to your field. Otherwise, add that card to your opponent's hand.",
     "release_date": "2005-08-06",
     "available_set": [
-        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
-        "CYBERNETIC REVOLUTION",
         "SPEED DUEL: ARENA OF LOST SOULS",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
         "DARK REVELATION Volume 4",
-        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+        "CYBERNETIC REVOLUTION",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

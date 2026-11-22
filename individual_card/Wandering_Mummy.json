@@ -4,15 +4,15 @@
     "card_text": "You can flip this card into face-down Defense Position once per turn during your Main Phase. After you use this effect, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
     "release_date": "2003-07-18",
     "available_set": [
-        "DARK BEGINNING 2",
-        "PHARAONIC GUARDIAN"
+        "PHARAONIC GUARDIAN",
+        "DARK BEGINNING 2"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1500,
     "defense": 1500,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

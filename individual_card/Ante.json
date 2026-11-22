@@ -4,9 +4,9 @@
     "card_text": "Each Player reveals 1 card from their hand. If one card is higher Level than the other, the card with the lower Level is sent to the Graveyard, and the player who revealed it takes 1000 damage. (Non-Monster Cards are treated as Level 0.)",
     "release_date": "2003-10-10",
     "available_set": [
-        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1",
         "BATTLE PACK EPIC DAWN",
-        "DARK REVELATION Volume 1"
+        "MAGICIAN'S FORCE"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

@@ -4,12 +4,12 @@
     "card_text": "Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.",
     "release_date": "2014-07-11",
     "available_set": [
-        "MASTER OF PENDULUM STRUCTURE DECK",
-        "STAR PACK ARC-V",
-        "LEGENDARY DUELISTS: MAGICAL HERO",
         "PENDULUM EVOLUTION",
+        "STAR PACK ARC-V",
+        "MASTER OF PENDULUM STRUCTURE DECK",
         "SUPER STARTER SPACE-TIME SHOWDOWN",
-        "STARTER DECK YUYA"
+        "STARTER DECK YUYA",
+        "LEGENDARY DUELISTS: MAGICAL HERO"
     ],
     "related_card": [
         "Acrobatic Magician",
@@ -93,7 +93,7 @@
     "attack": 1200,
     "defense": 600,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "You must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.",

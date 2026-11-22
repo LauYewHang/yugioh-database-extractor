@@ -4,8 +4,8 @@
     "card_text": "While \"Umi\" is on the field, each player can only control 1 face-up non-WATER monster (if a player controls 2 or more, they must send some to the GY so they only control 1). During your Main Phase: You can add from your Deck to your hand 1 \"Umi\", 1 \"Kairyu-Shin\" Spell/Trap, or 1 \"Sea Stealth\" Spell/Trap. You can only use this effect of \"Ocean Dragon Lord - Kairyu-Shin\" once per turn.",
     "release_date": "2022-06-17",
     "available_set": [
-        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
-        "ULTIMATE TOURNAMENT PACK 2"
+        "ULTIMATE TOURNAMENT PACK 2",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
     ],
     "related_card": [
         "A Legendary Ocean",
@@ -32,7 +32,7 @@
     "attack": 2000,
     "defense": 1700,
     "monster_type": "Sea Serpent",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

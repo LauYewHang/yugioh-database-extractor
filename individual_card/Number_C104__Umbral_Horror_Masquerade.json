@@ -4,8 +4,8 @@
     "card_text": "4 Level 5 monsters\nWhen this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy that target. If this card has \"Number 104: Masquerade\" as material, it gains this effect.\n\u25cfOnce per turn, when a monster effect is activated on your opponent's field (Quick Effect): You can detach 1 material from this card; negate the activation, then you can send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.",
     "release_date": "2013-08-09",
     "available_set": [
-        "JUDGMENT OF THE LIGHT",
-        "RARITY COLLECTION 5"
+        "RARITY COLLECTION 5",
+        "JUDGMENT OF THE LIGHT"
     ],
     "related_card": [
         "Abyss Shark",
@@ -91,7 +91,7 @@
     "attack": 3000,
     "defense": 1500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

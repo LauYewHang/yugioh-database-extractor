@@ -4,12 +4,12 @@
     "card_text": "If the only cards your opponent controls are Defense Position monsters, this card can attack directly.",
     "release_date": "2004-03-01",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "DARK REVELATION Volume 2",
-        "STRUCTURE DECK DINOSAUR'S RAGE",
         "SPEED DUEL TOURNAMENT PACK 7",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
         "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "DARK REVELATION Volume 2",
         "INVASION OF CHAOS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
     ],
     "related_card": [],
@@ -17,7 +17,7 @@
     "attack": 2600,
     "defense": 1800,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

@@ -4,8 +4,8 @@
     "card_text": "1 \"Dinomorphia\" Fusion Monster + 1 \"Dinomorphia\" monster\nYour opponent cannot activate the effects of monsters they control that have ATK greater than or equal to your LP. You can only use each of the following effects of \"Dinomorphia Rexterm\" once per turn. (Quick Effect): You can pay half your LP; the ATK of all monsters your opponent currently controls become equal to your LP, until the end of this turn. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 6 or lower \"Dinomorphia\" monster from your GY.",
     "release_date": "2022-05-20",
     "available_set": [
-        "DIMENSION FORCE",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
     ],
     "related_card": [
         "Dinomorphia Alert",
@@ -25,7 +25,7 @@
     "attack": 3000,
     "defense": 0,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

@@ -4,8 +4,8 @@
     "card_text": "If you control no face-up cards, you can Normal Summon this card without Tributing, but its original ATK becomes 1800. If this card is Normal or Special Summoned: You can reveal 3 EARTH Machine monsters from your Deck, then your opponent randomly adds 1 of them to your hand, and you shuffle the rest back into your Deck. You can only use this effect of \"Machina Metalcruncher\" once per turn.",
     "release_date": "2020-05-01",
     "available_set": [
-        "ETERNITY CODE",
-        "2021 TIN OF ANCIENT BATTLES"
+        "2021 TIN OF ANCIENT BATTLES",
+        "ETERNITY CODE"
     ],
     "related_card": [
         "Machina Air Raider",
@@ -25,7 +25,7 @@
     "attack": 2800,
     "defense": 0,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

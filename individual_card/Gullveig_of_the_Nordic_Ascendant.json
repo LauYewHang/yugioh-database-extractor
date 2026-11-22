@@ -4,8 +4,8 @@
     "card_text": "1 Level 5 or lower \"Nordic\" monster\nIf this card is Link Summoned: You can banish up to 3 cards from your hand and/or field, and if you do, Special Summon that many \"Nordic\" monsters from your Deck in Defense Position, also, for the rest of this turn, you cannot Special Summon monsters, except \"Aesir\" monsters, nor Normal Summon/Set any monsters. You can only use this effect of \"Gullveig of the Nordic Ascendant\" once per turn. While this card points to an \"Aesir\" monster, your opponent cannot target that monster with card effects, also monsters your opponent controls cannot target this card for attacks.",
     "release_date": "2018-10-12",
     "available_set": [
-        "OTS TOURNAMENT PACK 18",
-        "LEGENDARY HERO DECKS"
+        "LEGENDARY HERO DECKS",
+        "OTS TOURNAMENT PACK 18"
     ],
     "related_card": [
         "Alviss of the Nordic Alfar",
@@ -42,7 +42,7 @@
     "attack": 800,
     "defense": null,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 2
 }

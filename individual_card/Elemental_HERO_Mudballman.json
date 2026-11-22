@@ -4,8 +4,8 @@
     "card_text": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways.",
     "release_date": "2006-12-26",
     "available_set": [
-        "Promotional Cards 2",
         "RA YELLOW MEGA PACK",
+        "Promotional Cards 2",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
     ],
     "related_card": [
@@ -141,7 +141,7 @@
     "attack": 1900,
     "defense": 3000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

@@ -4,12 +4,12 @@
     "card_text": "Cannot be Special Summoned. While you control no Set Spells/Traps, neither player can Set Spells/Traps nor activate Spell/Trap Cards that are Set on the field.",
     "release_date": "2014-11-07",
     "available_set": [
-        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
-        "STRUCTURE DECK: SPIRIT CHARMERS",
-        "THE NEW CHALLENGERS",
-        "BATTLES OF LEGEND - CHAPTER 1",
-        "Duel Devastator",
         "2015 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
+        "Duel Devastator",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "THE NEW CHALLENGERS",
         "2025 MEGA-PACK TIN"
     ],
     "related_card": [],
@@ -17,7 +17,7 @@
     "attack": 1700,
     "defense": 1000,
     "monster_type": "Thunder",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

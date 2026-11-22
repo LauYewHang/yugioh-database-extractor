@@ -4,15 +4,15 @@
     "card_text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Wyrm monster with 1500 or less DEF from your Deck.",
     "release_date": "2014-11-07",
     "available_set": [
-        "THE NEW CHALLENGERS",
-        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR"
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "THE NEW CHALLENGERS"
     ],
     "related_card": [],
     "attribute": "FIRE",
     "attack": 1400,
     "defense": 1100,
     "monster_type": "Wyrm",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

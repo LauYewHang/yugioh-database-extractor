@@ -4,8 +4,8 @@
     "card_text": "2+ FIRE Effect Monsters\nIf this card is Link Summoned using \"Salamangreat Pyro Phoenix\" as material: You can destroy all cards your opponent controls. You can only use each of the following effects of \"Salamangreat Pyro Phoenix\" once per turn.\n\u25cfYou can target 1 Link Monster in your opponent's GY; Special Summon it to your opponent's field.\n\u25cfIf a Link Monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 of those monsters; inflict damage to your opponent equal to that monster's original ATK.",
     "release_date": "2019-10-25",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "CHAOS IMPACT"
+        "CHAOS IMPACT",
+        "2020 TIN OF LOST MEMORIES"
     ],
     "related_card": [
         "Burning Draw",
@@ -55,7 +55,7 @@
     "attack": 2800,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 340
 }

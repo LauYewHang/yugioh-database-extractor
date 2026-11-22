@@ -4,8 +4,8 @@
     "card_text": "You can Tribute this card; add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\" or \"Raviel, Lord of Phantasms\" from your Deck or GY to your hand, then you can Special Summon 1 Level 10 Pyro, Thunder, or Fiend monster from your hand whose ATK equals its own DEF, ignoring its Summoning conditions, but it cannot attack directly this turn. You can banish this card from your GY; add 1 \"Dimension Fusion Destruction\" from your Deck to your hand. You can only use each effect of \"Phantasmal Summoning Beast\" once per turn.",
     "release_date": "2024-02-09",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "PHANTOM NIGHTMARE"
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Dark Beckoning Beast",
@@ -19,7 +19,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

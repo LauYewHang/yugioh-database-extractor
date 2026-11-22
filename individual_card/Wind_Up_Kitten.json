@@ -4,8 +4,8 @@
     "card_text": "Once while face-up on the field: You can target 1 monster your opponent controls; return that target to the hand.",
     "release_date": "2011-11-15",
     "available_set": [
-        "MAZE OF MEMORIES",
-        "PHOTON SHOCKWAVE"
+        "PHOTON SHOCKWAVE",
+        "MAZE OF MEMORIES"
     ],
     "related_card": [
         "Legendary Wind-Up Key",
@@ -32,7 +32,7 @@
     "attack": 800,
     "defense": 500,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

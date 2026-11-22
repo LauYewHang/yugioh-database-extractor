@@ -4,14 +4,14 @@
     "card_text": "Negate all Spell effects on the field. Once per turn, during the Standby Phase, you must pay 700 LP (this is not optional), or this card is destroyed.",
     "release_date": "2002-10-20",
     "available_set": [
-        "QUARTER CENTURY BONANZA",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "DARK BEGINNING 1",
-        "PHARAOH'S SERVANT",
         "STRUCTURE DECK: ROKKET REVOLT",
-        "OTS TOURNAMENT PACK 9",
         "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
-        "DUELIST SAGA"
+        "PHARAOH'S SERVANT",
+        "OTS TOURNAMENT PACK 9",
+        "QUARTER CENTURY BONANZA",
+        "DARK BEGINNING 1",
+        "DUELIST SAGA",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

@@ -4,9 +4,9 @@
     "card_text": "If this card is destroyed by battle and sent to the GY: Special Summon 1 \"Troop Dragon\" from your Deck.",
     "release_date": "2003-06-06",
     "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
         "LEGACY OF DARKNESS",
         "DARK BEGINNING 2",
-        "SPEED DUEL GX: DUELISTS OF SHADOWS",
         "SPEED DUEL: SCARS OF BATTLE"
     ],
     "related_card": [],
@@ -14,7 +14,7 @@
     "attack": 700,
     "defense": 800,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

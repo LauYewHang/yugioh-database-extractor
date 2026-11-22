@@ -4,8 +4,8 @@
     "card_text": "2+ Insect monsters\nWhile this Link Summoned card has 3000 or less ATK, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You cannot Special Summon monsters, except Insect monsters. You can Tribute 1 Insect monster, then activate 1 of these effects;\n\u25cfSpecial Summon 1 \"Beetrooper\" monster from your Deck.\n\u25cfThis card gains 2000 ATK until the end of this turn.\nYou can only use this effect of \"Giant Beetrooper Invincible Atlas\" once per turn.",
     "release_date": "2021-08-13",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "DAWN OF MAJESTY"
+        "DAWN OF MAJESTY",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Beetrooper Armor Horn",
@@ -27,7 +27,7 @@
     "attack": 3000,
     "defense": null,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 270
 }

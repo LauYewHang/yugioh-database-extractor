@@ -4,10 +4,10 @@
     "card_text": "Select and destroy 2 of your monsters and 1 of your opponent's monsters.",
     "release_date": "2002-03-08",
     "available_set": [
-        "LEGEND OF BLUE EYES WHITE DRAGON",
-        "STARTER DECK YUGI",
         "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
-        "STARTER DECK KAIBA"
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "STARTER DECK KAIBA",
+        "STARTER DECK YUGI"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

@@ -4,8 +4,8 @@
     "card_text": "2+ monsters, including an Insect, Plant, or Reptile monster\nYou can banish 2 Insect, Plant, and/or Reptile monsters from your GY; add 1 \"Ragnaraika\" Trap from your Deck to your hand. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card, also you cannot Special Summon for the rest of this turn, except Insect, Plant, or Reptile monsters. You can only use each effect of \"Ragnaraika Mantis Monk\" once per turn.",
     "release_date": "2024-04-26",
     "available_set": [
-        "LEGACY OF DESTRUCTION",
-        "2025 MEGA-PACK TIN"
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
     ],
     "related_card": [
         "Ragnaraika Armored Lizard",
@@ -24,7 +24,7 @@
     "attack": 2300,
     "defense": null,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 28
 }

@@ -27,7 +27,7 @@
     "attack": 2800,
     "defense": 2800,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4106,
     "level_rank_type": "Level",
     "level_rank_rating": 10,
     "pendulum_effect": "You can activate 1 of these effects;\n\u25cfSpecial Summon this card to your Main Monster Zone in its same column.\n\u25cfMove 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.\nYou can only use this effect of \"Mamonaka the Vaylantz United\" once per turn.",

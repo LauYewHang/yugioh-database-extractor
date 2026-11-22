@@ -4,8 +4,8 @@
     "card_text": "If this card is added to your hand, except by drawing it: You can Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Snake-Eye\" Spell/Trap from your Deck to your hand. If this card is sent to the GY: You can target 1 FIRE monster in your GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. You can only use each effect of \"Snake-Eyes Poplar\" once per turn.",
     "release_date": "2024-02-09",
     "available_set": [
-        "LIMITED PACK WORLD CHAMPIONSHIP 2025",
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "LIMITED PACK WORLD CHAMPIONSHIP 2025",
         "PHANTOM NIGHTMARE"
     ],
     "related_card": [
@@ -26,7 +26,7 @@
     "attack": 700,
     "defense": 200,
     "monster_type": "Pyro",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

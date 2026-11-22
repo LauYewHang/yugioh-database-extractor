@@ -4,10 +4,10 @@
     "card_text": "Discard 2 cards from your hand. Negate the activation of a Spell Card and destroy it. Also, look at your opponent's hand and Deck and if you find any Spell Cards of the same name as the destroyed Spell Card, send all of them to the Graveyard.",
     "release_date": "2003-12-01",
     "available_set": [
-        "DARK CRISIS",
+        "DARK REVELATION Volume 1",
         "DARK CRISIS (LC01 25th Anniversary Edition)",
-        "DARK CRISIS (Reprint)",
-        "DARK REVELATION Volume 1"
+        "DARK CRISIS",
+        "DARK CRISIS (Reprint)"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

@@ -5,10 +5,10 @@
     "release_date": "2020-01-17",
     "available_set": [
         "DEMO PROGRESSION SET 2026",
-        "BROTHERS OF LEGEND",
-        "LEGENDARY DUELISTS: MAGICAL HERO",
         "25TH ANNIVERSARY RARITY COLLECTION 2",
-        "LEGENDARY DUELISTS: SEASON 3"
+        "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
+        "BROTHERS OF LEGEND"
     ],
     "related_card": [
         "Chronicle Sorceress",
@@ -33,7 +33,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

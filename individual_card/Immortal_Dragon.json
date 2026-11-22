@@ -4,15 +4,15 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nDuring your Main Phase: You can send 1 Zombie monster from your Deck to the GY, and if you do, this card's Level becomes the difference in the original Levels of that monster and this card. When your Zombie monster is destroyed by battle, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Immortal Dragon\" once per turn.",
     "release_date": "2022-05-20",
     "available_set": [
-        "DIMENSION FORCE",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 500,
     "defense": 2400,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1042,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

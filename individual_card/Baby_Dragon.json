@@ -4,16 +4,16 @@
     "card_text": "Much more than just a child, this dragon is gifted with untapped power.",
     "release_date": "2002-06-26",
     "available_set": [
-        "LEGENDARY DECKS II",
-        "METAL RAIDERS (LC01 25th Anniversary Edition)",
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "DARK LEGENDS",
-        "SPEED DUEL: STREETS OF BATTLE CITY",
-        "METAL RAIDERS",
-        "RETRO PACK",
         "STARTER DECK JOEY",
+        "METAL RAIDERS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "LEGENDARY DECKS II",
         "DARK BEGINNING 2",
-        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+        "RETRO PACK",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Alligator's Sword Dragon",
@@ -23,7 +23,7 @@
     "attack": 1200,
     "defense": 700,
     "monster_type": "Dragon",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,10 +4,10 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. When this card is targeted for an attack: You can target 1 Spell in your GY; Set that target.",
     "release_date": "2014-04-25",
     "available_set": [
-        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
-        "DRAGONS OF LEGEND -UNLEASHED-",
+        "LEGENDARY DRAGON DECKS",
         "DRAGONS OF LEGEND",
-        "LEGENDARY DRAGON DECKS"
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
     ],
     "related_card": [
         "Legend of Heart",
@@ -17,7 +17,7 @@
     "attack": 2800,
     "defense": 1800,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

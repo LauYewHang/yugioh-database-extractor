@@ -4,17 +4,17 @@
     "card_text": "2 Effect Monsters\nIf this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Silhouhatte Rabbit\" once per turn. If this card is Link Summoned: You can Set 1 Continuous Trap from your Deck with an effect that Special Summons itself as a monster, also this card cannot be used as Link Material this turn. If a card in the Spell & Trap Zone is Special Summoned to the Monster Zone (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it.",
     "release_date": "2024-07-19",
     "available_set": [
-        "OTS TOURNAMENT PACK 27",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
         "THE INFINITE FORBIDDEN",
         "2025 MEGA-PACK TIN",
-        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+        "OTS TOURNAMENT PACK 27"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 1500,
     "defense": null,
     "monster_type": "Illusion",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

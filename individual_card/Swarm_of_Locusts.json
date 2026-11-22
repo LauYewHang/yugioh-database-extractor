@@ -4,11 +4,11 @@
     "card_text": "Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: Target 1 Spell/Trap your opponent controls; destroy that target.",
     "release_date": "2003-07-18",
     "available_set": [
-        "GOLD SERIES",
         "PHARAONIC GUARDIAN",
-        "SPEED DUEL: BATTLE CITY FINALS",
         "DARK BEGINNING 2",
         "Speed Duel: Battle City Box",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "GOLD SERIES",
         "ASTRAL PACK THREE"
     ],
     "related_card": [],
@@ -16,7 +16,7 @@
     "attack": 1000,
     "defense": 500,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

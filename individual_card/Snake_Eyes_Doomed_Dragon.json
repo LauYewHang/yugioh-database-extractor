@@ -4,8 +4,8 @@
     "card_text": "1 \"Snake-Eye\" monster + 1 Illusion monster\nMust be either Fusion Summoned, or Special Summoned by sending 2 face-up Monster Cards from your Spell & Trap Zone to the GY. If this card is Special Summoned: You can target 1 face-up monster on the field; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. You can only use this effect of \"Snake-Eyes Doomed Dragon\" once per turn.",
     "release_date": "2025-01-24",
     "available_set": [
-        "SUPREME DARKNESS",
-        "RARITY COLLECTION 5"
+        "RARITY COLLECTION 5",
+        "SUPREME DARKNESS"
     ],
     "related_card": [
         "Divine Temple of the Snake-Eye",
@@ -25,7 +25,7 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

@@ -4,8 +4,8 @@
     "card_text": "If this card is sent from the hand to the GY: You can target 2 other Beast, Beast-Warrior, Winged Beast, Insect, and/or Plant monsters with different Types in your GY; shuffle them into the Deck, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Mystical Beast of the Forest\" monster or 1 \"Mystical Spirit of the Forest\" monster from your Deck to your hand, except \"Carpiponica, Mystical Beast of the Forest\". You can only use each effect of \"Carpiponica, Mystical Beast of the Forest\" once per turn.",
     "release_date": "2021-08-13",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "DAWN OF MAJESTY"
+        "DAWN OF MAJESTY",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Alpacaribou, Mystical Beast of the Forest",
@@ -20,7 +20,7 @@
     "attack": 1000,
     "defense": 2600,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

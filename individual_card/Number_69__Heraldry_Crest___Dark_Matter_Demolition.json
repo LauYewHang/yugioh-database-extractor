@@ -78,7 +78,7 @@
     "attack": 3100,
     "defense": 1900,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

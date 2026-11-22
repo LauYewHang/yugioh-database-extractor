@@ -4,8 +4,8 @@
     "card_text": "You can Special Summon this card (from your hand) to your Main Monster Zone, adjacent to a \"Scareclaw\" monster you control or in its column. You can only Special Summon \"Scareclaw Belone\" once per turn this way. If your \"Scareclaw\" monster in the Extra Monster Zone attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
     "release_date": "2022-05-20",
     "available_set": [
-        "DIMENSION FORCE",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
     ],
     "related_card": [
         "Primitive Planet Reichphobia",
@@ -27,7 +27,7 @@
     "attack": 0,
     "defense": 1700,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,15 +4,15 @@
     "card_text": "If this card is in your hand: You can target 1 WATER monster in your Main Monster Zone; destroy that monster you control, and if you do, Special Summon this card to the zone that monster was in, then you can destroy all face-up cards your opponent controls in this card's column. You can only use this effect of \"Tsuru-Puru-Purun\" once per turn.",
     "release_date": "2024-10-11",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "RAGE OF THE ABYSS"
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 450,
     "defense": 500,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

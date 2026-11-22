@@ -4,17 +4,17 @@
     "card_text": "Once per turn, during your Main Phase, you can pay 800 Life Points. If you do this, until the End Phase, Spell and Trap Cards cannot be activated.",
     "release_date": "2003-12-01",
     "available_set": [
-        "DARK CRISIS",
+        "DARK REVELATION Volume 1",
         "DARK CRISIS (LC01 25th Anniversary Edition)",
-        "DARK CRISIS (Reprint)",
-        "DARK REVELATION Volume 1"
+        "DARK CRISIS",
+        "DARK CRISIS (Reprint)"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": 200,
     "defense": 300,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

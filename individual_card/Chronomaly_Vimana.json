@@ -4,9 +4,9 @@
     "card_text": "2 Level 5 monsters\nOnce per turn (Quick Effect): You can target 1 face-up monster on the field and 1 Xyz Monster or \"Chronomaly\" monster in your GY; that monster on the field gains half the ATK of that monster in the GY (until the end of this turn), then attach that monster from the GY to this card as material. Once per turn, when your opponent activates a monster effect (Quick Effect): You can detach 2 materials from this card; negate the activation.",
     "release_date": "2021-08-13",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
+        "DAWN OF MAJESTY",
         "Justice Hunters",
-        "DAWN OF MAJESTY"
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Chronomaly Acambaro Figures",
@@ -43,7 +43,7 @@
     "attack": 2300,
     "defense": 2600,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

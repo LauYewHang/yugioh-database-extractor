@@ -4,18 +4,18 @@
     "card_text": "If this card is sent from the Monster Zone to the GY: You can activate 1 Trap Card from your hand this turn. You can only use this effect of \"Makyura the Destructor\" once per turn.",
     "release_date": "2004-10-12",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "DARK BEGINNING 1",
         "SPEED DUEL: BATTLE CITY FINALS",
-        "BATTLE PACK EPIC DAWN",
-        "LEGENDARY DUELISTS: RAGE OF RA"
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "BATTLE PACK EPIC DAWN"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1600,
     "defense": 1200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

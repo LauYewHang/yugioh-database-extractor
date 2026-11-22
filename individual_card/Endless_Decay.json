@@ -4,16 +4,16 @@
     "card_text": "If you have 2000 LP or less, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: This card's ATK becomes half the opponent's LP.",
     "release_date": "2013-01-18",
     "available_set": [
+        "COLLECTIBLE TIN 2012 WAVE 2.5",
         "SHONEN JUMP Promotional Card - December 2011 -",
-        "STRUCTURE DECK: ZOMBIE HORDE",
-        "COLLECTIBLE TIN 2012 WAVE 2.5"
+        "STRUCTURE DECK: ZOMBIE HORDE"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": "?",
     "defense": 0,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

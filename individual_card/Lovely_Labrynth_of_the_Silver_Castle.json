@@ -5,10 +5,10 @@
     "release_date": "2022-08-26",
     "available_set": [
         "TACTICAL MASTERS",
+        "RARITY COLLECTION 5",
         "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
         "MAGNIFICENT MAESTROS",
-        "QUARTER CENTURY STAMPEDE",
-        "RARITY COLLECTION 5"
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Arianna the Labrynth Servant",
@@ -27,7 +27,7 @@
     "attack": 2900,
     "defense": 1900,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

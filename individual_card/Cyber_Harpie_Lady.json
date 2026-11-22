@@ -4,14 +4,14 @@
     "card_text": "(This card's name is always treated as \"Harpie Lady\".)",
     "release_date": "2005-02-26",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "DARK LEGENDS",
         "FLAMING ETERNITY Sneak Peek",
-        "RETRO PACK",
-        "SPEED DUEL: BATTLE CITY FINALS",
         "Speed Duel: Battle City Box",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "RETRO PACK",
         "BATTLE PACK TOURNAMENT",
-        "LEGENDARY DUELISTS: SEASON 2"
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Alluring Mirror Split",
@@ -48,7 +48,7 @@
     "attack": 1800,
     "defense": 1300,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

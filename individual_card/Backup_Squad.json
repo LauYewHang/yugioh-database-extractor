@@ -4,10 +4,10 @@
     "card_text": "Each time you take 1000 or more damage by your opponent's card effect or their monster's attack: Draw 1 card for every 1000 damage you took.",
     "release_date": "2017-10-20",
     "available_set": [
-        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
-        "CIRCUIT BREAK",
         "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "CIRCUIT BREAK"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

@@ -4,8 +4,8 @@
     "card_text": "When this card is Normal Summoned, put 2 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, at the end of the Damage Step toss a coin and call it. If you call it wrong, remove 1 counter. If this card battles without a counter, destroy it at the end of the Damage Step.",
     "release_date": "2006-02-18",
     "available_set": [
-        "DARK REVELATION Volume 4",
-        "SHADOW OF INFINITY"
+        "SHADOW OF INFINITY",
+        "DARK REVELATION Volume 4"
     ],
     "related_card": [
         "B.E.F. Zelos",
@@ -19,7 +19,7 @@
     "attack": 2500,
     "defense": 800,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

@@ -5,11 +5,11 @@
     "release_date": "2018-07-27",
     "available_set": [
         "LEGENDARY MODERN DECKS 2026",
-        "MAGNIFICENT MAVENS",
-        "CYBERNETIC HORIZON",
-        "QUARTER CENTURY STAMPEDE",
         "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
-        "OTS TOURNAMENT PACK 10"
+        "MAGNIFICENT MAVENS",
+        "OTS TOURNAMENT PACK 10",
+        "CYBERNETIC HORIZON",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Aileron",
@@ -51,7 +51,7 @@
     "attack": 1500,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 2
 }

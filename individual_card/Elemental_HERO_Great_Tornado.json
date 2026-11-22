@@ -4,8 +4,8 @@
     "card_text": "1 \"Elemental HERO\" monster + 1 WIND monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Fusion Summoned: Halve the ATK and DEF of all face-up monsters your opponent currently controls.",
     "release_date": "2011-10-04",
     "available_set": [
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS",
-        "HERO STRIKE STRUCTURE DECK"
+        "HERO STRIKE STRUCTURE DECK",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS"
     ],
     "related_card": [
         "A Hero Lives",
@@ -182,7 +182,7 @@
     "attack": 2800,
     "defense": 2200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

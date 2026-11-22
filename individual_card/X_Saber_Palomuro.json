@@ -4,9 +4,9 @@
     "card_text": "When another \"Saber\" monster you control is destroyed by battle and sent to the GY, while this card is in your GY: You can pay 500 LP; Special Summon this card.",
     "release_date": "2010-01-29",
     "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
         "THE SHINING DARKNESS",
-        "DUEL TERMINAL 1",
-        "LEGENDARY MODERN DECKS 2026"
+        "DUEL TERMINAL 1"
     ],
     "related_card": [
         "At One With the Sword",
@@ -66,7 +66,7 @@
     "attack": 200,
     "defense": 300,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

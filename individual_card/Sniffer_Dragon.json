@@ -4,16 +4,16 @@
     "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Sniffer Dragon\" from your Deck to your hand. You can only use this effect of \"Sniffer Dragon\" once per turn.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
+        "2018 MEGA-TINS MEGA PACK",
         "STAR PACK: VRAINS",
-        "2018 MEGA-TINS MEGA PACK"
+        "CIRCUIT BREAK"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 800,
     "defense": 400,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

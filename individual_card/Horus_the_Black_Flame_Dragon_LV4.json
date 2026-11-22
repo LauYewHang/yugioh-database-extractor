@@ -4,10 +4,10 @@
     "card_text": "Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV6\" from your hand or Deck.",
     "release_date": "2004-10-01",
     "available_set": [
-        "SOUL OF THE DUELIST",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 3",
         "STARTER DECK KAIBA RELOADED",
-        "DARK REVELATION Volume 3"
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SOUL OF THE DUELIST"
     ],
     "related_card": [
         "Canopic Protector",
@@ -28,7 +28,7 @@
     "attack": 1600,
     "defense": 1000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

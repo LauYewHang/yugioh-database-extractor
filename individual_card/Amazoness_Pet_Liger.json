@@ -4,8 +4,8 @@
     "card_text": "\"Amazoness Tiger\" + 1 \"Amazoness\" monster\nOnce per battle, if this card attacks, during damage calculation: You can make this card gain 500 ATK during that damage calculation only. If your \"Amazoness\" monster attacked an opponent's monster, after damage calculation: You can target 1 face-up monster your opponent controls; it loses 800 ATK. Monsters your opponent controls cannot attack \"Amazoness\" monsters you control, except this one.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
     ],
     "related_card": [
         "Amazoness Archer (Updated from: Amazon Archer)",
@@ -48,7 +48,7 @@
     "attack": 2500,
     "defense": 2400,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

@@ -5,8 +5,8 @@
     "release_date": "2019-07-27",
     "available_set": [
         "RISING RAMPAGE",
-        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
-        "2020 TIN OF LOST MEMORIES"
+        "2020 TIN OF LOST MEMORIES",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
     ],
     "related_card": [
         "Marincess Aqua Argonaut",
@@ -40,7 +40,7 @@
     "attack": 2000,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 20
 }

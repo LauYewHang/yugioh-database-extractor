@@ -4,8 +4,8 @@
     "card_text": "Activate only as Chain Link 3 or higher (Quick Effect): You can Special Summon this card from your hand. Spell Cards that have been activated are banished instead of being sent to the GY. The ATK/DEF of this card are each equal to the number of Spells in your opponent's GY x 500. You can only control 1 \"Winged Kuriboh LV9\".",
     "release_date": "2009-06-02",
     "available_set": [
-        "ADVENT CALENDAR 2019",
         "RA YELLOW MEGA PACK",
+        "ADVENT CALENDAR 2019",
         "Yu-Gi-Oh! GX volume 3 Promotional Card",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
     ],
@@ -25,7 +25,7 @@
     "attack": "?",
     "defense": "?",
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

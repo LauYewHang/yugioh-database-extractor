@@ -4,8 +4,8 @@
     "card_text": "2+ Warrior monsters\nGains ATK equal to the combined Link Ratings of all other Link Monsters you control x 200. This Link Summoned card is unaffected by other cards' effects. You can Tribute 1 \"Gouki\" Link Monster, then target cards on the field, up to its Link Rating; destroy them. You can only use this effect of \"Gouki The Powerload Ogre\" once per turn.",
     "release_date": "2020-05-01",
     "available_set": [
-        "ETERNITY CODE",
-        "2021 TIN OF ANCIENT BATTLES"
+        "2021 TIN OF ANCIENT BATTLES",
+        "ETERNITY CODE"
     ],
     "related_card": [
         "Gouki Bearhug",
@@ -42,7 +42,7 @@
     "attack": 2800,
     "defense": null,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 78
 }

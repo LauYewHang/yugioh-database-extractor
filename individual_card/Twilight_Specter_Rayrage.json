@@ -11,7 +11,7 @@
     "attack": 1000,
     "defense": 1500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "If a Pendulum Monster(s) you control would be destroyed by an opponent's card effect, you can destroy this card instead of 1 of those Pendulum Monsters. You can only use this effect of \"Twilight Specter Rayrage\" once per turn.",

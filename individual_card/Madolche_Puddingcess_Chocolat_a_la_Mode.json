@@ -4,8 +4,8 @@
     "card_text": "2 Level 5 EARTH monsters\nYou can also Xyz Summon this card by using a Rank 4 or lower \"Madolche\" Xyz Monster you control as the material. (Transfer its materials to this card.) Once per turn: You can target 1 \"Madolche\" card in your GY; shuffle it into the Deck. While this card has \"Madolche Puddingcess\" as material, when a \"Madolche\" card(s) in your GY is shuffled into the Main Deck (except during the Damage Step): You can detach 1 material from this card; Special Summon 1 \"Madolche\" monster from your Deck in Attack Position or face-down Defense Position.",
     "release_date": "2015-05-15",
     "available_set": [
-        "CROSSED SOULS",
-        "DUEL OVERLOAD"
+        "DUEL OVERLOAD",
+        "CROSSED SOULS"
     ],
     "related_card": [
         "Madolche Anjelly",
@@ -41,7 +41,7 @@
     "attack": 2500,
     "defense": 2200,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

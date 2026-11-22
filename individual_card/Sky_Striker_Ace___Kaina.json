@@ -4,10 +4,10 @@
     "card_text": "1 non-EARTH \"Sky Striker Ace\" monster\nIf this card is Special Summoned: You can target 1 face-up monster your opponent controls; it cannot attack until the end of your opponent's turn. Each time you activate a \"Sky Striker\" Spell Card or effect, gain 100 LP immediately after the card or effect resolves. You can only Special Summon \"Sky Striker Ace - Kaina(s)\" once per turn.",
     "release_date": "2019-02-01",
     "available_set": [
-        "SAVAGE STRIKE",
-        "2020 TIN OF LOST MEMORIES",
+        "LEGENDARY MODERN DECKS 2026",
         "OTS TOURNAMENT PACK 11",
-        "LEGENDARY MODERN DECKS 2026"
+        "2020 TIN OF LOST MEMORIES",
+        "SAVAGE STRIKE"
     ],
     "related_card": [
         "Aileron",
@@ -49,7 +49,7 @@
     "attack": 1500,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 8
 }

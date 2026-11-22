@@ -5,8 +5,8 @@
     "release_date": "2012-05-08",
     "available_set": [
         "GALACTIC OVERLORD",
-        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
-        "BATTLES OF LEGEND - CHAPTER 1"
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-"
     ],
     "related_card": [
         "Accellight",
@@ -73,7 +73,7 @@
     "attack": 4500,
     "defense": 3000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

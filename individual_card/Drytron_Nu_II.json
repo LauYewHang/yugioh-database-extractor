@@ -4,8 +4,8 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. If a \"Drytron\" card is on the field: You can Special Summon this card from your hand or GY, but banish it when it leaves the field. If this card is Special Summoned: You can add 1 \"Drytron\" monster from your Deck to your hand, except \"Drytron Nu II\". You can only use each effect of \"Drytron Nu II\" once per turn, also you cannot Ritual Summon the turn you activate either of this card's effects, except Machine monsters.",
     "release_date": "2024-07-19",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "THE INFINITE FORBIDDEN"
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Drytron Alpha Thuban",
@@ -32,7 +32,7 @@
     "attack": 2000,
     "defense": 0,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

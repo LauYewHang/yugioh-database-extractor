@@ -5,10 +5,10 @@
     "release_date": "2023-05-05",
     "available_set": [
         "BATTLES OF LEGEND: GLORIOUS GALLERY",
-        "OTS TOURNAMENT PACK 24",
-        "CYBERSTORM ACCESS",
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "OTS TOURNAMENT PACK 24",
         "LEGENDARY ARC-V DECKS",
+        "CYBERSTORM ACCESS",
         "RARITY COLLECTION 5"
     ],
     "related_card": [
@@ -18,7 +18,7 @@
     "attack": 3500,
     "defense": 2800,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

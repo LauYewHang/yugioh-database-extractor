@@ -4,9 +4,9 @@
     "card_text": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"World Legacy - \"World Crown\"\" once per turn this way. When a monster on the field that was Special Summoned from the Extra Deck activates its effect (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. If this Normal Summoned/Set card is Tributed: You can add 1 \"World Legacy\" Spell/Trap from your Deck to your hand. You can only use this effect of \"World Legacy - \"World Crown\"\" once per turn.",
     "release_date": "2018-07-27",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
         "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
-        "CYBERNETIC HORIZON"
+        "CYBERNETIC HORIZON",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "Auram the World Chalice Blademaster",
@@ -64,7 +64,7 @@
     "attack": 2000,
     "defense": 2000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

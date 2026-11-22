@@ -34,7 +34,7 @@
     "attack": 2600,
     "defense": null,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 270
 }

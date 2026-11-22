@@ -4,19 +4,19 @@
     "card_text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cfThis card's name becomes \"Elemental HERO Neos\" while on the field.",
     "release_date": "2007-08-15",
     "available_set": [
-        "RA YELLOW MEGA PACK",
-        "QUARTER CENTURY BONANZA",
-        "PREMIUM GOLD: RETURN OF THE BLING",
-        "DUEL TERMINAL 6B",
-        "SPEED DUEL GX: MIDTERM DESTRUCTION",
-        "DUELIST PACK - JADEN YUKI 3 -",
-        "GOLD SERIES 2009",
-        "BATTLES OF LEGEND: ARMAGEDDON",
-        "OTS TOURNAMENT PACK 9",
         "HERO STRIKE STRUCTURE DECK",
-        "BATTLES OF LEGEND - CHAPTER 1",
+        "DUELIST PACK - JADEN YUKI 3 -",
+        "DUEL TERMINAL 6B",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "TACTICAL EVOLUTION"
+        "TACTICAL EVOLUTION",
+        "OTS TOURNAMENT PACK 9",
+        "QUARTER CENTURY BONANZA",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "RA YELLOW MEGA PACK",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "GOLD SERIES 2009"
     ],
     "related_card": [
         "A Hero Lives",
@@ -174,7 +174,7 @@
     "attack": 1900,
     "defense": 1300,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 514,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

@@ -4,8 +4,8 @@
     "card_text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: You can send 2 \"Monarch\" Spells/Traps with different names from your hand and/or Deck to the GY, and if you do, Special Summon 1 monster with 2400 or more ATK and 1000 DEF from your Deck, but return it to the hand during the End Phase. Once per Chain, during your opponent's Main Phase, if this card is in your hand (Quick Effect): You can banish 1 \"Monarch\" Spell/Trap from your GY; immediately after this effect resolves, Tribute Summon this card.",
     "release_date": "2016-01-29",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
-        "EMPEROR OF DARKNESS STRUCTURE DECK"
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Domain of the True Monarchs",
@@ -30,7 +30,7 @@
     "attack": 2800,
     "defense": 1000,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

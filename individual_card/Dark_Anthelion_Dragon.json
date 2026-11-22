@@ -11,7 +11,7 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4130,
     "level_rank_type": "Rank",
     "level_rank_rating": 7,
     "pendulum_effect": "Once per turn: You can target 1 face-up monster your opponent controls; halve its original ATK until the end of this turn (even if this card leaves the field).",

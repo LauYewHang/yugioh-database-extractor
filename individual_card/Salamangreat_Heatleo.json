@@ -4,10 +4,10 @@
     "card_text": "2+ FIRE Effect Monsters\nIf this card is Link Summoned: You can target 1 card in your opponent's Spell & Trap Zone; shuffle it into the Deck. Once per turn, during your Main Phase, if this card was Link Summoned using \"Salamangreat Heatleo\" as material: You can target 1 face-up monster on the field and 1 monster in your GY; the ATK of the first target becomes equal to the other target's, until the end of this turn.",
     "release_date": "2018-10-19",
     "available_set": [
-        "STRUCTURE DECK: SOULBURNER",
         "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
         "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
-        "SOUL FUSION"
+        "SOUL FUSION",
+        "STRUCTURE DECK: SOULBURNER"
     ],
     "related_card": [
         "Burning Draw",
@@ -57,7 +57,7 @@
     "attack": 2300,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 266
 }

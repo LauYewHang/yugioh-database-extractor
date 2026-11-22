@@ -4,10 +4,10 @@
     "card_text": "2 Cyberse monsters\nIf this card is Link Summoned: You can Special Summon 1 Cyberse monster from your hand to your zone this card points to. You can only use this effect of \"Code Talker Inverted\" once per turn.",
     "release_date": "2020-01-31",
     "available_set": [
-        "MAXIMUM GOLD: EL DORADO",
+        "25TH ANNIVERSARY RARITY COLLECTION",
         "IGNITION ASSAULT",
         "2021 TIN OF ANCIENT BATTLES",
-        "25TH ANNIVERSARY RARITY COLLECTION"
+        "MAXIMUM GOLD: EL DORADO"
     ],
     "related_card": [
         "Code Exporter",
@@ -27,7 +27,7 @@
     "attack": 1300,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 80
 }

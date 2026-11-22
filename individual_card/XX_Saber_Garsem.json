@@ -4,8 +4,8 @@
     "card_text": "Gains 200 ATK for each \"X-Saber\" monster you control. If this card on the field is destroyed by card effect and sent to the GY: Add 1 \"X-Saber\" monster from your Deck to your hand.",
     "release_date": "2010-02-16",
     "available_set": [
-        "ABSOLUTE POWERFORCE",
-        "LEGENDARY MODERN DECKS 2026"
+        "LEGENDARY MODERN DECKS 2026",
+        "ABSOLUTE POWERFORCE"
     ],
     "related_card": [
         "At One With the Sword",
@@ -47,7 +47,7 @@
     "attack": 1400,
     "defense": 400,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

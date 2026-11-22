@@ -4,9 +4,9 @@
     "card_text": "Send 3 cards from the top of your Deck to the Graveyard, and take 1000 damage for each Spell or Trap Card sent to the Graveyard this way.",
     "release_date": "2006-05-17",
     "available_set": [
+        "ENEMY OF JUSTICE",
         "DUELIST PACK - ASTER PHOENIX -",
-        "DARK REVELATION Volume 4",
-        "ENEMY OF JUSTICE"
+        "DARK REVELATION Volume 4"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

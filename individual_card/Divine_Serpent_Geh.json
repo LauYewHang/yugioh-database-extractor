@@ -4,16 +4,16 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. If a monster(s) you control is destroyed by an opponent's attack or card effect: You can pay half your LP; Special Summon this card from your hand. Cannot be targeted by card effects. If this card attacks an opponent's monster, during the Damage Step only, negate the effects of that monster while it is face-up on the field (but its effects can still be activated), also its ATK becomes half its original ATK. Once per battle, if this card battles, during damage calculation (Quick Effect): You can make this card's ATK become equal to the highest original ATK on the field (your choice, if tied).",
     "release_date": "2018-07-27",
     "available_set": [
-        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
         "DUEL POWER",
-        "CYBERNETIC HORIZON"
+        "CYBERNETIC HORIZON",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": "?",
     "defense": 0,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 12
 }

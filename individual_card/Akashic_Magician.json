@@ -4,15 +4,15 @@
     "card_text": "2 monsters with the same Type, except Tokens\nYou can only Link Summon \"Akashic Magician(s)\" once per turn. If this card is Link Summoned: Return all monsters this card points to to the hand. Once per turn: You can declare 1 card name; excavate cards from the top of your Deck, equal to the total Link Rating of the Link Monsters co-linked to this card, then if you excavated any copies of the declared card, add them to your hand, also send the remaining cards to the GY.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
-        "SHADOWS IN VALHALLA"
+        "SHADOWS IN VALHALLA",
+        "CIRCUIT BREAK"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1700,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 260
 }

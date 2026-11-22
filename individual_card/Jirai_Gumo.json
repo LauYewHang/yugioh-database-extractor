@@ -4,20 +4,20 @@
     "card_text": "When this card declares an attack: Toss a coin and call it. If you call it wrong, lose half your LP.",
     "release_date": "2002-06-26",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "METAL RAIDERS (LC01 25th Anniversary Edition)",
         "DARK LEGENDS",
         "METAL RAIDERS",
-        "RETRO PACK",
         "DARK BEGINNING 2",
-        "SPEED DUEL GX: MIDTERM PARADOX"
+        "RETRO PACK",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 2200,
     "defense": 100,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

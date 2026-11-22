@@ -4,8 +4,8 @@
     "card_text": "When a \"roid\" monster is added from your Graveyard to your hand, you can Special Summon that monster.",
     "release_date": "2006-08-16",
     "available_set": [
-        "SPEED DUEL GX: MIDTERM PARADOX",
         "STARTER DECK SYRUS TRUESDALE",
+        "SPEED DUEL GX: MIDTERM PARADOX",
         "POWER OF THE DUELIST"
     ],
     "related_card": [
@@ -91,7 +91,7 @@
     "attack": 300,
     "defense": 1200,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

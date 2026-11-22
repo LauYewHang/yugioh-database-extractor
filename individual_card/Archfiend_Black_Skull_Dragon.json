@@ -4,8 +4,8 @@
     "card_text": "1 Level 6 \"Archfiend\" Normal Monster + 1 \"Red-Eyes\" Normal Monster\nYou can only Special Summon \"Archfiend Black Skull Dragon(s)\" once per turn. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If damage calculation is performed involving this Fusion Summoned card, at the end of the Battle Phase: You can target 1 \"Red-Eyes\" Normal Monster in your Graveyard; inflict damage to your opponent equal to its ATK in the Graveyard, then shuffle it into the Deck.",
     "release_date": "2015-08-07",
     "available_set": [
-        "LEGENDARY DECKS II",
-        "CLASH OF REBELLIONS"
+        "CLASH OF REBELLIONS",
+        "LEGENDARY DECKS II"
     ],
     "related_card": [
         "A Deal with Dark Ruler",
@@ -147,7 +147,7 @@
     "attack": 3200,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

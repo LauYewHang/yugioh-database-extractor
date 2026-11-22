@@ -4,11 +4,11 @@
     "card_text": "If this card attacks an opponent's monster, this card gains 500 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only.",
     "release_date": "2005-08-06",
     "available_set": [
-        "STARTER DECK SYRUS TRUESDALE",
-        "CYBERNETIC REVOLUTION",
         "SPEED DUEL GX: MIDTERM PARADOX",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
-        "DARK REVELATION Volume 4"
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION",
+        "STARTER DECK SYRUS TRUESDALE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [
         "Ambulanceroid",
@@ -31,7 +31,7 @@
     "attack": 1800,
     "defense": 1800,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

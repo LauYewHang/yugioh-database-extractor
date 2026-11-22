@@ -4,8 +4,8 @@
     "card_text": "If a \"Noble Arms\" Equip Spell becomes equipped to this card: You can Special Summon 1 \"Noble Knight Token\" (Warrior/LIGHT/Level 4/ATK 1000/DEF 1000), also you cannot Special Summon monsters for the rest of this turn, except \"Noble Knight\" monsters. You can only use this effect of \"Noble Knight Iyvanne\" once per turn. While this card is equipped with a \"Noble Arms\" Equip Spell, all other \"Noble Knight\" monsters you control gain 500 ATK.",
     "release_date": "2018-10-19",
     "available_set": [
-        "SOUL FUSION",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
     ],
     "related_card": [
         "\"Infernoble Arms - Almace\"",
@@ -76,7 +76,7 @@
     "attack": 1700,
     "defense": 1600,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

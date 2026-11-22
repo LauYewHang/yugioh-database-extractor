@@ -4,16 +4,16 @@
     "card_text": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
     "release_date": "2002-03-08",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "DARK LEGENDS",
+        "STARTER DECK JOEY",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "SPEED DUEL: STREETS OF BATTLE CITY",
         "DARK BEGINNING 1",
-        "LEGEND OF BLUE EYES WHITE DRAGON",
-        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
         "RETRO PACK",
-        "STARTER DECK JOEY",
-        "MILLENNIUM PACK",
-        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "MILLENNIUM PACK"
     ],
     "related_card": [
         "Dark Flare Knight",
@@ -34,7 +34,7 @@
     "attack": 1800,
     "defense": 1600,
     "monster_type": "Warrior",
-    "monster_card_type": "Fusion",
+    "monster_card_type": 8,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

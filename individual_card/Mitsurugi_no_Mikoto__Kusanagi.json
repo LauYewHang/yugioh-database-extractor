@@ -4,8 +4,8 @@
     "card_text": "If this card is Normal or Special Summoned, or if this card is Tributed: You can target 1 \"Mitsurugi\" card in your GY or banishment, except \"Mitsurugi no Mikoto, Kusanagi\"; add it to your hand. If another Reptile monster(s) you control would be destroyed by battle or card effect, you can Tribute this card instead. You can only use each effect of \"Mitsurugi no Mikoto, Kusanagi\" once per turn.",
     "release_date": "2025-01-24",
     "available_set": [
-        "SUPREME DARKNESS",
-        "LEGENDARY MODERN DECKS 2026"
+        "LEGENDARY MODERN DECKS 2026",
+        "SUPREME DARKNESS"
     ],
     "related_card": [
         "Ame no Habakiri no Mitsurugi",
@@ -26,7 +26,7 @@
     "attack": 1600,
     "defense": 400,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

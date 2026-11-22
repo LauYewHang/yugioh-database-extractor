@@ -4,9 +4,9 @@
     "card_text": "You can discard 2 other \"Darklord\" cards; Special Summon this card from your hand. (Quick Effect): You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap in your GY; apply that target's effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Nasten\" once per turn. You can only Special Summon \"Darklord Nasten(s)\" once per turn.",
     "release_date": "2016-11-18",
     "available_set": [
-        "Gold Series: Maximum Gold",
+        "DESTINY SOLDIERS",
         "BATTLES OF LEGEND: RELENTLESS REVENGE",
-        "DESTINY SOLDIERS"
+        "Gold Series: Maximum Gold"
     ],
     "related_card": [
         "Banishment of the Darklords",
@@ -43,7 +43,7 @@
     "attack": 2600,
     "defense": 2600,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

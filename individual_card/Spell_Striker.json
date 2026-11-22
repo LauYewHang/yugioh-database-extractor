@@ -5,17 +5,17 @@
     "release_date": "2007-03-20",
     "available_set": [
         "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2007 Bundles",
-        "MACHINE REACTOR STRUCTURE DECK",
         "CHAMPION PACK GAME SEVEN",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
-        "WARRIORS' STRIKE STRUCTURE DECK"
+        "MACHINE REACTOR STRUCTURE DECK",
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 600,
     "defense": 200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

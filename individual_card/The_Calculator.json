@@ -4,18 +4,18 @@
     "card_text": "The ATK of this card is the combined Levels of all face-up monsters you control x 300.",
     "release_date": "2008-02-13",
     "available_set": [
-        "STARTER DECK SABER FORCE (US)",
+        "DEMO DECK",
         "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
         "PHANTOM DARKNESS",
-        "BATTLE PACK EPIC DAWN",
-        "DEMO DECK"
+        "STARTER DECK SABER FORCE (US)",
+        "BATTLE PACK EPIC DAWN"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": "?",
     "defense": 0,
     "monster_type": "Thunder",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

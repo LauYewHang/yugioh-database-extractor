@@ -4,8 +4,8 @@
     "card_text": "2 or more Reptile-Type \"Worm\" monsters\nFor each Fusion Material Monster with a different name used to Fusion Summon this card, it gains 500 ATK, and also gains these effects:\n\u25cf2+: Once per turn, you can select 1 Reptile-Type monster in your Graveyard, and Special Summon it in face-down Defense Position.\n\u25cf4+: You can remove from play 1 Reptile-Type monster from your Graveyard to send 1 monster on the field to the Graveyard.\n\u25cf6+: Once per turn, you can draw 1 card.",
     "release_date": "2010-09-25",
     "available_set": [
-        "HIDDEN ARSENAL 3",
-        "DUEL TERMINAL 3"
+        "DUEL TERMINAL 3",
+        "HIDDEN ARSENAL 3"
     ],
     "related_card": [
         "Aztekipede, the Worm Warrior",
@@ -53,7 +53,7 @@
     "attack": "?",
     "defense": 0,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

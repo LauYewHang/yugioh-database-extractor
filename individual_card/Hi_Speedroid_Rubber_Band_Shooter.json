@@ -4,8 +4,8 @@
     "card_text": "2 WIND monsters\nDuring your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 WIND monster, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can banish 1 WIND Synchro Monster from your Extra Deck; reveal 2 \"Speedroid\" monsters with different names from your Deck whose total Levels equal the Level of that Synchro Monster, your opponent randomly picks 1 for you to add to your hand, and you send the other to the GY. You can only use each effect of \"Hi-Speedroid Rubber Band Shooter\" once per turn.",
     "release_date": "2019-07-12",
     "available_set": [
-        "BATTLES OF LEGEND: HERO'S REVENGE",
         "LEGENDARY ARC-V DECKS",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
         "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
@@ -73,7 +73,7 @@
     "attack": 1000,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

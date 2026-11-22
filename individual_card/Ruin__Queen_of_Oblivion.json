@@ -4,9 +4,9 @@
     "card_text": "You can Ritual Summon this card with \"End of the World\". When this attacking card destroys an opponent's monster by battle: You can activate this effect; this card can make a second attack in a row.",
     "release_date": "2006-02-18",
     "available_set": [
-        "DARK REVELATION Volume 4",
         "2018 MEGA-TINS MEGA PACK",
-        "SHADOW OF INFINITY"
+        "SHADOW OF INFINITY",
+        "DARK REVELATION Volume 4"
     ],
     "related_card": [
         "Breaking of the World",
@@ -20,7 +20,7 @@
     "attack": 2300,
     "defense": 2000,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 6,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

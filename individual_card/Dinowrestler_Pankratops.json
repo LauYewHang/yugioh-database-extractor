@@ -4,13 +4,13 @@
     "card_text": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Dinowrestler Pankratops\" once per turn this way. (Quick Effect): You can Tribute 1 \"Dinowrestler\" monster, then target 1 card your opponent controls; destroy it. You can only use this effect of \"Dinowrestler Pankratops\" once per turn.",
     "release_date": "2018-10-19",
     "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "BATTLES OF LEGEND - CHAPTER 1",
-        "SOUL FUSION",
-        "Duel Devastator",
         "ANCIENT\u3000GUARDIANS",
         "BATTLES OF LEGEND: HERO'S REVENGE",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "SOUL FUSION",
+        "Duel Devastator",
+        "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
         "Dinowrestler Capaptera",
@@ -36,7 +36,7 @@
     "attack": 2600,
     "defense": 0,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

@@ -4,9 +4,9 @@
     "card_text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, without using any Level 7 monsters. You can only use each of these effects of \"Nekroz of Gungnir\" once per turn.\n\u25cf(Quick Effect): You can discard this card, then target 1 \"Nekroz\" monster you control; it cannot be destroyed by battle or card effects this turn.\n\u25cf(Quick Effect): You can discard 1 \"Nekroz\" card, then target 1 card on the field; destroy it.",
     "release_date": "2015-01-16",
     "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON",
         "2015 MEGA-TINS MEGA PACK",
-        "SECRETS OF ETERNITY",
-        "BATTLES OF LEGEND: ARMAGEDDON"
+        "SECRETS OF ETERNITY"
     ],
     "related_card": [
         "Ariel, Priestess of the Nekroz",
@@ -37,7 +37,7 @@
     "attack": 2500,
     "defense": 1700,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 6,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

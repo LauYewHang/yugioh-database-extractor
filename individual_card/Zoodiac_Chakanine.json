@@ -4,8 +4,8 @@
     "card_text": "2+ Level 4 monsters\nOnce per turn, you can also Xyz Summon \"Zoodiac Chakanine\" by using 1 \"Zoodiac\" monster you control with a different name as material. (Transfer its materials to this card.) Gains ATK/DEF equal to the ATK/DEF of all \"Zoodiac\" monsters attached to it as material. Once per turn: You can detach 1 material from this card, then target 1 \"Zoodiac\" monster in your GY; Special Summon it, but for the rest of this turn, its effects are negated, also it cannot be used as material for an Xyz Summon.",
     "release_date": "2017-05-05",
     "available_set": [
-        "Gold Series: Maximum Gold",
-        "MAXIMUM CRISIS"
+        "MAXIMUM CRISIS",
+        "Gold Series: Maximum Gold"
     ],
     "related_card": [
         "Zodiac Sign",
@@ -28,7 +28,7 @@
     "attack": "?",
     "defense": "?",
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

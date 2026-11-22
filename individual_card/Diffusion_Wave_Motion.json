@@ -4,13 +4,13 @@
     "card_text": "(This card is not treated as a \"Fusion\" card.)\nIf your opponent controls a monster: Pay 1000 LP, then target 1 Level 7 or higher Spellcaster monster you control; this turn, it must attack all monsters your opponent controls once each, also other monsters you control cannot attack. The effects of monsters destroyed by these attacks cannot activate and are negated.",
     "release_date": "2003-10-10",
     "available_set": [
-        "MAGICIAN'S FORCE",
-        "YUGI'S LEGENDARY DECKS",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
-        "DUELIST PACK - YUGI -",
         "DARK REVELATION Volume 1",
-        "SPEED DUEL: ARENA OF LOST SOULS"
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "YUGI'S LEGENDARY DECKS",
+        "MAGICIAN'S FORCE",
+        "DUELIST PACK - YUGI -",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

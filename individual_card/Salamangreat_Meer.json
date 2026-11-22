@@ -4,9 +4,9 @@
     "card_text": "If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon it from your hand. If this card is in your hand: You can discard 1 other \"Salamangreat\" card; Special Summon this card from your hand. You can only use each effect of \"Salamangreat Meer\" once per turn.",
     "release_date": "2018-10-19",
     "available_set": [
-        "STRUCTURE DECK: SOULBURNER",
         "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
-        "SOUL FUSION"
+        "SOUL FUSION",
+        "STRUCTURE DECK: SOULBURNER"
     ],
     "related_card": [
         "Burning Draw",
@@ -61,7 +61,7 @@
     "attack": 800,
     "defense": 600,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

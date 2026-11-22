@@ -4,8 +4,8 @@
     "card_text": "3 Level 8 monsters\nOnce per turn, if you have no cards in your Spell & Trap Card Zone: You can detach 1 Xyz Material from this card, and if you do, place 1 Destiny Counter on this card. You cannot conduct your Battle Phase the turn you activate this effect. When 3 Destiny Counters are on this card, you win the Duel.",
     "release_date": "2013-03-15",
     "available_set": [
-        "SHONEN JUMP membership Promotional Card - March 2013 -",
-        "COLLECTIBLE TIN 2013 WAVE 2"
+        "COLLECTIBLE TIN 2013 WAVE 2",
+        "SHONEN JUMP membership Promotional Card - March 2013 -"
     ],
     "related_card": [
         "Abyss Shark",
@@ -103,7 +103,7 @@
     "attack": 3200,
     "defense": 2300,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

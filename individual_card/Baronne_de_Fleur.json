@@ -4,16 +4,16 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can target 1 card on the field; destroy it. Once while face-up on the field, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use the previous effect of \"Baronne de Fleur\" once per turn. Once per turn, during the Standby Phase: You can target 1 Level 9 or lower monster in your GY; return this card to the Extra Deck, and if you do, Special Summon that monster.",
     "release_date": "2021-10-29",
     "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION",
         "MAZE OF MEMORIES",
-        "LEGENDARY DUELISTS: SYNCHRO STORM",
-        "25TH ANNIVERSARY RARITY COLLECTION"
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": 3000,
     "defense": 2400,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

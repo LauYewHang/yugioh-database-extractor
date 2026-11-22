@@ -5,8 +5,8 @@
     "release_date": "2011-11-15",
     "available_set": [
         "COLLECTIBLE TIN 2012 WAVE 1",
-        "YU-GI-OH! ADVENT CALENDAR 2018",
-        "PHOTON SHOCKWAVE"
+        "PHOTON SHOCKWAVE",
+        "YU-GI-OH! ADVENT CALENDAR 2018"
     ],
     "related_card": [
         "Legendary Wind-Up Key",
@@ -40,7 +40,7 @@
     "attack": 1400,
     "defense": 600,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,8 +4,8 @@
     "card_text": "During your Battle Step, if this card battles (Quick Effect): You can discard 1 Dragon monster to the GY; this card gains 1000 ATK/DEF until the end of the Battle Phase.",
     "release_date": "2003-06-06",
     "available_set": [
-        "STARTER DECK KAIBA Evolution",
         "LEGACY OF DARKNESS",
+        "STARTER DECK KAIBA Evolution",
         "DARK BEGINNING 2",
         "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
     ],
@@ -16,7 +16,7 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

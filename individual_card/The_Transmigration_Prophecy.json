@@ -4,9 +4,9 @@
     "card_text": "Target 2 cards in the GY(s); shuffle those targets into the Deck(s).",
     "release_date": "2007-02-28",
     "available_set": [
-        "STRUCTURE DECK: SOULBURNER",
         "GATES OF THE UNDERWORLD STRUCTURE DECK",
-        "STRIKE OF NEOS"
+        "STRIKE OF NEOS",
+        "STRUCTURE DECK: SOULBURNER"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

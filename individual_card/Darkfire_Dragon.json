@@ -4,9 +4,9 @@
     "card_text": "\"Firegrass\" + \"Petit Dragon\"",
     "release_date": "2002-03-08",
     "available_set": [
-        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "TOURNAMENT PACK 3RD SEASON",
         "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
-        "TOURNAMENT PACK 3RD SEASON"
+        "LEGEND OF BLUE EYES WHITE DRAGON"
     ],
     "related_card": [
         "Firegrass",
@@ -16,7 +16,7 @@
     "attack": 1500,
     "defense": 1250,
     "monster_type": "Dragon",
-    "monster_card_type": "Fusion",
+    "monster_card_type": 8,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

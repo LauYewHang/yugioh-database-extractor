@@ -4,18 +4,18 @@
     "card_text": "2+ monsters with different names, except Tokens\nYou can only control 1 \"Apollousa, Bow of the Goddess\". The original ATK of this card becomes 800 x the number of Link Materials used for its Link Summon. Once per Chain, when your opponent activates a monster effect (Quick Effect): You can make this card lose exactly 800 ATK, and if you do, negate the activation.",
     "release_date": "2019-07-27",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "RISING RAMPAGE",
         "MAGNIFICENT MAVENS",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
         "Gold Series: Maximum Gold",
-        "25TH ANNIVERSARY RARITY COLLECTION 2"
+        "2020 TIN OF LOST MEMORIES",
+        "RISING RAMPAGE"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": "?",
     "defense": null,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 270
 }

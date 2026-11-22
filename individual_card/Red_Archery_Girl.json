@@ -4,18 +4,18 @@
     "card_text": "A mermaid archer that hides in a protective shell, waiting for the right moment to strike.",
     "release_date": "2002-09-16",
     "available_set": [
-        "DARK BEGINNING 1",
-        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
         "STARTER DECK PEGASUS",
+        "DARK BEGINNING 1",
         "SPELL RULER (LC01 25th Anniversary Edition)",
-        "SPELL RULER"
+        "SPELL RULER",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 1400,
     "defense": 1500,
     "monster_type": "Aqua",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

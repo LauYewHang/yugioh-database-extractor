@@ -5,17 +5,17 @@
     "release_date": "2009-11-17",
     "available_set": [
         "STARDUST OVERDRIVE",
-        "VALIANT SMASHERS",
         "COLLECTIBLE TIN 2011 WAVE 1",
-        "DESTINY SOLDIERS",
-        "STRUCTURE DECK WAVE OF LIGHT"
+        "VALIANT SMASHERS",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "DESTINY SOLDIERS"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 2800,
     "defense": 2300,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

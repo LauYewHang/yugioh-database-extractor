@@ -4,15 +4,15 @@
     "card_text": "Once per turn: You can inflict 500 damage to your opponent. You cannot conduct your Battle Phase the turn you activate this effect. During the End Phase, if this card is in the GY because it was sent there this turn: You can add 1 Level 10 EARTH Machine monster from your Deck to your hand. You can only use this effect of \"Ruffian Railcar\" once per turn.",
     "release_date": "2014-11-07",
     "available_set": [
-        "THE NEW CHALLENGERS",
-        "LEGENDARY DUELISTS: SISTERS OF THE ROSE"
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "THE NEW CHALLENGERS"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1800,
     "defense": 1000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

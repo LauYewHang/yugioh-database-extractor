@@ -4,11 +4,11 @@
     "card_text": "Tribute 1 monster; Special Summon 1 Level 7 monster from your hand that can be Normal Summoned/Set. It cannot attack this turn.",
     "release_date": "2003-10-10",
     "available_set": [
-        "MAGICIAN'S FORCE",
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
         "DARK REVELATION Volume 1",
-        "SPEED DUEL GX: MIDTERM PARADOX"
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "MAGICIAN'S FORCE",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

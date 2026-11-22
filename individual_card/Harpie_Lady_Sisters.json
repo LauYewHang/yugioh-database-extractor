@@ -4,19 +4,19 @@
     "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Elegant Egotist\".",
     "release_date": "2002-06-26",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "METAL RAIDERS (LC01 25th Anniversary Edition)",
         "DARK LEGENDS",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
         "METAL RAIDERS",
-        "SPEED DUEL TOURNAMENT PACK 01",
-        "DUELIST PACK - BATTLE CITY -",
         "DARK BEGINNING 1",
         "STRUCTURE DECK LORD OF THE STORM",
-        "RETRO PACK",
         "SPEED DUEL: BATTLE CITY FINALS",
-        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
         "LEGENDARY DUELISTS: SEASON 2",
-        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+        "DUELIST PACK - BATTLE CITY -",
+        "RETRO PACK",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL TOURNAMENT PACK 01"
     ],
     "related_card": [
         "Alluring Mirror Split",
@@ -52,7 +52,7 @@
     "attack": 1950,
     "defense": 2100,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

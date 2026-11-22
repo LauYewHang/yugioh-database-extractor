@@ -4,11 +4,11 @@
     "card_text": "If this card is in your hand: You can target 1 monster you control with a different Type and Attribute than this card; destroy that monster, and if you do, Special Summon this card. You can only use this effect of \"Visas Starfrost\" once per turn. When this card destroys an opponent's monster by battle: You can make this card gain ATK equal to half the original ATK or DEF of that monster (whichever is higher, your choice if tied).",
     "release_date": "2022-05-14",
     "available_set": [
-        "CYBERSTORM ACCESS",
         "DIMENSION FORCE Core Booster Premiere!",
+        "2-PLAYER STARTER SET",
+        "CYBERSTORM ACCESS",
         "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
-        "DIMENSION FORCE",
-        "2-PLAYER STARTER SET"
+        "DIMENSION FORCE"
     ],
     "related_card": [
         "A Shattered, Colorless Realm",
@@ -55,7 +55,7 @@
     "attack": 2100,
     "defense": 1500,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

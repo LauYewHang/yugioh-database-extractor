@@ -4,17 +4,17 @@
     "card_text": "If you control a \"Blackwing\" monster other than \"Blackwing - Gale the Whirlwind\", you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster your opponent controls; that target's ATK/DEF become half its current ATK/DEF.",
     "release_date": "2009-03-03",
     "available_set": [
-        "QUARTER CENTURY BONANZA",
-        "PREMIUM GOLD: RETURN OF THE BLING",
-        "DUELIST PACK - CROW -",
-        "Yu-Gi-Oh! Championship Prize Cards 2025",
         "LEGENDARY COLLECTION 5D's MEGA PACK",
         "Legendary 5D's Decks",
+        "Yu-Gi-Oh! Championship Prize Cards 2025",
         "GOLD SERIES 3",
+        "QUARTER CENTURY BONANZA",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "DUELIST SAGA",
         "ASTRAL PACK FOUR",
         "CRIMSON CRISIS",
-        "BATTLES OF LEGEND: CRYSTAL REVENGE",
-        "DUELIST SAGA"
+        "DUELIST PACK - CROW -",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
     ],
     "related_card": [
         "Against the Wind",
@@ -100,7 +100,7 @@
     "attack": 1300,
     "defense": 400,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,10 +4,10 @@
     "card_text": "2 Insect monsters\nIf this card is Link Summoned: You can discard 1 card, then target 1 other Insect monster you control; equip 1 Insect monster from your Deck to it as an Equip Spell that gains this effect.\n\u25cfThe equipped monster gains 500 ATK/DEF.\nYou can target 3 Insect monsters in your GY; shuffle them into the Deck, then draw 1 card. You can only use each effect of \"Inzektor Picofalena\" once per turn.",
     "release_date": "2018-05-04",
     "available_set": [
-        "THE GRAND CREATORS",
         "FLAMES OF DESTRUCTION",
-        "OTS TOURNAMENT PACK 18",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "THE GRAND CREATORS",
+        "OTS TOURNAMENT PACK 18"
     ],
     "related_card": [
         "Armor Blast",
@@ -36,7 +36,7 @@
     "attack": 1000,
     "defense": null,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

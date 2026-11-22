@@ -4,8 +4,8 @@
     "card_text": "When a monster is Flip Summoned: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"World Legacy\" card from your Deck to your hand. If this Normal Summoned/Set card is on the field (Quick Effect): You can target 1 face-up opponent's monster that was Special Summoned from the Extra Deck; return both that monster and this card to the hand. You can only use each effect of \"World Legacy - \"World Armor\"\" once per turn.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
     ],
     "related_card": [
         "Auram the World Chalice Blademaster",
@@ -63,7 +63,7 @@
     "attack": 2500,
     "defense": 2500,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

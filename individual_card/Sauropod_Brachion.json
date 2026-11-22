@@ -4,18 +4,18 @@
     "card_text": "Cannot be Special Summoned from the Deck. You can Tribute Summon this card face-up by Tributing 1 Dinosaur monster. Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: Change all other monsters on the field to face-down Defense Position. If this card is attacked, any battle damage your opponent takes from that battle is doubled.",
     "release_date": "2009-09-01",
     "available_set": [
-        "SPEED DUEL GX: MIDTERM DESTRUCTION",
-        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
         "ANCIENT PROPHECY",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
         "DINOSMASHER\u2019S FURY STRUCTURE DECK",
-        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1500,
     "defense": 3000,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

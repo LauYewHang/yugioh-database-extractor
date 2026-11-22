@@ -4,10 +4,10 @@
     "card_text": "Zombie monsters gain 500 ATK during damage calculation only. Once per turn, when a card(s) is sent from your opponent's Deck to the GY: Target 1 card on the field; send 1 DARK \"Vampire\" monster from your hand or Deck to the GY, and if you do, destroy that target.",
     "release_date": "2013-09-23",
     "available_set": [
-        "SHADOW SPECTERS",
-        "2014 MEGA-TINS MEGA PACK",
         "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
-        "JUDGMENT OF THE LIGHT DELUXE EDITION"
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT DELUXE EDITION",
+        "SHADOW SPECTERS"
     ],
     "related_card": [
         "Crimson Knight Vampire Bram",

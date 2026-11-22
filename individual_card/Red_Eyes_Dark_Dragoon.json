@@ -4,11 +4,11 @@
     "card_text": "\"Dark Magician\" + \"Red-Eyes Black Dragon\" or 1 Dragon Effect Monster\nCannot be destroyed by card effects. Neither player can target this card with card effects. During your Main Phase: You can destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. You can use this effect a number of times per turn up to the number of Normal Monsters used as material for this card. Once per turn, when a card or effect is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy that card, and if you do that, this card gains 1000 ATK.",
     "release_date": "2020-08-28",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "BROTHERS OF LEGEND",
-        "2022 TIN OF THE PHARAOH'S GODS",
         "25TH ANNIVERSARY RARITY COLLECTION 2",
-        "RARITY COLLECTION 5"
+        "2020 TIN OF LOST MEMORIES",
+        "RARITY COLLECTION 5",
+        "BROTHERS OF LEGEND",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -55,7 +55,7 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

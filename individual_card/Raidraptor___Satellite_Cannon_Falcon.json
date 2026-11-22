@@ -5,8 +5,8 @@
     "release_date": "2016-02-12",
     "available_set": [
         "WING RAIDERS",
-        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
-        "BATTLES OF LEGEND - CHAPTER 1"
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-"
     ],
     "related_card": [
         "Phantom Knights' Rank-Up-Magic Force",
@@ -68,7 +68,7 @@
     "attack": 3000,
     "defense": 2000,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

@@ -4,8 +4,8 @@
     "card_text": "You can only control 1 \"ZW - Pegasus Twin Saber\". If your opponent's LP are at least 2000 higher than yours, you can Special Summon this card (from your hand). You can target 1 \"Utopia\" monster you control; equip this card you control to it as an Equip Spell that gives it 1000 ATK. Once per turn, while this card is equipped to a monster, you can negate a monster effect activated on your opponent's field.",
     "release_date": "2021-06-04",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "LIGHTNING OVERDRIVE"
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Commander Gottoms, Swordmaster",
@@ -48,7 +48,7 @@
     "attack": 1000,
     "defense": 2100,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

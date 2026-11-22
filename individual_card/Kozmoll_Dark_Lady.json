@@ -4,8 +4,8 @@
     "card_text": "(Quick Effect): You can banish this card; Special Summon 1 Level 6 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmoll Dark Lady\" once per turn. Once per turn, when another monster's effect is activated (Quick Effect): You can pay 1000 LP; negate the activation, and if you do, destroy that monster.",
     "release_date": "2016-05-06",
     "available_set": [
-        "GHOSTS FROM THE PAST",
-        "SHINING VICTORIES"
+        "SHINING VICTORIES",
+        "GHOSTS FROM THE PAST"
     ],
     "related_card": [
         "Kozmo Dark Destroyer",
@@ -32,7 +32,7 @@
     "attack": 2200,
     "defense": 1800,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

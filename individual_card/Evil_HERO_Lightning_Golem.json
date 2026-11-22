@@ -4,10 +4,10 @@
     "card_text": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nMust be Special Summoned with \"Dark Fusion\". Once per turn: You can target 1 monster on the field; destroy that target.",
     "release_date": "2007-11-14",
     "available_set": [
-        "GLADIATOR'S ASSAULT",
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
         "LEGENDARY DUELISTS: SEASON 3",
-        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+        "GLADIATOR'S ASSAULT",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
     ],
     "related_card": [
         "Apparition",
@@ -81,7 +81,7 @@
     "attack": 2400,
     "defense": 1500,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

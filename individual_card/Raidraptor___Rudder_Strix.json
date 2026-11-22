@@ -4,8 +4,8 @@
     "card_text": "If this card is Special Summoned from the hand by the effect of a \"Raidraptor\" card, or Normal Summoned: You can inflict 600 damage to your opponent. When an opponent's monster declares an attack that targets this card: You can Special Summon up to 2 \"Raidraptor\" monsters from your hand, and if you do, monsters your opponent controls cannot target those monsters for attacks this turn.",
     "release_date": "2017-07-07",
     "available_set": [
-        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
-        "BATTLES OF LEGEND - CHAPTER 1"
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-"
     ],
     "related_card": [
         "Phantom Knights' Rank-Up-Magic Force",
@@ -67,7 +67,7 @@
     "attack": 0,
     "defense": 1600,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

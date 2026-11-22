@@ -4,8 +4,8 @@
     "card_text": "This card cannot be Special Summoned. Once per turn, select 1 face-up Reptile-Type \"Worm\" monster on the field and change it to face-down Defense Position.",
     "release_date": "2009-11-10",
     "available_set": [
-        "HIDDEN ARSENAL",
-        "DUEL TERMINAL 1"
+        "DUEL TERMINAL 1",
+        "HIDDEN ARSENAL"
     ],
     "related_card": [
         "Aztekipede, the Worm Warrior",
@@ -53,7 +53,7 @@
     "attack": 2400,
     "defense": 1200,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

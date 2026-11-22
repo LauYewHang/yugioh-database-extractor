@@ -4,11 +4,11 @@
     "card_text": "(Quick Effect): You can send this card from your hand to the GY, then target 1 Fusion Monster you control; it gains 1000 ATK/DEF until the end of this turn. If this card is Normal Summoned or flipped face-up: You can add 1 \"Invocation\" from your Deck to your hand.",
     "release_date": "2017-02-24",
     "available_set": [
-        "FUSION ENFORCERS",
         "Gold Series: Maximum Gold",
-        "QUARTER CENTURY STAMPEDE",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "FUSION ENFORCERS",
         "SHADOWS IN VALHALLA",
-        "OTS ULTIMATE TOURNAMENT PACK 1"
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Aiwass, Divine Spirit of the Law",
@@ -39,7 +39,7 @@
     "attack": 1000,
     "defense": 1800,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

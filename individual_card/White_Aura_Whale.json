@@ -4,8 +4,8 @@
     "card_text": "1 WATER Tuner + 1+ non-Tuner WATER monsters\nWhen this card is Synchro Summoned: You can destroy all your opponent's Attack Position monsters. This card can make up to 2 attacks on monsters during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card in your possession is destroyed by an opponent's card and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card as a Tuner.",
     "release_date": "2017-07-07",
     "available_set": [
-        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
-        "BATTLES OF LEGEND - CHAPTER 1"
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-"
     ],
     "related_card": [
         "White Reincarnation"
@@ -14,7 +14,7 @@
     "attack": 2800,
     "defense": 2000,
     "monster_type": "Fish",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

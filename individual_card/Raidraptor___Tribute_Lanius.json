@@ -4,8 +4,8 @@
     "card_text": "During your Main Phase, if this card was Normal or Special Summoned this turn: You can send 1 \"Raidraptor\" card from your Deck to the GY. During your Main Phase 2, if this card destroyed an opponent's monster by battle this turn: You can add 1 \"Rank-Up-Magic\" Quick-Play Spell from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn, except \"Raidraptor\" monsters. You can only use each effect of \"Raidraptor - Tribute Lanius\" once per turn.",
     "release_date": "2016-02-12",
     "available_set": [
-        "GHOSTS FROM THE PAST",
         "OTS TOURNAMENT PACK 24",
+        "GHOSTS FROM THE PAST",
         "WING RAIDERS"
     ],
     "related_card": [
@@ -83,7 +83,7 @@
     "attack": 1800,
     "defense": 400,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

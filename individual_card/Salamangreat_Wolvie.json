@@ -4,9 +4,9 @@
     "card_text": "A monster that was Link Summoned using this card as material cannot be destroyed by battle or card effect for the rest of that turn. You can only use 1 of the following effects of \"Salamangreat Wolvie\" per turn, and only once that turn.\n\u25cfIf this card is Special Summoned from the GY: You can target 1 FIRE monster in your GY; add it to your hand.\n\u25cfIf this card is added from your GY to your hand by an effect: You can reveal this card, then target 1 FIRE monster in your GY; add it to your hand.",
     "release_date": "2019-02-01",
     "available_set": [
-        "STRUCTURE DECK: SOULBURNER",
+        "2020 TIN OF LOST MEMORIES",
         "SAVAGE STRIKE",
-        "2020 TIN OF LOST MEMORIES"
+        "STRUCTURE DECK: SOULBURNER"
     ],
     "related_card": [
         "Burning Draw",
@@ -56,7 +56,7 @@
     "attack": 1700,
     "defense": 1000,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

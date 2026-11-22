@@ -22,7 +22,7 @@
     "attack": 0,
     "defense": 1950,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "While you control an \"Amorphage\" monster, neither player can activate Trap Cards or their effects, except for \"Amorphage\" cards. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",

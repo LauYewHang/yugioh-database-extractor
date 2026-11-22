@@ -4,10 +4,10 @@
     "card_text": "2 Warrior monsters\nIf this card is Link Summoned: You can target 1 \"Destiny HERO\" monster in your GY; Special Summon it. You can Tribute 1 \"Destiny HERO\" monster; add 1 \"HERO\" monster with a different name from your Deck to your hand. You can only use each effect of \"Xtra HERO Cross Crusader\" once per turn, also you cannot Special Summon monsters the turn you activate either of this card's effects, except \"HERO\" monsters.",
     "release_date": "2019-05-03",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
         "2020 TIN OF LOST MEMORIES",
         "DARK NEOSTORM",
-        "BATTLES OF LEGEND - CHAPTER 1"
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Apparition",
@@ -193,7 +193,7 @@
     "attack": 1600,
     "defense": null,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

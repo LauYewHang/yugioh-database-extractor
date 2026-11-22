@@ -82,7 +82,7 @@
     "attack": 300,
     "defense": 3000,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "Once per turn, at the start of the Battle Phase: You can add 1 monster with 300 ATK/200 DEF from your Deck to your hand, then destroy this card.",

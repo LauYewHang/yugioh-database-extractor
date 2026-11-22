@@ -4,18 +4,18 @@
     "card_text": "A forbidden right arm sealed by magic. Whosoever breaks this seal will know infinite power.",
     "release_date": "2002-03-08",
     "available_set": [
-        "LEGENDARY DECKS II",
+        "DARK LEGENDS",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
         "YUGI'S LEGENDARY DECKS",
         "PREMIUM GOLD: RETURN OF THE BLING",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "DARK LEGENDS",
-        "DARK BEGINNING 1",
+        "LEGENDARY DECKS II",
         "DUELIST LEAGUE 2",
-        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "DARK BEGINNING 1",
         "LEGEND OF BLUE EYES WHITE DRAGON",
         "RETRO PACK",
         "The Lost Art Promotion",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
         "BATTLES OF LEGEND: CRYSTAL REVENGE"
     ],
     "related_card": [
@@ -35,7 +35,7 @@
     "attack": 200,
     "defense": 300,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

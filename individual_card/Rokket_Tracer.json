@@ -4,8 +4,8 @@
     "card_text": "(Quick Effect): You can target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Rokket\" monster from your Deck, except \"Rokket Tracer\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Rokket Tracer\" once per turn.",
     "release_date": "2019-08-16",
     "available_set": [
-        "OTS TOURNAMENT PACK 30",
         "STRUCTURE DECK: ROKKET REVOLT",
+        "OTS TOURNAMENT PACK 30",
         "RARITY COLLECTION 5",
         "MAXIMUM GOLD: EL DORADO"
     ],
@@ -57,7 +57,7 @@
     "attack": 1600,
     "defense": 1000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

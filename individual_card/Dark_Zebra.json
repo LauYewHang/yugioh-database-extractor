@@ -4,15 +4,15 @@
     "card_text": "If this is the only card in your control during your Standby Phase, it is automatically placed in Defense Position. You cannot change the position of this card during the same turn.",
     "release_date": "2002-09-16",
     "available_set": [
-        "SPELL RULER (LC01 25th Anniversary Edition)",
-        "SPELL RULER"
+        "SPELL RULER",
+        "SPELL RULER (LC01 25th Anniversary Edition)"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1800,
     "defense": 400,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

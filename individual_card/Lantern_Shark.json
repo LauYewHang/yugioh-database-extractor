@@ -4,9 +4,9 @@
     "card_text": "If this card is Normal or Special Summoned: You can Special Summon 1 Level 3, 4, or 5 WATER monster from your hand in Defense Position, except \"Lantern Shark\", also, you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Lantern Shark\" once per turn. If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 3 or 5 monster.",
     "release_date": "2020-05-01",
     "available_set": [
-        "ETERNITY CODE",
+        "OTS TOURNAMENT PACK 26",
         "2021 TIN OF ANCIENT BATTLES",
-        "OTS TOURNAMENT PACK 26"
+        "ETERNITY CODE"
     ],
     "related_card": [
         "Hydrojet Shark",
@@ -17,7 +17,7 @@
     "attack": 1500,
     "defense": 900,
     "monster_type": "Fish",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

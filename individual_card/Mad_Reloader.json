@@ -5,17 +5,17 @@
     "release_date": "2007-09-18",
     "available_set": [
         "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "STRUCTURE DECK: SACRED BEASTS",
         "Yu-Gi-Oh! GX TAG FORCE 2 Bundles",
         "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
-        "BATTLE PACK EPIC DAWN"
+        "BATTLE PACK EPIC DAWN",
+        "STRUCTURE DECK: SACRED BEASTS"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 0,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

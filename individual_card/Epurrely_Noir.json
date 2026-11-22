@@ -4,8 +4,8 @@
     "card_text": "2 Level 2 monsters\nOnce per turn: You can discard 1 card, then target 1 card your opponent controls, or up to 2 if this card has \"Purrely Sleepy Memory\" as material; return that card(s) to the hand. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can Set 1 \"Purrely\" Trap directly from your Deck.",
     "release_date": "2023-07-28",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
-        "DUELIST NEXUS"
+        "DUELIST NEXUS",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Epurrely Beauty",
@@ -28,7 +28,7 @@
     "attack": 1000,
     "defense": 2000,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 2
 }

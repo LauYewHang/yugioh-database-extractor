@@ -4,8 +4,8 @@
     "card_text": "3 Level 5 monsters\nIf this card has a \"Number\" monster as material, it gains this effect.\n\u25cfOnce per turn, when a card or effect is activated on the field (Quick Effect): Detach 1 material from this card, and if you do, negate the effects of all other face-up cards currently on the field until the end of this turn.",
     "release_date": "2014-04-25",
     "available_set": [
-        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
-        "DRAGONS OF LEGEND"
+        "DRAGONS OF LEGEND",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
     ],
     "related_card": [
         "Abyss Shark",
@@ -231,7 +231,7 @@
     "attack": 2600,
     "defense": 2000,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

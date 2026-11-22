@@ -5,9 +5,9 @@
     "release_date": "2018-05-04",
     "available_set": [
         "FLAMES OF DESTRUCTION",
-        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
         "MAZE OF MUERTOS",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
     ],
     "related_card": [
         "Shadow Vampire",
@@ -31,7 +31,7 @@
     "attack": 1600,
     "defense": null,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

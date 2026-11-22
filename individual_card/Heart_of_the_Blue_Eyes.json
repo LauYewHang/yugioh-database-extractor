@@ -4,8 +4,8 @@
     "card_text": "(This card is always treated as a \"Millennium\" card.)\nControl of this card cannot switch. You can discard this card; add 1 \"Millennium Ankh\" from your Deck to your hand. You can only use this effect of \"Heart of the Blue-Eyes\" once per turn. If this card is in your GY, and you have successfully activated \"Millennium Ankh\" this Duel, and your opponent Normal or Special Summons a monster(s) that is Level 8 or higher, or has 3000 or more ATK: You can send that monster to the GY, and if you do, Special Summon this card. You can only use this effect of \"Heart of the Blue-Eyes\" once per Duel.",
     "release_date": "2024-10-11",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "RAGE OF THE ABYSS"
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Beacon of White",
@@ -40,7 +40,7 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

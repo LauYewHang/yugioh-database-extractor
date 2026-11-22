@@ -4,8 +4,8 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Dracoslayer\" monster and 1 \"Dracoverlord\" monster, and cannot be Special Summoned by other ways. Once per turn, during either player's turn, when a card or effect is activated: You can negate the activation, and if you do, destroy that card. If this card in its owner's control is destroyed by an opponent's card (by battle or card effect): You can Special Summon 1 \"Dracoslayer\" monster and 1 \"Dracoverlord\" monster from your Deck.",
     "release_date": "2016-08-05",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
-        "THE DARK ILLUSION"
+        "THE DARK ILLUSION",
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Amorphactor Pain, the Imagination Dracoverlord",
@@ -43,7 +43,7 @@
     "attack": 2950,
     "defense": 2950,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

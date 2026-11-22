@@ -4,13 +4,13 @@
     "card_text": "2 Level 8 monsters\nOnce per Battle Phase, at the start of your Battle Phase: You can detach 1 material from this card; negate the effects of all other face-up monsters currently on the field, also their ATK/DEF become their original ATK/DEF. During the Battle Phase, if you activated this effect this turn, each time an opponent's card effect resolves, this card gains 1000 ATK until the end of the Battle Phase, also, it can make a second attack during each Battle Phase this turn.",
     "release_date": "2013-05-17",
     "available_set": [
-        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
-        "MAZE OF THE MASTER",
-        "LORD OF THE TACHYON GALAXY",
-        "2014 MEGA-TINS MEGA PACK",
         "Gold Series: Maximum Gold",
         "OTS TOURNAMENT PACK 9",
+        "2014 MEGA-TINS MEGA PACK",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
+        "LORD OF THE TACHYON GALAXY",
         "BATTLES OF LEGEND - CHAPTER 1",
+        "MAZE OF THE MASTER",
         "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
@@ -129,7 +129,7 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

@@ -4,8 +4,8 @@
     "card_text": "If a monster you control is Tributed (except during the Damage Step): You can Special Summon this card from your hand or GY, but banish it when it leaves the field. If a \"Warrior\", \"Synchron\", or \"Stardust\" Synchro Monster is Synchro Summoned using this card as material: You can Special Summon 1 \"Stardust Token\" (Dragon/LIGHT/Level 1/ATK 0/DEF 0). You can only use each effect of \"Stardust Trail\" once per turn.",
     "release_date": "2021-08-13",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "DAWN OF MAJESTY"
+        "DAWN OF MAJESTY",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Accel Synchro Stardust Dragon",
@@ -90,7 +90,7 @@
     "attack": 500,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

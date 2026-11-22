@@ -4,15 +4,15 @@
     "card_text": "2 or more Level 5 LIGHT Insect-Type monsters\nYou can also Xyz Summon this card by detaching 2 Xyz Materials from a Rank 3 or 4 Insect-Type Xyz Monster you control, then using that Xyz Monster as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn: You can detach 1 Xyz Material from this card, then target 1 Defense Position monster your opponent controls; shuffle it into the Deck. Once per turn, if the battle position of a monster(s) on the field is changed (except during the Damage Step): You can attach 1 Insect-Type monster from your Graveyard to this card as Xyz Material.",
     "release_date": "2016-05-06",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
-        "SHINING VICTORIES"
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 2200,
     "defense": 1800,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

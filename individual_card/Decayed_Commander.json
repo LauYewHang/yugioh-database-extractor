@@ -4,9 +4,9 @@
     "card_text": "When this card is Normal Summoned: You can Special Summon 1 \"Zombie Tiger\" from your hand. If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
     "release_date": "2003-10-10",
     "available_set": [
-        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1",
         "SPEED DUEL: ARENA OF LOST SOULS",
-        "DARK REVELATION Volume 1"
+        "MAGICIAN'S FORCE"
     ],
     "related_card": [
         "Zombie Tiger"
@@ -15,7 +15,7 @@
     "attack": 1000,
     "defense": 1500,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

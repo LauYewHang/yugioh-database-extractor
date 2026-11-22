@@ -4,9 +4,9 @@
     "card_text": "1 \"Vanquish Soul\" monster\nCannot be used as Link Material. While you control a \"Vanquish Soul\" monster, your opponent's monsters can only target monsters you control with the highest ATK (their choice, if tied) for attacks. During the Main Phase (Quick Effect): You can activate 1 of these effects;\n\u25cfSpecial Summon 1 \"Vanquish Soul\" monster from your hand.\n\u25cfAdd 1 \"Vanquish Soul\" monster from your GY to your hand.\nYou can only use this effect of \"Rock of the Vanquisher\" once per turn.",
     "release_date": "2023-06-02",
     "available_set": [
-        "OTS TOURNAMENT PACK 24",
         "WILD SURVIVORS",
-        "25TH ANNIVERSARY TIN: DUELING MIRRORS"
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "OTS TOURNAMENT PACK 24"
     ],
     "related_card": [
         "Vanquish Soul - Continue?",
@@ -29,7 +29,7 @@
     "attack": 0,
     "defense": null,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 4
 }

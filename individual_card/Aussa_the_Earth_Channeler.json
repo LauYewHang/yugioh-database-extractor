@@ -4,9 +4,9 @@
     "card_text": "(This card is always treated as a \"Charmer\" card.)\nYou can discard this card and 1 other EARTH monster; add 1 EARTH monster from your Deck to your hand with 1850 or less ATK, whose original Type is the same as one of the discarded monsters, also you cannot activate non-EARTH monster effects for the rest of this turn. When your EARTH monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Aussa the Earth Channeler\" once per turn.",
     "release_date": "2022-08-05",
     "available_set": [
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "POWER OF THE ELEMENTS",
-        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+        "POWER OF THE ELEMENTS"
     ],
     "related_card": [
         "Aussa the Earth Charmer",
@@ -36,7 +36,7 @@
     "attack": 1850,
     "defense": 1500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

@@ -4,9 +4,9 @@
     "card_text": "1 Tuner + 1+ non-Tuner DARK Pendulum Monsters\nIf this card is Synchro Summoned: You can destroy all face-up monsters your opponent controls. Once per turn, before damage calculation, if this card battles an opponent's monster: You can destroy that monster, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. If this card is in your GY: You can Tribute 2 \"Supreme King Dragon\" monsters; Special Summon this card.",
     "release_date": "2017-08-04",
     "available_set": [
-        "MAZE OF MILLENNIA",
+        "LEGENDARY DRAGON DECKS",
         "CODE OF THE DUELIST",
-        "LEGENDARY DRAGON DECKS"
+        "MAZE OF MILLENNIA"
     ],
     "related_card": [
         "Crystal Clear Wing Over Synchro Dragon",
@@ -32,7 +32,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

@@ -5,8 +5,8 @@
     "release_date": "2010-05-11",
     "available_set": [
         "SECRET SLAYERS",
-        "BATTLE PACK 3 MONSTER LEAGUE",
-        "THE SHINING DARKNESS"
+        "THE SHINING DARKNESS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
     ],
     "related_card": [
         "Core Blast",
@@ -36,7 +36,7 @@
     "attack": 1900,
     "defense": 1200,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

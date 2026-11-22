@@ -4,8 +4,8 @@
     "card_text": "2+ Beast, Beast-Warrior, and/or Winged Beast monsters\nIf this card is Special Summoned, or if another Beast, Beast-Warrior, or Winged Beast monster(s) is Special Summoned to your field: You can banish 1 card on the field. If this card is sent to the GY: You can add 1 Beast, Beast-Warrior, or Winged Beast monster from your Deck to your hand, whose Level is less than or equal to the number of your banished Beast, Beast-Warrior, and Winged Beast monsters. You can only use each effect of \"Tri-Brigade Shuraig the Ominous Omen\" once per turn.",
     "release_date": "2020-11-06",
     "available_set": [
-        "OTS Tournament Pack 29",
         "PHANTOM RAGE",
+        "OTS Tournament Pack 29",
         "2021 TIN OF ANCIENT BATTLES"
     ],
     "related_card": [
@@ -27,7 +27,7 @@
     "attack": 3000,
     "defense": null,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 90
 }

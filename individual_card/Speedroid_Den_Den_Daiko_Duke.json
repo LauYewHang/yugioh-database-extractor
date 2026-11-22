@@ -4,11 +4,11 @@
     "card_text": "You can banish this card from your GY; Special Summon 1 \"Speedroid\" Tuner from your hand or GY, except \"Speedroid Den-Den Daiko Duke\". You can only use this effect of \"Speedroid Den-Den Daiko Duke\" once per turn.",
     "release_date": "2016-05-06",
     "available_set": [
+        "SHINING VICTORIES",
         "OTS TOURNAMENT PACK 27",
         "2017 MEGA-TINS MEGA PACK",
-        "LEGENDARY DUELISTS: SYNCHRO STORM",
-        "SHINING VICTORIES",
-        "LEGENDARY ARC-V DECKS"
+        "LEGENDARY ARC-V DECKS",
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
     ],
     "related_card": [
         "Ambulanceroid",
@@ -75,7 +75,7 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

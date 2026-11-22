@@ -4,8 +4,8 @@
     "card_text": "2 Machine monsters\nGains ATK equal to the total Levels of the \"F.A.\" monsters this card points to x 300. Neither player takes any battle damage from attacks involving this card. Each time a \"F.A.\" Spell/Trap Card or effect is activated: Place 1 Athlete Counter on this card. When your opponent activates a monster effect (Quick Effect): You can remove 1 Athlete Counter from this card; negate the activation, and if you do, destroy it. You can only use this effect of \"F.A. Shining Star GT\" once per turn.",
     "release_date": "2019-07-27",
     "available_set": [
-        "RISING RAMPAGE",
-        "2020 TIN OF LOST MEMORIES"
+        "2020 TIN OF LOST MEMORIES",
+        "RISING RAMPAGE"
     ],
     "related_card": [
         "F.A. Auto Navigator",
@@ -33,7 +33,7 @@
     "attack": 0,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

@@ -4,8 +4,8 @@
     "card_text": "When this Tribute Summoned card is sent from the field to the Graveyard: You can add 1 Level 4 or lower monster from your Deck to your hand.",
     "release_date": "2011-05-10",
     "available_set": [
-        "ASTRAL PACK THREE",
-        "EXTREME VICTORY"
+        "EXTREME VICTORY",
+        "ASTRAL PACK THREE"
     ],
     "related_card": [
         "Shadow Vampire",
@@ -29,7 +29,7 @@
     "attack": 2400,
     "defense": 0,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

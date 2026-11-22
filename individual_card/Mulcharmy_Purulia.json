@@ -5,11 +5,11 @@
     "release_date": "2024-07-19",
     "available_set": [
         "LEGENDARY MODERN DECKS 2026",
-        "MAZE OF THE MASTER",
-        "THE INFINITE FORBIDDEN",
         "Legendary 5D's Decks",
-        "LEGENDARY ARC-V DECKS",
         "WINNER'S PACK 2026-2027",
+        "THE INFINITE FORBIDDEN",
+        "LEGENDARY ARC-V DECKS",
+        "MAZE OF THE MASTER",
         "2025 MEGA-PACK TIN"
     ],
     "related_card": [
@@ -20,7 +20,7 @@
     "attack": 100,
     "defense": 600,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

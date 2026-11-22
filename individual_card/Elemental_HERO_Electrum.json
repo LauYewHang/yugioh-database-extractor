@@ -4,8 +4,8 @@
     "card_text": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\" + \"Elemental HERO Clayman\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also WIND, WATER, FIRE, and EARTH-Attribute. When this card is Fusion Summoned: Shuffle all banished cards into the Deck(s). This card gains 300 ATK for each monster your opponent controls that shares an Attribute with this card.",
     "release_date": "2006-12-26",
     "available_set": [
-        "SPEED DUEL GX: MIDTERM PARADOX",
         "RA YELLOW MEGA PACK",
+        "SPEED DUEL GX: MIDTERM PARADOX",
         "Promotional Cards 2",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
     ],
@@ -144,7 +144,7 @@
     "attack": 2900,
     "defense": 2600,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

@@ -4,13 +4,13 @@
     "card_text": "Take 1 Field Spell from your Deck, and either activate it or add it to your hand.",
     "release_date": "2017-10-20",
     "available_set": [
-        "SPEED DUEL TOURNAMENT PACK 4",
-        "CIRCUIT BREAK",
-        "OTS TOURNAMENT PACK 11",
-        "STRUCTURE DECK: SPIRIT CHARMERS",
         "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
-        "STRUCTURE DECK: ZOMBIE HORDE",
-        "Speed Duel: Battle City Box"
+        "CIRCUIT BREAK",
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "OTS TOURNAMENT PACK 11",
+        "Speed Duel: Battle City Box",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "STRUCTURE DECK: ZOMBIE HORDE"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

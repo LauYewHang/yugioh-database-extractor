@@ -4,12 +4,12 @@
     "card_text": "Return 1 Level 5 or higher Dragon-Type monster you control to the hand, and if you do, destroy all Spell and Trap Cards on the field.",
     "release_date": "2003-06-06",
     "available_set": [
-        "LEGACY OF DARKNESS",
-        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
-        "DARK BEGINNING 2",
-        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
         "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
-        "DRAGONS COLLIDE STRUCTURE DECK"
+        "LEGACY OF DARKNESS",
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "DARK BEGINNING 2"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

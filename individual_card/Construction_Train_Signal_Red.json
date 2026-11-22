@@ -4,16 +4,16 @@
     "card_text": "When an opponent's monster declares an attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card and proceed to damage calculation. This card cannot be destroyed by that battle.",
     "release_date": "2014-04-25",
     "available_set": [
-        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
         "DRAGONS OF LEGEND",
-        "LEGENDARY DUELISTS: SISTERS OF THE ROSE"
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1000,
     "defense": 1300,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

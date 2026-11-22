@@ -4,8 +4,8 @@
     "card_text": "If a \"Rescue-ACE\" monster(s) is Normal or Special Summoned to your field, except \"Rescue-ACE Fire Attacker\" (except during the Damage Step): You can Special Summon this card from your hand. If a card(s) is added to your opponent's hand, except by drawing it (except during the Damage Step): You can draw 2 cards, then discard 1 card. You can only use each effect of \"Rescue-ACE Fire Attacker\" once per turn.",
     "release_date": "2023-01-20",
     "available_set": [
-        "OTS TOURNAMENT PACK 30",
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "OTS TOURNAMENT PACK 30",
         "AMAZING DEFENDERS"
     ],
     "related_card": [
@@ -30,7 +30,7 @@
     "attack": 2200,
     "defense": 2200,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

@@ -4,8 +4,8 @@
     "card_text": "If the only monster you control is \"Worm Xex\", you can Special Summon this card from your Graveyard in face-down Defense Position. If you do, remove it from play when it is removed from the field. When this card is flipped face-up, select 1 face-up monster your opponent controls, and return it to it's owner's hand.",
     "release_date": "2010-09-25",
     "available_set": [
-        "HIDDEN ARSENAL 3",
-        "DUEL TERMINAL 3"
+        "DUEL TERMINAL 3",
+        "HIDDEN ARSENAL 3"
     ],
     "related_card": [
         "Worm Call",
@@ -27,7 +27,7 @@
     "attack": 1000,
     "defense": 1800,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

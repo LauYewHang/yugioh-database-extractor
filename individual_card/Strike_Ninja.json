@@ -4,15 +4,15 @@
     "card_text": "(Quick Effect): You can banish 2 DARK monsters from your GY; banish this face-up card until the End Phase. You can only use this effect of \"Strike Ninja\" once per turn.",
     "release_date": "2004-03-01",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "QUARTER CENTURY BONANZA",
-        "DARK REVELATION Volume 2",
-        "DUELIST LEAGUE 13",
-        "INVASION OF CHAOS",
         "Speed Duel: Battle City Box",
-        "BATTLE PACK TOURNAMENT",
         "SHADOWS IN VALHALLA",
-        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+        "DARK REVELATION Volume 2",
+        "BATTLE PACK TOURNAMENT",
+        "INVASION OF CHAOS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "DUELIST LEAGUE 13"
     ],
     "related_card": [
         "Air Armor Ninja",
@@ -61,7 +61,7 @@
     "attack": 1700,
     "defense": 1200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

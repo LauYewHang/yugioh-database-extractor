@@ -4,8 +4,8 @@
     "card_text": "Cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Theo, the Iron Punch\" once per turn. If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; until the end of this turn, this card gains 600 ATK, and if it does, the targeted monster loses 600 ATK.",
     "release_date": "2020-08-07",
     "available_set": [
-        "RISE OF THE DUELIST",
-        "2021 TIN OF ANCIENT BATTLES"
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST"
     ],
     "related_card": [
         "Dogmatika Adin, the Enlightened",
@@ -34,7 +34,7 @@
     "attack": 1800,
     "defense": 1500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

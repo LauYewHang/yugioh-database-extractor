@@ -4,8 +4,8 @@
     "card_text": "1 Level 4 or lower Cyberse monster\nIf this card is Link Summoned: You can add 1 \"Salamangreat Sanctuary\" from your Deck to your hand. If a \"Salamangreat\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Salamangreat Balelynx\" once per turn.",
     "release_date": "2019-02-15",
     "available_set": [
-        "STRUCTURE DECK: SOULBURNER",
-        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "STRUCTURE DECK: SOULBURNER"
     ],
     "related_card": [
         "Burning Draw",
@@ -60,7 +60,7 @@
     "attack": 500,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 4
 }

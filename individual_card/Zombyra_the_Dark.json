@@ -4,11 +4,11 @@
     "card_text": "Cannot attack directly. If this card destroys a monster by battle: This card loses 200 ATK.",
     "release_date": "2003-03-01",
     "available_set": [
-        "The Lost Art Promotion 8",
-        "STARTER DECK YUGI Evolution",
         "LABYRINTH OF NIGHTMARE",
+        "STARTER DECK YUGI Evolution",
         "DARK BEGINNING 2",
         "Speed Duel: Battle City Box",
+        "The Lost Art Promotion 8",
         "BATTLE PACK EPIC DAWN",
         "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
@@ -19,7 +19,7 @@
     "attack": 2100,
     "defense": 500,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

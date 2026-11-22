@@ -4,9 +4,9 @@
     "card_text": "1 Level 4 or lower Dragon or Spellcaster monster\nYou cannot Special Summon, except Dragon monsters. You can only use each of the following effects of \"Spirit with Eyes of Blue\" once per turn. If this card is Link Summoned: You can take 1 \"Mausoleum of White\" from your Deck and either add it to your hand or send it to the GY. You can Tribute this card; Special Summon 1 \"Blue-Eyes\" monster from your hand or GY, but if you Special Summoned an Effect Monster from your GY by this effect, it cannot attack and its effects are negated.",
     "release_date": "2025-02-14",
     "available_set": [
+        "DEMO PROGRESSION SET 2026",
         "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
-        "2025 MEGA-PACK TIN",
-        "DEMO PROGRESSION SET 2026"
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Blue-Eyes Abyss Dragon",
@@ -37,7 +37,7 @@
     "attack": 300,
     "defense": null,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 2
 }

@@ -4,15 +4,15 @@
     "card_text": "Once per turn: You can make both players show 1 card from their hands, and if both the shown cards are the same type of card, apply 1 of these effects, depending on the type.\n\u25cfMonster: Each player can Special Summon their monster.\n\u25cfSpell: Each player draws 2 cards.\n\u25cfTrap: Each player sends exactly 2 cards from their Deck to their GY.",
     "release_date": "2018-10-19",
     "available_set": [
-        "SOUL FUSION",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 1200,
     "defense": 1200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

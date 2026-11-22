@@ -4,20 +4,20 @@
     "card_text": "When this card you control is sent to your GY: You can Special Summon 1 Insect monster from your hand.",
     "release_date": "2004-03-01",
     "available_set": [
-        "DARK REVELATION Volume 2",
         "SPEED DUEL: STREETS OF BATTLE CITY",
-        "DUELIST LEAGUE 13",
         "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
         "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "DARK REVELATION Volume 2",
         "INVASION OF CHAOS",
-        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "DUELIST LEAGUE 13"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1000,
     "defense": 1200,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

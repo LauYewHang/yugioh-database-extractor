@@ -4,15 +4,15 @@
     "card_text": "You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all cards your opponent controls.",
     "release_date": "2011-08-30",
     "available_set": [
-        "STARTER DECK CODEBREAKER",
-        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
-        "SHONEN JUMP Promotional Card - May 2009 -",
         "COLLECTIBLE TIN 2011 WAVE 1",
-        "2-PLAYER STARTER SET",
-        "BATTLE PACK EPIC DAWN",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "SHONEN JUMP Promotional Card - May 2009 -",
         "STARTER DECK - LINK STRIKE -",
-        "STARTER DECK YUYA"
+        "STARTER DECK YUYA",
+        "2-PLAYER STARTER SET",
+        "STARTER DECK CODEBREAKER",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [
         "King Beast Barbaros"
@@ -21,7 +21,7 @@
     "attack": 3000,
     "defense": 1200,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

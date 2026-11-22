@@ -5,10 +5,10 @@
     "release_date": "2019-04-03",
     "available_set": [
         "DEMO PROGRESSION SET 2026",
-        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
         "GHOSTS FROM THE PAST",
         "DUEL POWER",
-        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
         "BATTLES OF LEGEND: CRYSTAL REVENGE"
     ],
     "related_card": [
@@ -29,7 +29,7 @@
     "attack": 0,
     "defense": null,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

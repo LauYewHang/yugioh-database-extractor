@@ -4,9 +4,9 @@
     "card_text": "If this card is Normal Summoned: You can send 1 \"Zoodiac\" card from your Deck to the GY. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\n\u25cfOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Zoodiac Ratpier\" from your hand or Deck.",
     "release_date": "2017-02-10",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
+        "RAGING TEMPEST",
         "2017 MEGA-TINS MEGA PACK",
-        "RAGING TEMPEST"
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Zodiac Sign",
@@ -29,7 +29,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

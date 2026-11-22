@@ -4,9 +4,9 @@
     "card_text": "While you control a \"Rescue-ACE\" monster other than \"Rescue-ACE Hydrant\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects. You can only use each of the following effects of \"Rescue-ACE Hydrant\" once per turn. You can activate a Quick-Play Spell, or Trap Card, that was Set by the effect of your \"Rescue-ACE\" card, the turn it was Set. During your Main Phase: You can add 1 \"Rescue-ACE\" monster from your Deck to your hand, except \"Rescue-ACE Hydrant\".",
     "release_date": "2023-01-20",
     "available_set": [
-        "MAZE OF MILLENNIA",
+        "2025 MEGA-PACK TIN",
         "AMAZING DEFENDERS",
-        "2025 MEGA-PACK TIN"
+        "MAZE OF MILLENNIA"
     ],
     "related_card": [
         "ALERT!",
@@ -30,7 +30,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

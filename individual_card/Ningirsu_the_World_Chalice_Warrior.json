@@ -4,8 +4,8 @@
     "card_text": "2+ Link Monsters\nIf this card is Link Summoned: Draw cards equal to the number of \"World Chalice\" monsters this card points to. You can only use this effect of \"Ningirsu the World Chalice Warrior\" once per turn. Once per turn: You can send 1 card from each player's field to the GYs. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
     "release_date": "2017-08-04",
     "available_set": [
-        "CODE OF THE DUELIST",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST"
     ],
     "related_card": [
         "Auram the World Chalice Blademaster",
@@ -26,7 +26,7 @@
     "attack": 2500,
     "defense": null,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 336
 }

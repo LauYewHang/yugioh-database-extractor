@@ -4,10 +4,10 @@
     "card_text": "Gains 800 ATK/DEF while you have no monsters in your GY. If this card in your possession is destroyed by an opponent's card and sent to your GY: Shuffle this card into the Deck. After damage calculation, if this card battles an opponent's monster: You can target 1 card your opponent controls; destroy that target.",
     "release_date": "2012-08-28",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
-        "RETURN OF THE DUELIST",
         "ASTRAL PACK SEVEN",
-        "GHOSTS FROM THE PAST"
+        "RETURN OF THE DUELIST",
+        "GHOSTS FROM THE PAST",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Madolche Anjelly",
@@ -43,7 +43,7 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

@@ -4,8 +4,8 @@
     "card_text": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Once per turn, when an opponent activates a monster effect (Quick Effect): You can remove 2 Spell Counters from your field; negate the activation, and if you do, destroy that card.",
     "release_date": "2018-02-02",
     "available_set": [
-        "THE INFINITY CHASERS",
-        "EXTREME FORCE"
+        "EXTREME FORCE",
+        "THE INFINITY CHASERS"
     ],
     "related_card": [
         "Alchemist of Black Spells",
@@ -82,7 +82,7 @@
     "attack": 2400,
     "defense": 1400,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "If you have no card in your other Pendulum Zone: You can destroy this card, and if you do, Special Summon 1 face-up \"Mythical Beast\" Pendulum Monster from your Extra Deck, except \"Mythical Beast Jackal King\". You can only use this effect of \"Mythical Beast Jackal King\" once per turn.",

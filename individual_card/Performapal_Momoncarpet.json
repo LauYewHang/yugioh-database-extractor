@@ -78,7 +78,7 @@
     "attack": 1000,
     "defense": 100,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 6146,
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "Unless you have a card in your other Pendulum Zone, destroy this card. While this card is in the Pendulum Zone, any battle damage you take becomes halved.",

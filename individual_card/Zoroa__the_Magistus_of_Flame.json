@@ -4,9 +4,9 @@
     "card_text": "You can target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster from your Extra Deck. If this card becomes equipped with a \"Magistus\" Monster Card: You can Special Summon 1 Level 4 Spellcaster monster from your hand or GY in Defense Position, except \"Zoroa, the Magistus of Flame\", but its effects are negated. You can only use each effect of \"Zoroa, the Magistus of Flame\" once per turn.",
     "release_date": "2020-12-03",
     "available_set": [
-        "OTS TOURNAMENT PACK 27",
+        "GENESIS IMPACT",
         "MAZE OF MUERTOS",
-        "GENESIS IMPACT"
+        "OTS TOURNAMENT PACK 27"
     ],
     "related_card": [
         "Aiwass, the Magistus Spell Spirit",
@@ -35,7 +35,7 @@
     "attack": 1500,
     "defense": 1500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

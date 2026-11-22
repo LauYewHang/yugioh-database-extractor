@@ -5,12 +5,12 @@
     "release_date": "2018-05-25",
     "available_set": [
         "LEGENDARY MODERN DECKS 2026",
-        "DARK SAVIORS",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
         "MAGNIFICENT MAVENS",
+        "DARK SAVIORS",
         "Gold Series: Maximum Gold",
-        "DUEL OVERLOAD",
         "OTS TOURNAMENT PACK 8",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "DUEL OVERLOAD"
     ],
     "related_card": [
         "Aileron",
@@ -52,7 +52,7 @@
     "attack": 1500,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 128
 }

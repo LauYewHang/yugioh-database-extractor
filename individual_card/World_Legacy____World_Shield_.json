@@ -4,8 +4,8 @@
     "card_text": "Unaffected by activated effects from any monster Special Summoned from the Extra Deck. Your opponent cannot target your \"World Legacy\" cards in this card's column with card effects, also they cannot be destroyed by your opponent's card effects. During the Standby Phase, if this card is in your GY: You can pay 1000 LP; Special Summon this card, then your opponent can Special Summon 1 monster from their hand or GY. You can only use this effect of \"World Legacy - \"World Shield\"\" once per turn.",
     "release_date": "2018-02-02",
     "available_set": [
-        "EXTREME FORCE",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE"
     ],
     "related_card": [
         "Auram the World Chalice Blademaster",
@@ -63,7 +63,7 @@
     "attack": 0,
     "defense": 3000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

@@ -4,12 +4,12 @@
     "card_text": "When this card inflicts battle damage to your opponent: You can discard 1 card.",
     "release_date": "2005-11-05",
     "available_set": [
-        "GATES OF THE UNDERWORLD STRUCTURE DECK",
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "ELEMENTAL ENERGY",
-        "SPEED DUEL GX: DUELISTS OF SHADOWS",
         "STRUCTURE DECK: DARK WORLD",
-        "DARK REVELATION Volume 4"
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Ceruli, Guru of Dark World",
@@ -31,7 +31,7 @@
     "attack": 1800,
     "defense": 400,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

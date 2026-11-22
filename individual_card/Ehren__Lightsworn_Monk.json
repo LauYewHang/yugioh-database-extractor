@@ -4,11 +4,11 @@
     "card_text": "If this card attacks a Defense Position monster, before damage calculation: Shuffle that monster into the Deck. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the Graveyard.",
     "release_date": "2008-05-13",
     "available_set": [
-        "LIGHT OF DESTRUCTION",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
         "REALM OF LIGHT STRUCTURE DECK",
-        "COLLECTIBLE TIN 2011 WAVE 2",
         "DUEL TERMINAL 7B",
-        "RISE OF THE TRUE DRAGONS STRUCTURE DECK"
+        "COLLECTIBLE TIN 2011 WAVE 2",
+        "LIGHT OF DESTRUCTION"
     ],
     "related_card": [
         "Aurkus, Lightsworn Druid",
@@ -52,7 +52,7 @@
     "attack": 1600,
     "defense": 1000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

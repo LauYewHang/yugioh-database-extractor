@@ -4,8 +4,8 @@
     "card_text": "Once per turn: You can discard 1 Fiend-Type monster, and if you do, this card gains 500 ATK until the end of this turn. When this card you control is destroyed and sent to your Graveyard: You can target 1 of your banished DARK monsters; add that target to your hand.",
     "release_date": "2012-01-24",
     "available_set": [
-        "ORDER OF CHAOS",
-        "PENDULUM DOMINATION STRUCTURE DECK"
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "ORDER OF CHAOS"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -41,7 +41,7 @@
     "attack": 1500,
     "defense": 500,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

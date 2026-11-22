@@ -4,20 +4,20 @@
     "card_text": "You can Special Summon this card (from your hand) by banishing 1 face-up Dragon monster you control. You can only Special Summon \"Red-Eyes Darkness Metal Dragon\" once per turn this way. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or GY, except \"Red-Eyes Darkness Metal Dragon\". You can only use this effect of \"Red-Eyes Darkness Metal Dragon\" once per turn.",
     "release_date": "2010-03-30",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "QUARTER CENTURY BONANZA",
         "LEGENDARY DUELISTS: SEASON 1",
-        "ABSOLUTE POWERFORCE SPECIAL EDITION",
-        "STRUCTURE DECK: ALBAZ STRIKE",
         "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "ABSOLUTE POWERFORCE SPECIAL EDITION",
         "DRAGONS COLLIDE STRUCTURE DECK",
+        "SHONEN JUMP Subscription Promotional Card - February 2009 -",
+        "QUARTER CENTURY BONANZA",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "DUELIST SAGA",
+        "MAXIMUM GOLD: EL DORADO",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "DUEL TERMINAL 4",
         "HIDDEN ARSENAL CHAPTER 1",
-        "SHONEN JUMP Subscription Promotional Card - February 2009 -",
-        "OTS ULTIMATE TOURNAMENT PACK 1",
-        "QUARTER CENTURY STAMPEDE",
-        "MAXIMUM GOLD: EL DORADO",
-        "DUELIST SAGA"
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -48,7 +48,7 @@
     "attack": 2800,
     "defense": 2400,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

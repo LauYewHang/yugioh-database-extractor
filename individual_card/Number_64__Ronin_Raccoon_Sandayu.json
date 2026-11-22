@@ -4,8 +4,8 @@
     "card_text": "2 Level 2 Beast-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Kagemusha Raccoon Token\" (Beast-Type/EARTH/Level 1/ATK ?/DEF 0). (When Summoned, its ATK becomes equal to the current ATK of the monster on the field that has the highest ATK. Your choice, if tied.) While you control another Beast-Type monster, this card cannot be destroyed by battle or card effects.",
     "release_date": "2013-11-08",
     "available_set": [
-        "SHADOW SPECTERS",
-        "2014 MEGA-TINS MEGA PACK"
+        "2014 MEGA-TINS MEGA PACK",
+        "SHADOW SPECTERS"
     ],
     "related_card": [
         "Abyss Shark",
@@ -77,7 +77,7 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 2
 }

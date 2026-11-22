@@ -4,15 +4,15 @@
     "card_text": "During your Standby Phase: You can pay 500 Life Points; add this card from your Graveyard to your hand. You must have no cards in your hand to activate and to resolve this effect.",
     "release_date": "2007-07-26",
     "available_set": [
-        "PREMIUM PACK",
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "PREMIUM PACK"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1000,
     "defense": 1600,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

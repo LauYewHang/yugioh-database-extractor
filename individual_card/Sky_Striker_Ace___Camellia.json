@@ -4,8 +4,8 @@
     "card_text": "2 Effect Monsters\nMust first be Link Summoned. You can only Special Summon \"Sky Striker Ace - Camellia(s)\" once per turn. Once per turn, if you have 3 or less Spells in your GY: You can send 1 \"Sky Striker\" card from your Deck to the GY. If this card is sent to the GY: You can target 1 monster your opponent controls; Special Summon this card to your opponent's field (but shift control to its owner during the End Phase of this turn), and if you do, send that targeted monster to the GY.",
     "release_date": "2026-03-13",
     "available_set": [
-        "LEGENDARY MODERN DECKS 2026 - bonus card",
-        "LEGENDARY MODERN DECKS 2026"
+        "LEGENDARY MODERN DECKS 2026",
+        "LEGENDARY MODERN DECKS 2026 - bonus card"
     ],
     "related_card": [
         "Aileron",
@@ -47,7 +47,7 @@
     "attack": 1500,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 514
 }

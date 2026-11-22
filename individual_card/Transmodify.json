@@ -4,10 +4,10 @@
     "card_text": "Send 1 face-up monster you control to the GY; Special Summon from your Deck, 1 monster with the same Type and Attribute as that monster in the GY, but 1 Level higher. You can only activate 1 \"Transmodify\" per turn.",
     "release_date": "2013-08-09",
     "available_set": [
-        "STRUCTURE DECK: SOULBURNER",
-        "2014 MEGA-TINS MEGA PACK",
         "BATTLES OF LEGEND -LIGHT'S REVENGE-",
-        "JUDGMENT OF THE LIGHT"
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT",
+        "STRUCTURE DECK: SOULBURNER"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

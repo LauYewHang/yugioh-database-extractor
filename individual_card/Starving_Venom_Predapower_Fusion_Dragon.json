@@ -4,8 +4,8 @@
     "card_text": "1 DARK Fusion Monster + 1 Fusion Monster\n(This card is always treated as a \"Predaplant\" card.)\nOnce per turn, when a card or effect is activated (Quick Effect): You can Tribute 1 monster on either field with a Predator Counter, and if you do, negate the activation. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can target 1 DARK monster in your GY; Special Summon it. You can only use this effect of \"Starving Venom Predapower Fusion Dragon\" once per turn.",
     "release_date": "2022-05-20",
     "available_set": [
-        "DIMENSION FORCE",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
     ],
     "related_card": [
         "Ambush Fangs",
@@ -62,7 +62,7 @@
     "attack": 3600,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

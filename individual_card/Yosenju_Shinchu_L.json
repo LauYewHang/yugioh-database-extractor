@@ -4,8 +4,8 @@
     "card_text": "If this card is Normal Summoned: Change it to Defense Position. Your opponent cannot target \"Yosenju\" monsters you control with card effects, except this one.",
     "release_date": "2015-02-13",
     "available_set": [
-        "THE SECRET FORCES",
-        "STAR PACK BATTLE ROYAL"
+        "STAR PACK BATTLE ROYAL",
+        "THE SECRET FORCES"
     ],
     "related_card": [
         "Dizzying Winds of Yosen Village",
@@ -33,7 +33,7 @@
     "attack": 0,
     "defense": 2100,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "If a \"Yosenju\" monster(s) you control would be destroyed by battle or card effect, you can destroy this card instead.",

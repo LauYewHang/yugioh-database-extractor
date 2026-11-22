@@ -5,16 +5,16 @@
     "release_date": "2002-09-16",
     "available_set": [
         "DARK LEGENDS",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "TOURNAMENT PACK 4",
         "CHAMPION PACK GAME TWO",
-        "DARK BEGINNING 1",
-        "RETRO PACK",
+        "DUEL TERMINAL 5A",
         "DUELIST LEAGUE DEMO 2010",
+        "DARK BEGINNING 1",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "RETRO PACK",
         "SPELL RULER (LC01 25th Anniversary Edition)",
         "SPELL RULER",
-        "DUEL TERMINAL 5A",
-        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
-        "TOURNAMENT PACK 4"
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Nimble Angler",
@@ -24,7 +24,7 @@
     "attack": 1000,
     "defense": 100,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

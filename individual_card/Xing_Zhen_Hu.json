@@ -4,10 +4,10 @@
     "card_text": "Activate by selecting 2 Set Spell or Trap Cards on the field. The selected Spell or Trap Cards cannot be activated.",
     "release_date": "2004-12-01",
     "available_set": [
-        "RISE OF DESTINY",
         "STRUCTURE DECK FURY FROM THE DEEP",
-        "GOLD SERIES 4 PYRAMIDS EDITION",
-        "DARK REVELATION Volume 3"
+        "RISE OF DESTINY",
+        "DARK REVELATION Volume 3",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

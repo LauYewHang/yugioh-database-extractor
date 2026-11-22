@@ -4,10 +4,10 @@
     "card_text": "2 Level 8 monsters\nIf this card has a \"Photon\" card as material, it cannot be destroyed by card effects. You can only use each of the following effects of \"Number 90: Galaxy-Eyes Photon Lord\" once per turn.\n\u25cfWhen an opponent's monster activates its effect (Quick Effect): You can detach 1 material from this card; negate that monster's effect, and if the detached material was a \"Galaxy\" card, destroy that card.\n\u25cfDuring your opponent's turn (Quick Effect): You can take 1 \"Photon\" or \"Galaxy\" card from your Deck, and either add it to your hand or attach it to this card as material.",
     "release_date": "2018-06-29",
     "available_set": [
-        "BATTLES OF LEGEND: RELENTLESS REVENGE",
-        "2025 MEGA-PACK TIN",
         "LEGENDARY MODERN DECKS 2026",
-        "BATTLES OF LEGEND - CHAPTER 1"
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Abyss Shark",
@@ -178,7 +178,7 @@
     "attack": 2500,
     "defense": 3000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

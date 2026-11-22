@@ -4,8 +4,8 @@
     "card_text": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then look at your opponent's Extra Deck and banish 1 card from it. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Silverrokket Dragon\". You can only use each effect of \"Silverrokket Dragon\" once per turn.",
     "release_date": "2019-08-16",
     "available_set": [
-        "STRUCTURE DECK: ROKKET REVOLT",
-        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "STRUCTURE DECK: ROKKET REVOLT"
     ],
     "related_card": [
         "Absorouter Dragon",
@@ -55,7 +55,7 @@
     "attack": 1900,
     "defense": 100,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

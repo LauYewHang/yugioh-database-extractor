@@ -4,8 +4,8 @@
     "card_text": "Level 6 or higher monsters your opponent controls cannot target this card for attacks. You can only use each of the following effects of \"Destiny HERO - Decider\" once per Duel.\n\u25cfIf this card is Normal or Special Summoned: You can add 1 \"HERO\" monster from your GY to your hand during the End Phase of this turn.\n\u25cfWhen a card or effect is activated that would inflict damage to you, while this card is in your GY (Quick Effect): Return this card to your hand, and if you do, make that effect damage to you 0.",
     "release_date": "2016-11-18",
     "available_set": [
-        "DESTINY SOLDIERS",
-        "LEGENDARY HERO DECKS"
+        "LEGENDARY HERO DECKS",
+        "DESTINY SOLDIERS"
     ],
     "related_card": [
         "Apparition",
@@ -210,7 +210,7 @@
     "attack": 1600,
     "defense": 1000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

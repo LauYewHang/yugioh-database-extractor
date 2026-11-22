@@ -4,9 +4,9 @@
     "card_text": "If a \"Sinful Spoils\" card is in either player's GY, you can Special Summon this card (from your hand). You can only Special Summon \"Diabellze the Original Sinkeeper\" once per turn this way. Your opponent must Set Spell/Trap Cards before activating them. If a Spell/Trap becomes Set on the field, while this card is in the Monster Zone (except during the Damage Step): You can target 1 card you control and 1 card your opponent controls; destroy them. You can only use this effect of \"Diabellze the Original Sinkeeper\" once per turn.",
     "release_date": "2024-04-26",
     "available_set": [
+        "2025 MEGA-PACK TIN",
         "MAGNIFICENT MAESTROS",
-        "LEGACY OF DESTRUCTION",
-        "2025 MEGA-PACK TIN"
+        "LEGACY OF DESTRUCTION"
     ],
     "related_card": [
         "Curse of Diabell",
@@ -35,7 +35,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Illusion",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

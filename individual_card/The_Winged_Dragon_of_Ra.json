@@ -4,20 +4,20 @@
     "card_text": "Cannot be Special Summoned. Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, other cards and effects cannot be activated. When this card is Normal Summoned: You can pay LP so that you only have 100 left; this card gains ATK/DEF equal to the amount of LP paid. You can pay 1000 LP, then target 1 monster on the field; destroy that target.",
     "release_date": "2012-03-06",
     "available_set": [
-        "LEGENDARY DECKS II",
-        "QUARTER CENTURY BONANZA",
-        "SHONEN JUMP Promotional Card - January 2011 -",
-        "KING'S COURT",
         "BATTLE PACK 2 WAR OF THE GIANTS",
-        "ORDER OF CHAOS SPECIAL EDITION",
-        "2019 GOLD SARCOPHAGUS TIN",
+        "KING'S COURT",
         "PREMIUM GOLD",
-        "SHONEN JUMP Scholastic Edition Promotional Card",
-        "SPEED DUEL: BATTLE CITY FINALS",
+        "QUARTER CENTURY BONANZA",
+        "ORDER OF CHAOS SPECIAL EDITION",
+        "LEGENDARY DECKS II",
+        "SHONEN JUMP Promotional Card - January 2011 -",
         "Speed Duel: Battle City Box",
-        "QUARTER CENTURY STAMPEDE",
+        "SPEED DUEL: BATTLE CITY FINALS",
         "LEGENDARY DUELISTS: RAGE OF RA",
-        "RARITY COLLECTION 5"
+        "SHONEN JUMP Scholastic Edition Promotional Card",
+        "2019 GOLD SARCOPHAGUS TIN",
+        "RARITY COLLECTION 5",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Ancient Chant",
@@ -36,7 +36,7 @@
     "attack": "?",
     "defense": "?",
     "monster_type": "Divine-Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

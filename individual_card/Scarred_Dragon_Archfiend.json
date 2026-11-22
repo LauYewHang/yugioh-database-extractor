@@ -4,8 +4,8 @@
     "card_text": "1 Tuner + 1+ non-Tuner DARK monsters\nThis card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of \"Scarred Dragon Archfiend\" once per turn.",
     "release_date": "2023-09-22",
     "available_set": [
-        "STRUCTURE DECK: THE CRIMSON KING",
-        "RARITY COLLECTION 5"
+        "RARITY COLLECTION 5",
+        "STRUCTURE DECK: THE CRIMSON KING"
     ],
     "related_card": [
         "Absolute Powerforce",
@@ -72,7 +72,7 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

@@ -16,7 +16,7 @@
     "attack": 0,
     "defense": 4000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 12,
     "pendulum_effect": "Once per Chain, if a monster(s) is destroyed: Place 3 counters on this card. This card's Pendulum Scale is increased by the number of counters on it. You can remove 12 counters from this card; Special Summon it.",

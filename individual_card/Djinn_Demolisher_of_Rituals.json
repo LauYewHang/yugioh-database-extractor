@@ -4,16 +4,16 @@
     "card_text": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If a player Ritual Summons using this card, that Ritual Summoned monster cannot be targeted by the card effects of the other player.",
     "release_date": "2014-08-15",
     "available_set": [
+        "DUELIST ALLIANCE",
         "2015 MEGA-TINS MEGA PACK",
-        "ASTRAL PACK SEVEN",
-        "DUELIST ALLIANCE"
+        "ASTRAL PACK SEVEN"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1500,
     "defense": 600,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

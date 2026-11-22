@@ -4,8 +4,8 @@
     "card_text": "2 Level 7 WATER monsters\nWhile this card has material, Level 5 or higher monsters cannot attack. Once per turn (Quick Effect): You can detach 1 material from this card; negate the effects of all face-up monsters your opponent currently controls with less ATK than this card, until the end of this turn.",
     "release_date": "2012-11-09",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
-        "ABYSS RISING"
+        "ABYSS RISING",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Abyss-scale of Cetus",
@@ -38,7 +38,7 @@
     "attack": 2800,
     "defense": 1600,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 7
 }

@@ -5,8 +5,8 @@
     "release_date": "2023-05-05",
     "available_set": [
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "RARITY COLLECTION 5",
-        "CYBERSTORM ACCESS"
+        "CYBERSTORM ACCESS",
+        "RARITY COLLECTION 5"
     ],
     "related_card": [
         "Cynet Circuit",
@@ -17,7 +17,7 @@
     "attack": 3500,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 6,
     "link_arrow": 980
 }

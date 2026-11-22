@@ -4,9 +4,9 @@
     "card_text": "During your Main Phase: You can target 1 \"Photon\" or \"Galaxy\" monster you control; equip this monster from your hand or field to that target. It gains 500 ATK, also it cannot be destroyed by battle. You can send this Equip Card to the GY; add 1 \"Photon\" or \"Galaxy\" monster from your Deck to your hand, except \"Photon Orbital\". You can only use this effect of \"Photon Orbital\" once per turn.",
     "release_date": "2018-09-28",
     "available_set": [
-        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
+        "LEGENDARY DUELISTS: SEASON 2",
         "MAZE OF MEMORIES",
-        "LEGENDARY DUELISTS: SEASON 2"
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
     ],
     "related_card": [
         "Accellight",
@@ -112,7 +112,7 @@
     "attack": 500,
     "defense": 2000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

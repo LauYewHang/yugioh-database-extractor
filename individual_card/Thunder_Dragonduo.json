@@ -4,8 +4,8 @@
     "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, if a monster effect is activated in the hand: This card gains 300 ATK until the end of this turn. When this card destroys an opponent's monster by battle: You can banish 1 card from your GY; add 1 Thunder monster from your Deck to your hand. Once per turn, during your opponent's End Phase: You can target 1 of your banished cards; place it on the top or bottom of your Deck.",
     "release_date": "2018-10-19",
     "available_set": [
-        "SOUL FUSION",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
     ],
     "related_card": [
         "Thunder Dragon",
@@ -23,7 +23,7 @@
     "attack": 2800,
     "defense": 0,
     "monster_type": "Thunder",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

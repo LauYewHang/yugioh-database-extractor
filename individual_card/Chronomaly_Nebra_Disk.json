@@ -4,8 +4,8 @@
     "card_text": "When this card is Normal Summoned: You can add 1 \"Chronomaly\" card from your Deck to your hand, except \"Chronomaly Nebra Disk\". If this card is in the GY and all monsters you control are \"Chronomaly\" monsters (min. 1): You can Special Summon this card in Defense Position. You cannot activate cards or effects during the turn you activate this effect, except \"Chronomaly\" cards and effects. You can only use 1 \"Chronomaly Nebra Disk\" effect per turn, and only once that turn.",
     "release_date": "2015-04-17",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
-        "WORLD SUPERSTARS"
+        "WORLD SUPERSTARS",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Chronomaly Acambaro Figures",
@@ -42,7 +42,7 @@
     "attack": 1800,
     "defense": 1500,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

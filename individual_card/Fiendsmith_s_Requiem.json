@@ -5,8 +5,8 @@
     "release_date": "2024-07-19",
     "available_set": [
         "BATTLES OF LEGEND: GLORIOUS GALLERY",
-        "2025 MEGA-PACK TIN",
-        "THE INFINITE FORBIDDEN"
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Fiendsmith Engraver",
@@ -25,7 +25,7 @@
     "attack": 600,
     "defense": null,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 4
 }

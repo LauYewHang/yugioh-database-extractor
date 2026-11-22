@@ -4,15 +4,15 @@
     "card_text": "Cannot be Special Summoned. Once per turn: You can target 1 other Spirit monster on the field; return it to the hand. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
     "release_date": "2017-02-10",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
-        "RAGING TEMPEST"
+        "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": 1000,
     "defense": 1800,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 130,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

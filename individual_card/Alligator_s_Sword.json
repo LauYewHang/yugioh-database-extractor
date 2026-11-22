@@ -4,12 +4,12 @@
     "card_text": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
     "release_date": "2010-08-14",
     "available_set": [
-        "LEGENDARY DECKS II",
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "SPEED DUEL: STREETS OF BATTLE CITY",
-        "TURBO PACK BOOSTER EIGHT",
         "WORLD CHAMPIONSHIP 2010 CARD PACK",
-        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "LEGENDARY DECKS II",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "TURBO PACK BOOSTER EIGHT"
     ],
     "related_card": [
         "Alligator's Sword Dragon"
@@ -18,7 +18,7 @@
     "attack": 1500,
     "defense": 1200,
     "monster_type": "Beast",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

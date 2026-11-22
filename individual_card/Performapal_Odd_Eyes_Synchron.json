@@ -4,8 +4,8 @@
     "card_text": "If this card, Special Summoned from the Extra Deck, is used as Synchro Material, banish it. When this card is Normal Summoned: You can target 1 Level 3 or lower \"Performapal\" or \"Odd-Eyes\" monster in your GY; Special Summon it, but it has its effects negated. Once per turn: You can target 1 card in your Pendulum Zone; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only that monster and this card.",
     "release_date": "2017-07-07",
     "available_set": [
-        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
-        "LEGENDARY ARC-V DECKS"
+        "LEGENDARY ARC-V DECKS",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-"
     ],
     "related_card": [
         "Accel Synchron",
@@ -182,7 +182,7 @@
     "attack": 200,
     "defense": 600,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 5122,
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "Once per turn: You can target 1 \"Performapal\" or \"Odd-Eyes\" monster you control; this turn, that face-up monster is treated as a Tuner, also its Level becomes 1 (even if this card leaves the field).",

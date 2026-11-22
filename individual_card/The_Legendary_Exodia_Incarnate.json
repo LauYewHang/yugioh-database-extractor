@@ -4,8 +4,8 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Forbidden One\" monster. Gains 1000 ATK for each \"Forbidden One\" monster in your GY. Unaffected by other cards' effects. Once per turn, during your End Phase: Add 1 \"Forbidden One\" monster from your GY to your hand. When this card is destroyed by battle and sent to the GY: You can reveal any number of \"Forbidden One\" monsters in your hand, and if you do, draw 1 card for each.",
     "release_date": "2016-10-07",
     "available_set": [
-        "LEGENDARY DECKS II",
-        "BATTLES OF LEGEND: TERMINAL REVENGE"
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "LEGENDARY DECKS II"
     ],
     "related_card": [
         "Exodia the Forbidden One",
@@ -22,7 +22,7 @@
     "attack": "?",
     "defense": 0,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

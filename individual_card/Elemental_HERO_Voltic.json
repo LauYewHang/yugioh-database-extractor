@@ -4,9 +4,9 @@
     "card_text": "When this card inflicts battle damage to your opponent: You can target 1 of your banished \"Elemental HERO\" monsters; Special Summon that target.",
     "release_date": "2008-07-31",
     "available_set": [
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "DUEL TERMINAL 6A",
         "HERO STRIKE STRUCTURE DECK",
+        "DUEL TERMINAL 6A",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
         "PREMIUM PACK 2"
     ],
     "related_card": [
@@ -184,7 +184,7 @@
     "attack": 1000,
     "defense": 1500,
     "monster_type": "Thunder",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

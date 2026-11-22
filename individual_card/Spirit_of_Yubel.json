@@ -5,8 +5,8 @@
     "release_date": "2024-02-09",
     "available_set": [
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "2025 MEGA-PACK TIN",
-        "PHANTOM NIGHTMARE"
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Eternal Favorite",
@@ -22,7 +22,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

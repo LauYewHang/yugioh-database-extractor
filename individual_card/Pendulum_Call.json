@@ -4,9 +4,9 @@
     "card_text": "Discard 1 card; add 2 \"Magician\" Pendulum Monsters with different names from your Deck to your hand, also, until the end of your opponent's next turn after this card resolves, \"Magician\" cards in your Pendulum Zones cannot be destroyed by card effects. You can only activate 1 \"Pendulum Call\" per turn. You cannot activate this card if you activated a \"Magician\" monster's Pendulum Effect this turn.",
     "release_date": "2015-12-04",
     "available_set": [
-        "PENDULUM EVOLUTION",
         "MAGNIFICENT MAVENS",
-        "MASTER OF PENDULUM STRUCTURE DECK"
+        "MASTER OF PENDULUM STRUCTURE DECK",
+        "PENDULUM EVOLUTION"
     ],
     "related_card": [
         "Acrobatic Magician",

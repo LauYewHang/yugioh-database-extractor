@@ -4,16 +4,16 @@
     "card_text": "This card is Level 4 while in face-up Defense Position.",
     "release_date": "2011-07-12",
     "available_set": [
-        "BATTLE PACK EPIC DAWN",
         "STARTER DECK XYZ SYMPHONY",
-        "STARTER DECK DAWN OF THE XYZ"
+        "STARTER DECK DAWN OF THE XYZ",
+        "BATTLE PACK EPIC DAWN"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 400,
     "defense": 1900,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

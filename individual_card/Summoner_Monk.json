@@ -4,24 +4,24 @@
     "card_text": "While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.",
     "release_date": "2009-03-31",
     "available_set": [
-        "FUSION ENFORCERS",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "STRUCTURE DECK : CYBERSE LINK",
+        "HERO STRIKE STRUCTURE DECK",
+        "STRUCTURE DECK: ORDER OF THE SPELLCASTERS",
+        "DRAGONS COLLIDE STRUCTURE DECK",
         "VALIANT SMASHERS",
         "PREMIUM GOLD",
+        "FUSION ENFORCERS",
         "STRUCTURE DECK: ALBAZ STRIKE",
-        "HERO STRIKE STRUCTURE DECK",
-        "GOLD SERIES 4 PYRAMIDS EDITION",
         "SPELLCASTER'S COMMAND STRUCTURE DECK",
-        "STRUCTURE DECK: ORDER OF THE SPELLCASTERS",
-        "DRAGONS COLLIDE STRUCTURE DECK"
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STRUCTURE DECK : CYBERSE LINK"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 800,
     "defense": 1600,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

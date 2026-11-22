@@ -4,8 +4,8 @@
     "card_text": "3 \"Artmage\" monsters\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) in Defense Position by Tributing 3 monsters with different Types. You can only Special Summon \"Nerva the Power Patron of Creation(s)\" once per turn. While a card is in the Field Zone, this card cannot be destroyed by card effects. Once per turn, when you activate an \"Artmage\" monster's effect (Quick Effect): You can make the activated effect become \"Destroy all cards your opponent controls\".",
     "release_date": "2025-07-04",
     "available_set": [
-        "MAGNIFICENT MAESTROS",
-        "DUELIST'S ADVANCE"
+        "DUELIST'S ADVANCE",
+        "MAGNIFICENT MAESTROS"
     ],
     "related_card": [
         "Ars Magna \"Citrinitas\"",
@@ -43,7 +43,7 @@
     "attack": 3300,
     "defense": 3300,
     "monster_type": "Illusion",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

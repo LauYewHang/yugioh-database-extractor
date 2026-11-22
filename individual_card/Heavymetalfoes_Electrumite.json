@@ -4,9 +4,9 @@
     "card_text": "2 Pendulum Monsters\nIf this card is Link Summoned: You can add 1 Pendulum Monster from your Deck to your Extra Deck face-up. Once per turn: You can target 1 other face-up card you control; destroy it, then add 1 face-up Pendulum Monster from your Extra Deck to your hand. If a card(s) in your Pendulum Zone leaves the field: Draw 1 card. You can only use this effect of \"Heavymetalfoes Electrumite\" once per turn.",
     "release_date": "2018-02-02",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
+        "2018 MEGA-TINS MEGA PACK",
         "EXTREME FORCE",
-        "2018 MEGA-TINS MEGA PACK"
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Fullmetalfoes Alkahest",
@@ -34,7 +34,7 @@
     "attack": 1800,
     "defense": null,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

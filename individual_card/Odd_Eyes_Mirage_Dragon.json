@@ -4,10 +4,10 @@
     "card_text": "While an \"Odd-Eyes\" card is in your Pendulum Zone (Quick Effect): You can target 1 \"Odd-Eyes\" monster you control; the first time it would be destroyed by battle or card effect this turn, it is not destroyed. You can only use this effect of \"Odd-Eyes Mirage Dragon\" once per turn.",
     "release_date": "2016-08-19",
     "available_set": [
-        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
-        "DRAGONS OF LEGEND -UNLEASHED-",
         "LEGENDARY ARC-V DECKS",
-        "LEGENDARY DRAGON DECKS"
+        "LEGENDARY DRAGON DECKS",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
     ],
     "related_card": [
         "Horoscope Sorcerer, the Stargazer Magician",
@@ -77,7 +77,7 @@
     "attack": 1200,
     "defense": 600,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "Once per turn, if a face-up \"Odd-Eyes\" Pendulum Monster(s) you control is destroyed by battle or card effect: You can destroy 1 card in your Pendulum Zone, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster in your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Mirage Dragon\".",

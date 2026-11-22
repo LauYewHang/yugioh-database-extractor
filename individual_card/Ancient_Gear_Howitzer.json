@@ -4,9 +4,9 @@
     "card_text": "2 \"Ancient Gear\" monsters\nUnaffected by other cards' effects. During your Main Phase: You can inflict 1000 damage to your opponent. You can only use this effect of \"Ancient Gear Howitzer\" once per turn. If this card is destroyed by battle and sent to the GY: You can Special Summon 1 \"Ancient Gear\" monster from your Deck, ignoring its Summoning conditions.",
     "release_date": "2017-02-10",
     "available_set": [
+        "RAGING TEMPEST",
         "QUARTER CENTURY BONANZA",
-        "2017 MEGA-TINS MEGA PACK",
-        "RAGING TEMPEST"
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Ancient Gear",
@@ -57,7 +57,7 @@
     "attack": 1000,
     "defense": 1800,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

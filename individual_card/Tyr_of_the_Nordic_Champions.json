@@ -4,8 +4,8 @@
     "card_text": "Your opponent's monsters cannot target \"Nordic\" monsters for attacks, except \"Tyr of the Nordic Champions\". If there is no other \"Nordic\" monster on the field, destroy this card.",
     "release_date": "2011-02-08",
     "available_set": [
-        "LEGENDARY COLLECTION 5D's MEGA PACK",
         "LEGENDARY HERO DECKS",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
         "STORM OF RAGNAROK"
     ],
     "related_card": [
@@ -40,7 +40,7 @@
     "attack": 2000,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

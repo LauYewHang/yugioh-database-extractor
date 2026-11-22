@@ -4,15 +4,15 @@
     "card_text": "When an attack is declared involving this card and an opponent's monster: You can activate this effect; during this battle involving this monster, neither player takes any battle damage, also destroy the opponent's monster after damage calculation.",
     "release_date": "2012-11-09",
     "available_set": [
-        "BATTLE PACK 2 WAR OF THE GIANTS",
-        "ABYSS RISING"
+        "ABYSS RISING",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1600,
     "defense": 1200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

@@ -4,9 +4,9 @@
     "card_text": "2 Level 3 monsters\nIf this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.",
     "release_date": "2011-11-15",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
         "COLLECTIBLE TIN 2012 WAVE 1",
-        "PHOTON SHOCKWAVE"
+        "PHOTON SHOCKWAVE",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Legendary Wind-Up Key",
@@ -33,7 +33,7 @@
     "attack": 1500,
     "defense": 2100,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 3
 }

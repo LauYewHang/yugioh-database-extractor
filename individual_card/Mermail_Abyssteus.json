@@ -4,9 +4,9 @@
     "card_text": "You can discard 1 other WATER monster to the GY; Special Summon this card from your hand. When Summoned this way: You can add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
     "release_date": "2013-01-25",
     "available_set": [
-        "COSMO BLAZER",
-        "QUARTER CENTURY BONANZA",
         "SHADOWS IN VALHALLA",
+        "QUARTER CENTURY BONANZA",
+        "COSMO BLAZER",
         "BATTLES OF LEGEND -LIGHT'S REVENGE-"
     ],
     "related_card": [
@@ -45,7 +45,7 @@
     "attack": 1700,
     "defense": 2400,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

@@ -4,8 +4,8 @@
     "card_text": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" you control and 1 face-up LIGHT monster you control to the GY. When Summoned this way: You can add 1 Spellcaster monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
     "release_date": "2017-05-05",
     "available_set": [
-        "MAXIMUM CRISIS",
         "2018 MEGA-TINS MEGA PACK",
+        "MAXIMUM CRISIS",
         "MAXIMUM GOLD: EL DORADO"
     ],
     "related_card": [
@@ -29,7 +29,7 @@
     "attack": 1850,
     "defense": 1500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

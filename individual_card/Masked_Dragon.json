@@ -5,11 +5,11 @@
     "release_date": "2004-10-01",
     "available_set": [
         "SOUL OF THE DUELIST",
-        "DARK REVELATION Volume 3",
-        "DRAGUNITY LEGION STRUCTURE DECK",
-        "STRUCTURE DECK DRAGON'S ROAR",
-        "TURBO PACK BOOSTER SIX",
         "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "DARK REVELATION Volume 3",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "TURBO PACK BOOSTER SIX",
         "DUEL TERMINAL 4"
     ],
     "related_card": [],
@@ -17,7 +17,7 @@
     "attack": 1400,
     "defense": 1100,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

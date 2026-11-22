@@ -4,17 +4,17 @@
     "card_text": "You can Special Summon this card (from your hand) by discarding 1 card. You can only Special Summon \"Nightmare Apprentice\" once per turn this way. If this card battles a monster, neither can be destroyed by that battle. If this card is Normal or Special Summoned: You can add 1 Illusion monster from your Deck to your hand, except \"Nightmare Apprentice\". You can only use this effect of \"Nightmare Apprentice\" once per turn.",
     "release_date": "2024-04-26",
     "available_set": [
-        "WINNER'S PACK 2026-2027",
+        "LEGACY OF DESTRUCTION",
         "RARITY COLLECTION 5",
         "2025 MEGA-PACK TIN",
-        "LEGACY OF DESTRUCTION"
+        "WINNER'S PACK 2026-2027"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 2000,
     "defense": 1700,
     "monster_type": "Illusion",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

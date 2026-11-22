@@ -4,10 +4,10 @@
     "card_text": "Each time a player equips an Equip Spell Card, increase the Life Points of the controller of that Equip Spell Card by 1000 points. Each time an Equip Spell Card is removed from the field, the controller of that Equip Spell Card takes 1000 points of damage.",
     "release_date": "2003-12-01",
     "available_set": [
-        "DARK CRISIS",
+        "DARK REVELATION Volume 1",
         "DARK CRISIS (LC01 25th Anniversary Edition)",
-        "DARK CRISIS (Reprint)",
-        "DARK REVELATION Volume 1"
+        "DARK CRISIS",
+        "DARK CRISIS (Reprint)"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

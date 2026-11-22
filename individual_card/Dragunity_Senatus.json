@@ -4,9 +4,9 @@
     "card_text": "You can discard 1 \"Dragunity\" card; equip 1 \"Dragunity\" Tuner from your Deck to this card, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Dragon monsters. You can only use this effect of \"Dragunity Senatus\" once per turn. If a \"Dragunity\" card(s) you control would be destroyed by battle or card effect, you can destroy 1 \"Dragunity\" card equipped to this card, instead.",
     "release_date": "2018-07-27",
     "available_set": [
-        "CYBERNETIC HORIZON",
         "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "CYBERNETIC HORIZON"
     ],
     "related_card": [
         "Dragon Mastery",
@@ -58,7 +58,7 @@
     "attack": 1800,
     "defense": 600,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

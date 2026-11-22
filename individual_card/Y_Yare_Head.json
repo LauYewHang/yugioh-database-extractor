@@ -4,8 +4,8 @@
     "card_text": "If this card is Special Summoned: You can equip 1 Level 4 LIGHT Machine monster from your hand or GY to this card as an Equip Spell, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT monsters. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
     "release_date": "2025-03-14",
     "available_set": [
-        "OTS TOURNAMENT PACK 28",
-        "MAZE OF THE MASTER"
+        "MAZE OF THE MASTER",
+        "OTS TOURNAMENT PACK 28"
     ],
     "related_card": [
         "Union Controller",
@@ -15,7 +15,7 @@
     "attack": 1500,
     "defense": 1600,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 258,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

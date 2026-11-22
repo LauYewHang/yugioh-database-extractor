@@ -4,8 +4,8 @@
     "card_text": "2 Level 3 monsters\nOnce per turn, during your opponent's turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Phantom Token\" (Fiend-Type/DARK/Level 1/ATK 500/DEF 500). (This is a Quick Effect.) While you control a \"Phantom Token\", your opponent cannot target this card for attacks. This card gains 500 ATK for each \"Phantom Token\" you control.",
     "release_date": "2014-05-16",
     "available_set": [
-        "2015 MEGA-TINS MEGA PACK",
-        "PRIMAL ORIGIN"
+        "PRIMAL ORIGIN",
+        "2015 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Abyss Shark",
@@ -77,7 +77,7 @@
     "attack": 1800,
     "defense": 0,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 3
 }

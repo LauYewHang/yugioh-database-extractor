@@ -4,11 +4,11 @@
     "card_text": "2 Level 7 monsters\nCannot be destroyed by card effects while it has material. While this card has material, each time your opponent activates a card or effect, inflict 500 damage to your opponent immediately after it resolves. Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 \"Red-Eyes\" Normal Monster in your GY; Special Summon it.",
     "release_date": "2015-08-07",
     "available_set": [
-        "LEGENDARY DECKS II",
-        "25TH ANNIVERSARY RARITY COLLECTION",
         "LEGENDARY DUELISTS: SEASON 1",
-        "CLASH OF REBELLIONS",
-        "PREMIUM GOLD: INFINITE GOLD"
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "LEGENDARY DECKS II",
+        "CLASH OF REBELLIONS"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -55,7 +55,7 @@
     "attack": 2800,
     "defense": 2400,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 7
 }

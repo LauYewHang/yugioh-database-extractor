@@ -38,7 +38,7 @@
     "attack": 800,
     "defense": null,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 4
 }

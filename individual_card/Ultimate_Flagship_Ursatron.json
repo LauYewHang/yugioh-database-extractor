@@ -4,8 +4,8 @@
     "card_text": "(This card is always treated as an \"Ursarctic\" and \"Drytron\" card.)\nMust be Special Summoned with \"Ursarctic Drytron\". Once per turn, if another Effect Monster is Special Summoned to your field (except during the Damage Step): You can add 1 \"Ursarctic\" or \"Drytron\" monster from your Deck to your hand. Once per turn: You can target 1 of your banished \"Ursarctic\" or \"Drytron\" monsters; add it to your hand.",
     "release_date": "2021-11-05",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "BURST OF DESTINY"
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Drytron Alpha Thuban",
@@ -47,7 +47,7 @@
     "attack": 2000,
     "defense": 700,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

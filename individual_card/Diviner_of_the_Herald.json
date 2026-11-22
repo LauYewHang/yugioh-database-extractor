@@ -5,17 +5,17 @@
     "release_date": "2021-06-04",
     "available_set": [
         "OTS TOURNAMENT PACK 25",
-        "2022 TIN OF THE PHARAOH'S GODS",
         "LIGHTNING OVERDRIVE",
         "RARITY COLLECTION 5",
-        "BATTLES OF LEGEND: TERMINAL REVENGE"
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 500,
     "defense": 300,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

@@ -5,8 +5,8 @@
     "release_date": "2015-05-15",
     "available_set": [
         "2016 MEGA-TINS MEGA PACK",
-        "CROSSED SOULS",
-        "STAR PACK BATTLE ROYAL"
+        "STAR PACK BATTLE ROYAL",
+        "CROSSED SOULS"
     ],
     "related_card": [
         "Bubble Barrier",
@@ -123,7 +123,7 @@
     "attack": 200,
     "defense": 1800,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

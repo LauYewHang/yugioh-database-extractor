@@ -4,15 +4,15 @@
     "card_text": "If this card is destroyed by card effect and sent to the GY: Special Summon 1 Level 4 or higher Dinosaur monster from your Deck, but it cannot attack this turn.",
     "release_date": "2017-04-14",
     "available_set": [
-        "WILD SURVIVORS",
-        "DINOSMASHER\u2019S FURY STRUCTURE DECK"
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "WILD SURVIVORS"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 500,
     "defense": 500,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

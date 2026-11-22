@@ -4,9 +4,9 @@
     "card_text": "Target 1 \"Bujin\" monster on the field; apply this effect to it for the rest of this turn. Each time it destroys a monster by battle whose current ATK is greater than or equal to the targeted monster's original ATK, and sends it to the Graveyard: Banish the destroyed monster, and if you do, banish all monsters from your opponent's hand, Main Deck, Extra Deck, and Graveyard with the same name that the destroyed monster had in the Graveyard.",
     "release_date": "2014-03-07",
     "available_set": [
-        "2015 MEGA-TINS MEGA PACK",
         "LEGACY OF THE VALIANT DELUXE EDITION",
-        "PRIMAL ORIGIN"
+        "PRIMAL ORIGIN",
+        "2015 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Bujin Arasuda",

@@ -4,16 +4,16 @@
     "card_text": "Neither player can Special Summon monsters, except WATER monsters.",
     "release_date": "2006-11-15",
     "available_set": [
-        "Gold Series: Maximum Gold",
+        "OTS TOURNAMENT PACK 4",
         "CYBERDARK IMPACT",
-        "OTS TOURNAMENT PACK 4"
+        "Gold Series: Maximum Gold"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

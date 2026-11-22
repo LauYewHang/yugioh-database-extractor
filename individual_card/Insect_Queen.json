@@ -4,14 +4,14 @@
     "card_text": "Gains 200 ATK for each Insect monster on the field. Cannot declare an attack unless you Tribute 1 monster. Once per turn, during the End Phase, if this card destroyed an opponent's monster by battle this turn: Special Summon 1 \"Insect Monster Token\" (Insect/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.",
     "release_date": "2004-09-01",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "COLLECTIBLE TIN SERIES 1",
         "SPEED DUEL: STREETS OF BATTLE CITY",
-        "DUELIST PACK - BATTLE CITY -",
-        "RETRO PACK 2",
+        "DARK BEGINNING 2",
         "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
         "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
-        "DARK BEGINNING 2"
+        "DUELIST PACK - BATTLE CITY -",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "RETRO PACK 2"
     ],
     "related_card": [
         "Metamorphosed Insect Queen"
@@ -20,7 +20,7 @@
     "attack": 2200,
     "defense": 2400,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

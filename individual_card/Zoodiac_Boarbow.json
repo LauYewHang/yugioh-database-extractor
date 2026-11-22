@@ -4,8 +4,8 @@
     "card_text": "5 Level 4 monsters\nOnce per turn, you can also Xyz Summon \"Zoodiac Boarbow\" by using 1 \"Zoodiac\" monster you control with a different name as material. (Transfer its materials to this card.) Gains ATK/DEF equal to the ATK/DEF of all \"Zoodiac\" monsters attached to it as material. This card can attack directly. When this card inflicts battle damage to your opponent while it has 12 or more materials: You can send as many cards as possible from your opponent's hand and field to the GY, then change this card to Defense Position.",
     "release_date": "2017-02-10",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
         "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK",
         "OTS TOURNAMENT PACK 15"
     ],
     "related_card": [
@@ -29,7 +29,7 @@
     "attack": "?",
     "defense": "?",
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

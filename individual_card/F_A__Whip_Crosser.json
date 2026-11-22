@@ -4,8 +4,8 @@
     "card_text": "Gains ATK equal to its Level x 300. Your opponent must pay 300 LP to activate the effect of a monster whose original Level/Rank is lower than this card's Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, your opponent cannot discard or send cards from their hand to the GY to activate a card effect.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
     ],
     "related_card": [
         "F.A. Auto Navigator",
@@ -33,7 +33,7 @@
     "attack": 0,
     "defense": 1000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

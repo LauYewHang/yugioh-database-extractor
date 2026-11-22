@@ -5,8 +5,8 @@
     "release_date": "2011-09-29",
     "available_set": [
         "DUEL TERMINAL 5B",
-        "THE SECRET FORCES",
-        "HIDDEN ARSENAL 5 STEELSWARM INVASION"
+        "HIDDEN ARSENAL 5 STEELSWARM INVASION",
+        "THE SECRET FORCES"
     ],
     "related_card": [
         "Aquamirror Illusion",
@@ -42,7 +42,7 @@
     "attack": 1800,
     "defense": 1000,
     "monster_type": "Sea Serpent",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

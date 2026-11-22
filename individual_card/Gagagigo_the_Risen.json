@@ -4,15 +4,15 @@
     "card_text": "3 Level 4 monsters",
     "release_date": "2012-11-09",
     "available_set": [
-        "DUELIST LEAGUE 17",
-        "ABYSS RISING"
+        "ABYSS RISING",
+        "DUELIST LEAGUE 17"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 2950,
     "defense": 2800,
     "monster_type": "Reptile",
-    "monster_card_type": "Xyz",
+    "monster_card_type": 32,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

@@ -4,16 +4,16 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 2 Level 6 or higher Spellcaster-Type monsters, and cannot be Special Summoned by other ways. During either player's turn, when a Trap Card is activated: You can negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.",
     "release_date": "2004-08-13",
     "available_set": [
-        "MOVIE PACK",
+        "DUELIST PACK - YUGI -",
         "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "DUELIST PACK - YUGI -"
+        "MOVIE PACK"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 3200,
     "defense": 2800,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

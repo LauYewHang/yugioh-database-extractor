@@ -4,13 +4,13 @@
     "card_text": "3 Level 5 LIGHT monsters\nYou can also Xyz Summon this card by using a Rank 4 \"Utopia\" monster you control as material. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. Once per Chain, during damage calculation, if this card battles an opponent's monster while this card has a \"Utopia\" Xyz Monster as material (Quick Effect): You can detach 2 materials from this card; this card's ATK becomes 5000 during that damage calculation only.",
     "release_date": "2016-03-01",
     "available_set": [
-        "Yu-Gi-Oh! Zexal volume 8 Promotional Card",
-        "OTS TOURNAMENT PACK 4",
-        "LEGENDARY COLLECTION KAIBA MEGA PACK",
-        "THE DARK ILLUSION SPECIAL EDITION (UK)",
         "Gold Series: Maximum Gold",
         "BATTLES OF LEGEND: ARMAGEDDON",
+        "THE DARK ILLUSION SPECIAL EDITION (UK)",
         "BATTLES OF LEGEND - CHAPTER 1",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "Yu-Gi-Oh! Zexal volume 8 Promotional Card",
+        "OTS TOURNAMENT PACK 4",
         "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
@@ -130,7 +130,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

@@ -4,18 +4,18 @@
     "card_text": "With eyes like a hawk and a flying speed exceeding Mach 5, this monster is a master of the sky.",
     "release_date": "2002-10-20",
     "available_set": [
-        "ASTRAL PACK TWO",
-        "DARK BEGINNING 1",
-        "PHARAOH'S SERVANT",
         "STARTER DECK JOEY",
-        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "DARK BEGINNING 1",
+        "ASTRAL PACK TWO"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": 1800,
     "defense": 600,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

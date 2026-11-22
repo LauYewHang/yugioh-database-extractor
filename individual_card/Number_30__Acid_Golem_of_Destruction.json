@@ -4,10 +4,10 @@
     "card_text": "2 Level 3 monsters\nDuring your Standby Phase: Detach 1 Xyz Material from this card or take 2000 damage. You cannot Special Summon any monsters. While this card has no Xyz Materials, it cannot attack.",
     "release_date": "2012-09-25",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
+        "RETURN OF THE DUELIST SPECIAL EDITION",
         "SUPER STARTER Power-Up Pack",
         "SHONEN JUMP Promotional Card - April 2012 -",
-        "RETURN OF THE DUELIST SPECIAL EDITION"
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Abyss Shark",
@@ -79,7 +79,7 @@
     "attack": 3000,
     "defense": 3000,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 3
 }

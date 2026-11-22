@@ -4,9 +4,9 @@
     "card_text": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. If this card is Tributed by a card effect: You can add 1 Warrior \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
     "release_date": "2015-02-13",
     "available_set": [
-        "DUEL POWER",
         "QUARTER CENTURY BONANZA",
-        "THE SECRET FORCES"
+        "THE SECRET FORCES",
+        "DUEL POWER"
     ],
     "related_card": [
         "Ariel, Priestess of the Nekroz",
@@ -37,7 +37,7 @@
     "attack": 300,
     "defense": 1800,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

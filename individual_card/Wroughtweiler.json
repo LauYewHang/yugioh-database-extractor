@@ -5,10 +5,10 @@
     "release_date": "2005-08-06",
     "available_set": [
         "SPEED DUEL GX: DUEL ACADEMY BOX",
-        "CYBERNETIC REVOLUTION",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "DUELIST PACK - JADEN YUKI -",
         "DARK REVELATION Volume 4",
-        "DUELIST PACK - JADEN YUKI -"
+        "CYBERNETIC REVOLUTION"
     ],
     "related_card": [
         "Contrast HERO Chaos",
@@ -99,7 +99,7 @@
     "attack": 800,
     "defense": 1200,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

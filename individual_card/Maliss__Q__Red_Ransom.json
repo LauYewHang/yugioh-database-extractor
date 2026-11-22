@@ -4,8 +4,8 @@
     "card_text": "2+ monsters, including a \"Maliss\" monster\nWhile this card points to a monster, the original ATK and DEF of all Effect Monsters your opponent controls are switched. You can only use each of the following effects of \"Maliss <Q> Red Ransom\" once per turn. If this card is Special Summoned: You can add 1 \"Maliss\" Spell from your Deck to your hand. If this card is banished: You can pay 900 LP; Special Summon it, then you can banish 1 Cyberse monster from your Deck.",
     "release_date": "2024-12-06",
     "available_set": [
-        "CROSSOVER BREAKERS",
-        "2025 MEGA-PACK TIN"
+        "2025 MEGA-PACK TIN",
+        "CROSSOVER BREAKERS"
     ],
     "related_card": [
         "Maliss <C> GWC-06",
@@ -24,7 +24,7 @@
     "attack": 2300,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 84
 }

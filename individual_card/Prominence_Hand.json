@@ -4,8 +4,8 @@
     "card_text": "If you control a \"Magic Hand\", \"Fire Hand\", or \"Ice Hand\", you can Special Summon this card (from your hand).",
     "release_date": "2014-04-25",
     "available_set": [
-        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
-        "DRAGONS OF LEGEND"
+        "DRAGONS OF LEGEND",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
     ],
     "related_card": [
         "Fire Hand",
@@ -16,7 +16,7 @@
     "attack": 600,
     "defense": 2000,
     "monster_type": "Pyro",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

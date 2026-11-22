@@ -4,14 +4,14 @@
     "card_text": "Once per turn: You can pay 500 LP; add 1 \"Volcanic Shell\" from your Deck to your hand. This card must be in the GY to activate and to resolve this effect.",
     "release_date": "2007-05-16",
     "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
         "FORCE OF THE BREAKER",
         "DUEL TERMINAL 6B",
-        "SPEED DUEL GX: DUEL ACADEMY BOX",
-        "BATTLES OF LEGEND: MONSTROUS REVENGE",
         "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "SPEED DUEL TOURNAMENT PACK 5",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
         "GOLD SERIES 2009",
-        "STRUCTURE DECK: SOULBURNER",
-        "SPEED DUEL TOURNAMENT PACK 5"
+        "STRUCTURE DECK: SOULBURNER"
     ],
     "related_card": [
         "Blaze Accelerator Reload",
@@ -30,7 +30,7 @@
     "attack": 100,
     "defense": 0,
     "monster_type": "Pyro",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

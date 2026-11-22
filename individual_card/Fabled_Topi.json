@@ -4,9 +4,9 @@
     "card_text": "If your opponent has 2 or more cards in their hand than you do: You can reveal 1 \"Fabled\" monster in your hand and Tribute this face-up card, then target 2 Spell/Trap Cards your opponent controls; destroy those targets.",
     "release_date": "2010-09-25",
     "available_set": [
-        "HIDDEN ARSENAL CHAPTER 1",
+        "DUEL TERMINAL 3",
         "HIDDEN ARSENAL 3",
-        "DUEL TERMINAL 3"
+        "HIDDEN ARSENAL CHAPTER 1"
     ],
     "related_card": [
         "Fabled Andwraith",
@@ -49,7 +49,7 @@
     "attack": 500,
     "defense": 200,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

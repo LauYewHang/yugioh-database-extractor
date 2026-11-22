@@ -5,8 +5,8 @@
     "release_date": "2022-10-21",
     "available_set": [
         "DARKWING BLAST",
-        "OTS TOURNAMENT PACK 21",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "OTS TOURNAMENT PACK 21"
     ],
     "related_card": [
         "Air Armor Ninja",
@@ -74,7 +74,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

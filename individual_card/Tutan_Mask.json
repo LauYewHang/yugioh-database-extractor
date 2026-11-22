@@ -4,12 +4,12 @@
     "card_text": "When a Spell/Trap Card is activated that targets exactly 1 Zombie monster on the field (and no other cards): Negate the activation, and if you do, destroy it.",
     "release_date": "2003-07-18",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "BATTLE PACK 3 MONSTER LEAGUE",
-        "ZOMBIE WORLD STRUCTURE DECK",
         "PHARAONIC GUARDIAN",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "DARK BEGINNING 2",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "SPEED DUEL: TRIALS OF THE KINGDOM",
-        "DARK BEGINNING 2"
+        "BATTLE PACK 3 MONSTER LEAGUE"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

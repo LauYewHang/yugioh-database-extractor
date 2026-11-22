@@ -5,16 +5,16 @@
     "release_date": "2012-02-07",
     "available_set": [
         "PREMIUM GOLD",
-        "QUARTER CENTURY STAMPEDE",
         "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
-        "DRAGONS COLLIDE STRUCTURE DECK"
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 1600,
     "defense": 1000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

@@ -4,10 +4,10 @@
     "card_text": "Must be Special Summoned with \"The Claw of Hermos\", using a Spellcaster monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. At the start of the Damage Step, if it battles an opponent's monster: You can roll a six-sided die, and banish that opponent's monster until the Standby Phase of the Nth turn after this effect's activation (N = the result).",
     "release_date": "2015-07-17",
     "available_set": [
-        "DRAGONS OF LEGEND 2",
+        "LEGENDARY DRAGON DECKS",
         "DRAGONS OF LEGEND: THE COMPLETE SERIES",
-        "DRAGONS OF LEGEND -UNLEASHED-",
-        "LEGENDARY DRAGON DECKS"
+        "DRAGONS OF LEGEND 2",
+        "DRAGONS OF LEGEND -UNLEASHED-"
     ],
     "related_card": [
         "The Claw of Hermos"
@@ -16,7 +16,7 @@
     "attack": 500,
     "defense": 400,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

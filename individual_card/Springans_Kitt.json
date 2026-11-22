@@ -4,9 +4,9 @@
     "card_text": "If you have a Fusion Monster that mentions \"Fallen of Albaz\" as material in your field or GY: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add to your hand, 1 of your \"Branded\" Spells/Traps that is banished or in your Deck or GY, then place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Springans Kitt\" once per turn.",
     "release_date": "2022-04-15",
     "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
         "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
-        "STRUCTURE DECK: ALBAZ STRIKE",
-        "BATTLES OF LEGEND: TERMINAL REVENGE"
+        "STRUCTURE DECK: ALBAZ STRIKE"
     ],
     "related_card": [
         "Albaz the Ashen",
@@ -66,7 +66,7 @@
     "attack": 1700,
     "defense": 1000,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

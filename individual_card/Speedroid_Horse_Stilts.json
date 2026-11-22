@@ -4,9 +4,9 @@
     "card_text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Speedroid\" monster from your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; send 1 WIND monster from your Deck to the GY. You can only use this effect of \"Speedroid Horse Stilts\" once per turn.",
     "release_date": "2017-02-10",
     "available_set": [
+        "RAGING TEMPEST",
         "2017 MEGA-TINS MEGA PACK",
-        "LEGENDARY DUELISTS: SYNCHRO STORM",
-        "RAGING TEMPEST"
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
     ],
     "related_card": [
         "Ambulanceroid",
@@ -73,7 +73,7 @@
     "attack": 1100,
     "defense": 1100,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

@@ -4,16 +4,16 @@
     "card_text": "When this card is Special Summoned: You can Special Summon as many \"Crystal Beast\" Monster Cards as possible from your Spell & Trap Zones. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
     "release_date": "2007-05-16",
     "available_set": [
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "LEGENDARY DUELISTS: SEASON 1",
         "FORCE OF THE BREAKER",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
         "RA YELLOW MEGA PACK",
         "DUELIST PACK - JESSE ANDERSON -",
         "HOBBY LEAGUE 5",
-        "SPEED DUEL GX: DUEL ACADEMY BOX",
-        "LEGENDARY DUELISTS: SEASON 1",
-        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
-        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
         "BATTLES OF LEGEND: CRYSTAL REVENGE"
     ],
     "related_card": [
@@ -67,7 +67,7 @@
     "attack": 300,
     "defense": 300,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

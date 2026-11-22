@@ -4,9 +4,9 @@
     "card_text": "This card's name becomes \"Skull Servant\" while in the GY. If this card is Normal or Special Summoned: You can send 1 \"Wightprince\" from your Deck to the GY. (Quick Effect): You can send this card from your hand or field to the GY; all monsters currently on the field lose ATK/DEF equal to their own Level/Rank x 300, until the end of this turn.",
     "release_date": "2017-02-10",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
         "RAGING TEMPEST",
-        "OTS TOURNAMENT PACK 25"
+        "OTS TOURNAMENT PACK 25",
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Flame Ghost",
@@ -25,7 +25,7 @@
     "attack": 1600,
     "defense": 0,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

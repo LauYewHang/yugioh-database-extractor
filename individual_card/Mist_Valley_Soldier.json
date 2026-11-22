@@ -4,9 +4,9 @@
     "card_text": "At the end of the Damage Step, if this card battled an opponent's monster that was not destroyed: Return that opponent's monster to the hand. You must control this face-up card to activate and to resolve this effect.",
     "release_date": "2009-11-10",
     "available_set": [
+        "DUEL TERMINAL 1",
         "HIDDEN ARSENAL",
-        "HIDDEN ARSENAL CHAPTER 1",
-        "DUEL TERMINAL 1"
+        "HIDDEN ARSENAL CHAPTER 1"
     ],
     "related_card": [
         "Mist Condor",
@@ -17,7 +17,7 @@
     "attack": 1700,
     "defense": 300,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

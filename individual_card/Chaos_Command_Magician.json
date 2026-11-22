@@ -4,19 +4,19 @@
     "card_text": "Negate any monster effects that target this 1 card.",
     "release_date": "2003-10-10",
     "available_set": [
-        "MAGICIAN'S FORCE",
-        "SPEED DUEL: STREETS OF BATTLE CITY",
-        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
         "DARK REVELATION Volume 1",
-        "TOURNAMENT PACK 7",
-        "LEGENDARY DUELISTS: SEASON 3"
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "MAGICIAN'S FORCE",
+        "TOURNAMENT PACK 7"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 2400,
     "defense": 1900,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

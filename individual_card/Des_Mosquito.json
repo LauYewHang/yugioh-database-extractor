@@ -4,17 +4,17 @@
     "card_text": "When this card is Normal or Special Summoned: Place 2 counters on it. It gains 500 ATK for each of these counters. If this card would be destroyed by battle, remove 1 of these counters instead.",
     "release_date": "2008-11-21",
     "available_set": [
-        "BATTLE PACK EPIC DAWN",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DARK LEGENDS",
         "STARTER DECK KAIBA RELOADED",
-        "DARK LEGENDS"
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 500,
     "defense": 500,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

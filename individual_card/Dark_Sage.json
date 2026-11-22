@@ -4,10 +4,10 @@
     "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. If you called the coin toss right for the effect of \"Time Wizard\": You can Tribute 1 \"Dark Magician\" in your Monster Zone; Special Summon this card from your hand or Deck. If Special Summoned this way: Add 1 Spell from your Deck to your hand.",
     "release_date": "2004-03-23",
     "available_set": [
-        "DARK BEGINNING 1",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
         "Yu-Gi-Oh! THE DAWN OF DESTINY Bundles",
-        "RARITY COLLECTION 5"
+        "RARITY COLLECTION 5",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK BEGINNING 1"
     ],
     "related_card": [
         "Chronicle Sorceress",
@@ -31,7 +31,7 @@
     "attack": 2800,
     "defense": 3200,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

@@ -4,16 +4,16 @@
     "card_text": "3 Level 5 monsters\nOnce per turn: You can detach 1 material from this card; send the top 3 cards of your opponent's Deck to the GY, then, if any monsters were sent to the GY by this effect, destroy cards your opponent controls, up to the number of monsters sent.",
     "release_date": "2012-09-01",
     "available_set": [
-        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2012",
         "PREMIUM GOLD: INFINITE GOLD",
-        "THE INFINITY CHASERS"
+        "THE INFINITY CHASERS",
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2012"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 3200,
     "defense": 2000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

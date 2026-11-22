@@ -5,8 +5,8 @@
     "release_date": "2016-08-26",
     "available_set": [
         "MAGNIFICENT MAVENS",
-        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2016",
-        "BATTLES OF LEGEND: HERO'S REVENGE"
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2016"
     ],
     "related_card": [
         "Abyss Shark",
@@ -258,7 +258,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 12
 }

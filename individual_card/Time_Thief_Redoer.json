@@ -4,13 +4,13 @@
     "card_text": "2 Level 4 monsters\nOnce per turn, during the Standby Phase: You can attach the top card of your opponent's Deck to this card. (Quick Effect): You can detach up to 3 different types of materials from this card, then apply the following effect(s) depending on what was detached.\n\u25cfMonster: Banish this card until the End Phase.\n\u25cfSpell: Draw 1 card.\n\u25cfTrap: Place 1 face-up card your opponent controls on top of the Deck.\nYou can only use this effect of \"Time Thief Redoer\" once per turn.",
     "release_date": "2019-02-01",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "25TH ANNIVERSARY RARITY COLLECTION",
-        "CROSSOVER BREAKERS",
-        "GHOSTS FROM THE PAST",
-        "LEGENDARY ARC-V DECKS",
+        "OTS TOURNAMENT PACK 12",
         "SAVAGE STRIKE",
-        "OTS TOURNAMENT PACK 12"
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "2020 TIN OF LOST MEMORIES",
+        "GHOSTS FROM THE PAST",
+        "CROSSOVER BREAKERS",
+        "LEGENDARY ARC-V DECKS"
     ],
     "related_card": [
         "Time Thief Adjuster",
@@ -28,7 +28,7 @@
     "attack": 2400,
     "defense": 2000,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

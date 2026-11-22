@@ -4,12 +4,12 @@
     "card_text": "Target 1 face-down monster on the field; change that target to face-up Attack Position.",
     "release_date": "2003-07-18",
     "available_set": [
-        "Phantom Revenge",
-        "SPEED DUEL: STREETS OF BATTLE CITY",
         "CHAMPION PACK GAME TWO",
-        "RETRO PACK 2",
         "PHARAONIC GUARDIAN",
-        "DARK BEGINNING 2"
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 2",
+        "Phantom Revenge",
+        "RETRO PACK 2"
     ],
     "related_card": [
         "Sphinx of the Cycle"

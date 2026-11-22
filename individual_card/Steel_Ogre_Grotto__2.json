@@ -4,8 +4,8 @@
     "card_text": "A mechanized iron doll with tremendous strength.",
     "release_date": "2002-10-20",
     "available_set": [
-        "PHARAOH'S SERVANT",
         "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "PHARAOH'S SERVANT",
         "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
     ],
     "related_card": [],
@@ -13,7 +13,7 @@
     "attack": 1900,
     "defense": 2200,
     "monster_type": "Machine",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

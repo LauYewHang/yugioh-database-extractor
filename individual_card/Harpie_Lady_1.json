@@ -4,17 +4,17 @@
     "card_text": "(This card's name is always treated as \"Harpie Lady\".)\nAll WIND monsters on the field gain 300 ATK.",
     "release_date": "2004-12-01",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "DUEL TERMINAL 1",
-        "SPEED DUEL TOURNAMENT PACK 01",
+        "RISE OF DESTINY",
         "DARK REVELATION Volume 3",
         "STRUCTURE DECK LORD OF THE STORM",
-        "DUEL TERMINAL - PREVIEW WAVE 2",
         "SPEED DUEL: BATTLE CITY FINALS",
-        "RISE OF DESTINY",
-        "HIDDEN ARSENAL CHAPTER 1",
         "LEGENDARY DUELISTS: SEASON 2",
-        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "SPEED DUEL TOURNAMENT PACK 01"
     ],
     "related_card": [
         "Alluring Mirror Split",
@@ -51,7 +51,7 @@
     "attack": 1300,
     "defense": 1400,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

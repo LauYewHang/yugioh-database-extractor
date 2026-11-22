@@ -4,8 +4,8 @@
     "card_text": "You can discard this card to the GY; add 1 \"Pandemonium\" from your Deck to your hand. If \"Pandemonium\" is not on the field, destroy this card.",
     "release_date": "2007-05-16",
     "available_set": [
-        "FORCE OF THE BREAKER",
-        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "FORCE OF THE BREAKER"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -41,7 +41,7 @@
     "attack": 2100,
     "defense": 800,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

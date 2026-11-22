@@ -5,15 +5,15 @@
     "release_date": "2024-04-26",
     "available_set": [
         "LEGACY OF DESTRUCTION",
-        "OTS TOURNAMENT PACK 28",
-        "2025 MEGA-PACK TIN"
+        "2025 MEGA-PACK TIN",
+        "OTS TOURNAMENT PACK 28"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 800,
     "defense": null,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 68
 }

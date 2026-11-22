@@ -4,10 +4,10 @@
     "card_text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, using monsters, and you cannot use Level 9 monsters. You can only use each of these effects of \"Nekroz of Trishula\" once per turn.\n\u25cfWhen a card or effect is activated that targets a \"Nekroz\" monster(s) you control (Quick Effect): You can discard this card; negate the activation.\n\u25cfWhen this card is Ritual Summoned, you can: Banish exactly 3 of your opponent's cards, 1 each from their hand, field, and GY. (The card in the hand is chosen at random.)",
     "release_date": "2015-02-13",
     "available_set": [
-        "DUEL POWER",
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
         "QUARTER CENTURY BONANZA",
-        "THE SECRET FORCES"
+        "DUEL POWER",
+        "THE SECRET FORCES",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "Ariel, Priestess of the Nekroz",
@@ -38,7 +38,7 @@
     "attack": 2700,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 6,
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

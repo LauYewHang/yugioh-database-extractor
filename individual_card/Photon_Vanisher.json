@@ -4,9 +4,9 @@
     "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a \"Photon\" or \"Galaxy\" monster. Cannot attack the turn it is Special Summoned. You can only Special Summon \"Photon Vanisher(s)\" once per turn. If this card is Special Summoned: You can add 1 \"Galaxy-Eyes Photon Dragon\" from your Deck to your hand. An Xyz Monster that was Summoned using this card on the field as material gains this effect.\n\u25cfBanish any monster destroyed by battle with this card.",
     "release_date": "2018-09-28",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTROUS REVENGE",
         "LEGENDARY DUELISTS: SEASON 2",
-        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
     ],
     "related_card": [
         "Accellight",
@@ -112,7 +112,7 @@
     "attack": 2000,
     "defense": 0,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

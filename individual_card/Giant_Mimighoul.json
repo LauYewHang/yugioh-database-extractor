@@ -4,8 +4,8 @@
     "card_text": "2 Level 1 monsters\nYour non-Xyz \"Mimighoul\" monsters can attack directly while your opponent controls a face-down monster. You can only use each of the following effects of \"Giant Mimighoul\" once per turn. If this card is Xyz Summoned: You can add 1 \"Mimighoul\" card from your Deck to your hand. You can detach 1 material from this card, then target face-up cards on the field up to the number of face-down monsters your opponent controls; destroy them, and if you do, inflict 1000 damage to your opponent for each card destroyed.",
     "release_date": "2024-10-11",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "RAGE OF THE ABYSS"
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Mimighoul Archfiend",
@@ -27,7 +27,7 @@
     "attack": 1300,
     "defense": 2000,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 1
 }

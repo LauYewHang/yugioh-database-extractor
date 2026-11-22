@@ -4,8 +4,8 @@
     "card_text": "If this card is discarded to the GY by card effect: Special Summon this card to your opponent's field in Defense Position. If this card is Special Summoned by the effect of a \"Dark World\" card: Your opponent discards 1 card.",
     "release_date": "2011-10-18",
     "available_set": [
-        "STRUCTURE DECK: DARK WORLD",
-        "GATES OF THE UNDERWORLD STRUCTURE DECK"
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "STRUCTURE DECK: DARK WORLD"
     ],
     "related_card": [
         "Beiige, Vanguard of Dark World",
@@ -46,7 +46,7 @@
     "attack": 100,
     "defense": 300,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

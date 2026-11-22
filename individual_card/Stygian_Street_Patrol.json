@@ -4,19 +4,19 @@
     "card_text": "If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original Level of that monster in the GY x 100. You can banish this card from your GY; Special Summon 1 Fiend monster with 2000 or less ATK from your hand.",
     "release_date": "2010-08-17",
     "available_set": [
-        "BATTLE PACK 3 MONSTER LEAGUE",
-        "DUELIST REVOLUTION",
-        "PENDULUM DOMINATION STRUCTURE DECK",
-        "STRUCTURE DECK: SACRED BEASTS",
+        "STRUCTURE DECK : LAIR OF DARKNESS",
         "COLLECTIBLE TIN 2011 WAVE 1",
-        "STRUCTURE DECK : LAIR OF DARKNESS"
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "DUELIST REVOLUTION",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "STRUCTURE DECK: SACRED BEASTS"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1600,
     "defense": 1200,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

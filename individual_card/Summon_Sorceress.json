@@ -4,16 +4,16 @@
     "card_text": "2+ monsters with the same Type, except Tokens\nIf this card is Link Summoned: You can Special Summon 1 monster from your hand in Defense Position to your opponent's zone this card points to (but negate its effects), then you can Special Summon 1 monster from your Deck in Defense Position with the same Type as that monster (but negate its effects). If you Summon from your Deck this way, you cannot Special Summon for the rest of this turn, except monsters with that same original Type. You can only use this effect of \"Summon Sorceress\" once per turn.",
     "release_date": "2018-05-01",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "SHONEN JUMP membership Promotional Card - May 2018 -",
         "SOUL FUSION SPECIAL EDITION",
-        "SHONEN JUMP membership Promotional Card - May 2018 -"
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 2400,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 266
 }

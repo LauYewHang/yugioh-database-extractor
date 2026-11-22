@@ -4,15 +4,15 @@
     "card_text": "(Quick Effect): You can target 1 face-up monster you control; banish it until the End Phase of the next turn. You can only use this effect of \"D.D. Seeker\" once per turn.",
     "release_date": "2018-02-02",
     "available_set": [
-        "EXTREME FORCE",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1500,
     "defense": 800,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

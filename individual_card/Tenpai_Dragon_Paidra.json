@@ -4,8 +4,8 @@
     "card_text": "If this card is Normal or Special Summoned: You can add to your hand or Set 1 \"Sangen\" Spell/Trap from your Deck. You can only use this effect of \"Tenpai Dragon Paidra\" once per turn. You take no battle damage from battles involving your FIRE Dragon monsters. Once per turn, during the Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
     "release_date": "2024-04-26",
     "available_set": [
-        "LEGACY OF DESTRUCTION",
-        "2025 MEGA-PACK TIN"
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
     ],
     "related_card": [
         "Sangen Furo",
@@ -20,7 +20,7 @@
     "attack": 1700,
     "defense": 1000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

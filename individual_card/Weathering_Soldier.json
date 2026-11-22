@@ -4,9 +4,9 @@
     "card_text": "If this card is destroyed by battle or sent to the GY by a card effect: You can add 1 \"Fossil Fusion\", or 1 card that mentions \"Fossil Fusion\" except \"Weathering Soldier\", from your Deck to your hand. You can only use this effect of \"Weathering Soldier\" once per turn. Once per turn, during your End Phase: This card loses 600 ATK.",
     "release_date": "2020-07-24",
     "available_set": [
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
         "BATTLES OF LEGEND: ARMAGEDDON",
-        "BATTLES OF LEGEND - CHAPTER 1",
-        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+        "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
         "Flint Cragger",
@@ -28,7 +28,7 @@
     "attack": 2000,
     "defense": 1200,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

@@ -4,8 +4,8 @@
     "card_text": "2 monsters, including a Tuner\nIf this card is Link Summoned: You can Special Summon 1 Level 3 or lower Tuner from your hand or Deck in Defense Position, but it cannot activate its effects this turn. During your opponent's Main Phase or Battle Phase (Quick Effect): You can banish this card you control; Special Summon 1 Tuner Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.) You can only use each effect of \"Crystron Halqifibrax\" once per turn.",
     "release_date": "2020-03-20",
     "available_set": [
-        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
         "DUEL OVERLOAD",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
         "OTS TOURNAMENT PACK 15"
     ],
     "related_card": [
@@ -29,7 +29,7 @@
     "attack": 1500,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

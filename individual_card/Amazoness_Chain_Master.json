@@ -5,13 +5,13 @@
     "release_date": "2005-05-28",
     "available_set": [
         "DARK LEGENDS",
-        "THE LOST MILLENNIUM Sneak Peek",
+        "DUEL TERMINAL 7A",
         "GOLD SERIES 3",
         "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "RETRO PACK",
         "SPEED DUEL: BATTLE CITY FINALS",
-        "DUEL TERMINAL 7A",
-        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+        "RETRO PACK",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "THE LOST MILLENNIUM Sneak Peek"
     ],
     "related_card": [
         "Amazoness Archers",
@@ -48,7 +48,7 @@
     "attack": 1500,
     "defense": 1300,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

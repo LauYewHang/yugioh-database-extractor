@@ -4,8 +4,8 @@
     "card_text": "You can Special Summon this card (from your hand) to your zone a DARK Link Monster points to. You can only Special Summon \"Rokket Caliber\" once per turn this way. You can Tribute this card; Special Summon 1 DARK Dragon or Machine monster from your hand, except \"Rokket Caliber\". You can only use this effect of \"Rokket Caliber\" once per turn.",
     "release_date": "2021-11-05",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "BURST OF DESTINY"
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Absorouter Dragon",
@@ -50,7 +50,7 @@
     "attack": 1700,
     "defense": 100,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

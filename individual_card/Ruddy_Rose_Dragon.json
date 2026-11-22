@@ -4,9 +4,9 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can banish all cards from the GYs, then, if this card was Synchro Summoned using \"Black Rose Dragon\" or a Plant Synchro Monster as material, you can destroy all other cards on the field. When your opponent activates a card or effect that would destroy a card(s) (Quick Effect): You can Tribute this card; negate the activation, then you can Special Summon 1 \"Black Rose Dragon\" from your Extra Deck or GY.",
     "release_date": "2021-06-04",
     "available_set": [
+        "LIGHTNING OVERDRIVE",
         "2022 TIN OF THE PHARAOH'S GODS",
-        "Legendary 5D's Decks",
-        "LIGHTNING OVERDRIVE"
+        "Legendary 5D's Decks"
     ],
     "related_card": [
         "Basal Rose Shoot",
@@ -25,7 +25,7 @@
     "attack": 3200,
     "defense": 2400,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

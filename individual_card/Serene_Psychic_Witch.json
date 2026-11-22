@@ -4,16 +4,16 @@
     "card_text": "When this card on the field is destroyed and sent to the Graveyard: You can banish 1 Psychic-Type monster with 2000 or less ATK from your Deck. During the next Standby Phase, if this card stays in the Graveyard: Special Summon the monster banished by this card's effect.",
     "release_date": "2011-05-10",
     "available_set": [
+        "EXTREME VICTORY",
         "HIGH-SPEED RIDERS",
-        "ASTRAL PACK THREE",
-        "EXTREME VICTORY"
+        "ASTRAL PACK THREE"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1400,
     "defense": 1200,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,8 +4,8 @@
     "card_text": "2 \"Rokket\" monsters\nOnce per turn: You can target 1 other face-up monster on the field; it gains 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. If this Link Summoned card is destroyed by battle or card effect and sent to the GY: You can target 1 other Dragon monster in your GY; Special Summon it. You can only use this effect of \"Booster Dragon\" once per turn.",
     "release_date": "2019-04-03",
     "available_set": [
-        "STRUCTURE DECK: ROKKET REVOLT",
-        "DUEL POWER"
+        "DUEL POWER",
+        "STRUCTURE DECK: ROKKET REVOLT"
     ],
     "related_card": [
         "Anesthrokket Dragon",
@@ -29,7 +29,7 @@
     "attack": 1900,
     "defense": null,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

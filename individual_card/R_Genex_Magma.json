@@ -4,8 +4,8 @@
     "card_text": "When this card is Normal Summoned, you can add 1 Level 2 \"R-Genex\" monster from your Deck to your hand.",
     "release_date": "2010-09-25",
     "available_set": [
-        "HIDDEN ARSENAL 3",
-        "DUEL TERMINAL 3"
+        "DUEL TERMINAL 3",
+        "HIDDEN ARSENAL 3"
     ],
     "related_card": [
         "Arms of Genex Return Zero",
@@ -41,7 +41,7 @@
     "attack": 1000,
     "defense": 200,
     "monster_type": "Pyro",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,9 +4,9 @@
     "card_text": "If this card is Normal or Special Summoned, or if this card is Tributed: You can add 1 \"Mitsurugi\" monster from your Deck to your hand, except \"Mitsurugi no Mikoto, Aramasa\". If another Reptile monster(s) you control would be destroyed by battle or card effect, you can Tribute this card instead. You can only use each effect of \"Mitsurugi no Mikoto, Aramasa\" once per turn.",
     "release_date": "2025-05-02",
     "available_set": [
-        "LEGENDARY MODERN DECKS 2026 - bonus card",
+        "LEGENDARY MODERN DECKS 2026",
         "ALLIANCE INSIGHT",
-        "LEGENDARY MODERN DECKS 2026"
+        "LEGENDARY MODERN DECKS 2026 - bonus card"
     ],
     "related_card": [
         "Ame no Habakiri no Mitsurugi",
@@ -27,7 +27,7 @@
     "attack": 1200,
     "defense": 900,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

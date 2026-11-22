@@ -7,8 +7,8 @@
         "LEGENDARY MODERN DECKS 2026",
         "SUPREME DARKNESS",
         "Legendary 5D's Decks",
-        "LEGENDARY ARC-V DECKS",
-        "WINNER'S PACK 2026-2027"
+        "WINNER'S PACK 2026-2027",
+        "LEGENDARY ARC-V DECKS"
     ],
     "related_card": [
         "Mulcharmy Fuwalos",
@@ -18,7 +18,7 @@
     "attack": 100,
     "defense": 600,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

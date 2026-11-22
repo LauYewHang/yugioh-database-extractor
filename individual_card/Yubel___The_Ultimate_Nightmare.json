@@ -4,11 +4,11 @@
     "card_text": "Cannot be Normal Summoned or Set. Must be Special Summoned by \"Yubel - Terror Incarnate\". Cannot be destroyed by battle. You take no battle damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also destroy that monster.",
     "release_date": "2008-02-13",
     "available_set": [
-        "RA YELLOW MEGA PACK",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
         "QUARTER CENTURY BONANZA",
-        "PHANTOM DARKNESS",
+        "RA YELLOW MEGA PACK",
         "BATTLES OF LEGEND - CHAPTER 1",
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+        "PHANTOM DARKNESS"
     ],
     "related_card": [
         "Eternal Favorite",
@@ -23,7 +23,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 12
 }

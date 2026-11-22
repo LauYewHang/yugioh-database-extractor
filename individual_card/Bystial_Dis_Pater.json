@@ -5,8 +5,8 @@
     "release_date": "2023-05-05",
     "available_set": [
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "RARITY COLLECTION 5",
-        "CYBERSTORM ACCESS"
+        "CYBERSTORM ACCESS",
+        "RARITY COLLECTION 5"
     ],
     "related_card": [
         "Branded Beast",
@@ -21,7 +21,7 @@
     "attack": 3500,
     "defense": 3500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

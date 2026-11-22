@@ -4,8 +4,8 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling 5 of your banished Dinosaur monsters into the Main Deck. Once per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can destroy 1 Dinosaur monster in your hand or face-up on your field, and if you do, negate the activation, and if you do that, destroy that card. If this card is sent to the GY by a card effect: You can add 1 \"Evolution Pill\" Spell from your Deck to your hand. You can only use this effect of \"Overtex Qoatlus\" once per turn.",
     "release_date": "2018-02-02",
     "available_set": [
-        "EXTREME FORCE",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE"
     ],
     "related_card": [
         "Beta Evolution Pill - Ultranscendance",
@@ -17,7 +17,7 @@
     "attack": 2700,
     "defense": 2100,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

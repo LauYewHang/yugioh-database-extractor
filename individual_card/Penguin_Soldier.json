@@ -4,20 +4,20 @@
     "card_text": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
     "release_date": "2003-03-30",
     "available_set": [
-        "DUELIST LEAGUE 2010",
-        "DUEL TERMINAL 6B",
+        "STARTER DECK XYZ SYMPHONY",
         "DARK LEGENDS",
+        "STARTER DECK JOEY",
+        "DUEL TERMINAL 6B",
+        "DUELIST LEAGUE 2010",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
         "DUELIST LEAGUE 18",
         "5D's STARTER DECK 2009",
-        "BATTLE PACK EPIC DAWN",
-        "RETRO PACK",
-        "STARTER DECK JOEY",
+        "DARK BEGINNING 2",
         "OTS TOURNAMENT PACK 17",
         "SPEED DUEL: BATTLE CITY FINALS",
-        "STARTER DECK XYZ SYMPHONY",
-        "DARK BEGINNING 2",
+        "RETRO PACK",
         "2-PLAYER STARTER SET",
-        "REALM OF THE SEA EMPEROR STRUCTURE DECK"
+        "BATTLE PACK EPIC DAWN"
     ],
     "related_card": [
         "Nopenguin",
@@ -34,7 +34,7 @@
     "attack": 750,
     "defense": 500,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2050,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

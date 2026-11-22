@@ -4,11 +4,11 @@
     "card_text": "The equipped monster gains 500 DEF. Negate other Spell effects that target the equipped monster, and if you do, destroy that Spell Card.",
     "release_date": "2003-12-01",
     "available_set": [
-        "DARK CRISIS (LC01 25th Anniversary Edition)",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "DARK CRISIS (Reprint)",
         "DARK REVELATION Volume 1",
-        "DARK CRISIS"
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Guardian Kay'est"

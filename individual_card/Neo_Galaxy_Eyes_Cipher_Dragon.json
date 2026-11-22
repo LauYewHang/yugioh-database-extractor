@@ -4,8 +4,8 @@
     "card_text": "3 Level 9 monsters\nIf this card has a \"Cipher\" card as Xyz Material, it gains this effect.\n\u25cfOnce per turn: You can detach up to 3 Xyz Materials from this card; monsters you control cannot attack your opponent directly for the rest of this turn, except this card, also for each Material detached, take control of 1 opponent's face-up monster until the End Phase, but while this effect is applied, they have their effects negated, their ATK's become 4500, also their names become \"Neo Galaxy-Eyes Cipher Dragon\".",
     "release_date": "2017-02-10",
     "available_set": [
-        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
-        "RAGING TEMPEST"
+        "RAGING TEMPEST",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
     ],
     "related_card": [
         "Accellight",
@@ -73,7 +73,7 @@
     "attack": 4500,
     "defense": 3000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 9
 }

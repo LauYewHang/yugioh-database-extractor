@@ -4,13 +4,13 @@
     "card_text": "Once per turn, during your End Phase: You can banish this card from your GY, then target 1 \"Red-Eyes\" monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you activate this effect.",
     "release_date": "2008-11-28",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "LEGENDARY DUELISTS: SEASON 1",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "ASTRAL PACK EIGHT",
+        "ANCIENT PROPHECY SPECIAL EDITION",
         "Yu-Gi-Oh! GX TAG FORCE 3 Bundles",
         "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "ASTRAL PACK EIGHT",
-        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
-        "ANCIENT PROPHECY SPECIAL EDITION"
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -57,7 +57,7 @@
     "attack": 1800,
     "defense": 1600,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

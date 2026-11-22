@@ -4,8 +4,8 @@
     "card_text": "2 Fish, Sea Serpent, and/or Aqua monsters\nMonsters this card points to gain 500 ATK/DEF. You can only use each of the following effects of \"Mermail Abyssalacia\" once per turn.\n\u25cfDuring your opponent's turn (Quick Effect): You can send 1 card from your hand to the GY; add 1 \"Mermail\" monster from your Deck to your hand.\n\u25cfIf this card in its owner's possession is destroyed by an opponent's attack or card effect: You can send 1 WATER monster from your Deck to the GY, then target 1 WATER monster in your GY; Special Summon it in Defense Position.",
     "release_date": "2019-05-03",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "DARK NEOSTORM"
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES"
     ],
     "related_card": [
         "Abyss-scale of Cetus",
@@ -43,7 +43,7 @@
     "attack": 1600,
     "defense": null,
     "monster_type": "Sea Serpent",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

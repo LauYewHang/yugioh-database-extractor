@@ -4,8 +4,8 @@
     "card_text": "1 non-Link \"@Ignister\" monster\nIf this card is Link Summoned: You can add 1 \"Ignister A.I.Land\" from your Deck to your hand. When a Cyberse monster with 2300 original ATK activates its effect (Quick Effect): You can move this card to your Main Monster Zone this card points to, then, you can change it to any Attribute until the end of this turn. You can only use each effect of \"Dark Infant @Ignister\" once per turn.",
     "release_date": "2021-06-04",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "LIGHTNING OVERDRIVE"
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "A.I. Challenge You",
@@ -48,7 +48,7 @@
     "attack": 500,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 16
 }

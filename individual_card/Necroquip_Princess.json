@@ -4,16 +4,16 @@
     "card_text": "1 monster equipped with a Monster Card + 1 Fiend Monster Card\nMust be Special Summoned (from your Extra Deck) by sending the above cards from your hand and/or field to the GY. You can only control 1 \"Necroquip Princess\". If a monster(s) is sent from the hand to the GY to activate a card or effect: You can activate 1 of these effects;\n\u25cfEquip 1 of those monsters to this card as an Equip Spell that gives it 500 ATK.\n\u25cfDraw 1 card.\nYou can only use this effect of \"Necroquip Princess\" once per turn.",
     "release_date": "2024-07-19",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "THE INFINITE FORBIDDEN",
         "2025 MEGA-PACK TIN",
-        "THE INFINITE FORBIDDEN"
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 2000,
     "defense": 2000,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

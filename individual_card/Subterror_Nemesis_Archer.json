@@ -4,8 +4,8 @@
     "card_text": "At the start of the Damage Step, if this card attacks an opponent's face-down Defense Position monster, and you control another \"Subterror\" monster: You can shuffle that opponent's monster into the Deck. If this card on the field is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 \"Subterror\" monster from your Deck in face-up or face-down Defense Position. You can only use each effect of \"Subterror Nemesis Archer\" once per turn.",
     "release_date": "2016-11-04",
     "available_set": [
-        "OTS TOURNAMENT PACK 11",
-        "INVASION: VENGEANCE"
+        "INVASION: VENGEANCE",
+        "OTS TOURNAMENT PACK 11"
     ],
     "related_card": [
         "Subterror Behemoth Burrowing",
@@ -31,7 +31,7 @@
     "attack": 1600,
     "defense": 1400,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,8 +4,8 @@
     "card_text": "This card gains 100 DEF for each Reptile-Type \"Worm\" monster in your Graveyard. If your opponent takes Battle Damage from attacking this card, at the end of the Damage Step select 1 Spell or Trap Card your opponent controls, and destroy it.",
     "release_date": "2010-09-25",
     "available_set": [
-        "HIDDEN ARSENAL 3",
-        "DUEL TERMINAL 3"
+        "DUEL TERMINAL 3",
+        "HIDDEN ARSENAL 3"
     ],
     "related_card": [
         "Aztekipede, the Worm Warrior",
@@ -53,7 +53,7 @@
     "attack": 1000,
     "defense": 1600,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

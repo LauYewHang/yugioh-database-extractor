@@ -4,9 +4,9 @@
     "card_text": "When this card is Normal Summoned: You can add 1 \"The Agent\" monster from your Deck to your hand, except \"The Agent of Mystery - Earth\" or, if \"The Sanctuary in the Sky\" is on the field, you can add 1 \"Master Hyperion\" from your Deck to your hand instead.",
     "release_date": "2011-06-14",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
+        "LOST SANCTUARY STRUCTURE DECK",
         "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
-        "LOST SANCTUARY STRUCTURE DECK"
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Celestial Knightlord Parshath",
@@ -33,7 +33,7 @@
     "attack": 1000,
     "defense": 800,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

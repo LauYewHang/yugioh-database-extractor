@@ -4,15 +4,15 @@
     "card_text": "\"Elemental HERO Flame Wingman\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned. Gains 300 ATK for each \"Elemental HERO\" card in your GY. If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to that monster's original ATK in the GY.",
     "release_date": "2005-11-05",
     "available_set": [
-        "ELEMENTAL ENERGY",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
         "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "COLLECTIBLE TIN SERIES 3 WAVE 2",
+        "ELEMENTAL ENERGY",
         "BATTLES OF LEGEND: ARMAGEDDON",
         "BATTLES OF LEGEND - CHAPTER 1",
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "HIDDEN ARSENAL CHAPTER 1",
         "DARK REVELATION Volume 4",
-        "DUEL TERMINAL 3"
+        "DUEL TERMINAL 3",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "COLLECTIBLE TIN SERIES 3 WAVE 2"
     ],
     "related_card": [
         "A Hero Lives",
@@ -189,7 +189,7 @@
     "attack": 2500,
     "defense": 2100,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

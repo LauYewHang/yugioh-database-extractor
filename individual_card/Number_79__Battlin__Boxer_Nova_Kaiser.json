@@ -4,8 +4,8 @@
     "card_text": "2 Level 4 monsters\nGains 100 ATK for each material attached to it. Once per turn, during your Main Phase: You can attach 1 \"Battlin' Boxer\" monster from your hand or GY to this card as material. When this card in your possession is destroyed by your opponent's card and sent to your GY while it has material: You can target Level 4 or lower \"Battlin' Boxer\" monsters in your GY, up to the number of materials this card had on the field; Special Summon them.",
     "release_date": "2015-04-17",
     "available_set": [
-        "WORLD SUPERSTARS",
-        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "WORLD SUPERSTARS"
     ],
     "related_card": [
         "Abyss Shark",
@@ -100,7 +100,7 @@
     "attack": 2300,
     "defense": 1600,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

@@ -14,7 +14,7 @@
     "attack": 3500,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 5,
     "link_arrow": 906
 }

@@ -4,10 +4,10 @@
     "card_text": "Special Summon 1 \"Dragonmaid\" monster from your hand or GY in Defense Position, then, you can send 1 \"Dragonmaid\" monster with the same Attribute, but a different Level, from your Deck to the GY. You can only activate 1 \"Dragonmaid Hospitality\" per turn.",
     "release_date": "2019-11-22",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
-        "QUARTER CENTURY BONANZA",
         "MYSTIC FIGHTERS",
-        "MAXIMUM GOLD: EL DORADO"
+        "MAXIMUM GOLD: EL DORADO",
+        "QUARTER CENTURY BONANZA",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "Chamber Dragonmaid",

@@ -4,15 +4,15 @@
     "card_text": "If you control no Special Summoned monsters: You can Special Summon this card from your hand, also you cannot Special Summon other monsters for the rest of this turn. You can only use this effect of \"Proof of Pruflas\" once per turn. If this card is Normal or Special Summoned, you can (except during the Damage Step): Immediately after this effect resolves, Tribute Summon 1 monster.",
     "release_date": "2021-06-04",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "LIGHTNING OVERDRIVE"
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 100,
     "defense": 100,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

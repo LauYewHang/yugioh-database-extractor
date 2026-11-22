@@ -4,8 +4,8 @@
     "card_text": "2+ FIRE Effect Monsters\nIf this card is Link Summoned using \"Salamangreat Raging Phoenix\" as material: You can add 1 \"Salamangreat\" card from your Deck to your hand. If a face-up FIRE monster(s) you control is destroyed by battle or card effect while this card is in your GY: You can target 1 of those monsters; Special Summon this card, and if you do, this card gains ATK equal to that monster's ATK. You can only use each effect of \"Salamangreat Raging Phoenix\" once per turn.",
     "release_date": "2023-08-11",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
-        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Burning Draw",
@@ -60,7 +60,7 @@
     "attack": 2800,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 270
 }

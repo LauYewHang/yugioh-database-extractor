@@ -53,7 +53,7 @@
     "attack": 1800,
     "defense": 2200,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

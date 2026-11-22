@@ -4,8 +4,8 @@
     "card_text": "If this card is Normal or Special Summoned: Target 1 monster in your opponent's GY; Special Summon it to your field, but it cannot attack your opponent directly, and is destroyed during the End Phase of this turn. You can only use this effect of \"Sorciere de Fleur\" once per turn.",
     "release_date": "2011-05-10",
     "available_set": [
-        "LEGENDARY DUELISTS: SYNCHRO STORM",
-        "Yu-Gi-Oh! 5D's WORLD CHAMPIONSHIP 2011 \uff0d OVER THE NEXUS \uff0d Bundles"
+        "Yu-Gi-Oh! 5D's WORLD CHAMPIONSHIP 2011 \uff0d OVER THE NEXUS \uff0d Bundles",
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
     ],
     "related_card": [
         "Necro Fleur"
@@ -14,7 +14,7 @@
     "attack": 2900,
     "defense": 0,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

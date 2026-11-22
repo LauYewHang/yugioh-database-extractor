@@ -5,24 +5,24 @@
     "release_date": "2002-09-16",
     "available_set": [
         "DARK LEGENDS",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "SPEED DUEL: STREETS OF BATTLE CITY",
-        "DUELIST LEAGUE 3",
-        "DARK BEGINNING 1",
-        "STRUCTURE DECK FURY FROM THE DEEP",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
         "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 1",
         "RETRO PACK",
         "CHAMPION PACK GAME FOUR",
+        "STRUCTURE DECK FURY FROM THE DEEP",
         "SPELL RULER (LC01 25th Anniversary Edition)",
-        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
-        "SPELL RULER"
+        "DUELIST LEAGUE 3",
+        "SPELL RULER",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 1400,
     "defense": 1000,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

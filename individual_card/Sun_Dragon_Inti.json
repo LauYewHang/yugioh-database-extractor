@@ -5,8 +5,8 @@
     "release_date": "2010-02-16",
     "available_set": [
         "LEGENDARY COLLECTION 5D's MEGA PACK",
-        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
         "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
         "ABSOLUTE POWERFORCE"
     ],
     "related_card": [
@@ -17,7 +17,7 @@
     "attack": 3000,
     "defense": 2800,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

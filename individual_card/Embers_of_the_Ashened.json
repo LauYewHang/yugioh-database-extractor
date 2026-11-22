@@ -4,8 +4,8 @@
     "card_text": "2 Pyro monsters\nIf this card is Fusion Summoned: You can target 1 Field Spell in your GY; add it to your hand. At the start of the Damage Step, if this card battles an opponent's Pyro monster: You can destroy that opponent's monster, and if it is your turn, this card can make a second attack in a row. You can only use each effect of \"Embers of the Ashened\" once per turn.",
     "release_date": "2024-04-26",
     "available_set": [
-        "LEGACY OF DESTRUCTION",
-        "2025 MEGA-PACK TIN"
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
     ],
     "related_card": [
         "Ashened for Eternity",
@@ -21,7 +21,7 @@
     "attack": 2900,
     "defense": 2400,
     "monster_type": "Pyro",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

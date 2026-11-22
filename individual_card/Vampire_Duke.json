@@ -4,9 +4,9 @@
     "card_text": "Cannot be used as material for an Xyz Summon, except for the Xyz Summon of a DARK monster. When this card is Normal Summoned: You can target 1 DARK \"Vampire\" monster in your GY; Special Summon that target in Defense Position. When this card is Special Summoned: You can declare 1 card type (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY. You can only use this effect of \"Vampire Duke\" once per turn.",
     "release_date": "2013-11-08",
     "available_set": [
-        "SHADOW SPECTERS",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
         "2014 MEGA-TINS MEGA PACK",
-        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+        "SHADOW SPECTERS"
     ],
     "related_card": [
         "Crimson Knight Vampire Bram",
@@ -44,7 +44,7 @@
     "attack": 2000,
     "defense": 0,
     "monster_type": "Zombie",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

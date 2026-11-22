@@ -4,9 +4,9 @@
     "card_text": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Super Quantum Red Layer\" once per turn. When this card is Normal or Special Summoned: You can target 1 \"Super Quant\" card in your GY; add it to your hand. If this card is sent to the GY: You can target 1 \"Super Quant\" monster in your GY, except \"Super Quantum Red Layer\"; Special Summon it, but it cannot activate its effects.",
     "release_date": "2016-02-12",
     "available_set": [
-        "OTS TOURNAMENT PACK 14",
         "RARITY COLLECTION 5",
         "OTS TOURNAMENT PACK 10",
+        "OTS TOURNAMENT PACK 14",
         "WING RAIDERS"
     ],
     "related_card": [
@@ -33,7 +33,7 @@
     "attack": 2000,
     "defense": 800,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

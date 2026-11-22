@@ -4,9 +4,9 @@
     "card_text": "2 Level 8 monsters\nYour opponent cannot target this card with card effects. You can detach 1 material from this card; take 2 Dragon \"Number\" monsters with different names from your Extra Deck and/or GY, except \"Number 97: Draglubion\", Special Summon 1 of them and attach the other to it as material, also for the rest of this turn you cannot Special Summon other monsters, or declare an attack, except with that Special Summoned monster. You can only use this effect of \"Number 97: Draglubion\" once per turn.",
     "release_date": "2019-07-12",
     "available_set": [
-        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
         "MAZE OF THE MASTER",
-        "BATTLES OF LEGEND: HERO'S REVENGE"
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
     ],
     "related_card": [
         "Abyss Shark",
@@ -222,7 +222,7 @@
     "attack": 3000,
     "defense": 3000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }
