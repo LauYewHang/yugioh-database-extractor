@@ -72,6 +72,21 @@ MAXIMUM_PENDULUM_SCALE = 13
 MINIMUM_LINK = 0
 MAXIMUM_LINK = 6
 
+# link arrows direction (follow the orientation from official db)
+#   7   8   9
+#   4   -   6
+#   1   2   3
+LINK_ARROW_DIRECTION = [
+    "Bottom-Left",
+    "Bottom-Center",
+    "Bottom-Right",
+    "Middle-Left",
+    "Middle-Right",
+    "Top-Left",
+    "Top-Center",
+    "Top-right"
+]
+
 # spell and trap card
 SPELL_TRAP_ICONS = [
     "Equip",
@@ -193,7 +208,10 @@ LevelRankTypes = Enum("LevelRankType", ["Level", "Rank"])
 availableLinkIndex = [index for index in range(1, 10) if index != 5]
 # the link arrow has bit start with integer 2 instead of 1
 # i.e. first value is 0b10 instead of 0b1 since the lowest link is 1 (2**1 = 2)
-lcLA = [(str(index), 2**(index)) for index in availableLinkIndex]
+lcLAdb = [(str(index), 2**(index)) for index in availableLinkIndex]
+LinkArrows_db = Enum("LinkArrows_db", lcLAdb)
+# link arrow enum for displaying text instead of integer representation
+lcLA = [(LINK_ARROW_DIRECTION[index], lcLAdb[index][-1]) for index in range(len(lcLAdb))]
 LinkArrows = Enum("LinkArrows", lcLA)
 
 # spell or trap enum
