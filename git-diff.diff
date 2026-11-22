@@ -1,0 +1,258 @@
+diff --git a/extractor.py b/extractor.py
+index faf8306..d67b238 100644
+--- a/extractor.py
++++ b/extractor.py
+@@ -423,8 +423,9 @@ def extract_specific_card_information(
+         # the subsequent element would be the monster card type (effect, ritual)
+         monsterTypeList: list = []
+         # regular expression for monster type format
+-        # search for any character that is not alphabet or '-'
+-        reMonsterTypeFormat = re.compile(r"[^a-zA-Z-]")
++        # search for any character that is not alphabet or '-' or ' '
++        # include space because "Sea Serpent" has space
++        reMonsterTypeFormat = re.compile(r"[^a-zA-Z- ]")
+         for index in range(len(cardInformationTextList)):
+             # the monster type and monster card type is within the paragraph
+             # <p class="species"> </p>
+@@ -486,7 +487,7 @@ def extract_specific_card_information(
+             cardText = cardText.replace("<br>", '\n')
+             break
+ 
+-    releaseDate: datetime.date = None
++    releaseDate: datetime.date | None = None
+     releaseDateString: str = ""
+     availableSet: list = []
+     # check for release date and available set
+@@ -521,15 +522,39 @@ def extract_specific_card_information(
+         # retrieve the date if it is the last set
+         # traversedSet + 1 because in the website, the date comes before the set name
+         # thus, we need to retrieve the date at second last iteration
+-        if (traversedSet + 1 == availableSetAmount):
+-            if "<div class=\"time\">" in cardReleaseInformationTextList[index]:
+-                for index2 in range(index + 1, len(cardReleaseInformationTextList)):
+-                    if "</div>" not in cardReleaseInformationTextList[index2]:
+-                        releaseDateString += cardReleaseInformationTextList[index2]
+-                    else:
+-                        # remove the escape character '\t'
+-                        releaseDateString = reFormat.sub('', re.escape(releaseDateString))
+-                        break
++        # HOWEVER
++        # some cards' last available set does not have a release date
++        # because they are from some tournament
++        # SO NOW I NEED TO TRAVERSE AND RECORD THE EVERY DATE
++        # until an exception which means there is no earlier date
++        # BUT
++        # WAIT A MINUTE
++        # YOU THOUGHT IF THERE IS NO DATE
++        # THEN THERE WOULDN'T BE A TIME CLASS?
++        # YOU FUCKING DUMBASS
++        # even if there is no actual date, there would still be a time class <div>
++        # so you need to format yourself and see if there is actual date or it is empty time div
++        # BUT WAIT
++        # YOU THOUGHT THE CARD AT THE VERY LEAST MUST HAVE A DATE?
++        # FUCKING DUMBASS
++        # there is card(s) where release date is not on official record
++        if "<div class=\"time\">" in cardReleaseInformationTextList[index]:
++            # record new potential string
++            potentialReleaseDateString = ""
++            for index2 in range(index + 1, len(cardReleaseInformationTextList)):
++                if "</div>" not in cardReleaseInformationTextList[index2]:
++                    potentialReleaseDateString += cardReleaseInformationTextList[index2]
++                else:
++                    # remove the escape character '\t'
++                    potentialReleaseDateString = reFormat.sub('', re.escape(potentialReleaseDateString))
++                    # check if the potential release date string is real
++                    # reference: https://stackoverflow.com/a/24476708/21952784
++                    try:
++                        datetime.datetime.strptime(potentialReleaseDateString, "%Y-%m-%d").date()
++                        releaseDateString = potentialReleaseDateString
++                    except:
++                        pass
++                    break
+ 
+         # early break if traversedSet is equal to availableSetAmount
+         if (traversedSet == availableSetAmount):
+@@ -539,7 +564,11 @@ def extract_specific_card_information(
+             availableSet = list(set(availableSet))
+             # convert date string to list and convert it to datetime.date type
+             releaseDateValueList = releaseDateString.split('-')
+-            releaseDate = datetime.date(int(releaseDateValueList[0]), int(releaseDateValueList[1]), int(releaseDateValueList[2]))
++            # there are cards with no release date record, in this case, keep it as None
++            try:
++                releaseDate = datetime.date(int(releaseDateValueList[0]), int(releaseDateValueList[1]), int(releaseDateValueList[2]))
++            except:
++                releaseDate = None
+             break
+ 
+     # check for the related cards
+@@ -621,12 +650,24 @@ def extract_specific_card_information(
+         # don't split the second element
+         # i.e. keep "Rank 12" as it, since we need to differentiate level / rank later on
+         cardType = CardTypes["Monster"]
++        # convert the attack & defense into appropriate value (int || str)
++        # str for '-' (link monster) or special case '?'
++        try:
++            valueInformationList[2] = int(valueInformationList[2])
++        except ValueError:
++            # keep it as str if can't be convert into int
++            pass
++        try:
++            valueInformationList[3] = int(valueInformationList[3])
++        except ValueError:
++            # keep it as str if can't be convert into int
++            pass
+     
+     if (len(valueInformationList) == 5):
+         # if the length of valueInformationList is 5, it is a pendulum monster
+-        # process the last element of array to extract the pure number value (in str format first)
++        # process the last element of array to extract the pure number value
+         # e.g. "Pendulum Scale 13" -> ["Pendulum", "Scale", "13"] -> "13"
+-        valueInformationList[-1] = valueInformationList[-1].split(' ')[-1]
++        valueInformationList[-1] = int(valueInformationList[-1].split(' ')[-1])
+ 
+     card: Card = None
+     # create the Card object based on the length of valueInformationList after processing the value
+@@ -684,7 +725,7 @@ def extract_specific_card_information(
+                 available_set = availableSet,
+                 related_card = relatedCardList,
+                 attribute = MonsterAttributes[valueInformationList[0]],
+-                attack = int(valueInformationList[2]),
++                attack = valueInformationList[2],
+                 monster_type = MonsterTypes[monsterTypeList[0]],
+                 monster_card_type = monsterCardTypeValue,
+                 # split "Link x" to ["Link", "x"]
+@@ -700,8 +741,8 @@ def extract_specific_card_information(
+                 available_set = availableSet,
+                 related_card = relatedCardList,
+                 attribute = MonsterAttributes[valueInformationList[0]],
+-                attack = int(valueInformationList[2]),
+-                defense = int(valueInformationList[3]),
++                attack = valueInformationList[2],
++                defense = valueInformationList[3],
+                 monster_type = MonsterTypes[monsterTypeList[0]],
+                 monster_card_type = monsterCardTypeValue,
+                 # split "Level 4" to ["Level", "4"] to get level rank type and rating
+@@ -740,8 +781,8 @@ def extract_specific_card_information(
+             available_set = availableSet,
+             related_card = relatedCardList,
+             attribute = MonsterAttributes[valueInformationList[0]],
+-            attack = int(valueInformationList[2]),
+-            defense = int(valueInformationList[3]),
++            attack = valueInformationList[2],
++            defense = valueInformationList[3],
+             monster_type = MonsterTypes[monsterTypeList[0]],
+             monster_card_type = monsterCardTypeValue,
+             # split "Level 4" to ["Level", "4"] to get level rank type and rating
+@@ -752,22 +793,9 @@ def extract_specific_card_information(
+         )
+ 
+     return card
+-        
+-# search the card and write to a file
+-def write_card_information(
+-        card_url: str,
+-        folder_path: str | None = None,
+-        file_name: str | None = None
+-    ):
+-
+-    card = extract_specific_card_information(card_url)
+-
+-    if (folder_path is None):
+-        folder_path = "cards/"
+-
+-    if (file_name is None):
+-        file_name = f"{card.filename}.json"
+ 
++# parsing the card information into dict
++def parse_card_information(card: Card) -> dict:
+     # convert object to dictionary for parsing as JSON
+     # reference: https://stackoverflow.com/a/10252138/21952784
+     card_dict = card.__dict__
+@@ -782,13 +810,84 @@ def write_card_information(
+             # convert date to string format
+             card_dict[key] = str(card_dict[key])
+ 
+-    # convert dict to JSON with pretty print
+-    # reference: https://stackoverflow.com/a/12944035/21952784
+-    jsonString = json.dumps(card_dict, indent = 4)
++    return card_dict
+ 
++# convert card information into JSON and write it to a file
++def write_card_information(
++        card_dict: dict,
++        folder_path: str | None = None,
++        file_name: str | None = None
++    ):
++
++    if (folder_path is None):
++        folder_path = "individual_card/"
++
++    if (file_name is None):
++        file_name = f"{card_dict['filename']}.json"
++
++    if not (os.path.exists(folder_path)):
++        os.makedirs(folder_path)
++
++    jsonString = json.dumps(card_dict, indent = 4)
+     file = open(os.path.join(folder_path, file_name), mode = "w", encoding = "utf-8")
+     file.write(jsonString)
+     file.close()
++    print(f"Created file: {file_name}")
++
++# retrieve all the cards from the database and write to files
++def retrieve_all_cards(
++        folder_path: str | None = "individual_card/",
++        from_page: int = 1,
++        results_per_page: ResultsPerPage = ResultsPerPage["10"]
++    ):
++
++    try:
++        # record the current and total page
++        currentPage = from_page
++        totalPage = 0
++        # the total yugioh card dict
++        retrievingCard = 0
++        totalCard = 0
++
++        response = request_search_card(page = currentPage, result_per_page = results_per_page)
++        searchResults = request_search_results(response)
++
++        # total page is the amount of total cards divide by results per page
++        # no +1 like the code above since it doesn't account (deduct) current page
++        # and we have totalPage + 1 at the below
++        totalPage = math.ceil(searchResults["total"] / results_per_page.value)
++        retrievingCard = searchResults["current_start"]
++        totalCard = searchResults["total"]
++
++        # totalPage + 1 because range is exclusive
++        for page in range(currentPage, totalPage + 1):
++            print("#" * 40)
++            print(f"Page: {currentPage} of {totalPage}")
++            print("#" * 40)
++            cardUrlList = request_card_url_list(response)
++            for url in cardUrlList:
++                print(f"Retrieving card: {retrievingCard} of {totalCard}", end = "\t\t\t")
++                card = extract_specific_card_information(url)
++                cardDict = parse_card_information(card)
++                write_card_information(cardDict, folder_path = folder_path)
++                # log into the file to record card retrieved
++                file = open(os.path.join(folder_path, "log.txt"), mode = "a", encoding = "utf-8")
++                file.write(f"log: #{retrievingCard}\t\t\t{cardDict['name']}\n")
++                file.close()
++                retrievingCard += 1
++                print("done")
++
++            response = request_search_card(page = page + 1, result_per_page = results_per_page)
++            currentPage += 1
++    
++    # if requests exception, start again from the nearest checkpoint
++    except (requests.RequestException, requests.ConnectionError, requests.ConnectTimeout, requests.ReadTimeout, requests.Timeout) as e:
++        print("\nRequests exception... trying again...")
++        file = open(os.path.join(folder_path, "log.txt"), mode = "a", encoding = "utf-8")
++        file.write(f"log: exception occured - {e}\n##############################\n")
++        file.close()
++        retrieve_all_cards(from_page = currentPage, results_per_page = results_per_page)
+ 
+ if __name__ == "__main__":
++    retrieve_all_cards()
+     None
