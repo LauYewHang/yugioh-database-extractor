@@ -4,8 +4,8 @@
     "card_text": "If this card is in your hand: You can Tribute 1 Dragon-Type monster and 1 other Fiend-Type monster from your hand and/or your side of the field; Special Summon this card. Once per turn: You can discard 1 card; this card gains 500 ATK, then you can destroy 1 Spell/Trap Card on the field. This ATK increase lasts until the end of this turn.",
     "release_date": "2015-05-28",
     "available_set": [
-        "STARTER DECK DARK LEGION (US)",
-        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)"
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "STARTER DECK DARK LEGION (US)"
     ],
     "related_card": [
         "D/D Ark",
@@ -82,7 +82,7 @@
     "attack": 2600,
     "defense": 2400,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

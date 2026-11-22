@@ -4,15 +4,15 @@
     "card_text": "Once per turn, you can flip this card into face-down Defense Position. When this card attacks an opponent's face-down Defense Position monster, this card's ATK becomes 2400 during damage calculation only.",
     "release_date": "2003-07-18",
     "available_set": [
-        "GOLD SERIES",
-        "PHARAONIC GUARDIAN"
+        "PHARAONIC GUARDIAN",
+        "GOLD SERIES"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 300,
     "defense": 200,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

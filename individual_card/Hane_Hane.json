@@ -5,20 +5,20 @@
     "release_date": "2002-03-08",
     "available_set": [
         "DARK LEGENDS",
-        "STARTER DECK KAIBA",
-        "DARK BEGINNING 1",
-        "LEGEND OF BLUE EYES WHITE DRAGON",
-        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
-        "RETRO PACK",
         "STARTER DECK PEGASUS",
-        "STARTER DECK KAIBA Evolution"
+        "DARK BEGINNING 1",
+        "RETRO PACK",
+        "STARTER DECK KAIBA",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "STARTER DECK KAIBA Evolution",
+        "LEGEND OF BLUE EYES WHITE DRAGON"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 450,
     "defense": 500,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2050,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

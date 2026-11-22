@@ -4,16 +4,16 @@
     "card_text": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
     "release_date": "2005-06-01",
     "available_set": [
-        "SPEED DUEL GX: DUEL ACADEMY BOX",
-        "DARK REVELATION Volume 3",
-        "STARTER DECK 2006",
-        "THE LOST MILLENNIUM",
-        "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "SPEED DUEL GX: MIDTERM PARADOX",
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
         "ELEMENTAL HERO COLLECTION 2",
-        "STARTER DECK JADEN YUKI",
-        "DUELIST PACK - JADEN YUKI -"
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "STARTER DECK 2006",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DARK REVELATION Volume 3",
+        "THE LOST MILLENNIUM",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "DUELIST PACK - JADEN YUKI -",
+        "STARTER DECK JADEN YUKI"
     ],
     "related_card": [
         "A Hero Lives",
@@ -152,7 +152,7 @@
     "attack": 800,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

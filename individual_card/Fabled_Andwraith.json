@@ -4,8 +4,8 @@
     "card_text": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: Your opponent can discard 1 card to negate this effect, otherwise you can draw 2 cards, then discard 1 card. If a monster(s) is sent from your opponent's hand to the GY (except during the Damage Step): You can target 1 of those monsters; Special Summon it to your field, but negate its effects. You can only use each effect of \"Fabled Andwraith\" once per turn.",
     "release_date": "2021-02-05",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "BLAZING VORTEX"
+        "BLAZING VORTEX",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Fabled Ashenveil",
@@ -48,7 +48,7 @@
     "attack": 2400,
     "defense": 1900,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

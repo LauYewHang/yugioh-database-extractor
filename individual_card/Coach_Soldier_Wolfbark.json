@@ -4,17 +4,17 @@
     "card_text": "You can target 1 Level 4 FIRE Beast-Warrior monster in your GY; Special Summon it in Defense Position, but negate its effects. You can only use this effect of \"Coach Soldier Wolfbark\" once per turn.",
     "release_date": "2013-08-09",
     "available_set": [
-        "Gold Series: Maximum Gold",
-        "2014 MEGA-TINS MEGA PACK",
         "STRUCTURE DECK: FIRE KINGS",
-        "JUDGMENT OF THE LIGHT"
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT",
+        "Gold Series: Maximum Gold"
     ],
     "related_card": [],
     "attribute": "FIRE",
     "attack": 1600,
     "defense": 1200,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

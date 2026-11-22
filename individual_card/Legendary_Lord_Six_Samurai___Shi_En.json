@@ -4,8 +4,8 @@
     "card_text": "1 Warrior Tuner + 1+ non-Tuner \"Six Samurai\" monsters\nIf this card is Synchro Summoned: You can add 1 \"Six Samurai\" monster or \"Shien\" Effect Monster from your Deck or GY to your hand. You can only use this effect of \"Legendary Lord Six Samurai - Shi En\" once per turn. Once per turn, when your opponent activates a monster effect (Quick Effect): You can negate the activation, and if you do, destroy that card. If this card on the field would be destroyed by battle or card effect, you can destroy 1 monster you control instead.",
     "release_date": "2024-10-11",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "RAGE OF THE ABYSS"
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Anarchist Monk of the Six Samurai",
@@ -75,7 +75,7 @@
     "attack": 2500,
     "defense": 1900,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

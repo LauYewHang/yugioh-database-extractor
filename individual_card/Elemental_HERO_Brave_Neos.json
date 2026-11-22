@@ -4,8 +4,8 @@
     "card_text": "\"Elemental HERO Neos\" + 1 Level 4 or lower Effect Monster\nMust be Fusion Summoned. Gains 100 ATK for each \"Neo-Spacian\" and \"HERO\" monster in your GY. When this card destroys an opponent's monster by battle: You can add 1 Spell/Trap from your Deck to your hand that mentions \"Elemental HERO Neos\".",
     "release_date": "2019-02-01",
     "available_set": [
-        "SAVAGE STRIKE",
-        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "SAVAGE STRIKE"
     ],
     "related_card": [
         "A Hero Lives",
@@ -249,7 +249,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

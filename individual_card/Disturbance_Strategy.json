@@ -4,10 +4,10 @@
     "card_text": "Your opponent shuffles their entire hand into the Deck, then draws the same number of cards.",
     "release_date": "2003-07-18",
     "available_set": [
+        "DARK REVELATION Volume 1",
         "PHARAONIC GUARDIAN",
-        "DUELIST LEAGUE 15",
         "OTS TOURNAMENT PACK 6",
-        "DARK REVELATION Volume 1"
+        "DUELIST LEAGUE 15"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

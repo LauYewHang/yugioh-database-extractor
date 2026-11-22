@@ -4,8 +4,8 @@
     "card_text": "When Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell directly from your Deck, but it is sent to the GY during the End Phase.",
     "release_date": "2016-11-18",
     "available_set": [
-        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
-        "DESTINY SOLDIERS"
+        "DESTINY SOLDIERS",
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
     ],
     "related_card": [
         "Abyss Actor - Comic Relief",
@@ -39,7 +39,7 @@
     "attack": 2500,
     "defense": 1800,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.",

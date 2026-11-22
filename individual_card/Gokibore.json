@@ -4,15 +4,15 @@
     "card_text": "A large, spherical roach that attacks its enemies by rolling over them.",
     "release_date": "2006-12-26",
     "available_set": [
-        "Promotional Cards 2",
-        "SPEED DUEL: STREETS OF BATTLE CITY"
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "Promotional Cards 2"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1200,
     "defense": 1400,
     "monster_type": "Insect",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

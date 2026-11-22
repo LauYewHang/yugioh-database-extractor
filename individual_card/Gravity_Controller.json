@@ -4,8 +4,8 @@
     "card_text": "1 non-Link Monster in an Extra Monster Zone\nCannot be used as Link Material the turn it is Link Summoned. This card in the Extra Monster Zone cannot be destroyed by battle with a monster in the Main Monster Zone. At the start of the Damage Step, if this card battles an opponent's monster in the Extra Monster Zone: You can return both that opponent's monster and this card to the Deck.",
     "release_date": "2020-01-31",
     "available_set": [
-        "IGNITION ASSAULT",
         "2021 TIN OF ANCIENT BATTLES",
+        "IGNITION ASSAULT",
         "Justice Hunters"
     ],
     "related_card": [],
@@ -13,7 +13,7 @@
     "attack": 1000,
     "defense": null,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 2
 }

@@ -4,8 +4,8 @@
     "card_text": "Activate this card by declaring 1 card name. Each time the declared card, or its effect, is activated, halve its owner's LP immediately after it resolves. During the End Phase, if this card halved a player's LP this turn, send this card to the GY. While your opponent controls a monster, this card cannot be destroyed by card effects.",
     "release_date": "2019-05-03",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "DARK NEOSTORM"
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

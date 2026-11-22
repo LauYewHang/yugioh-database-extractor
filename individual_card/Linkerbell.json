@@ -4,15 +4,15 @@
     "card_text": "2 monsters\nYou cannot Link Summon this card unless you have at least 3 more cards in your Extra Deck than your opponent's.",
     "release_date": "2020-08-07",
     "available_set": [
-        "RISE OF THE DUELIST",
-        "2021 TIN OF ANCIENT BATTLES"
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1500,
     "defense": null,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

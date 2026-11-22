@@ -4,9 +4,9 @@
     "card_text": "If a Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect: You can draw 1 card.",
     "release_date": "2010-02-16",
     "available_set": [
-        "SYNCHRON EXTREME STRUCTURE DECK",
-        "ABSOLUTE POWERFORCE",
         "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "ABSOLUTE POWERFORCE",
+        "SYNCHRON EXTREME STRUCTURE DECK",
         "DUELIST PACK COLLECTION TIN 2010 PROMO PACK",
         "DUELIST PACK - YUSEI 3 -"
     ],
@@ -43,7 +43,7 @@
     "attack": 800,
     "defense": 300,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

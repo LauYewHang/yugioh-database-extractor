@@ -4,11 +4,11 @@
     "card_text": "The equipped monster gains 300 ATK. When this card is destroyed and sent to the Graveyard while equipped: You can return this card to the hand.",
     "release_date": "2003-12-01",
     "available_set": [
-        "DARK CRISIS (LC01 25th Anniversary Edition)",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "DARK CRISIS (Reprint)",
         "DARK REVELATION Volume 1",
-        "DARK CRISIS"
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Guardian Elma"

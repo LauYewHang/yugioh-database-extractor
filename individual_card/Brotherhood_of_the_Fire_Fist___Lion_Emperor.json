@@ -4,8 +4,8 @@
     "card_text": "2 Level 3 FIRE monsters\nOnce per turn: You can detach 1 material from this card, then target 1 FIRE monster in your GY; add that target to your hand, also you cannot Normal or Special Summon that monster, or a monster with the same name, for the rest of this turn.",
     "release_date": "2013-01-25",
     "available_set": [
-        "COSMO BLAZER",
-        "BATTLES OF LEGEND: ARMAGEDDON"
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "COSMO BLAZER"
     ],
     "related_card": [
         "Brotherhood of the Fire Fist - Boar",
@@ -34,7 +34,7 @@
     "attack": 2200,
     "defense": 200,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 3
 }

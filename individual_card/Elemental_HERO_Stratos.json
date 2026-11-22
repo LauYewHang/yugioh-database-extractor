@@ -4,20 +4,20 @@
     "card_text": "When this card is Normal or Special Summoned: You can activate 1 of these effects;\n\u25cfDestroy Spells/Traps on the field, up to the number of \"HERO\" monsters you control, except this card.\n\u25cfAdd 1 \"HERO\" monster from your Deck to your hand.",
     "release_date": "2007-04-21",
     "available_set": [
-        "RA YELLOW MEGA PACK",
-        "QUARTER CENTURY BONANZA",
         "CHAMPION PACK GAME SIX",
-        "SHONEN JUMP Promotional Card - April 2007 -",
-        "COLLECTIBLE TIN 2010 WAVE 1",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
         "Gold Series: Maximum Gold",
         "PHARAOH TOUR 2007",
         "OTS TOURNAMENT PACK 9",
-        "BATTLES OF LEGEND - CHAPTER 1",
-        "BATTLES OF LEGEND: HERO'S REVENGE",
-        "HIDDEN ARSENAL CHAPTER 1",
+        "QUARTER CENTURY BONANZA",
+        "RA YELLOW MEGA PACK",
+        "COLLECTIBLE TIN 2010 WAVE 1",
         "DUEL TERMINAL 3",
-        "BURST OF DESTINY"
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "BURST OF DESTINY",
+        "SHONEN JUMP Promotional Card - April 2007 -",
+        "HIDDEN ARSENAL CHAPTER 1"
     ],
     "related_card": [
         "A Hero Lives",
@@ -243,7 +243,7 @@
     "attack": 1800,
     "defense": 300,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

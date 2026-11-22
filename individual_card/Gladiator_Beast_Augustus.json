@@ -4,8 +4,8 @@
     "card_text": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: You can Special Summon 1 \"Gladiator Beast\" monster from your hand in Defense Position. Shuffle it into the Deck during the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Augustus\".",
     "release_date": "2014-05-16",
     "available_set": [
-        "2015 MEGA-TINS MEGA PACK",
-        "PRIMAL ORIGIN"
+        "PRIMAL ORIGIN",
+        "2015 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Colosseum - Cage of the Gladiator Beasts",
@@ -73,7 +73,7 @@
     "attack": 2600,
     "defense": 1000,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

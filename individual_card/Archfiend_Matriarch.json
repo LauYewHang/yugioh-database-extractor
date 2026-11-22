@@ -4,8 +4,8 @@
     "card_text": "You can Ritual Summon this card with \"Throne of the Archfiends\". Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. If this card is Ritual Summoned: You can destroy as many Spells/Traps your opponent controls as possible, then if this card is in the Extra Monster Zone, you can banish all Spells/Traps from your opponent's GY. You can only use this effect of \"Archfiend Matriarch\" once per turn.",
     "release_date": "2026-05-08",
     "available_set": [
-        "BLAZING DOMINION",
-        "MAGNIFICENT MONSTERS"
+        "MAGNIFICENT MONSTERS",
+        "BLAZING DOMINION"
     ],
     "related_card": [
         "A Deal with Dark Ruler",
@@ -115,7 +115,7 @@
     "attack": 2100,
     "defense": 2900,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4102,
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "You can target 1 \"Archfiend\" Spell/Trap in your GY or banishment; destroy this card, and if you do, add that target to your hand. You can only use this effect of \"Archfiend Matriarch\" once per turn.",

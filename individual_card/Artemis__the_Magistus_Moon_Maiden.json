@@ -5,8 +5,8 @@
     "release_date": "2020-12-03",
     "available_set": [
         "GENESIS IMPACT",
-        "OTS ULTIMATE TOURNAMENT PACK 1",
         "25TH ANNIVERSARY RARITY COLLECTION",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
         "BATTLES OF LEGEND: CRYSTAL REVENGE"
     ],
     "related_card": [
@@ -36,7 +36,7 @@
     "attack": 800,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 1,
     "link_arrow": 256
 }

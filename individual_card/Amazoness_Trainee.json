@@ -4,10 +4,10 @@
     "card_text": "Monsters destroyed by battle with this card are placed on the bottom of the Deck instead of going to the GY. If this card destroys an opponent's monster by battle: It gains 200 ATK.",
     "release_date": "2010-08-17",
     "available_set": [
-        "BATTLE PACK EPIC DAWN",
-        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "DUELIST REVOLUTION",
         "SPEED DUEL GX: DUELISTS OF SHADOWS",
-        "DUELIST REVOLUTION"
+        "BATTLE PACK EPIC DAWN",
+        "SPEED DUEL: ATTACK FROM THE DEEP"
     ],
     "related_card": [
         "Amazoness Archers",
@@ -44,7 +44,7 @@
     "attack": 1500,
     "defense": 1300,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

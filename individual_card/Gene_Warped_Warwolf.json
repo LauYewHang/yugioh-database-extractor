@@ -4,19 +4,19 @@
     "card_text": "This warwolf was given incalculable strength through horrific genetic manipulation. Its gentle nature was completely wiped out, and it now lives only to unleash destruction.",
     "release_date": "2007-02-28",
     "available_set": [
-        "STARTER DECK DAWN OF THE XYZ",
+        "DEMO DECK",
         "STRIKE OF NEOS",
-        "BATTLE PACK EPIC DAWN",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
         "STARTER DECK YUYA",
-        "DEMO DECK"
+        "STARTER DECK DAWN OF THE XYZ",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 2000,
     "defense": 100,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

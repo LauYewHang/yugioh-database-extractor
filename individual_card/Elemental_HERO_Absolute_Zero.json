@@ -4,12 +4,12 @@
     "card_text": "1 \"HERO\" monster + 1 WATER monster\nMust be Fusion Summoned. Gains 500 ATK for each WATER monster on the field, except \"Elemental HERO Absolute Zero\". If this card leaves the field: Destroy all monsters your opponent controls.",
     "release_date": "2010-01-05",
     "available_set": [
-        "QUARTER CENTURY BONANZA",
-        "Yu-Gi-Oh! GX volume 4 Promotional Card",
-        "BATTLES OF LEGEND - CHAPTER 1",
-        "GENERATION FORCE SPECIAL EDITION",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
         "OTS TOURNAMENT PACK 5",
-        "BATTLES OF LEGEND: HERO'S REVENGE"
+        "Yu-Gi-Oh! GX volume 4 Promotional Card",
+        "QUARTER CENTURY BONANZA",
+        "GENERATION FORCE SPECIAL EDITION",
+        "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
         "A Hero Lives",
@@ -235,7 +235,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

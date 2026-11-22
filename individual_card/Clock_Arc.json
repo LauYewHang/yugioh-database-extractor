@@ -11,7 +11,7 @@
     "attack": 600,
     "defense": 1200,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "If you control no monsters, or only Pendulum Monsters, apply this effect, based on this card's Pendulum Zone.\n\u25cfLeft: Reduce its Pendulum Scale by 3.\n\u25cfRight: Increase its Pendulum Scale by 4.\nDuring your opponent's Standby Phase: You can Special Summon this card.",

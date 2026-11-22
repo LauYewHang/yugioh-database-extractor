@@ -4,9 +4,9 @@
     "card_text": "If you control a \"Galaxy-Eyes\" monster: You can Special Summon this card from your hand in Defense Position. If this card is detached from an Xyz Monster to activate that monster's effect: You can take 1 \"Galaxy-Eyes Photon Dragon\" from your hand or Deck, and either Special Summon it, or attach it to an Xyz Monster you control as material, then if you activated this effect during the Battle Phase, double the ATK of all \"Number\" Xyz Monsters you control. You can only use each effect of \"Galaxy-Eyes Afterglow Dragon\" once per turn.",
     "release_date": "2021-01-22",
     "available_set": [
-        "MAGNIFICENT MAVENS",
         "LEGENDARY DUELISTS: SEASON 2",
-        "25TH ANNIVERSARY RARITY COLLECTION"
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "MAGNIFICENT MAVENS"
     ],
     "related_card": [
         "Accellight",
@@ -230,7 +230,7 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

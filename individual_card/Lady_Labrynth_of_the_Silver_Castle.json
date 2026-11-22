@@ -4,10 +4,10 @@
     "card_text": "While you control a Set card, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You can only use each of the following effects of \"Lady Labrynth of the Silver Castle\" once per turn. If a \"Labrynth\" card or effect or a Normal Trap Card was activated this turn, except \"Lady Labrynth of the Silver Castle\" (Quick Effect): You can Special Summon this card from your hand in Defense Position. When a Normal Trap Card is activated (Quick Effect): You can Set 1 Normal Trap with a different name directly from your Deck.",
     "release_date": "2022-10-21",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTROUS REVENGE",
-        "QUARTER CENTURY STAMPEDE",
         "DARKWING BLAST",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Ariane the Labrynth Servant",
@@ -29,7 +29,7 @@
     "attack": 3000,
     "defense": 2900,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

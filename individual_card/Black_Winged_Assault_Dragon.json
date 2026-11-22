@@ -4,9 +4,9 @@
     "card_text": "1 Tuner Synchro Monster + 1+ non-Tuner monsters\nMust be either Synchro Summoned, or Special Summoned from your Extra Deck by banishing 1 Tuner Synchro Monster and 1 \"Black-Winged Dragon\" from your face-up field and/or GY. Each time your opponent activates a monster effect, place 1 Black Feather Counter on this card when that effect resolves, and if you do, inflict 700 damage to your opponent. During your opponent's turn (Quick Effect): You can Tribute this card with 4 or more Black Feather Counters on it; destroy all cards on the field.",
     "release_date": "2022-10-21",
     "available_set": [
-        "Legendary 5D's Decks",
         "DARKWING BLAST",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "Legendary 5D's Decks"
     ],
     "related_card": [
         "Black Feather Whirlwind",
@@ -19,7 +19,7 @@
     "attack": 3200,
     "defense": 2800,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

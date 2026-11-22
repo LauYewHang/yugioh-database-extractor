@@ -7,9 +7,9 @@
         "STRUCTURE DECK: MECHANIZED MADNESS",
         "2016 MEGA-TINS MEGA PACK",
         "BREAKERS OF SHADOW",
-        "BATTLES OF LEGEND - CHAPTER 1",
+        "OTS TOURNAMENT PACK 10",
         "STRUCTURE DECK: CYBER STRIKE",
-        "OTS TOURNAMENT PACK 10"
+        "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
         "Dogoran, the Mad Flame Kaiju",
@@ -29,7 +29,7 @@
     "attack": 3300,
     "defense": 2600,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

@@ -4,8 +4,8 @@
     "card_text": "If this card is Normal or Special Summoned: You can destroy 1 other FIRE monster in your hand or face-up field, and if you do, add 1 FIRE Beast, Beast-Warrior, or Winged Beast monster from your Deck to your hand, except \"Fire King Courtier Ulcanix\", then you can make this card's Level become that added monster's. If this card is destroyed and sent to the GY: You can Special Summon 1 \"Fire King High Avatar Garunix\" from your Deck in Defense Position. You can only use each effect of \"Fire King Courtier Ulcanix\" once per turn.",
     "release_date": "2024-10-11",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "RAGE OF THE ABYSS"
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Echelon of the Fire Kings",
@@ -26,7 +26,7 @@
     "attack": 800,
     "defense": 2000,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

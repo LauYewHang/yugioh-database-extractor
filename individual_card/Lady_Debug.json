@@ -4,15 +4,15 @@
     "card_text": "If this card is Normal or Special Summoned: You can add 1 Level 3 or lower Cyberse monster from your Deck to your hand. You can only use this effect of \"Lady Debug\" once per turn.",
     "release_date": "2018-08-10",
     "available_set": [
-        "Gold Series: Maximum Gold",
-        "STRUCTURE DECK: POWERCODE LINK"
+        "STRUCTURE DECK: POWERCODE LINK",
+        "Gold Series: Maximum Gold"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 1700,
     "defense": 1400,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

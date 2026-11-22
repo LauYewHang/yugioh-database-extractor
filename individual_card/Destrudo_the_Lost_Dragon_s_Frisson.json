@@ -4,17 +4,17 @@
     "card_text": "If this card is in your hand or GY: You can pay half your LP, then target 1 Level 6 or lower monster you control; Special Summon this card, and if you do, this card's Level is reduced by the Level of the targeted monster, also place this card on the bottom of the Deck if it leaves the field. You can only use this effect of \"Destrudo the Lost Dragon's Frisson\" once per turn.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
         "OTS TOURNAMENT PACK 7",
         "2018 MEGA-TINS MEGA PACK",
-        "OTS TOURNAMENT PACK 19"
+        "OTS TOURNAMENT PACK 19",
+        "CIRCUIT BREAK"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1000,
     "defense": 3000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

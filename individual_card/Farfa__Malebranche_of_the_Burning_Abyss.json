@@ -4,8 +4,8 @@
     "card_text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Farfa, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n\u25cfIf you control no Spells/Traps: You can Special Summon this card from your hand.\n\u25cfIf this card is sent to the GY: You can target 1 monster on the field; banish it until the End Phase.",
     "release_date": "2015-01-16",
     "available_set": [
-        "SECRETS OF ETERNITY",
         "PREMIUM GOLD: INFINITE GOLD",
+        "SECRETS OF ETERNITY",
         "STRUCTURE DECK: SACRED BEASTS"
     ],
     "related_card": [
@@ -34,7 +34,7 @@
     "attack": 1000,
     "defense": 1900,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,10 +4,10 @@
     "card_text": "(This card is always treated as a \"Dogmatika\" and \"Despia\" card.)\nIf this card is Normal or Special Summoned: You can send 1 \"Fallen of Albaz\" or 1 card that mentions it from your Deck to the GY. If a card(s) leaves the Extra Deck (except during the Damage Step): You can target 1 \"Fallen of Albaz\", or 1 monster that mentions it, in your GY, except \"Guiding Quem, the Virtuous\"; Special Summon it. You can only use each effect of \"Guiding Quem, the Virtuous\" once per turn.",
     "release_date": "2023-05-05",
     "available_set": [
-        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "QUARTER CENTURY STAMPEDE",
-        "CYBERSTORM ACCESS"
+        "CYBERSTORM ACCESS",
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Ad Libitum of Despia",
@@ -97,7 +97,7 @@
     "attack": 1500,
     "defense": 1500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

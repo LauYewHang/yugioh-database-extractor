@@ -4,8 +4,8 @@
     "card_text": "Once per turn: You can banish 1 \"Lightsworn\" monster from your hand or GY, then target 1 face-up monster on the field; it loses ATK and DEF equal to the banished monster's Level x 300, until the end of this turn. Once per turn, if your other \"Lightsworn\" monster's effect is activated: Send the top 2 cards of your Deck to the GY.",
     "release_date": "2017-08-04",
     "available_set": [
-        "CODE OF THE DUELIST",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST"
     ],
     "related_card": [
         "Aurkus, Lightsworn Druid",
@@ -55,7 +55,7 @@
     "attack": 1800,
     "defense": 1200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

@@ -4,14 +4,14 @@
     "card_text": "You can Special Summon this card (from your hand). If Summoned this way: Activate this effect; your opponent can Special Summon 1 monster from their GY.",
     "release_date": "2003-03-01",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
-        "STRUCTURE DECK DINOSAUR'S RAGE",
-        "SPEED DUEL GX: MIDTERM DESTRUCTION",
         "LABYRINTH OF NIGHTMARE",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
         "RETRO PACK 2",
         "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
         "DARK BEGINNING 2",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "BATTLE PACK EPIC DAWN",
         "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
@@ -20,7 +20,7 @@
     "attack": 1400,
     "defense": 400,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

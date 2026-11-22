@@ -4,9 +4,9 @@
     "card_text": "3 \"Memento\" monsters\nYou can banish this card from your GY; add 1 \"Mementomictlan\" from your Deck to your hand. You cannot activate the following effects of \"Mementomictlan Tecuhtlica - Creation King\" in the same Chain. If this card is Fusion Summoned: You can send 3 \"Memento\" cards from your Deck and/or Extra Deck to the GY. (Quick Effect): You can target an equal number of \"Memento\" monsters you control and cards your opponent controls; destroy them. You can only use each effect of \"Mementomictlan Tecuhtlica - Creation King\" once per turn.",
     "release_date": "2024-07-19",
     "available_set": [
+        "THE INFINITE FORBIDDEN",
         "LIMITED PACK WORLD CHAMPIONSHIP 2025",
-        "2025 MEGA-PACK TIN",
-        "THE INFINITE FORBIDDEN"
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Mementoal Tecuhtlica - Combined Creation",
@@ -31,7 +31,7 @@
     "attack": 3000,
     "defense": 2000,
     "monster_type": "Illusion",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

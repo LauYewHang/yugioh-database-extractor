@@ -4,8 +4,8 @@
     "card_text": "\"Amazoness Queen\" + 1 \"Amazoness\" monster\nOther \"Amazoness\" cards you control cannot be destroyed by battle or card effects. If your \"Amazoness\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this face-up Fusion Summoned card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can Special Summon 1 \"Amazoness Queen\" from your hand, Deck, or GY.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
     ],
     "related_card": [
         "Amazoness Archer (Updated from: Amazon Archer)",
@@ -48,7 +48,7 @@
     "attack": 2800,
     "defense": 2400,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

@@ -4,8 +4,8 @@
     "card_text": "If you control another \"Exosister\" monster: You can draw 1 card, then if you control \"Exosister Irene\", you gain 800 LP. If your opponent moves a card(s) out of either GY (except during the Damage Step): You can Special Summon from your Extra Deck, 1 \"Exosister\" Xyz Monster using this face-up card you control as material. (This is treated as an Xyz Summon.) You can only use each effect of \"Exosister Sophia\" once per turn.",
     "release_date": "2022-01-28",
     "available_set": [
-        "THE GRAND CREATORS",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "THE GRAND CREATORS"
     ],
     "related_card": [
         "Exosister Arment",
@@ -29,7 +29,7 @@
     "attack": 100,
     "defense": 800,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

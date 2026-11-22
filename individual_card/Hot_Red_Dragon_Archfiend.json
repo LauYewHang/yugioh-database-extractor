@@ -4,8 +4,8 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, during your Main Phase 1: You can destroy all other face-up Attack Position monsters on the field. Other monsters cannot attack the turn you activate this effect.",
     "release_date": "2014-09-02",
     "available_set": [
-        "HIGH-SPEED RIDERS",
         "Yu-Gi-Oh! 5D's volume 6 Promotional Card",
+        "HIGH-SPEED RIDERS",
         "MAXIMUM GOLD: EL DORADO"
     ],
     "related_card": [
@@ -47,7 +47,7 @@
     "attack": 3000,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

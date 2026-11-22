@@ -4,10 +4,10 @@
     "card_text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;\n\u25cfSend 1 card from your Deck to the GY.\n\u25cfChoose 1 monster from your Deck and place it on top of your Deck.",
     "release_date": "2012-09-28",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
-        "DUEL TERMINAL 7A",
         "HIDDEN ARSENAL 7 KNIGHT OF STARS",
-        "PREMIUM GOLD: RETURN OF THE BLING"
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "DUEL TERMINAL 7A",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Burgeoning Whirlflame",
@@ -41,7 +41,7 @@
     "attack": 1800,
     "defense": 1000,
     "monster_type": "Sea Serpent",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

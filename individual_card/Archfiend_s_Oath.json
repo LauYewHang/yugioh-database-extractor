@@ -4,12 +4,12 @@
     "card_text": "Once per turn: You can pay 500 LP, then declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the GY.",
     "release_date": "2003-12-01",
     "available_set": [
+        "DARK REVELATION Volume 1",
         "DARK CRISIS (LC01 25th Anniversary Edition)",
         "DARK CRISIS (Reprint)",
-        "ASTRAL PACK FOUR",
-        "DARK REVELATION Volume 1",
         "Speed Duel: Battle City Box",
-        "DARK CRISIS"
+        "DARK CRISIS",
+        "ASTRAL PACK FOUR"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",

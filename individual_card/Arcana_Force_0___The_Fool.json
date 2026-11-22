@@ -4,9 +4,9 @@
     "card_text": "Cannot be destroyed by battle. Cannot be changed to Defense Position. If this card is Summoned: Toss a coin.\n\u25cfHeads: Negate your card effects that target this card, and if you do, destroy them.\n\u25cfTails: Negate your opponent's card effects that target this card, and if you do, destroy them.",
     "release_date": "2008-05-13",
     "available_set": [
-        "LIGHT OF DESTRUCTION",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
         "DUEL TERMINAL 6A",
-        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+        "LIGHT OF DESTRUCTION"
     ],
     "related_card": [
         "Arcana Call",
@@ -25,7 +25,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

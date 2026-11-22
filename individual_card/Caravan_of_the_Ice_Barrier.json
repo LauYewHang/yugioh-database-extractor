@@ -4,9 +4,9 @@
     "card_text": "Once per turn: You can target 2 \"Ice Barrier\" monsters in your GY; shuffle both into the Deck, then each player draws 1 card.",
     "release_date": "2010-09-25",
     "available_set": [
-        "HIDDEN ARSENAL CHAPTER 1",
+        "DUEL TERMINAL 3",
         "HIDDEN ARSENAL 3",
-        "DUEL TERMINAL 3"
+        "HIDDEN ARSENAL CHAPTER 1"
     ],
     "related_card": [
         "Blizzed, Defender of the Ice Barrier",
@@ -58,7 +58,7 @@
     "attack": 500,
     "defense": 200,
     "monster_type": "Sea Serpent",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

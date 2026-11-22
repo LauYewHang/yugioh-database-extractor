@@ -4,16 +4,16 @@
     "card_text": "While you control another Reptile monster, if a Reptile monster you control attacks a Defense Position monster, inflict piercing battle damage.",
     "release_date": "2011-10-04",
     "available_set": [
-        "OTS TOURNAMENT PACK 16",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS",
-        "BATTLE PACK 3 MONSTER LEAGUE"
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "OTS TOURNAMENT PACK 16"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 1900,
     "defense": 200,
     "monster_type": "Reptile",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

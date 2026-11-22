@@ -4,16 +4,16 @@
     "card_text": "The horns were needed to prepare a medicine for her village, suffering from a plague. Unknown to her, the dragons burned and trampled her village, once displaced from their den.",
     "release_date": "2014-08-09",
     "available_set": [
+        "DUELIST ALLIANCE",
         "DUELIST ALLIANCE Sneak Peek",
-        "DEMO DECK 2016 (UK)",
-        "DUELIST ALLIANCE"
+        "DEMO DECK 2016 (UK)"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 2300,
     "defense": 1000,
     "monster_type": "Warrior",
-    "monster_card_type": "Normal",
+    "monster_card_type": 4097,
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "All Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.",

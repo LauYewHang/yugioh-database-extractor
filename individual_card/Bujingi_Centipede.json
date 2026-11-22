@@ -4,8 +4,8 @@
     "card_text": "If you control a Beast-Warrior-Type \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 Spell/Trap Card your opponent controls; destroy that target. You can only use the effect of \"Bujingi Centipede\" once per turn.",
     "release_date": "2013-11-08",
     "available_set": [
-        "SHADOW SPECTERS",
-        "2014 MEGA-TINS MEGA PACK"
+        "2014 MEGA-TINS MEGA PACK",
+        "SHADOW SPECTERS"
     ],
     "related_card": [
         "Bujin Arasuda",
@@ -50,7 +50,7 @@
     "attack": 1700,
     "defense": 500,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

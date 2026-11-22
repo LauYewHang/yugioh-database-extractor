@@ -4,16 +4,16 @@
     "card_text": "2 FIRE monsters\nAll FIRE monsters on the field gain 500 ATK/DEF, also all WATER monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 FIRE monster in your GY; add it to your hand. You can only use this effect of \"Duelittle Chimera\" once per turn.",
     "release_date": "2018-02-02",
     "available_set": [
-        "STRUCTURE DECK: SOULBURNER",
         "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
-        "EXTREME FORCE"
+        "EXTREME FORCE",
+        "STRUCTURE DECK: SOULBURNER"
     ],
     "related_card": [],
     "attribute": "FIRE",
     "attack": 1400,
     "defense": null,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

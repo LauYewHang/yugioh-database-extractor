@@ -4,8 +4,8 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\n\"Lightsworn\" monsters you control cannot be banished by card effects. You can only use each of the following effects of \"Minerva, the Athenian Lightsworn\" once per turn. If this card is Synchro Summoned: You can send \"Lightsworn\" monsters with different Types from your Deck to the GY, up to the number of \"Lightsworn\" monsters used as this card's material. You can banish up to 4 \"Lightsworn\" monsters from your GY; send that many cards from the top of your Deck to the GY.",
     "release_date": "2024-04-26",
     "available_set": [
-        "LEGACY OF DESTRUCTION",
-        "2025 MEGA-PACK TIN"
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
     ],
     "related_card": [
         "Aurkus, Lightsworn Druid",
@@ -55,7 +55,7 @@
     "attack": 2800,
     "defense": 1800,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

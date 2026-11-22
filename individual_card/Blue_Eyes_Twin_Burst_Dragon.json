@@ -4,11 +4,11 @@
     "card_text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\nMust be either Fusion Summoned, or Special Summoned by sending the above monsters you control to the GY. Cannot be destroyed by battle. Can make up to 2 attacks on monsters during each Battle Phase. At the end of the Damage Step, when this card attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster.",
     "release_date": "2016-05-06",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
         "SHINING VICTORIES",
-        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "2017 MEGA-TINS MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 2",
         "LEGENDARY COLLECTION KAIBA MEGA PACK",
-        "LEGENDARY DUELISTS: SEASON 2"
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY"
     ],
     "related_card": [
         "Beacon of White",
@@ -43,7 +43,7 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

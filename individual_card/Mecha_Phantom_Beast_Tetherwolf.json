@@ -4,11 +4,11 @@
     "card_text": "If this card is Normal Summoned: Special Summon 1 \"Mecha Phantom Beast Token\" (Machine/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per battle, during the Damage Step, when this card battles an opponent's monster (Quick Effect): You can Tribute 1 Token; this card gains 800 ATK, until the end of this turn.",
     "release_date": "2013-05-17",
     "available_set": [
-        "LORD OF THE TACHYON GALAXY",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
         "2014 MEGA-TINS MEGA PACK",
+        "LORD OF THE TACHYON GALAXY",
         "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
-        "STRUCTURE DECK: POWERCODE LINK",
-        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+        "STRUCTURE DECK: POWERCODE LINK"
     ],
     "related_card": [
         "Aerial Recharge",
@@ -42,7 +42,7 @@
     "attack": 1700,
     "defense": 1200,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

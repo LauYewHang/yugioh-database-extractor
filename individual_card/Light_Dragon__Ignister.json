@@ -4,10 +4,10 @@
     "card_text": "2 Level 4 monsters\nIf a monster(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. You can only use each of the following effects of \"Light Dragon @Ignister\" once per turn. You can detach 1 material from this card; destroy face-up monsters your opponent controls, up to the number of \"@Ignister\" monsters you control. When another Cyberse monster you control inflicts battle damage to your opponent: You can Special Summon 1 Link Monster from your GY.",
     "release_date": "2020-01-31",
     "available_set": [
-        "IGNITION ASSAULT",
-        "MAZE OF THE MASTER",
+        "LEGENDARY MODERN DECKS 2026",
         "2021 TIN OF ANCIENT BATTLES",
-        "LEGENDARY MODERN DECKS 2026"
+        "MAZE OF THE MASTER",
+        "IGNITION ASSAULT"
     ],
     "related_card": [
         "A.I. Challenge You",
@@ -50,7 +50,7 @@
     "attack": 2300,
     "defense": 1500,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

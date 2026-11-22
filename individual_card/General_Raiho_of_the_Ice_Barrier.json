@@ -4,12 +4,12 @@
     "card_text": "When your opponent's monster effect activated on the field resolves, they must discard 1 card or the effect is negated (their choice).",
     "release_date": "2011-01-28",
     "available_set": [
-        "STRUCTURE DECK: FREEZING CHAINS",
         "HIDDEN ARSENAL 4 TRISHULA'S TRIUMPH",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "STRUCTURE DECK: FREEZING CHAINS",
         "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
         "DUEL TERMINAL 4",
-        "HIDDEN ARSENAL CHAPTER 1",
-        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+        "HIDDEN ARSENAL CHAPTER 1"
     ],
     "related_card": [
         "Caravan of the Ice Barrier",
@@ -46,7 +46,7 @@
     "attack": 2100,
     "defense": 2300,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

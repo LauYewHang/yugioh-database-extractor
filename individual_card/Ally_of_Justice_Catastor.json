@@ -4,14 +4,14 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nAt the start of the Damage Step, if this card battles a face-up non-DARK monster: Destroy that monster.",
     "release_date": "2009-06-20",
     "available_set": [
-        "QUARTER CENTURY BONANZA",
-        "DUEL TERMINAL 1",
         "HIDDEN ARSENAL",
+        "COLLECTIBLE TIN 2013 WAVE 1",
+        "QUARTER CENTURY BONANZA",
         "DUEL TERMINAL - PREVIEW WAVE 2",
         "Duel Devastator",
-        "COLLECTIBLE TIN 2013 WAVE 1",
-        "HIDDEN ARSENAL CHAPTER 1",
-        "TURBO PACK BOOSTER SEVEN"
+        "TURBO PACK BOOSTER SEVEN",
+        "DUEL TERMINAL 1",
+        "HIDDEN ARSENAL CHAPTER 1"
     ],
     "related_card": [
         "Ally of Justice Thunder Armor",
@@ -22,7 +22,7 @@
     "attack": 2200,
     "defense": 1200,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

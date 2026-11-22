@@ -4,15 +4,15 @@
     "card_text": "Once per turn, you can Tribute 1 EARTH monster (except this card) to Special Summon 1 EARTH monster from your hand. The monster Special Summoned by this effect is destroyed if \"Avalanching Aussa\" is removed from your side of the field.",
     "release_date": "2006-05-17",
     "available_set": [
-        "DARK REVELATION Volume 4",
-        "ENEMY OF JUSTICE"
+        "ENEMY OF JUSTICE",
+        "DARK REVELATION Volume 4"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 800,
     "defense": 1500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

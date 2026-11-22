@@ -4,13 +4,13 @@
     "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by revealing \"Blue-Eyes White Dragon\" in your hand. You can only Special Summon \"Blue-Eyes Alternative White Dragon\" once per turn this way. This card's name becomes \"Blue-Eyes White Dragon\" while on the field or in the GY. Once per turn: You can target 1 monster your opponent controls; destroy it. This card cannot attack the turn this effect is activated.",
     "release_date": "2016-07-22",
     "available_set": [
-        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
-        "GHOSTS FROM THE PAST",
-        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
-        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION",
         "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "GHOSTS FROM THE PAST",
         "LEGENDARY DUELISTS: SEASON 2",
-        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION"
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
     ],
     "related_card": [
         "Beacon of White",
@@ -67,7 +67,7 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

@@ -4,16 +4,16 @@
     "card_text": "If this card inflicts battle damage to your opponent: Declare 1 card name; look at your opponent's hand, and if you do, discard all cards with that name in their hand.",
     "release_date": "2003-10-10",
     "available_set": [
+        "DARK REVELATION Volume 1",
         "MAGICIAN'S FORCE",
-        "SPEED DUEL: ATTACK FROM THE DEEP",
-        "DARK REVELATION Volume 1"
+        "SPEED DUEL: ATTACK FROM THE DEEP"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

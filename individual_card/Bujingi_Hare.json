@@ -4,8 +4,8 @@
     "card_text": "During either player's turn: You can banish this card from your Graveyard, then target 1 Beast-Warrior-Type \"Bujin\" monster you control; once during this turn, it cannot be destroyed by battle or by card effects. You can only use the effect of \"Bujingi Hare\" once per turn.",
     "release_date": "2014-01-24",
     "available_set": [
-        "2014 MEGA-TINS MEGA PACK",
-        "LEGACY OF THE VALIANT"
+        "LEGACY OF THE VALIANT",
+        "2014 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Bujin Arasuda",
@@ -50,7 +50,7 @@
     "attack": 1700,
     "defense": 500,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

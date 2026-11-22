@@ -4,8 +4,8 @@
     "card_text": "If this card is discarded to the GY by card effect: Special Summon this card, then, if this card was discarded from your hand to your GY by an opponent's card effect, you can Special Summon 1 Fiend monster from your Deck to either field.",
     "release_date": "2014-05-16",
     "available_set": [
-        "STRUCTURE DECK: DARK WORLD",
-        "PRIMAL ORIGIN"
+        "PRIMAL ORIGIN",
+        "STRUCTURE DECK: DARK WORLD"
     ],
     "related_card": [
         "Ceruli, Guru of Dark World",
@@ -27,7 +27,7 @@
     "attack": 2400,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

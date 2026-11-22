@@ -4,15 +4,15 @@
     "card_text": "Each time you Tribute Summon a monster, each player can select 1 card from their Graveyard and return it to the top of their Deck.",
     "release_date": "2009-05-12",
     "available_set": [
-        "RAGING BATTLE",
-        "DUEL TERMINAL 5B"
+        "DUEL TERMINAL 5B",
+        "RAGING BATTLE"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 1300,
     "defense": 2200,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

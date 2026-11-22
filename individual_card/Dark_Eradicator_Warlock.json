@@ -4,9 +4,9 @@
     "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Dark Magician\", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.",
     "release_date": "2006-01-18",
     "available_set": [
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
         "OTS TOURNAMENT PACK 2",
-        "WORLD CHAMPIONSHIP 2010 CARD PACK",
-        "STRUCTURE DECK SPELLCASTER'S JUDGMENT"
+        "WORLD CHAMPIONSHIP 2010 CARD PACK"
     ],
     "related_card": [
         "Chronicle Sorceress",
@@ -29,7 +29,7 @@
     "attack": 2500,
     "defense": 2100,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

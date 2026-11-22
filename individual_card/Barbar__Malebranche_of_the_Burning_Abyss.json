@@ -4,8 +4,8 @@
     "card_text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Barbar, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n\u25cfIf you control no Spell/Trap Cards: You can Special Summon this card from your hand.\n\u25cfIf this card is sent to the Graveyard: You can target up to 3 \"Burning Abyss\" cards in your Graveyard, except \"Barbar, Malebranche of the Burning Abyss\"; banish them, and if you do, inflict 300 damage to your opponent for each.",
     "release_date": "2015-05-15",
     "available_set": [
-        "CROSSED SOULS",
-        "PREMIUM GOLD: INFINITE GOLD"
+        "PREMIUM GOLD: INFINITE GOLD",
+        "CROSSED SOULS"
     ],
     "related_card": [
         "Alich, Malebranche of the Burning Abyss",
@@ -33,7 +33,7 @@
     "attack": 1700,
     "defense": 1000,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

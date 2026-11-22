@@ -4,8 +4,8 @@
     "card_text": "2+ \"Charmer\" or \"Familiar-Possessed\" monsters\nIf this card is Fusion Summoned: You can activate this effect; for each different original Attribute used for its Fusion Summon (max. 4), you can apply 1 effect from this list. You can choose the same effect more than once. Resolve each effect before choosing again.\n\u25cfThis card gains 800 ATK.\n\u25cfAdd 1 \"Possessed\" Spell/Trap from your Deck to your hand.\n\u25cfReturn 1 card on the field to the hand.\n\u25cfSpecial Summon 1 Spellcaster monster from your GY.\nYou can only use this effect of \"Charmers of the Grand Circle\" once per turn.",
     "release_date": "2026-01-23",
     "available_set": [
-        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION) - bonus extra card",
-        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION) - bonus extra card"
     ],
     "related_card": [
         "Aussa the Earth Channeler",
@@ -45,7 +45,7 @@
     "attack": 1850,
     "defense": 1500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

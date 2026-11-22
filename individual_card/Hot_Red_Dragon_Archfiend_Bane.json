@@ -4,10 +4,10 @@
     "card_text": "1 Tuner + 1 non-Tuner DARK Dragon Synchro Monster\nYou can Tribute 1 monster, then target 1 \"Red Dragon Archfiend\" monster in your GY; Special Summon it. When this card inflicts battle damage to your opponent: You can Special Summon 2 Tuners with the same Level (1 from your Deck and 1 from your GY) in Defense Position. You can only use each effect of \"Hot Red Dragon Archfiend Bane\" once per turn.",
     "release_date": "2015-10-02",
     "available_set": [
-        "STRUCTURE DECK: THE CRIMSON KING",
+        "MAXIMUM GOLD: EL DORADO",
         "DUEL POWER",
         "HIGH-SPEED RIDERS",
-        "MAXIMUM GOLD: EL DORADO"
+        "STRUCTURE DECK: THE CRIMSON KING"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -55,7 +55,7 @@
     "attack": 3500,
     "defense": 3000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

@@ -4,9 +4,9 @@
     "card_text": "You can banish this card from your GY; Special Summon 1 \"Evil HERO\" monster from your hand or Deck, except \"Evil HERO Sinister Necrom\". You can only use this effect of \"Evil HERO Sinister Necrom\" once per turn.",
     "release_date": "2019-09-27",
     "available_set": [
-        "OTS TOURNAMENT PACK 27",
+        "LEGENDARY DUELISTS: SEASON 3",
         "LEGENDARY DUELISTS: IMMORTAL DESTINY",
-        "LEGENDARY DUELISTS: SEASON 3"
+        "OTS TOURNAMENT PACK 27"
     ],
     "related_card": [
         "Apparition",
@@ -86,7 +86,7 @@
     "attack": 1600,
     "defense": 1800,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

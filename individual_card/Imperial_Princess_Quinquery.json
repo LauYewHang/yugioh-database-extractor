@@ -5,15 +5,15 @@
     "release_date": "2023-05-05",
     "available_set": [
         "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "Justice Hunters",
-        "CYBERSTORM ACCESS"
+        "CYBERSTORM ACCESS",
+        "Justice Hunters"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1200,
     "defense": 2800,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

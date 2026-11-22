@@ -4,8 +4,8 @@
     "card_text": "2+ monsters, including a Ritual, Fusion, Synchro, or Xyz Monster\nIf this card is Special Summoned: You can target 1 Ritual, Fusion, Synchro, or Xyz Monster you control or in your GY; all monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, until the end of this turn. Your opponent cannot target monsters you control, that were Special Summoned from the Extra Deck, with monster effects. If this card would be destroyed by battle or card effect, you can banish 1 Ritual, Fusion, Synchro, or Xyz Monster from your GY instead.",
     "release_date": "2019-07-27",
     "available_set": [
-        "RISING RAMPAGE",
-        "2020 TIN OF LOST MEMORIES"
+        "2020 TIN OF LOST MEMORIES",
+        "RISING RAMPAGE"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -41,7 +41,7 @@
     "attack": 2800,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 154
 }

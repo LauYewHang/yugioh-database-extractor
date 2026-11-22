@@ -26,7 +26,7 @@
     "attack": 500,
     "defense": 2000,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 6,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

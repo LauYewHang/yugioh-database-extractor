@@ -4,8 +4,8 @@
     "card_text": "(Quick Effect): You can banish this card; Special Summon 1 Level 2 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmo Tincan\" once per turn. Once per turn, during the End Phase: You can pay 500 LP; reveal 3 \"Kozmo\" cards with different names from your Deck, your opponent randomly picks 1 for you to add to your hand, and you send the rest to the GY.",
     "release_date": "2016-01-15",
     "available_set": [
-        "GHOSTS FROM THE PAST",
-        "BREAKERS OF SHADOW"
+        "BREAKERS OF SHADOW",
+        "GHOSTS FROM THE PAST"
     ],
     "related_card": [
         "Kozmo Dark Destroyer",
@@ -32,7 +32,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Psychic",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

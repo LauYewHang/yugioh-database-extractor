@@ -4,15 +4,15 @@
     "card_text": "3 monsters, including a Token\nWhen this card destroys an opponent's monster by battle: You can Special Summon 1 \"Bellcat Token\" (Machine/WIND/Level 4/ATK 2000/DEF 2000) in Defense Position.",
     "release_date": "2020-01-31",
     "available_set": [
-        "IGNITION ASSAULT",
-        "2021 TIN OF ANCIENT BATTLES"
+        "2021 TIN OF ANCIENT BATTLES",
+        "IGNITION ASSAULT"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": 2000,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 336
 }

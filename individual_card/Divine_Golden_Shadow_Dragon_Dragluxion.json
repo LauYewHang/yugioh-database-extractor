@@ -4,8 +4,8 @@
     "card_text": "2 Level 8 monsters\nIf this card is Special Summoned from the Extra Deck: You can add 1 \"Galaxy\" or \"Tachyon\" card from your Deck to your hand. You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 Rank 8 Dragon Xyz Monster with 3000 ATK, using this card you control as material (this is treated as an Xyz Summon, transfer this card's materials), then you can attach 1 \"Galaxy\" monster from your Extra Deck to it. You can only use each effect of \"Divine Golden Shadow Dragon Dragluxion\" once per turn.",
     "release_date": "2025-03-14",
     "available_set": [
-        "MAZE OF THE MASTER",
-        "MAGNIFICENT MONSTERS"
+        "MAGNIFICENT MONSTERS",
+        "MAZE OF THE MASTER"
     ],
     "related_card": [
         "Eternal Galaxy",
@@ -75,7 +75,7 @@
     "attack": 2500,
     "defense": 3000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

@@ -4,8 +4,8 @@
     "card_text": "This one-eyed warrior bear is an aggressive hunter that strikes down its prey with the powerful swipes of its claws. No one can bear the brunt of his tremendously fast and heavy blows.",
     "release_date": "2008-02-13",
     "available_set": [
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "PHANTOM DARKNESS"
+        "PHANTOM DARKNESS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
     ],
     "related_card": [
         "Colosseum - Cage of the Gladiator Beasts",
@@ -73,7 +73,7 @@
     "attack": 1900,
     "defense": 1500,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

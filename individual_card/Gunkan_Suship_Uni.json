@@ -4,8 +4,8 @@
     "card_text": "You can reveal 1 other \"Gunkan\" card in your hand; Special Summon this card from your hand, then apply the following effect based on the revealed card.\n\u25cf\"Gunkan Suship Shari\": You can Special Summon the revealed monster.\n\u25cfOther: Place the revealed card on the bottom of the Deck.\nYou can target 1 \"Gunkan\" monster you control: Change its Level to 4 or 5, then you can add 1 \"Gunkan Suship Shari\" from your Deck to your hand.\nYou can only use each effect of \"Gunkan Suship Uni\" once per turn.",
     "release_date": "2021-11-05",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "BURST OF DESTINY"
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Gunkan Suship Catch-of-the-Day",
@@ -23,7 +23,7 @@
     "attack": 900,
     "defense": 500,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

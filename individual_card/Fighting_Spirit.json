@@ -4,14 +4,14 @@
     "card_text": "The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.",
     "release_date": "2008-09-02",
     "available_set": [
-        "BATTLE PACK 3 MONSTER LEAGUE",
         "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
-        "THE DUELIST GENESIS",
-        "DUELIST PACK - YUSEI -",
-        "2-PLAYER STARTER SET",
         "BATTLE PACK EPIC DAWN",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
-        "SPEED DUEL: SCARS OF BATTLE"
+        "DUELIST PACK - YUSEI -",
+        "THE DUELIST GENESIS",
+        "2-PLAYER STARTER SET",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "SPEED DUEL: SCARS OF BATTLE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

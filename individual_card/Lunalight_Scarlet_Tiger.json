@@ -4,8 +4,8 @@
     "card_text": "If you activate a \"Lunalight\" monster's effect (except during the Damage Step): You can Special Summon this card from your hand, then if you activated this effect during the turn your opponent activated a card or effect, you can add 1 \"Polymerization\" from your Deck or GY to your hand. If this card is sent to the GY by card effect: You can Special Summon 1 \"Lunalight\" monster from your face-up Extra Deck or GY, except a Level 5 monster, but it cannot activate its effects. You can only use each effect of \"Lunalight Scarlet Tiger\" once per turn.",
     "release_date": "2026-08-07",
     "available_set": [
-        "LEGENDARY ARC-V DECKS  - bonus card",
-        "LEGENDARY ARC-V DECKS"
+        "LEGENDARY ARC-V DECKS",
+        "LEGENDARY ARC-V DECKS  - bonus card"
     ],
     "related_card": [
         "Fusion Substitute",
@@ -38,7 +38,7 @@
     "attack": 1900,
     "defense": 1500,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

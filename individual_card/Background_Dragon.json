@@ -4,16 +4,16 @@
     "card_text": "If this card is in the GY and you control no cards: You can Special Summon both this card, and 1 Level 4 or lower Dragon monster from your hand, in Defense Position, but banish this card when it leaves the field. You can only use this effect of \"Background Dragon\" once per turn.",
     "release_date": "2018-05-04",
     "available_set": [
-        "STRUCTURE DECK: ROKKET REVOLT",
         "FLAMES OF DESTRUCTION",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "STRUCTURE DECK: ROKKET REVOLT"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1600,
     "defense": 1800,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

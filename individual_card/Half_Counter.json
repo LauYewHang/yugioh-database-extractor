@@ -4,9 +4,9 @@
     "card_text": "During damage calculation, if a monster you control is being attacked: Target that monster you control; that target gains ATK equal to half the original ATK of the attacking monster, until the end of this turn.",
     "release_date": "2010-11-16",
     "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
         "STARSTRIKE BLAST",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
-        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

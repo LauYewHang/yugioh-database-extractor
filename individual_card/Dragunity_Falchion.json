@@ -56,7 +56,7 @@
     "attack": 1300,
     "defense": 1200,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

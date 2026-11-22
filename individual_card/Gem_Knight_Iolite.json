@@ -4,8 +4,8 @@
     "card_text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cfOnce per turn: You can banish 1 \"Gem-\" monster from your Graveyard to target 1 \"Gem-Knight\" card in your Graveyard; add that target to your hand.",
     "release_date": "2012-05-25",
     "available_set": [
-        "HIDDEN ARSENAL 6 OMEGA XYZ",
-        "DUEL TERMINAL 6B"
+        "DUEL TERMINAL 6B",
+        "HIDDEN ARSENAL 6 OMEGA XYZ"
     ],
     "related_card": [
         "Absorb Fusion",
@@ -60,7 +60,7 @@
     "attack": 1300,
     "defense": 2000,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 514,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

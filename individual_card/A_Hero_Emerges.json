@@ -4,14 +4,14 @@
     "card_text": "When an opponent's monster declares an attack: Your opponent chooses 1 random card from your hand, then if it is a monster that can be Special Summoned, Special Summon it. Otherwise, send it to the GY.",
     "release_date": "2004-03-01",
     "available_set": [
-        "DARK REVELATION Volume 2",
         "SPEED DUEL GX: DUEL ACADEMY BOX",
-        "DUEL TERMINAL 2",
+        "DARK REVELATION Volume 2",
         "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "DUEL TERMINAL 2",
         "DUELIST PACK - JADEN YUKI -",
         "INVASION OF CHAOS",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
-        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

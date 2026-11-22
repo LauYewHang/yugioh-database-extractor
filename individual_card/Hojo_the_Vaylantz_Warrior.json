@@ -27,7 +27,7 @@
     "attack": 1900,
     "defense": 1900,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "If \"Vaylantz World - Shinra Bansho\" is in a Field Zone or if you control a WATER \"Vaylantz\" monster: You can Special Summon this card to your Main Monster Zone in its same column. You can only use this effect of \"Hojo the Vaylantz Warrior\" once per turn.",

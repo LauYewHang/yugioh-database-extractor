@@ -5,9 +5,9 @@
     "release_date": "2015-05-15",
     "available_set": [
         "2016 MEGA-TINS MEGA PACK",
-        "DUEL POWER",
         "25TH ANNIVERSARY RARITY COLLECTION",
-        "CROSSED SOULS"
+        "CROSSED SOULS",
+        "DUEL POWER"
     ],
     "related_card": [
         "Accellight",
@@ -84,7 +84,7 @@
     "attack": 4000,
     "defense": 3500,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

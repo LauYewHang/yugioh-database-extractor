@@ -4,9 +4,9 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: It gains 300 ATK.",
     "release_date": "2009-11-10",
     "available_set": [
+        "DUEL TERMINAL 1",
         "HIDDEN ARSENAL",
-        "HIDDEN ARSENAL CHAPTER 1",
-        "DUEL TERMINAL 1"
+        "HIDDEN ARSENAL CHAPTER 1"
     ],
     "related_card": [
         "Flamvell Archer",
@@ -19,7 +19,7 @@
     "attack": 2100,
     "defense": 400,
     "monster_type": "Pyro",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

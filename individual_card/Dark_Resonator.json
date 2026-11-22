@@ -4,16 +4,16 @@
     "card_text": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
     "release_date": "2008-09-02",
     "available_set": [
-        "DUEL TERMINAL 1",
-        "STRUCTURE DECK: THE CRIMSON KING",
         "LEGENDARY COLLECTION 5D's MEGA PACK",
-        "HIGH-SPEED RIDERS",
-        "THE DUELIST GENESIS",
-        "DUEL TERMINAL - PREVIEW WAVE 2",
-        "2-PLAYER STARTER SET",
+        "DUEL TERMINAL 1",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
         "BATTLE PACK EPIC DAWN",
-        "BATTLE PACK 2 WAR OF THE GIANTS",
-        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "THE DUELIST GENESIS",
+        "2-PLAYER STARTER SET",
+        "HIGH-SPEED RIDERS",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
     ],
     "related_card": [
         "Chain Resonator",
@@ -35,7 +35,7 @@
     "attack": 1300,
     "defense": 300,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

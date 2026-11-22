@@ -87,7 +87,7 @@
     "attack": 2000,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s) (except during the Damage Step): You can activate this effect; this turn, that Pendulum Summoned monster cannot attack, also its effects are negated.",

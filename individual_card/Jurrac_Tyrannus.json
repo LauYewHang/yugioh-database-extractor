@@ -5,8 +5,8 @@
     "release_date": "2010-05-25",
     "available_set": [
         "HIDDEN ARSENAL 2",
-        "SPEED DUEL: SCARS OF BATTLE",
-        "DUEL TERMINAL 2"
+        "DUEL TERMINAL 2",
+        "SPEED DUEL: SCARS OF BATTLE"
     ],
     "related_card": [
         "Jurrac Aeolo",
@@ -28,7 +28,7 @@
     "attack": 2500,
     "defense": 1400,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

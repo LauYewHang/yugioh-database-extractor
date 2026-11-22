@@ -5,16 +5,16 @@
     "release_date": "2018-02-02",
     "available_set": [
         "2018 MEGA-TINS MEGA PACK",
-        "EXTREME FORCE",
         "25TH ANNIVERSARY RARITY COLLECTION",
-        "Duel Devastator"
+        "Duel Devastator",
+        "EXTREME FORCE"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 2000,
     "defense": 2000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

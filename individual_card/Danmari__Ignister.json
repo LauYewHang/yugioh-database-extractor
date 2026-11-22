@@ -4,8 +4,8 @@
     "card_text": "When an attack is declared involving your \"@Ignister\" monster: You can Special Summon this card from your hand, and if you do, negate that attack. While you control a Link-6 monster (Quick Effect): You can banish this card from your field or GY, then target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of \"Danmari @Ignister\" once per turn.",
     "release_date": "2021-06-04",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "LIGHTNING OVERDRIVE"
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "A.I. Challenge You",
@@ -48,7 +48,7 @@
     "attack": 2300,
     "defense": 0,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

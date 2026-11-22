@@ -4,9 +4,9 @@
     "card_text": "Once per turn, during your Standby Phase: You can add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
     "release_date": "2008-07-31",
     "available_set": [
+        "HERO STRIKE STRUCTURE DECK",
         "DUEL TERMINAL 4",
         "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "HERO STRIKE STRUCTURE DECK",
         "PREMIUM PACK 2"
     ],
     "related_card": [
@@ -141,7 +141,7 @@
     "attack": 1000,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

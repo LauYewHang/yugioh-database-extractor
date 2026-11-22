@@ -4,13 +4,13 @@
     "card_text": "2+ Effect Monsters\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
     "release_date": "2017-07-21",
     "available_set": [
-        "STARTER DECK CODEBREAKER",
         "25TH ANNIVERSARY TIN: DUELING HEROES",
-        "STAR PACK: VRAINS",
-        "Duel Devastator",
+        "OTS TOURNAMENT PACK 6",
         "DUEL POWER VARIANT CARDS",
         "STARTER DECK - LINK STRIKE -",
-        "OTS TOURNAMENT PACK 6"
+        "Duel Devastator",
+        "STARTER DECK CODEBREAKER",
+        "STAR PACK: VRAINS"
     ],
     "related_card": [
         "Code Exporter",
@@ -32,7 +32,7 @@
     "attack": 2300,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 266
 }

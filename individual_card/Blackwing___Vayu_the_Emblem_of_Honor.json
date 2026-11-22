@@ -4,11 +4,11 @@
     "card_text": "This face-up card on the field cannot be used as a Synchro Material. If this card is in the GY: You can target 1 non-Tuner \"Blackwing\" monster in your GY; banish both this card and that target, and if you do, Special Summon 1 \"Blackwing\" Synchro Monster from your Extra Deck whose Level equals the total Levels of the banished monsters, but its effects are negated.",
     "release_date": "2009-09-01",
     "available_set": [
-        "QUARTER CENTURY BONANZA",
         "LEGENDARY COLLECTION 5D's MEGA PACK",
-        "Legendary 5D's Decks",
-        "COLLECTIBLE TIN 2010 WAVE 1",
         "ANCIENT PROPHECY",
+        "Legendary 5D's Decks",
+        "QUARTER CENTURY BONANZA",
+        "COLLECTIBLE TIN 2010 WAVE 1",
         "BATTLES OF LEGEND: CRYSTAL REVENGE"
     ],
     "related_card": [
@@ -95,7 +95,7 @@
     "attack": 800,
     "defense": 0,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

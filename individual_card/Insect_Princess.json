@@ -4,12 +4,12 @@
     "card_text": "All Insect monsters your opponent controls are changed to Attack Position. If this card destroys an Insect monster by battle: This card gains 500 ATK.",
     "release_date": "2004-03-01",
     "available_set": [
-        "DARK REVELATION Volume 2",
-        "SPEED DUEL: STREETS OF BATTLE CITY",
-        "OTS TOURNAMENT PACK 7",
         "SPEED DUEL TOURNAMENT PACK 7",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
         "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "DARK REVELATION Volume 2",
         "INVASION OF CHAOS",
+        "OTS TOURNAMENT PACK 7",
         "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
     ],
     "related_card": [],
@@ -17,7 +17,7 @@
     "attack": 1900,
     "defense": 1200,
     "monster_type": "Insect",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

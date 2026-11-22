@@ -4,17 +4,17 @@
     "card_text": "You can discard 1 card to target 1 face-up monster on the field; that target's ATK becomes 2000 until the End Phase.",
     "release_date": "2005-08-06",
     "available_set": [
+        "DEMO PROGRESSION SET 2026",
         "BATTLE PACK EPIC DAWN",
-        "CYBERNETIC REVOLUTION",
         "DARK REVELATION Volume 4",
-        "DEMO PROGRESSION SET 2026"
+        "CYBERNETIC REVOLUTION"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 2400,
     "defense": 1000,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

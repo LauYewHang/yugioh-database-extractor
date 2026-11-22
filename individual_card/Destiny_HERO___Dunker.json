@@ -4,8 +4,8 @@
     "card_text": "You can send 1 \"Destiny HERO\" card from your hand to the Graveyard; inflict 500 damage to your opponent.",
     "release_date": "2008-02-13",
     "available_set": [
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "PHANTOM DARKNESS"
+        "PHANTOM DARKNESS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
     ],
     "related_card": [
         "Apparition",
@@ -120,7 +120,7 @@
     "attack": 1200,
     "defense": 1700,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

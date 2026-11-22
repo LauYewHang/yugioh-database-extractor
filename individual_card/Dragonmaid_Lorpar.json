@@ -4,9 +4,9 @@
     "card_text": "Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of \"Dragonmaid Lorpar\" once per turn.\n\u25cfYou can discard this card, then target 1 face-up monster on the field; players cannot activate that target's effects on the field this turn.\n\u25cfAt the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 3 \"Dragonmaid\" monster from your hand.",
     "release_date": "2019-11-22",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "MYSTIC FIGHTERS",
         "QUARTER CENTURY BONANZA",
-        "MYSTIC FIGHTERS"
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "Chamber Dragonmaid",
@@ -32,7 +32,7 @@
     "attack": 2700,
     "defense": 1700,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

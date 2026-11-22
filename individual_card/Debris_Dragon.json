@@ -4,23 +4,23 @@
     "card_text": "When this card is Normal Summoned: You can target 1 monster with 500 or less ATK in your GY; Special Summon that target in Attack Position, but negate its effects. Cannot be used as Synchro Material, except for the Synchro Summon of a Dragon monster. The other Synchro Material(s) cannot be Level 4.",
     "release_date": "2009-03-03",
     "available_set": [
-        "DUELIST PACK - YUSEI 2 -",
+        "MYSTIC FIGHTERS",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
         "QUARTER CENTURY BONANZA",
         "PREMIUM GOLD: RETURN OF THE BLING",
         "ASTRAL PACK ONE",
-        "LEGENDARY COLLECTION 5D's MEGA PACK",
-        "STRUCTURE DECK : CYBERSE LINK",
-        "MYSTIC FIGHTERS",
-        "CRIMSON CRISIS",
         "TURBO PACK BOOSTER FOUR",
-        "DUEL TERMINAL 3"
+        "CRIMSON CRISIS",
+        "DUEL TERMINAL 3",
+        "DUELIST PACK - YUSEI 2 -",
+        "STRUCTURE DECK : CYBERSE LINK"
     ],
     "related_card": [],
     "attribute": "WIND",
     "attack": 1000,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

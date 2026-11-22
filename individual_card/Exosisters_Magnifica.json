@@ -4,9 +4,9 @@
     "card_text": "2 Rank 4 \"Exosister\" Xyz Monsters\nMust be Xyz Summoned with the above materials. Can make a second attack during each Battle Phase. Once per turn (Quick Effect): You can detach 1 material from this card; banish 1 card your opponent controls. Once per Chain, when your opponent activates a card or effect (Quick Effect): You can return 1 Xyz Monster you own attached to this card to your Extra Deck, then you can Special Summon that monster from your Extra Deck, using this card you control as material (this is treated as an Xyz Summon, transfer its materials).",
     "release_date": "2022-05-20",
     "available_set": [
-        "DIMENSION FORCE",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
         "MAGNIFICENT MONSTERS",
-        "25TH ANNIVERSARY RARITY COLLECTION 2"
+        "DIMENSION FORCE"
     ],
     "related_card": [
         "Exosister Arment",
@@ -30,7 +30,7 @@
     "attack": 2800,
     "defense": 2800,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

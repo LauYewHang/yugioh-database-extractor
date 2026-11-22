@@ -4,14 +4,14 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters from this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.",
     "release_date": "2010-05-11",
     "available_set": [
+        "DARKWING BLAST",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "Legendary 5D's Decks",
         "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
         "DUELIST PACK - CROW -",
-        "LEGENDARY COLLECTION 5D's MEGA PACK",
-        "Legendary 5D's Decks",
-        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
-        "COLLECTIBLE TIN 2010 WAVE 1",
         "THE SHINING DARKNESS",
-        "DARKWING BLAST"
+        "COLLECTIBLE TIN 2010 WAVE 1"
     ],
     "related_card": [
         "Black Feather Whirlwind",
@@ -29,7 +29,7 @@
     "attack": 2800,
     "defense": 1600,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

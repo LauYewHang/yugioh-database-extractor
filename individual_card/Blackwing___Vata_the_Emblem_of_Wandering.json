@@ -4,9 +4,9 @@
     "card_text": "If you control a \"Blackwing\" monster other than \"Blackwing - Vata the Emblem of Wandering\", you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Vata the Emblem of Wandering\" once per turn this way. During your Main Phase: You can send this card on the field to the GY along with 1 or more non-Tuner \"Blackwing\" monsters from your Deck, so that the total Levels sent equal exactly 8, and if you do, Special Summon 1 \"Black-Winged Dragon\" from your Extra Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Vata the Emblem of Wandering\" once per turn.",
     "release_date": "2022-10-21",
     "available_set": [
-        "Legendary 5D's Decks",
         "DARKWING BLAST",
-        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "Legendary 5D's Decks"
     ],
     "related_card": [
         "Against the Wind",
@@ -93,7 +93,7 @@
     "attack": 800,
     "defense": 0,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

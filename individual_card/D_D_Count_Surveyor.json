@@ -4,8 +4,8 @@
     "card_text": "You can discard 1 other \"D/D\" monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"D/D\" monster with 0 ATK or DEF from your Deck to your hand. You can only use each effect of \"D/D Count Surveyor\" once per turn.",
     "release_date": "2025-06-13",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
-        "RARITY COLLECTION 5"
+        "RARITY COLLECTION 5",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "D/D Ark",
@@ -88,7 +88,7 @@
     "attack": 2000,
     "defense": 2000,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 4098,
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "Once per turn, if you Pendulum Summon a \"D/D/D\" monster(s): You can target 3 monsters your opponent controls with the same Type or Attribute as each other; Tribute 2 of those 3 face-up monsters, and if you do, the third gains ATK/DEF equal to the total ATK/DEF the Tributed monsters had on the field.",

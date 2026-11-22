@@ -4,13 +4,13 @@
     "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
     "release_date": "2002-06-26",
     "available_set": [
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
-        "METAL RAIDERS (LC01 25th Anniversary Edition)",
         "DARK LEGENDS",
+        "MAZE OF MEMORIES",
         "METAL RAIDERS",
         "RETRO PACK",
-        "MAZE OF MEMORIES",
-        "SPEED DUEL GX: MIDTERM PARADOX"
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Arsenal Summoner",
@@ -29,7 +29,7 @@
     "attack": 3750,
     "defense": 3400,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 11
 }

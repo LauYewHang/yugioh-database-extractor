@@ -4,10 +4,10 @@
     "card_text": "\"Lunalight Panther Dancer\" + 2 \"Lunalight\" monsters\nMust be Fusion Summoned with the above Fusion Materials. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. Can make a second attack during each Battle Phase. Once per turn, at the end of the Damage Step, if this card attacked a monster: You can destroy all Special Summoned monsters your opponent controls.",
     "release_date": "2016-05-06",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
         "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
         "LEGENDARY ARC-V DECKS",
-        "SHINING VICTORIES"
+        "SHINING VICTORIES",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Luna Light Perfume",
@@ -38,7 +38,7 @@
     "attack": 3500,
     "defense": 3000,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

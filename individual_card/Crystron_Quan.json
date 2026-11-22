@@ -4,8 +4,8 @@
     "card_text": "During your opponent's Main or Battle Phase (Quick Effect): You can Special Summon 1 non-Tuner monster from your hand, but its effects are negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Machine Synchro Monster using only that monster and this card. You can only use this effect of \"Crystron Quan\" once per turn.",
     "release_date": "2016-11-04",
     "available_set": [
-        "QUARTER CENTURY STAMPEDE",
-        "INVASION: VENGEANCE"
+        "INVASION: VENGEANCE",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Crystolic Potential",
@@ -28,7 +28,7 @@
     "attack": 500,
     "defense": 500,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

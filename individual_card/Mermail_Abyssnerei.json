@@ -4,8 +4,8 @@
     "card_text": "(Quick Effect): You can discard this card, then target 1 WATER monster you control; destroy 1 other WATER monster in your hand or field, and if you do, the targeted monster gains ATK/DEF equal to the destroyed monster's original ATK/DEF, until the end of this turn. If this card is sent from the field to the GY: You can draw 1 card, then discard 1 card. You can only use each effect of \"Mermail Abyssnerei\" once per turn.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
     ],
     "related_card": [
         "Abyss-scale of Cetus",
@@ -38,7 +38,7 @@
     "attack": 1200,
     "defense": 2000,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,9 +4,9 @@
     "card_text": "If this card is Normal or Special Summoned: You can target 1 monster on the field; destroy it. Your opponent cannot target this card with card effects. If this card is destroyed by battle or card effect and sent to the GY: You can banish this card from your GY; Special Summon 1 Level 7 or lower \"Kozmo\" monster from your Deck.",
     "release_date": "2015-11-06",
     "available_set": [
-        "Gold Series: Maximum Gold",
         "PREMIUM GOLD: INFINITE GOLD",
-        "DIMENSION OF CHAOS"
+        "DIMENSION OF CHAOS",
+        "Gold Series: Maximum Gold"
     ],
     "related_card": [
         "Kozmo Dark Eclipser",
@@ -33,7 +33,7 @@
     "attack": 3000,
     "defense": 1800,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

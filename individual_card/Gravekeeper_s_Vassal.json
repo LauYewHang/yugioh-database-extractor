@@ -4,9 +4,9 @@
     "card_text": "Any battle damage this card inflicts to your opponent is treated as effect damage instead.",
     "release_date": "2003-07-18",
     "available_set": [
-        "PHARAONIC GUARDIAN",
-        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
         "DARK REVELATION Volume 1",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "PHARAONIC GUARDIAN",
         "SPEED DUEL STARTER DECK: DESTINY MASTERS"
     ],
     "related_card": [
@@ -36,7 +36,7 @@
     "attack": 700,
     "defense": 500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

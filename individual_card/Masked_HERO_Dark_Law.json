@@ -4,11 +4,11 @@
     "card_text": "Must be Special Summoned by \"Mask Change\". Any card sent to your opponent's GY is banished instead. Once per turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can banish 1 random card from your opponent's hand.",
     "release_date": "2015-01-30",
     "available_set": [
+        "HERO STRIKE STRUCTURE DECK",
         "LEGENDARY HERO DECKS",
         "MAZE OF MUERTOS",
         "25TH ANNIVERSARY RARITY COLLECTION",
         "OTS TOURNAMENT PACK 1",
-        "HERO STRIKE STRUCTURE DECK",
         "DUELIST SAGA"
     ],
     "related_card": [
@@ -80,7 +80,7 @@
     "attack": 2400,
     "defense": 1800,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

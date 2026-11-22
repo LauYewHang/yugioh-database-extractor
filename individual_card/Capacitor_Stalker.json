@@ -4,16 +4,16 @@
     "card_text": "When this card is Normal Summoned: You can target 1 other Cyberse monster you control; while this face-up monster is on the field, that monster gains 800 ATK. If this card in the Monster Zone is destroyed by a card effect and sent to the GY: Each player takes 800 damage. You can only use this effect of \"Capacitor Stalker\" once per turn.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
+        "2018 MEGA-TINS MEGA PACK",
         "STAR PACK: VRAINS",
-        "2018 MEGA-TINS MEGA PACK"
+        "CIRCUIT BREAK"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 2000,
     "defense": 1000,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

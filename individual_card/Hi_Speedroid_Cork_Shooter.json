@@ -4,8 +4,8 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects;\n\u25cfAdd 1 \"Speedroid\" Spell/Trap from your Deck to your hand.\n\u25cfIf all materials that were used for the Synchro Summon of this card were \"Speedroid\" monsters, and are all in your GY, Special Summon all of them.\nYou cannot Special Summon the turn you activate this effect, except WIND monsters. You can only use this effect of \"Hi-Speedroid Cork Shooter\" once per turn.",
     "release_date": "2021-10-29",
     "available_set": [
-        "LEGENDARY ARC-V DECKS  - bonus card",
         "LEGENDARY ARC-V DECKS",
+        "LEGENDARY ARC-V DECKS  - bonus card",
         "LEGENDARY DUELISTS: SYNCHRO STORM"
     ],
     "related_card": [
@@ -73,7 +73,7 @@
     "attack": 500,
     "defense": 1000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1042,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

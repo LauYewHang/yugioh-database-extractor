@@ -4,9 +4,9 @@
     "card_text": "1 Tuner + 1+ non-Tuner Dinosaur monsters\n\"Jurrac\" monsters you control gain 200 ATK for each \"Jurrac\" monster in your GY.",
     "release_date": "2010-05-25",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
         "HIDDEN ARSENAL 2",
-        "DUEL TERMINAL 2"
+        "DUEL TERMINAL 2",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "Jurrac Aeolo",
@@ -36,7 +36,7 @@
     "attack": 2100,
     "defense": 1800,
     "monster_type": "Dinosaur",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

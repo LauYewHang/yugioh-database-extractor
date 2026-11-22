@@ -4,14 +4,14 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nGains 100 ATK for each Warrior monster in the GYs. When this card is destroyed by battle and sent to the GY: You can target 1 Warrior monster in either GY; Special Summon that target.",
     "release_date": "2008-08-05",
     "available_set": [
-        "DUELIST LEAGUE 2010",
-        "QUARTER CENTURY BONANZA",
         "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST LEAGUE 2010",
         "VALIANT SMASHERS",
-        "5D's STARTER DECK 2008",
         "PREMIUM GOLD",
+        "QUARTER CENTURY BONANZA",
         "TURBO PACK BOOSTER FIVE",
-        "BATTLE PACK TOURNAMENT"
+        "BATTLE PACK TOURNAMENT",
+        "5D's STARTER DECK 2008"
     ],
     "related_card": [
         "Colossal Fighter/Assault Mode"
@@ -20,7 +20,7 @@
     "attack": 2800,
     "defense": 1000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

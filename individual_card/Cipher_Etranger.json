@@ -4,9 +4,9 @@
     "card_text": "If this card is in your hand or Graveyard: You can target 1 \"Cipher\" Xyz Monster you control; attach this card to it as an Xyz Material. If this card is sent to the Graveyard: You can add 1 \"Cipher\" Spell/Trap Card from your Deck to your hand. You can only use 1 \"Cipher Etranger\" effect per turn, and only once that turn.",
     "release_date": "2017-02-10",
     "available_set": [
+        "RAGING TEMPEST",
         "2017 MEGA-TINS MEGA PACK",
-        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
-        "RAGING TEMPEST"
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
     ],
     "related_card": [
         "Cipher Biplane",
@@ -30,7 +30,7 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

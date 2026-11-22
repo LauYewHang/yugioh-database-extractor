@@ -4,13 +4,13 @@
     "card_text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, also, after that, change this card to Defense Position.",
     "release_date": "2011-08-16",
     "available_set": [
-        "MASTER OF PENDULUM STRUCTURE DECK",
-        "SUPER STARTER V FOR VICTORY",
-        "GENERATION FORCE",
         "STARTER DECK XYZ SYMPHONY",
+        "GENERATION FORCE",
+        "SUPER STARTER V FOR VICTORY",
+        "MASTER OF PENDULUM STRUCTURE DECK",
+        "STRUCTURE DECK: POWERCODE LINK",
         "STAR PACK 2013",
-        "BATTLE PACK EPIC DAWN",
-        "STRUCTURE DECK: POWERCODE LINK"
+        "BATTLE PACK EPIC DAWN"
     ],
     "related_card": [
         "Goblin Biker Big Gabonga",
@@ -32,7 +32,7 @@
     "attack": 1400,
     "defense": 0,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

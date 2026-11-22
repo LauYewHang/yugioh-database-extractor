@@ -4,8 +4,8 @@
     "card_text": "2+ Effect Monsters, including a \"Madolche\" monster\nIf this card is Link Summoned: You can add 1 \"Madolche\" card from your Deck to your hand. You can target 1 monster in your GY; Special Summon 1 \"Madolche\" monster from your hand, and if you do, shuffle that target into the Deck, also you cannot activate monster effects for the rest of this turn, except \"Madolche\" monsters. You can only use each effect of \"Madolche Mini Meowcaroons\" once per turn.",
     "release_date": "2024-07-19",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "THE INFINITE FORBIDDEN"
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Madolche Anjelly",
@@ -41,7 +41,7 @@
     "attack": 2300,
     "defense": null,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 14
 }

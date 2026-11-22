@@ -4,8 +4,8 @@
     "card_text": "\"Dark Magician\" + 1 LIGHT or DARK monster\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) during the turn a Spell Card or effect is activated, by banishing 1 Level 6 or higher DARK Spellcaster monster you control as material. You can only Special Summon \"Dark Magician of Destruction\" once per turn this way, no matter which method you use. This card's name becomes \"Dark Magician\" while on the field or in the GY. If this card is Special Summoned: You can add 1 \"Dark Magician\" or 1 card that mentions it from your Deck to your hand.",
     "release_date": "2026-02-20",
     "available_set": [
-        "ULTIMATE TOURNAMENT PACK 2",
-        "MAZE OF MUERTOS"
+        "MAZE OF MUERTOS",
+        "ULTIMATE TOURNAMENT PACK 2"
     ],
     "related_card": [
         "Amulet Dragon",
@@ -74,7 +74,7 @@
     "attack": 2800,
     "defense": 2600,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

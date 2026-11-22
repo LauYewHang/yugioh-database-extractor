@@ -4,8 +4,8 @@
     "card_text": "2+ Cyberse monsters\nOnce per turn, before damage calculation, if your monster this card points to battles an opponent's monster with higher ATK than it: You can activate this effect; this battle, your monster cannot be destroyed by battle and you take no battle damage. After that damage calculation, have this card or 1 monster it points to gain ATK equal to the ATK of that battled opponent's monster, until the end of this turn.",
     "release_date": "2017-11-03",
     "available_set": [
-        "CROSSOVER BREAKERS",
-        "STRUCTURE DECK : CYBERSE LINK"
+        "STRUCTURE DECK : CYBERSE LINK",
+        "CROSSOVER BREAKERS"
     ],
     "related_card": [
         "Code Exporter",
@@ -25,7 +25,7 @@
     "attack": 2300,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 268
 }

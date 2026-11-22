@@ -4,12 +4,12 @@
     "card_text": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned. Once per turn: You can discard 1 card, then target 1 monster on the field with original ATK less than the ATK of this card; destroy that target.",
     "release_date": "2005-06-01",
     "available_set": [
-        "QUARTER CENTURY BONANZA",
+        "ELEMENTAL HERO COLLECTION 2",
         "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "QUARTER CENTURY BONANZA",
         "DARK REVELATION Volume 3",
         "THE LOST MILLENNIUM",
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
-        "ELEMENTAL HERO COLLECTION 2",
         "DUELIST PACK - JADEN YUKI -"
     ],
     "related_card": [
@@ -144,7 +144,7 @@
     "attack": 2400,
     "defense": 1500,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

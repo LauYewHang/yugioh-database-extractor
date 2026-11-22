@@ -4,8 +4,8 @@
     "card_text": "2 \"HERO\" monsters with different Attributes\nMust be Fusion Summoned. Monsters you control gain 200 ATK for each different Attribute you control. You can only use each of the following effects of \"Elemental HERO Sunrise\" once per turn.\n\u25cfIf this card is Special Summoned: You can add 1 \"Miracle Fusion\" from your Deck to your hand.\n\u25cfWhen an attack is declared involving another \"HERO\" monster you control: You can target 1 card on the field; destroy it.",
     "release_date": "2020-01-17",
     "available_set": [
-        "LEGENDARY DUELISTS: MAGICAL HERO",
         "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
         "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
@@ -232,7 +232,7 @@
     "attack": 2500,
     "defense": 1200,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

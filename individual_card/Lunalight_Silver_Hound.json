@@ -4,10 +4,10 @@
     "card_text": "If this card is sent to the GY by card effect: You can Special Summon 1 \"Lunalight\" monster from your Deck, except \"Lunalight Silver Hound\", but you cannot Special Summon from the Extra Deck, except \"Lunalight\" monsters, while you control that face-up monster. When a Spell/Trap Card or effect is activated on the field (Quick Effect): You can banish this card and 1 \"Lunalight\" Fusion Monster from your GY; negate the activation. You can only use each effect of \"Lunalight Silver Hound\" once per turn.",
     "release_date": "2025-07-04",
     "available_set": [
+        "LEGENDARY ARC-V DECKS",
         "LIMITED PACK WORLD CHAMPIONSHIP 2026",
-        "DUELIST'S ADVANCE",
         "OTS ULTIMATE TOURNAMENT PACK 1",
-        "LEGENDARY ARC-V DECKS"
+        "DUELIST'S ADVANCE"
     ],
     "related_card": [
         "Luna Light Perfume",
@@ -38,7 +38,7 @@
     "attack": 1400,
     "defense": 400,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -4,10 +4,10 @@
     "card_text": "2 \"Altergeist\" monsters\nGains ATK equal to the original ATK of each \"Altergeist\" monster it points to. When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 \"Altergeist\" monster this card points to; negate the activation, and if you do, destroy that card. If this card is sent from the field to the GY: You can add 1 \"Altergeist\" card from your Deck to your hand. You can only use this effect of \"Altergeist Hexstia\" once per turn.",
     "release_date": "2018-02-02",
     "available_set": [
-        "MAZE OF MILLENNIA",
-        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "2018 MEGA-TINS MEGA PACK",
         "EXTREME FORCE",
-        "2018 MEGA-TINS MEGA PACK"
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "MAZE OF MILLENNIA"
     ],
     "related_card": [
         "Altergeist Adminia",
@@ -39,7 +39,7 @@
     "attack": 1500,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 68
 }

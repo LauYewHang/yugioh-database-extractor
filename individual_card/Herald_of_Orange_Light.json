@@ -4,21 +4,21 @@
     "card_text": "When your opponent activates a monster effect (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.",
     "release_date": "2008-09-02",
     "available_set": [
-        "MAZE OF THE MASTER",
-        "OTS TOURNAMENT PACK 7",
-        "BATTLE PACK 3 MONSTER LEAGUE",
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
         "OTS TOURNAMENT PACK 20",
-        "THE DUELIST GENESIS",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
         "STRUCTURE DECK WAVE OF LIGHT",
-        "TURBO PACK BOOSTER SEVEN"
+        "TURBO PACK BOOSTER SEVEN",
+        "OTS TOURNAMENT PACK 7",
+        "THE DUELIST GENESIS",
+        "MAZE OF THE MASTER",
+        "BATTLE PACK 3 MONSTER LEAGUE"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 300,
     "defense": 500,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

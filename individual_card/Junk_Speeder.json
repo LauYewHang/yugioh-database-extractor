@@ -4,10 +4,10 @@
     "card_text": "1 \"Synchron\" Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can Special Summon as many \"Synchron\" Tuners as possible with different Levels from your Deck, in Defense Position. You cannot Special Summon from the Extra Deck, except Synchro Monsters, the turn you activate this effect. When an attack is declared involving this card that was Synchro Summoned this turn and another monster: You can make this card's ATK become double its original ATK until the end of this turn. You can only use each effect of \"Junk Speeder\" once per turn.",
     "release_date": "2018-08-31",
     "available_set": [
-        "Legendary 5D's Decks",
-        "2018 MEGA-TINS",
+        "25TH ANNIVERSARY RARITY COLLECTION",
         "OTS TOURNAMENT PACK 13",
-        "25TH ANNIVERSARY RARITY COLLECTION"
+        "2018 MEGA-TINS",
+        "Legendary 5D's Decks"
     ],
     "related_card": [
         "Accel Synchron",
@@ -58,7 +58,7 @@
     "attack": 1800,
     "defense": 1000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

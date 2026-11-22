@@ -4,9 +4,9 @@
     "card_text": "Once per turn: You can return 1 other monster you control to the hand; this card gains 500 ATK until the end of this turn.",
     "release_date": "2009-11-10",
     "available_set": [
+        "DUEL TERMINAL 1",
         "HIDDEN ARSENAL",
-        "HIDDEN ARSENAL CHAPTER 1",
-        "DUEL TERMINAL 1"
+        "HIDDEN ARSENAL CHAPTER 1"
     ],
     "related_card": [
         "Mist Condor",
@@ -17,7 +17,7 @@
     "attack": 1200,
     "defense": 1200,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 1026,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

@@ -5,10 +5,10 @@
     "release_date": "2019-07-12",
     "available_set": [
         "MAGNIFICENT MAVENS",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
         "GHOSTS FROM THE PAST",
-        "BATTLES OF LEGEND - CHAPTER 1",
         "OTS TOURNAMENT PACK 17",
-        "BATTLES OF LEGEND: HERO'S REVENGE"
+        "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
         "Arisen Gaia the Fierce Knight",
@@ -28,7 +28,7 @@
     "attack": 3000,
     "defense": null,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 3,
     "link_arrow": 266
 }

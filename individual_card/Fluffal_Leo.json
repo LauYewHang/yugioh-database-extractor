@@ -4,9 +4,9 @@
     "card_text": "When this card declares an attack: It gains 500 ATK until the end of the Battle Phase.",
     "release_date": "2014-11-07",
     "available_set": [
+        "STAR PACK BATTLE ROYAL",
         "2015 MEGA-TINS MEGA PACK",
-        "THE NEW CHALLENGERS",
-        "STAR PACK BATTLE ROYAL"
+        "THE NEW CHALLENGERS"
     ],
     "related_card": [
         "Dangerous Frightfur Nightmary",
@@ -40,7 +40,7 @@
     "attack": 1600,
     "defense": 1200,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

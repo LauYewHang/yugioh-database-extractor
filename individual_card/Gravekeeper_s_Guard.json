@@ -4,11 +4,11 @@
     "card_text": "FLIP: Target 1 monster your opponent controls; return that target to the hand.",
     "release_date": "2003-07-18",
     "available_set": [
+        "DARK REVELATION Volume 1",
         "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
         "PHARAONIC GUARDIAN",
-        "DARK REVELATION Volume 1",
-        "STRUCTURE DECK - MARIK -",
-        "SPEED DUEL: BATTLE CITY FINALS"
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "STRUCTURE DECK - MARIK -"
     ],
     "related_card": [
         "Charm of Shabti",
@@ -37,7 +37,7 @@
     "attack": 1000,
     "defense": 1900,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2050,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

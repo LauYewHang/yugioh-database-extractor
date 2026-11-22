@@ -6,11 +6,11 @@
     "available_set": [
         "BATTLES OF LEGEND: GLORIOUS GALLERY",
         "KING'S COURT",
-        "DUEL TERMINAL 7B",
-        "HIDDEN ARSENAL 7 KNIGHT OF STARS",
         "PREMIUM GOLD: INFINITE GOLD",
+        "DUELIST SAGA",
         "MAXIMUM GOLD: EL DORADO",
-        "DUELIST SAGA"
+        "DUEL TERMINAL 7B",
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS"
     ],
     "related_card": [
         "Constellar Acubens",
@@ -53,7 +53,7 @@
     "attack": 2700,
     "defense": 2000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 34,
     "level_rank_type": "Rank",
     "level_rank_rating": 6
 }

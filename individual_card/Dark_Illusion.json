@@ -4,9 +4,9 @@
     "card_text": "When a Spell/Trap Card, or monster effect, is activated that targets a DARK monster on the field: Negate the activation, and if you do, destroy that card.",
     "release_date": "2008-02-13",
     "available_set": [
-        "PHANTOM DARKNESS",
         "DESTINY SOLDIERS",
-        "STRUCTURE DECK - MARIK -"
+        "STRUCTURE DECK - MARIK -",
+        "PHANTOM DARKNESS"
     ],
     "related_card": [],
     "spell_trap_type": "Trap",

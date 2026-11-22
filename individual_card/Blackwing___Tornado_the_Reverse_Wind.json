@@ -4,9 +4,9 @@
     "card_text": "When this card is Normal Summoned while your opponent controls a Special Summoned monster: You can target 1 \"Blackwing\" Tuner in your GY; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Blackwing\" monsters, also Special Summon that monster, but its effects are negated.",
     "release_date": "2016-08-05",
     "available_set": [
-        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION",
         "OTS TOURNAMENT PACK 20",
-        "THE DARK ILLUSION"
+        "2017 MEGA-TINS MEGA PACK"
     ],
     "related_card": [
         "Against the Wind",
@@ -92,7 +92,7 @@
     "attack": 1000,
     "defense": 1200,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

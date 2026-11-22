@@ -4,9 +4,9 @@
     "card_text": "This card's name becomes \"Des Frog\" while on the field. Monsters your opponent controls cannot target monsters for attacks, except this one. When this card is sent from the field to the GY: You can add 1 \"Frog\" monster from your Deck or GY to your hand, except \"Dupe Frog\".",
     "release_date": "2009-03-03",
     "available_set": [
-        "OTS TOURNAMENT PACK 3",
         "BATTLES OF LEGEND: GLORIOUS GALLERY",
         "STRUCTURE DECK: FREEZING CHAINS",
+        "OTS TOURNAMENT PACK 3",
         "CRIMSON CRISIS"
     ],
     "related_card": [
@@ -32,7 +32,7 @@
     "attack": 100,
     "defense": 2000,
     "monster_type": "Aqua",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

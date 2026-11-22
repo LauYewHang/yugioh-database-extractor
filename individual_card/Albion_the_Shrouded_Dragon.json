@@ -4,11 +4,11 @@
     "card_text": "This card's name becomes \"Fallen of Albaz\" while on the field or in the GY. If this card is in your hand or GY: You can send 1 \"Fallen of Albaz\" or 1 \"Branded\" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.\n\u25cfHand: Special Summon this card.\n\u25cfDeck: Place this card on the bottom of the Deck, then if you placed this card from your hand, draw 1 card.\nYou can only use this effect of \"Albion the Shrouded Dragon\" once per turn.",
     "release_date": "2021-08-13",
     "available_set": [
-        "2022 TIN OF THE PHARAOH'S GODS",
-        "STRUCTURE DECK: ALBAZ STRIKE",
+        "DAWN OF MAJESTY",
         "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
         "RARITY COLLECTION 5",
-        "DAWN OF MAJESTY"
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "2022 TIN OF THE PHARAOH'S GODS"
     ],
     "related_card": [
         "Alba System Dogmatikalamity",
@@ -73,7 +73,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

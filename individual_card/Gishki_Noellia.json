@@ -4,8 +4,8 @@
     "card_text": "When this card is Normal Summoned: You can excavate the top 5 cards of your Deck, send any excavated Ritual Spell Cards and \"Gishki\" monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order.",
     "release_date": "2012-02-03",
     "available_set": [
-        "HIDDEN ARSENAL 6 OMEGA XYZ",
         "DUEL TERMINAL 6A",
+        "HIDDEN ARSENAL 6 OMEGA XYZ",
         "THE SECRET FORCES"
     ],
     "related_card": [
@@ -48,7 +48,7 @@
     "attack": 1700,
     "defense": 1000,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

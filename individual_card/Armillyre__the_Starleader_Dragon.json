@@ -4,15 +4,15 @@
     "card_text": "2 Effect Monsters\nCannot be used as Link Material. You can target 1 face-up monster this card points to; Special Summon 1 monster with the same original Level from your hand to your zone this card points to, in Defense Position, but negate its effects. You can only use this effect of \"Armillyre, the Starleader Dragon\" once per turn.",
     "release_date": "2020-03-20",
     "available_set": [
-        "RARITY COLLECTION 5",
-        "DUEL OVERLOAD"
+        "DUEL OVERLOAD",
+        "RARITY COLLECTION 5"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 1400,
     "defense": null,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

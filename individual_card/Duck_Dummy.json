@@ -4,15 +4,15 @@
     "card_text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.\n\u25cfCannot be destroyed by card effects. Neither player can target this card with card effects.\n\u25cfThe attacks from your opponent's monsters become direct attacks.",
     "release_date": "2017-10-20",
     "available_set": [
-        "CIRCUIT BREAK",
-        "2018 MEGA-TINS MEGA PACK"
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 0,
     "defense": 0,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 514,
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

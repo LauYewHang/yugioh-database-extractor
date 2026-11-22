@@ -5,10 +5,10 @@
     "release_date": "2017-10-20",
     "available_set": [
         "CIRCUIT BREAK",
-        "STAR PACK: VRAINS",
         "2018 MEGA-TINS MEGA PACK",
         "MAZE OF MILLENNIA",
-        "MAXIMUM GOLD: EL DORADO"
+        "MAXIMUM GOLD: EL DORADO",
+        "STAR PACK: VRAINS"
     ],
     "related_card": [
         "Altergeist Adminia",
@@ -40,7 +40,7 @@
     "attack": 800,
     "defense": 1500,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

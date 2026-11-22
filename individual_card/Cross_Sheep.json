@@ -4,19 +4,19 @@
     "card_text": "2 monsters with different names\nIf a monster is Special Summoned to a zone this card points to (except during the Damage Step): You can apply the following effects, in sequence, based on the card types of the monster(s) this card points to.\n\u25cfRitual: Draw 2 cards, then discard 2 cards.\n\u25cfFusion: Special Summon 1 Level 4 or lower monster from your GY.\n\u25cfSynchro: All monsters you control gain 700 ATK.\n\u25cfXyz: All monsters your opponent controls lose 700 ATK.\nYou can only use this effect of \"Cross-Sheep\" once per turn.",
     "release_date": "2020-01-31",
     "available_set": [
-        "Justice Hunters",
-        "RARITY COLLECTION 5",
-        "LEGENDARY ARC-V DECKS",
-        "IGNITION ASSAULT",
         "BATTLES OF LEGEND: ARMAGEDDON",
-        "2021 TIN OF ANCIENT BATTLES"
+        "Justice Hunters",
+        "IGNITION ASSAULT",
+        "LEGENDARY ARC-V DECKS",
+        "2021 TIN OF ANCIENT BATTLES",
+        "RARITY COLLECTION 5"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 700,
     "defense": null,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

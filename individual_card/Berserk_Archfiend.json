@@ -4,8 +4,8 @@
     "card_text": "You can target up to 2 face-up monsters you control, including a Fiend monster; Special Summon this card from your hand, and if you do, destroy those monsters. You can only use this effect of \"Berserk Archfiend\" once per turn. When a monster(s) is destroyed by this card's effect: You can target face-up monsters your opponent controls equal to the number destroyed; this card gains ATK equal to their combined original ATK, until the end of your next turn.",
     "release_date": "2024-02-09",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "PHANTOM NIGHTMARE"
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [
         "Archfiend Black Skull Dragon",
@@ -41,7 +41,7 @@
     "attack": 2000,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

@@ -4,9 +4,9 @@
     "card_text": "1 Tuner + 1+ non-Tuner WATER monsters\nYou can target any number of other face-up cards you control; return those targets to the hand, then, this card gains 500 ATK for each card returned to the hand by this effect, until the end of this turn. You can only use this effect of \"Dewloren, Tiger King of the Ice Barrier\" once per turn.",
     "release_date": "2010-05-25",
     "available_set": [
+        "STRUCTURE DECK: FREEZING CHAINS",
         "HIDDEN ARSENAL 2",
         "HIDDEN ARSENAL CHAPTER 1",
-        "STRUCTURE DECK: FREEZING CHAINS",
         "DUEL TERMINAL 2"
     ],
     "related_card": [
@@ -44,7 +44,7 @@
     "attack": 2000,
     "defense": 1400,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

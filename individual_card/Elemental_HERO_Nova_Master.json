@@ -4,11 +4,11 @@
     "card_text": "1 \"Elemental HERO\" monster + 1 FIRE monster\nMust be Fusion Summoned. If this card destroys an opponent's monster by battle: Draw 1 card.",
     "release_date": "2011-08-16",
     "available_set": [
-        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
         "GENERATION FORCE",
-        "BATTLES OF LEGEND - CHAPTER 1",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
+        "SPEED DUEL TOURNAMENT PACK 6",
         "SPEED DUEL GX: MIDTERM PARADOX",
-        "SPEED DUEL TOURNAMENT PACK 6"
+        "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
         "A Hero Lives",
@@ -185,7 +185,7 @@
     "attack": 2600,
     "defense": 2100,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

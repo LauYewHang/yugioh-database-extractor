@@ -4,12 +4,12 @@
     "card_text": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
     "release_date": "2008-01-26",
     "available_set": [
-        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
-        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
-        "MACHINA MAYHEM STRUCTURE DECK",
         "STRUCTURE DECK : LAIR OF DARKNESS",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
         "TURBO PACK BOOSTER ONE",
-        "DUELIST PACK - JESSE ANDERSON -"
+        "DUELIST PACK - JESSE ANDERSON -",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "MACHINA MAYHEM STRUCTURE DECK"
     ],
     "related_card": [],
     "spell_trap_type": "Spell",

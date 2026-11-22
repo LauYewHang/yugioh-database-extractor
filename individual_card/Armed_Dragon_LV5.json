@@ -4,15 +4,15 @@
     "card_text": "You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
     "release_date": "2004-10-01",
     "available_set": [
-        "SOUL OF THE DUELIST",
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
         "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "SOUL OF THE DUELIST",
         "DARK REVELATION Volume 3",
-        "DRAGUNITY LEGION STRUCTURE DECK",
         "STRUCTURE DECK DRAGON'S ROAR",
         "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "OTS TOURNAMENT PACK 15",
         "DUELIST PACK - CHAZZ PRINCETON -",
-        "OTS TOURNAMENT PACK 15"
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
     ],
     "related_card": [
         "Armed Dragon Blitz",
@@ -40,7 +40,7 @@
     "attack": 2400,
     "defense": 1700,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

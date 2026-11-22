@@ -4,14 +4,14 @@
     "card_text": "2+ Effect Monsters\nYour opponent cannot activate cards or effects in response to this card's effect activations. If this card is Link Summoned: You can target 1 Link Monster that was used as its Link Material; this card gains ATK equal to that monster's Link Rating x 1000. You can banish 1 Link Monster from your field or GY; destroy 1 card your opponent controls, also for the rest of this turn, you cannot banish monsters with that same Attribute to activate this effect of \"Accesscode Talker\".",
     "release_date": "2020-05-01",
     "available_set": [
-        "MAXIMUM GOLD: EL DORADO",
-        "ETERNITY CODE",
-        "LEGENDARY ARC-V DECKS",
-        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
         "25TH ANNIVERSARY RARITY COLLECTION 2",
-        "QUARTER CENTURY STAMPEDE",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
+        "MAXIMUM GOLD: EL DORADO",
+        "LEGENDARY ARC-V DECKS",
         "2025 MEGA-PACK TIN",
-        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+        "ETERNITY CODE",
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Code Exporter",
@@ -31,7 +31,7 @@
     "attack": 2300,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 4,
     "link_arrow": 340
 }

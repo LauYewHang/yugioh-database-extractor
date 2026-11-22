@@ -4,9 +4,9 @@
     "card_text": "During damage calculation (Quick Effect): You can discard this card; you take no battle damage from that battle. If this card is Summoned: Toss a coin.\n\u25cfHeads: Halve all battle damage you take.\n\u25cfTails: Halve all battle damage your opponent takes.",
     "release_date": "2008-05-13",
     "available_set": [
-        "LIGHT OF DESTRUCTION",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
         "BATTLE PACK EPIC DAWN",
-        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+        "LIGHT OF DESTRUCTION"
     ],
     "related_card": [
         "Arcana Call",
@@ -25,7 +25,7 @@
     "attack": 2400,
     "defense": 2400,
     "monster_type": "Fairy",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

@@ -4,8 +4,8 @@
     "card_text": "1 \"Genex\" Tuner + 1 or more non-Tuner DARK monsters\nWhen this card is Synchro Summoned, take control of the face-up monster your opponent controls with the highest Level. (If it's a tie, you get to choose.)",
     "release_date": "2010-09-25",
     "available_set": [
-        "HIDDEN ARSENAL 3",
-        "DUEL TERMINAL 3"
+        "DUEL TERMINAL 3",
+        "HIDDEN ARSENAL 3"
     ],
     "related_card": [
         "Arms of Genex Return Zero",
@@ -58,7 +58,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

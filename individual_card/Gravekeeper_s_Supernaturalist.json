@@ -4,8 +4,8 @@
     "card_text": "2 \"Gravekeeper's\" monsters\nGains ATK/DEF equal to the combined original Levels of the materials used for its Fusion Summon x 100. While \"Necrovalley\" is on the field, this card, and any card in your Field Zone, cannot be destroyed by card effects. During your Main Phase: You can activate this effect; during the End Phase of this turn, add 1 \"Gravekeeper's\" monster or 1 \"Necrovalley\" card from your Deck to your hand. You can only use this effect of \"Gravekeeper's Supernaturalist\" once per turn.",
     "release_date": "2018-10-19",
     "available_set": [
-        "SOUL FUSION",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
     ],
     "related_card": [
         "Charm of Shabti",
@@ -45,7 +45,7 @@
     "attack": 2000,
     "defense": 2000,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

@@ -4,8 +4,8 @@
     "card_text": "2 monsters\nCan only be Link Summoned while you have a \"World Legacy\" card in your GY. You can only use each of the following effects of \"Lib the World Key Blademaster\" once per turn.\n\u25cfDuring your Main Phase: You can Set 1 \"World Legacy\" Spell/Trap from your Deck, but it cannot be activated this turn while you have no \"World Legacy\" monster in your GY.\n\u25cfIf this Link Summoned card is sent to the GY as Link Material: You can shuffle 1 card on the field into the Deck.",
     "release_date": "2020-03-20",
     "available_set": [
-        "BATTLES OF LEGEND: MONSTER MAYHEM",
-        "DUEL OVERLOAD"
+        "DUEL OVERLOAD",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
     ],
     "related_card": [
         "The World Legacy",
@@ -48,7 +48,7 @@
     "attack": 2000,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 18
 }

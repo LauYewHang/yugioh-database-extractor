@@ -4,8 +4,8 @@
     "card_text": "Must be Special Summoned with \"Mask Change\". When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 Level 4 or lower \"HERO\" monster from your Deck.",
     "release_date": "2012-03-20",
     "available_set": [
-        "PREMIUM COLLECTION TIN",
-        "TOON CHAOS"
+        "TOON CHAOS",
+        "PREMIUM COLLECTION TIN"
     ],
     "related_card": [
         "Apparition",
@@ -192,7 +192,7 @@
     "attack": 2800,
     "defense": 3000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

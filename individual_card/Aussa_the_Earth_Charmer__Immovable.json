@@ -6,9 +6,9 @@
     "available_set": [
         "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
         "IGNITION ASSAULT",
-        "QUARTER CENTURY STAMPEDE",
+        "MAXIMUM GOLD: EL DORADO",
         "2021 TIN OF ANCIENT BATTLES",
-        "MAXIMUM GOLD: EL DORADO"
+        "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
         "Aussa the Earth Channeler",
@@ -39,7 +39,7 @@
     "attack": 1850,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

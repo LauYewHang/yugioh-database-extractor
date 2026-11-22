@@ -5,8 +5,8 @@
     "release_date": "2017-09-08",
     "available_set": [
         "LEGENDARY DUELISTS: SEASON 1",
-        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
-        "LEGENDARY DUELISTS"
+        "LEGENDARY DUELISTS",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
     ],
     "related_card": [
         "Sea Stealth Attack"
@@ -15,7 +15,7 @@
     "attack": 2350,
     "defense": 2150,
     "monster_type": "Fish",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

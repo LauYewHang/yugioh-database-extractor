@@ -4,15 +4,15 @@
     "card_text": "You can Special Summon this card (from your hand) by Tributing 1 Normal Summoned monster. You can only use each of the following effects of \"Gizmek Yata, the Gleaming Vanguard\" once per turn.\n\u25cfDuring your Main Phase, if this card was Normal or Special Summoned this turn, you can: Immediately after this effect resolves, Normal Summon 1 monster. If you do, you cannot Special Summon monsters for the rest of this turn, except monsters with the same original Type as that monster.\n\u25cfIf this card Special Summoned by its own effect is Tributed: Gain 2050 LP.",
     "release_date": "2019-10-25",
     "available_set": [
-        "2020 TIN OF LOST MEMORIES",
-        "CHAOS IMPACT"
+        "CHAOS IMPACT",
+        "2020 TIN OF LOST MEMORIES"
     ],
     "related_card": [],
     "attribute": "LIGHT",
     "attack": 2050,
     "defense": 2050,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

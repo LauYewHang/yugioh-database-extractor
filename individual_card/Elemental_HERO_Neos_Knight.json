@@ -4,8 +4,8 @@
     "card_text": "\"Elemental HERO Neos\" + 1 Warrior monster\nMust be Fusion Summoned. Gains ATK equal to half the original ATK of the Warrior Fusion Material used for its Fusion Summon, except \"Elemental HERO Neos\". Can make a second attack during each Battle Phase. Your opponent takes no battle damage from attacks involving this card.",
     "release_date": "2011-05-10",
     "available_set": [
-        "BATTLES OF LEGEND: HERO'S REVENGE",
         "EXTREME VICTORY",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
         "BATTLES OF LEGEND - CHAPTER 1"
     ],
     "related_card": [
@@ -145,7 +145,7 @@
     "attack": 2500,
     "defense": 1000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

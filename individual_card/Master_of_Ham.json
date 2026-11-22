@@ -4,15 +4,15 @@
     "card_text": "2 Beast monsters\nIf this card is Fusion Summoned or flipped face-up: You can Special Summon 1 Flip monster from your hand or Deck in face-down Defense Position. If this card is in your GY: You can banish 2 Flip monsters from your face-up field and/or GY; Special Summon this card in face-down Defense Position, but banish it when it leaves the field. You can only use each effect of \"Master of Ham\" once per turn.",
     "release_date": "2024-02-09",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "PHANTOM NIGHTMARE"
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [],
     "attribute": "EARTH",
     "attack": 2100,
     "defense": 1850,
     "monster_type": "Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

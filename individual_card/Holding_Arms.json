@@ -5,15 +5,15 @@
     "release_date": "2016-04-15",
     "available_set": [
         "LEGENDARY DUELISTS: RAGE OF RA",
-        "SPEED DUEL: BATTLE CITY FINALS",
-        "MILLENNIUM PACK"
+        "MILLENNIUM PACK",
+        "SPEED DUEL: BATTLE CITY FINALS"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 500,
     "defense": 1200,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

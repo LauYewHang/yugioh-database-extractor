@@ -4,12 +4,12 @@
     "card_text": "You can Special Summon this card (from your GY) by returning 1 \"Dark World\" monster you control to the hand, except \"Grapha, Dragon Lord of Dark World\". If this card is discarded to the GY by card effect: Target 1 card your opponent controls; destroy that target, then, if this card was discarded from your hand to your GY by an opponent's card effect, look at 1 random card in your opponent's hand, then, if it was a monster, you can Special Summon it to your field.",
     "release_date": "2011-10-18",
     "available_set": [
-        "GATES OF THE UNDERWORLD STRUCTURE DECK",
-        "PREMIUM GOLD: RETURN OF THE BLING",
-        "DUELIST LEAGUE 18",
-        "Gold Series: Maximum Gold",
-        "GOLD SERIES HAUNTED MINE",
         "STRUCTURE DECK: DARK WORLD",
+        "Gold Series: Maximum Gold",
+        "DUELIST LEAGUE 18",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "GOLD SERIES HAUNTED MINE",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
         "QUARTER CENTURY STAMPEDE"
     ],
     "related_card": [
@@ -51,7 +51,7 @@
     "attack": 2700,
     "defense": 1800,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

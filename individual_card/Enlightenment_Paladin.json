@@ -4,9 +4,9 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned using a \"Magician\" Pendulum Monster as material: You can target 1 Spell in your GY; add it to your hand. You can only use this effect of \"Enlightenment Paladin\" once per turn. When this card destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that monster's original ATK.",
     "release_date": "2016-01-15",
     "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES",
         "PENDULUM EVOLUTION",
-        "BREAKERS OF SHADOW",
-        "25TH ANNIVERSARY TIN: DUELING HEROES"
+        "BREAKERS OF SHADOW"
     ],
     "related_card": [
         "Acrobatic Magician",
@@ -38,7 +38,7 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

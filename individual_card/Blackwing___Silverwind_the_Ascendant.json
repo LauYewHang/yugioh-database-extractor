@@ -5,9 +5,9 @@
     "release_date": "2009-11-17",
     "available_set": [
         "LEGENDARY COLLECTION 5D's MEGA PACK",
-        "Legendary 5D's Decks",
+        "DUELIST PACK - CROW -",
         "STARDUST OVERDRIVE",
-        "DUELIST PACK - CROW -"
+        "Legendary 5D's Decks"
     ],
     "related_card": [
         "Against the Wind",
@@ -93,7 +93,7 @@
     "attack": 2800,
     "defense": 2000,
     "monster_type": "Winged Beast",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

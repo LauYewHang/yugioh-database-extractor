@@ -4,16 +4,16 @@
     "card_text": "When this card is Normal Summoned or Flip Summoned, destroy 1 face-up Dragon-Type monster on the field.",
     "release_date": "2002-10-01",
     "available_set": [
-        "DARK BEGINNING 2",
         "TOURNAMENT PACK 2ND SEASON",
-        "TOURNAMENT PACK 4"
+        "TOURNAMENT PACK 4",
+        "DARK BEGINNING 2"
     ],
     "related_card": [],
     "attribute": "DARK",
     "attack": 2000,
     "defense": 2100,
     "monster_type": "Fiend",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

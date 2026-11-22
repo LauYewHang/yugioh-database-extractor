@@ -4,8 +4,8 @@
     "card_text": "During either player's turn: You can banish this card from your hand or Graveyard, then target 1 \"Battlin' Boxer\" monster you control; banish it until your next Standby Phase.",
     "release_date": "2013-11-08",
     "available_set": [
-        "SHADOW SPECTERS",
-        "2014 MEGA-TINS MEGA PACK"
+        "2014 MEGA-TINS MEGA PACK",
+        "SHADOW SPECTERS"
     ],
     "related_card": [
         "Battlin' Boxer Big Bandage",
@@ -37,7 +37,7 @@
     "attack": 100,
     "defense": 1400,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

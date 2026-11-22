@@ -4,11 +4,11 @@
     "card_text": "1 Tuner + 1+ non-Tuner monsters\nThis card can make a second attack during each Battle Phase. At the start of the Damage Step, if this card battles: It gains 200 ATK. If this card is sent to the GY: You can target 1 of your banished \"Speedroid\" cards; add it to your hand. You can only Special Summon \"Hi-Speedroid Chanbara(s)\" once per turn.",
     "release_date": "2015-10-02",
     "available_set": [
-        "LEGENDARY DUELISTS: SYNCHRO STORM",
-        "HIGH-SPEED RIDERS",
-        "LEGENDARY ARC-V DECKS",
+        "OTS TOURNAMENT PACK 12",
         "SHADOWS IN VALHALLA",
-        "OTS TOURNAMENT PACK 12"
+        "LEGENDARY ARC-V DECKS",
+        "HIGH-SPEED RIDERS",
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
     ],
     "related_card": [
         "Ambulanceroid",
@@ -75,7 +75,7 @@
     "attack": 2000,
     "defense": 1000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

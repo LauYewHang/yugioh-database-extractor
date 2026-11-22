@@ -5,15 +5,15 @@
     "release_date": "2011-08-16",
     "available_set": [
         "GENERATION FORCE",
-        "STAR PACK 2013",
-        "SUPER STARTER V FOR VICTORY"
+        "SUPER STARTER V FOR VICTORY",
+        "STAR PACK 2013"
     ],
     "related_card": [],
     "attribute": "FIRE",
     "attack": 1200,
     "defense": 600,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

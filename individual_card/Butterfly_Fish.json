@@ -4,15 +4,15 @@
     "card_text": "If this card is sent to the GY to activate a monster effect: You can add this card to your hand. If a monster(s) is sent to your GY, except by battle, while this card is in your GY (except during the Damage Step): You can discard 1 card to the GY; Special Summon this card. You can only use 1 \"Butterfly Fish\" effect per turn, and only once that turn. You cannot Special Summon from the Extra Deck, except WATER monsters, the turn you activate either of this card's effects.",
     "release_date": "2024-10-11",
     "available_set": [
-        "2025 MEGA-PACK TIN",
-        "RAGE OF THE ABYSS"
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 700,
     "defense": 400,
     "monster_type": "Fish",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

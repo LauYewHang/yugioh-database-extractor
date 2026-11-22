@@ -4,11 +4,11 @@
     "card_text": "When this card is Normal Summoned: You can target 1 \"Gogogo\" monster in your GY; Special Summon that target in Defense Position, then change this card to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
     "release_date": "2012-01-24",
     "available_set": [
-        "ORDER OF CHAOS",
+        "STARTER DECK XYZ SYMPHONY",
         "NUMBER HUNTERS",
-        "LEGENDARY DUELISTS: MAGICAL HERO",
         "STAR PACK 2014",
-        "STARTER DECK XYZ SYMPHONY"
+        "ORDER OF CHAOS",
+        "LEGENDARY DUELISTS: MAGICAL HERO"
     ],
     "related_card": [
         "Dodododwarf Gogogoglove",
@@ -36,7 +36,7 @@
     "attack": 2000,
     "defense": 0,
     "monster_type": "Rock",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

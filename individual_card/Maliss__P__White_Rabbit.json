@@ -4,9 +4,9 @@
     "card_text": "You take no damage from battles involving \"Maliss\" Link Monsters that point to this card. You can only use each of the following effects of \"Maliss <P> White Rabbit\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Maliss\" Trap from your Deck with a different name than the cards in your GY. If this card is banished: You can pay 300 LP; Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
     "release_date": "2024-12-06",
     "available_set": [
-        "CROSSOVER BREAKERS",
         "RARITY COLLECTION 5",
-        "2025 MEGA-PACK TIN"
+        "2025 MEGA-PACK TIN",
+        "CROSSOVER BREAKERS"
     ],
     "related_card": [
         "Maliss <C> GWC-06",
@@ -25,7 +25,7 @@
     "attack": 1200,
     "defense": 300,
     "monster_type": "Cyberse",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

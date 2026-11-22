@@ -4,16 +4,16 @@
     "card_text": "A very agile half-fish warrior known for its relentless attacks.",
     "release_date": "2002-09-16",
     "available_set": [
-        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
         "SPEED DUEL: ATTACK FROM THE DEEP",
-        "SPELL RULER"
+        "SPELL RULER (LC01 25th Anniversary Edition)"
     ],
     "related_card": [],
     "attribute": "WATER",
     "attack": 1650,
     "defense": 1300,
     "monster_type": "Aqua",
-    "monster_card_type": "Normal",
+    "monster_card_type": 1,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

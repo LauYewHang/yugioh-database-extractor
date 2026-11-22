@@ -4,8 +4,8 @@
     "card_text": "2 LIGHT monsters, including a monster with 2000 or more ATK\nIf this card is Link Summoned: You can target 1 \"Photon\" or \"Galaxy\" monster in your GY; add it to your hand. During your opponent's Main Phase (Quick Effect): You can discard 1 \"Photon\" card and 1 \"Galaxy\" card, OR discard 1 \"Galaxy-Eyes Photon Dragon\", then target 1 Special Summoned monster your opponent controls; destroy it. You can only use each effect of \"Galaxy-Eyes Solflare Dragon\" once per turn.",
     "release_date": "2018-10-19",
     "available_set": [
-        "SOUL FUSION",
-        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
     ],
     "related_card": [
         "Accellight",
@@ -116,7 +116,7 @@
     "attack": 2000,
     "defense": null,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 8194,
     "link_rating": 2,
     "link_arrow": 10
 }

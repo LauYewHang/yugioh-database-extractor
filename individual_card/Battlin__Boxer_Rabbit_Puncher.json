@@ -4,9 +4,9 @@
     "card_text": "At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster.",
     "release_date": "2013-11-08",
     "available_set": [
-        "SHADOW SPECTERS",
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
         "2014 MEGA-TINS MEGA PACK",
-        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+        "SHADOW SPECTERS"
     ],
     "related_card": [
         "Battlin' Boxer Big Bandage",
@@ -36,7 +36,7 @@
     "attack": 800,
     "defense": 1000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

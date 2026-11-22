@@ -4,13 +4,13 @@
     "card_text": "You can only control 1 face-up \"Gravekeeper's Chief\". Your GY is unaffected by \"Necrovalley\". When this card is Tribute Summoned: You can target 1 \"Gravekeeper's\" monster in your GY; Special Summon that target.",
     "release_date": "2003-07-18",
     "available_set": [
-        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
-        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
-        "RETRO PACK 2",
         "DARK REVELATION Volume 1",
+        "CHAMPION PACK GAME THREE",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
         "PHARAONIC GUARDIAN",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
         "STRUCTURE DECK - MARIK -",
-        "CHAMPION PACK GAME THREE"
+        "RETRO PACK 2"
     ],
     "related_card": [
         "Charm of Shabti",
@@ -50,7 +50,7 @@
     "attack": 1900,
     "defense": 1200,
     "monster_type": "Spellcaster",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

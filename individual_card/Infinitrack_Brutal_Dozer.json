@@ -4,9 +4,9 @@
     "card_text": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. If this card is Special Summoned from the hand: You can Special Summon 1 \"Infinitrack\" monster from your Deck in Defense Position, except \"Infinitrack Brutal Dozer\", but negate its effects, also you cannot Special Summon for the rest of this turn, except EARTH Machine monsters. You can only use each effect of \"Infinitrack Brutal Dozer\" once per turn.",
     "release_date": "2019-10-25",
     "available_set": [
-        "MAGNIFICENT MAESTROS",
+        "CHAOS IMPACT",
         "2020 TIN OF LOST MEMORIES",
-        "CHAOS IMPACT"
+        "MAGNIFICENT MAESTROS"
     ],
     "related_card": [
         "Heavy Forward",
@@ -28,7 +28,7 @@
     "attack": 1900,
     "defense": 2100,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

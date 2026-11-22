@@ -4,10 +4,10 @@
     "card_text": "\"Elemental HERO Sparkman\" + \"Elemental HERO Necroshade\"\nMust be Fusion Summoned. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card attacks, change it to Defense Position at the end of the Damage Step. If this card is destroyed: Target 1 monster your opponent controls; destroy that target.",
     "release_date": "2007-08-15",
     "available_set": [
-        "DUEL TERMINAL 4",
-        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
         "TACTICAL EVOLUTION",
-        "SPEED DUEL GX: DUEL ACADEMY BOX"
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DUEL TERMINAL 4",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
     ],
     "related_card": [
         "A Hero Lives",
@@ -140,7 +140,7 @@
     "attack": 2000,
     "defense": 1000,
     "monster_type": "Warrior",
-    "monster_card_type": "Effect",
+    "monster_card_type": 10,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

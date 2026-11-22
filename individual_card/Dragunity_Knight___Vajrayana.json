@@ -4,9 +4,9 @@
     "card_text": "1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters\nWhen this card is Synchro Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. Once per turn: You can send 1 Equip Card equipped to this card to the GY; double this card's ATK until the end of this turn.",
     "release_date": "2010-11-16",
     "available_set": [
+        "SHADOWS IN VALHALLA",
         "STARSTRIKE BLAST",
         "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
-        "SHADOWS IN VALHALLA",
         "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
     ],
     "related_card": [
@@ -59,7 +59,7 @@
     "attack": 1900,
     "defense": 1200,
     "monster_type": "Dragon",
-    "monster_card_type": "Effect",
+    "monster_card_type": 18,
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

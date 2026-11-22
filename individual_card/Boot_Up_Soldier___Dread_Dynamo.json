@@ -4,8 +4,8 @@
     "card_text": "While you control a \"Gadget\" monster, this card gains 2000 ATK.",
     "release_date": "2007-01-17",
     "available_set": [
-        "STRUCTURE DECK MACHINE RE-VOLT",
-        "OTS TOURNAMENT PACK 11"
+        "OTS TOURNAMENT PACK 11",
+        "STRUCTURE DECK MACHINE RE-VOLT"
     ],
     "related_card": [
         "Ancient Gear Gadget",
@@ -28,7 +28,7 @@
     "attack": 0,
     "defense": 2000,
     "monster_type": "Machine",
-    "monster_card_type": "Effect",
+    "monster_card_type": 2,
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }
