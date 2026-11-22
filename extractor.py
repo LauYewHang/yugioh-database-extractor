@@ -34,7 +34,7 @@ def request_search_card(
         level: int | List[int] | None = None,
         pendulum_scale: int | List[int] | None = None,
         link_rating: int | List[int] | None = None,
-        link_arrow: LinkArrows | List[LinkArrows] | None = None,
+        link_arrow: LinkArrows_db | List[LinkArrows_db] | None = None,
         result_per_page: ResultsPerPage = ResultsPerPage["10"],
         sort_by: SortBy = SortBy["Sort by Name"],
         search_by: SearchBy = SearchBy["Card Name"],
@@ -192,10 +192,10 @@ def request_search_card(
         requestDuplicateParameterDict["Link"] = [(f"Link{item}", "on") for item in link_rating if type(item) is int]
 
     # check for link arrow
-    if (type(link_arrow) is LinkArrows):
+    if (type(link_arrow) is LinkArrows_db):
         requestDuplicateParameterDict["linkbtn"] = [(f"linkbtn{link_arrow.value}"), link_arrow.value]
     elif (type(link_arrow) is list):
-        requestDuplicateParameterDict["linkbtn"] = [(f"linkbtn{item.value}", item.value) for item in link_arrow if type(item) is LinkArrows]
+        requestDuplicateParameterDict["linkbtn"] = [(f"linkbtn{item.value}", item.value) for item in link_arrow if type(item) is LinkArrows_db]
 
 
     # combine the dictionaries and make a list of tuple
@@ -715,7 +715,7 @@ def extract_specific_card_information(
                     linkText = text.split("link")[-1]
                     # add all the value together (with respect to the bit representation)
                     for value in linkText:
-                        linkArrow += LinkArrows[value].value
+                        linkArrow += LinkArrows_db[value].value
                     break
             
             card = LinkMonsterCard(
@@ -795,7 +795,7 @@ def extract_specific_card_information(
     return card
 
 # parsing the card information into dict
-def parse_card_information(card: Card) -> dict:
+def parse_card_information(card: Card, bin: bool = False) -> dict:
     # convert object to dictionary for parsing as JSON
     # reference: https://stackoverflow.com/a/10252138/21952784
     card_dict = card.__dict__
@@ -810,13 +810,19 @@ def parse_card_information(card: Card) -> dict:
             # convert date to string format
             card_dict[key] = str(card_dict[key])
 
+    # if don't want binary conversion (for monster card type and link arrow direction)
+    # TODO: add code to output JSON file that doesn't have monster card type and link arrow direction as binary representation by default
+    if not bin:
+        pass
+
     return card_dict
 
 # convert card information into JSON and write it to a file
 def write_card_information(
         card_dict: dict,
         folder_path: str | None = None,
-        file_name: str | None = None
+        file_name: str | None = None,
+        bin: bool = False
     ):
 
     if (folder_path is None):
@@ -838,7 +844,8 @@ def write_card_information(
 def retrieve_all_cards(
         folder_path: str | None = "individual_card/",
         from_page: int = 1,
-        results_per_page: ResultsPerPage = ResultsPerPage["10"]
+        results_per_page: ResultsPerPage = ResultsPerPage["10"],
+        bin: bool = False
     ):
 
     try:
@@ -888,6 +895,84 @@ def retrieve_all_cards(
         file.close()
         retrieve_all_cards(from_page = currentPage, results_per_page = results_per_page)
 
+# convert existing JSON from bin to non-bin or vise versa
+def convert_bin_format(
+        folder_path: str = "individual_card_bin/",
+        new_folder_path: str = "individual_card/",
+        bin_to_nonbin: bool = True
+    ):
+
+    # TODO: implement bin_to_nonbin (non binary representation to binary representation)
+
+    # get the list of JSON files
+    jsonFileList = [file for file in os.listdir(folder_path) if file.endswith(".json")]
+
+    # iterate and change the content, then write to new file
+    for fileName in jsonFileList:
+        file = open(os.path.join(folder_path, fileName), mode = "r", encoding = "utf-8")
+        fileString = file.read()
+        file.close()
+
+        # parse card JSON to dictionary
+        cardDict: dict = json.loads(fileString)
+
+        monsterCardTypeList = []
+        linkArrowList = []
+        for key in cardDict.keys():
+            # the idea of converting from binary representation to list of values is,
+            # assume: ["left", "right", "front", "back"] corresponds to [1, 2, 4, 8]
+            # for int value, each value is equal to: 2**index
+            # then ["left", "front"] can be represented by: 1 + 4 = 5 = 0b0101
+            # we try deduct from the largest value first, since if the largest value help make up for the int value,
+            # it will be able to deduct, otherwise no
+            # e.g. 5 - 8 -> -3
+            # a negative value means the the enum doesn't help building the int value
+            # however, 5 - 4 -> 1
+            # when the value is deductable, we know the enum add up to this int
+            # we always start from the largest first, since starting from the smallest create ambiguaty,
+            # e.g.  5 - 1 = 4
+            #       4 - 2 = 2
+            # we will mistaken the value is made from "left" & "right" instead of the real "left" & "front"
+            # convert the monster card type int to list of string
+            if (key == "monster_card_type"):
+                monsterCardTypeInt = cardDict[key]
+                for value in range(len(MONSTER_CARD_TYPES), 0, -1):
+                    if (monsterCardTypeInt - (2 ** (value - 1)) >= 0):
+                        monsterCardTypeList.append(MonsterCardTypes[MONSTER_CARD_TYPES[value - 1]].name)
+                        monsterCardTypeInt -= (2 ** (value - 1))
+                cardDict[key] = monsterCardTypeList
+                continue
+            
+            # convert the link arrow int to list of string
+            if (key == "link_arrow"):
+                linkArrowInt = cardDict[key]
+                for value in range(len(availableLinkIndex), 0, -1):
+                    # for the link arrow, we cannot directly use:
+                    # 2 ** (value - 1)
+                    # like monster types
+                    # since link arrow representation is: [1, 2, 3, 4, 6, 7, 8, 9]
+                    # 5 is missing from the list, so we need to take the availableLinkIndex[value - 1]
+                    # in binary representation, 0b111101111
+                    # the position to represent 5 will always be empty (0)
+                    if (linkArrowInt - (2 ** (availableLinkIndex[value - 1])) >= 0):
+                        linkArrowList.append(LinkArrows[LINK_ARROW_DIRECTION[value - 1]].name)
+                        linkArrowInt -= (2 ** (availableLinkIndex[value - 1]))
+                cardDict[key] = linkArrowList
+                continue
+
+            # early break if both list is not empty
+            if (monsterCardTypeList != [] and linkArrowList != []):
+                break
+
+        # write to file
+        if (not os.path.exists(new_folder_path)):
+            os.makedirs(new_folder_path)
+
+        jsonSrting = json.dumps(cardDict, indent = 4)
+        writeFile = open(os.path.join(new_folder_path, f"{cardDict['filename']}.json"), mode = "w", encoding = "utf-8")
+        writeFile.write(jsonSrting)
+        writeFile.close()
+                
 if __name__ == "__main__":
     retrieve_all_cards()
     None
