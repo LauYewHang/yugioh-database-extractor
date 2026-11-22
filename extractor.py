@@ -727,7 +727,7 @@ def extract_specific_card_information(
                 attribute = MonsterAttributes[valueInformationList[0]],
                 attack = valueInformationList[2],
                 monster_type = MonsterTypes[monsterTypeList[0]],
-                monster_card_type = monsterCardTypeValue,
+                monster_card_type = monsterCardType,
                 # split "Link x" to ["Link", "x"]
                 link_rating = int(valueInformationList[1].split(' ')[-1]),
                 link_arrow = linkArrow
@@ -744,7 +744,7 @@ def extract_specific_card_information(
                 attack = valueInformationList[2],
                 defense = valueInformationList[3],
                 monster_type = MonsterTypes[monsterTypeList[0]],
-                monster_card_type = monsterCardTypeValue,
+                monster_card_type = monsterCardType,
                 # split "Level 4" to ["Level", "4"] to get level rank type and rating
                 level_rank_type = LevelRankTypes[valueInformationList[1].split(' ')[0]],
                 level_rank_rating = int(valueInformationList[1].split(' ')[-1])
@@ -784,7 +784,7 @@ def extract_specific_card_information(
             attack = valueInformationList[2],
             defense = valueInformationList[3],
             monster_type = MonsterTypes[monsterTypeList[0]],
-            monster_card_type = monsterCardTypeValue,
+            monster_card_type = monsterCardType,
             # split "Level 4" to ["Level", "4"] to get level rank type and rating
             level_rank_type = LevelRankTypes[valueInformationList[1].split(' ')[0]],
             level_rank_rating = int(valueInformationList[1].split(' ')[-1]),
