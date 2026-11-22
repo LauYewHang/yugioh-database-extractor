@@ -29,12 +29,18 @@ class Card:
     def name_to_filename(self):
         filename = ""
         for char in self.name:
-            charASCII = ord(char)
-            # a-z & A-Z & 0-9
-            if ((charASCII >= 65 and charASCII <= 90) or (charASCII >= 97 and charASCII <= 122) or (charASCII >= 48 and charASCII <= 57)):
+            # in Windows, file name is not case sensitive by default
+            # you may accidentally convert:
+            # 1. Rai-Mei
+            # 2. Raimei
+            # into RaiMei.json and Raimei.json
+            # but they will be treated as same file by Windows (same characters, even though different case)
+            # so, for every character that is not alphabet, instead of removing it, just convert it to '_'
+            if (char.isalnum()):
+                # if the character is alphabet or numeric (safe to save)
                 filename += char
-            # space converted to '_'
-            elif (charASCII == 32):
+            else:
+                # else, replace it with '_'
                 filename += '_'
 
         return filename
