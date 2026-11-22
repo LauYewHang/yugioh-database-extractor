@@ -1,0 +1,31 @@
+{
+    "name": "Megalith Notrah Plura",
+    "filename": "Megalith_Notrah_Plura",
+    "card_text": "You can Ritual Summon this card with a \"Megalith\" card. Must be Ritual Summoned using only Ritual Monsters. You can reveal this card in your hand; this turn, your opponent cannot activate cards or effects in response to the activation of your \"Megalith\" Ritual Monster effects. When your opponent activates a card or effect (Quick Effect): You can negate the activation, and if you do, destroy that card, then if that negated card or effect targeted a card(s) on the field, you can Tribute 1 monster your opponent controls. You can only use each effect of \"Megalith Notrah Plura\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Megalith Anastasis",
+        "Megalith Aratron",
+        "Megalith Bethor",
+        "Megalith Emergence",
+        "Megalith Hagith",
+        "Megalith Och",
+        "Megalith Ophiel",
+        "Megalith Phaleg",
+        "Megalith Phul",
+        "Megalith Phuloch",
+        "Megalith Portal",
+        "Megalith Promotion",
+        "Megalith Unformed"
+    ],
+    "attribute": "EARTH",
+    "attack": 3700,
+    "defense": 2700,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

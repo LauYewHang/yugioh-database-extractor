@@ -1,0 +1,19 @@
+{
+    "name": "Pendulum Machine",
+    "filename": "Pendulum_Machine",
+    "card_text": "A horrible torture machine with a large pendulum blade.",
+    "release_date": "2011-07-01",
+    "available_set": [
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "MILLENNIUM PACK",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1750,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Consecrated Light",
+    "filename": "Consecrated_Light",
+    "card_text": "Neither player can Normal or Special Summon DARK monsters or declare an attack with a DARK monster. This card cannot be destroyed by battle with a DARK monster, also you take no battle damage from that battle.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ASTRAL PACK FOUR",
+        "ABSOLUTE POWERFORCE",
+        "LOST SANCTUARY STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

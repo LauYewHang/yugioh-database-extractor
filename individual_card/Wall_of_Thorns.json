@@ -1,0 +1,13 @@
+{
+    "name": "Wall of Thorns",
+    "filename": "Wall_of_Thorns",
+    "card_text": "When a Plant-Type monster you control is targeted for an attack: Destroy all Attack Position monsters your opponent controls.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "ASTRAL PACK THREE",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "My Body as a Shield",
+    "filename": "My_Body_as_a_Shield",
+    "card_text": "When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field: Pay 1500 LP; negate the activation, and if you do, destroy it.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "GOLD SERIES 3",
+        "DARK REVELATION Volume 1",
+        "CHAMPION PACK GAME ONE",
+        "TURBO PACK BOOSTER TWO",
+        "DUEL TERMINAL 5A",
+        "OTS TOURNAMENT PACK 10"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

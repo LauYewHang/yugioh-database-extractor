@@ -1,0 +1,18 @@
+{
+    "name": "Escape from the Dark Dimension",
+    "filename": "Escape_from_the_Dark_Dimension",
+    "card_text": "Target 1 of your banished DARK monsters; Special Summon that target. When this card leaves the field, destroy that target, and if you do, banish it. When that target is destroyed, destroy this card.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "STRUCTURE DECK: SACRED BEASTS",
+        "PHANTOM DARKNESS",
+        "TURBO PACK BOOSTER FIVE",
+        "DESTINY SOLDIERS",
+        "DRAGONS COLLIDE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

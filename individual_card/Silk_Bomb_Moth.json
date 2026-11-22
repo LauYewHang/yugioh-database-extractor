@@ -1,0 +1,17 @@
+{
+    "name": "Silk Bomb Moth",
+    "filename": "Silk_Bomb_Moth",
+    "card_text": "If you have 2 or more WIND monsters in your GY and this card is in your hand: You can Special Summon this card, and if you do, shuffle 1 WIND monster from your GY into the Deck. If this card is Normal or Special Summoned: You can reveal the top card of your opponent's Deck, and apply the appropriate effect based on its card type.\n\u25cfMonster: Place it in your opponent's Spell & Trap Zone as a face-up Continuous Spell.\n\u25cfSpell/Trap: Banish it.\nYou can only use each effect of \"Silk Bomb Moth\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

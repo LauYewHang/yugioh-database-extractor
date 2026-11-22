@@ -1,0 +1,21 @@
+{
+    "name": "Phantom of Chaos",
+    "filename": "Phantom_of_Chaos",
+    "card_text": "Your opponent takes no battle damage from attacks involving this card. Once per turn: You can target 1 Effect Monster in your GY; banish that target, and if you do, until the End Phase, this card's name and original ATK become that monster's name and original ATK, and replace this effect with that monster's original effects.",
+    "release_date": "2007-12-12",
+    "available_set": [
+        "STRUCTURE DECK: SACRED BEASTS",
+        "GLADIATOR'S ASSAULT SPECIAL EDITION",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "BATTLE PACK EPIC DAWN",
+        "STRUCTURE DECK : LAIR OF DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

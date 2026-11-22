@@ -1,0 +1,36 @@
+{
+    "name": "Baelgrill de Nouvelles",
+    "filename": "Baelgrill_de_Nouvelles",
+    "card_text": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can negate the effects of all face-up cards your opponent currently controls (until the end of this turn), then, if this card was Special Summoned by the effect of a \"Nouvelles\" monster, you can Tribute as many monsters your opponent controls as possible. (Quick Effect): You can target 1 Attack Position monster your opponent controls; Tribute it, and if you do, Special Summon 1 \"Hungry Burger\" from your hand or Deck. You can only use each effect of \"Baelgrill de Nouvelles\" once per turn.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Balameuniere de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef de Nouvelles",
+        "Chef's Special Recipe",
+        "Concours de Cuisine (Culinary Confrontation)",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Hamburger Recipe",
+        "Hungry Burger",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Personnel (Staff Recipe)",
+        "Recette de Poisson (Fish Recipe)",
+        "Recette de Viande (Meat Recipe)",
+        "Voici la Carte (Today's Menu)"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1850,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Machina Irradiator",
+    "filename": "Machina_Irradiator",
+    "card_text": "You can discard 1 other \"Machina\" monster; Special Summon this card from your hand. You can target 1 Machine monster you control; Special Summon from your GY, 1 \"Machina\" monster with a different name and an equal or lower Level than that monster, and if you do, destroy that targeted monster. You can only use each effect of \"Machina Irradiator\" once per turn.",
+    "release_date": "2020-04-17",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS"
+    ],
+    "related_card": [
+        "Machina Air Raider",
+        "Machina Armored Unit",
+        "Machina Cannon",
+        "Machina Citadel",
+        "Machina Defender",
+        "Machina Defense Perimeter",
+        "Machina Force",
+        "Machina Fortress",
+        "Machina Gearframe",
+        "Machina Megaform",
+        "Machina Metalcruncher",
+        "Machina Overdrive",
+        "Machina Peacekeeper",
+        "Machina Possesstorage",
+        "Machina Redeployment",
+        "Machina Resavenger",
+        "Machina Ruinforce",
+        "Machina Sniper",
+        "Machina Soldier",
+        "Machina Unclaspare"
+    ],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 2400,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

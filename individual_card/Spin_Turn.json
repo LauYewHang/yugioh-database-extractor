@@ -1,0 +1,16 @@
+{
+    "name": "Spin Turn",
+    "filename": "Spin_Turn",
+    "card_text": "Activate 1 of the following effects.\n\u25cfTarget 1 EARTH Machine Xyz Monster you control in Attack Position and 1 monster your opponent controls; change the battle position of your monster, and if you do, destroy that opponent's monster.\n\u25cfTarget 1 EARTH Machine Xyz Monster you control in Defense Position and 1 Spell/Trap your opponent controls; change the battle position of your monster, and if you do, destroy that opponent's Spell/Trap.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Crusher Run",
+        "Infinitrack Drag Shovel"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

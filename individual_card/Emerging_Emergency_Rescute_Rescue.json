@@ -1,0 +1,14 @@
+{
+    "name": "Emerging Emergency Rescute Rescue",
+    "filename": "Emerging_Emergency_Rescute_Rescue",
+    "card_text": "If your LP is lower than your opponent's: Reveal 3 Beast monsters with 300 ATK and 100 DEF from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck. You can only activate 1 \"Emerging Emergency Rescute Rescue\" per turn.",
+    "release_date": "2017-06-09",
+    "available_set": [
+        "CODE OF THE DUELIST",
+        "MAXIMUM CRISIS SPECIAL EDITION",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

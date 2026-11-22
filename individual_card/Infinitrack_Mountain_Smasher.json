@@ -1,0 +1,25 @@
+{
+    "name": "Infinitrack Mountain Smasher",
+    "filename": "Infinitrack_Mountain_Smasher",
+    "card_text": "2 Level 7 monsters\nWhen this card destroys an opponent's monster by battle: You can attach that monster to this card as material. You can only use each of the following effects of \"Infinitrack Mountain Smasher\" once per turn.\n\u25cfYou can detach 1 material from this card; it gains 1000 ATK.\n\u25cfIf this card is in your GY: You can Tribute 1 Machine Link Monster; Special Summon this card in Defense Position.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Heavy Forward",
+        "Infinitrack Brutal Dozer",
+        "Infinitrack Goliath",
+        "Infinitrack Harvester",
+        "Infinitrack Trencher",
+        "Outrigger Extension"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 3100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 7
+}

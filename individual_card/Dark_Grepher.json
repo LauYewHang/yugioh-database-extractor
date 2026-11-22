@@ -1,0 +1,23 @@
+{
+    "name": "Dark Grepher",
+    "filename": "Dark_Grepher",
+    "card_text": "You can Special Summon this card (from your hand) by discarding 1 Level 5 or higher DARK monster. Once per turn: You can discard 1 DARK monster; send 1 DARK monster from your Deck to the GY.",
+    "release_date": "2008-01-26",
+    "available_set": [
+        "DUEL TERMINAL 6B",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK SAVIORS",
+        "TURBO PACK BOOSTER THREE",
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "PHANTOM DARKNESS Sneak Peek",
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

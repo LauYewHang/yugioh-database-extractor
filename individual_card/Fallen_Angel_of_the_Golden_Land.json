@@ -1,0 +1,26 @@
+{
+    "name": "Fallen Angel of the Golden Land",
+    "filename": "Fallen_Angel_of_the_Golden_Land",
+    "card_text": "\"Eldlich the Golden Lord\" + 1 Zombie monster\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 LIGHT Zombie monster, while you have \"Eldlich the Golden Lord\" in your field or GY. You can only Special Summon \"Fallen Angel of the Golden Land\" once per turn this way, no matter which method you use. If this card is sent from the field to the GY: You can Special Summon 1 \"Eldlich\" monster from your Deck, Extra Deck, or GY. You can only use this effect of \"Fallen Angel of the Golden Land\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Cursed Eldland",
+        "El Dorado Adelantado",
+        "Eldlich the Golden Lord",
+        "Eldlich the Mad Golden Lord",
+        "Eldlixir of Black Awakening",
+        "Eldlixir of Scarlet Sanguine",
+        "Eldlixir of the Glorious Golden Land",
+        "Eldlixir of White Destiny"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 2500,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

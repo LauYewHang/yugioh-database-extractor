@@ -1,0 +1,17 @@
+{
+    "name": "Abyss Warrior",
+    "filename": "Abyss_Warrior",
+    "card_text": "Once per turn: You can discard 1 WATER monster to the Graveyard, then target 1 monster in either player's Graveyard; return that target to either the top or bottom of the Deck.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 1300,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Ritual Buster",
+    "filename": "Ritual_Buster",
+    "card_text": "Activate only when a Ritual Monster is Ritual Summoned. Your opponent cannot activate any Spell or Trap Cards or use their effects until your next Standby Phase.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Aquamirror Illusion",
+        "Aquamirror Meditation",
+        "Evigishki Gustkraken",
+        "Evigishki Levianima",
+        "Evigishki Mind Augus",
+        "Evigishki Neremanas",
+        "Evigishki Soul Ogre",
+        "Evigishki Tetrogre",
+        "Focused Aquamirror",
+        "Forbidden Arts of the Gishki",
+        "Gishki Abyss",
+        "Gishki Aquamirror",
+        "Gishki Ariel",
+        "Gishki Avance",
+        "Gishki Beast",
+        "Gishki Emilia",
+        "Gishki Grimness",
+        "Gishki Marker",
+        "Gishki Natalia",
+        "Gishki Nekromirror",
+        "Gishki Noellia",
+        "Gishki Photomirror",
+        "Gishki Psychelone",
+        "Gishki Reliever",
+        "Gishki Shadow",
+        "Gishki Vanity",
+        "Gishki Vision",
+        "Gishki Zielgigas"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

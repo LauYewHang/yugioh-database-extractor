@@ -1,0 +1,34 @@
+{
+    "name": "Heraldic Beast Leo",
+    "filename": "Heraldic_Beast_Leo",
+    "card_text": "During the End Phase of the turn this card was Normal Summoned: Destroy this card. When this card is sent to the Graveyard: Add 1 \"Heraldic Beast\" monster from your Deck to your hand, except \"Heraldic Beast Leo\". You can only use this effect of \"Heraldic Beast Leo\" once per turn.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Advanced Heraldry Art",
+        "Augmented Heraldry",
+        "Charged-Up Heraldry",
+        "Heraldic Beast Aberconway",
+        "Heraldic Beast Amphisbaena",
+        "Heraldic Beast Basilisk",
+        "Heraldic Beast Berners Falcon",
+        "Heraldic Beast Eale",
+        "Heraldic Beast Gryphon",
+        "Heraldic Beast Stad Whale",
+        "Heraldic Beast Twin-Headed Eagle",
+        "Heraldic Beast Unicorn",
+        "Heraldry Change",
+        "Heraldry Reborn",
+        "Number 18: Heraldry Patriarch",
+        "Number 8: Heraldic King Genom-Heritage"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Solfachord Musica",
+    "filename": "Solfachord_Musica",
+    "card_text": "Activate 1 of these effects, based on the Pendulum Scales of \"Solfachord\" Pendulum Monster Cards you control;\n\u25cfOdd: Special Summon 1 face-up \"Solfachord\" Pendulum Monster with an odd Pendulum Scale from your Extra Deck.\n\u25cfEven: Special Summon 1 face-up \"Solfachord\" Pendulum Monster with an even Pendulum Scale from your Extra Deck.\n\u25cfEven and Odd: Target 1 card your opponent controls; destroy it.\nYou can only activate 1 \"Solfachord Musica\" per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "DoSolfachord Coolia",
+        "DoSolfachord Cutia",
+        "FaSolfachord Fancia",
+        "GranSolfachord Coolia",
+        "GranSolfachord Musecia",
+        "LaSolfachord Angelia",
+        "MiSolfachord Eliteia",
+        "ReSolfachord Dreamia",
+        "Solfachord Elegance",
+        "Solfachord Formal",
+        "Solfachord Happiness",
+        "Solfachord Harmonia",
+        "Solfachord Primoa",
+        "Solfachord Scale",
+        "Solfachord Solfegia",
+        "Solfachord Symphony",
+        "SolSolfachord Gracia",
+        "TiSolfachord Beautia"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

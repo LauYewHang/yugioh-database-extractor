@@ -1,0 +1,16 @@
+{
+    "name": "The A. Forces",
+    "filename": "The_A__Forces",
+    "card_text": "All Warrior-Type monsters you control gain 200 ATK for each Warrior or Spellcaster-Type monster you control.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "SAMURAI WARLORDS STRUCTURE DECK",
+        "SUPER STARTER V FOR VICTORY",
+        "DARK BEGINNING 2",
+        "SUPER STARTER SPACE-TIME SHOWDOWN Power-Up Pack"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

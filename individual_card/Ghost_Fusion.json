@@ -1,0 +1,34 @@
+{
+    "name": "Ghost Fusion",
+    "filename": "Ghost_Fusion",
+    "card_text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using only Zombie monsters you control as material. If your LP are lower than your opponent's, you can also banish up to 1 Zombie monster from your hand, Deck, or GY as material. You can only activate 1 \"Ghost Fusion\" per turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Ghost Sleeper, the Underworld Princess",
+        "Ghost Wyvern, the Underworld Dragon",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

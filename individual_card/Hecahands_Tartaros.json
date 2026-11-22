@@ -1,0 +1,26 @@
+{
+    "name": "Hecahands Tartaros",
+    "filename": "Hecahands_Tartaros",
+    "card_text": "Activate 1 of these effects (but you can only use each effect of \"Hecahands Tartaros\" once per turn);\n\u25cfIf you control a \"Hecahands\" monster: You can target 1 Spell/Trap your opponent controls; return it to the hand.\n\u25cfFusion Summon 1 \"Hecahands\" Fusion Monster from your Extra Deck, by banishing its materials from your field and/or GY. If you use a face-up monster you control that is owned by your opponent as material, you can treat it as a \"Hecahands\" monster.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "Hecahands Bait",
+        "Hecahands Breus",
+        "Hecahands Dandalos",
+        "Hecahands Gaigas",
+        "Hecahands Godos",
+        "Hecahands Ibtel",
+        "Hecahands Jauzah",
+        "Hecahands Mankibuel",
+        "Hecahands Xeno",
+        "Hecahands Yadel",
+        "Ib'al-Hecahands",
+        "The Hidden Hecahands",
+        "Yad'al-Hecahands"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

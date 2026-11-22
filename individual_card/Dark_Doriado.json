@@ -1,0 +1,21 @@
+{
+    "name": "Dark Doriado",
+    "filename": "Dark_Doriado",
+    "card_text": "If this card is Normal or Special Summoned: You can choose 4 monsters from your Deck (1 EARTH, 1 WATER, 1 FIRE, and 1 WIND), then place them on top of the Deck in any order.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "All EARTH, WATER, FIRE, and WIND monsters you control gain 200 ATK/DEF for every different Attribute among the monsters you control.",
+    "pendulum_scale": 5
+}

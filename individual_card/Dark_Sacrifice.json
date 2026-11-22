@@ -1,0 +1,12 @@
+{
+    "name": "Dark Sacrifice",
+    "filename": "Dark_Sacrifice",
+    "card_text": "When your opponent activates a card or effect that would destroy a card(s) on the field: Negate the effect, then send 1 Level 3 or lower DARK monster from your Deck to your GY.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

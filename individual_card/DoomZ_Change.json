@@ -1,0 +1,29 @@
+{
+    "name": "DoomZ Change",
+    "filename": "DoomZ_Change",
+    "card_text": "Destroy 1 \"DoomZ\" card in your hand, Deck, or face-up field, except \"DoomZ Change\". If this card is destroyed by card effect: You can add 1 \"DoomZ\" card from your GY to your hand, except \"DoomZ Change\", then you can Special Summon 1 \"DoomZ\" monster from your hand. You can only use each effect of \"DoomZ Change\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "DoomZ Break - Diactorus",
+        "DoomZ Command \"A.D.R.A.S.T.E.I.A.\"",
+        "DoomZ Command \"D.O.O.M.D.U.R.G.\"",
+        "DoomZ Destruction",
+        "DoomZ Raiders",
+        "DoomZ V Five - Amalthe",
+        "DoomZ VII Seven - Elara",
+        "DoomZ XII End - Drastrius",
+        "DoomZ XII Zero - Drastea",
+        "DoomZ XIII Over - Graflareio",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Power Patron DoomZ",
+        "Theorealize Past Lull"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

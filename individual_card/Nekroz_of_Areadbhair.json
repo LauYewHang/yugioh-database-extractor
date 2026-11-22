@@ -1,0 +1,42 @@
+{
+    "name": "Nekroz of Areadbhair",
+    "filename": "Nekroz_of_Areadbhair",
+    "card_text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, using monsters, and you cannot use Level 10 monsters. You can only use each of the following effects of \"Nekroz of Areadbhair\" once per turn.\n\u25cfYou can discard this card; Tribute up to 2 \"Nekroz\" monsters from your hand and/or field, and if you do, send that many \"Nekroz\" cards from your Deck to the GY.\n\u25cfWhen a monster effect is activated (Quick Effect): You can Tribute 1 monster from your hand or field; negate the activation, and if you do, banish that card.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Divinemirror",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Brionac",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "attribute": "WATER",
+    "attack": 3300,
+    "defense": 3200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Millennium-Eyes Restrict",
+    "filename": "Millennium_Eyes_Restrict",
+    "card_text": "\"Relinquished\" + 1 Effect Monster\nOnce per turn, when your opponent activates a monster effect (Quick Effect): You can target 1 Effect Monster in your opponent's field or GY; equip that target to this card you control. Gains ATK/DEF equal to that equipped monster's. Monsters with the same original name as that equipped monster cannot attack, also their effects are negated.",
+    "release_date": "2018-02-23",
+    "available_set": [
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "MAGNIFICENT MAVENS",
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Golden-Eyes Idol",
+        "Illusionist Faceless Magician",
+        "Millennium Ankh",
+        "Millennium-Eyes Illusionist",
+        "Relinquished",
+        "Relinquished Fusion",
+        "Sengenjin Wakes from a Millennium",
+        "Wedju Temple"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

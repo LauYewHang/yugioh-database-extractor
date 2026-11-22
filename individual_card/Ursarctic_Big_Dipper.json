@@ -1,0 +1,30 @@
+{
+    "name": "Ursarctic Big Dipper",
+    "filename": "Ursarctic_Big_Dipper",
+    "card_text": "Once per turn, if your \"Ursarctic\" monster would Tribute a monster(s) to activate its effect, you can banish 1 Level 7 or higher \"Ursarctic\" monster from your GY instead. Each time a monster(s) is Special Summoned, place 1 counter on this card. Once per turn, if a monster(s) is Special Summoned and an \"Ursarctic\" Synchro Monster is on the field (except during the Damage Step): You can remove all counters from this card (min. 7), then target 1 monster your opponent controls; take control of it.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Departure",
+        "Ursarctic Drytron",
+        "Ursarctic Grand Chariot",
+        "Ursarctic Megabilis",
+        "Ursarctic Megapolar",
+        "Ursarctic Megatanus",
+        "Ursarctic Mikbilis",
+        "Ursarctic Mikpolar",
+        "Ursarctic Miktanus",
+        "Ursarctic Polar Star",
+        "Ursarctic Polari",
+        "Ursarctic Quint Charge",
+        "Ursarctic Radiation",
+        "Ursarctic Septentrion",
+        "Ursarctic Slider"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

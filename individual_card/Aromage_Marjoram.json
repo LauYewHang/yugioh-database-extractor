@@ -1,0 +1,38 @@
+{
+    "name": "Aromage Marjoram",
+    "filename": "Aromage_Marjoram",
+    "card_text": "While your LP are higher than your opponent's, you take no battle damage from attacks involving your Plant monsters. You can only use each of the following effects of \"Aromage Marjoram\" once per turn.\n\u25cfWhen a Plant monster you control is destroyed by battle: You can Special Summon this card from your hand, then gain 500 LP.\n\u25cfIf you gain LP: Target cards in your opponent's GY, up to the number of \"Aroma\" monsters you control; banish them.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Aroma Blend",
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aroma Jar",
+        "Aromage Bergamot",
+        "Aromage Cananga",
+        "Aromage Jasmine",
+        "Aromage Laurel",
+        "Aromage Rosemary",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Aromaseraphy Jasmine",
+        "Aromaseraphy Rosemary",
+        "Aromaseraphy Sweet Marjoram",
+        "Blessed Winds",
+        "Dried Winds",
+        "Humid Winds"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1600,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

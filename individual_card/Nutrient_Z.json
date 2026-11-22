@@ -1,0 +1,13 @@
+{
+    "name": "Nutrient Z",
+    "filename": "Nutrient_Z",
+    "card_text": "During damage calculation, when you are about to take 2000 or more battle damage: Gain 4000 LP first.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "OTS TOURNAMENT PACK 8",
+        "LEGACY OF DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

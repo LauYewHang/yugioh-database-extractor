@@ -1,0 +1,35 @@
+{
+    "name": "Horus the Black Flame Dragon LV8",
+    "filename": "Horus_the_Black_Flame_Dragon_LV8",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Horus the Black Flame Dragon LV6\", and cannot be Special Summoned by other ways. During either player's turn, when a Spell Card is activated: You can negate the activation, and if you do, destroy it. You must control this face-up card to activate and to resolve this effect.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "DUELIST LEAGUE 17",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "ELEMENTAL ENERGY SPECIAL EDITION",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Canopic Protector",
+        "Duamutef, Blessing of Horus",
+        "Horus the Black Flame Deity",
+        "Horus the Black Flame Dragon LV6",
+        "Horus' Servant",
+        "King's Sarcophagus",
+        "Level Down!?",
+        "Level Modulation",
+        "Level Up!",
+        "Qebehsenuef, Protection of Horus",
+        "Silent Paladin",
+        "The Graveyard in the Fourth Dimension",
+        "Walls of the Imperial Tomb"
+    ],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

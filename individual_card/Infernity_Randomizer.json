@@ -1,0 +1,40 @@
+{
+    "name": "Infernity Randomizer",
+    "filename": "Infernity_Randomizer",
+    "card_text": "Once per turn, while you have no cards in your hand, you can draw 1 card and reveal it. For a Monster Card drawn with this effect, inflict damage to your opponent equal to the Level of that monster x 200. For a Spell or Trap Card, you take 500 damage.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Contract with the Void",
+        "Infernity Archfiend",
+        "Infernity Barrier",
+        "Infernity Break",
+        "Infernity Force",
+        "Infernity General",
+        "Infernity Inferno",
+        "Infernity Launcher",
+        "Infernity Mirage",
+        "Infernity Necromancer",
+        "Infernity Paranoia",
+        "Infernity Patriarch",
+        "Infernity Pawn",
+        "Infernity Reflector",
+        "Infernity Sage",
+        "Infernity Suppression",
+        "Infernity Wildcat",
+        "Phantom Hand",
+        "This Creepy Little Punk",
+        "Void Cauldron",
+        "Wave-Motion Inferno",
+        "ZERO-MAX"
+    ],
+    "attribute": "DARK",
+    "attack": 900,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

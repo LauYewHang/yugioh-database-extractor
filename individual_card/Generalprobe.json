@@ -1,0 +1,23 @@
+{
+    "name": "Generalprobe",
+    "filename": "Generalprobe",
+    "card_text": "Each time an effect of a \"Symphonic Warrior\" card is activated, place 1 Symphonic Counter on this card when that effect resolves. You can only use each of the following effects of \"Generalprobe\" once per turn. You can remove 3 Symphonic Counters from your field; add 1 \"Symphonic Warrior\" monster from your Deck to your hand. If you Normal or Special Summon a \"Symphonic Warrior\" monster(s) (except during the Damage Step): You can add 1 \"Symph Amplifire\" from your Deck to your hand.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Symph Amplifire",
+        "Symphonic Warrior Basses",
+        "Symphonic Warrior DJJ",
+        "Symphonic Warrior Drumss",
+        "Symphonic Warrior Guitaar",
+        "Symphonic Warrior Guitariss",
+        "Symphonic Warrior Miccs",
+        "Symphonic Warrior Piaano",
+        "Symphonic Warrior Rockks",
+        "Symphonic Warrior Synthess"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

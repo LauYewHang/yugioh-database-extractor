@@ -1,0 +1,13 @@
+{
+    "name": "Gorgon's Eye",
+    "filename": "Gorgon_s_Eye",
+    "card_text": "Until the end of this turn, all effects of Defense Position monsters are negated.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

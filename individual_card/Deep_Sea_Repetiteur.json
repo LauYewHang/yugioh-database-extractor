@@ -1,0 +1,19 @@
+{
+    "name": "Deep Sea Repetiteur",
+    "filename": "Deep_Sea_Repetiteur",
+    "card_text": "\"Deep Sea Diva\" + 1+ non-Tuner monsters\nOnce per turn (Quick Effect): You can discard 1 Level 4 or lower WATER monster; this card gains 800 ATK until the end of this turn. If this Synchro Summoned card is sent to your GY: You can target 1 Level 5 or higher WATER monster in your GY, except \"Deep Sea Repetiteur\"; Special Summon it in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only use this effect of \"Deep Sea Repetiteur\" once per turn.",
+    "release_date": "2022-03-11",
+    "available_set": [
+        "HIDDEN ARSENAL CHAPTER 1"
+    ],
+    "related_card": [
+        "Deep Sea Diva"
+    ],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

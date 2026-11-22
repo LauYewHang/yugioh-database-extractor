@@ -1,0 +1,18 @@
+{
+    "name": "Gillagillancer",
+    "filename": "Gillagillancer",
+    "card_text": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). During each End Phase: You take 500 damage. This card must be face-up on the field to activate and to resolve this effect.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

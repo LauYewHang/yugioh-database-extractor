@@ -1,0 +1,12 @@
+{
+    "name": "Psychic Rejuvenation",
+    "filename": "Psychic_Rejuvenation",
+    "card_text": "Gain 1000 Life Points for each face-up Psychic-Type monster you control.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

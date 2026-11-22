@@ -1,0 +1,17 @@
+{
+    "name": "Learning Elf",
+    "filename": "Learning_Elf",
+    "card_text": "If this card is Normal or Special Summoned: You can Set 1 Trap from your Deck with an effect that equips itself as an Equip Card. If this card is sent from the field to the GY: You can draw 1 card. You can only use each effect of \"Learning Elf\" once per turn.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

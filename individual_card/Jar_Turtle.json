@@ -1,0 +1,19 @@
+{
+    "name": "Jar Turtle",
+    "filename": "Jar_Turtle",
+    "card_text": "Each time \"Jar of Greed\" is activated, draw 1 card.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Jar of Greed"
+    ],
+    "attribute": "WATER",
+    "attack": 200,
+    "defense": 2100,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

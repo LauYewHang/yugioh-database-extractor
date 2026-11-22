@@ -1,0 +1,15 @@
+{
+    "name": "Tiki Soul",
+    "filename": "Tiki_Soul",
+    "card_text": "Special Summon this card as an Effect Monster (Rock/LIGHT/Level 4/ATK 1000/DEF 1800) (this card is also still a Trap). While this card is an Effect Monster, if another Trap Card you control that is a monster would be destroyed by your opponent's card and sent to your GY, you can Set it in the Spell & Trap Zone instead.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "GOLD SERIES HAUNTED MINE",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

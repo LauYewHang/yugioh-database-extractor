@@ -1,0 +1,19 @@
+{
+    "name": "Ghost Knight of Jackal",
+    "filename": "Ghost_Knight_of_Jackal",
+    "card_text": "When this card destroys an opponent's monster by battle and sends it to the GY: You can target that destroyed monster in your opponent's GY; Special Summon that target to your field in Defense Position.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1600,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

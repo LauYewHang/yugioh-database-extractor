@@ -1,0 +1,25 @@
+{
+    "name": "Ragnaraika Bloom",
+    "filename": "Ragnaraika_Bloom",
+    "card_text": "Insect, Plant, and Reptile monsters on the field gain 300 ATK/DEF, also all other monsters on the field lose 300 ATK/DEF. During your Main Phase: You can activate 1 of these effects;\n\u25cfAdd 1 \"Ragnaraika\" monster from your Deck to your hand, then discard 1 card.\n\u25cfSpecial Summon 1 of your \"Ragnaraika\" monsters from your hand, GY, or banishment, in Defense Position.\nYou can only use this effect of \"Ragnaraika Bloom\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ragnaraika Armored Lizard",
+        "Ragnaraika Chain Coils",
+        "Ragnaraika Hunting Dance",
+        "Ragnaraika Mantis Monk",
+        "Ragnaraika Samurai Beetle",
+        "Ragnaraika Selene Snapper",
+        "Ragnaraika Skeletal Soldier",
+        "Ragnaraika Stag Sovereign",
+        "Ragnaraika the Evil Seed",
+        "Ragnaraika Wicked Butterfly",
+        "Ragnaraika Wisteria of Woe"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

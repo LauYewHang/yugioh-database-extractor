@@ -1,0 +1,26 @@
+{
+    "name": "Earthbound Wave",
+    "filename": "Earthbound_Wave",
+    "card_text": "When your opponent activates a Spell/Trap Card while you control an \"Earthbound Immortal\" monster: Negate the activation, and if you do, destroy it.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Earthbound Immortal Aslla piscu",
+        "Earthbound Immortal Ccapac Apu",
+        "Earthbound Immortal Ccarayhua",
+        "Earthbound Immortal Chacu Challhua",
+        "Earthbound Immortal Cusillu",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Immortal Revival",
+        "Earthbound Immortal Uru",
+        "Earthbound Immortal Wiraqocha Rasca",
+        "Roar of the Earthbound Immortal",
+        "Ultimate Earthbound Immortal"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

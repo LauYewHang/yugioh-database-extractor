@@ -1,0 +1,36 @@
+{
+    "name": "Mementotlan Ghattic",
+    "filename": "Mementotlan_Ghattic",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 \"Memento\" card in your GY, except \"Mementotlan Ghattic\"; add it to your hand. If this card is sent to the GY by a \"Memento\" monster's effect: You can Special Summon this card. You can only use each effect of \"Mementotlan Ghattic\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Mementoal Tecuhtlica - Combined Creation",
+        "Mementomictlan",
+        "Mementomictlan Tecuhtlica - Creation King",
+        "Mementotlan Akihiron",
+        "Mementotlan Angwitch",
+        "Mementotlan Bone Back",
+        "Mementotlan Bone Party",
+        "Mementotlan Cranium Burst",
+        "Mementotlan Dark Blade",
+        "Mementotlan Fracture Dance",
+        "Mementotlan Fusion",
+        "Mementotlan Goblin",
+        "Mementotlan Mace",
+        "Mementotlan Shleepy",
+        "Mementotlan Tatsunootoshigo",
+        "Mementotlan Twin Dragon",
+        "Mementotlan-Horned Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 550,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

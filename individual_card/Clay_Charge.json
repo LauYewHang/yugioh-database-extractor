@@ -1,0 +1,17 @@
+{
+    "name": "Clay Charge",
+    "filename": "Clay_Charge",
+    "card_text": "When an \"Elemental HERO Clayman\" you control is targeted for an attack (even if it is face-down, but reveal it to your opponent in that case): Destroy the attacking monster and that \"Elemental HERO Clayman\", and inflict 800 damage to your opponent.",
+    "release_date": "2006-02-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "DUELIST PACK - JADEN YUKI -"
+    ],
+    "related_card": [
+        "Elemental HERO Clayman",
+        "Elemental HERO Spirit of Neos",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

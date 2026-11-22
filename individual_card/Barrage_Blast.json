@@ -1,0 +1,15 @@
+{
+    "name": "Barrage Blast",
+    "filename": "Barrage_Blast",
+    "card_text": "Once per turn, you can detach any number of materials from Machine Xyz Monsters you control, then target that many cards on the field; destroy them. If a Machine Xyz Monster(s) you control is destroyed by battle or an opponent's card effect while this card is in your GY: You can banish this card and 1 Machine Xyz Monster from your GY; inflict damage to your opponent equal to the banished monster's Rank x 200.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE"
+    ],
+    "related_card": [
+        "Superdreadnought Rail Cannon Flying Launcher"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

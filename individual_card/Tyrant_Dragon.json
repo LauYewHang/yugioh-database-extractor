@@ -1,0 +1,23 @@
+{
+    "name": "Tyrant Dragon",
+    "filename": "Tyrant_Dragon",
+    "card_text": "During your Battle Phase, if your opponent controls a monster after this card's first attack, this card can make a second attack. Negate any Trap effects that target this card on the field, and if you do, destroy that Trap. This card cannot be Special Summoned from the GY, unless you Tribute 1 Dragon monster.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "RETRO PACK 2",
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2900,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

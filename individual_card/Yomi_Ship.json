@@ -1,0 +1,25 @@
+{
+    "name": "Yomi Ship",
+    "filename": "Yomi_Ship",
+    "card_text": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "SPEED DUEL TOURNAMENT PACK 5",
+        "DARK REVELATION Volume 1",
+        "PHARAONIC GUARDIAN",
+        "DEMO DECK 2026",
+        "LEGENDARY DUELISTS",
+        "STARTER DECK KAIBA RELOADED",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 1400,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

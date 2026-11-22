@@ -1,0 +1,19 @@
+{
+    "name": "Spark Blaster",
+    "filename": "Spark_Blaster",
+    "card_text": "Equip only to \"Elemental HERO Sparkman\". During your Main Phase: You can target 1 face-up monster; change the battle position of that target. After you use this effect 3 times, destroy this card.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION",
+        "DUELIST PACK - JADEN YUKI -"
+    ],
+    "related_card": [
+        "Elemental HERO Sparkman",
+        "Elemental HERO Spirit of Neos",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

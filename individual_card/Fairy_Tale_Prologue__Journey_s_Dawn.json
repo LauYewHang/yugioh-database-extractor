@@ -1,0 +1,15 @@
+{
+    "name": "Fairy Tale Prologue: Journey's Dawn",
+    "filename": "Fairy_Tale_Prologue__Journey_s_Dawn",
+    "card_text": "Any battle damage a player takes is halved. If you control a LIGHT Beast monster or a Level 7 or 8 Dragon Synchro Monster: You can draw 1 card. You can only use this effect of \"Fairy Tale Prologue: Journey's Dawn\" once per turn. During your Standby Phase: You can send this card from the Field Zone to the GY; place 1 Field Spell from your hand or Deck face-up in your Field Zone, except \"Fairy Tale Prologue: Journey's Dawn\".",
+    "release_date": "2025-06-13",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Bat, the Forest Ninja",
+        "Wonko, Noble Knight of the Forest"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

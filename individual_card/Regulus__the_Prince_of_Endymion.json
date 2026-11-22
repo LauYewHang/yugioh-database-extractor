@@ -1,0 +1,26 @@
+{
+    "name": "Regulus, the Prince of Endymion",
+    "filename": "Regulus__the_Prince_of_Endymion",
+    "card_text": "The first time this card would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"Regulus, the Prince of Endymion\" once per turn. If this card is in your hand: You can reveal 1 other Spellcaster monster in your hand; you lose LP equal to the revealed monster's Level x 300, and if you do, Special Summon this card. If this card is Special Summoned: You can add 1 Spell that mentions \"Regulus, the Prince of Endymion\" from your Deck to your hand.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [
+        "Arrow of Regulus",
+        "Empire of Endymion",
+        "Magia Magic - Thunder of Judgment",
+        "Reflection of Endymion",
+        "Selene, Queen of the Master Magicians",
+        "Spell Power Attainment",
+        "Spell Power Mastery",
+        "Verre, the Maid of Endymion"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1300,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

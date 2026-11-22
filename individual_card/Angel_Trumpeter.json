@@ -1,0 +1,18 @@
+{
+    "name": "Angel Trumpeter",
+    "filename": "Angel_Trumpeter",
+    "card_text": "This beautiful, fairy-like flower generates a delusional mist to keep intruders away from the deepest parts of the forest, where sacred beasts dwell.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "SHINING VICTORIES"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 1600,
+    "monster_type": "Plant",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

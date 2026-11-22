@@ -1,0 +1,16 @@
+{
+    "name": "Pendulum Area",
+    "filename": "Pendulum_Area",
+    "card_text": "If all monsters you control are Pendulum Monsters (min. 1): Target 2 cards in your Pendulum Zones; destroy both cards, and if you do, neither player can Special Summon for the rest of this turn, except by Pendulum Summon.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Duelist Alliance",
+        "PenduLuMoon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

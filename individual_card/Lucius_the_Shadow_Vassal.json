@@ -1,0 +1,18 @@
+{
+    "name": "Lucius the Shadow Vassal",
+    "filename": "Lucius_the_Shadow_Vassal",
+    "card_text": "You can banish 1 Level 5 or higher monster from your GY; Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can look at all Set cards your opponent controls. Your opponent cannot activate cards or effects in response to this effect's activation. You can only use each effect of \"Lucius the Shadow Vassal\" once per turn.",
+    "release_date": "2016-01-29",
+    "available_set": [
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 28"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Hecahands Xeno",
+    "filename": "Hecahands_Xeno",
+    "card_text": "3 \"Hecahands\" monsters\nIf this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Hecahands Xeno\" once per turn. During the Main Phase (Quick Effect): You can look at 2 random face-down cards in your opponent's Extra Deck, then you can Special Summon 1 of them to your field. If this Fusion Summoned card you own and control is destroyed by your opponent's card effect: You can take control of any number of monsters your opponent controls.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "Hecahands Bait",
+        "Hecahands Breus",
+        "Hecahands Dandalos",
+        "Hecahands Gaigas",
+        "Hecahands Godos",
+        "Hecahands Ibtel",
+        "Hecahands Jauzah",
+        "Hecahands Mankibuel",
+        "Hecahands Tartaros",
+        "Hecahands Yadel",
+        "Ib'al-Hecahands",
+        "The Hidden Hecahands",
+        "Yad'al-Hecahands"
+    ],
+    "attribute": "DARK",
+    "attack": 3400,
+    "defense": 3500,
+    "monster_type": "Illusion",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

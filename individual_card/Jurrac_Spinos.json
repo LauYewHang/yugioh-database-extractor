@@ -1,0 +1,34 @@
+{
+    "name": "Jurrac Spinos",
+    "filename": "Jurrac_Spinos",
+    "card_text": "If this card destroys an opponent's monster by battle and sends it to the GY: Special Summon 1 \"Spinos Token\" (Dinosaur/FIRE/Level 1/ATK 300/DEF 0) in Attack Position to your opponent's field.",
+    "release_date": "2010-09-25",
+    "available_set": [
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "HIDDEN ARSENAL 3",
+        "DUEL TERMINAL 3"
+    ],
+    "related_card": [
+        "Jurrac Aeolo",
+        "Jurrac Astero",
+        "Jurrac Brachis",
+        "Jurrac Dino",
+        "Jurrac Giganoto",
+        "Jurrac Guaiba",
+        "Jurrac Herra",
+        "Jurrac Megalo",
+        "Jurrac Meteor",
+        "Jurrac Stauriko",
+        "Jurrac Stego",
+        "Jurrac Titano",
+        "Jurrac Velo",
+        "Jurrac Volcano"
+    ],
+    "attribute": "FIRE",
+    "attack": 2600,
+    "defense": 1700,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

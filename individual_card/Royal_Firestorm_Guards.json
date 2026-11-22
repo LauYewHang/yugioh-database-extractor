@@ -1,0 +1,22 @@
+{
+    "name": "Royal Firestorm Guards",
+    "filename": "Royal_Firestorm_Guards",
+    "card_text": "If this card is Normal Summoned: Target 4 Pyro monsters in your GY; shuffle all 4 into the Deck, then draw 2 cards.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "GOLD SERIES 2009",
+        "STRUCTURE DECK: FIRE KINGS",
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

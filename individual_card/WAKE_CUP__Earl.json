@@ -1,0 +1,17 @@
+{
+    "name": "WAKE CUP! Earl",
+    "filename": "WAKE_CUP__Earl",
+    "card_text": "FLIP: You can send face-up cards your opponent controls to the GY, up to the number of Flip monsters you control.\nIf this card is in your hand: You can discard 1 other Flip monster, and if you do, Special Summon this card in face-up Attack Position or face-down Defense Position. During your End Phase: You can target 1 Flip monster in your GY; Special Summon it in face-down Defense Position. You can only use each effect of \"WAKE CUP! Earl\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2700,
+    "defense": 400,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

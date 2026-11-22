@@ -1,0 +1,26 @@
+{
+    "name": "Spright Starter",
+    "filename": "Spright_Starter",
+    "card_text": "Special Summon 1 \"Spright\" monster from your Deck, but lose LP equal to its original ATK, also for the rest of this turn after this card resolves, you cannot Special Summon, except Level/Rank/Link 2 monsters. You can only activate 1 \"Spright Starter\" per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "RARITY COLLECTION 5",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Gigantic Spright",
+        "Spright Blue",
+        "Spright Carrot",
+        "Spright Double Cross",
+        "Spright Elf",
+        "Spright Gamma Burst",
+        "Spright Jet",
+        "Spright Pixies",
+        "Spright Red",
+        "Spright Smashers",
+        "Spright Sprind"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

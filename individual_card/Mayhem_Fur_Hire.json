@@ -1,0 +1,38 @@
+{
+    "name": "Mayhem Fur Hire",
+    "filename": "Mayhem_Fur_Hire",
+    "card_text": "Target 1 monster \"Fur Hire\" in your GY; Special Summon it in Defense Position. You can only activate 1 \"Mayhem Fur Hire\" per turn.",
+    "release_date": "2018-05-25",
+    "available_set": [
+        "DARK SAVIORS",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "MAZE OF MUERTOS",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Beat, Bladesman Fur Hire",
+        "Bravo, Fighter Fur Hire",
+        "Donner, Dagger Fur Hire",
+        "Donpa, Marksman Fur Hire",
+        "Dyna, Hero Fur Hire",
+        "Fandora, the Flying Fighting Furtress",
+        "Fandora, the Flying Furtress",
+        "Filo, Messenger Fur Hire",
+        "Folgo, Justice Fur Hire",
+        "Furtive Techniques Fur Hire, Fur All Your Ultimate Moves",
+        "Helmer, Helmsman Fur Hire",
+        "Keel, Shipwright Fur Hire",
+        "Rafale, Champion Fur Hire",
+        "Recon, Scout Fur Hire",
+        "Rex, Freight Fur Hire",
+        "Rex, Ride Fur Hire",
+        "Rookie Fur Hire",
+        "Sagitta, Maverick Fur Hire",
+        "Seal, Strategist Fur Hire",
+        "Training Fur Hire, Fur All Your Training Needs",
+        "Whirlwind Fur Hire",
+        "Wiz, Sage Fur Hire"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

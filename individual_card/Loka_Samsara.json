@@ -1,0 +1,23 @@
+{
+    "name": "Loka Samsara",
+    "filename": "Loka_Samsara",
+    "card_text": "Banish 1 face-up \"Visas Starfrost\" from your Monster Zone (until the End Phase); Special Summon 1 \"Heart\" monster with 3000 ATK from your Extra Deck, ignoring its Summoning conditions, but it can only activate its effects once while face-up on the field, also banish it face-down during the End Phase. If your opponent Special Summons a monster(s) from the Extra Deck, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use each effect of \"Loka Samsara\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Kashtira Arise-Heart",
+        "Mannadium Prime-Heart",
+        "New World Formation",
+        "Scareclaw Tri-Heart",
+        "Tearlaments Kaleido-Heart",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

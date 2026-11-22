@@ -1,0 +1,12 @@
+{
+    "name": "Return Soul",
+    "filename": "Return_Soul",
+    "card_text": "Activate only during the End Phase. You can return up to 3 monsters destroyed this turn from the Graveyard to their owners' Decks.",
+    "release_date": "2007-03-07",
+    "available_set": [
+        "DUELIST PACK - ZANE TRUESDALE -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

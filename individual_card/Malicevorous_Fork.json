@@ -1,0 +1,21 @@
+{
+    "name": "Malicevorous Fork",
+    "filename": "Malicevorous_Fork",
+    "card_text": "You can send 1 other Fiend-Type monster from your hand to the Graveyard; Special Summon this card from your hand.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Malicevorous Knife",
+        "Malicevorous Spoon"
+    ],
+    "attribute": "DARK",
+    "attack": 400,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

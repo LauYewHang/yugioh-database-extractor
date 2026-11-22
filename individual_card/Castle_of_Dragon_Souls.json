@@ -1,0 +1,14 @@
+{
+    "name": "Castle of Dragon Souls",
+    "filename": "Castle_of_Dragon_Souls",
+    "card_text": "Once per turn: You can banish 1 Dragon monster from your GY, then target 1 monster you control; it gains 700 ATK until the end of this turn (even if this card leaves the field). When this face-up card on the field is sent to the GY: You can target 1 of your banished Dragon monsters; Special Summon that target. You can only control 1 \"Castle of Dragon Souls\".",
+    "release_date": "2013-09-13",
+    "available_set": [
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

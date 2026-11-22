@@ -1,0 +1,28 @@
+{
+    "name": "Sylvan Cherubsprout",
+    "filename": "Sylvan_Cherubsprout",
+    "card_text": "When this card is Special Summoned: You can choose either 1 or 2, then excavate that many cards from the top of your Deck, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can Special Summon 1 Level 1 Plant-Type monster from your Deck. You can only use this effect of \"Sylvan Cherubsprout\" once per turn.",
+    "release_date": "2014-03-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT DELUXE EDITION",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Mount Sylvania",
+        "Sylvan Blessing",
+        "Sylvan Charity",
+        "Sylvan Flowerknight",
+        "Sylvan Lotuswain",
+        "Sylvan Princessprite",
+        "Sylvan Princessprout",
+        "Sylvan Sagequoia"
+    ],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

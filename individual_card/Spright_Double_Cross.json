@@ -1,0 +1,17 @@
+{
+    "name": "Spright Double Cross",
+    "filename": "Spright_Double_Cross",
+    "card_text": "Target 1 monster on the field or in either GY, then activate 1 of these appropriate effects;\n\u25cfAttach the targeted monster to 1 Rank 2 monster you control as material.\n\u25cfPlace the targeted monster your opponent controls in your zone your Link-2 monster points to, and take control of it.\n\u25cfSpecial Summon the targeted monster from either GY to your zone your Link-2 monster points to.\nYou can only activate 1 \"Spright Double Cross\" per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST"
+    ],
+    "related_card": [
+        "Spright Blue",
+        "Spright Jet",
+        "Spright Smashers",
+        "Spright Starter"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

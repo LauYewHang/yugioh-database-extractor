@@ -1,0 +1,21 @@
+{
+    "name": "Skelengel",
+    "filename": "Skelengel",
+    "card_text": "FLIP: Draw 1 card.",
+    "release_date": "2006-03-23",
+    "available_set": [
+        "STARTER DECK SABER FORCE (US)",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "5D's STARTER DECK 2009",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK 2006"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 900,
+    "defense": 400,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

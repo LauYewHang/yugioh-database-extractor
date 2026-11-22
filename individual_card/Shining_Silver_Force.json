@@ -1,0 +1,12 @@
+{
+    "name": "Shining Silver Force",
+    "filename": "Shining_Silver_Force",
+    "card_text": "Activate only when your opponent activates a Trap Card that inflicts damage. Negate the activation of that card and destroy it and all face-up Spell and Trap Cards your opponent controls.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

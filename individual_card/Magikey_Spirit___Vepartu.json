@@ -1,0 +1,33 @@
+{
+    "name": "Magikey Spirit - Vepartu",
+    "filename": "Magikey_Spirit___Vepartu",
+    "card_text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can detach 1 material from this card; add 1 Level 4 or higher Normal Monster from your Deck or GY to your hand. If this card has a Normal Monster as material, it gains this effect.\n\u25cfAt the start of the Damage Step, if this card battles an opponent's monster with the same Attribute as a Normal Monster or \"Magikey\" monster in your GY: You can detach 1 material from this card; your opponent must send that monster to the GY.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Clavkiys, the Magikey Skyblaster",
+        "Magikey Battle",
+        "Magikey Beast - Ansyalabolas",
+        "Magikey Deity - Ashtartu",
+        "Magikey Dragon - Andrabime",
+        "Magikey Duo",
+        "Magikey Fiend - Transfurlmine",
+        "Magikey Locking",
+        "Magikey Maftea",
+        "Magikey Mechmortar - Garesglasser",
+        "Magikey Mechmusket - Batosbuster",
+        "Magikey Unlocking",
+        "Magikey World",
+        "Maginificent Magikey Mafteal"
+    ],
+    "attribute": "WATER",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

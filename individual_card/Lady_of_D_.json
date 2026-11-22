@@ -1,0 +1,17 @@
+{
+    "name": "Lady of D.",
+    "filename": "Lady_of_D_",
+    "card_text": "Your opponent cannot target face-up Dragon-Type monsters you control for attacks. If this card on the field would be destroyed by battle or by a card effect, you can send 1 Dragon-Type monster from your hand to the Graveyard instead.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

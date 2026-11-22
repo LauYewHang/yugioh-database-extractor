@@ -1,0 +1,37 @@
+{
+    "name": "Crystal Tree",
+    "filename": "Crystal_Tree",
+    "card_text": "Each time a \"Crystal Beast\" monster(s) is placed in either player's Spell & Trap Zone, place 1 Crystal Counter on this card. You can send this card to the GY; take a number of \"Crystal Beast\" monsters from your Deck equal to the number of Crystal Counters that were on this card, and place them face-up in your Spell & Trap Zone as Continuous Spells.",
+    "release_date": "2008-01-26",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "DUELIST PACK - JESSE ANDERSON -"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Crystal Master",
+        "Golden Rule",
+        "Rainbow Bridge",
+        "Rainbow Bridge of the Heart"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

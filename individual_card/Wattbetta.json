@@ -1,0 +1,32 @@
+{
+    "name": "Wattbetta",
+    "filename": "Wattbetta",
+    "card_text": "When this card inflicts Battle Damage to your opponent by a direct attack, your opponent discards 1 card of their choice.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [
+        "Wattcancel",
+        "Wattcastle",
+        "Wattchimera",
+        "Wattcobra",
+        "Wattdragonfly",
+        "Watthopper",
+        "Watthydra",
+        "Wattkeeper",
+        "Wattkey",
+        "Wattkingdom",
+        "Wattkiwi",
+        "Wattkyuki",
+        "Wattrain",
+        "Wattuna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 0,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

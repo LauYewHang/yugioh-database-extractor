@@ -1,0 +1,23 @@
+{
+    "name": "Sinister Serpent",
+    "filename": "Sinister_Serpent",
+    "card_text": "During your Standby Phase, if this card is in your GY: You can return it to your hand, also banish 1 \"Sinister Serpent\" from your GY during your opponent's next End Phase. You can only use this effect of \"Sinister Serpent\" once per turn.",
+    "release_date": "2003-04-15",
+    "available_set": [
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "Yu-Gi-Oh! Worldwide Edition - Stairway to the Destined Duel - Bundles",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 250,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Kashtira Birth",
+    "filename": "Kashtira_Birth",
+    "card_text": "You can Normal Summon Level 7 monsters without Tributing. During your Main Phase: You can Special Summon 1 of your non-Xyz \"Kashtira\" monsters that is banished or in your GY. If your opponent activates a Spell Card or effect, and you control a \"Kashtira\" monster: You can target 3 cards in your opponent's GY; banish them, face-down. You can only use each effect of \"Kashtira Birth\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Kashtira Akstra",
+        "Kashtira Arise-Heart",
+        "Kashtira Big Bang",
+        "Kashtira Fenrir",
+        "Kashtira Ogre",
+        "Kashtira Overlap",
+        "Kashtira Preparations",
+        "Kashtira Riseheart",
+        "Kashtira Shangri-Ira",
+        "Kashtira Unicorn",
+        "Kashtiratheosis",
+        "Pressured Planet Wraitsoth",
+        "Scareclaw Kashtira",
+        "Tearlaments Kashtira"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

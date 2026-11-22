@@ -1,0 +1,42 @@
+{
+    "name": "Altergeist Pookuery",
+    "filename": "Altergeist_Pookuery",
+    "card_text": "If an \"Altergeist\" monster you control would be used as Link Material for an \"Altergeist\" monster, this card in your hand can also be used as material. You can only use this effect of \"Altergeist Pookuery\" once per turn. If an \"Altergeist\" Link Monster is Link Summoned to your field, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use this effect of \"Altergeist Pookuery\" once per Duel.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Altergeist Adminia",
+        "Altergeist Camouflage",
+        "Altergeist Dragvirion",
+        "Altergeist Emulatelf",
+        "Altergeist Failover",
+        "Altergeist Fifinellag",
+        "Altergeist Fijialert",
+        "Altergeist Haunted Rock",
+        "Altergeist Hexstia",
+        "Altergeist Kidolga",
+        "Altergeist Kunquery",
+        "Altergeist Malwisp",
+        "Altergeist Manifestation",
+        "Altergeist Marionetter",
+        "Altergeist Meluseek",
+        "Altergeist Memorygant",
+        "Altergeist Multifaker",
+        "Altergeist Peritrator",
+        "Altergeist Pixiel",
+        "Altergeist Primebanshee",
+        "Altergeist Protocol",
+        "Altergeist Revitalization",
+        "Altergeist Silquitous",
+        "Personal Spoofing"
+    ],
+    "attribute": "DARK",
+    "attack": 300,
+    "defense": 100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

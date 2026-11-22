@@ -1,0 +1,18 @@
+{
+    "name": "Jester Lord",
+    "filename": "Jester_Lord",
+    "card_text": "While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell & Trap Card Zones.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "DUEL TERMINAL 4",
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

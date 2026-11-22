@@ -1,0 +1,17 @@
+{
+    "name": "Cockroach Knight",
+    "filename": "Cockroach_Knight",
+    "card_text": "When this card has been sent to the Graveyard, it is returned to the top of the Deck.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "TOURNAMENT PACK 1ST SEASON"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 900,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

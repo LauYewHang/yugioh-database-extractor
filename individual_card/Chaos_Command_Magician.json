@@ -1,0 +1,22 @@
+{
+    "name": "Chaos Command Magician",
+    "filename": "Chaos_Command_Magician",
+    "card_text": "Negate any monster effects that target this 1 card.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "DARK REVELATION Volume 1",
+        "TOURNAMENT PACK 7",
+        "LEGENDARY DUELISTS: SEASON 3"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 1900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

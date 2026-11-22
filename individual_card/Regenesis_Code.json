@@ -1,0 +1,23 @@
+{
+    "name": "Regenesis Code",
+    "filename": "Regenesis_Code",
+    "card_text": "Special Summon 1 \"Regenesis\" monster from your Deck (but send it to the GY during your opponent's End Phase), also until the end of the next turn after this card resolves, you cannot Special Summon from the Extra Deck. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish it, then target 1 of your banished \"Regenesis\" monsters; Special Summon it. You can only use each effect of \"Regenesis Code\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Regenesis",
+        "Regenesis Archfiend",
+        "Regenesis Birth",
+        "Regenesis Commands",
+        "Regenesis Cycle",
+        "Regenesis Dragon",
+        "Regenesis Lord",
+        "Regenesis Overlord",
+        "Regenesis Sage",
+        "Regenesis Warrior"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Gunkan Suship Shirauo-class Carrier",
+    "filename": "Gunkan_Suship_Shirauo_class_Carrier",
+    "card_text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can apply these effects, in sequence, based on the materials used. You can only use this effect of \"Gunkan Suship Shirauo-class Carrier\" once per turn.\n\u25cf\"Gunkan Suship Shari\": Draw 1 card.\n\u25cf\"Gunkan Suship Shirauo\": Add 1 \"Gunkan\" Spell/Trap from your Deck to your hand.\nWhile a face-up card is in a Field Zone, \"Gunkan\" monsters you control Special Summoned from the Extra Deck cannot be destroyed by your opponent's card effects, and gain ATK equal to their original DEF.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Gunkan Suship Catch-of-the-Day",
+        "Gunkan Suship Daily Special",
+        "Gunkan Suship Ikura",
+        "Gunkan Suship Ikura-class Dreadnought",
+        "Gunkan Suship Shari",
+        "Gunkan Suship Shari Red",
+        "Gunkan Suship Shirauo",
+        "Gunkan Suship Uni",
+        "Gunkan Suship Uni-class Super-Dreadnought",
+        "Gunkan Sushipyard Seaside Supper Spot"
+    ],
+    "attribute": "FIRE",
+    "attack": 2200,
+    "defense": 250,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

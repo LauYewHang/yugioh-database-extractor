@@ -1,0 +1,30 @@
+{
+    "name": "Appliancer Kappa Scale",
+    "filename": "Appliancer_Kappa_Scale",
+    "card_text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. You can Tribute this co-linked card; Special Summon 1 \"Appliancer\" Link Monster from your GY, except \"Appliancer Kappa Scale\". You can Tribute this card that is not co-linked; Special Summon 1 Level 4 or lower \"Appliancer\" monster from your GY. You can only use each effect of \"Appliancer Kappa Scale\" once per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Appliancer Breakerbuncle",
+        "Appliancer Celtopus",
+        "Appliancer Conversion",
+        "Appliancer Copybokkle",
+        "Appliancer Dryer Drake",
+        "Appliancer Electrilyrical World",
+        "Appliancer Laundry Dragon",
+        "Appliancer Propelion",
+        "Appliancer Reuse",
+        "Appliancer Socketroll",
+        "Appliancer Test",
+        "Appliancer Vacculephant"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 256
+}

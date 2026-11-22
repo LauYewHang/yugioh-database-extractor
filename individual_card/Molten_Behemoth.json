@@ -1,0 +1,17 @@
+{
+    "name": "Molten Behemoth",
+    "filename": "Molten_Behemoth",
+    "card_text": "A giant born from magma, it attacks with a magma punch.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 2200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

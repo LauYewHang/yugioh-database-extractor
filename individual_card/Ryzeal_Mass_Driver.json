@@ -1,0 +1,24 @@
+{
+    "name": "Ryzeal Mass Driver",
+    "filename": "Ryzeal_Mass_Driver",
+    "card_text": "Apply the following effect, then you can attach this card to a Rank 4 Xyz Monster you control.\n\u25cfFor the rest of this turn, all \"Ryzeal\" monsters you control gain 1000 ATK.\nIf this card is sent to the GY, except from the field: You can target 1 card in your opponent's GY; banish it. You can only use each effect of \"Ryzeal Mass Driver\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Ext Ryzeal",
+        "Ice Ryzeal",
+        "Node Ryzeal",
+        "Palm Ryzeal",
+        "Ryzeal Cross",
+        "Ryzeal Detonator",
+        "Ryzeal Duo Drive",
+        "Ryzeal Plasma Hole",
+        "Ryzeal Plugin",
+        "Star Ryzeal",
+        "Sword Ryzeal"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

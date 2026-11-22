@@ -1,0 +1,28 @@
+{
+    "name": "Bystial Druiswurm",
+    "filename": "Bystial_Druiswurm",
+    "card_text": "You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If this card is sent from the field to the GY: You can target 1 Special Summoned monster your opponent controls; send it to the GY. You can only use each effect of \"Bystial Druiswurm\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "DARKWING BLAST",
+        "2025 MEGA-PACK TIN",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Branded Beast",
+        "Branded Befallen",
+        "Branded Regained",
+        "Bystial Saronir",
+        "Etude of the Branded",
+        "The Bystial Alba Los",
+        "The Bystial Lubellion"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,12 @@
+{
+    "name": "RGB Rainbowlution",
+    "filename": "RGB_Rainbowlution",
+    "card_text": "Once per turn: You can target 1 face-up monster on the field; its Type is changed to Machine, also it gains the LIGHT/DARK/EARTH/WATER/FIRE/WIND Attributes (even if this card leaves the field).",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

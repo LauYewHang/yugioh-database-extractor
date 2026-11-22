@@ -1,0 +1,20 @@
+{
+    "name": "Neo Space Pathfinder",
+    "filename": "Neo_Space_Pathfinder",
+    "card_text": "You can discard this card to the Graveyard to add 1 \"Neo Space\" from your Deck or Graveyard to your hand.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Elemental HERO Divine Neos",
+        "Neo Space"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

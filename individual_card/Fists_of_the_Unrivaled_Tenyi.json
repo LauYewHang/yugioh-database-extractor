@@ -1,0 +1,21 @@
+{
+    "name": "Fists of the Unrivaled Tenyi",
+    "filename": "Fists_of_the_Unrivaled_Tenyi",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated while you control a face-up non-Effect Monster: Negate the activation. If this Set card you control is destroyed by your opponent's card effect: You can Special Summon 1 non-Effect Monster from your Extra Deck.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Heavenly Dragon Circle",
+        "Monk of the Tenyi",
+        "Shaman of the Tenyi",
+        "Tenyi Spirit - Ashuna",
+        "Tenyi Spirit - Suruya",
+        "Vessel for the Dragon Cycle"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

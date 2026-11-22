@@ -1,0 +1,28 @@
+{
+    "name": "Double Trap Hole",
+    "filename": "Double_Trap_Hole",
+    "card_text": "If your opponent Special Summons a monster(s) in Defense Position: Banish those monster(s) that were Summoned in (and currently in) Defense Position.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY",
+        "The Lost Art Promotion 9"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

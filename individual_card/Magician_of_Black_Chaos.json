@@ -1,0 +1,30 @@
+{
+    "name": "Magician of Black Chaos",
+    "filename": "Magician_of_Black_Chaos",
+    "card_text": "You can Ritual Summon this card with \"Black Magic Ritual\".",
+    "release_date": "2007-07-26",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "PREMIUM PACK",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "SPEED DUEL TOURNAMENT PACK 6"
+    ],
+    "related_card": [
+        "Black Magic Ritual",
+        "Chaos Form",
+        "Chaos Scepter Blast",
+        "Dark Magician Girl",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Magician of Chaos",
+        "Master of Chaos",
+        "Toon Dark Magician Girl"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Ritual",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Witch of the Black Forest",
+    "filename": "Witch_of_the_Black_Forest",
+    "card_text": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less DEF from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Witch of the Black Forest\" once per turn.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
+        "TOON CHAOS",
+        "METAL RAIDERS",
+        "STARTER DECK KAIBA Evolution",
+        "STARTER DECK PEGASUS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2",
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [
+        "Musician King",
+        "Sanwitch"
+    ],
+    "attribute": "DARK",
+    "attack": 1100,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

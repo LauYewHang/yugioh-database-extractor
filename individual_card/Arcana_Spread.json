@@ -1,0 +1,29 @@
+{
+    "name": "Arcana Spread",
+    "filename": "Arcana_Spread",
+    "card_text": "Toss a coin and apply this effect. If \"Light Barrier\" is in your Field Zone, you can choose the effect instead.\n\u25cfHeads: Special Summon 1 Level 4 or lower \"Arcana Force\" monster from your Deck.\n\u25cfTails: Special Summon 1 monster that has a coin tossing effect from your GY.\nYou can banish this card from your GY; add 1 card from your GY to your hand that has a coin tossing effect. You can only use 1 \"Arcana Spread\" effect per turn, and only once that turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Arcana Force 0 - The Fool",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force EX - The Dark Ruler",
+        "Arcana Force EX - The Light Ruler",
+        "Arcana Force I - The Magician",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Force VII - The Chariot",
+        "Arcana Force XIV - Temperance",
+        "Arcana Force XIX - The Sun",
+        "Arcana Force XV - The Fiend",
+        "Arcana Force XVIII - The Moon",
+        "Arcana Force XXI - The World",
+        "Light Barrier"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

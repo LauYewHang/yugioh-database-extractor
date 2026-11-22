@@ -1,0 +1,35 @@
+{
+    "name": "Artifact Labrys",
+    "filename": "Artifact_Labrys",
+    "card_text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your Graveyard: Special Summon it. When an \"Artifact\" card(s) is destroyed and sent to your Graveyard (except during the Damage Step): You can Special Summon this card from your hand.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Artifact Achilleshield",
+        "Artifact Aegis",
+        "Artifact Beagalltach",
+        "Artifact Caduceus",
+        "Artifact Chakram",
+        "Artifact Dagda",
+        "Artifact Durendal",
+        "Artifact Failnaught",
+        "Artifact Ignition",
+        "Artifact Lancea",
+        "Artifact Mjollnir",
+        "Artifact Moralltach",
+        "Artifact Sanctum",
+        "Artifact Scythe",
+        "Artifact Vajra",
+        "Artifacts Unleashed"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

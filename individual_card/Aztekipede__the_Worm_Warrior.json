@@ -1,0 +1,33 @@
+{
+    "name": "Aztekipede, the Worm Warrior",
+    "filename": "Aztekipede__the_Worm_Warrior",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by banishing 1 Insect-Type monster from your Graveyard, and cannot be Special Summoned by other ways. If this card inflicts battle damage to your opponent: Send the top card of their Deck to the Graveyard.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 400,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

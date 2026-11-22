@@ -1,0 +1,34 @@
+{
+    "name": "Horus the Black Flame Dragon LV4",
+    "filename": "Horus_the_Black_Flame_Dragon_LV4",
+    "card_text": "Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV6\" from your hand or Deck.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STARTER DECK KAIBA RELOADED",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Canopic Protector",
+        "Duamutef, Blessing of Horus",
+        "Horus the Black Flame Deity",
+        "Horus the Black Flame Dragon LV6",
+        "Horus' Servant",
+        "King's Sarcophagus",
+        "Level Down!?",
+        "Level Modulation",
+        "Level Up!",
+        "Qebehsenuef, Protection of Horus",
+        "Silent Paladin",
+        "The Graveyard in the Fourth Dimension",
+        "Walls of the Imperial Tomb"
+    ],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Blue Flame Swordsman",
+    "filename": "Blue_Flame_Swordsman",
+    "card_text": "Once per turn, during the Battle Phase (Quick Effect): You can target 1 other Warrior monster you control; this card loses exactly 600 ATK, and if it does, that monster gains 600 ATK. When this card in your possession is destroyed by your opponent's card and sent to your GY: You can banish this card from your GY, then target 1 FIRE Warrior monster in your GY; Special Summon that target.",
+    "release_date": "2013-10-11",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

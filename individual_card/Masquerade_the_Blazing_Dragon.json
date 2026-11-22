@@ -1,0 +1,30 @@
+{
+    "name": "Masquerade the Blazing Dragon",
+    "filename": "Masquerade_the_Blazing_Dragon",
+    "card_text": "1 \"Despia\" monster + 1 LIGHT or DARK monster\nWhile you control this Fusion Summoned card, your opponent must pay 600 LP to activate cards or effects. If your opponent controls a Ritual, Fusion, Synchro, Xyz, or Link Monster, while this card is in your GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Masquerade the Blazing Dragon\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [
+        "Ad Libitum of Despia",
+        "Aluber the Jester of Despia",
+        "Despia, Theater of the Branded",
+        "Despian Comedy",
+        "Despian Luluwalilith",
+        "Despian Proskenion",
+        "Despian Quaeritis",
+        "Despian Tragedy",
+        "Dramaturge of Despia",
+        "Guiding Quem, the Virtuous"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

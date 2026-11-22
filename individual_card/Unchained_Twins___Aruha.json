@@ -1,0 +1,41 @@
+{
+    "name": "Unchained Twins - Aruha",
+    "filename": "Unchained_Twins___Aruha",
+    "card_text": "You can target 1 card you control; you cannot Special Summon monsters for the rest of this turn, except Fiend monsters, also destroy the targeted card, and if you do, Special Summon this card from your hand. If this card on the field is destroyed by card effect, except \"Unchained Twins - Aruha\", or by battle: You can Special Summon 1 \"Unchained\" monster from your hand or Deck, except \"Unchained Twins - Aruha\". You can only use each effect of \"Unchained Twins - Aruha\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "OTS TOURNAMENT PACK 24",
+        "2020 TIN OF LOST MEMORIES",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abominable Unchained Soul",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Abomination",
+        "Unchained Firelord of Yama",
+        "Unchained Hunger",
+        "Unchained Oni of Shara",
+        "Unchained Oni of Shyma",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Anguish",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Rage",
+        "Unchained Soul of Sharvara",
+        "Unchained Soul of Shyama",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Unchained Zealot - Kamra",
+        "Wailing of the Unchained Souls"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

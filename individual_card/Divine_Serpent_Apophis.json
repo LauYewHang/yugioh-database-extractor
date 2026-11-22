@@ -1,0 +1,29 @@
+{
+    "name": "Divine Serpent Apophis",
+    "filename": "Divine_Serpent_Apophis",
+    "card_text": "2 monsters that mention \"Temple of the Kings\"\nMust be either Fusion Summoned, or Special Summoned by Tributing 2 \"Apophis\" monsters. Once per turn: You can target up to 3 \"Apophis\" Traps with different names in your GY; Set them. Once per turn, if a Trap Card is activated (except during the Damage Step): You can target 1 card your opponent controls; destroy it.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Anubis the Last Judge",
+        "Apophis the Serpent",
+        "Apophis the Swamp Deity",
+        "Defense of the Temple",
+        "Embodiment of Apophis",
+        "Merciless Scorpion of Serket",
+        "Mystical Beast of Serket",
+        "Temple of the Kings",
+        "The Man with the Mark",
+        "Treasures of the Kings",
+        "Verdict of Anubis"
+    ],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 2600,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

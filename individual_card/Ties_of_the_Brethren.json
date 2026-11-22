@@ -1,0 +1,16 @@
+{
+    "name": "Ties of the Brethren",
+    "filename": "Ties_of_the_Brethren",
+    "card_text": "Pay 2000 LP, then target 1 Level 4 or lower monster you control; for the rest of this turn after this card resolves, you cannot Special Summon monsters, also Special Summon 2 monsters from your Deck, with the same Type, Attribute, and Level as that monster, but with different names from each other and that monster. You cannot conduct your Battle Phase the turn you activate this card.",
+    "release_date": "2016-10-07",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "LEGENDARY DECKS II",
+        "THE GRAND CREATORS",
+        "KING'S COURT",
+        "STRUCTURE DECK WAVE OF LIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

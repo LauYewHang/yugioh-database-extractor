@@ -1,0 +1,22 @@
+{
+    "name": "Asura Priest",
+    "filename": "Asura_Priest",
+    "card_text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. Can attack all monsters your opponent controls once each.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "RETRO PACK 2",
+        "LEGACY OF DARKNESS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2",
+        "HOBBY LEAGUE 4",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Soul Drain Dragon",
+    "filename": "Soul_Drain_Dragon",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a Dragon-Type Xyz Monster's effect in your possession, and cannot be Special Summoned by other ways. When Special Summoned, if your Life Points are lower than your opponent's: This card gains ATK equal to your current Life Point deficit, and if it does, your opponent takes no further damage this turn. This card cannot attack your opponent directly.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 4000,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Mischief of the Time Goddess",
+    "filename": "Mischief_of_the_Time_Goddess",
+    "card_text": "Neither player can activate cards or effects in response to this card's activation. Cannot be activated as Chain Link 2 or higher. At the end of your Battle Phase, if all monsters you control are \"Valkyrie\" monsters (min. 1): Send this card to the GY, also, immediately after this effect resolves, skip to the start of the Battle Phase of your next turn. If you do, you cannot activate \"Mischief of the Time Goddess\" until the end of that turn.",
+    "release_date": "2018-08-17",
+    "available_set": [
+        "SHADOWS IN VALHALLA"
+    ],
+    "related_card": [
+        "Fortune Chariot",
+        "Ride of the Valkyries",
+        "Valkyrie Brunhilde",
+        "Valkyrie Chariot",
+        "Valkyrie Dritte",
+        "Valkyrie Erda",
+        "Valkyrie Erste",
+        "Valkyrie Funfte",
+        "Valkyrie Sechste",
+        "Valkyrie Sigrun",
+        "Valkyrie Vierte",
+        "Valkyrie Zweite",
+        "Valkyrie's Embrace"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

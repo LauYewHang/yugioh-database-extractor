@@ -1,0 +1,18 @@
+{
+    "name": "Poison Chain",
+    "filename": "Poison_Chain",
+    "card_text": "During the End Phase of your turn, if you did not attack, you can make your opponent send cards equal to the number of face-up \"Iron Chain\" monsters you control from the top of their Deck to the Graveyard.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [
+        "Iron Chain Blaster",
+        "Iron Chain Coil",
+        "Iron Chain Dragon",
+        "Iron Chain Repairman",
+        "Iron Chain Snake"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

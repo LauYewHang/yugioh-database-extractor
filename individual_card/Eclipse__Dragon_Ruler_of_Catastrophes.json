@@ -1,0 +1,31 @@
+{
+    "name": "Eclipse, Dragon Ruler of Catastrophes",
+    "filename": "Eclipse__Dragon_Ruler_of_Catastrophes",
+    "card_text": "2 Level 7 Dragon monsters\nIf this card is Xyz Summoned: You can target 1 Level 4 or lower \"Dragon Ruler\" monster in your GY or banishment; Special Summon 1 Level/Rank 7 \"Dragon Ruler\" monster that is mentioned on that targeted monster from your Deck or banishment, then shuffle the targeted monster into the Deck. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can detach 2 materials from this card; negate the activation, and if you do, banish that card. You can only use each effect of \"Eclipse, Dragon Ruler of Catastrophes\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Blaster, Dragon Ruler of Infernos",
+        "Burner, Dragon Ruler of Sparks",
+        "Chasma, Dragon Ruler of Auroras",
+        "Disaster, Dragon Ruler of All Apocalypses",
+        "Here There Be Dragons",
+        "Lightning, Dragon Ruler of Drafts",
+        "Nebulus, Dragon Ruler of Mishaps",
+        "Reactan, Dragon Ruler of Pebbles",
+        "Redox, Dragon Ruler of Boulders",
+        "Spectral, Dragon Ruler of Flickers",
+        "Stream, Dragon Ruler of Droplets",
+        "Tempest, Dragon Ruler of Storms",
+        "Tidal, Dragon Ruler of Waterfalls"
+    ],
+    "attribute": "DARK",
+    "attack": 2700,
+    "defense": 1900,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 7
+}

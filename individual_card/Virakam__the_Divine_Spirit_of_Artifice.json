@@ -1,0 +1,24 @@
+{
+    "name": "Virakam, the Divine Spirit of Artifice",
+    "filename": "Virakam__the_Divine_Spirit_of_Artifice",
+    "card_text": "If you have an \"Aleister\" monster in your field or GY: You can Special Summon this card from your hand. If this card is Special Summoned: You can Set 1 \"Invocation\", or 1 Spell that mentions it, from your Deck. When your opponent activates a card or effect in response to your Fusion Monster's effect activation (Quick Effect): You can banish this card you control, and if you do, negate that opponent's effect, and if you do that, banish it. You can only use each effect of \"Virakam, the Divine Spirit of Artifice\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Aleister the Invoker",
+        "Aleister the Invoker of Madness",
+        "Aleister the Reminiscent",
+        "Invocation",
+        "Invocation - \"Sword\"",
+        "Invoked Baybarron"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Illusion",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

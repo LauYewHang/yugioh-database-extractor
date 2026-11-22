@@ -1,0 +1,35 @@
+{
+    "name": "Dark Magical Circle",
+    "filename": "Dark_Magical_Circle",
+    "card_text": "When this card is activated: Look at the top 3 cards of your Deck, then you can reveal 1 of them that is \"Dark Magician\" or a Spell/Trap that mentions \"Dark Magician\", and add it to your hand, also place the remaining cards on top of your Deck in any order. If \"Dark Magician\" is Normal or Special Summoned to your field (except during the Damage Step): You can target 1 card your opponent controls; banish it. You can only use each effect of \"Dark Magical Circle\" once per turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "MAZE OF MUERTOS",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
+        "DUEL POWER",
+        "OTS TOURNAMENT PACK 18",
+        "LEGENDARY DRAGON DECKS",
+        "THE DARK ILLUSION",
+        "LEGENDARY DUELISTS: SEASON 3"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

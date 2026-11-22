@@ -1,0 +1,23 @@
+{
+    "name": "Arcana Triumph Joker",
+    "filename": "Arcana_Triumph_Joker",
+    "card_text": "If this card is in your hand or GY: You can send 1 \"Queen's Knight\", \"King's Knight\", and \"Jack's Knight\" from your hand and/or face-up Monster Zone to the GY; Special Summon this card. Gains 500 ATK x the combined number of cards in both players' hands. You can discard 1 card; destroy all face-up cards your opponent controls with the same type (Monster, Spell, or Trap) as the discarded card.",
+    "release_date": "2021-07-09",
+    "available_set": [
+        "KING'S COURT",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [
+        "Jack's Knight",
+        "Joker's Wild",
+        "King's Knight",
+        "Queen's Knight"
+    ],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

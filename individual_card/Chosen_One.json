@@ -1,0 +1,13 @@
+{
+    "name": "Chosen One",
+    "filename": "Chosen_One",
+    "card_text": "Select 1 Monster Card and 2 non-Monster Cards from your hand. Your opponent randomly selects 1 card among them. If it is a Monster Card, it is Special Summoned and send the remaining 2 cards to the Graveyard. If not, send all the cards to the Graveyard.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

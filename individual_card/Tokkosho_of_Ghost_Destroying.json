@@ -1,0 +1,12 @@
+{
+    "name": "Tokkosho of Ghost Destroying",
+    "filename": "Tokkosho_of_Ghost_Destroying",
+    "card_text": "When the equipped monster inflicts Battle Damage to your opponent, you can select up to 2 monsters in your opponent's Graveyard, and remove them from play.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

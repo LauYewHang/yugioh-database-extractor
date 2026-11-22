@@ -1,0 +1,17 @@
+{
+    "name": "Guardragon Agarpain",
+    "filename": "Guardragon_Agarpain",
+    "card_text": "2 Dragon monsters\nYou cannot Special Summon monsters, except Dragon monsters. During your Main Phase: You can Special Summon 1 Dragon monster from your Extra Deck, to an Extra Monster Zone or Main Monster Zone you can Summon to, that 2 or more Link Monsters point to. You can only use this effect of \"Guardragon Agarpain\" once per turn. You can only Special Summon \"Guardragon Agarpain(s)\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 260
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Sacred Phoenix of Nephthys",
+    "filename": "Sacred_Phoenix_of_Nephthys",
+    "card_text": "Once per turn, during your next Standby Phase after this card was destroyed by card effect and sent to the GY: Special Summon this card from the GY. If you do: Destroy all Spells and Traps on the field.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "FLAMING ETERNITY",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "YU-GI-OH! ADVENT CALENDAR 2018",
+        "ELEMENTAL ENERGY SPECIAL EDITION",
+        "DARK REVELATION Volume 3",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "HIDDEN SUMMONERS",
+        "DUEL TERMINAL 6A",
+        "STRUCTURE DECK: FIRE KINGS"
+    ],
+    "related_card": [
+        "Awakening of Nephthys",
+        "Cerulean Sacred Phoenix of Nephthys",
+        "Chronicler of Nephthys",
+        "Conductor of Nephthys",
+        "Defender of Nephthys",
+        "Devotee of Nephthys",
+        "Disciple of Nephthys",
+        "Hand of Nephthys",
+        "Last Hope of Nephthys",
+        "Matriarch of Nephthys",
+        "Nephthys, the Sacred Flame",
+        "Nephthys, the Sacred Preserver",
+        "Rebirth of Nephthys"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 1600,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

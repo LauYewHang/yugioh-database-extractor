@@ -1,0 +1,38 @@
+{
+    "name": "Blazing Cartesia, the Virtuous",
+    "filename": "Blazing_Cartesia__the_Virtuous",
+    "card_text": "If you have \"Fallen of Albaz\" in your field or GY: You can Special Summon this card from your hand. During the Main Phase (Quick Effect): You can Fusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, using monsters from your hand or field. During the End Phase, if a Fusion Monster(s) was sent to your GY this turn: You can add this card from the GY to your hand. You can only use each effect of \"Blazing Cartesia, the Virtuous\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "DARKWING BLAST",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Albaz the Ashen",
+        "Albion the Shrouded Dragon",
+        "Branded in High Spirits",
+        "Branded Lost",
+        "Branded Sword",
+        "Ecclesia and the Dark Dragon",
+        "Fallen of Albaz",
+        "Fallen of the White Dragon",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Gung-Ho! Springans!",
+        "New Frontier",
+        "The Bystial Aluber",
+        "The Fallen & The Virtuous",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

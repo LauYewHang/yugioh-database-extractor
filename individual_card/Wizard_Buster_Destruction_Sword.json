@@ -1,0 +1,31 @@
+{
+    "name": "Wizard Buster Destruction Sword",
+    "filename": "Wizard_Buster_Destruction_Sword",
+    "card_text": "You can target 1 \"Buster Blader\" you control; equip this monster from your hand or your side of the field to that target. While this card is equipped to a monster, monsters in your opponent's Graveyard cannot activate their effects. You can send this Equip Card to the Graveyard, then target 1 \"Destruction Sword\" monster in your Graveyard, except \"Wizard Buster Destruction Sword\"; add it to your hand.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Buster Blader",
+        "Buster Blader, the Destruction Swordmaster",
+        "Buster Dragon",
+        "Buster Whelp of the Destruction Swordsman",
+        "Destruction Sword Flash",
+        "Destruction Sword Memories",
+        "Destruction Swordsman Fusion",
+        "Dragon Buster Destruction Sword",
+        "Karma of the Destruction Swordsman",
+        "Prologue of the Destruction Swordsman",
+        "Protector Whelp of the Destruction Swordsman",
+        "Robot Buster Destruction Sword"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

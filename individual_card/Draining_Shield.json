@@ -1,0 +1,23 @@
+{
+    "name": "Draining Shield",
+    "filename": "Draining_Shield",
+    "card_text": "If an opponent's monster declares an attack: Target the attacking monster; negate that attack, and if you do, gain LP equal to that target's ATK.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "ANCIENT SANCTUARY",
+        "STARTER DECK XYZ SYMPHONY",
+        "Speed Duel: Battle City Box",
+        "2-PLAYER STARTER SET",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STARTER DECK JADEN YUKI",
+        "STARTER DECK YUYA",
+        "DUELIST PACK - JADEN YUKI -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

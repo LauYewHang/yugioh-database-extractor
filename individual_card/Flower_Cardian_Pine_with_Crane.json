@@ -1,0 +1,41 @@
+{
+    "name": "Flower Cardian Pine with Crane",
+    "filename": "Flower_Cardian_Pine_with_Crane",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 1 \"Flower Cardian\" monster, except \"Flower Cardian Pine with Crane\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the GY. Once per turn, at the end of the Battle Phase, if this card battled: You can draw 1 card.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Flower Cardian Boardefly",
+        "Flower Cardian Cherry Blossom",
+        "Flower Cardian Cherry Blossom with Curtain",
+        "Flower Cardian Clover with Boar",
+        "Flower Cardian Lightflare",
+        "Flower Cardian Lightshower",
+        "Flower Cardian Maple with Deer",
+        "Flower Cardian Moonflowerviewing",
+        "Flower Cardian Paulownia",
+        "Flower Cardian Paulownia with Phoenix",
+        "Flower Cardian Peony with Butterfly",
+        "Flower Cardian Pine",
+        "Flower Cardian Willow",
+        "Flower Cardian Willow with Calligrapher",
+        "Flower Cardian Zebra Grass",
+        "Flower Cardian Zebra Grass with Moon",
+        "Flower Gathering",
+        "Flower Stacking",
+        "Fraud Freeze",
+        "Recardination",
+        "Super All In!",
+        "Super Koi Koi"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

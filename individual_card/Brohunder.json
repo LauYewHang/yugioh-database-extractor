@@ -1,0 +1,17 @@
+{
+    "name": "Brohunder",
+    "filename": "Brohunder",
+    "card_text": "When this card is Normal Summoned: You can add 1 Level 4 LIGHT Thunder-Type monster from your Deck to your hand, except \"Brohunder\".",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 900,
+    "defense": 400,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Magic Drain",
+    "filename": "Magic_Drain",
+    "card_text": "When your opponent activates a Spell Card: They can discard 1 Spell to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "DUELIST LEAGUE 13",
+        "DARK BEGINNING 1",
+        "5D's STARTER DECK 2009",
+        "RETRO PACK 2",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "PHARAOH'S SERVANT",
+        "Speed Duel: Battle City Box",
+        "BATTLE PACK EPIC DAWN",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "TOURNAMENT PACK 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Mystic Piper",
+    "filename": "Mystic_Piper",
+    "card_text": "You can Tribute this card to draw and reveal 1 card. If that card is a Level 1 Monster Card, draw 1 more card. The effect of \"Mystic Piper\" can only be activated once per turn.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

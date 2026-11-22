@@ -1,0 +1,17 @@
+{
+    "name": "Cursed Bride Doll",
+    "filename": "Cursed_Bride_Doll",
+    "card_text": "When you draw this card: You can reveal it; Special Summon this card. At the start of each Battle Phase: If there are more cards in your Deck than your opponent's, this card gains ATK equal to the difference x 300, until the end of this turn. Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: Place this card on top of the Deck.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

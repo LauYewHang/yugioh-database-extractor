@@ -1,0 +1,26 @@
+{
+    "name": "Ultimaya Tzolkin",
+    "filename": "Ultimaya_Tzolkin",
+    "card_text": "(This card's original Level is always treated as 12.)\nCannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 Level 5 or higher monsters you control with the same Level to the GY (1 Tuner and 1 non-Tuner). Once per turn, when a Spell/Trap(s) is Set on your field (except during the Damage Step): You can Special Summon 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck. While you control another Synchro Monster, monsters cannot target this card for attacks, also neither player can target it with card effects.",
+    "release_date": "2015-04-16",
+    "available_set": [
+        "DIMENSION OF CHAOS SPECIAL EDITION (UK)",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CLASH OF REBELLIONS SPECIAL EDITION (US)",
+        "SHONEN JUMP membership Promotional Card - April 2015 -",
+        "OTS TOURNAMENT PACK 13",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Power Tool Braver Dragon",
+        "Power Tool Dragon",
+        "Power Tool Mecha Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 0
+}

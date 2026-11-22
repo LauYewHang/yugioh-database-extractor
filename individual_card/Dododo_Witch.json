@@ -1,0 +1,36 @@
+{
+    "name": "Dododo Witch",
+    "filename": "Dododo_Witch",
+    "card_text": "When this card is Normal or Special Summoned: You can Special Summon 1 \"Dododo\" monster from your hand in Attack Position or face-down Defense Position, except \"Dododo Witch\".",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "Dododo Bot",
+        "Dododo Buster",
+        "Dododo Driver",
+        "Dododo Swordsman",
+        "Dododo Warrior",
+        "Dodododo Warrior",
+        "Dodododraw",
+        "Dodododwarf Gogogoglove",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Gogogo Goblindbergh",
+        "Guard Go!",
+        "Onomatokage",
+        "Onomatopaira",
+        "Onomatopia",
+        "Onomatopickup",
+        "Utopic Onomatopoeia",
+        "Zubababancho Gagagacoat"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

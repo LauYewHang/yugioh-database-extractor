@@ -1,0 +1,22 @@
+{
+    "name": "Twilight Rose Black Knight",
+    "filename": "Twilight_Rose_Black_Knight",
+    "card_text": "While you control a Synchro Monster, Plant monsters you control gain 1000 ATK. You can only use each of the following effects of \"Twilight Rose Black Knight\" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 \"Black Rose Dragon\" or 1 Level 4 or lower Plant monster from your GY, but negate its effects. You can target 1 other Plant monster you control; increase or decrease its Level by 1.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Basal Rose Shoot",
+        "Black Rose Dragon",
+        "Roxrose Dragon",
+        "Vengeful Witch"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Circle of the Fire Kings",
+    "filename": "Circle_of_the_Fire_Kings",
+    "card_text": "Target 1 FIRE monster you control and 1 FIRE monster in your GY; destroy that monster you control, and if you do, Special Summon that other monster from your GY. You can only activate 1 \"Circle of the Fire Kings\" per turn.",
+    "release_date": "2013-02-08",
+    "available_set": [
+        "HIDDEN SUMMONERS",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "Gold Series: Maximum Gold",
+        "STRUCTURE DECK: SOULBURNER",
+        "QUARTER CENTURY STAMPEDE",
+        "STRUCTURE DECK: FIRE KINGS"
+    ],
+    "related_card": [
+        "Echelon of the Fire Kings",
+        "Fire King Avatar Barong",
+        "Fire King Avatar Garunix",
+        "Fire King Avatar Kirin",
+        "Fire King Avatar Rangbali",
+        "Fire King Avatar Yaksha",
+        "Fire King High Avatar Garunix",
+        "Fire King High Avatar Kirin",
+        "Fire King Island",
+        "Fire King Sanctuary",
+        "Fire King Sky Burn",
+        "Garunix Eternity, Hyang of the Fire Kings",
+        "Legendary Fire King Ponix"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

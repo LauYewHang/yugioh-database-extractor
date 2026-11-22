@@ -1,0 +1,18 @@
+{
+    "name": "Mucus Yolk",
+    "filename": "Mucus_Yolk",
+    "card_text": "This card can attack your opponent's Life Points directly. Each time this card inflicts Battle Damage to your opponent's Life Points, increase the ATK of this card by 1000 points during your next Standby Phase. The ATK increase lasts as long as this card remains face-up on the field.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK BEGINNING 2",
+        "PHARAONIC GUARDIAN"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 100,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

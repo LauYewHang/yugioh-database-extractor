@@ -1,0 +1,29 @@
+{
+    "name": "Tearlaments Perlegia",
+    "filename": "Tearlaments_Perlegia",
+    "card_text": "Fusion Monsters and \"Tearlaments\" monsters you control gain 500 ATK. If an Aqua \"Tearlaments\" monster is sent to your GY by card effect (except during the Damage Step): You can send 1 Level 4 or lower Aqua monster from your Deck to the GY, but if you sent a non-\"Tearlaments\" monster to the GY, for the rest of this turn you cannot activate cards, or the effects of cards, with the same name as that sent card. You can only use this effect of \"Tearlaments Perlegia\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Primeval Planet Perlereino",
+        "Tearlaments Cryme",
+        "Tearlaments Grief",
+        "Tearlaments Havnis",
+        "Tearlaments Heartbeat",
+        "Tearlaments Kaleido-Heart",
+        "Tearlaments Kashtira",
+        "Tearlaments Kitkallos",
+        "Tearlaments Merrli",
+        "Tearlaments Metanoise",
+        "Tearlaments Reinoheart",
+        "Tearlaments Rulkallos",
+        "Tearlaments Scheiren",
+        "Tearlaments Scream",
+        "Tearlaments Sulliek"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

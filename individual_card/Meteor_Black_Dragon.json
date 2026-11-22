@@ -1,0 +1,24 @@
+{
+    "name": "Meteor Black Dragon",
+    "filename": "Meteor_Black_Dragon",
+    "card_text": "\"Red-Eyes Black Dragon\" + \"Meteor Dragon\"",
+    "release_date": "2012-03-20",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "PREMIUM COLLECTION TIN",
+        "SPEED DUEL: ARENA OF LOST SOULS"
+    ],
+    "related_card": [
+        "Meteor Dragon",
+        "Red-Eyes Black Dragon",
+        "Red-Eyes Soul"
+    ],
+    "attribute": "FIRE",
+    "attack": 3500,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Harpie Girl",
+    "filename": "Harpie_Girl",
+    "card_text": "A Harpie chick who aspires to flit about beautifully and gorgeously, but attack sharply.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "RISE OF DESTINY",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Alluring Mirror Split",
+        "Cyber Slash Harpie Lady",
+        "Harpie Channeler",
+        "Harpie Conductor",
+        "Harpie Lady Elegance",
+        "Harpie Oracle",
+        "Harpie Perfumer",
+        "Harpie's Feather Rest",
+        "Harpie's Feather Storm",
+        "Harpie's Pet Baby Dragon",
+        "Harpie's Pet Dragon - Fearsome Fire Blast",
+        "Harpie's Pet Phantasmal Dragon",
+        "Hysteric Sign"
+    ],
+    "attribute": "WIND",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

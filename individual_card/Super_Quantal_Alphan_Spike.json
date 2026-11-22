@@ -1,0 +1,28 @@
+{
+    "name": "Super Quantal Alphan Spike",
+    "filename": "Super_Quantal_Alphan_Spike",
+    "card_text": "If you control 3 or more \"Super Quantum\" monsters with different names: Shuffle as many cards your opponent controls as possible into the Deck, then your opponent Special Summons 1 monster from their Extra Deck, ignoring its Summoning conditions. You can banish this card and 1 \"Super Quantal Fairy Alphan\" from your Graveyard; activate 1 \"Super Quantal Mech Ship Magnacarrier\" from your Deck.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

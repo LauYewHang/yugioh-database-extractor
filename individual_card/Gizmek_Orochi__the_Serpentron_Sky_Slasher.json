@@ -1,0 +1,20 @@
+{
+    "name": "Gizmek Orochi, the Serpentron Sky Slasher",
+    "filename": "Gizmek_Orochi__the_Serpentron_Sky_Slasher",
+    "card_text": "If this card is in your hand or GY (Quick Effect): You can banish 8 cards from the top of your Deck face-down; Special Summon this card. You can banish 3 cards from your Extra Deck face-down, then target 1 face-up monster on the field; destroy it. You can only use 1 \"Gizmek Orochi, the Serpentron Sky Slasher\" effect per turn, and only once that turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE",
+        "2020 TIN OF LOST MEMORIES",
+        "STRUCTURE DECK: CYBER STRIKE",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2450,
+    "defense": 2450,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

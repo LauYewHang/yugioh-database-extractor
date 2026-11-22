@@ -1,0 +1,16 @@
+{
+    "name": "Sol and Luna",
+    "filename": "Sol_and_Luna",
+    "card_text": "Target 1 monster you control and 1 monster your opponent controls; apply the following effect on each monster, depending on its battle position.\n\u25cfFace-up: Change it to face-down Defense Position.\n\u25cfFace-down: Change it to face-up Defense Position.\nYou can only activate 1 \"Sol and Luna\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "Phantom Revenge",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
+        "BATTLE OF CHAOS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

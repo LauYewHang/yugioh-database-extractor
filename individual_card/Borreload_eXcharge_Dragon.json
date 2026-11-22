@@ -1,0 +1,42 @@
+{
+    "name": "Borreload eXcharge Dragon",
+    "filename": "Borreload_eXcharge_Dragon",
+    "card_text": "2 Level 4 DARK Dragon monsters\nNeither player can target this Xyz Summoned card with monster effects, except its own. Once per turn: You can detach 1 material from this card, then target 1 face-up monster on the field; it loses 600 ATK/DEF, then, you can Special Summon 1 \"Borrel\" monster from your GY, but banish it during the End Phase, also you cannot Special Summon other monsters or attack directly for the rest of this turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Bayonet Punisher",
+        "Borrel Cooling",
+        "Borrel Reboot",
+        "Borrel Regenerator",
+        "Borrel Supplier",
+        "Borrelcode Dragon",
+        "Borrelend Dragon",
+        "Borrelguard Dragon",
+        "Borreload Dragon",
+        "Borreload Fatalflare Dragon",
+        "Borreload Furious Dragon",
+        "Borreload Liberator Dragon",
+        "Borreload Riot Dragon",
+        "Borreload Savage Dragon",
+        "Borrelshroud Dragon",
+        "Borrelsword Dragon",
+        "Breachborrel Dragon",
+        "Execute Protocols",
+        "Miniborrel Dragon",
+        "Quadborrel Dragon",
+        "Rokket Coder",
+        "Triple Borrel Launch",
+        "Trisborrel Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

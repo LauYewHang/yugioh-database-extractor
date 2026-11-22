@@ -1,0 +1,20 @@
+{
+    "name": "Bracchio-raidus",
+    "filename": "Bracchio_raidus",
+    "card_text": "\"Two-Headed King Rex\" + \"Crawling Dragon #2\"",
+    "release_date": "2013-10-11",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Crawling Dragon #2",
+        "Two-Headed King Rex"
+    ],
+    "attribute": "WATER",
+    "attack": 2200,
+    "defense": 2000,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

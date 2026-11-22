@@ -1,0 +1,23 @@
+{
+    "name": "Ally of Justice Rudra",
+    "filename": "Ally_of_Justice_Rudra",
+    "card_text": "If this card battles a LIGHT monster, it gains 700 ATK during the Damage Step only.",
+    "release_date": "2009-11-10",
+    "available_set": [
+        "HIDDEN ARSENAL",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "DUEL TERMINAL 1"
+    ],
+    "related_card": [
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unlimiter",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 1900,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

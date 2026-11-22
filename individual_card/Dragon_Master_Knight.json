@@ -1,0 +1,25 @@
+{
+    "name": "Dragon Master Knight",
+    "filename": "Dragon_Master_Knight",
+    "card_text": "\"Black Luster Soldier\" + \"Blue-Eyes Ultimate Dragon\"\nMust be Fusion Summoned. This card gains 500 ATK for each Dragon monster you control, except this card.",
+    "release_date": "2009-07-28",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "RETRO PACK 2",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [
+        "Black Luster Soldier",
+        "Blue-Eyes Ultimate Dragon",
+        "Super Soldier Soul"
+    ],
+    "attribute": "LIGHT",
+    "attack": 5000,
+    "defense": 5000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

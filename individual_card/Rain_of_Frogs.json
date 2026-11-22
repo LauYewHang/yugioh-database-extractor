@@ -1,0 +1,12 @@
+{
+    "name": "Rain of Frogs",
+    "filename": "Rain_of_Frogs",
+    "card_text": "If you control an Aqua monster with 2000 or more ATK: Send all monsters on the field to the GY, except Aqua monsters. If this Set card is destroyed by card effect: You can Set this card. You can only use each effect of \"Rain of Frogs\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

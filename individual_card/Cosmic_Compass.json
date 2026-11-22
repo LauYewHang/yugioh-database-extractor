@@ -1,0 +1,18 @@
+{
+    "name": "Cosmic Compass",
+    "filename": "Cosmic_Compass",
+    "card_text": "When this card is Normal Summoned: You can Special Summon a number of \"Compass Tokens\" (Machine/EARTH/Level 1/ATK 0/DEF 0) up to the number of monsters your opponent controls.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STRUCTURE DECK: POWERCODE LINK",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 300,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

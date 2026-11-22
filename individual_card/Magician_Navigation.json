@@ -1,0 +1,32 @@
+{
+    "name": "Magician Navigation",
+    "filename": "Magician_Navigation",
+    "card_text": "Special Summon 1 \"Dark Magician\" from your hand, then Special Summon 1 Level 7 or lower DARK Spellcaster monster from your Deck. If you control \"Dark Magician\", except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up Spell/Trap your opponent controls; negate its effects until the end of this turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
+        "LEGENDARY DRAGON DECKS",
+        "THE DARK ILLUSION",
+        "LEGENDARY DUELISTS: SEASON 3"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

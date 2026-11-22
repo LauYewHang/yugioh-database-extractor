@@ -1,0 +1,23 @@
+{
+    "name": "Ally of Justice Omni-Weapon",
+    "filename": "Ally_of_Justice_Omni_Weapon",
+    "card_text": "If this card destroys a LIGHT monster by battle and sends it to the GY: Draw 1 card, then if you drew a Level 4 or lower DARK monster, you can reveal that card and Special Summon it.",
+    "release_date": "2010-09-25",
+    "available_set": [
+        "HIDDEN ARSENAL CHAPTER 1",
+        "HIDDEN ARSENAL 3",
+        "DUEL TERMINAL 3"
+    ],
+    "related_card": [
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unlimiter",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

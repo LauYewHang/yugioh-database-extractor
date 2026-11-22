@@ -1,0 +1,17 @@
+{
+    "name": "Pyramid of Wonders",
+    "filename": "Pyramid_of_Wonders",
+    "card_text": "All Zombie monsters you control gain 200 ATK for each monster your opponent controls. If exactly 1 Zombie monster you control (and no other cards) would be destroyed, you can send this card to the GY instead.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "SECRET SLAYERS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "THE SHINING DARKNESS",
+        "GOLD SERIES HAUNTED MINE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

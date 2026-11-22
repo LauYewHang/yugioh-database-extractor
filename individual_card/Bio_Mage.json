@@ -1,0 +1,17 @@
+{
+    "name": "Bio-Mage",
+    "filename": "Bio_Mage",
+    "card_text": "A mysterious priest created as a result of the latest advances in biotechnology.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1150,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

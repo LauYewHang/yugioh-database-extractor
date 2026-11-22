@@ -1,0 +1,24 @@
+{
+    "name": "Evolzar Laggia",
+    "filename": "Evolzar_Laggia",
+    "card_text": "2 Level 4 Dinosaur monsters\nWhen a monster(s) would be Normal or Special Summoned, OR a Spell/Trap Card is activated (Quick Effect): You can detach 2 materials from this card; negate the Summon or activation, and if you do, destroy it.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "COLLECTIBLE TIN 2012 WAVE 1",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "PHOTON SHOCKWAVE",
+        "QUARTER CENTURY STAMPEDE",
+        "MAXIMUM GOLD: EL DORADO",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Evo-Singularity"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

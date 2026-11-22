@@ -1,0 +1,32 @@
+{
+    "name": "Artmage Academic Arcane Arts Acropolis",
+    "filename": "Artmage_Academic_Arcane_Arts_Acropolis",
+    "card_text": "During your Main Phase, you can Normal Summon 1 \"Medius the Pure\", in addition to your Normal Summon/Set (you can only gain this effect once per turn). You can discard 1 Spell/Trap, and declare 1 \"Artmage\" Monster Card name that is not among the monsters you control and has not been declared for \"Artmage Academic Arcane Arts Acropolis\" this turn; add that monster from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except \"Artmage\" monsters, \"Medius the Pure\", or from the Extra Deck.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Artmage Diactorus",
+        "Artmage Finmel",
+        "Artmage Graflare",
+        "Artmage Impasto -Recapture-",
+        "Artmage Litera",
+        "Artmage Masterwork -Succession-",
+        "Artmage Movement -Pedigree-",
+        "Artmage Non-Finito",
+        "Artmage Pact -Awakening-",
+        "Artmage Peripeteia -Turmoil-",
+        "Artmage Power Patron",
+        "Artmage Vandalism -Assault-",
+        "Artmage Varnish -Alteration-",
+        "Medius the Pure",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Theorealize Past Lull"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

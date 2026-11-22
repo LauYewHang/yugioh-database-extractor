@@ -1,0 +1,22 @@
+{
+    "name": "Saggi the Dark Clown",
+    "filename": "Saggi_the_Dark_Clown",
+    "card_text": "This clown appears from nowhere and executes very strange moves to avoid enemy attacks.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

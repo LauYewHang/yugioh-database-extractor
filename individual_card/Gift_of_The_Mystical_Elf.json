@@ -1,0 +1,16 @@
+{
+    "name": "Gift of The Mystical Elf",
+    "filename": "Gift_of_The_Mystical_Elf",
+    "card_text": "Gain 300 LP for each monster on the field.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DARK BEGINNING 1",
+        "PHARAOH'S SERVANT",
+        "STARTER DECK KAIBA Evolution",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

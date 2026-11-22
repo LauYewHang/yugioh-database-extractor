@@ -1,0 +1,34 @@
+{
+    "name": "Dark Blade",
+    "filename": "Dark_Blade",
+    "card_text": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "STARTER DECK DAWN OF THE XYZ",
+        "STARTER DECK YUGI Evolution",
+        "STARTER DECK 2006",
+        "5D's STARTER DECK 2008",
+        "STARTER DECK SYRUS TRUESDALE",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "STARTER DECK YUGI RELOADED",
+        "DARK REVELATION Volume 1",
+        "Speed Duel: Battle City Box",
+        "DEMO DECK 2026",
+        "STARTER DECK JADEN YUKI",
+        "DEMO DECK"
+    ],
+    "related_card": [
+        "Dark Blade the Dragon Knight",
+        "Kiryu",
+        "Pitch-Dark Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

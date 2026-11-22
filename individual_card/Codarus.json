@@ -1,0 +1,35 @@
+{
+    "name": "Codarus",
+    "filename": "Codarus",
+    "card_text": "You can send 1 face-up \"Umi\" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

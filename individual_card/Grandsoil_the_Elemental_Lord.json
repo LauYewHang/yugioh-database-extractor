@@ -1,0 +1,25 @@
+{
+    "name": "Grandsoil the Elemental Lord",
+    "filename": "Grandsoil_the_Elemental_Lord",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 EARTH monsters in your GY. When this card is Special Summoned: You can target 1 monster in either player's GY; Special Summon that target. You can only use this effect of \"Grandsoil the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "FLAMES OF DESTRUCTION SPECIAL EDITION",
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Elemental Training",
+        "Elementsaber Aina",
+        "Elementsaber Lapauila Mana",
+        "Elementsaber Makani",
+        "Elementsaber Malo",
+        "Elementsaber Nalu"
+    ],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 2200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

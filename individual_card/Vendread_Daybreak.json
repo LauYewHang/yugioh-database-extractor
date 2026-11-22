@@ -1,0 +1,35 @@
+{
+    "name": "Vendread Daybreak",
+    "filename": "Vendread_Daybreak",
+    "card_text": "If your opponent controls more cards than you do: Choose 1 Ritual Summoned \"Vendread\" monster you control, and destroy all cards on the field, except the chosen monster. It cannot attack directly while it remains face-up on the field. You can only activate 1 \"Vendread Daybreak\" per turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Avendread Savior",
+        "Ravenous Vendread",
+        "Revendread Evolution",
+        "Revendread Executor",
+        "Revendread Origin",
+        "Revendread Slayer",
+        "Scar of the Vendread",
+        "Vendread Anima",
+        "Vendread Battlelord",
+        "Vendread Charge",
+        "Vendread Chimera",
+        "Vendread Core",
+        "Vendread Houndhorde",
+        "Vendread Nightmare",
+        "Vendread Nights",
+        "Vendread Reorigin",
+        "Vendread Reunion",
+        "Vendread Revenants",
+        "Vendread Revolution",
+        "Vendread Scavenger",
+        "Vendread Striges"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

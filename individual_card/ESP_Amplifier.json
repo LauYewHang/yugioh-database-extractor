@@ -1,0 +1,12 @@
+{
+    "name": "ESP Amplifier",
+    "filename": "ESP_Amplifier",
+    "card_text": "All face-up Psychic-Type monsters you controlled when this card was activated gain 300 ATK for each of your Psychic-Type monsters that is removed from play when this card resolves. During the End Phase, remove from play all monsters that were affected by this effect.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

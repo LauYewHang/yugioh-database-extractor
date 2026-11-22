@@ -1,0 +1,17 @@
+{
+    "name": "Avida, Rebuilder of Worlds",
+    "filename": "Avida__Rebuilder_of_Worlds",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by there being at least 8 or more Link Monsters with different names on the field and/or in the GYs. You cannot Special Summon other monsters the turn you Special Summon this card. This card's Special Summon cannot be negated. If this card is Special Summoned: Shuffle all other monsters that are banished, on the field, and in the GYs into the Decks. Neither player can activate cards or effects in response to this effect's activation.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3500,
+    "defense": 3500,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

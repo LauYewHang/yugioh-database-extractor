@@ -1,0 +1,34 @@
+{
+    "name": "Black Luster Soldier - Legendary Swordsman",
+    "filename": "Black_Luster_Soldier___Legendary_Swordsman",
+    "card_text": "You can Ritual Summon this card with \"Chaos Form\" or \"Super Soldier Ritual\". Must be Ritual Summoned. During your Draw Phase, before you draw: You can reveal this card in your hand; give up your normal draw this turn, and if you do, add 1 Ritual Spell from your Deck to your hand. Your opponent cannot activate cards or effects during your Battle Phase. When this attacking card, that was Ritual Summoned using a Normal Monster, destroys an opponent's monster by battle: You can shuffle all cards your opponent controls into the Deck.",
+    "release_date": "2023-03-10",
+    "available_set": [
+        "MAZE OF MEMORIES",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Beginning Knight",
+        "Beginning of Heaven and Earth",
+        "Chaos Form",
+        "Charging Gaia the Fierce Knight",
+        "Envoy of Chaos",
+        "Evening Twilight Knight",
+        "Gateway to Chaos",
+        "Magician of Chaos",
+        "Master of Chaos",
+        "Super Soldier Rebirth",
+        "Super Soldier Ritual",
+        "Super Soldier Shield",
+        "Super Soldier Soul",
+        "Super Soldier Synthesis"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

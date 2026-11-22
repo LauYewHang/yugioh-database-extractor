@@ -1,0 +1,27 @@
+{
+    "name": "Caius the Shadow Monarch",
+    "filename": "Caius_the_Shadow_Monarch",
+    "card_text": "If this card is Tribute Summoned: Target 1 card on the field; banish that target, and if you do, inflict 1000 damage to your opponent if it is a DARK monster.",
+    "release_date": "2008-04-02",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "DUELIST LEAGUE 15",
+        "TURBO PACK BOOSTER THREE",
+        "PREMIUM GOLD",
+        "GOLD SERIES 2009",
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 19",
+        "BATTLE PACK EPIC DAWN",
+        "THE DARK EMPEROR STRUCTURE DECK"
+    ],
+    "related_card": [
+        "The Monarchs Masterplan"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

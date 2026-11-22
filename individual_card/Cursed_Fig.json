@@ -1,0 +1,19 @@
+{
+    "name": "Cursed Fig",
+    "filename": "Cursed_Fig",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard: Target 2 Set Spell/Trap Cards on the field; while this card is in the Graveyard, those Set cards cannot be activated.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "CROSSROADS OF CHAOS",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

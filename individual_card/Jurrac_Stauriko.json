@@ -1,0 +1,43 @@
+{
+    "name": "Jurrac Stauriko",
+    "filename": "Jurrac_Stauriko",
+    "card_text": "If this card is destroyed by battle: Special Summon 2 \"Jurrac Tokens\" (Dinosaur/FIRE/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon, except for a \"Jurrac\" monster.",
+    "release_date": "2010-09-25",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "HIDDEN ARSENAL 3",
+        "DUEL TERMINAL 3"
+    ],
+    "related_card": [
+        "Jurrac Aeolo",
+        "Jurrac Astero",
+        "Jurrac Brachis",
+        "Jurrac Dino",
+        "Jurrac Gallim",
+        "Jurrac Giganoto",
+        "Jurrac Guaiba",
+        "Jurrac Herra",
+        "Jurrac Iguanon",
+        "Jurrac Impact",
+        "Jurrac Megalo",
+        "Jurrac Meteor",
+        "Jurrac Monoloph",
+        "Jurrac Protops",
+        "Jurrac Ptera",
+        "Jurrac Spinos",
+        "Jurrac Stego",
+        "Jurrac Titano",
+        "Jurrac Tyrannus",
+        "Jurrac Velo",
+        "Jurrac Velphito",
+        "Jurrac Volcano"
+    ],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": 400,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

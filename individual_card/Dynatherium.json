@@ -1,0 +1,17 @@
+{
+    "name": "Dynatherium",
+    "filename": "Dynatherium",
+    "card_text": "You can Special Summon this card (from your hand). You can only Special Summon \"Dynatherium\" once per turn this way. When Summoned this way: Your opponent can target 1 Level 4 monster in either player's Graveyard; they Special Summon that target to their side of the field.",
+    "release_date": "2014-03-28",
+    "available_set": [
+        "PREMIUM GOLD"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1600,
+    "defense": 600,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

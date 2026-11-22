@@ -1,0 +1,17 @@
+{
+    "name": "Cynet Regression",
+    "filename": "Cynet_Regression",
+    "card_text": "If you Special Summon a Link Monster(s): Target 1 card on the field; destroy it, then draw 1 card. You can only activate 1 \"Cynet Regression\" per turn.",
+    "release_date": "2018-07-13",
+    "available_set": [
+        "STARTER DECK CODEBREAKER",
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Cyberse Reminder",
+        "Firewall Phantom",
+        "Micro Coder"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

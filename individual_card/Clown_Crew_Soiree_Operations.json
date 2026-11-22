@@ -1,0 +1,25 @@
+{
+    "name": "Clown Crew Soiree Operations",
+    "filename": "Clown_Crew_Soiree_Operations",
+    "card_text": "Activate 1 of these effects (but you can only use each of these effects of \"Clown Crew Soiree Operations\" once per turn, also until the end of the next turn after this card resolves, you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck);\n\u25cfSpecial Summon up to 2 \"Clown Crew\" monsters from your Deck and/or Extra Deck, ignoring their Summoning conditions.\n\u25cfAdd 1 \"Clown Crew\" monster from your Deck to your hand.\nDuring the Main Phase: You can banish this card from your GY; immediately after this effect resolves, Tribute Summon 1 \"Clown Crew\" monster face-up.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Clown Crew Biancaviso",
+        "Clown Crew Cappello",
+        "Clown Crew Diabolo",
+        "Clown Crew Dristy",
+        "Clown Crew Fiends",
+        "Clown Crew Finale",
+        "Clown Crew Flair",
+        "Clown Crew Malabarisme",
+        "Clown Crew Matinee Operatics",
+        "Clown Crew Meteor",
+        "Clown Crew New Face",
+        "Clown Crew Rehearsal"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

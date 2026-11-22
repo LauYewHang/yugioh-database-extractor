@@ -1,0 +1,12 @@
+{
+    "name": "Arbitration of White",
+    "filename": "Arbitration_of_White",
+    "card_text": "You can target 1 Fish monster you control; it is treated as a Tuner this turn. When an opponent's monster declares an attack: You can discard 1 Fish monster; change all monsters your opponent controls to Defense Position. If your Fish monster is destroyed by battle or sent to your GY: You can send this face-up card from your Spell & Trap Zone to the GY; Special Summon 1 Fish monster from your GY. You can only use each effect of \"Arbitration of White\" once per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

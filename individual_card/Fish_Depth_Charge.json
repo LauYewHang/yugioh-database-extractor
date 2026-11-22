@@ -1,0 +1,14 @@
+{
+    "name": "Fish Depth Charge",
+    "filename": "Fish_Depth_Charge",
+    "card_text": "Tribute 1 Fish monster, then target 1 card on the field; destroy that target, and if you do, draw 1 card.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "DUELIST LEAGUE 14",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

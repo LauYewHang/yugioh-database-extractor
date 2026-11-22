@@ -1,0 +1,38 @@
+{
+    "name": "Yosenju Misak",
+    "filename": "Yosenju_Misak",
+    "card_text": "At the start of the Damage Step, if this card battles a face-up non-WIND monster: You can destroy that monster. When this card is Pendulum Summoned: You can target 1 card your opponent controls; destroy it. During the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Dizzying Winds of Yosen Village",
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosen Training Grounds",
+        "Yosen Whirlwind",
+        "Yosenju Izna",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Kodam",
+        "Yosenju Magat",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Shinchu R",
+        "Yosenju Tsujik",
+        "Yosenju Wind Worship",
+        "Yosenjus' Secret Move",
+        "Yosenjus' Sword Sting"
+    ],
+    "attribute": "WIND",
+    "attack": 2300,
+    "defense": 200,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

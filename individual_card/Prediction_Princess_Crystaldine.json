@@ -1,0 +1,24 @@
+{
+    "name": "Prediction Princess Crystaldine",
+    "filename": "Prediction_Princess_Crystaldine",
+    "card_text": "FLIP: You can add 1 Ritual Monster from your Deck or GY to your hand.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Black Cat-astrophe",
+        "Prediction Princess Bibliomuse",
+        "Prediction Princess Coinorma",
+        "Prediction Ritual",
+        "Underworld Ritual of Prediction"
+    ],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 2200,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

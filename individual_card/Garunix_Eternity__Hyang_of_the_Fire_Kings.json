@@ -1,0 +1,38 @@
+{
+    "name": "Garunix Eternity, Hyang of the Fire Kings",
+    "filename": "Garunix_Eternity__Hyang_of_the_Fire_Kings",
+    "card_text": "2+ Level 8 monsters\nIf this card is Xyz Summoned: You can destroy all other monsters on the field. You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it, and if you do, this card gains 500 ATK. If this card is destroyed while it has material: You can Special Summon \"Fire King\" monsters from your GY, up to the number of materials this card had. You can only use each effect of \"Garunix Eternity, Hyang of the Fire Kings\" once per turn.",
+    "release_date": "2023-12-08",
+    "available_set": [
+        "LIMITED PACK WORLD CHAMPIONSHIP 2025",
+        "STRUCTURE DECK: FIRE KINGS",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [
+        "Circle of the Fire Kings",
+        "Cursed Fire King Doom Burst",
+        "Echelon of the Fire Kings",
+        "Fire King Avatar Arvata",
+        "Fire King Avatar Barong",
+        "Fire King Avatar Garunix",
+        "Fire King Avatar Kirin",
+        "Fire King Avatar Rangbali",
+        "Fire King Avatar Yaksha",
+        "Fire King Courtier Ulcanix",
+        "Fire King High Avatar Garunix",
+        "Fire King High Avatar Kirin",
+        "Fire King Island",
+        "Fire King Sanctuary",
+        "Fire King Sky Burn",
+        "Legendary Fire King Ponix",
+        "Onslaught of the Fire Kings",
+        "Sacred Fire King Garunix"
+    ],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 8
+}

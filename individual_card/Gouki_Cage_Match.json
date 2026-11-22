@@ -1,0 +1,42 @@
+{
+    "name": "Gouki Cage Match",
+    "filename": "Gouki_Cage_Match",
+    "card_text": "When this card is activated: Place 3 counters on this card. If your \"Gouki\" monster destroys an opponent's monster by battle: Remove 1 counter from this card. Once per turn, at the end of the Battle Phase, if the last of these counters has been removed this way: You can Special Summon as many \"Gouki\" monsters as possible with different names from your hand and/or Deck, then place 3 counters on this card.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Gouki Bearhug",
+        "Gouki Destroy Ogre",
+        "Gouki Dragon Ogre",
+        "Gouki Face Turn",
+        "Gouki Finishing Move",
+        "Gouki Gameface",
+        "Gouki Guts",
+        "Gouki Headbatt",
+        "Gouki Heel Ogre",
+        "Gouki Iron Claw",
+        "Gouki Jet Ogre",
+        "Gouki Machine Suprex",
+        "Gouki Moonsault",
+        "Gouki Octostretch",
+        "Gouki Re-Match",
+        "Gouki Ringtrainer",
+        "Gouki Riscorpio",
+        "Gouki Sheik Ogre",
+        "Gouki Suprex",
+        "Gouki Tagpartner",
+        "Gouki The Blade Ogre",
+        "Gouki The Giant Ogre",
+        "Gouki The Great Ogre",
+        "Gouki The Master Ogre",
+        "Gouki The Powerload Ogre",
+        "Gouki The Solid Ogre",
+        "Gouki The Tyrant Ogre",
+        "Gouki Thunder Ogre",
+        "Gouki Twistcobra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

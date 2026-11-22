@@ -1,0 +1,31 @@
+{
+    "name": "Angelechy Castellan",
+    "filename": "Angelechy_Castellan",
+    "card_text": "1 Tuner + 1+ non-Tuners\nYou can target 1 opponent's monster in this card's adjacent column, or 1 card in your opponent's Spell & Trap Zone that is 2 columns away from this card's; banish that card. If this card is placed in the Spell & Trap Zone as a Continuous Spell: You can send 1 \"Angelechy\" card from your Deck to the GY. You can only use each of the preceding effects of \"Angelechy Castellan\" once per turn. While this card is treated as a Continuous Spell, each player can only activate 1 card or effect per Chain.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Angelechy Bastion",
+        "Angelechy Brilliant Move",
+        "Angelechy Destrier",
+        "Angelechy Disturbance",
+        "Angelechy Endgame Problem",
+        "Angelechy Enlisted",
+        "Angelechy Opening to e4",
+        "Angelechy Opposition",
+        "Angelechy Problem",
+        "Angelechy Seneschal",
+        "Angelechy Shatranga",
+        "Angelechy Strategy Score",
+        "Angelechy Verdict"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 2500,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

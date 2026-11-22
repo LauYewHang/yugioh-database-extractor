@@ -1,0 +1,14 @@
+{
+    "name": "The Fountain in the Sky",
+    "filename": "The_Fountain_in_the_Sky",
+    "card_text": "When a LIGHT monster is destroyed by battle and sent to your GY: You can banish that monster; gain LP equal to its ATK.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Feedback Warrior",
+    "filename": "Feedback_Warrior",
+    "card_text": "When this card is Normal or Special Summoned: You can target 1 face-up monster you control; it becomes Level 3.",
+    "release_date": "2011-07-12",
+    "available_set": [
+        "STARTER DECK XYZ SYMPHONY",
+        "STARTER DECK DAWN OF THE XYZ"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 700,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Venom Snake",
+    "filename": "Venom_Snake",
+    "card_text": "Once per turn, you can place 1 Venom Counter on 1 monster your opponent controls. If you activate this effect, this card cannot attack during this turn.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Ambush Fangs",
+        "Snake Deity's Command",
+        "Venom Boa",
+        "Venom Burn",
+        "Venom Serpent",
+        "Venom Shot",
+        "Venom Swamp"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 600,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Super Double Summon",
+    "filename": "Super_Double_Summon",
+    "card_text": "Select 1 Gemini monster you control and Normal Summon it. During the End Phase of this turn, return it to your hand.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [
+        "Geminize Lord Golknight"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

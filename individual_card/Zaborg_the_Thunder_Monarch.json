@@ -1,0 +1,26 @@
+{
+    "name": "Zaborg the Thunder Monarch",
+    "filename": "Zaborg_the_Thunder_Monarch",
+    "card_text": "If this card is Tribute Summoned: Target 1 monster on the field; destroy that target.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DUELIST LEAGUE 2010",
+        "DARK REVELATION Volume 2",
+        "BATTLE PACK EPIC DAWN",
+        "ANCIENT SANCTUARY",
+        "GOLD SERIES 2009",
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "QUARTER CENTURY STAMPEDE",
+        "TOURNAMENT PACK 8"
+    ],
+    "related_card": [
+        "The Monarchs Masterplan"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

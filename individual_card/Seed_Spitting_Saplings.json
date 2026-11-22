@@ -1,0 +1,17 @@
+{
+    "name": "Seed-Spitting Saplings",
+    "filename": "Seed_Spitting_Saplings",
+    "card_text": "Once per turn, when a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Special Summon 1 \"Snack Token\" (Plant/LIGHT/Level 1/ATK 800/DEF 800). Once per turn, when your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute 1 Normal Monster; negate the Special Summon, and if you do, destroy that monster(s).",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 200,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

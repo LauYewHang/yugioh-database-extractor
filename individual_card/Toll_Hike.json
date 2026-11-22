@@ -1,0 +1,13 @@
+{
+    "name": "Toll Hike",
+    "filename": "Toll_Hike",
+    "card_text": "Each player must send 1 card from their hand to the GY to declare an attack.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "The Beginning of the End",
+    "filename": "The_Beginning_of_the_End",
+    "card_text": "If you have 7 or more DARK monsters in your GY: Banish 5 DARK monsters from your GY; draw 3 cards.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "DESTINY SOLDIERS",
+        "PHANTOM DARKNESS",
+        "SPEED DUEL: SCARS OF BATTLE",
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

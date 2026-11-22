@@ -1,0 +1,34 @@
+{
+    "name": "Boot-Up Admiral - Destroyer Dynamo",
+    "filename": "Boot_Up_Admiral___Destroyer_Dynamo",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 2 \"Gadget\" Monster Cards from your hand and/or face-up field to the GY. Cannot be destroyed by battle or card effects while you control a \"Gadget\" monster or a \"Gadget\" Monster Card equipped to a monster. Once per turn: You can target 1 other card on the field; destroy it.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Ancient Gear Gadget",
+        "Boot-Up Order - Gear Charge",
+        "Cyberse Gadget",
+        "Gadget Arms",
+        "Gadget Box",
+        "Gadget Driver",
+        "Gadget Gamer",
+        "Gadget Hauler",
+        "Gadget Soldier",
+        "Gadget Trio",
+        "Gold Gadget",
+        "Green Gadget",
+        "Platinum Gadget",
+        "Red Gadget",
+        "Silver Gadget",
+        "Yellow Gadget"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

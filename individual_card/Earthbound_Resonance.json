@@ -1,0 +1,24 @@
+{
+    "name": "Earthbound Resonance",
+    "filename": "Earthbound_Resonance",
+    "card_text": "If a monster(s) that was Special Summoned from the Extra Deck is destroyed by card effect (except during the Damage Step): You can target 1 of them; each player takes damage equal to half its ATK. When your DARK Synchro Monster Special Summoned from the Extra Deck is targeted for an attack: You can target 1 card on the field; destroy it. You can only use each effect of \"Earthbound Resonance\" once per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Earthbound Fusion",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Prison",
+        "Earthbound Prisoner Ground Keeper",
+        "Earthbound Prisoner Line Walker",
+        "Earthbound Release",
+        "Earthbound Servant Geo Grasha",
+        "Earthbound Servant Geo Gremlin",
+        "Earthbound Servant Geo Gremlina",
+        "Earthbound Servant Geo Gryphon",
+        "Earthbound Servant Geo Kraken"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Double Interlock",
+    "filename": "Double_Interlock",
+    "card_text": "Activate 1 of these effects (but you can only use each effect of \"Double Interlock\" once per turn);\n\u25cfFusion Summon 1 Fusion Monster from your Extra Deck, by banishing its materials from your GY, including a \"Rokket\" monster.\n\u25cfRitual Summon 1 Ritual Monster from your hand, by banishing monsters from your GY whose total Levels equal or exceed its Level, including a \"Rokket\" monster.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Anesthrokket Dragon",
+        "Autorokket Dragon",
+        "Exploderokket Dragon",
+        "Hollowrokket Dragon",
+        "Magnarokket Dragon",
+        "Metalrokket Dragon",
+        "Rokket Barrage",
+        "Rokket Caliber",
+        "Rokket Coder",
+        "Rokket Detonator",
+        "Rokket Loader",
+        "Rokket Recharger",
+        "Rokket Synchron",
+        "Rokket Tracer",
+        "Shelrokket Dragon",
+        "Silverrokket Dragon",
+        "Trisborrel Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

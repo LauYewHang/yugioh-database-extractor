@@ -1,0 +1,35 @@
+{
+    "name": "Jurrac Gallim",
+    "filename": "Jurrac_Gallim",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.",
+    "release_date": "2011-01-28",
+    "available_set": [
+        "DUEL TERMINAL 4",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "HIDDEN ARSENAL 4 TRISHULA'S TRIUMPH",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [
+        "Jurrac Aeolo",
+        "Jurrac Astero",
+        "Jurrac Brachis",
+        "Jurrac Dino",
+        "Jurrac Giganoto",
+        "Jurrac Guaiba",
+        "Jurrac Herra",
+        "Jurrac Megalo",
+        "Jurrac Meteor",
+        "Jurrac Stauriko",
+        "Jurrac Stego",
+        "Jurrac Titano",
+        "Jurrac Velo",
+        "Jurrac Volcano"
+    ],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

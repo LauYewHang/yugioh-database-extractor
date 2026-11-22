@@ -1,0 +1,26 @@
+{
+    "name": "VWXYZ-Dragon Catapult Cannon",
+    "filename": "VWXYZ_Dragon_Catapult_Cannon",
+    "card_text": "\"VW-Tiger Catapult\" + \"XYZ-Dragon Cannon\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. Once per turn: You can target 1 card your opponent controls; banish that target. When this card declares an attack on an opponent's monster: You can target the attack target; change that attack target's battle position. (Flip effects are not activated.)",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "ELEMENTAL ENERGY",
+        "The Lost Art Promotion 6",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "DUELIST PACK - CHAZZ PRINCETON -",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "Armed Dragon Catapult Cannon",
+        "VW-Tiger Catapult",
+        "XYZ-Dragon Cannon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

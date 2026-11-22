@@ -1,0 +1,42 @@
+{
+    "name": "Lunalight Gold Leo",
+    "filename": "Lunalight_Gold_Leo",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Lunalight\" monster from your Deck to your hand, except \"Lunalight Gold Leo\", then discard 1 card. If a \"Lunalight\" monster(s) is sent to your GY, while this card is in your Monster Zone, even during the Damage Step: You can target 1 of them; add it to your hand. You can only use each effect of \"Lunalight Gold Leo\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE",
+        "LEGENDARY ARC-V DECKS"
+    ],
+    "related_card": [
+        "Luna Light Perfume",
+        "Lunalight Black Sheep",
+        "Lunalight Blue Cat",
+        "Lunalight Cat Dancer",
+        "Lunalight Crimson Fox",
+        "Lunalight Emerald Bird",
+        "Lunalight Fusion",
+        "Lunalight Kaleido Chick",
+        "Lunalight Leo Dancer",
+        "Lunalight Liger Dancer",
+        "Lunalight Masquerade",
+        "Lunalight Panther Dancer",
+        "Lunalight Perfume Dancer",
+        "Lunalight Purple Butterfly",
+        "Lunalight Reincarnation Dance",
+        "Lunalight Sabre Dancer",
+        "Lunalight Scarlet Tiger",
+        "Lunalight Serenade Dance",
+        "Lunalight Silver Hound",
+        "Lunalight Tiger",
+        "Lunalight White Rabbit",
+        "Lunalight Wolf",
+        "Lunalight Yellow Marten"
+    ],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 1600,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

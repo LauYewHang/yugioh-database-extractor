@@ -1,0 +1,17 @@
+{
+    "name": "Trackblack",
+    "filename": "Trackblack",
+    "card_text": "2 Effect Monsters\nYou can target 1 monster you control this card points to; each time it destroys an opponent's monster by battle this turn, draw 1 card. You can only use this effect of \"Trackblack\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 136
+}

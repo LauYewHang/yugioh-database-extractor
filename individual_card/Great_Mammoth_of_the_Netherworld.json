@@ -1,0 +1,21 @@
+{
+    "name": "Great Mammoth of the Netherworld",
+    "filename": "Great_Mammoth_of_the_Netherworld",
+    "card_text": "If this card is Special Summoned and you control \"Call of the Haunted\" or a Zombie monster, except \"Great Mammoth of the Netherworld\": You can target 1 card on the field; destroy it. You can only use this effect of \"Great Mammoth of the Netherworld\" once per turn. A Zombie Xyz Monster that has this card as material gains this effect.\n\u25cfGains 1000 ATK.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Call of the Haunted",
+        "Pumpking the Great Ghost King",
+        "Stare of the Snake Hair"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1800,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

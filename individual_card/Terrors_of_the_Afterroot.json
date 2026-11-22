@@ -1,0 +1,16 @@
+{
+    "name": "Terrors of the Afterroot",
+    "filename": "Terrors_of_the_Afterroot",
+    "card_text": "Target 1 monster in your opponent's GY; Special Summon it to your opponent's field, then you can banish 1 monster your opponent controls, then if your opponent has a banished monster(s), return 1 of them to the GY. You can banish this card from your GY, except the turn it was sent there, then target 1 Level 1 monster in your GY; shuffle that monster into the Deck, then you can Set 1 \"Terrors of the Underroot\", \"Terrors of the Overroot\", or \"Terrors of the Afterroot\" from your Deck.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Terrors of the Overroot",
+        "Terrors of the Underroot"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

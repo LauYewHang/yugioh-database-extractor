@@ -1,0 +1,12 @@
+{
+    "name": "Riot's Reason",
+    "filename": "Riot_s_Reason",
+    "card_text": "Target 1 face-down Defense Position monster on the field; return it to the hand, then the player whose card was added to their hand can Special Summon 1 monster from their hand in face-down Defense Position. When an opponent's monster declares an attack: You can banish this card from your GY; change 1 face-down Defense Position monster on the field to face-up Attack Position. You can only use each effect of \"Riot's Reason\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

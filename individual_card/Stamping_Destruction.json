@@ -1,0 +1,21 @@
+{
+    "name": "Stamping Destruction",
+    "filename": "Stamping_Destruction",
+    "card_text": "If you control a Dragon monster: Target 1 Spell/Trap on the field; destroy that target, and if you do, inflict 500 damage to its controller.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "LEGACY OF DARKNESS",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "MYSTIC FIGHTERS",
+        "DARK BEGINNING 2",
+        "STARTER DECK KAIBA RELOADED",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Thunder Sea Horse",
+    "filename": "Thunder_Sea_Horse",
+    "card_text": "You can discard this card; add 2 Level 4 LIGHT Thunder-Type monsters of the same name with 1600 or less ATK from your Deck to your hand. You can only use the effect of \"Thunder Sea Horse\" once per turn. You cannot Special Summon during the turn you activate this effect.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "COLLECTIBLE TIN 2013 WAVE 2",
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Super-Nimble Mega Hamster",
+    "filename": "Super_Nimble_Mega_Hamster",
+    "card_text": "FLIP: You can Special Summon 1 Level 3 or lower Beast monster from your Deck in face-down Defense Position.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST LEAGUE 15",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR"
+    ],
+    "related_card": [
+        "Nimble Angler",
+        "Nimble Beaver"
+    ],
+    "attribute": "EARTH",
+    "attack": 1100,
+    "defense": 1800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

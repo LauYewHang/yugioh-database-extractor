@@ -1,0 +1,16 @@
+{
+    "name": "Flash of Heraldry",
+    "filename": "Flash_of_Heraldry",
+    "card_text": "Target any number of face-up monsters your opponent controls; those monsters' names become \"Unknown\". During your End Phase, if you control a Psychic Xyz Monster and this card is in your GY: You can Set this card, but banish it when it leaves the field. You can only use this effect of \"Flash of Heraldry\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Augmented Heraldry",
+        "Heraldic Beast Stad Whale",
+        "Number 69: Heraldry Crest - Dark Matter Demolition"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

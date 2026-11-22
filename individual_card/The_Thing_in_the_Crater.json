@@ -1,0 +1,19 @@
+{
+    "name": "The Thing in the Crater",
+    "filename": "The_Thing_in_the_Crater",
+    "card_text": "When this card is destroyed and sent from the field to the Graveyard, you can Special Summon 1 Pyro-Type Monster from your hand.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 1200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

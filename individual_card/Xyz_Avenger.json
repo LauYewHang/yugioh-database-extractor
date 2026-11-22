@@ -1,0 +1,26 @@
+{
+    "name": "Xyz Avenger",
+    "filename": "Xyz_Avenger",
+    "card_text": "This card is unaffected by the effects of Xyz Monsters. When this card is destroyed by battle with an Xyz Monster and sent to the Graveyard: Activate 1 of these effects, depending on the Rank of the Xyz Monster that destroyed this card;\n\u25cfRank 3 or lower: Your opponent sends 1 card from their Extra Deck to the Graveyard.\n\u25cfRank 4: Choose 1 card in your opponent's Extra Deck and send it to the Graveyard.\n\u25cfRank 5 or higher: Your opponent sends as many cards from their Extra Deck to the Graveyard as possible, but not more than the Xyz Monster's Rank.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 700,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Red Potan",
+    "filename": "Red_Potan",
+    "card_text": "You can target 1 \"Potan\" monster you control; treat it as a Tuner until the end of the next turn. If a monster is Synchro Summoned while you control this monster: You can Special Summon 1 \"Potan\" monster from your hand or Deck. You can only use each effect of \"Red Potan\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Black Potan",
+        "White Potan"
+    ],
+    "attribute": "FIRE",
+    "attack": 100,
+    "defense": 200,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

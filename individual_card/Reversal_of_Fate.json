@@ -1,0 +1,29 @@
+{
+    "name": "Reversal of Fate",
+    "filename": "Reversal_of_Fate",
+    "card_text": "Target 1 \"Arcana Force\" monster you control; that monster's effect is now treated as the opposite coin toss result.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Arcana Force 0 - The Fool",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force EX - The Dark Ruler",
+        "Arcana Force EX - The Light Ruler",
+        "Arcana Force I - The Magician",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Force VII - The Chariot",
+        "Arcana Force XIV - Temperance",
+        "Arcana Force XIX - The Sun",
+        "Arcana Force XV - The Fiend",
+        "Arcana Force XVIII - The Moon",
+        "Arcana Force XXI - The World"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

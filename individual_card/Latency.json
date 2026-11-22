@@ -1,0 +1,17 @@
+{
+    "name": "Latency",
+    "filename": "Latency",
+    "card_text": "If this card is added from your GY to your hand by a card effect: You can Special Summon it from your hand. If this card Summoned this way is sent to the GY as Link Material: You can draw 1 card. You can only use each effect of \"Latency\" once per turn.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

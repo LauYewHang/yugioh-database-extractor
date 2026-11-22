@@ -1,0 +1,18 @@
+{
+    "name": "Curse of Dragonfire",
+    "filename": "Curse_of_Dragonfire",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 Field Spell on the field; destroy it. Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card.",
+    "release_date": "2016-04-15",
+    "available_set": [
+        "MILLENNIUM PACK",
+        "TOON CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

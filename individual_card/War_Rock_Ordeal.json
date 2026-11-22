@@ -1,0 +1,27 @@
+{
+    "name": "War Rock Ordeal",
+    "filename": "War_Rock_Ordeal",
+    "card_text": "You can only control 1 \"War Rock Ordeal\". When this card is activated: Place 3 counters on it. When your \"War Rock\" monster destroys an opponent's monster by battle and sends it to their GY: You can remove 1 counter from this card, and if you do, draw 1 card. If the last counter has been removed by this effect, send this card to the GY.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "War Rock Bashileos",
+        "War Rock Big Blow",
+        "War Rock Dignity",
+        "War Rock Fortia",
+        "War Rock Gactos",
+        "War Rock Generations",
+        "War Rock Mammud",
+        "War Rock Medium",
+        "War Rock Meteoragon",
+        "War Rock Mountain",
+        "War Rock Orpis",
+        "War Rock Skyler",
+        "War Rock Spirit",
+        "War Rock Wento"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

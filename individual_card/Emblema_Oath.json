@@ -1,0 +1,28 @@
+{
+    "name": "Emblema Oath",
+    "filename": "Emblema_Oath",
+    "card_text": "Activate 1 of these effects;\n\u25cfPlace 1 \"Centur-Ion\" monster from your Deck in your Spell & Trap Zone as a face-up Continuous Trap. For the rest of this turn, while you control that card, or any card with that same original name, you cannot Special Summon from the Extra Deck, except \"Centur-Ion\" monsters.\n\u25cfSet 1 \"Centur-Ion\" Spell/Trap directly from your Deck.\nYou can only activate 1 \"Emblema Oath\" per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Centur-Ion Atrii",
+        "Centur-Ion Auxila",
+        "Centur-Ion Bonds",
+        "Centur-Ion Chimerea",
+        "Centur-Ion Emeth VI",
+        "Centur-Ion Gargoyle II",
+        "Centur-Ion Legatia",
+        "Centur-Ion Phalanx",
+        "Centur-Ion Primera",
+        "Centur-Ion Primera Primus",
+        "Centur-Ion Trudea",
+        "Centur-Ion True Awakening",
+        "Stand Up Centur-Ion!",
+        "Wake Up Centur-Ion!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

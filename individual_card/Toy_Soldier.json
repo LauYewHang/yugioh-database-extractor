@@ -1,0 +1,19 @@
+{
+    "name": "Toy Soldier",
+    "filename": "Toy_Soldier",
+    "card_text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. You can only use each of the following effects of \"Toy Soldier\" once per turn. If this Set card in the Spell & Trap Zone is sent to the GY: You can Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Toy Box\" from your Deck to your hand, or, if you control \"Toy Box\", you can add 1 Level 4 LIGHT monster instead.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Toy Box"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

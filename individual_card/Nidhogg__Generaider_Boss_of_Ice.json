@@ -1,0 +1,35 @@
+{
+    "name": "Nidhogg, Generaider Boss of Ice",
+    "filename": "Nidhogg__Generaider_Boss_of_Ice",
+    "card_text": "You can only control 1 \"Nidhogg, Generaider Boss of Ice\". When your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute 1 \"Generaider\" monster or 1 Wyrm monster; negate the Summon, and if you do, destroy that monster(s). You can only use this effect of \"Nidhogg, Generaider Boss of Ice\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Dovelgus, Generaider Boss of Iron",
+        "Frodi, Generaider Boss of Swords",
+        "Generaider Boss Bite",
+        "Generaider Boss Fight",
+        "Generaider Boss Loot",
+        "Generaider Boss Quest",
+        "Generaider Boss Room",
+        "Generaider Boss Stage",
+        "Harr, Generaider Boss of Storms",
+        "Hela, Generaider Boss of Doom",
+        "Jormungandr, Generaider Boss of Eternity",
+        "Laevatein, Generaider Boss of Shadows",
+        "Loptr, Shadow of the Generaider Bosses",
+        "Mardel, Generaider Boss of Light",
+        "Naglfar, Generaider Boss of Fire",
+        "Utgarda, Generaider Boss of Delusion",
+        "Vala, Seidhr of the Generaider Bosses"
+    ],
+    "attribute": "WATER",
+    "attack": 2100,
+    "defense": 2600,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

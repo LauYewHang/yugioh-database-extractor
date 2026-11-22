@@ -1,0 +1,12 @@
+{
+    "name": "Loss Time",
+    "filename": "Loss_Time",
+    "card_text": "If your opponent's LP is 4000 or higher, your LP become 1000 less than theirs. You can only activate 1 \"Loss Time\" per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

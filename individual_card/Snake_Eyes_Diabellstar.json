@@ -1,0 +1,38 @@
+{
+    "name": "Snake-Eyes Diabellstar",
+    "filename": "Snake_Eyes_Diabellstar",
+    "card_text": "When an attack is declared involving this card and an opponent's monster: You can place this card from the field, and that opponent's monster, face-up in their owners' Spell & Trap Zones as Continuous Spells. While this card is a Continuous Spell: You can target 1 FIRE monster in your GY, except \"Snake-Eyes Diabellstar\"; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, and if you do, Special Summon this card. You can only use each effect of \"Snake-Eyes Diabellstar\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Curse of Diabell",
+        "Diabellstar Vengeance",
+        "Diabellze the White Witch",
+        "Divine Temple of the Snake-Eye",
+        "Dramatic Snake-Eye Chase",
+        "Filia Diabell",
+        "Guilt of the Sinful Spoils",
+        "Like the Diabell",
+        "Original Sinful Spoils - Snake-Eye",
+        "Play the Diabell",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils Sanctification",
+        "Snake-Eye Ash",
+        "Snake-Eye Birch",
+        "Snake-Eye Oak",
+        "Snake-Eyes Doomed Dragon",
+        "Snake-Eyes Poplar",
+        "Startling Stare of the Snake-Eyes",
+        "WANTED: Seeker of Sinful Spoils"
+    ],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 2600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

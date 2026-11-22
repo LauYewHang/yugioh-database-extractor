@@ -1,0 +1,18 @@
+{
+    "name": "Set Rotation",
+    "filename": "Set_Rotation",
+    "card_text": "Set 2 Field Spells with different names from your Deck on the field (1 on your field, and 1 on your opponent's field). While either of those cards remain Set on the field, neither player can activate or Set other Field Spells.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "MAXIMUM CRISIS",
+        "2018 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: SACRED BEASTS",
+        "Gold Series: Maximum Gold",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "OTS TOURNAMENT PACK 6"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

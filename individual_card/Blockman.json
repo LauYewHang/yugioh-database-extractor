@@ -1,0 +1,20 @@
+{
+    "name": "Blockman",
+    "filename": "Blockman",
+    "card_text": "You can Tribute this card; Special Summon in Defense Position, a number of \"Block Tokens\" (Rock-Type/EARTH/Level 4/ATK 1000/DEF 1500) equal to the number of your turns this card has been face-up on your field. These Tokens cannot declare an attack.",
+    "release_date": "2007-03-09",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "YUGI'S LEGENDARY DECKS",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DUELIST PACK SPECIAL EDITION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1500,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Giant Flea",
+    "filename": "Giant_Flea",
+    "card_text": "A massive flea that feeds on the blood of its enemies.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "TOURNAMENT PACK 1ST SEASON"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Insect",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

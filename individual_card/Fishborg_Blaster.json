@@ -1,0 +1,21 @@
+{
+    "name": "Fishborg Blaster",
+    "filename": "Fishborg_Blaster",
+    "card_text": "If you control a face-up Level 3 or lower WATER monster: You can discard 1 card; Special Summon this card from your GY. If this card is used as Synchro Material, all other Synchro Materials must be WATER.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "QUARTER CENTURY BONANZA",
+        "TURBO PACK BOOSTER SIX"
+    ],
+    "related_card": [
+        "Fishborg Doctor"
+    ],
+    "attribute": "WATER",
+    "attack": 100,
+    "defense": 200,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Marshmao\u2606Yummy",
+    "filename": "Marshmao_Yummy",
+    "card_text": "If you control no monsters, or all monsters you control are LIGHT Beast monsters: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Yummy\" Spell/Trap from your GY to your hand, or, if this card was Special Summoned by the effect of a Synchro Monster, you can place 1 \"Yummy\" Field Spell or 1 \"Yummy\" Continuous Spell/Trap from your Deck or banishment, face-up on your field instead. You can only use each effect of \"Marshmao\u2606Yummy\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Assist\u2605Yummy!",
+        "Cooky\u2605Yummy Way",
+        "Cooky\u2606Yummy",
+        "Cupsy\u2605Yummy Way",
+        "Cupsy\u2606Yummy",
+        "Lollipo\u2605Yummy Way",
+        "Lollipo\u2606Yummy",
+        "Yummyusment\u2605Acroquey",
+        "Yummyusment\u2606Mignon",
+        "Yummy\u2605Redemption",
+        "Yummy\u2605Snatchy",
+        "Yummy\u2606Surprise",
+        "Yum\u2606Yum\u2606Yummys"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 600,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

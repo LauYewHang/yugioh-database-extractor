@@ -1,0 +1,37 @@
+{
+    "name": "Kozmo Landwalker",
+    "filename": "Kozmo_Landwalker",
+    "card_text": "If a \"Kozmo\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy 1 other \"Kozmo\" card you control instead. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 5 or lower \"Kozmo\" monster from your Deck.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES"
+    ],
+    "related_card": [
+        "Kozmo Dark Destroyer",
+        "Kozmo Dark Eclipser",
+        "Kozmo Dark Planet",
+        "Kozmo Delta Shuttle",
+        "Kozmo DOG Fighter",
+        "Kozmo Farmgirl",
+        "Kozmo Forerunner",
+        "Kozmo Goodwitch",
+        "Kozmo Lightsword",
+        "Kozmo Scaredy Lion",
+        "Kozmo Sliprider",
+        "Kozmo Soartroopers",
+        "Kozmo Strawman",
+        "Kozmo Tincan",
+        "Kozmojo",
+        "Kozmoll Dark Lady",
+        "Kozmoll Wickedwitch",
+        "Kozmotown",
+        "Kozmourning"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

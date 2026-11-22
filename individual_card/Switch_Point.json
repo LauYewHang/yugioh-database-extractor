@@ -1,0 +1,12 @@
+{
+    "name": "Switch Point",
+    "filename": "Switch_Point",
+    "card_text": "Choose 1 monster your opponent controls, and your opponent sends either of the following to the GY.\n\u25cfThe chosen monster.\n\u25cfThe other monsters they control.\nYour opponent must control 3 or more monsters for you to activate and resolve this effect.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Frozen Soul",
+    "filename": "Frozen_Soul",
+    "card_text": "You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

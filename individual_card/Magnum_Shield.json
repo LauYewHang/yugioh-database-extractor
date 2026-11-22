@@ -1,0 +1,13 @@
+{
+    "name": "Magnum Shield",
+    "filename": "Magnum_Shield",
+    "card_text": "Equip only to a Warrior-Type monster. Apply this effect, depending on its battle position.\n\u25cfAttack Position: It gains ATK equal to its original DEF.\n\u25cfDefense Position: It gains DEF equal to its original ATK.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

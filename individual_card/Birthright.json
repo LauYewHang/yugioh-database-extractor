@@ -1,0 +1,18 @@
+{
+    "name": "Birthright",
+    "filename": "Birthright",
+    "card_text": "Activate this card by targeting 1 Normal Monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DEMO PROGRESSION SET 2026",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "5D's STARTER DECK 2008",
+        "STRIKE OF NEOS",
+        "STARTER DECK KAIBA RELOADED",
+        "WARRIORS' STRIKE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

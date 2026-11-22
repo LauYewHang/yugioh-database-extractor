@@ -1,0 +1,20 @@
+{
+    "name": "Warrior Lady of the Wasteland",
+    "filename": "Warrior_Lady_of_the_Wasteland",
+    "card_text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 EARTH Warrior monster with 1500 or less ATK from your Deck, in Attack Position.",
+    "release_date": "2005-10-28",
+    "available_set": [
+        "DUEL TERMINAL 4",
+        "STARTER DECK DAWN OF THE XYZ",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1100,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,29 @@
+{
+    "name": "The Weather Forecast",
+    "filename": "The_Weather_Forecast",
+    "card_text": "When this card is activated: You can place 1 \"The Weather\" Spell/Trap from your Deck face-up in your Spell & Trap Zone. You can only use each of the following effects of \"The Weather Forecast\" once per turn. If you Link Summon a \"The Weather\" Link Monster, you can also use face-up \"The Weather\" cards in your Spell & Trap Zone as \"The Weather\" monsters for its Link Summon. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 \"The Weather\" monster from your hand. You can only activate 1 \"The Weather Forecast\" per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "The Weather Auroral Canvas",
+        "The Weather Cloudy Canvas",
+        "The Weather Painter Aurora",
+        "The Weather Painter Cloud",
+        "The Weather Painter Moonbow",
+        "The Weather Painter Rain",
+        "The Weather Painter Rainbow",
+        "The Weather Painter Snow",
+        "The Weather Painter Sun",
+        "The Weather Painter Thunder",
+        "The Weather Rainbowed Canvas",
+        "The Weather Rainy Canvas",
+        "The Weather Snowy Canvas",
+        "The Weather Sunny Canvas",
+        "The Weather Thundery Canvas"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

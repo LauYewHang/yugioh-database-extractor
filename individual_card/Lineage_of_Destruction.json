@@ -1,0 +1,12 @@
+{
+    "name": "Lineage of Destruction",
+    "filename": "Lineage_of_Destruction",
+    "card_text": "Activate only during a turn in which you destroyed a Defense Position monster your opponent controlled. Select 1 Level 8 monster you control. During this turn, the selected monster can attack twice.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

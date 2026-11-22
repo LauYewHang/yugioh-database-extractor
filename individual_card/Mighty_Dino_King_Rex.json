@@ -1,0 +1,18 @@
+{
+    "name": "Mighty Dino King Rex",
+    "filename": "Mighty_Dino_King_Rex",
+    "card_text": "If this attacking card destroys an opponent's monster by battle: It can make a second attack during this Battle Phase. Once per turn, if you control this card that was not Summoned this turn: You can target up to 2 monsters your opponent controls; destroy them.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 3200,
+    "defense": 1200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

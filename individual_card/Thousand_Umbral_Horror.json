@@ -1,0 +1,27 @@
+{
+    "name": "Thousand Umbral Horror",
+    "filename": "Thousand_Umbral_Horror",
+    "card_text": "(Quick Effect): You can send this card from your hand or field to the GY; place 1 \"Barian's Seventh Untopia\" from your hand or Deck, face-up in your Field Zone, also you cannot Special Summon from the Extra Deck until the end of your next turn after this effect resolves, except Xyz Monsters. If an Xyz Monster(s) is Special Summoned, while this card is in your GY (except during the Damage Step): You can Special Summon this card, also you take no effect damage from your card effects this turn. You can only use each effect of \"Thousand Umbral Horror\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Barian's Hope",
+        "Barian's Seal",
+        "Barian's Seventh Untopia",
+        "Gorgonic Umbral Horror",
+        "Shining Umbral Horror",
+        "Umbral Horror Ghoul",
+        "Umbral Horror Unform",
+        "Umbral Horror Will o' the Wisp",
+        "V Umbral Horror"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

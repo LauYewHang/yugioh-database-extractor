@@ -1,0 +1,19 @@
+{
+    "name": "Rose Tentacles",
+    "filename": "Rose_Tentacles",
+    "card_text": "Cannot be Special Summoned. At the start of your Battle Phase, for each Plant monster your opponent currently controls, this card gains 1 additional attack during each Battle Phase this turn. Each time this card destroys a Plant monster by battle: Inflict 300 damage to your opponent.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

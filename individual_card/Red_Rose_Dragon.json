@@ -1,0 +1,35 @@
+{
+    "name": "Red Rose Dragon",
+    "filename": "Red_Rose_Dragon",
+    "card_text": "If this card is sent to the GY as Synchro Material: You can Special Summon 1 \"Rose Dragon\" monster from your hand or Deck, except \"Red Rose Dragon\", then, if it was sent for the Synchro Summon of \"Black Rose Dragon\" or a Plant Synchro Monster, you can also add 1 \"Frozen Rose\" or 1 \"Blooming of the Darkest Rose\" from your Deck to your hand. You can only use this effect of \"Red Rose Dragon\" once per turn.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "Legendary 5D's Decks",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Basal Rose Shoot",
+        "Black Rose Dragon",
+        "Black Rose Garden",
+        "Blooming of the Darkest Rose",
+        "Blue Rose Dragon",
+        "Bramble Rose Dragon",
+        "Crossrose Dragon",
+        "Frozen Rose",
+        "Garden Rose Maiden",
+        "Roxrose Dragon",
+        "Ruddy Rose Dragon",
+        "Vengeful Witch",
+        "White Rose Cloister",
+        "White Rose Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

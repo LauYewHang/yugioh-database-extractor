@@ -1,0 +1,37 @@
+{
+    "name": "Qliphort Disk",
+    "filename": "Qliphort_Disk",
+    "card_text": "You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. When this card is Tribute Summoned by Tributing a \"Qli\" monster(s): You can Special Summon 2 \"Qli\" monsters from your Deck, but destroy them during the End Phase.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "Apoqliphort Skybase",
+        "Apoqliphort Towers",
+        "Laser Qlip",
+        "Qlife's End",
+        "Qlimate Change",
+        "Qliphort Carrier",
+        "Qliphort Cephalopod",
+        "Qliphort Genius",
+        "Qliphort Helix",
+        "Qliphort Monolith",
+        "Qliphort Scout",
+        "Qliphort Shell",
+        "Qliphort Stealth",
+        "Qlipper Launch",
+        "Re-qliate",
+        "Saqlifice"
+    ],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7,
+    "pendulum_effect": "You cannot Special Summon monsters, except \"Qli\" monsters. This effect cannot be negated. All \"Qli\" monsters you control gain 300 ATK.",
+    "pendulum_scale": 1
+}

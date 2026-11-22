@@ -1,0 +1,13 @@
+{
+    "name": "Guardragon Corewakening",
+    "filename": "Guardragon_Corewakening",
+    "card_text": "You can send 1 Effect Monster from your hand to the GY; Special Summon 1 Level 4 or lower Dragon Normal Monster from your hand, Deck, or GY, in Defense Position. You can only use this effect of \"Guardragon Corewakening\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

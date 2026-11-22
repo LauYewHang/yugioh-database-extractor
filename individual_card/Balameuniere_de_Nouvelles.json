@@ -1,0 +1,35 @@
+{
+    "name": "Balameuniere de Nouvelles",
+    "filename": "Balameuniere_de_Nouvelles",
+    "card_text": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can add 1 \"Nouvelles\" or \"Recipe\" card from your Deck to your hand. You can target 1 Attack Position monster your opponent controls; Tribute it, and if you do, Special Summon 1 Level 6 \"Nouvelles\" Ritual Monster from your hand or Deck. This is a Quick Effect if this card was Special Summoned by the effect of a \"Nouvelles\" monster. You can only use each effect of \"Balameuniere de Nouvelles\" once per turn.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Baelgrill de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef de Nouvelles",
+        "Chef's Special Recipe",
+        "Concours de Cuisine (Culinary Confrontation)",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Hamburger Recipe",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Personnel (Staff Recipe)",
+        "Recette de Poisson (Fish Recipe)",
+        "Recette de Viande (Meat Recipe)",
+        "Voici la Carte (Today's Menu)"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1850,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

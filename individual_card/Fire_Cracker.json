@@ -1,0 +1,18 @@
+{
+    "name": "Fire Cracker",
+    "filename": "Fire_Cracker",
+    "card_text": "(Quick Effect): You can discard this card; inflict 1000 damage to your opponent, and if you do, skip your next Draw Phase. You can only use this effect of \"Fire Cracker\" once per turn. Each time your opponent takes effect damage, place 1 counter on this card. Once per turn, during the End Phase: Remove all counters from this card that were placed by its effect, and if you do, inflict 300 damage to your opponent for each.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS",
+        "YU-GI-OH! ADVENT CALENDAR 2018"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

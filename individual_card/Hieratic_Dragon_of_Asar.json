@@ -1,0 +1,37 @@
+{
+    "name": "Hieratic Dragon of Asar",
+    "filename": "Hieratic_Dragon_of_Asar",
+    "card_text": "You can Special Summon this card (from your hand) by banishing 1 LIGHT Dragon-Type monster and 1 Dragon-Type Normal Monster from your Graveyard. If this face-up card on the field would be destroyed, you can Tribute 1 face-up \"Hieratic\" monster instead, except this card.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Hieratic Dragon King of Atum",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Nuit",
+        "Hieratic Dragon of Su",
+        "Hieratic Dragon of Sutekh",
+        "Hieratic Dragon of Tefnuit",
+        "Hieratic Seal From the Ashes",
+        "Hieratic Seal of Banishment",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Creation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King",
+        "Hieratic Seal of the Heavenly Spheres",
+        "Hieratic Seal of the Sun Dragon Overlord",
+        "Hieratic Sky Dragon Overlord of Heliopolis",
+        "Hieratic Sun Dragon Overlord of Heliopolis"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2600,
+    "defense": 700,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

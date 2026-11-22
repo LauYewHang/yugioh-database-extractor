@@ -1,0 +1,28 @@
+{
+    "name": "Zoodiac Gathering",
+    "filename": "Zoodiac_Gathering",
+    "card_text": "If a \"Zoodiac\" Xyz Monster you control would detach its Xyz Material(s) to activate an effect, you can detach Xyz Material(s) from another Xyz Monster(s) you control instead. You can only use this effect of \"Zoodiac Gathering\" once per turn. You can banish this card from your Graveyard, then target 2 \"Zoodiac\" Xyz Monsters you control; attach 1 of those monsters to the other monster as Xyz Material.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Zodiac Sign",
+        "Zoodiac Barrage",
+        "Zoodiac Boarbow",
+        "Zoodiac Broadbull",
+        "Zoodiac Bunnyblast",
+        "Zoodiac Chakanine",
+        "Zoodiac Combo",
+        "Zoodiac Drident",
+        "Zoodiac Hammerkong",
+        "Zoodiac Kataroost",
+        "Zoodiac Ramram",
+        "Zoodiac Ratpier",
+        "Zoodiac Thoroughblade",
+        "Zoodiac Tigermortar",
+        "Zoodiac Whiptail"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "War Rock Dignity",
+    "filename": "War_Rock_Dignity",
+    "card_text": "You must control a \"War Rock\" monster to activate either of these effects.\n\u25cfWhen a monster your opponent controls activates its effect: Negate that effect.\n\u25cfDuring the Battle Phase, when your opponent activates a Spell/Trap Card, or monster effect: Negate that effect.\nYou can only activate 1 \"War Rock Dignity\" per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "War Rock Bashileos",
+        "War Rock Big Blow",
+        "War Rock Fortia",
+        "War Rock Gactos",
+        "War Rock Generations",
+        "War Rock Mammud",
+        "War Rock Medium",
+        "War Rock Meteoragon",
+        "War Rock Mountain",
+        "War Rock Ordeal",
+        "War Rock Orpis",
+        "War Rock Skyler",
+        "War Rock Spirit",
+        "War Rock Wento"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

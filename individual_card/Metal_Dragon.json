@@ -1,0 +1,21 @@
+{
+    "name": "Metal Dragon",
+    "filename": "Metal_Dragon",
+    "card_text": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\"",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Lesser Dragon",
+        "Steel Ogre Grotto #1"
+    ],
+    "attribute": "WIND",
+    "attack": 1850,
+    "defense": 1700,
+    "monster_type": "Machine",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

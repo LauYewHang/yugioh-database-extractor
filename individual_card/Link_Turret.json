@@ -1,0 +1,31 @@
+{
+    "name": "Link Turret",
+    "filename": "Link_Turret",
+    "card_text": "When this card is activated: Place 4 counters on this card. Each time you take battle damage, place 1 counter on this card. During your Main Phase 2: You can remove 1 counter from this card, then target 1 \"Rokket\" monster in your GY; Special Summon it, but its effects are negated, also it is banished when it leaves the field. You cannot Special Summon monsters from your Extra Deck, except DARK Link Monsters, the turn you activate this effect (even if this card leaves the field).",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "STRUCTURE DECK: ROKKET REVOLT",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Anesthrokket Dragon",
+        "Autorokket Dragon",
+        "Exploderokket Dragon",
+        "Hollowrokket Dragon",
+        "Magnarokket Dragon",
+        "Metalrokket Dragon",
+        "Rokket Barrage",
+        "Rokket Caliber",
+        "Rokket Coder",
+        "Rokket Detonator",
+        "Rokket Loader",
+        "Rokket Recharger",
+        "Rokket Synchron",
+        "Rokket Tracer",
+        "Shelrokket Dragon",
+        "Silverrokket Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Wild Tornado",
+    "filename": "Wild_Tornado",
+    "card_text": "Target 1 face-up card in the Spell & Trap Zone; destroy that face-up card, then, its controller can Set 1 Spell/Trap from their hand. If this Set card is destroyed and sent to the GY: Target 1 face-up card on the field; destroy that target.",
+    "release_date": "2010-06-01",
+    "available_set": [
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

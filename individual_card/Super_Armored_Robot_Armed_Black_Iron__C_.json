@@ -1,0 +1,17 @@
+{
+    "name": "Super Armored Robot Armed Black Iron \"C\"",
+    "filename": "Super_Armored_Robot_Armed_Black_Iron__C_",
+    "card_text": "If you have 3 Insect monsters with the same name in your GY: You can target any number of them; Special Summon this card from your hand, then equip them to this card. You can send 1 monster equipped to this card by this card's effect to the GY; destroy all monsters your opponent controls with ATK greater than or equal to the ATK of the monster sent to the GY. You can only use each effect of \"Super Armored Robot Armed Black Iron \"C\"\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 2800,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

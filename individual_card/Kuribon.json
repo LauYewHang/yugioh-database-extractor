@@ -1,0 +1,20 @@
+{
+    "name": "Kuribon",
+    "filename": "Kuribon",
+    "card_text": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; you take no battle damage from that battle, your opponent gains LP equal to the attacking monster's ATK, also you return this card to the hand.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "ADVENT CALENDAR 2019",
+        "DUEL TERMINAL 3",
+        "OTS TOURNAMENT PACK 28"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

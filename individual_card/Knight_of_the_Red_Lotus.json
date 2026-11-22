@@ -1,0 +1,17 @@
+{
+    "name": "Knight of the Red Lotus",
+    "filename": "Knight_of_the_Red_Lotus",
+    "card_text": "If you have exactly 3 Normal Monsters in your Graveyard, you can Special Summon this card from your hand by removing from play 2 Normal Monsters from your Graveyard. Once per turn, you can select and Special Summon 1 Level 4 or lower Normal Monster from your Graveyard.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2100,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

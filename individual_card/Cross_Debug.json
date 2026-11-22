@@ -1,0 +1,17 @@
+{
+    "name": "Cross Debug",
+    "filename": "Cross_Debug",
+    "card_text": "If you control 2 or more Link Monsters: You can Special Summon this card from your hand. During damage calculation, if your Link Monster battles an opponent's Link Monster (Quick Effect): You can banish this card from your GY, then target 1 Link Monster in your GY; your battling monster cannot be destroyed by that battle, also, until the end of this turn, it gains ATK equal to the target's ATK. You can only use each effect of \"Cross Debug\" once per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 900,
+    "defense": 600,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

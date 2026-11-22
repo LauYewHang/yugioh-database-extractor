@@ -1,0 +1,15 @@
+{
+    "name": "Anti Raigeki",
+    "filename": "Anti_Raigeki",
+    "card_text": "When your opponent activates \"Raigeki\": Negate its effect, and if you do, destroy all monsters your opponent controls.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "TOURNAMENT PACK 3RD SEASON",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [
+        "Raigeki"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

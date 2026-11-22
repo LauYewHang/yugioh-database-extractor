@@ -1,0 +1,17 @@
+{
+    "name": "Exchange",
+    "filename": "Exchange",
+    "card_text": "Both players reveal their hands and add 1 card from each other's hand to their hand.",
+    "release_date": "2002-10-15",
+    "available_set": [
+        "Yu-Gi-Oh! THE ETERNAL DUELIST SOUL Bundles",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 1",
+        "DUELIST PACK - YUGI -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

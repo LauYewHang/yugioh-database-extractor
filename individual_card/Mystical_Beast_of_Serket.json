@@ -1,0 +1,28 @@
+{
+    "name": "Mystical Beast of Serket",
+    "filename": "Mystical_Beast_of_Serket",
+    "card_text": "If you do not control \"Temple of the Kings\", destroy this card. Banish any monster destroyed by battle with this card. If this card destroys a monster by battle: It gains 500 ATK.",
+    "release_date": "2010-10-19",
+    "available_set": [
+        "STRUCTURE DECK - MARIK -",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -"
+    ],
+    "related_card": [
+        "Defense of the Temple",
+        "Divine Scorpion Beast of Serket",
+        "Divine Serpent Apophis",
+        "Merciless Scorpion of Serket",
+        "Temple of the Kings",
+        "The Man with the Mark",
+        "Treasures of the Kings"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

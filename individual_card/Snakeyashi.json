@@ -1,0 +1,19 @@
+{
+    "name": "Snakeyashi",
+    "filename": "Snakeyashi",
+    "card_text": "This monster is formed by several serpents that break off to individually attack nearby enemies.",
+    "release_date": "2017-08-03",
+    "available_set": [
+        "OTS TOURNAMENT PACK 5"
+    ],
+    "related_card": [
+        "Rose Spectre of Dunn"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1200,
+    "monster_type": "Plant",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

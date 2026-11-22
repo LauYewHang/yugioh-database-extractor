@@ -1,0 +1,26 @@
+{
+    "name": "Exodius the Ultimate Forbidden Lord",
+    "filename": "Exodius_the_Ultimate_Forbidden_Lord",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling all monsters in your Graveyard into the Deck, and cannot be Special Summoned by other ways. When this card declares an attack: Send 1 monster from your hand or Deck to the Graveyard. This card gains 1000 ATK for each Normal Monster in your Graveyard. If this face-up card would leave the field, banish it instead. If there are 5 different \"Forbidden One\" cards in your Graveyard that were sent there by this card's effect, you win the Duel.",
+    "release_date": "2010-11-02",
+    "available_set": [
+        "COLLECTIBLE TIN 2010 WAVE 2",
+        "SHONEN JUMP Subscription Promotional Card - May 2008 -",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "MILLENNIUM PACK"
+    ],
+    "related_card": [
+        "Exodia the Forbidden One",
+        "Left Arm of the Forbidden One",
+        "Left Leg of the Forbidden One",
+        "Right Arm of the Forbidden One",
+        "Right Leg of the Forbidden One"
+    ],
+    "attribute": "DARK",
+    "attack": "?",
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

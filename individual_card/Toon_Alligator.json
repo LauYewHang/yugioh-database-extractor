@@ -1,0 +1,26 @@
+{
+    "name": "Toon Alligator",
+    "filename": "Toon_Alligator",
+    "card_text": "An alligator monster straight from the cartoons.",
+    "release_date": "2003-03-30",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "STARTER DECK PEGASUS",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS"
+    ],
+    "related_card": [
+        "Evil Box",
+        "Funny Dark Rabbit",
+        "Mind Scan",
+        "Toon Dark Magician",
+        "Toon Table of Contents"
+    ],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 1600,
+    "monster_type": "Reptile",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

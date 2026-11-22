@@ -1,0 +1,27 @@
+{
+    "name": "Dark Mimic LV3",
+    "filename": "Dark_Mimic_LV3",
+    "card_text": "If this card is destroyed by battle and sent to the GY: Draw 1 card, but if this card was Special Summoned by the effect of \"Dark Mimic LV1\", draw 2 cards instead.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "GOLD SERIES HAUNTED MINE",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Dark Mimic LV1",
+        "Level Down!?",
+        "Level Modulation",
+        "Level Up!",
+        "Silent Paladin",
+        "The Graveyard in the Fourth Dimension"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

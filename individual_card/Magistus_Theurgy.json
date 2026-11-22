@@ -1,0 +1,34 @@
+{
+    "name": "Magistus Theurgy",
+    "filename": "Magistus_Theurgy",
+    "card_text": "Target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster, except a Level 4 monster, from your Extra Deck, GY, or face-up field. If you have at least 1 each \"Magistus\" Fusion, Synchro, Xyz, and Link Monsters in your GY, you can equip it with 1 non-\"Magistus\" Fusion, Synchro, Xyz, or Link Monster from your Extra Deck, instead. You can only activate \"Magistus Theurgy\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

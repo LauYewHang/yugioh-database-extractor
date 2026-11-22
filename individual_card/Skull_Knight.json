@@ -1,0 +1,22 @@
+{
+    "name": "Skull Knight",
+    "filename": "Skull_Knight",
+    "card_text": "\"Tainted Wisdom\" + \"Ancient Brain\"",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Ancient Brain",
+        "Tainted Wisdom"
+    ],
+    "attribute": "DARK",
+    "attack": 2650,
+    "defense": 2250,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

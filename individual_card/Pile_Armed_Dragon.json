@@ -1,0 +1,42 @@
+{
+    "name": "Pile Armed Dragon",
+    "filename": "Pile_Armed_Dragon",
+    "card_text": "You can send 1 other WIND Dragon monster or 1 other Level 7 or higher Dragon monster from your hand to the GY; Special Summon this card from your hand. You can send 1 \"Armed Dragon\" monster from your hand or Deck to the GY, except \"Pile Armed Dragon\", then target 1 face-up monster you control; that targeted monster gains ATK equal to the Level of the monster sent to the GY x 300, until the end of this turn, also you can only attack with 1 monster this turn. You can only use each effect of \"Pile Armed Dragon\" once per turn.",
+    "release_date": "2022-03-11",
+    "available_set": [
+        "HIDDEN ARSENAL CHAPTER 1",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Catapult Cannon",
+        "Armed Dragon Flash",
+        "Armed Dragon Lightning",
+        "Armed Dragon LV10",
+        "Armed Dragon LV10 White",
+        "Armed Dragon LV3",
+        "Armed Dragon LV5",
+        "Armed Dragon LV7",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon Thunderbolt",
+        "Armed Dragon, the Armored Dragon",
+        "Armed Neos",
+        "Dark Armed Dragon",
+        "Drill Armed Dragon",
+        "Fist Armed Dragon",
+        "Knight Armed Dragon, the Armored Knight Dragon",
+        "Metaphys Armed Dragon",
+        "Ojama Pajama",
+        "Ojamatch"
+    ],
+    "attribute": "WIND",
+    "attack": 2800,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

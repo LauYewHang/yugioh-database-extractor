@@ -1,0 +1,17 @@
+{
+    "name": "Master & Expert",
+    "filename": "Master___Expert",
+    "card_text": "A deadly duo consisting of a beast master and its loyal servant.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK KAIBA"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

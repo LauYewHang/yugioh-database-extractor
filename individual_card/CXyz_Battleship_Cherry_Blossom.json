@@ -1,0 +1,33 @@
+{
+    "name": "CXyz Battleship Cherry Blossom",
+    "filename": "CXyz_Battleship_Cherry_Blossom",
+    "card_text": "4 Level 4 monsters\nOnce per turn, during your opponent's End Phase, if your opponent has more cards in their hand than you do: They discard 1 card. If this card has \"Battlecruiser Dianthus\" as an Xyz Material, it gains this effect.\n\u25cfYou can detach 1 Xyz Material from this card; inflict 300 damage to your opponent for each card on the field. You can only use this effect of \"CXyz Battleship Cherry Blossom\" once per turn.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Barian Untopia",
+        "Barian's Seal",
+        "Battlecruiser Dianthus",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Rank-Up-Magic Admiration of the Thousands",
+        "Rank-Up-Magic Argent Chaos Force",
+        "Rank-Up-Magic Barian's Force",
+        "Resurgam Xyz",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

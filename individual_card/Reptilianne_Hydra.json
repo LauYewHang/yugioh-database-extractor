@@ -1,0 +1,38 @@
+{
+    "name": "Reptilianne Hydra",
+    "filename": "Reptilianne_Hydra",
+    "card_text": "1 \"Reptilianne\" Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: Destroy as many monsters your opponent controls with 0 ATK as possible, and if you do, draw 1 card for each monster destroyed.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "OTS TOURNAMENT PACK 16",
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Echidna",
+        "Reptilianne Gardna",
+        "Reptilianne Gorgon",
+        "Reptilianne Lamia",
+        "Reptilianne Medusa",
+        "Reptilianne Melusine",
+        "Reptilianne Naga",
+        "Reptilianne Nyami",
+        "Reptilianne Poison",
+        "Reptilianne Rage",
+        "Reptilianne Ramifications",
+        "Reptilianne Recoil",
+        "Reptilianne Scylla",
+        "Reptilianne Servant",
+        "Reptilianne Spawn",
+        "Reptilianne Vaskii",
+        "Reptilianne Viper",
+        "Serpent Suppression"
+    ],
+    "attribute": "DARK",
+    "attack": 2100,
+    "defense": 1500,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Loptr, Shadow of the Generaider Bosses",
+    "filename": "Loptr__Shadow_of_the_Generaider_Bosses",
+    "card_text": "You can only control 1 \"Loptr, Shadow of the Generaider Bosses\". \"Generaider\" monsters you control gain 1000 ATK/DEF during your opponent's turn only. During the Main Phase (Quick Effect): You can Tribute 1 \"Generaider\" monster; Special Summon 1 Level 9 \"Generaider\" monster with a different name from your Deck. You can only use this effect of \"Loptr, Shadow of the Generaider Bosses\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [
+        "Dovelgus, Generaider Boss of Iron",
+        "Frodi, Generaider Boss of Swords",
+        "Generaider Boss Bite",
+        "Generaider Boss Fight",
+        "Generaider Boss Loot",
+        "Generaider Boss Quest",
+        "Generaider Boss Room",
+        "Generaider Boss Stage",
+        "Harr, Generaider Boss of Storms",
+        "Hela, Generaider Boss of Doom",
+        "Jormungandr, Generaider Boss of Eternity",
+        "Laevatein, Generaider Boss of Shadows",
+        "Mardel, Generaider Boss of Light",
+        "Naglfar, Generaider Boss of Fire",
+        "Nidhogg, Generaider Boss of Ice",
+        "Utgarda, Generaider Boss of Delusion",
+        "Vala, Seidhr of the Generaider Bosses"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Apoqliphort Skybase",
+    "filename": "Apoqliphort_Skybase",
+    "card_text": "Cannot be Special Summoned. Requires 3 \"Qli\" Tributes to Normal Summon/Set. If this card is Normal Summoned/Set, it is unaffected by Spell/Trap effects and by activated effects from any monster whose original Level/Rank is lower than this card's current Level. Once per turn: You can target 1 monster your opponent controls; take control of it until the End Phase.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "Apoqliphort Towers",
+        "Laser Qlip",
+        "Qlife's End",
+        "Qlimate Change",
+        "Qliphort Carrier",
+        "Qliphort Cephalopod",
+        "Qliphort Disk",
+        "Qliphort Genius",
+        "Qliphort Helix",
+        "Qliphort Monolith",
+        "Qliphort Scout",
+        "Qliphort Shell",
+        "Qliphort Stealth",
+        "Qlipper Launch",
+        "Re-qliate",
+        "Saqlifice"
+    ],
+    "attribute": "EARTH",
+    "attack": 2900,
+    "defense": 2500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

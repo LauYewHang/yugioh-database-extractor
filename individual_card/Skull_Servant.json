@@ -1,0 +1,38 @@
+{
+    "name": "Skull Servant",
+    "filename": "Skull_Servant",
+    "card_text": "A skeletal ghost that isn't strong but can mean trouble in large numbers.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK BEGINNING 1",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "OTS TOURNAMENT PACK 1",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "QUARTER CENTURY STAMPEDE",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [
+        "Flame Ghost",
+        "King of the Skull Servants",
+        "Moissa Wight",
+        "The Lady in Wight",
+        "Wight Reanimator",
+        "Wightbaking",
+        "Wightlord",
+        "Wightmare",
+        "Wightprince",
+        "Wightprincess",
+        "Zombie Warrior"
+    ],
+    "attribute": "DARK",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

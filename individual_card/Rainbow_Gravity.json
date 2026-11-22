@@ -1,0 +1,36 @@
+{
+    "name": "Rainbow Gravity",
+    "filename": "Rainbow_Gravity",
+    "card_text": "If you have 7 \"Crystal Beast\" cards with different names on your field and/or in your GY: Special Summon 1 \"Ultimate Crystal\" monster from your Deck or GY, ignoring its Summoning conditions.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "RA YELLOW MEGA PACK",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LIGHT OF DESTRUCTION",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Rainbow Dark Dragon",
+        "Rainbow Dragon",
+        "Rainbow Overdragon",
+        "Ultimate Crystal Rainbow Dragon Overdrive"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

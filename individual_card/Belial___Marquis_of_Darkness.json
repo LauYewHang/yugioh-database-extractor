@@ -1,0 +1,19 @@
+{
+    "name": "Belial - Marquis of Darkness",
+    "filename": "Belial___Marquis_of_Darkness",
+    "card_text": "Your opponent cannot target any face-up monster you control, except \"Belial - Marquis of Darkness\", for an attack, or with Spell/Trap effects.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

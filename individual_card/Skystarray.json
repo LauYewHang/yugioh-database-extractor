@@ -1,0 +1,19 @@
+{
+    "name": "Skystarray",
+    "filename": "Skystarray",
+    "card_text": "This card can attack your opponent directly. At the end of the Battle Phase, if this card attacked directly: Banish this card until your next Standby Phase.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 600,
+    "defense": 300,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Robbin' Goblin",
+    "filename": "Robbin__Goblin",
+    "card_text": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "STARTER DECK PEGASUS",
+        "DARK BEGINNING 2",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "CHAMPION PACK GAME FOUR"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

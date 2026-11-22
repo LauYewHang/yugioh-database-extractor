@@ -1,0 +1,33 @@
+{
+    "name": "Wattkinetic Puppeteer",
+    "filename": "Wattkinetic_Puppeteer",
+    "card_text": "(Quick Effect): You can send this card from your hand or field to the GY, then target 1 monster your opponent controls; move that target to another of their Main Monster Zones.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Wattcancel",
+        "Wattcastle",
+        "Wattchimera",
+        "Wattcobra",
+        "Wattdragonfly",
+        "Watthopper",
+        "Watthydra",
+        "Wattkeeper",
+        "Wattkey",
+        "Wattkingdom",
+        "Wattkiwi",
+        "Wattkyuki",
+        "Wattrain",
+        "Wattuna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

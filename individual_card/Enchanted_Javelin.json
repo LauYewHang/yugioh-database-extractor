@@ -1,0 +1,15 @@
+{
+    "name": "Enchanted Javelin",
+    "filename": "Enchanted_Javelin",
+    "card_text": "Increase your Life Points by the ATK of 1 attacking monster.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "STARTER DECK PEGASUS",
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

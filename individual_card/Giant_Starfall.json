@@ -1,0 +1,12 @@
+{
+    "name": "Giant Starfall",
+    "filename": "Giant_Starfall",
+    "card_text": "Neither player can activate the effects of monsters without a Level in response to this card's activation. Target 1 face-up monster without a Level on the field; for the rest of this turn, any battle damage from battles involving that target is halved, it cannot activate its effects or be destroyed by battle, also its ATK becomes 0.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Galloping Gaia",
+    "filename": "Galloping_Gaia",
+    "card_text": "Your opponent cannot activate cards or effects during the Battle Phase while \"Gaia the Dragon Champion\" is in your Monster Zone. You can activate 1 of the following effects.\n\u25cfYou can reveal 1 \"Gaia The Fierce Knight\" monster in your hand; add 1 Level 5 Dragon monster from your Deck to your hand.\n\u25cfYou can reveal 1 Level 5 Dragon monster in your hand; add 1 \"Gaia The Fierce Knight\" monster from your Deck to your hand.\nYou can only use this effect of \"Galloping Gaia\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Charging Gaia the Fierce Knight",
+        "Curse of Dragon, the Cursed Dragon",
+        "Gaia the Dragon Champion",
+        "Gaia The Fierce Knight",
+        "Gaia the Fierce Knight Origin",
+        "Gaia the Magical Knight",
+        "Gaia the Magical Knight of Dragons",
+        "Heart of Gaia",
+        "Lord Gaia the Fierce Knight",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Soldier Gaia The Fierce Knight",
+        "Swift Gaia the Fierce Knight"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

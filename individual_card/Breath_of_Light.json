@@ -1,0 +1,12 @@
+{
+    "name": "Breath of Light",
+    "filename": "Breath_of_Light",
+    "card_text": "Destroy all face-up Rock-Type monsters on the field.",
+    "release_date": "2006-04-28",
+    "available_set": [
+        "DUELIST LEAGUE SERIES 10"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

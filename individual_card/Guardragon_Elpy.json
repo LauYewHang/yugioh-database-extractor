@@ -1,0 +1,18 @@
+{
+    "name": "Guardragon Elpy",
+    "filename": "Guardragon_Elpy",
+    "card_text": "1 Level 4 or lower Dragon monster\nYou cannot Special Summon monsters, except Dragon monsters. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or Deck to your zone that 2 or more Link Monsters point to. You can only use this effect of \"Guardragon Elpy\" once per turn. You can only Special Summon \"Guardragon Elpy(s)\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 16
+}

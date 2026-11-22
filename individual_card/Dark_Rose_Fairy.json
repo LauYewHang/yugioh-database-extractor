@@ -1,0 +1,18 @@
+{
+    "name": "Dark Rose Fairy",
+    "filename": "Dark_Rose_Fairy",
+    "card_text": "If a Tuner(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. If this card is in your GY: You can send 1 card from your hand or field to the GY; place this card on the top or bottom of your Deck. You can only use each effect of \"Dark Rose Fairy\" once per turn.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

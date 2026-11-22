@@ -1,0 +1,19 @@
+{
+    "name": "Leonardo's Silver Skyship",
+    "filename": "Leonardo_s_Silver_Skyship",
+    "card_text": "Her wings display her glory.\nThe proof of her glories are told in legend..",
+    "release_date": "2014-08-10",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2014"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 3000,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7,
+    "pendulum_effect": "Once per turn: You can banish 3 Machine-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.",
+    "pendulum_scale": 10
+}

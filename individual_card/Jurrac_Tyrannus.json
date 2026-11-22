@@ -1,0 +1,34 @@
+{
+    "name": "Jurrac Tyrannus",
+    "filename": "Jurrac_Tyrannus",
+    "card_text": "You can Tribute 1 Dinosaur monster; this card gains 500 ATK. If this card destroys an opponent's monster by battle and sends it to the GY: This card gains 300 ATK.",
+    "release_date": "2010-05-25",
+    "available_set": [
+        "HIDDEN ARSENAL 2",
+        "SPEED DUEL: SCARS OF BATTLE",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [
+        "Jurrac Aeolo",
+        "Jurrac Astero",
+        "Jurrac Brachis",
+        "Jurrac Dino",
+        "Jurrac Giganoto",
+        "Jurrac Guaiba",
+        "Jurrac Herra",
+        "Jurrac Megalo",
+        "Jurrac Meteor",
+        "Jurrac Stauriko",
+        "Jurrac Stego",
+        "Jurrac Titano",
+        "Jurrac Velo",
+        "Jurrac Volcano"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 1400,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

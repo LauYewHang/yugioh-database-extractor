@@ -1,0 +1,12 @@
+{
+    "name": "Fateful Hour",
+    "filename": "Fateful_Hour",
+    "card_text": "Target 1 monster that cannot be Normal Summoned/Set in either GY; Special Summon it.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

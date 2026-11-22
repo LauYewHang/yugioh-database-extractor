@@ -1,0 +1,15 @@
+{
+    "name": "Chaos Trap Hole",
+    "filename": "Chaos_Trap_Hole",
+    "card_text": "When a LIGHT or DARK monster(s) would be Summoned: Pay 2000 LP; negate the Summon of the LIGHT and DARK monster(s), and if you do, banish it.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "OTS TOURNAMENT PACK 3",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

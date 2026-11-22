@@ -1,0 +1,30 @@
+{
+    "name": "Ice Ryzeal",
+    "filename": "Ice_Ryzeal",
+    "card_text": "You can Special Summon this card (from your hand) by sending 1 card from your hand or field to the GY. If Summoned this way, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon \"Ice Ryzeal\" once per turn this way. If this card is Normal Summoned: You can Special Summon 1 \"Ryzeal\" monster from your Deck, except \"Ice Ryzeal\". You can only use this effect of \"Ice Ryzeal\" once per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ext Ryzeal",
+        "Node Ryzeal",
+        "Palm Ryzeal",
+        "Ryzeal Cross",
+        "Ryzeal Detonator",
+        "Ryzeal Duo Drive",
+        "Ryzeal Mass Driver",
+        "Ryzeal Plasma Hole",
+        "Ryzeal Plugin",
+        "Star Ryzeal",
+        "Sword Ryzeal"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

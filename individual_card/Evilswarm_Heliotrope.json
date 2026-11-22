@@ -1,0 +1,29 @@
+{
+    "name": "Evilswarm Heliotrope",
+    "filename": "Evilswarm_Heliotrope",
+    "card_text": ".ytilaer a maerd rieht ekam thgim yeht taht os ydob a rof gninraey ,sluos mrawsleetS gniregnil fo sthguoht eht era esehT \"!etanimretxE !etacidarE !etanimilE\"",
+    "release_date": "2012-09-28",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DUEL TERMINAL 7A",
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [
+        "Evilswarm Bahamut",
+        "Evilswarm Castor",
+        "Evilswarm Kerykeion",
+        "Evilswarm Ophion",
+        "Infestation Infection",
+        "Infestation Pandemic",
+        "Infestation Terminus",
+        "Steelswarm Origin"
+    ],
+    "attribute": "DARK",
+    "attack": 1950,
+    "defense": 650,
+    "monster_type": "Rock",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

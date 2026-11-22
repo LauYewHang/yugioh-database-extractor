@@ -1,0 +1,26 @@
+{
+    "name": "Deep Sea Diva",
+    "filename": "Deep_Sea_Diva",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower Sea Serpent monster from your Deck.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "RAGING BATTLE",
+        "TURBO PACK BOOSTER FOUR",
+        "OTS TOURNAMENT PACK 13",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "MAXIMUM GOLD: EL DORADO",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Deep Sea Repetiteur"
+    ],
+    "attribute": "WATER",
+    "attack": 200,
+    "defense": 400,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

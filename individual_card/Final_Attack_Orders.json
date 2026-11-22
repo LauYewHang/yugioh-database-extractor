@@ -1,0 +1,21 @@
+{
+    "name": "Final Attack Orders",
+    "filename": "Final_Attack_Orders",
+    "card_text": "All face-up monsters on the field are changed to Attack Position and their battle positions cannot be changed.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DARK CRISIS (Reprint)",
+        "STRUCTURE DECK : SETO KAIBA",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "DARK REVELATION Volume 1",
+        "Speed Duel: Battle City Box",
+        "DARK CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

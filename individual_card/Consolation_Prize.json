@@ -1,0 +1,13 @@
+{
+    "name": "Consolation Prize",
+    "filename": "Consolation_Prize",
+    "card_text": "If a monster(s) is sent from the hand to the GY: Target 1 of them; Special Summon it to your field. You can only activate 1 \"Consolation Prize\" per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

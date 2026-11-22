@@ -1,0 +1,23 @@
+{
+    "name": "Mechanicalchaser",
+    "filename": "Mechanicalchaser",
+    "card_text": "A hunter that relentlessly pursues its target by order of the Machine King.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "TOURNAMENT PACK 3RD SEASON",
+        "STRUCTURE DECK MACHINE RE-VOLT",
+        "DARK BEGINNING 2",
+        "TOURNAMENT PACK 1ST SEASON"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1850,
+    "defense": 800,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Igknight Margrave",
+    "filename": "Igknight_Margrave",
+    "card_text": "A high-ranking Igknight warrior. When he does enter the fray, his sweeping attacks are feared not just by the enemy but also his own troops.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS",
+        "ASTRAL PACK EIGHT"
+    ],
+    "related_card": [
+        "Igknight Burst",
+        "Igknight Cavalier",
+        "Igknight Champion",
+        "Igknight Crusader",
+        "Igknight Gallant",
+        "Igknight Lancer",
+        "Igknight Paladin",
+        "Igknight Reload",
+        "Igknight Squire",
+        "Igknight Templar",
+        "Igknight Veteran",
+        "Igknights Unite",
+        "Ignis Phoenix, the Dracoslayer",
+        "Ignition Phoenix"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.",
+    "pendulum_scale": 7
+}

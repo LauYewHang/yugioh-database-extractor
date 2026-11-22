@@ -1,0 +1,20 @@
+{
+    "name": "Triple Tactics Thrust",
+    "filename": "Triple_Tactics_Thrust",
+    "card_text": "If your opponent has activated a monster effect during this turn: Set 1 Normal Spell/Trap from your Deck, except \"Triple Tactics Thrust\", or if your opponent controls a monster, you can add it to your hand instead. That Set card cannot be activated this turn. You can only activate 1 \"Triple Tactics Thrust\" per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "LEGENDARY MODERN DECKS 2026",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "LEGENDARY ARC-V DECKS",
+        "MAZE OF MILLENNIA",
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition) - bonus extra card",
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "OTS TOURNAMENT PACK 22",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

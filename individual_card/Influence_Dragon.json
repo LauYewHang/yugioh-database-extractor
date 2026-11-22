@@ -1,0 +1,17 @@
+{
+    "name": "Influence Dragon",
+    "filename": "Influence_Dragon",
+    "card_text": "Once per turn: You can target 1 face-up monster you control; it becomes Dragon-Type until the End Phase.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 300,
+    "defense": 900,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Psychic Trigger",
+    "filename": "Psychic_Trigger",
+    "card_text": "Activate only while your Life Points are lower than your opponent's. Select 2 Psychic-Type monsters in your Graveyard. Remove them from play and draw 2 cards.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

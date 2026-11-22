@@ -1,0 +1,33 @@
+{
+    "name": "Greater Polymerization",
+    "filename": "Greater_Polymerization",
+    "card_text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field as Fusion Material, and if you do, it gains these effects.\n\u25cfThis card cannot be destroyed by card effects.\n\u25cfIf this card attacks a Defense Position monster, inflict piercing battle damage.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Super Quantal Mech Beast Lusterrex",
+    "filename": "Super_Quantal_Mech_Beast_Lusterrex",
+    "card_text": "2 Level 7 monsters\nCannot attack unless it has material. Once per turn: You can detach 1 material from this card, then target 1 Effect Monster on the field; negate that face-up monster's effects until the end of this turn. This is a Quick Effect if this card has \"Super Quantum White Layer\" as material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as material.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2700,
+    "defense": 1900,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 7
+}

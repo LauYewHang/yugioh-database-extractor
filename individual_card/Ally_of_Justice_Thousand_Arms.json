@@ -1,0 +1,22 @@
+{
+    "name": "Ally of Justice Thousand Arms",
+    "filename": "Ally_of_Justice_Thousand_Arms",
+    "card_text": "This card can attack all face-up LIGHT monsters your opponent controls once each. If this card battles a non-LIGHT monster, destroy this card before damage calculation.",
+    "release_date": "2010-01-29",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "DUEL TERMINAL 1"
+    ],
+    "related_card": [
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unlimiter",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

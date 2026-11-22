@@ -1,0 +1,33 @@
+{
+    "name": "Fortune Lady Wind",
+    "filename": "Fortune_Lady_Wind",
+    "card_text": "This card's ATK and DEF are equal to its Level x 300. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is Normal Summoned, you can destroy a number of Spell or Trap Cards your opponent controls equal to the number of face-up \"Fortune Lady\" monsters you control.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Bending Destiny",
+        "Fortune Lady Calling",
+        "Fortune Lady Dark",
+        "Fortune Lady Earth",
+        "Fortune Lady Every",
+        "Fortune Lady Fire",
+        "Fortune Lady Light",
+        "Fortune Lady Past",
+        "Fortune Lady Rewind",
+        "Fortune Lady Water",
+        "Fortune Vision",
+        "Fortune's Future",
+        "Inherited Fortune",
+        "Solitaire Magician",
+        "Time Passage"
+    ],
+    "attribute": "WIND",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

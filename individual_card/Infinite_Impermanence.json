@@ -1,0 +1,27 @@
+{
+    "name": "Infinite Impermanence",
+    "filename": "Infinite_Impermanence",
+    "card_text": "Target 1 face-up monster your opponent controls; negate its effects (until the end of this turn), then if this card was Set before activation and is on the field at resolution, for the rest of this turn all other Spell/Trap effects in this column are negated. If you control no cards, you can activate this card from your hand.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "Legendary 5D's Decks",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "MAGNIFICENT MAVENS",
+        "FLAMES OF DESTRUCTION",
+        "LEGENDARY ARC-V DECKS",
+        "Gold Series: Maximum Gold",
+        "OTS TOURNAMENT PACK 17",
+        "DUEL POWER",
+        "STRUCTURE DECK: CYBER STRIKE",
+        "WINNER'S PACK 2026-2027",
+        "STRUCTURE DECK: FIRE KINGS",
+        "RARITY COLLECTION 5",
+        "DUEL OVERLOAD",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

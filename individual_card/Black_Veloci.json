@@ -1,0 +1,19 @@
+{
+    "name": "Black Veloci",
+    "filename": "Black_Veloci",
+    "card_text": "If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 400 ATK during the Damage Step only.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 300,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

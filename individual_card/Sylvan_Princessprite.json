@@ -1,0 +1,39 @@
+{
+    "name": "Sylvan Princessprite",
+    "filename": "Sylvan_Princessprite",
+    "card_text": "2 Level 1 monsters\nYou can detach 1 Xyz Material from this card; excavate the top card of your Deck, and if it is a Spell/Trap, add it to your hand. Otherwise, send it to the GY. You can send 1 other Plant monster from your hand or face-up from your field to the GY, then target 1 \"Sylvan\" monster in your GY; Special Summon it. You can only use each effect of \"Sylvan Princessprite\" once per turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Alsei, the Sylvan High Protector",
+        "Mount Sylvania",
+        "Orea, the Sylvan High Arbiter",
+        "Sylvan Bladefender",
+        "Sylvan Blessing",
+        "Sylvan Charity",
+        "Sylvan Cherubsprout",
+        "Sylvan Dancepione",
+        "Sylvan Flowerknight",
+        "Sylvan Guardioak",
+        "Sylvan Hermitree",
+        "Sylvan Komushroomo",
+        "Sylvan Lotuswain",
+        "Sylvan Marshalleaf",
+        "Sylvan Mikorange",
+        "Sylvan Peaskeeper",
+        "Sylvan Princessprout",
+        "Sylvan Sagequoia",
+        "Sylvan Snapdrassinagon",
+        "Sylvan Waterslide"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 100,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 1
+}

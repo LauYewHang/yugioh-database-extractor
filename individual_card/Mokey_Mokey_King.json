@@ -1,0 +1,22 @@
+{
+    "name": "Mokey Mokey King",
+    "filename": "Mokey_Mokey_King",
+    "card_text": "\"Mokey Mokey\" + \"Mokey Mokey\" + \"Mokey Mokey\"\nWhen this face-up card leaves the field: You can Special Summon as many \"Mokey Mokey\" as possible from your GY.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "RISE OF DESTINY",
+        "DARK REVELATION Volume 3",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Mokey Mokey",
+        "Mokey Mokey Adrift"
+    ],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 100,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

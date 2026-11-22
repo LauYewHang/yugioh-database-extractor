@@ -1,0 +1,17 @@
+{
+    "name": "Rescue Warrior",
+    "filename": "Rescue_Warrior",
+    "card_text": "You take no Battle Damage from battles involving this card. If this card is destroyed by battle, select 1 face-up monster your opponent controls that you own, and take control of it.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1700,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

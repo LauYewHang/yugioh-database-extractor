@@ -1,0 +1,19 @@
+{
+    "name": "Blast Held by a Tribute",
+    "filename": "Blast_Held_by_a_Tribute",
+    "card_text": "When an opponent's monster that was Tribute Summoned declares an attack: Destroy as many face-up Attack Position monsters they control as possible, and if you do, inflict 1000 damage to your opponent.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "DUEL TERMINAL 5B",
+        "DARK CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

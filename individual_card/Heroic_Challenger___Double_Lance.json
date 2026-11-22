@@ -1,0 +1,31 @@
+{
+    "name": "Heroic Challenger - Double Lance",
+    "filename": "Heroic_Challenger___Double_Lance",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 \"Heroic Challenger - Double Lance\" from your hand or Graveyard in face-up Defense Position. This card cannot be used as a Synchro Material Monster. This card cannot be used as an Xyz Material, except for the Xyz Summon of a Warrior-Type monster.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Ambush Soldier",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Clasp Sword",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Retribution Sword"
+    ],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 900,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

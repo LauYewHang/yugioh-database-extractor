@@ -1,0 +1,28 @@
+{
+    "name": "Cyber Blader",
+    "filename": "Cyber_Blader",
+    "card_text": "\"Etoile Cyber\" + \"Blade Skater\"\nA Fusion Summon of this card can only be done with the above Fusion Materials. This card gains the following effect, based on the number of monsters your opponent controls.\n\u25cf1: Cannot be destroyed by battle.\n\u25cf2: This card's ATK is doubled.\n\u25cf3: Your opponent's activated card effects are negated.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4",
+        "SPEED DUEL GX: DUEL ACADEMY BOX"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Blade Skater",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Etoile Cyber",
+        "Prima Light"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

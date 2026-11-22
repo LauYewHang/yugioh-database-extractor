@@ -1,0 +1,37 @@
+{
+    "name": "Performage Cup Tricker",
+    "filename": "Performage_Cup_Tricker",
+    "card_text": "If this card is in your hand: You can target 1 Xyz Monster on the field; detach 1 material from it, and if you do, Special Summon this card, then make 1 Xyz Monster on the field lose 600 ATK. If this card is detached from an Xyz Monster and sent to the GY to activate that monster's effect: You can target 2 Xyz Monsters you control; attach 1 material from 1 of those monsters to the other. You can only use each effect of \"Performage Cup Tricker\" once per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Bubble Barrier",
+        "Performage Ball Balancer",
+        "Performage Damage Juggler",
+        "Performage Fire Dancer",
+        "Performage Flame Eater",
+        "Performage Hat Tricker",
+        "Performage Mirror Conductor",
+        "Performage Plushfire",
+        "Performage Shadow Maker",
+        "Performage Stilts Launcher",
+        "Performage Trapeze High Magician",
+        "Performage Trapeze Magician",
+        "Performage Trapeze Witch",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Performage Wind Drainer",
+        "Trick Box"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 1400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "You can target 1 \"Performage\" Xyz Monster you control; attach this card to it as material. If a card(s) is added to your Extra Deck (except during the Damage Step): You can add 1 face-up \"Performage\" Pendulum Monster from your Extra Deck to your hand. You can only use each effect of \"Performage Cup Tricker\" once per turn.",
+    "pendulum_scale": 1
+}

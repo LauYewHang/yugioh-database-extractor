@@ -1,0 +1,25 @@
+{
+    "name": "PSY-Frame Circuit",
+    "filename": "PSY_Frame_Circuit",
+    "card_text": "If a \"PSY-Frame\" monster(s) is Special Summoned to your side of the field (except during the Damage Step), you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only \"PSY-Frame\" monsters you control. At the start of the Damage Step, if a \"PSY-Frame\" monster you control battles an opponent's monster: You can discard 1 \"PSY-Frame\" monster; your battling monster gains ATK equal to the discarded monster's ATK until the end of this turn.",
+    "release_date": "2015-10-02",
+    "available_set": [
+        "HIGH-SPEED RIDERS"
+    ],
+    "related_card": [
+        "PSY-Frame Accelerator",
+        "PSY-Frame Driver",
+        "PSY-Frame Multi-Threader",
+        "PSY-Frame Overload",
+        "PSY-Framegear Alpha",
+        "PSY-Framegear Beta",
+        "PSY-Framegear Delta",
+        "PSY-Framegear Epsilon",
+        "PSY-Framegear Gamma",
+        "PSY-Framelord Lambda",
+        "PSY-Framelord Omega",
+        "PSY-Framelord Zeta"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Arcana Force IV - The Emperor",
+    "filename": "Arcana_Force_IV___The_Emperor",
+    "card_text": "If this card is Summoned: Toss a coin.\n\u25cfHeads: All \"Arcana Force\" monsters you control gain 500 ATK.\n\u25cfTails: All \"Arcana Force\" monsters you control lose 500 ATK.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Arcana Call",
+        "Arcana Force 0 - The Fool",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force EX - The Dark Ruler",
+        "Arcana Force EX - The Light Ruler",
+        "Arcana Force I - The Magician",
+        "Arcana Force III - The Empress",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Force VII - The Chariot",
+        "Arcana Force XIV - Temperance",
+        "Arcana Force XIX - The Sun",
+        "Arcana Force XV - The Fiend",
+        "Arcana Force XVIII - The Moon",
+        "Arcana Force XXI - The World",
+        "Arcana Reading",
+        "Arcana Spread",
+        "Light Barrier",
+        "Light Force",
+        "Reversal of Fate"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1400,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

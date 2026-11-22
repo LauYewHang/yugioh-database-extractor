@@ -1,0 +1,23 @@
+{
+    "name": "Hazy Flame Sphynx",
+    "filename": "Hazy_Flame_Sphynx",
+    "card_text": "Your opponent cannot target this card with card effects. You can declare 1 card type (Monster, Spell, or Trap); send the top card of your Deck to the Graveyard, then if it was the declared card type, you can Special Summon 1 FIRE monster from your hand or Graveyard. You can only use this effect of \"Hazy Flame Sphynx\" once per turn.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Hazy Flame Cerbereus",
+        "Hazy Flame Hydra",
+        "Hazy Flame Peryton",
+        "Hazy Glory",
+        "Hazy Pillar"
+    ],
+    "attribute": "FIRE",
+    "attack": 1900,
+    "defense": 1900,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

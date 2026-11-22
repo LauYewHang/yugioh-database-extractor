@@ -1,0 +1,19 @@
+{
+    "name": "Winged Minion",
+    "filename": "Winged_Minion",
+    "card_text": "Tribute this card, then target 1 Fiend monster on the field; it gains 700 ATK/DEF while face-up in the Monster Zone.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 700,
+    "defense": 700,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

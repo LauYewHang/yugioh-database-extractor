@@ -1,0 +1,18 @@
+{
+    "name": "Frontline Base",
+    "filename": "Frontline_Base",
+    "card_text": "Once per turn: You can Special Summon 1 Level 4 or lower Union monster from your hand.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "STRUCTURE DECK : SETO KAIBA",
+        "DARK REVELATION Volume 1",
+        "Speed Duel: Battle City Box",
+        "MACHINA MAYHEM STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Union Controller"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

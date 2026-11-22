@@ -1,0 +1,23 @@
+{
+    "name": "Miscellaneousaurus",
+    "filename": "Miscellaneousaurus",
+    "card_text": "During the Main Phase (Quick Effect): You can send this card from your hand to the GY; during this Main Phase, Dinosaur monsters you control are unaffected by your opponent's activated effects. You can banish any number of Dinosaur monsters from your GY, including this card; Special Summon 1 Dinosaur monster from your Deck with a Level equal to the total number of monsters banished to activate this effect, but destroy it during the End Phase. You can only use this effect of \"Miscellaneousaurus\" once per turn.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "WILD SURVIVORS",
+        "Gold Series: Maximum Gold",
+        "RAGING TEMPEST",
+        "WINNER'S PACK 2026-2027",
+        "QUARTER CENTURY STAMPEDE",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

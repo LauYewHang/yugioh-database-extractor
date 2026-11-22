@@ -1,0 +1,19 @@
+{
+    "name": "Ashoka Pillar",
+    "filename": "Ashoka_Pillar",
+    "card_text": "If this card is Summoned: You can add 1 Equip Spell from your Deck to your hand, then if this card is in Attack Position, change it to Defense Position. You can only use this effect of \"Ashoka Pillar\" once per turn. If this card is destroyed by battle or card effect: Take 2000 damage.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "Triangle O"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2200,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

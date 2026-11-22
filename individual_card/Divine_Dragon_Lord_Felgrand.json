@@ -1,0 +1,17 @@
+{
+    "name": "Divine Dragon Lord Felgrand",
+    "filename": "Divine_Dragon_Lord_Felgrand",
+    "card_text": "If this card is Special Summoned from the Graveyard: You can target 1 monster your opponent controls or in their Graveyard; banish it, and if you do, this card gains ATK and DEF equal to the banished monster's original Level/Rank x 100. If this card destroys an opponent's monster by battle: You can target 1 Level 7 or 8 Dragon-Type monster in the Graveyard, except \"Divine Dragon Lord Felgrand\"; Special Summon it to your field.",
+    "release_date": "2016-07-08",
+    "available_set": [
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2800,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

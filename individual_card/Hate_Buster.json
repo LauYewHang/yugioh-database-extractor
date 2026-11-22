@@ -1,0 +1,14 @@
+{
+    "name": "Hate Buster",
+    "filename": "Hate_Buster",
+    "card_text": "When a Fiend-Type monster you control is targeted for an attack: Target the opponent's attacking monster and that monster you control; destroy both targets, and if you do, inflict damage to your opponent equal to the original ATK of the opponent's destroyed monster.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "DUEL TERMINAL 4",
+        "PHANTOM DARKNESS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

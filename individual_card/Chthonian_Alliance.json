@@ -1,0 +1,14 @@
+{
+    "name": "Chthonian Alliance",
+    "filename": "Chthonian_Alliance",
+    "card_text": "The equipped monster gains 800 ATK for each other face-up monster on the field that has the same name it does.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4",
+        "DUELIST PACK - CHAZZ PRINCETON -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

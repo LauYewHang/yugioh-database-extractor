@@ -1,0 +1,38 @@
+{
+    "name": "Springans Brothers",
+    "filename": "Springans_Brothers",
+    "card_text": "If this card is sent from the hand or Deck to the GY: You can target 1 \"Springans\" monster in your GY, except \"Springans Brothers\"; Special Summon it in Defense Position. If this card is in your hand, field, or GY: You can target 1 \"Springans\" Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Springans Brothers\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "Decisive Battle of Golgonda",
+        "Gigantic \"Champion\" Sargas",
+        "Great Sand Sea - Gold Golgonda",
+        "Gung-Ho! Springans!",
+        "Spright Smashers",
+        "Sprind the Irondash Dragon",
+        "Springans Blast!",
+        "Springans Booty",
+        "Springans Branga",
+        "Springans Call!",
+        "Springans Captain Sargas",
+        "Springans Interluder",
+        "Springans Kitt",
+        "Springans Merrymaker",
+        "Springans Pedor",
+        "Springans Rockey",
+        "Springans Ship - Exblowrer",
+        "Springans Watch",
+        "Tally-ho! Springans",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "attribute": "FIRE",
+    "attack": 300,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

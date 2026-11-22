@@ -1,0 +1,42 @@
+{
+    "name": "Gogogo Giant",
+    "filename": "Gogogo_Giant",
+    "card_text": "When this card is Normal Summoned: You can target 1 \"Gogogo\" monster in your GY; Special Summon that target in Defense Position, then change this card to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS",
+        "NUMBER HUNTERS",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
+        "STAR PACK 2014",
+        "STARTER DECK XYZ SYMPHONY"
+    ],
+    "related_card": [
+        "Dodododwarf Gogogoglove",
+        "Gagaga Ganbara Knight",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Gogogo Aristera & Dexia",
+        "Gogogo Ghost",
+        "Gogogo Gigas",
+        "Gogogo Goblindbergh",
+        "Gogogo Golem",
+        "Gogogo Golem - Golden Form",
+        "Gogogo Goram",
+        "Gogogo Talisman",
+        "Guard Go!",
+        "Number 55: Gogogo Goliath",
+        "Onomatokage",
+        "Onomatopaira",
+        "Onomatopia",
+        "Onomatopickup",
+        "Utopic Onomatopoeia",
+        "Zubababancho Gagagacoat"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

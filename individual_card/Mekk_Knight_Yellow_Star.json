@@ -1,0 +1,37 @@
+{
+    "name": "Mekk-Knight Yellow Star",
+    "filename": "Mekk_Knight_Yellow_Star",
+    "card_text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Yellow Star\" once per turn this way. You can banish 1 \"Mekk-Knight\" monster from your GY, then target 1 Spell/Trap in this card's column; destroy it.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "MAZE OF MEMORIES",
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Girsu, the Orcust Mekk-Knight",
+        "Mekk-Knight Avram",
+        "Mekk-Knight Blue Sky",
+        "Mekk-Knight Crusadia Avramax",
+        "Mekk-Knight Green Horizon",
+        "Mekk-Knight Indigo Eclipse",
+        "Mekk-Knight of the Morning Star",
+        "Mekk-Knight Orange Sunset",
+        "Mekk-Knight Purple Nightfall",
+        "Mekk-Knight Red Moon",
+        "Mekk-Knight Spectrum Supreme",
+        "World Legacy Key",
+        "World Legacy Scars",
+        "World Legacy Whispers",
+        "World Legacy's Memory",
+        "World Legacy's Secret"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2200,
+    "defense": 2800,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

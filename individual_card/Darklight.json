@@ -1,0 +1,14 @@
+{
+    "name": "Darklight",
+    "filename": "Darklight",
+    "card_text": "Tribute 1 DARK monster with 1500 or more ATK; destroy all monsters that were Special Summoned this turn.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "PHOTON SHOCKWAVE",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

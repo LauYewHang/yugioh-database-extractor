@@ -1,0 +1,18 @@
+{
+    "name": "Wannabee!",
+    "filename": "Wannabee_",
+    "card_text": "During the End Phase: You can send this card from your hand or field to the GY; excavate cards from the top of your Deck, equal to the number of your opponent's unused Spell & Trap Zones, and you can Set 1 excavated Trap to your field (but send it to the GY during the next End Phase), also place the rest on the bottom of the Deck in any order. You can only use this effect of \"Wannabee!\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

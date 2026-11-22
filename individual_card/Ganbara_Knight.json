@@ -1,0 +1,19 @@
+{
+    "name": "Ganbara Knight",
+    "filename": "Ganbara_Knight",
+    "card_text": "When this face-up Attack Position card is targeted for an attack: You can change it to Defense Position.",
+    "release_date": "2011-07-12",
+    "available_set": [
+        "STARTER DECK XYZ SYMPHONY",
+        "STARTER DECK DAWN OF THE XYZ",
+        "SUPER STARTER V FOR VICTORY"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

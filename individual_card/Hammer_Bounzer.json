@@ -1,0 +1,20 @@
+{
+    "name": "Hammer Bounzer",
+    "filename": "Hammer_Bounzer",
+    "card_text": "If your opponent controls a card and you control no cards, you can Normal Summon this card without Tributing. If this card attacks an opponent's monster, as long as you control no Spell/Trap Cards, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Bounzer Guard",
+        "Phantom Bounzer"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

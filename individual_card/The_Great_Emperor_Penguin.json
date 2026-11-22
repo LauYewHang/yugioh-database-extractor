@@ -1,0 +1,37 @@
+{
+    "name": "The Great Emperor Penguin",
+    "filename": "The_Great_Emperor_Penguin",
+    "card_text": "You can Tribute this card; Special Summon up to 2 \"Penguin\" monsters from your Deck, except \"The Great Emperor Penguin\".",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "OTS TOURNAMENT PACK 17"
+    ],
+    "related_card": [
+        "Bolt Penguin",
+        "First Penguin",
+        "Fluffal Penguin",
+        "Flying Penguin",
+        "Glacial Beast Polar Penguin",
+        "Guard Penguin",
+        "Nightmare Penguin",
+        "Nopenguin",
+        "Penguin Brave",
+        "Penguin Cleric",
+        "Penguin Knight",
+        "Penguin Ninja",
+        "Penguin Soldier",
+        "Penguin Squire",
+        "Penguin Sword",
+        "Penguin Torpedo",
+        "Puny Penguin",
+        "Royal Penguins Garden"
+    ],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

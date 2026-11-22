@@ -1,0 +1,32 @@
+{
+    "name": "Arcana Force EX - The Light Ruler",
+    "filename": "Arcana_Force_EX___The_Light_Ruler",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 monsters you control to the GY. If this card is Special Summoned: Toss a coin.\n\u25cfHeads: When this card destroys an opponent's monster by battle and sends it to the GY: You can target 1 card in your GY; add that target to your hand.\n\u25cfTails: When a Spell/Trap Card, or monster effect, that targets this card is activated (Quick Effect): This card loses exactly 1000 ATK and you negate the activation, and if you do, destroy it.",
+    "release_date": "2008-11-05",
+    "available_set": [
+        "SHONEN JUMP Promotional Card - November 2008 -",
+        "DUEL TERMINAL 6A",
+        "STAR PACK 2013",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Arcana Call",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Reading",
+        "Arcana Spread",
+        "Light Barrier",
+        "Light Force",
+        "Reversal of Fate"
+    ],
+    "attribute": "LIGHT",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

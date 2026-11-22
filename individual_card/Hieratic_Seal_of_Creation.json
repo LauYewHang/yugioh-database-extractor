@@ -1,0 +1,32 @@
+{
+    "name": "Hieratic Seal of Creation",
+    "filename": "Hieratic_Seal_of_Creation",
+    "card_text": "Target 1 Dragon Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Hieratic\" Xyz Monster with a different original name, by using that target as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can banish this card from your GY, then target 1 \"Hieratic\" monster in your GY; Special Summon it in Defense Position. You can only use 1 \"Hieratic Seal of Creation\" effect per turn, and only once that turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Hieratic Dragon King of Atum",
+        "Hieratic Dragon of Asar",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Nuit",
+        "Hieratic Dragon of Su",
+        "Hieratic Dragon of Sutekh",
+        "Hieratic Dragon of Tefnuit",
+        "Hieratic Seal From the Ashes",
+        "Hieratic Seal of Banishment",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King",
+        "Hieratic Seal of the Heavenly Spheres",
+        "Hieratic Seal of the Sun Dragon Overlord",
+        "Hieratic Sky Dragon Overlord of Heliopolis",
+        "Hieratic Sun Dragon Overlord of Heliopolis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

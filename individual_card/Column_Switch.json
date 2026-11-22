@@ -1,0 +1,13 @@
+{
+    "name": "Column Switch",
+    "filename": "Column_Switch",
+    "card_text": "Target 1 monster in your Main Monster Zone; move that target to another of your Main Monster Zones.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

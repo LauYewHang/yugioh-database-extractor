@@ -1,0 +1,36 @@
+{
+    "name": "Goblin King",
+    "filename": "Goblin_King",
+    "card_text": "While you control another Fiend monster, monsters cannot attack this card. This card's ATK/DEF become the number of other Fiend monsters on the field x 1000.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "ANCIENT SANCTUARY",
+        "OTS TOURNAMENT PACK 13"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

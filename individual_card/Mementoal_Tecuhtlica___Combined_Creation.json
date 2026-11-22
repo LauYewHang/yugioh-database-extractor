@@ -1,0 +1,36 @@
+{
+    "name": "Mementoal Tecuhtlica - Combined Creation",
+    "filename": "Mementoal_Tecuhtlica___Combined_Creation",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by shuffling 5 other \"Memento\" monsters with different names from your hand and/or GY into the Deck/Extra Deck. While you control no other monsters, this card can attack all monsters your opponent controls, once each. Once per turn, if your opponent activates a card or effect (except during the Damage Step): You can Special Summon 1 \"Memento\" monster from your hand or GY.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [
+        "Mementomictlan",
+        "Mementomictlan Tecuhtlica - Creation King",
+        "Mementotlan Akihiron",
+        "Mementotlan Angwitch",
+        "Mementotlan Bone Back",
+        "Mementotlan Bone Party",
+        "Mementotlan Cranium Burst",
+        "Mementotlan Dark Blade",
+        "Mementotlan Fracture Dance",
+        "Mementotlan Fusion",
+        "Mementotlan Ghattic",
+        "Mementotlan Goblin",
+        "Mementotlan Mace",
+        "Mementotlan Shleepy",
+        "Mementotlan Tatsunootoshigo",
+        "Mementotlan Twin Dragon",
+        "Mementotlan-Horned Dragon"
+    ],
+    "attribute": "EARTH",
+    "attack": 5000,
+    "defense": 5000,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

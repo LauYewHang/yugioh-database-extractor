@@ -1,0 +1,42 @@
+{
+    "name": "Red-Eyes Zombie Dragon Lord",
+    "filename": "Red_Eyes_Zombie_Dragon_Lord",
+    "card_text": "1 Zombie Tuner + 1+ non-Tuner monsters\nDuring your opponent's turn (Quick Effect): You can target 1 Zombie monster in your GY, except \"Red-Eyes Zombie Dragon Lord\"; Special Summon it. If this card is in your GY: You can banish 1 Zombie monster you control; Special Summon this card. You can only use each effect of \"Red-Eyes Zombie Dragon Lord\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Archfiend Black Skull Dragon",
+        "Black Metal Dragon",
+        "Cards of the Red Stone",
+        "Dark Dragon Ritual",
+        "Gearfried the Red-Eyes Iron Knight",
+        "Meteor Black Comet Dragon",
+        "Meteor Dragon Red-Eyes Impact",
+        "Paladin of Dark Dragon",
+        "Red-Eyes Alternative Black Dragon",
+        "Red-Eyes Baby Dragon",
+        "Red-Eyes Burn",
+        "Red-Eyes Fang with Chain",
+        "Red-Eyes Flare Metal Dragon",
+        "Red-Eyes Fusion",
+        "Red-Eyes Insight",
+        "Red-Eyes Retro Dragon",
+        "Red-Eyes Slash Dragon",
+        "Red-Eyes Soul",
+        "Red-Eyes Spirit",
+        "Red-Eyes Transmigration",
+        "Red-Eyes Wyvern",
+        "Return of the Red-Eyes",
+        "The Black Stone of Legend"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2400,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

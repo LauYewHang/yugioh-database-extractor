@@ -1,0 +1,38 @@
+{
+    "name": "Wind-Up Soldier",
+    "filename": "Wind_Up_Soldier",
+    "card_text": "During your Main Phase: You can increase this card's Level by 1 and ATK by 400, until the End Phase. This effect can only be used once while this card is face-up on the field.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [
+        "Legendary Wind-Up Key",
+        "Overwind",
+        "Weights & Zenmaisures",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Factory",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaintenance",
+        "Zenmaiday",
+        "Zenmailfunction",
+        "Zenmailstrom",
+        "Zenmairch"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Armed Dragon Lightning",
+    "filename": "Armed_Dragon_Lightning",
+    "card_text": "If an \"Armed Dragon\" monster(s) you control would be destroyed by card effect, you can send this card to the GY instead. You can target 1 \"Armed Dragon\" monster you control, then activate 1 of these effects;\n\u25cfIt gains ATK equal to its Level x 100 (even if this card leaves the field).\n\u25cfAdd 1 \"Armed Dragon\" monster with an equal or lower Level than it from your GY to your hand.\nYou can only use this effect of \"Armed Dragon Lightning\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Catapult Cannon",
+        "Armed Dragon Flash",
+        "Armed Dragon LV10",
+        "Armed Dragon LV10 White",
+        "Armed Dragon LV3",
+        "Armed Dragon LV5",
+        "Armed Dragon LV7",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon Thunderbolt",
+        "Armed Dragon, the Armored Dragon",
+        "Armed Neos",
+        "Dark Armed Dragon",
+        "Drill Armed Dragon",
+        "Fist Armed Dragon",
+        "Knight Armed Dragon, the Armored Knight Dragon",
+        "Metaphys Armed Dragon",
+        "Ojama Pajama",
+        "Ojamatch",
+        "Pile Armed Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

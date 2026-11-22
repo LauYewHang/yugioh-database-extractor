@@ -1,0 +1,34 @@
+{
+    "name": "Mount Sylvania",
+    "filename": "Mount_Sylvania",
+    "card_text": "You can send 1 Plant-Type monster from your hand or face-up from your side of the field to the Graveyard; choose 1 \"Sylvan\" card from your Deck and place it on top of the Deck. You can only use this effect of \"Mount Sylvania\" once per turn. Once per turn, during your opponent's End Phase: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on either the top or bottom of your Deck.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [
+        "Alsei, the Sylvan High Protector",
+        "Orea, the Sylvan High Arbiter",
+        "Sylvan Bladefender",
+        "Sylvan Blessing",
+        "Sylvan Charity",
+        "Sylvan Cherubsprout",
+        "Sylvan Dancepione",
+        "Sylvan Flowerknight",
+        "Sylvan Guardioak",
+        "Sylvan Hermitree",
+        "Sylvan Komushroomo",
+        "Sylvan Lotuswain",
+        "Sylvan Marshalleaf",
+        "Sylvan Mikorange",
+        "Sylvan Peaskeeper",
+        "Sylvan Princessprite",
+        "Sylvan Princessprout",
+        "Sylvan Sagequoia",
+        "Sylvan Snapdrassinagon",
+        "Sylvan Waterslide"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

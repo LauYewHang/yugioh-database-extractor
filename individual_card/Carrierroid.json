@@ -1,0 +1,31 @@
+{
+    "name": "Carrierroid",
+    "filename": "Carrierroid",
+    "card_text": "When an opponent activates a card's effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.",
+    "release_date": "2008-07-31",
+    "available_set": [
+        "PREMIUM PACK 2"
+    ],
+    "related_card": [
+        "Ambulanceroid",
+        "Armoroid",
+        "Barbaroid, the Ultimate Battle Machine",
+        "Dragonroid",
+        "Emergeroid Call",
+        "Expressroid",
+        "Megaroid City",
+        "Mixeroid",
+        "Rescueroid",
+        "Stealthroid",
+        "Super Vehicroid - Mobile Base",
+        "Supercharge",
+        "Wonder Garage"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

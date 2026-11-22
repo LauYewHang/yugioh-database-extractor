@@ -1,0 +1,17 @@
+{
+    "name": "Interplanetary Invader \"A\"",
+    "filename": "Interplanetary_Invader__A_",
+    "card_text": "Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 500,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

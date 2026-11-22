@@ -1,0 +1,19 @@
+{
+    "name": "Ape Fighter",
+    "filename": "Ape_Fighter",
+    "card_text": "If this card destroys an opponent's monster by battle: This card gains 300 ATK. If this card does not attack during your turn, the ATK gained from this effect returns to 0 during the End Phase of that turn.",
+    "release_date": "2010-12-07",
+    "available_set": [
+        "Yu-Gi-Oh! 5D's DuelTranser Bundles",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1900,
+    "defense": 1200,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

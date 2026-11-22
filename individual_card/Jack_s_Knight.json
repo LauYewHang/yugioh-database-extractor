@@ -1,0 +1,41 @@
+{
+    "name": "Jack's Knight",
+    "filename": "Jack_s_Knight",
+    "card_text": "A strong master swordsman. His loyalty is to justice, his duty to protect the weak.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DUELIST PACK - BATTLE CITY -",
+        "KING'S COURT",
+        "ELEMENTAL ENERGY",
+        "SPEED DUEL: TRIALS OF THE KINGDOM Sneak Peak",
+        "DUELIST PACK - YUGI -",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "STRUCTURE DECK : YUGI MUTO",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "Arcana Knight Joker",
+        "Arcana Triumph Joker",
+        "Court of Cards",
+        "Face Card Fusion",
+        "Imperial Bower",
+        "Joker's Knight",
+        "Joker's Straight",
+        "Joker's Wild",
+        "King's Knight",
+        "Royal Straight",
+        "Royal Straight Slasher",
+        "Thunderspeed Summon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

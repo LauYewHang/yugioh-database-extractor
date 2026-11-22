@@ -1,0 +1,16 @@
+{
+    "name": "Iron Draw",
+    "filename": "Iron_Draw",
+    "card_text": "If you control exactly 2 Machine Effect Monsters and no other monsters: Draw 2 cards. For the rest of this turn after this card resolves, you can only Special Summon once. You can only activate 1 \"Iron Draw\" per turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

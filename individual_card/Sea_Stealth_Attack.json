@@ -1,0 +1,33 @@
+{
+    "name": "Sea Stealth Attack",
+    "filename": "Sea_Stealth_Attack",
+    "card_text": "When this card is activated: You can activate 1 \"Umi\" from your hand or GY. While \"Umi\" is on the field, this face-up card gains these effects.\n\u25cfOnce per turn: You can banish 1 WATER monster you control until the End Phase; this turn, face-up Spells/Traps you control cannot be destroyed by your opponent's card effects (even if this card leaves the field).\n\u25cfAt the start of the Damage Step, if your WATER monster whose original Level is 5 or higher battles an opponent's monster: Destroy that opponent's monster.",
+    "release_date": "2017-09-08",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
+        "LEGENDARY DUELISTS"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Citadel Whale",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Ocean Dragon Lord - Kairyu-Shin",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

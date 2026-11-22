@@ -1,0 +1,32 @@
+{
+    "name": "Tri-Brigade Kerass",
+    "filename": "Tri_Brigade_Kerass",
+    "card_text": "You can discard 1 other Beast, Beast-Warrior, or Winged Beast monster; Special Summon this card from your hand. You can banish any number of Beast, Beast-Warrior, and/or Winged Beast monsters in your GY; Special Summon 1 Beast, Beast-Warrior, or Winged Beast Link Monster from your Extra Deck, with Link Rating equal to the number banished, also you can only use Beast, Beast-Warrior, and Winged Beast monsters as Link Material for the rest of this turn. You can only use each effect of \"Tri-Brigade Kerass\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1500,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

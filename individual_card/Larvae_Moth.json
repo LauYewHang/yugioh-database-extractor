@@ -1,0 +1,22 @@
+{
+    "name": "Larvae Moth",
+    "filename": "Larvae_Moth",
+    "card_text": "This monster cannot be Normal Summoned or Set. This card can only be Special Summoned by offering \"Petit Moth\" as a Tribute on the 2nd of your turns after \"Petit Moth\" has been equipped with \"Cocoon of Evolution\".",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Cocoon of Evolution",
+        "Petit Moth"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 400,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

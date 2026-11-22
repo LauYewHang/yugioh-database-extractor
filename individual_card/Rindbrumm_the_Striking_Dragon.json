@@ -1,0 +1,35 @@
+{
+    "name": "Rindbrumm the Striking Dragon",
+    "filename": "Rindbrumm_the_Striking_Dragon",
+    "card_text": "\"Fallen of Albaz\" + 1 Beast, Beast-Warrior, or Winged Beast monster\nWhen a Fusion, Synchro, Xyz, or Link Monster's effect is activated (Quick Effect): You can negate that effect, then you can return 1 monster from the field to the hand. During your opponent's turn, while this card is in your GY (Quick Effect): You can target 1 \"Fallen of Albaz\" in your GY; Special Summon either that monster or this card, and banish the other. You can only use each effect of \"Rindbrumm the Striking Dragon\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "PHOTON HYPERNOVA",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [
+        "Albaz the Ashen",
+        "Albion the Shrouded Dragon",
+        "Branded in High Spirits",
+        "Branded Lost",
+        "Branded Sword",
+        "Ecclesia and the Dark Dragon",
+        "Fallen of Albaz",
+        "Fallen of the White Dragon",
+        "Guiding Quem, the Virtuous",
+        "Gung-Ho! Springans!",
+        "New Frontier",
+        "The Bystial Aluber",
+        "The Fallen & The Virtuous",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

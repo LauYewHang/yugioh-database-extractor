@@ -1,0 +1,28 @@
+{
+    "name": "Legendary Atlantean Tridon",
+    "filename": "Legendary_Atlantean_Tridon",
+    "card_text": "You can Tribute this card and 1 Sea Serpent-Type monster; Special Summon 1 \"Poseidra, the Atlantean Dragon\" from your hand or Deck, then all monsters your opponent currently controls lose 300 ATK.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Abyss-sting Triaina",
+        "Abyssrhine, the Atlantean Spirit",
+        "Atlantean Marksman",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad",
+        "Neptabyss, the Atlantean Prince",
+        "Poseidra Abyss, the Atlantean Dragon Lord",
+        "Poseidra, the Atlantean Dragon",
+        "Poseidra, the Storming Atlantean"
+    ],
+    "attribute": "WATER",
+    "attack": 1600,
+    "defense": 800,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Odin's Eye",
+    "filename": "Odin_s_Eye",
+    "card_text": "Once per turn, during each player's Standby Phase: You can target 1 \"Aesir\" monster you control; negate its effects until the end of this turn, and if you do, look at all cards in your opponent's hand and all Set cards they control. Your opponent cannot activate cards or effects in response to this effect's activation.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Loki, Lord of the Aesir",
+        "Odin, Father of the Aesir",
+        "Thor, Lord of the Aesir"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

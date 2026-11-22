@@ -1,0 +1,21 @@
+{
+    "name": "Prickle Fairy",
+    "filename": "Prickle_Fairy",
+    "card_text": "Your opponent cannot attack Insect monsters. If this card battled a monster, at the end of the Damage Step: Change that monster to Defense Position.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "OTS TOURNAMENT PACK 7",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 2000,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Xyz Soul",
+    "filename": "Xyz_Soul",
+    "card_text": "Target 1 Xyz Monster in either player's Graveyard; all monsters you currently control gain ATK equal to its Rank x 200, then you can shuffle it into the Extra Deck. This ATK increase lasts until the End Phase.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

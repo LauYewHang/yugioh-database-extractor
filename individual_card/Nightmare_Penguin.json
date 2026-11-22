@@ -1,0 +1,32 @@
+{
+    "name": "Nightmare Penguin",
+    "filename": "Nightmare_Penguin",
+    "card_text": "WATER monsters you control gain 200 ATK. If this card is flipped face-up: Target 1 card your opponent controls; return that target to the hand.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 3",
+        "GOLD SERIES",
+        "RISE OF DESTINY",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUEL TERMINAL 4",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Nopenguin",
+        "Penguin Brave",
+        "Penguin Cleric",
+        "Penguin Ninja",
+        "Penguin Squire",
+        "Penguin Sword",
+        "Puny Penguin",
+        "Royal Penguins Garden",
+        "The Great Emperor Penguin"
+    ],
+    "attribute": "WATER",
+    "attack": 900,
+    "defense": 1800,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

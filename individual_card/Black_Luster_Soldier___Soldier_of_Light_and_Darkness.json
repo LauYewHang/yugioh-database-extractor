@@ -1,0 +1,42 @@
+{
+    "name": "Black Luster Soldier - Soldier of Light and Darkness",
+    "filename": "Black_Luster_Soldier___Soldier_of_Light_and_Darkness",
+    "card_text": "You can Ritual Summon this card with \"Light and Darkness Ritual\". Unaffected by your opponent's activated effects, unless they target this card, also cannot be destroyed by battle. You can only use each of the following effects of \"Black Luster Soldier - Soldier of Light and Darkness\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls; banish it. When this card destroys an opponent's monster by battle: You can make this card gain 1500 ATK, and if you do, it can make a second attack in a row.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Beginning Knight",
+        "Beginning of Heaven and Earth",
+        "Black Chaos",
+        "Black Skull Dragon, the Archfiend of Unity",
+        "Celtic Mystic",
+        "Chaos Form",
+        "Chaos Magical Hats",
+        "Chaos Mystic Box",
+        "Charging Gaia the Fierce Knight",
+        "Envoy of Chaos",
+        "Evening Twilight Knight",
+        "Gateway to Chaos",
+        "Griffoh",
+        "Light and Darkness Ritual",
+        "Magician of Chaos",
+        "Master of Chaos",
+        "Mind Shuffle",
+        "Skull Archfiend of Chaos",
+        "Super Soldier Rebirth",
+        "Super Soldier Ritual",
+        "Super Soldier Shield",
+        "Super Soldier Soul",
+        "Super Soldier Synthesis"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

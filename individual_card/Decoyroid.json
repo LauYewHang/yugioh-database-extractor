@@ -1,0 +1,31 @@
+{
+    "name": "Decoyroid",
+    "filename": "Decoyroid",
+    "card_text": "While this card is face-up on your side of the field, your opponent cannot select a face-up monster as an attack target except \"Decoyroid\".",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [
+        "Ambulanceroid",
+        "Armoroid",
+        "Barbaroid, the Ultimate Battle Machine",
+        "Dragonroid",
+        "Emergeroid Call",
+        "Expressroid",
+        "Megaroid City",
+        "Mixeroid",
+        "Rescueroid",
+        "Stealthroid",
+        "Super Vehicroid - Mobile Base",
+        "Supercharge",
+        "Wonder Garage"
+    ],
+    "attribute": "WIND",
+    "attack": 300,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

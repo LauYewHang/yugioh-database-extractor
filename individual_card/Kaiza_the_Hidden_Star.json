@@ -1,0 +1,17 @@
+{
+    "name": "Kaiza the Hidden Star",
+    "filename": "Kaiza_the_Hidden_Star",
+    "card_text": "You can Special Summon this card (from your hand) by Tributing 1 LIGHT or EARTH Warrior monster, and if you do, this card gains ATK equal to the Tributed monster's original ATK. You can only Special Summon \"Kaiza the Hidden Star\" once per turn this way. You can banish 1 Warrior monster from your GY; send 1 LIGHT or EARTH Warrior monster from your Deck to the GY. You can only use this effect of \"Kaiza the Hidden Star\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

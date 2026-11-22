@@ -1,0 +1,42 @@
+{
+    "name": "Darklord Marie (Updated from: Marie the Fallen One)",
+    "filename": "Darklord_Marie__Updated_from__Marie_the_Fallen_One_",
+    "card_text": "Once per turn, during your Standby Phase: You gain 200 LP. This card must be in the Graveyard to activate and to resolve this effect.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "DESTINY SOLDIERS",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [
+        "Banishment of the Darklords",
+        "Condemned Darklord",
+        "Darklord Amdusc",
+        "Darklord Contact",
+        "Darklord Dance",
+        "Darklord Descent",
+        "Darklord Djehuty",
+        "Darklord Enchantment",
+        "Darklord Eveningstar",
+        "Darklord Gulgolet",
+        "Darklord Ixchel",
+        "Darklord Morningstar",
+        "Darklord Nasten",
+        "Darklord Nergal",
+        "Darklord Rebellion",
+        "Darklord Tezcatlipoca",
+        "Darklord Ukoback",
+        "Darklord Uprising",
+        "Fallen Angel in Darkness",
+        "Indulged Darklord",
+        "St. Joan",
+        "The Sanctified Darklord"
+    ],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Harpie's Feather Storm",
+    "filename": "Harpie_s_Feather_Storm",
+    "card_text": "If you control a WIND Winged Beast monster: Until the end of this turn, negate any monster effects your opponent activates. If you control a \"Harpie\" monster, you can activate this card from your hand. If this card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can add 1 \"Harpie's Feather Duster\" from your Deck or GY to your hand.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Alluring Mirror Split",
+        "Cyber Harpie Lady",
+        "Cyber Slash Harpie Lady",
+        "Harpie Channeler",
+        "Harpie Conductor",
+        "Harpie Dancer",
+        "Harpie Girl",
+        "Harpie Harpist",
+        "Harpie Lady",
+        "Harpie Lady 1",
+        "Harpie Lady 2",
+        "Harpie Lady 3",
+        "Harpie Lady Elegance",
+        "Harpie Lady Phoenix Formation",
+        "Harpie Lady Sisters",
+        "Harpie Oracle",
+        "Harpie Perfumer",
+        "Harpie Queen",
+        "Harpie's Feather Duster",
+        "Harpie's Feather Rest",
+        "Harpie's Pet Baby Dragon",
+        "Harpie's Pet Dragon",
+        "Harpie's Pet Dragon - Fearsome Fire Blast",
+        "Harpie's Pet Phantasmal Dragon",
+        "Harpies' Hunting Ground",
+        "Hysteric Sign",
+        "Toon Harpie Lady"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

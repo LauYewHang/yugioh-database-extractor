@@ -1,0 +1,18 @@
+{
+    "name": "The Tyrant Neptune",
+    "filename": "The_Tyrant_Neptune",
+    "card_text": "Cannot be Special Summoned. You can Tribute Summon this card by Tributing 1 monster. This card gains the total original ATK and DEF of the monster(s) Tributed for its Tribute Summon. When this card is Tribute Summoned: Target 1 Effect Monster in the Graveyard that was Tributed for the Tribute Summon; this card's name becomes that target's name, and this card gains that target's effects.",
+    "release_date": "2011-11-01",
+    "available_set": [
+        "SHONEN JUMP Subscription Promotional Card - May 2010 -",
+        "COLLECTIBLE TIN 2011 WAVE 2"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

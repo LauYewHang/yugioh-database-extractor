@@ -1,0 +1,17 @@
+{
+    "name": "Swarm of Crows",
+    "filename": "Swarm_of_Crows",
+    "card_text": "Cannot be Special Summoned from the Deck. Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Discard 1 random card from your opponent's hand.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1800,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Crealtar, the Impcantation Originator",
+    "filename": "Crealtar__the_Impcantation_Originator",
+    "card_text": "You can Ritual Summon this card with \"Impcantation Inception\". During the Main Phase (Quick Effect): You can reveal this card in your hand; discard 1 card, then Special Summon \"Impcantation\" monsters from your GY whose total Levels equal 10, but shuffle them into the Deck during the End Phase. You can only use this effect of \"Crealtar, the Impcantation Originator\" once per turn. Non-Ritual \"Impcantation\" monsters you control gain 2000 ATK, but their effects are negated.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Impcantation Bookstone",
+        "Impcantation Candoll",
+        "Impcantation Chalislime",
+        "Impcantation Inception",
+        "Impcantation Penciplume",
+        "Impcantation Talismandra",
+        "Impcantation Thanatosis"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

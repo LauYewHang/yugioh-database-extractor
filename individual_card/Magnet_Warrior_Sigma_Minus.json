@@ -1,0 +1,37 @@
+{
+    "name": "Magnet Warrior Sigma Minus",
+    "filename": "Magnet_Warrior_Sigma_Minus",
+    "card_text": "Once per turn, when an attack is declared involving 2 EARTH monsters: You can negate that attack. You can only use each of the following effects of \"Magnet Warrior Sigma Minus\" once per turn. You can reveal this card in your hand; Fusion Summon 1 Fusion Monster from your Extra Deck, using Rock monsters from your hand or field, including this card in your hand. If this card is Normal or Special Summoned: You can send 1 Level 8 \"Magna Warrior\" monster from your Deck to the GY.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Alpha The Magnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Beta The Magnet Warrior",
+        "Conduction Warrior Linear Magnum Plus Minus",
+        "Conduction Warrior Plasma Magnum",
+        "Delta The Magnet Warrior",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Gamma The Magnet Warrior",
+        "Magnet Bonding",
+        "Magnet Conversion",
+        "Magnet Induction",
+        "Magnet Warrior Omega Plus",
+        "Magnet Warrior Sigma Plus",
+        "Magnetic Field",
+        "Tellusion the Magna Warrior",
+        "Valkyrion the Magna Warrior"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1800,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

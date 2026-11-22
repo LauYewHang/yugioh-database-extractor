@@ -1,0 +1,22 @@
+{
+    "name": "Firewall Dragon Darkfluid",
+    "filename": "Firewall_Dragon_Darkfluid",
+    "card_text": "3+ Effect Monsters\nIf this card is Link Summoned: You can place counters on this card equal to the number of different types of Cyberse monsters in your GY (Ritual, Fusion, Synchro, Xyz). This card gains 2500 ATK for each counter on it during the Battle Phase only. When your opponent activates a monster effect (Quick Effect): You can remove 1 counter from this card; negate the activation, also, if this effect was activated between this card's attack declaration and the end of the Damage Step, this card can make another attack in a row.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Cynet Circuit",
+        "Firewall Defenser",
+        "Protectcode Talker"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 5,
+    "link_arrow": 346
+}

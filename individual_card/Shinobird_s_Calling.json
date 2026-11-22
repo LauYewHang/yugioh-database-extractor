@@ -1,0 +1,19 @@
+{
+    "name": "Shinobird's Calling",
+    "filename": "Shinobird_s_Calling",
+    "card_text": "This card is used to Ritual Summon \"Shinobaroness Peacock\" or \"Shinobaron Peacock\". You must also Tribute monsters from your hand or field and/or banish Spirit monsters from your GY, whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "OTS TOURNAMENT PACK 23",
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Shinobaron Peacock",
+        "Shinobaron Shade Peacock",
+        "Shinobaroness Peacock",
+        "Shinobaroness Shade Peacock"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

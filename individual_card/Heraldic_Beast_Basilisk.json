@@ -1,0 +1,32 @@
+{
+    "name": "Heraldic Beast Basilisk",
+    "filename": "Heraldic_Beast_Basilisk",
+    "card_text": "After damage calculation: Destroy any opponent's monster that battles this card.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Advanced Heraldry Art",
+        "Augmented Heraldry",
+        "Charged-Up Heraldry",
+        "Heraldic Beast Aberconway",
+        "Heraldic Beast Amphisbaena",
+        "Heraldic Beast Eale",
+        "Heraldic Beast Gryphon",
+        "Heraldic Beast Leo",
+        "Heraldic Beast Stad Whale",
+        "Heraldic Beast Twin-Headed Eagle",
+        "Heraldry Change",
+        "Heraldry Reborn",
+        "Number 18: Heraldry Patriarch",
+        "Number 8: Heraldic King Genom-Heritage"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1400,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Mesmeric Control",
+    "filename": "Mesmeric_Control",
+    "card_text": "Your opponent cannot change the battle positions of monsters during their next turn.",
+    "release_date": "2006-04-01",
+    "available_set": [
+        "SHADOW OF INFINITY SPECIAL EDITION",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STRUCTURE DECK DINOSAUR'S RAGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

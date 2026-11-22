@@ -1,0 +1,34 @@
+{
+    "name": "Apoqliphort Towers",
+    "filename": "Apoqliphort_Towers",
+    "card_text": "Cannot be Special Summoned. Requires 3 \"Qli\" Tributes to Normal Summon/Set. If this card is Normal Summoned/Set, it is unaffected by Spell/Trap effects and by activated effects from any monster whose original Level/Rank is lower than this card's current Level. All Special Summoned monsters lose 500 ATK and DEF. Once per turn: You can make your opponent send 1 monster from their hand or their side of the field to the Graveyard (their choice).",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "Apoqliphort Skybase",
+        "Laser Qlip",
+        "Qlife's End",
+        "Qlimate Change",
+        "Qliphort Carrier",
+        "Qliphort Cephalopod",
+        "Qliphort Disk",
+        "Qliphort Genius",
+        "Qliphort Helix",
+        "Qliphort Monolith",
+        "Qliphort Scout",
+        "Qliphort Shell",
+        "Qliphort Stealth",
+        "Qlipper Launch",
+        "Re-qliate",
+        "Saqlifice"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 2600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

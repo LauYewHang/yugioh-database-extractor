@@ -1,0 +1,25 @@
+{
+    "name": "Revival Jam",
+    "filename": "Revival_Jam",
+    "card_text": "When this card is destroyed by battle and sent to the GY: You can pay 1000 LP; Special Summon it in Defense Position during your next Standby Phase.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE",
+        "RETRO PACK 2",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Jam Defender"
+    ],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": 500,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

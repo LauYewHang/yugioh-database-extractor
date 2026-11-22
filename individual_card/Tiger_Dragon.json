@@ -1,0 +1,20 @@
+{
+    "name": "Tiger Dragon",
+    "filename": "Tiger_Dragon",
+    "card_text": "When this card is Tribute Summoned by Tributing a Dragon monster: You can target up to 2 Set cards in your opponent's Spell & Trap Zone; destroy those targets.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "CROSSROADS OF CHAOS",
+        "STARTER DECK KAIBA RELOADED",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

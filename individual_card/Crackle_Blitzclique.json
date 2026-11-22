@@ -1,0 +1,29 @@
+{
+    "name": "Crackle Blitzclique",
+    "filename": "Crackle_Blitzclique",
+    "card_text": "During your opponent's turn, when your opponent activates a monster effect on the field (Quick Effect): You can reveal this card in your hand; destroy that monster, and if you do, Special Summon 1 Thunder monster from your hand, also for the rest of this turn, you cannot Special Summon Effect Monsters, except from the hand. If another card(s) is destroyed by card effect, while this card is in the Monster Zone (except during the Damage Step): You can send 1 \"Blitzclique\" Spell/Trap from your Deck to the GY. You can only use each effect of \"Crackle Blitzclique\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS",
+        "ULTIMATE TOURNAMENT PACK 2"
+    ],
+    "related_card": [
+        "Blitzclique - Breakaway",
+        "Blitzclique - Steppleader",
+        "Blitzclique Alternator",
+        "Blitzclique Overvolt",
+        "Blitzclique Return Stroke",
+        "Emi Blitzclique",
+        "Grain Blitzclique",
+        "Hideout in the Sky, Coulomb",
+        "Surge Blitzclique",
+        "Whisker Blitzclique"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 900,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

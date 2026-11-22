@@ -1,0 +1,25 @@
+{
+    "name": "Obliterate!!!",
+    "filename": "Obliterate___",
+    "card_text": "You can target 1 monster on the field; send 1 \"Forbidden One\" monster or \"Exodia\" card from your hand or Deck to the GY, and if you do, return that target to the hand. If this card is sent from the Spell & Trap Zone to the GY: You can target 1 \"Forbidden One\" monster or \"Exodia\" card in your GY; add it to your hand. You can only use 1 \"Obliterate!!!\" effect per turn, and only once that turn.",
+    "release_date": "2016-10-07",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Contract with Exodia",
+        "Exodia Necross",
+        "Exodia the Forbidden One",
+        "Exodia, the Legendary Defender",
+        "Exxod Fires of Rage",
+        "Left Arm of the Forbidden One",
+        "Left Leg of the Forbidden One",
+        "Right Arm of the Forbidden One",
+        "Right Leg of the Forbidden One",
+        "The Legendary Exodia Incarnate",
+        "The Unstoppable Exodia Incarnate"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

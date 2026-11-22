@@ -1,0 +1,17 @@
+{
+    "name": "Sky Dragon",
+    "filename": "Sky_Dragon",
+    "card_text": "A flying dragon with four wings housing some very dangerous blades.",
+    "release_date": "2002-10-01",
+    "available_set": [
+        "TOURNAMENT PACK 2ND SEASON"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1900,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

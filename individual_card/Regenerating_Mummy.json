@@ -1,0 +1,24 @@
+{
+    "name": "Regenerating Mummy",
+    "filename": "Regenerating_Mummy",
+    "card_text": "When this card is sent from your hand to your GY by an opponent's card effect: Return this card to the hand.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 2",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "GOLD SERIES",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "ANCIENT SANCTUARY",
+        "GOLD SERIES HAUNTED MINE",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

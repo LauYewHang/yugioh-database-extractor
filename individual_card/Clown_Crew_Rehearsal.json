@@ -1,0 +1,25 @@
+{
+    "name": "Clown Crew Rehearsal",
+    "filename": "Clown_Crew_Rehearsal",
+    "card_text": "Tribute 1 monster from your hand or field; add 1 \"Clown Crew Biancaviso\" and 1 \"Clown Crew\" Spell/Trap, except \"Clown Crew Rehearsal\", from your Deck to your hand. You can banish this card from your GY; Ritual Summon 1 \"Clown Crew\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use each effect of \"Clown Crew Rehearsal\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Clown Crew Biancaviso",
+        "Clown Crew Cappello",
+        "Clown Crew Diabolo",
+        "Clown Crew Dristy",
+        "Clown Crew Fiends",
+        "Clown Crew Finale",
+        "Clown Crew Flair",
+        "Clown Crew Malabarisme",
+        "Clown Crew Matinee Operatics",
+        "Clown Crew Meteor",
+        "Clown Crew New Face",
+        "Clown Crew Soiree Operations"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Gold Pride - Eradicator",
+    "filename": "Gold_Pride___Eradicator",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nDuring your opponent's turn (Quick Effect): You can target 1 Fusion, Synchro, Xyz, or Link Monster on the field, or if your LP are lower than your opponent's, you can target 2; destroy them. You can only use this effect of \"Gold Pride - Eradicator\" once per turn. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Eliminator\" from your Deck or GY.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Gold Pride - Better Luck Next Time!",
+        "Gold Pride - Captain Carrie",
+        "Gold Pride - Chariot Carrie",
+        "Gold Pride - Eliminator",
+        "Gold Pride - It's Neck and Neck!",
+        "Gold Pride - Leon",
+        "Gold Pride - Nytro Blaster",
+        "Gold Pride - Pedal to the Metal!",
+        "Gold Pride - Pin Baller",
+        "Gold Pride - Roller Baller",
+        "Gold Pride - Start Your Engines!",
+        "Gold Pride - That Came Out of Nowhere!",
+        "Gold Pride - The Crowd Goes Wild!"
+    ],
+    "attribute": "DARK",
+    "attack": 2700,
+    "defense": 1700,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

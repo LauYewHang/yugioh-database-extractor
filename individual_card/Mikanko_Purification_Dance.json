@@ -1,0 +1,31 @@
+{
+    "name": "Mikanko Purification Dance",
+    "filename": "Mikanko_Purification_Dance",
+    "card_text": "Equip only to a \"Mikanko\" monster. The equipped monster cannot be destroyed by card effects. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 monster you control and 1 monster your opponent controls; return them to the hand. You can only use this effect of \"Mikanko Purification Dance\" once per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Arahime the Manifested Mikanko",
+        "Ha-Re the Sword Mikanko",
+        "Heavenly Gate of the Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Fire Dance",
+        "Mikanko Kagura",
+        "Mikanko Promise",
+        "Mikanko Reflection Rondo",
+        "Mikanko Rivalry",
+        "Mikanko Shinbu - Noble Twins",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Ohime the Manifested Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

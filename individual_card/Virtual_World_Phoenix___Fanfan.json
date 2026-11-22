@@ -1,0 +1,34 @@
+{
+    "name": "Virtual World Phoenix - Fanfan",
+    "filename": "Virtual_World_Phoenix___Fanfan",
+    "card_text": "2+ Level 6 monsters\nOnce per turn: You can detach 2 materials from this card, then target 1 face-up card your opponent controls and 1 card in either GY; banish them. If this Xyz Summoned card is destroyed by battle with an opponent's attacking monster, or by an opponent's card effect while in its owner's Monster Zone: You can Special Summon 2 \"Virtual World\" monsters with the same Type and Attribute as each other from your Deck. You can only use this effect of \"Virtual World Phoenix - Fanfan\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Virtual World Beast - Jiujiu",
+        "Virtual World City - Kauwloon",
+        "Virtual World Dragon - Longlong",
+        "Virtual World Gate - Chuche",
+        "Virtual World Gate - Qinglong",
+        "Virtual World Gate - Xuanwu",
+        "Virtual World Hime - Nyannyan",
+        "Virtual World Kirin - Lili",
+        "Virtual World Kyubi - Shenshen",
+        "Virtual World Mai-Hime - Lulu",
+        "Virtual World Oto-Hime - Toutou",
+        "Virtual World Roshi - Laolao",
+        "Virtual World Shell - Jaja",
+        "Virtual World Tiger - Fufu",
+        "Virtual World Xiezhi - Jiji"
+    ],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": 2000,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

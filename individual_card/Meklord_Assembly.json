@@ -1,0 +1,34 @@
+{
+    "name": "Meklord Assembly",
+    "filename": "Meklord_Assembly",
+    "card_text": "When this card is activated: You can add 1 \"Meklord\" monster from your Deck to your hand. You can only activate 1 \"Meklord Assembly\" per turn. You can only use each of the following effects of \"Meklord Assembly\" once per turn.\n\u25cfYou can discard 1 card, then target 1 monster you control; destroy it.\n\u25cfIf a face-up \"Meklord\" monster(s) you control is destroyed by battle or card effect: You can target 1 other face-up Spell/Trap on the field; destroy it.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Boon of the Meklord Emperor",
+        "Chaos Infinity",
+        "Meklord Army Deployer Obbligato",
+        "Meklord Army of Granel",
+        "Meklord Army of Skiel",
+        "Meklord Army of Wisel",
+        "Meklord Astro Dragon Asterisk",
+        "Meklord Astro Dragon Triskelion",
+        "Meklord Astro Mekanikle",
+        "Meklord Astro the Eradicator",
+        "Meklord Deflection",
+        "Meklord Emperor Granel",
+        "Meklord Emperor Skiel",
+        "Meklord Emperor Wisel",
+        "Meklord Emperor Wisel - Synchro Absorption",
+        "Meklord Factory",
+        "Meklord Fortress",
+        "Meklord Nucleus Infinity Core",
+        "Mektimed Blast",
+        "Reboot",
+        "The Resolute Meklord Army"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Ragnaraika Hunting Dance",
+    "filename": "Ragnaraika_Hunting_Dance",
+    "card_text": "Target cards your opponent controls, up to the number of different Monster Types among the Link Monsters you control that are Insect, Plant, or Reptile; destroy them. If a face-up Insect, Plant, or Reptile monster(s) you control is destroyed by battle or card effect, while this card is in your GY, except the turn it was sent there: You can banish this card, then target 1 monster your opponent controls; destroy it. You can only use each effect of \"Ragnaraika Hunting Dance\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ragnaraika Bloom",
+        "Ragnaraika Mantis Monk",
+        "Ragnaraika Samurai Beetle",
+        "Ragnaraika Skeletal Soldier",
+        "Ragnaraika the Evil Seed",
+        "Ragnaraika Wisteria of Woe"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

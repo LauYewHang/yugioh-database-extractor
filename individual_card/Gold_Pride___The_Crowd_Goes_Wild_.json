@@ -1,0 +1,29 @@
+{
+    "name": "Gold Pride - The Crowd Goes Wild!",
+    "filename": "Gold_Pride___The_Crowd_Goes_Wild_",
+    "card_text": "Reveal 1 \"Gold Pride\" monster in your hand; add 1 \"Gold Pride\" monster with a different name from your Deck to your hand, then you can apply the following effect.\n\u25cfSpecial Summon 1 \"Gold Pride\" monster from your hand, but lose LP equal to its original ATK.\nYou can only activate 1 \"Gold Pride - The Crowd Goes Wild!\" per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Gold Pride - Better Luck Next Time!",
+        "Gold Pride - Captain Carrie",
+        "Gold Pride - Chariot Carrie",
+        "Gold Pride - Eliminator",
+        "Gold Pride - Eradicator",
+        "Gold Pride - It's Neck and Neck!",
+        "Gold Pride - Leon",
+        "Gold Pride - Nytro Blaster",
+        "Gold Pride - Nytro Head",
+        "Gold Pride - Pedal to the Metal!",
+        "Gold Pride - Pin Baller",
+        "Gold Pride - Roller Baller",
+        "Gold Pride - Star Leon",
+        "Gold Pride - Start Your Engines!",
+        "Gold Pride - That Came Out of Nowhere!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

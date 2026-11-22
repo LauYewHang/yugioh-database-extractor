@@ -1,0 +1,35 @@
+{
+    "name": "Volcanic Scattershot",
+    "filename": "Volcanic_Scattershot",
+    "card_text": "If this card is sent to the GY: Inflict 500 damage to your opponent. If this card is sent to the GY by the effect of a \"Blaze Accelerator\" card: You can send 2 \"Volcanic Scattershots\" from your hand and/or Deck to the GY; destroy all monsters your opponent controls.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER",
+        "MAGNIFICENT MAESTROS",
+        "ASTRAL PACK SEVEN",
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Blaze Accelerator",
+        "Blaze Accelerator Reload",
+        "Blaze Cannon",
+        "Fire Ejection",
+        "Tri-Blaze Accelerator",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Emission",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Trooper"
+    ],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": 0,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

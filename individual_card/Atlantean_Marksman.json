@@ -1,0 +1,36 @@
+{
+    "name": "Atlantean Marksman",
+    "filename": "Atlantean_Marksman",
+    "card_text": "When this card inflicts battle damage to your opponent: You can Special Summon 1 Level 4 or lower \"Atlantean\" Sea Serpent monster from your Deck, except \"Atlantean Marksman\". If this card is sent to the GY to activate a WATER monster's effect: Target 1 Set card your opponent controls; destroy that target.",
+    "release_date": "2012-10-16",
+    "available_set": [
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "QUARTER CENTURY STAMPEDE",
+        "ASTRAL PACK THREE",
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Abyss-sting Triaina",
+        "Abyssrhine, the Atlantean Spirit",
+        "Abysstrite, the Atlantean Spirit",
+        "Atlantean Attack Squad",
+        "Atlantean Dragoons",
+        "Atlantean Heavy Infantry",
+        "Atlantean Pikeman",
+        "Call of the Atlanteans",
+        "Legendary Atlantean Tridon",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad",
+        "Neptabyss, the Atlantean Prince",
+        "Poseidra Abyss, the Atlantean Dragon Lord",
+        "Poseidra, the Atlantean Dragon",
+        "Poseidra, the Storming Atlantean"
+    ],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 0,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

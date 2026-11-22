@@ -1,0 +1,23 @@
+{
+    "name": "Mist Valley Shaman",
+    "filename": "Mist_Valley_Shaman",
+    "card_text": "Once per turn: You can return 1 other monster you control to the hand; this card gains 500 ATK until the end of this turn.",
+    "release_date": "2009-11-10",
+    "available_set": [
+        "HIDDEN ARSENAL",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "DUEL TERMINAL 1"
+    ],
+    "related_card": [
+        "Mist Condor",
+        "Mist Valley Apex Avian",
+        "Mist Valley Thunder Lord"
+    ],
+    "attribute": "WIND",
+    "attack": 1200,
+    "defense": 1200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

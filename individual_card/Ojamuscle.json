@@ -1,0 +1,32 @@
+{
+    "name": "Ojamuscle",
+    "filename": "Ojamuscle",
+    "card_text": "(This card is always treated as a \"Ojama\" card.)\nSelect 1 face-up \"Ojama King\". Destroy all \"Ojama\" monsters on the field, except the selected \"Ojama King\". It gains 1000 ATK for each monster destroyed this way.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4",
+        "DUELIST PACK - CHAZZ PRINCETON -"
+    ],
+    "related_card": [
+        "Ojama Black",
+        "Ojama Blue",
+        "Ojama Country",
+        "Ojama Delta Hurricane!!",
+        "Ojama Duo",
+        "Ojama Emperor",
+        "Ojama Green",
+        "Ojama King",
+        "Ojama Knight",
+        "Ojama Pajama",
+        "Ojama Pink",
+        "Ojama Red",
+        "Ojama Trio",
+        "Ojama Yellow",
+        "Ojamagic",
+        "Ojamassimilation",
+        "Ojamatch"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

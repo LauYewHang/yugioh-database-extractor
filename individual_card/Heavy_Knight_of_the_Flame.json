@@ -1,0 +1,18 @@
+{
+    "name": "Heavy Knight of the Flame",
+    "filename": "Heavy_Knight_of_the_Flame",
+    "card_text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cfAt the start of the Damage Step, if this card attacked a Special Summoned monster: You can banish that monster.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

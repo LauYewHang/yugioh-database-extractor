@@ -1,0 +1,24 @@
+{
+    "name": "Guardian Chimera",
+    "filename": "Guardian_Chimera",
+    "card_text": "3 monsters with different names\nMust first be Fusion Summoned using only Fusion Materials from your hand and field, with at least 1 monster from each. If this card is Fusion Summoned by a Spell Card or effect: You can draw cards equal to the number of cards used as material from the hand, and if you do, destroy cards your opponent controls equal to the number of cards used as material from the field. You can only use this effect of \"Guardian Chimera\" once per turn. While \"Polymerization\" is in your GY, your opponent cannot target this card with card effects.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "MAZE OF MEMORIES",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Fusion Substitute",
+        "Polymerization",
+        "Principug"
+    ],
+    "attribute": "DARK",
+    "attack": 3300,
+    "defense": 3300,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

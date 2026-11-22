@@ -1,0 +1,25 @@
+{
+    "name": "Reptilianne Naga",
+    "filename": "Reptilianne_Naga",
+    "card_text": "This card cannot be destroyed by battle. The ATK of any monster that battles this card becomes 0 at the end of that Battle Phase. During your End Phase, change this face-up Defense Position card on the field to face-up Attack Position.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Gardna",
+        "Reptilianne Hydra",
+        "Reptilianne Poison",
+        "Reptilianne Ramifications",
+        "Reptilianne Spawn",
+        "Serpent Suppression"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

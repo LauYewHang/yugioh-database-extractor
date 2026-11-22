@@ -1,0 +1,17 @@
+{
+    "name": "Bubble Blaster",
+    "filename": "Bubble_Blaster",
+    "card_text": "You can only equip this card to \"Elemental Hero Bubbleman\". Increase the ATK of the equipped monster by 800 points. If the equipped monster would be destroyed as a result of battle, destroy this card instead, and make the Battle Damage to the controller of the equipped monster 0.",
+    "release_date": "2006-02-08",
+    "available_set": [
+        "DUELIST PACK - JADEN YUKI -"
+    ],
+    "related_card": [
+        "Elemental HERO Bubbleman",
+        "Elemental HERO Neo Bubbleman",
+        "Elemental HERO Spirit of Neos",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

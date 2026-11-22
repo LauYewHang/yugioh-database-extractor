@@ -1,0 +1,40 @@
+{
+    "name": "Shiranui Samurai",
+    "filename": "Shiranui_Samurai",
+    "card_text": "During either player's turn: You can banish 1 Zombie-Type monster from your Graveyard; this card gains 600 ATK, and if it does, banish any monster that battled this card, after damage calculation. These effects last until the end of this turn. If this card is banished: You can target 1 \"Shiranui\" monster in your Graveyard, except \"Shiranui Samurai\"; add it to your hand. You can only use each effect of \"Shiranui Samurai\" once per turn.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "HIDDEN SUMMONERS",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samuraisaga",
+        "Shiranui Shogunsaga",
+        "Shiranui Skillsaga Supremacy",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Squire",
+        "Shiranui Squiresaga",
+        "Shiranui Style Samsara",
+        "Shiranui Style Solemnity",
+        "Shiranui Style Success",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Style Synthesis",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster",
+        "Shiranui Swordsaga"
+    ],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

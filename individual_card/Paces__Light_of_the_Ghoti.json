@@ -1,0 +1,22 @@
+{
+    "name": "Paces, Light of the Ghoti",
+    "filename": "Paces__Light_of_the_Ghoti",
+    "card_text": "You can banish this card you control; Special Summon 1 Fish monster from your hand, except \"Paces, Light of the Ghoti\". During the Standby Phase of the next turn after this card was banished: You can Special Summon this banished card. During your opponent's Main Phase, if this card was Special Summoned this turn, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Fish Synchro Monster using this card you control. You can only use each effect of \"Paces, Light of the Ghoti\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Eanoc, Sentry of the Ghoti",
+        "Ghoti Chain",
+        "Ixeep, Omen of the Ghoti",
+        "The Most Distant, Deepest Depths"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

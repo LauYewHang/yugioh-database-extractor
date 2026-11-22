@@ -1,0 +1,29 @@
+{
+    "name": "Horus' Servant",
+    "filename": "Horus__Servant",
+    "card_text": "Your opponent cannot target face-up \"Horus the Black Flame Dragon\" monsters with Spells, Traps, or card effects.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Canopic Protector",
+        "Duamutef, Blessing of Horus",
+        "Horus the Black Flame Deity",
+        "Horus the Black Flame Dragon LV4",
+        "Horus the Black Flame Dragon LV6",
+        "Horus the Black Flame Dragon LV8",
+        "King's Sarcophagus",
+        "Qebehsenuef, Protection of Horus",
+        "Walls of the Imperial Tomb"
+    ],
+    "attribute": "FIRE",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

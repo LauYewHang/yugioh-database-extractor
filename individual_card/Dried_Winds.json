@@ -1,0 +1,32 @@
+{
+    "name": "Dried Winds",
+    "filename": "Dried_Winds",
+    "card_text": "If you gain LP: Target 1 face-up monster your opponent controls; destroy it. If you control an \"Aroma\" monster and your LP are at least 3000 higher than your opponent's: You can pay LP equal to the difference; destroy face-up monsters your opponent controls whose combined ATK is less than or equal to the LP you paid to activate this effect. You can only use each effect of \"Dried Winds\" once per turn.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "CLASH OF REBELLIONS",
+        "OTS TOURNAMENT PACK 25"
+    ],
+    "related_card": [
+        "Aroma Blend",
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aroma Jar",
+        "Aromage Bergamot",
+        "Aromage Cananga",
+        "Aromage Jasmine",
+        "Aromage Laurel",
+        "Aromage Marjoram",
+        "Aromage Rosemary",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Aromaseraphy Jasmine",
+        "Aromaseraphy Rosemary",
+        "Aromaseraphy Sweet Marjoram"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

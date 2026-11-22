@@ -1,0 +1,12 @@
+{
+    "name": "Seal of Wickedness",
+    "filename": "Seal_of_Wickedness",
+    "card_text": "Once per turn, during your opponent's Standby Phase, select 1 face-up card on the field. The selected card's effect(s) is negated during that turn. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

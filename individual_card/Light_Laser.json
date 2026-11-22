@@ -1,0 +1,12 @@
+{
+    "name": "Light Laser",
+    "filename": "Light_Laser",
+    "card_text": "Equip only to a LIGHT Warrior-Type monster. Remove from play any monsters that battle with it at the end of Damage Step.",
+    "release_date": "2007-02-07",
+    "available_set": [
+        "DUELIST PACK - JADEN YUKI 2 -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

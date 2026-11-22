@@ -1,0 +1,35 @@
+{
+    "name": "Vertical Landing",
+    "filename": "Vertical_Landing",
+    "card_text": "Tribute any number of WIND monsters, except Tokens; Special Summon an equal number of \"Mecha Phantom Beast Tokens\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only activate 1 \"Vertical Landing\" per turn.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Aerial Recharge",
+        "Do a Barrel Roll",
+        "Mecha Phantom Beast Aerosguin",
+        "Mecha Phantom Beast Auroradon",
+        "Mecha Phantom Beast Blackfalcon",
+        "Mecha Phantom Beast Blue Impala",
+        "Mecha Phantom Beast Coltwing",
+        "Mecha Phantom Beast Dracossack",
+        "Mecha Phantom Beast Hamstrat",
+        "Mecha Phantom Beast Harrliard",
+        "Mecha Phantom Beast Jaculuslan",
+        "Mecha Phantom Beast Kalgriffin",
+        "Mecha Phantom Beast Megaraptor",
+        "Mecha Phantom Beast O-Lion",
+        "Mecha Phantom Beast Raiten",
+        "Mecha Phantom Beast Sabre Hawk",
+        "Mecha Phantom Beast Stealthray",
+        "Mecha Phantom Beast Tetherwolf",
+        "Mecha Phantom Beast Turtletracer",
+        "Mecha Phantom Beast Warbluran",
+        "Scramble!! Scramble!!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

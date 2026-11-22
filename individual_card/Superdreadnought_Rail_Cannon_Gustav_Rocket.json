@@ -1,0 +1,19 @@
+{
+    "name": "Superdreadnought Rail Cannon Gustav Rocket",
+    "filename": "Superdreadnought_Rail_Cannon_Gustav_Rocket",
+    "card_text": "3 Level 10 monsters\nOnce per turn, you can also Xyz Summon \"Superdreadnought Rail Cannon Gustav Rocket\" by discarding 1 card and using 1 \"Superdreadnought Rail Cannon Gustav Max\" you control (transfer its materials). When your opponent activates a monster effect, while this card has material (Quick Effect): You can negate that effect, and if you do, destroy that card, then inflict 1000 damage to your opponent. You can only use this effect of \"Superdreadnought Rail Cannon Gustav Rocket\" once per turn. Once per turn, during your End Phase: Detach 1 material from this card or destroy this card.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Superdreadnought Rail Cannon Gustav Max"
+    ],
+    "attribute": "EARTH",
+    "attack": 5000,
+    "defense": 3000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 10
+}

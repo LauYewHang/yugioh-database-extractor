@@ -1,0 +1,27 @@
+{
+    "name": "Dark Mimic LV1",
+    "filename": "Dark_Mimic_LV1",
+    "card_text": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "GOLD SERIES HAUNTED MINE",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Dark Mimic LV3",
+        "Level Down!?",
+        "Level Modulation",
+        "Level Up!",
+        "Silent Paladin",
+        "The Graveyard in the Fourth Dimension"
+    ],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

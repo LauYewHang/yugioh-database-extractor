@@ -1,0 +1,18 @@
+{
+    "name": "Pendulum Switch",
+    "filename": "Pendulum_Switch",
+    "card_text": "You can target 1 card in your Pendulum Zone; Special Summon it. You can target 1 Pendulum Monster in your Monster Zone; place that Pendulum Monster in your Pendulum Zone. You can only use 1 \"Pendulum Switch\" effect per turn, and only once that turn.",
+    "release_date": "2017-04-29",
+    "available_set": [
+        "MAXIMUM CRISIS",
+        "MAXIMUM CRISIS Sneak Peek",
+        "TACTICAL MASTERS",
+        "LEGENDARY DRAGON DECKS"
+    ],
+    "related_card": [
+        "Duelist Alliance",
+        "PenduLuMoon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

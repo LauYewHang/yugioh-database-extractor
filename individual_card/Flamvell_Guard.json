@@ -1,0 +1,27 @@
+{
+    "name": "Flamvell Guard",
+    "filename": "Flamvell_Guard",
+    "card_text": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
+    "release_date": "2009-11-10",
+    "available_set": [
+        "STARTER DECK CODEBREAKER",
+        "DUEL TERMINAL 1",
+        "HIDDEN ARSENAL",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "HIDDEN ARSENAL CHAPTER 1"
+    ],
+    "related_card": [
+        "Flamvell Archer",
+        "Flamvell Commando",
+        "Neo Flamvell Garuda",
+        "Neo Flamvell Origin",
+        "Neo Flamvell Shaman"
+    ],
+    "attribute": "FIRE",
+    "attack": 100,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

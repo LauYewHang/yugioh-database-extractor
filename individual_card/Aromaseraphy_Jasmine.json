@@ -1,0 +1,30 @@
+{
+    "name": "Aromaseraphy Jasmine",
+    "filename": "Aromaseraphy_Jasmine",
+    "card_text": "2 Plant monsters\nIf your LP are higher than your opponent's, this card and any Plant monsters it points to cannot be destroyed by battle. You can Tribute 1 monster this card points to; Special Summon 1 Plant monster from your Deck in Defense Position. You can only use this effect of \"Aromaseraphy Jasmine\" once per turn. Once per turn, if you gain LP: Add 1 Plant monster from your Deck to your hand.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aromage Marjoram",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Blessed Winds",
+        "Dried Winds",
+        "Humid Winds"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

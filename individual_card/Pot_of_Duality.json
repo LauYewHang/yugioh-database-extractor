@@ -1,0 +1,26 @@
+{
+    "name": "Pot of Duality",
+    "filename": "Pot_of_Duality",
+    "card_text": "Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "DUELIST REVOLUTION",
+        "KING'S COURT",
+        "ASTRAL PACK FIVE",
+        "HIGH-SPEED RIDERS",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "COLLECTIBLE TIN 2011 WAVE 1",
+        "HERO STRIKE STRUCTURE DECK",
+        "LEGENDARY DRAGON DECKS",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "BATTLE PACK EPIC DAWN",
+        "STARTER DECK - LINK STRIKE -",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

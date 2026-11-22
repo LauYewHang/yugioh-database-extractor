@@ -1,0 +1,33 @@
+{
+    "name": "Libromancer Firestarter",
+    "filename": "Libromancer_Firestarter",
+    "card_text": "You can Ritual Summon this card with a \"Libromancer\" card. If this card is Ritual Summoned by using a monster(s) on the field, it cannot be destroyed, or banished, by card effects. Gains 200 ATK/DEF each time your opponent activates a card or effect, while you control this card with ATK less than 3000 in the Monster Zone.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Libromancer Agent",
+        "Libromancer Bonded",
+        "Libromancer Displaced",
+        "Libromancer Doombroker",
+        "Libromancer Fire",
+        "Libromancer Fireburst",
+        "Libromancer First Appearance",
+        "Libromancer Geek Boy",
+        "Libromancer Intervention",
+        "Libromancer Magigirl",
+        "Libromancer Mystigirl",
+        "Libromancer Origin Story",
+        "Libromancer Prevented",
+        "Libromancer Realized"
+    ],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 1800,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

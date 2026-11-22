@@ -1,0 +1,43 @@
+{
+    "name": "Dogmatikacism",
+    "filename": "Dogmatikacism",
+    "card_text": "If the equipped monster is a \"Dogmatika\" monster, it gains ATK equal to its Level x 100. If not, it loses 200 ATK for each \"Dogmatika\" monster you control. If this card is sent to the GY because the equipped monster is destroyed: You can send 1 monster from your Extra Deck to the GY. You can only use this effect of \"Dogmatikacism\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Alba System Dogmatikalamity",
+        "Branded in Central Dogmatika",
+        "Dogmatika Adin, the Enlightened",
+        "Dogmatika Alba Zoa",
+        "Dogmatika Ashiyan",
+        "Dogmatika Ecclesia, the Virtuous",
+        "Dogmatika Encounter",
+        "Dogmatika Fleurdelis, the Knighted",
+        "Dogmatika Fleurdelis, the Thunderbolt",
+        "Dogmatika Genesis",
+        "Dogmatika Lawbringer",
+        "Dogmatika Maximus",
+        "Dogmatika Nation",
+        "Dogmatika Nexus",
+        "Dogmatika Punishment",
+        "Dogmatika Theo, the Iron Punch",
+        "Dogmatikalamity",
+        "Dogmatikamacabre",
+        "Dogmatikamatrix",
+        "Dogmatikaturgy",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Nadir Servant",
+        "Quadogmatika Beast",
+        "The Dragon that Devours the Dogma",
+        "The Fallen & The Virtuous",
+        "Titaniklad the Ash Dragon",
+        "White Knight of Dogmatika",
+        "White Relic of Dogmatika"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

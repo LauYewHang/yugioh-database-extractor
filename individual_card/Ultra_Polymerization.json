@@ -1,0 +1,34 @@
+{
+    "name": "Ultra Polymerization",
+    "filename": "Ultra_Polymerization",
+    "card_text": "Pay 2000 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using 2 monsters you control as Fusion Materials. Neither player can activate cards or effects in response to this card's activation. You can banish this card from your GY, then target 1 Fusion Monster that was Fusion Summoned with this card's effect; Special Summon all the Fusion Materials used for its Fusion Summon from your GY, but change their ATK/DEF to 0, also they have their effects negated.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS",
+        "HIDDEN SUMMONERS",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

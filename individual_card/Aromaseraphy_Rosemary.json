@@ -1,0 +1,30 @@
+{
+    "name": "Aromaseraphy Rosemary",
+    "filename": "Aromaseraphy_Rosemary",
+    "card_text": "1 Tuner + 1 or more non-Tuner monsters\nWhile your LP is higher than your opponent's, all Plant-Type monsters you control gain 500 ATK and DEF. Once per turn, if you gain LP: Target 1 face-up card your opponent controls; that face-up card has its effects negated until the end of this turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aromage Marjoram",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Blessed Winds",
+        "Crossrose Dragon",
+        "Dried Winds",
+        "Humid Winds"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 900,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

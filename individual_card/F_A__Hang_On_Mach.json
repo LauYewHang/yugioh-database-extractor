@@ -1,0 +1,39 @@
+{
+    "name": "F.A. Hang On Mach",
+    "filename": "F_A__Hang_On_Mach",
+    "card_text": "Gains ATK equal to its Level x 300. Unaffected by activated effects from an opponent's monster whose original Level/Rank is lower than this card's Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, any card sent to your opponent's GY is banished instead.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "CODE OF THE DUELIST",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "F.A. Auto Navigator",
+        "F.A. Circuit Grand Prix",
+        "F.A. City Grand Prix",
+        "F.A. Dark Dragster",
+        "F.A. Dawn Dragster",
+        "F.A. Dead Heat",
+        "F.A. Downforce",
+        "F.A. Motorhome Transport",
+        "F.A. Off-Road Grand Prix",
+        "F.A. Overheat",
+        "F.A. Pit Stop",
+        "F.A. Shining Star GT",
+        "F.A. Sonic Meister",
+        "F.A. Test Run",
+        "F.A. Turbo Charger",
+        "F.A. Whip Crosser",
+        "F.A. Winners",
+        "U.A. Hyper Stadium",
+        "U.A. Locker Room",
+        "U.A. Man of the Match"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

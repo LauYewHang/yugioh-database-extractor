@@ -1,0 +1,17 @@
+{
+    "name": "Genia of the Ring",
+    "filename": "Genia_of_the_Ring",
+    "card_text": "If this card is in your hand: You can target 1 face-up monster on the field; Special Summon this card, also that target becomes a Spellcaster monster. The next time that target would be destroyed by card effect this turn, it is not destroyed, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Spellcaster monsters. If this card is Tributed, or banished, to activate a Spellcaster monster's effect: You can add this card to your hand. You can only use each effect of \"Genia of the Ring\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1850,
+    "defense": 1850,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

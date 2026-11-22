@@ -1,0 +1,21 @@
+{
+    "name": "Guiding Ariadne",
+    "filename": "Guiding_Ariadne",
+    "card_text": "If this card is destroyed by battle or card effect: You can reveal 3 Counter Traps from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "PENDULUM EVOLUTION",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Apply these effects.\n\u25cfYou do not pay LP to activate Counter Trap Cards.\n\u25cfYou do not discard to activate Counter Trap Cards.",
+    "pendulum_scale": 3
+}

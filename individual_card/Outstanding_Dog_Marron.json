@@ -1,0 +1,23 @@
+{
+    "name": "Outstanding Dog Marron",
+    "filename": "Outstanding_Dog_Marron",
+    "card_text": "When this card is sent to your GY: Shuffle it into your Deck.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1",
+        "OTS TOURNAMENT PACK 17",
+        "DARK CRISIS"
+    ],
+    "related_card": [
+        "Outstanding Dog Mary"
+    ],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

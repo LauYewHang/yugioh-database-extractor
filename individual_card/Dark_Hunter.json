@@ -1,0 +1,17 @@
+{
+    "name": "Dark Hunter",
+    "filename": "Dark_Hunter",
+    "card_text": "This card's effect changes depending on the number of DARK monsters in your Graveyard.\n\u25cf1 or fewer: This card loses 400 ATK.\n\u25cf2 to 4: This card gains 400 ATK.\n\u25cf5 or more: You can send this card to the Graveyard to destroy all face-down monsters your opponent controls.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

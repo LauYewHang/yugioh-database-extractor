@@ -1,0 +1,39 @@
+{
+    "name": "I.A.S. -Invasive Alien Species-",
+    "filename": "I_A_S___Invasive_Alien_Species_",
+    "card_text": "Cannot be destroyed by battle or card effects while your opponent has a face-up card in their Field Zone. You can only use each of the following effects of \"I.A.S. -Invasive Alien Species-\" once per turn. If your opponent has a face-up card in their Field Zone: You can target 1 monster they control; destroy it, and if you do, this card gains 1000 ATK. If your opponent has a face-up card in their Field Zone, while this card is in your GY: You can Special Summon this card.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "\"A\" Cell Recombination Device",
+        "\"A\" Cell Scatter Burst",
+        "Alien Ammonite",
+        "Alien Dog",
+        "Alien Grey",
+        "Alien Kid",
+        "Alien Overlord",
+        "Alien Skull",
+        "Alien Telepath",
+        "Alien Warrior",
+        "Code A Ancient Ruins",
+        "Cosmic Fortress Gol'gar",
+        "Cosmic Horror Gangi'el",
+        "Crop Circles",
+        "Flying Saucer Muusik'i",
+        "Mass Hypnosis",
+        "Mysterious Triangle",
+        "Orbital Bombardment",
+        "Otherworld - The \"A\" Zone",
+        "Planet Pollutant Virus"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

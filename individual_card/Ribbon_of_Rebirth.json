@@ -1,0 +1,16 @@
+{
+    "name": "Ribbon of Rebirth",
+    "filename": "Ribbon_of_Rebirth",
+    "card_text": "During the End Phase, if the equipped monster was destroyed by battle and sent to the Graveyard this turn: Special Summon it from the Graveyard to your side of the field.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "LIGHT OF DESTRUCTION",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

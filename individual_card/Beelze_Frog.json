@@ -1,0 +1,29 @@
+{
+    "name": "Beelze Frog",
+    "filename": "Beelze_Frog",
+    "card_text": "This card gains 300 ATK for each \"T.A.D.P.O.L.E.\" in your Graveyard.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [
+        "Dupe Frog",
+        "Flip Flop Frog",
+        "Froggy Forcefield",
+        "Ronintoadin",
+        "Substitoad",
+        "Swap Frog",
+        "T.A.D.P.O.L.E.",
+        "Toadally Awesome",
+        "Tradetoad",
+        "Unifrog"
+    ],
+    "attribute": "WATER",
+    "attack": 1200,
+    "defense": 800,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

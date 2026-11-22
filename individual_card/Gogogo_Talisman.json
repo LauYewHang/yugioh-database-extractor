@@ -1,0 +1,33 @@
+{
+    "name": "Gogogo Talisman",
+    "filename": "Gogogo_Talisman",
+    "card_text": "While you control 2 or more \"Gogogo\" monsters, you take no effect damage. Once per turn, when an attack is declared involving a \"Gogogo\" monster you control: You can activate this effect; that monster you control cannot be destroyed by that battle.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "Dodododwarf Gogogoglove",
+        "Gagaga Ganbara Knight",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Gogogo Aristera & Dexia",
+        "Gogogo Ghost",
+        "Gogogo Giant",
+        "Gogogo Gigas",
+        "Gogogo Goblindbergh",
+        "Gogogo Golem",
+        "Gogogo Golem - Golden Form",
+        "Gogogo Goram",
+        "Guard Go!",
+        "Number 55: Gogogo Goliath",
+        "Onomatokage",
+        "Onomatopaira",
+        "Onomatopia",
+        "Onomatopickup",
+        "Utopic Onomatopoeia",
+        "Zubababancho Gagagacoat"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

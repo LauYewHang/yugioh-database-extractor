@@ -1,0 +1,14 @@
+{
+    "name": "Scroll of Bewitchment",
+    "filename": "Scroll_of_Bewitchment",
+    "card_text": "Select 1 Attribute. Change the Attribute of the equipped monster to the one you select.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "LABYRINTH OF NIGHTMARE",
+        "DARK BEGINNING 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

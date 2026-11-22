@@ -1,0 +1,27 @@
+{
+    "name": "Condemned Witch",
+    "filename": "Condemned_Witch",
+    "card_text": "When this card is Normal Summoned: You can add 1 \"Forbidden\" Quick-Play Spell from your Deck to your hand. During your opponent's Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 Level 4 Fairy monster from your Deck, except \"Condemned Witch\". You can only use each effect of \"Condemned Witch\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "Gold Series: Maximum Gold",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR"
+    ],
+    "related_card": [
+        "Forbidden Chalice",
+        "Forbidden Crown",
+        "Forbidden Dress",
+        "Forbidden Droplet",
+        "Forbidden Lance",
+        "Forbidden Scripture"
+    ],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

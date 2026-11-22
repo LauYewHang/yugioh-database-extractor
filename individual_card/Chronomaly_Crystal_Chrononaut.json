@@ -1,0 +1,39 @@
+{
+    "name": "Chronomaly Crystal Chrononaut",
+    "filename": "Chronomaly_Crystal_Chrononaut",
+    "card_text": "2 Level 3 monsters\nOnce per turn, when this card is targeted for an attack: You can detach 1 Xyz Material from this card; this turn, this card cannot be destroyed by battle or by card effects, also your opponent takes any Battle Damage you would have taken from battles involving this card.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Chronomaly Acambaro Figures",
+        "Chronomaly Cabrera Trebuchet",
+        "Chronomaly City Babylon",
+        "Chronomaly Crystal Bones",
+        "Chronomaly Crystal Skull",
+        "Chronomaly Esperanza Glyph",
+        "Chronomaly Golden Jet",
+        "Chronomaly Gordian Knot",
+        "Chronomaly Magella Globe",
+        "Chronomaly Moai",
+        "Chronomaly Mud Golem",
+        "Chronomaly Nebra Disk",
+        "Chronomaly Pyramid Eye Tablet",
+        "Chronomaly Sol Monolith",
+        "Chronomaly Technology",
+        "Chronomaly Temple - Trilithon",
+        "Chronomaly Tuspa Rocket",
+        "Chronomaly Vimana",
+        "Chronomaly Winged Sphinx",
+        "Number 36: Chronomaly Chateau Huyuk",
+        "Stonehenge Methods"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 1000,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

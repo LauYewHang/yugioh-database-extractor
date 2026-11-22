@@ -1,0 +1,35 @@
+{
+    "name": "Ojama King",
+    "filename": "Ojama_King",
+    "card_text": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nChoose up to 3 of your opponent's unused Monster Zones. Those zones cannot be used.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "DUELIST PACK - CHAZZ PRINCETON -",
+        "SOUL OF THE DUELIST",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Ojama Black",
+        "Ojama Blue",
+        "Ojama Country",
+        "Ojama Duo",
+        "Ojama Emperor",
+        "Ojama Green",
+        "Ojama Knight",
+        "Ojama Pajama",
+        "Ojama Pink",
+        "Ojama Red",
+        "Ojama Yellow",
+        "Ojamassimilation",
+        "Ojamatch",
+        "Ojamuscle"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 3000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

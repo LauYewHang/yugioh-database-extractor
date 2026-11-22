@@ -1,0 +1,25 @@
+{
+    "name": "Sacred Beasts Released",
+    "filename": "Sacred_Beasts_Released",
+    "card_text": "Add 3 \"Sacred Beast\" monsters with different names from your Deck to your hand, then discard 2 cards. If this card is in your GY, except the turn it was sent there: You can banish it; add 1 Level 10 Pyro, Thunder, or Fiend monster that cannot be Normal Summoned/Set, from your Deck to your hand. You can only use each effect of \"Sacred Beasts Released\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Abyss of the Sacred Beasts",
+        "Awakening of the Sacred Beasts",
+        "Calamity of the Sacred Beasts - Hamon, Lord of Striking Thunder",
+        "Fallen Paradise of the Sacred Beasts",
+        "Inferno of the Sacred Beasts - Uria, Lord of Searing Flames",
+        "Infinity of the Sacred Beasts - Raviel, Lord of Phantasms",
+        "Martyr of the Sacred Beasts",
+        "Sacred Beasts Combined Assault",
+        "Sacred Beasts Skyfall",
+        "Sacred Beasts Thunderclap",
+        "Summoner of the Sacred Beasts",
+        "The Chaotic Phantasmal Sacred Beasts"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

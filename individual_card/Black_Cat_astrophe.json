@@ -1,0 +1,22 @@
+{
+    "name": "Black Cat-astrophe",
+    "filename": "Black_Cat_astrophe",
+    "card_text": "During your opponent's Battle Phase, if you control 2 or more face-down Defense Position monsters: End the Battle Phase. You can banish this card from your GY, then target 2 face-up monsters on the field, including at least 1 \"Prediction Princess\" monster; change them to face-down Defense Position.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Prediction Princess Arrowsylph",
+        "Prediction Princess Astromorrigan",
+        "Prediction Princess Bibliomuse",
+        "Prediction Princess Coinorma",
+        "Prediction Princess Crystaldine",
+        "Prediction Princess Petalelf",
+        "Prediction Princess Tarotrei",
+        "Prediction Princess Tarotreith"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

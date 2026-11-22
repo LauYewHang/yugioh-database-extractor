@@ -1,0 +1,32 @@
+{
+    "name": "Icejade Kosmochlor",
+    "filename": "Icejade_Kosmochlor",
+    "card_text": "If a face-up card is in a Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Icejade Kosmochlor\" once per turn this way. While \"Icejade Cenote Enion Cradle\" is on the field, monsters your opponent controls can only activate their effects the turn they are Summoned. If your \"Icejade\" monster battles an opponent's monster, that opponent's monster loses 1000 ATK during that damage calculation only.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Icejade Acti",
+        "Icejade Aegirine",
+        "Icejade Cenote Enion Cradle",
+        "Icejade Cradle",
+        "Icejade Creation Aegirocassis",
+        "Icejade Creation Kingfisher",
+        "Icejade Curse",
+        "Icejade Erosion",
+        "Icejade Gymir Aegirine",
+        "Icejade Manifestation",
+        "Icejade Ran Aegirine",
+        "Icejade Tinola",
+        "Icejade Tremora"
+    ],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": 3000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

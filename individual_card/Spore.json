@@ -1,0 +1,20 @@
+{
+    "name": "Spore",
+    "filename": "Spore",
+    "card_text": "If this card is in your GY: You can banish 1 other Plant monster from your GY; Special Summon this card, and if you do, increase its Level by the Level of that banished monster. You can only use this effect of \"Spore\" once per Duel.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "GENERATION FORCE SPECIAL EDITION",
+        "Legendary 5D's Decks",
+        "OTS TOURNAMENT PACK 13",
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 400,
+    "defense": 800,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

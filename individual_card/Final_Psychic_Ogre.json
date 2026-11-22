@@ -1,0 +1,17 @@
+{
+    "name": "Final Psychic Ogre",
+    "filename": "Final_Psychic_Ogre",
+    "card_text": "If this card destroys an opponent's monster by battle, you can pay 800 Life Points to select 1 Psychic-Type monster in your Graveyard, and add it to your hand.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 1700,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

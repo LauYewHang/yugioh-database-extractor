@@ -1,0 +1,14 @@
+{
+    "name": "Security Orb",
+    "filename": "Security_Orb",
+    "card_text": "When your opponent's monster declares an attack: Target that attacking monster; change that target's battle position. If this Set card is destroyed by your opponent's Spell/Trap effect and sent to the GY: Destroy 1 monster on the field.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "GLADIATOR'S ASSAULT",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Magicians' Souls",
+    "filename": "Magicians__Souls",
+    "card_text": "You can send up to 2 Spells/Traps from your hand and/or field to the GY; draw that many cards. If this card is in your hand: You can send 1 Level 6 or higher Spellcaster monster from your Deck to the GY, then activate 1 of these effects;\n\u25cfSpecial Summon this card.\n\u25cfSend this card to the GY, then, you can Special Summon 1 \"Dark Magician\" or 1 \"Dark Magician Girl\" from your GY.\nYou can only use each effect of \"Magicians' Souls\" once per turn.",
+    "release_date": "2020-01-17",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "BROTHERS OF LEGEND",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "LEGENDARY DUELISTS: SEASON 3"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician Girl",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,19 @@
+{
+    "name": "SA.I.dekick",
+    "filename": "SA_I_dekick",
+    "card_text": "Target face-up cards your opponent controls equal to the number of Cyberse monsters you control with 2300 original ATK; negate their effects until the end of this turn. You can banish this card from your GY, then target 1 of your banished Cyberse monsters; Special Summon it. You can only use each effect of \"SA.I.dekick\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "A.I.dle Reborn",
+        "Code Igniter",
+        "Donyoribo @Ignister",
+        "Doyon @Ignister",
+        "Firewall Saber Dragon",
+        "Pikari @Ignister"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

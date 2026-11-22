@@ -1,0 +1,28 @@
+{
+    "name": "Vaylantz Wave - Master Phase",
+    "filename": "Vaylantz_Wave___Master_Phase",
+    "card_text": "Once per turn, if a card in the Monster Zone moves to another Monster Zone (except during the Damage Step): You can activate 1 of these effects;\n\u25cfLevel 5 or higher \"Vaylantz\" monsters you currently control gain 1200 ATK until the end of this turn.\n\u25cfSend this face-up card from the Spell & Trap Zone to the GY, then target 1 Effect Monster in your opponent's Main Monster Zone; place that opponent's monster face-up as a Continuous Spell in their Spell & Trap Zone in its same column. (If the zone is occupied, destroy the occupying card.)",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Arktos XII - Chronochasm Vaylantz",
+        "Hojo the Vaylantz Warrior",
+        "Mamonaka the Vaylantz United",
+        "Nazuki the Vaylantz Ninja",
+        "Saion the Vaylantz Archer",
+        "Shinonome the Vaylantz Priestess",
+        "Vaylantz Buster Baron",
+        "Vaylantz Dominator Duke",
+        "Vaylantz Genesis Grand Duke",
+        "Vaylantz Mad Marquess",
+        "Vaylantz Voltage Viscount",
+        "Vaylantz Wakening - Solo Activation",
+        "Vaylantz Wars - The Place of Beginning",
+        "Vaylantz World - Konig Wissen",
+        "Vaylantz World - Shinra Bansho"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

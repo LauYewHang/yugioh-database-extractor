@@ -1,0 +1,33 @@
+{
+    "name": "Giant Beetrooper Invincible Atlas",
+    "filename": "Giant_Beetrooper_Invincible_Atlas",
+    "card_text": "2+ Insect monsters\nWhile this Link Summoned card has 3000 or less ATK, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You cannot Special Summon monsters, except Insect monsters. You can Tribute 1 Insect monster, then activate 1 of these effects;\n\u25cfSpecial Summon 1 \"Beetrooper\" monster from your Deck.\n\u25cfThis card gains 2000 ATK until the end of this turn.\nYou can only use this effect of \"Giant Beetrooper Invincible Atlas\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Beetrooper Armor Horn",
+        "Beetrooper Assault Roller",
+        "Beetrooper Cruel Saturnas",
+        "Beetrooper Descent",
+        "Beetrooper Fly & Sting",
+        "Beetrooper Formation",
+        "Beetrooper Landing",
+        "Beetrooper Light Flapper",
+        "Beetrooper Scale Bomber",
+        "Beetrooper Scout Buggy",
+        "Beetrooper Squad",
+        "Beetrooper Sting Lancer",
+        "Heavy Beetrooper Mighty Neptune",
+        "Ultra Beetrooper Absolute Hercules"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 270
+}

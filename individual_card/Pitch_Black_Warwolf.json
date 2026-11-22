@@ -1,0 +1,23 @@
+{
+    "name": "Pitch-Black Warwolf",
+    "filename": "Pitch_Black_Warwolf",
+    "card_text": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 3",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "RISE OF DESTINY",
+        "Speed Duel: Battle City Box",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STARTER DECK YUYA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 600,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

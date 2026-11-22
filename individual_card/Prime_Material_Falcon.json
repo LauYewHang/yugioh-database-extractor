@@ -1,0 +1,17 @@
+{
+    "name": "Prime Material Falcon",
+    "filename": "Prime_Material_Falcon",
+    "card_text": "When an Effect Monster's effect to destroy a Spell or Trap Card(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2200,
+    "defense": 800,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Fiendsmith Kyrie",
+    "filename": "Fiendsmith_Kyrie",
+    "card_text": "This turn, your LIGHT Fiend monsters cannot be destroyed by battle, also any battle damage you take becomes halved. You can banish this card from your GY; Fusion Summon 1 \"Fiendsmith\" Fusion Monster from your Extra Deck, using monsters you control, and/or monsters in your Spell & Trap Zones that are equipped to a \"Fiendsmith\" monster as an Equip Spell, as material. You can only use this effect of \"Fiendsmith Kyrie\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Fiendsmith Engraver",
+        "Fiendsmith in Paradise",
+        "Fiendsmith's Agnumday",
+        "Fiendsmith's Desirae",
+        "Fiendsmith's Lacrima",
+        "Fiendsmith's Requiem",
+        "Fiendsmith's Rextremende",
+        "Fiendsmith's Sanct",
+        "Fiendsmith's Sequence",
+        "Fiendsmith's Tract",
+        "Lacrima the Crimson Tears"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

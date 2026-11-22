@@ -1,0 +1,24 @@
+{
+    "name": "Ryu-Ge End",
+    "filename": "Ryu_Ge_End",
+    "card_text": "Your opponent cannot target \"Ryu-Ge\" monsters you control with card effects. You can only use each of the following effects of \"Ryu-Ge End\" once per turn. If a \"Ryu-Ge\" Pendulum Monster is in your field or face-up Extra Deck: You can shuffle 2 \"Ryu-Ge\" monsters from your hand, GY, and/or banishment into the Main Deck, then target 1 monster on the field; destroy it. If this card is destroyed: You can Set 1 non-Continuous \"Ryu-Ge\" Trap from your Deck, GY, or banishment.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Genro Ryu-Ge Hakva",
+        "Kairo Ryu-Ge Emva",
+        "Kyoro Ryu-Ge Kaiva",
+        "Ryu-Ge Realm - Dino Domains",
+        "Ryu-Ge Realm - Sea Spires",
+        "Ryu-Ge Realm - Wyrm Winds",
+        "Ryu-Ge Rising",
+        "Ryu-Ge Rivalry",
+        "Ryu-Ge War Zone",
+        "Sosei Ryu-Ge Mistva",
+        "Tensei Ryu-Ge Anva"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

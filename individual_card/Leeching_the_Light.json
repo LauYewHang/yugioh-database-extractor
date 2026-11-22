@@ -1,0 +1,12 @@
+{
+    "name": "Leeching the Light",
+    "filename": "Leeching_the_Light",
+    "card_text": "Select 1 face-up LIGHT monster your opponent controls. All face-up Attack Position monsters you control gain ATK equal to the ATK of the selected monster, until the End Phase.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

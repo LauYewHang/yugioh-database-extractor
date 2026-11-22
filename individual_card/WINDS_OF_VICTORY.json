@@ -1,0 +1,12 @@
+{
+    "name": "WINDS OF VICTORY",
+    "filename": "WINDS_OF_VICTORY",
+    "card_text": "The equipped monster gains 300 ATK, also it becomes WIND.",
+    "release_date": "2025-09-12",
+    "available_set": [
+        "NIKE COLLABORATION CARD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

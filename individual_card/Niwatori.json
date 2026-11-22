@@ -1,0 +1,20 @@
+{
+    "name": "Niwatori",
+    "filename": "Niwatori",
+    "card_text": "Swallows enemies whole and uses their essence as energy.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Punished Eagle"
+    ],
+    "attribute": "EARTH",
+    "attack": 900,
+    "defense": 800,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

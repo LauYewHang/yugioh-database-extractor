@@ -1,0 +1,15 @@
+{
+    "name": "Chaos Distill",
+    "filename": "Chaos_Distill",
+    "card_text": "While this card is face-up on the field, any card sent to your GY is banished instead. You can activate 1 of these effects;\n\u25cfAdd 1 \"Macro Cosmos\", or 1 card that mentions it, from your Deck to your hand, except \"Chaos Distill\".\n\u25cfIf \"Macro Cosmos\" is on the field: Banish this face-up card from the Spell & Trap Zone; add 1 LIGHT monster with ? ATK from your Deck to your hand.\nYou can only use this effect of \"Chaos Distill\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Grand Convergence",
+        "Macro Cosmos"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

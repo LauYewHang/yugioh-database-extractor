@@ -1,0 +1,12 @@
+{
+    "name": "Cash Back",
+    "filename": "Cash_Back",
+    "card_text": "When your opponent activates a Spell/Trap Card, or monster effect, by paying their Life Points: Negate the activation, and if you do, return it to the Deck.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

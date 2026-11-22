@@ -1,0 +1,24 @@
+{
+    "name": "Black Rose Moonlight Dragon",
+    "filename": "Black_Rose_Moonlight_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuners\nIf this card is Special Summoned, or a Level 5 or higher monster(s) is Special Summoned to your opponent's field: Target 1 Special Summoned monster your opponent controls; return that target to the hand. You can only use this effect of \"Black Rose Moonlight Dragon\" once per turn.",
+    "release_date": "2015-03-03",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "LEGENDARY MODERN DECKS 2026",
+        "Legendary 5D's Decks",
+        "HIGH-SPEED RIDERS",
+        "Yu-Gi-Oh! 5D's volume 7 Promotional Card",
+        "LEGENDARY DUELISTS: SEASON 2"
+    ],
+    "related_card": [
+        "Crossrose Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

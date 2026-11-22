@@ -1,0 +1,17 @@
+{
+    "name": "Skyfaring Castle of the Black Forest",
+    "filename": "Skyfaring_Castle_of_the_Black_Forest",
+    "card_text": "3+ Rock Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+    "release_date": "2019-08-10",
+    "available_set": [
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2019"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": null,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 340
+}

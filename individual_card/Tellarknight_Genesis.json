@@ -1,0 +1,43 @@
+{
+    "name": "Tellarknight Genesis",
+    "filename": "Tellarknight_Genesis",
+    "card_text": "Destroy Spell/Trap Cards on the field equal to the number of other \"tellarknight\" cards you control.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Constellar Tellarknights",
+        "Darktellarknight Batlamyus",
+        "Exstellarknight Constellar Ptolemy \u03a97",
+        "Hexatellarknight",
+        "Satellarknight Alsahm",
+        "Satellarknight Altair",
+        "Satellarknight Betelgeuse",
+        "Satellarknight Capella",
+        "Satellarknight Deneb",
+        "Satellarknight Procyon",
+        "Satellarknight Rigel",
+        "Satellarknight Sirius",
+        "Satellarknight Skybridge",
+        "Satellarknight Unukalhai",
+        "Satellarknight Vega",
+        "Satellarknight Zefrathuban",
+        "Stellarknight Alpha",
+        "Stellarknight Constellar Diamond",
+        "Stellarknight Delteros",
+        "Stellarknight Triverr",
+        "Stellarknight Zefraxciton",
+        "Stellarnova Alpha",
+        "Stellarnova Binding",
+        "Stellarnova Wave",
+        "Tellarknight Altairan",
+        "Tellarknight Constellar Caduceus",
+        "Tellarknight Constellar Delteros",
+        "Tellarknight Cygnian",
+        "Tellarknight Lyran",
+        "Tellarknight Ptolemaeus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

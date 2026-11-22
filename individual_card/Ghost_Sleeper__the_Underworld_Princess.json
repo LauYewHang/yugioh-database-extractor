@@ -1,0 +1,19 @@
+{
+    "name": "Ghost Sleeper, the Underworld Princess",
+    "filename": "Ghost_Sleeper__the_Underworld_Princess",
+    "card_text": "If this card is sent to the GY: You can add 1 \"Ghost Fusion\" from your Deck to your hand. If this card is in your GY, except the turn it was sent there: You can banish this card and discard 1 card, then target 1 of your banished Level 4 or higher Zombie monsters; add it to your hand. You can only use each effect of \"Ghost Sleeper, the Underworld Princess\" once per turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Ghost Fusion"
+    ],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

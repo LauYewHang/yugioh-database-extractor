@@ -1,0 +1,16 @@
+{
+    "name": "Frozen Rose",
+    "filename": "Frozen_Rose",
+    "card_text": "Send 1 face-up monster you control to the GY; apply this effect, depending on the Type it had on the field.\n\u25cfPlant: During the End Phase of this turn, draw 2 cards, then discard 1 card.\n\u25cfNon-Plant: Add 1 Level 4 or lower Plant monster from your Deck to your hand.\nYou can only activate 1 \"Frozen Rose\" per turn.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "Legendary 5D's Decks",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE"
+    ],
+    "related_card": [
+        "Red Rose Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

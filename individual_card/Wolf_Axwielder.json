@@ -1,0 +1,17 @@
+{
+    "name": "Wolf Axwielder",
+    "filename": "Wolf_Axwielder",
+    "card_text": "Once it has started battle, this monster attacks fiercely and cannot stop.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1650,
+    "defense": 1000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

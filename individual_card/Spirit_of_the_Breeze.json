@@ -1,0 +1,18 @@
+{
+    "name": "Spirit of the Breeze",
+    "filename": "Spirit_of_the_Breeze",
+    "card_text": "As long as this card remains in face-up Attack Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 1800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

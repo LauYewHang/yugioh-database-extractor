@@ -1,0 +1,21 @@
+{
+    "name": "Dimension Shifter",
+    "filename": "Dimension_Shifter",
+    "card_text": "If you have no cards in your GY (Quick Effect): You can send this card from your hand to the GY; until the end of the next turn, any card sent to the GY is banished instead.",
+    "release_date": "2019-08-30",
+    "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "2019 GOLD SARCOPHAGUS TIN",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 2200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

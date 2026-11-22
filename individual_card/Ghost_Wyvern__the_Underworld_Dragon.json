@@ -1,0 +1,19 @@
+{
+    "name": "Ghost Wyvern, the Underworld Dragon",
+    "filename": "Ghost_Wyvern__the_Underworld_Dragon",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Ghost Fusion\" from your Deck to your hand. During the End Phase, if this card is currently banished, and was banished this turn: You can take 1 Level 2 or lower Zombie Tuner from your Deck, and either add it to your hand or send it to the GY. You can only use each effect of \"Ghost Wyvern, the Underworld Dragon\" once per turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Ghost Fusion"
+    ],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

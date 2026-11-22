@@ -1,0 +1,25 @@
+{
+    "name": "Appliancer Conversion",
+    "filename": "Appliancer_Conversion",
+    "card_text": "Banish as many \"Appliancer\" Link Monsters from your Main Monster Zone as possible, then you can Special Summon your banished \"Appliancer\" Link Monsters up to the number banished by this effect. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish 1 other \"Appliancer\" Spell/Trap from your GY; add this card to your hand. You can only use each effect of \"Appliancer Conversion\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Appliancer Breakerbuncle",
+        "Appliancer Celtopus",
+        "Appliancer Copybokkle",
+        "Appliancer Dryer Drake",
+        "Appliancer Electrilyrical World",
+        "Appliancer Kappa Scale",
+        "Appliancer Laundry Dragon",
+        "Appliancer Propelion",
+        "Appliancer Reuse",
+        "Appliancer Socketroll",
+        "Appliancer Test",
+        "Appliancer Vacculephant"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

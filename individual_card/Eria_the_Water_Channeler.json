@@ -1,0 +1,42 @@
+{
+    "name": "Eria the Water Channeler",
+    "filename": "Eria_the_Water_Channeler",
+    "card_text": "(This card is always treated as a \"Charmer\" card.)\nYou can discard this card and 1 other WATER monster; add 1 WATER monster from your Deck to your hand with an equal or higher Level than the other discarded monster, also you cannot activate non-WATER monster effects for the rest of this turn. When your WATER monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Eria the Water Channeler\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+    ],
+    "related_card": [
+        "Aussa the Earth Channeler",
+        "Aussa the Earth Charmer",
+        "Aussa the Earth Charmer, Immovable",
+        "Awakening of the Possessed",
+        "Charmer Quartet in Bloom",
+        "Charmers of the Grand Circle",
+        "Dharc the Dark Charmer",
+        "Dharc the Dark Charmer, Gloomy",
+        "Eria the Water Charmer",
+        "Eria the Water Charmer, Gentle",
+        "Hiita the Fire Channeler",
+        "Hiita the Fire Charmer",
+        "Hiita the Fire Charmer, Ablaze",
+        "Lyna the Light Charmer",
+        "Lyna the Light Charmer, Lustrous",
+        "Possessed Destiny",
+        "Spellbook of the Grand Circle",
+        "Spirit Charmers",
+        "Unpossessed",
+        "Wynn the Wind Channeler",
+        "Wynn the Wind Charmer",
+        "Wynn the Wind Charmer, Verdant"
+    ],
+    "attribute": "WATER",
+    "attack": 1850,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

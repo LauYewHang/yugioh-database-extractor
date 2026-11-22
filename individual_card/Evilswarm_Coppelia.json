@@ -1,0 +1,27 @@
+{
+    "name": "Evilswarm Coppelia",
+    "filename": "Evilswarm_Coppelia",
+    "card_text": "Cannot be Special Summoned. When this card leaves the field because of your opponent's card (either by battle or by card effect): You can target 1 face-up monster your opponent controls; take control of that target until your next End Phase.",
+    "release_date": "2013-02-01",
+    "available_set": [
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS",
+        "DUEL TERMINAL 7B"
+    ],
+    "related_card": [
+        "Evilswarm Bahamut",
+        "Evilswarm Castor",
+        "Evilswarm Kerykeion",
+        "Evilswarm Ophion",
+        "Infestation Infection",
+        "Infestation Pandemic",
+        "Infestation Terminus",
+        "Steelswarm Origin"
+    ],
+    "attribute": "DARK",
+    "attack": 2450,
+    "defense": 2050,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Juraishin, the Cursed Thunder God",
+    "filename": "Juraishin__the_Cursed_Thunder_God",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nEach time your opponent activates a card or effect, gain 300 LP when it resolves. During your opponent's turn (Quick Effect): You can pay 1500 LP and Tribute this card, then activate 1 of these effects;\n\u25cfDestroy all face-up monsters your opponent controls.\n\u25cfDestroy all face-up Spells and Traps your opponent controls.\nYou can only use this effect of \"Juraishin, the Cursed Thunder God\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 3100,
+    "defense": 3100,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

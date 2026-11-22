@@ -1,0 +1,14 @@
+{
+    "name": "Chorus of Sanctuary",
+    "filename": "Chorus_of_Sanctuary",
+    "card_text": "Increase the DEF of all Defense Position monsters by 500 points.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

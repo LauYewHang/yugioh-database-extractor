@@ -1,0 +1,17 @@
+{
+    "name": "Sage of Silence",
+    "filename": "Sage_of_Silence",
+    "card_text": "If this card destroys an opponent's monster by battle, your opponent cannot activate Spell Cards during the next turn.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "STRIKE OF NEOS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

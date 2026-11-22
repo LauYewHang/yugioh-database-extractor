@@ -1,0 +1,18 @@
+{
+    "name": "Phantom Gryphon",
+    "filename": "Phantom_Gryphon",
+    "card_text": "A legendary monster that dwells secretly in the mountains, fighting with the harpies over hunting grounds. A single wingbeat is said to cause the fiercest of storms.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Performage Plushfire",
+    "filename": "Performage_Plushfire",
+    "card_text": "If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Performage\" monster from your hand or Deck, except \"Performage Plushfire\". You can only use this effect of \"Performage Plushfire\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "OTS TOURNAMENT PACK 27",
+        "DIMENSION OF CHAOS",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Bubble Barrier",
+        "Performage Ball Balancer",
+        "Performage Cup Tricker",
+        "Performage Damage Juggler",
+        "Performage Fire Dancer",
+        "Performage Flame Eater",
+        "Performage Hat Tricker",
+        "Performage Mirror Conductor",
+        "Performage Shadow Maker",
+        "Performage Stilts Launcher",
+        "Performage Trapeze High Magician",
+        "Performage Trapeze Magician",
+        "Performage Trapeze Witch",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Performage Wind Drainer",
+        "Trick Box"
+    ],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "If a face-up \"Performage\" monster(s) you control is destroyed by battle or card effect: You can Special Summon this card, then take 500 damage. You can only use this effect of \"Performage Plushfire\" once per turn.",
+    "pendulum_scale": 5
+}

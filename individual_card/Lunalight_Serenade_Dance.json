@@ -1,0 +1,38 @@
+{
+    "name": "Lunalight Serenade Dance",
+    "filename": "Lunalight_Serenade_Dance",
+    "card_text": "When a Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can target 1 of those monsters; apply these effects in sequence.\n\u25cfSpecial Summon 1 \"Lunalight Token\" (Beast-Warrior/DARK/Level 4/ATK 2000/DEF 2000) to your opponent's field.\n\u25cfThat target gains 500 ATK for each monster your opponent controls (even if this card leaves the field).\nDuring your Main Phase: You can banish this card from your GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 \"Lunalight\" monster from your Deck. You can only use this effect of \"Lunalight Serenade Dance\" once per turn.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "LEGENDARY ARC-V DECKS"
+    ],
+    "related_card": [
+        "Luna Light Perfume",
+        "Lunalight Black Sheep",
+        "Lunalight Blue Cat",
+        "Lunalight Cat Dancer",
+        "Lunalight Crimson Fox",
+        "Lunalight Emerald Bird",
+        "Lunalight Fusion",
+        "Lunalight Gold Leo",
+        "Lunalight Kaleido Chick",
+        "Lunalight Leo Dancer",
+        "Lunalight Liger Dancer",
+        "Lunalight Masquerade",
+        "Lunalight Panther Dancer",
+        "Lunalight Perfume Dancer",
+        "Lunalight Purple Butterfly",
+        "Lunalight Reincarnation Dance",
+        "Lunalight Sabre Dancer",
+        "Lunalight Scarlet Tiger",
+        "Lunalight Silver Hound",
+        "Lunalight Tiger",
+        "Lunalight White Rabbit",
+        "Lunalight Wolf",
+        "Lunalight Yellow Marten"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

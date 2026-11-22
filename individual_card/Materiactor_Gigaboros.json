@@ -1,0 +1,28 @@
+{
+    "name": "Materiactor Gigaboros",
+    "filename": "Materiactor_Gigaboros",
+    "card_text": "2+ Level 3 monsters\nGains 500 ATK/DEF for each card in your hand. You can only use each of the following effects of \"Materiactor Gigaboros\" once per turn. You can detach 1 material from this card; attach 1 \"Materiactor\" monster from your Deck to this card as material. During your opponent's Main or Battle Phase (Quick Effect): You can add 1 card attached to this card to the hand.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "Materiactor Annulus",
+        "Materiactor Critical",
+        "Materiactor Exagard",
+        "Materiactor Exareptor",
+        "Materiactor Gigadra",
+        "Materiactor Meltdown",
+        "Materiactor Meltthrough",
+        "Materiactor Zeptwing",
+        "Prima Materiactor"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Spearfish Soldier",
+    "filename": "Spearfish_Soldier",
+    "card_text": "This card gains 100 ATK for each of your banished Fish, Sea Serpent, and Aqua-Type monsters.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1700,
+    "defense": 1100,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

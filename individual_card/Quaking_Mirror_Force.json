@@ -1,0 +1,16 @@
+{
+    "name": "Quaking Mirror Force",
+    "filename": "Quaking_Mirror_Force",
+    "card_text": "When an opponent's monster declares an attack: Change all your opponent's Attack Position monsters to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "OTS TOURNAMENT PACK 30",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY DRAGON DECKS",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

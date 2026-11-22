@@ -1,0 +1,22 @@
+{
+    "name": "Stealth Bird",
+    "filename": "Stealth_Bird",
+    "card_text": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Inflict 1000 damage to your opponent.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "GOLD SERIES",
+        "CHAMPION PACK GAME ONE",
+        "INVASION OF CHAOS",
+        "BATTLE PACK EPIC DAWN",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 700,
+    "defense": 1700,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

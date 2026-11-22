@@ -1,0 +1,18 @@
+{
+    "name": "Red Hared Hasty Horse",
+    "filename": "Red_Hared_Hasty_Horse",
+    "card_text": "If there is a column with no cards, you can Special Summon this card (from your hand) in Attack Position to your zone in that column. You can only Special Summon \"Red Hared Hasty Horse\" once per turn this way. If another card is placed in this card's column: Destroy this card. Once per turn: You can halve this card's original ATK for the rest of this turn, and if you do, it can attack directly this turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 1800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Giga-Tech Wolf",
+    "filename": "Giga_Tech_Wolf",
+    "card_text": "An iron wolf with razor-sharp fangs that can penetrate any armor.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Labyrinth Tank"
+    ],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

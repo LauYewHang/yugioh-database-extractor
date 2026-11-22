@@ -1,0 +1,25 @@
+{
+    "name": "XY-Dragon Cannon",
+    "filename": "XY_Dragon_Cannon",
+    "card_text": "\"X-Head Cannon\" + \"Y-Dragon Head\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 face-up Spell/Trap your opponent controls; destroy that target.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STRUCTURE DECK : SETO KAIBA",
+        "DARK REVELATION Volume 1",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "X-Head Cannon",
+        "Y-Dragon Head"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2200,
+    "defense": 1900,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

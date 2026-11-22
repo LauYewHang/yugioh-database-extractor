@@ -1,0 +1,17 @@
+{
+    "name": "Royal Rhino with Deceitful Dice",
+    "filename": "Royal_Rhino_with_Deceitful_Dice",
+    "card_text": "Once per turn, when a card or effect is activated, even during the Damage Step (Quick Effect): You can roll a six-sided die, then apply the appropriate effect, depending on the Chain Link number of this effect.\n\u25cf2: This card gains ATK equal to the result x 500 until the end of this turn.\n\u25cf3: Inflict damage to your opponent equal to the result x 500.\n\u25cf4+: Destroy cards on the field up to the result.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": 600,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

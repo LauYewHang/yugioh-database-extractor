@@ -1,0 +1,26 @@
+{
+    "name": "Mystical Shine Ball",
+    "filename": "Mystical_Shine_Ball",
+    "card_text": "A soul of light covered by mystical shine. When you see its beautiful shape, your dream will come true.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "ANCIENT SANCTUARY",
+        "OTS TOURNAMENT PACK 5",
+        "BATTLE PACK TOURNAMENT",
+        "LOST SANCTUARY STRUCTURE DECK"
+    ],
+    "related_card": [
+        "The Agent of Creation - Venus",
+        "The Agent of Destruction - Venus"
+    ],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Fairy",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

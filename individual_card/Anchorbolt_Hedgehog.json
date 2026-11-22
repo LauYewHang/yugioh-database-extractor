@@ -1,0 +1,30 @@
+{
+    "name": "Anchorbolt Hedgehog",
+    "filename": "Anchorbolt_Hedgehog",
+    "card_text": "If you control \"Junk Warrior\" or a monster that mentions it, except \"Anchorbolt Hedgehog\", and this card is in your GY (Quick Effect): You can Special Summon this card in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of \"Anchorbolt Hedgehog\" once per turn.",
+    "release_date": "2025-11-07",
+    "available_set": [
+        "Legendary 5D's Decks"
+    ],
+    "related_card": [
+        "Assault Sonic Warrior",
+        "Crossroad Sonic Chick",
+        "Full-Speed Warrior",
+        "Junk Signal",
+        "Junk Warrior",
+        "Junk Warrior/Assault Mode",
+        "One-Way Synchro",
+        "Scrap Fist",
+        "Scrap Synchron",
+        "Scrap Warrior",
+        "Starjunk Synchron",
+        "Synchro Fellowship"
+    ],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

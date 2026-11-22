@@ -1,0 +1,33 @@
+{
+    "name": "Red Carpet",
+    "filename": "Red_Carpet",
+    "card_text": "If a Dragon-Type Synchro Monster is on the field: Target up to 2 \"Resonator\" monsters in your Graveyard; Special Summon them.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "HIGH-SPEED RIDERS",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Chain Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Red Resonator",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

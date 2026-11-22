@@ -1,0 +1,17 @@
+{
+    "name": "The Great Double Casted Caster",
+    "filename": "The_Great_Double_Casted_Caster",
+    "card_text": "2 non-Effect Monsters\nGains ATK equal to the combined original ATK of any Ritual, Fusion, Synchro, Xyz, or Link Monsters used as Fusion Material for this card. This card can attack directly. If this card is destroyed by battle or card effect: You can target 1 of your non-Effect Monsters that is banished or in your GY; Special Summon it. You can only use this effect of \"The Great Double Casted Caster\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 2600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

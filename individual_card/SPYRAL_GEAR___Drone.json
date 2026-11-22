@@ -1,0 +1,34 @@
+{
+    "name": "SPYRAL GEAR - Drone",
+    "filename": "SPYRAL_GEAR___Drone",
+    "card_text": "If this card is Normal or Special Summoned: You can look at the top 3 cards of your opponent's Deck, and if you do, place them on top of their Deck in any order. (Quick Effect): You can Tribute this card, then target 1 \"SPYRAL\" monster you control; it gains 500 ATK for each card your opponent controls. You can banish this card and 1 \"SPYRAL\" card from your GY, then target 1 \"SPYRAL Super Agent\" in your GY; add it to your hand.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "OTS TOURNAMENT PACK 13",
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "SPYRAL Double Agent",
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "attribute": "WIND",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

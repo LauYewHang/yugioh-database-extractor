@@ -1,0 +1,32 @@
+{
+    "name": "War Rock Fortia",
+    "filename": "War_Rock_Fortia",
+    "card_text": "If your EARTH Warrior monster battles, after damage calculation: You can add 1 \"War Rock\" card from your Deck to your hand, except \"War Rock Fortia\", then all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent's turn. If this card is sent from your Monster Zone to your GY by an opponent's card effect: You can Special Summon 1 Level 5 or higher \"War Rock\" monster from your hand or Deck. You can only use each effect of \"War Rock Fortia\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "War Rock Bashileos",
+        "War Rock Big Blow",
+        "War Rock Dignity",
+        "War Rock Gactos",
+        "War Rock Generations",
+        "War Rock Mammud",
+        "War Rock Medium",
+        "War Rock Meteoragon",
+        "War Rock Mountain",
+        "War Rock Ordeal",
+        "War Rock Orpis",
+        "War Rock Skyler",
+        "War Rock Spirit",
+        "War Rock Wento"
+    ],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1700,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

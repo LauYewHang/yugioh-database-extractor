@@ -1,0 +1,36 @@
+{
+    "name": "Fandora, the Flying Furtress",
+    "filename": "Fandora__the_Flying_Furtress",
+    "card_text": "During your Draw Phase, before you draw: You can give up your normal draw this turn, and if you do, add 1 monster \"Fur Hire\" from your Deck to your hand. If you control 5 or more monsters \"Fur Hire\" with different names: You can send this card from the Field Zone to the GY; destroy all cards your opponent controls, also, for the rest of this turn, your opponent takes no damage.",
+    "release_date": "2018-05-25",
+    "available_set": [
+        "DARK SAVIORS",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Beat, Bladesman Fur Hire",
+        "Bravo, Fighter Fur Hire",
+        "Donner, Dagger Fur Hire",
+        "Donpa, Marksman Fur Hire",
+        "Dyna, Hero Fur Hire",
+        "Fandora, the Flying Fighting Furtress",
+        "Filo, Messenger Fur Hire",
+        "Folgo, Justice Fur Hire",
+        "Furtive Techniques Fur Hire, Fur All Your Ultimate Moves",
+        "Helmer, Helmsman Fur Hire",
+        "Keel, Shipwright Fur Hire",
+        "Mayhem Fur Hire",
+        "Rafale, Champion Fur Hire",
+        "Recon, Scout Fur Hire",
+        "Rex, Freight Fur Hire",
+        "Rex, Ride Fur Hire",
+        "Rookie Fur Hire",
+        "Sagitta, Maverick Fur Hire",
+        "Seal, Strategist Fur Hire",
+        "Training Fur Hire, Fur All Your Training Needs",
+        "Whirlwind Fur Hire",
+        "Wiz, Sage Fur Hire"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

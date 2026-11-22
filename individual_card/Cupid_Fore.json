@@ -1,0 +1,17 @@
+{
+    "name": "Cupid Fore",
+    "filename": "Cupid_Fore",
+    "card_text": "If all monsters you control are monsters with 600 DEF (min. 1): You can Special Summon this card from your hand. (Quick Effect): You can discard 1 card, then target 1 LIGHT Fairy monster you control and 1 face-up monster on the field; the Level of your monster becomes the other monster's Level, until the end of this turn. You can only use each effect of \"Cupid Fore\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2200,
+    "defense": 600,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

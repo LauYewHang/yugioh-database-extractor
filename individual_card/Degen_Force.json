@@ -1,0 +1,12 @@
+{
+    "name": "Degen-Force",
+    "filename": "Degen_Force",
+    "card_text": "Tribute 1 Level 4 or higher Dinosaur-Type monster; Special Summon 2 Level 3 or lower Reptile-Type monsters from your hand and/or Graveyard.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Amabie",
+    "filename": "Amabie",
+    "card_text": "At the start of your Main Phase 1: You can reveal this card in your hand; each player gains 300 LP.",
+    "release_date": "2021-05-15",
+    "available_set": [
+        "Yu-Gi-Oh! Remote Duel Extravaganza participation card(UK)",
+        "Yu-Gi-Oh! Remote Duel Extravaganza participation card(US)"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

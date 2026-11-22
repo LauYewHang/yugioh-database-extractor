@@ -1,0 +1,31 @@
+{
+    "name": "Spectral, Dragon Ruler of Flickers",
+    "filename": "Spectral__Dragon_Ruler_of_Flickers",
+    "card_text": "You can discard this card and 1 Dragon or LIGHT monster; add 2 \"Dragon Ruler\" monsters from your Deck to your hand, except \"Spectral, Dragon Ruler of Flickers\". You can banish from your GY, this card and 1 Dragon or LIGHT monster, then target 1 \"Chasma, Dragon Ruler of Auroras\" in your GY; Special Summon it. You can only use 1 \"Spectral, Dragon Ruler of Flickers\" effect per turn, and only once that turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Blaster, Dragon Ruler of Infernos",
+        "Burner, Dragon Ruler of Sparks",
+        "Chasma, Dragon Ruler of Auroras",
+        "Disaster, Dragon Ruler of All Apocalypses",
+        "Eclipse, Dragon Ruler of Catastrophes",
+        "Here There Be Dragons",
+        "Lightning, Dragon Ruler of Drafts",
+        "Nebulus, Dragon Ruler of Mishaps",
+        "Reactan, Dragon Ruler of Pebbles",
+        "Redox, Dragon Ruler of Boulders",
+        "Stream, Dragon Ruler of Droplets",
+        "Tempest, Dragon Ruler of Storms",
+        "Tidal, Dragon Ruler of Waterfalls"
+    ],
+    "attribute": "LIGHT",
+    "attack": 600,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

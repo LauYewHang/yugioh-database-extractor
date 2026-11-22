@@ -1,0 +1,39 @@
+{
+    "name": "Unchained Oni of Shyma",
+    "filename": "Unchained_Oni_of_Shyma",
+    "card_text": "If this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Unchained\" monster from your Deck, except \"Unchained Oni of Shyma\", then destroy 1 card you control, also you cannot Special Summon for the rest of this turn, except Fiend monsters. If this card on the field is destroyed by card effect, except \"Unchained Oni of Shyma\", or by battle: You can Special Summon 1 \"Unchained\" monster from your hand or Deck, except \"Unchained Oni of Shyma\". You can only use each effect of \"Unchained Oni of Shyma\" once per turn.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abominable Unchained Soul",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Abomination",
+        "Unchained Firelord of Yama",
+        "Unchained Hunger",
+        "Unchained Oni of Shara",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Anguish",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Rage",
+        "Unchained Soul of Sharvara",
+        "Unchained Soul of Shyama",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Unchained Zealot - Kamra",
+        "Wailing of the Unchained Souls"
+    ],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

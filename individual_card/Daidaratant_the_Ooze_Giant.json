@@ -1,0 +1,19 @@
+{
+    "name": "Daidaratant the Ooze Giant",
+    "filename": "Daidaratant_the_Ooze_Giant",
+    "card_text": "2 Level 4 monsters\nIf you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card from your Extra Deck. You can detach 1 material from this card; place this card in your Pendulum Zone, then you can add 1 Pendulum Monster from your GY to the Extra Deck face-up. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. You can only use each effect of \"Daidaratant the Ooze Giant\" once per turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2400,
+    "defense": 400,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4,
+    "pendulum_effect": "You can target 1 Xyz Monster you control; attach this card to it as material. You can only use this effect of \"Daidaratant the Ooze Giant\" once per turn.",
+    "pendulum_scale": 3
+}

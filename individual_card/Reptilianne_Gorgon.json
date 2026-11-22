@@ -1,0 +1,26 @@
+{
+    "name": "Reptilianne Gorgon",
+    "filename": "Reptilianne_Gorgon",
+    "card_text": "If this card attacks a monster, after damage calculation: The ATK of that monster becomes 0, also it cannot change its battle position.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Gardna",
+        "Reptilianne Hydra",
+        "Reptilianne Poison",
+        "Reptilianne Ramifications",
+        "Reptilianne Spawn",
+        "Serpent Suppression"
+    ],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 1400,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

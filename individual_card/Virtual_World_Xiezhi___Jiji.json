@@ -1,0 +1,34 @@
+{
+    "name": "Virtual World Xiezhi - Jiji",
+    "filename": "Virtual_World_Xiezhi___Jiji",
+    "card_text": "If this card is in your hand: You can target 1 \"Virtual World\" card you control; send 1 \"Virtual World\" card of a different type (Monster, Spell, Trap) from your Deck to the GY, and if you do, Special Summon this card, then, during the End Phase of this turn, you can add 1 \"Virtual World\" monster from your GY to your hand, except \"Virtual World Xiezhi - Jiji\". For the rest of this turn, you can only Special Summon Level/Rank 3 or higher monsters. You can only use this effect of \"Virtual World Xiezhi - Jiji\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Virtual World Beast - Jiujiu",
+        "Virtual World City - Kauwloon",
+        "Virtual World Dragon - Longlong",
+        "Virtual World Gate - Chuche",
+        "Virtual World Gate - Qinglong",
+        "Virtual World Gate - Xuanwu",
+        "Virtual World Hime - Nyannyan",
+        "Virtual World Kirin - Lili",
+        "Virtual World Kyubi - Shenshen",
+        "Virtual World Mai-Hime - Lulu",
+        "Virtual World Oto-Hime - Toutou",
+        "Virtual World Phoenix - Fanfan",
+        "Virtual World Roshi - Laolao",
+        "Virtual World Shell - Jaja",
+        "Virtual World Tiger - Fufu"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1600,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

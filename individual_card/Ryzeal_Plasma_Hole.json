@@ -1,0 +1,38 @@
+{
+    "name": "Ryzeal Plasma Hole",
+    "filename": "Ryzeal_Plasma_Hole",
+    "card_text": "Target face-up cards your opponent controls, up to the number of \"Ryzeal\" Xyz Monsters you control; destroy them, then you can attach 1 \"Ryzeal\" card from your GY to 1 Rank 4 Xyz Monster you control. You can banish this card from your GY; immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control, including a \"Ryzeal\" monster. You can only use each effect of \"Ryzeal Plasma Hole\" once per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ext Ryzeal",
+        "Ice Ryzeal",
+        "Node Ryzeal",
+        "Palm Ryzeal",
+        "Ryzeal Cross",
+        "Ryzeal Detonator",
+        "Ryzeal Duo Drive",
+        "Ryzeal Mass Driver",
+        "Ryzeal Plugin",
+        "Star Ryzeal",
+        "Sword Ryzeal",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

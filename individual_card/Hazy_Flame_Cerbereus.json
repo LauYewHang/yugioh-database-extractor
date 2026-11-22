@@ -1,0 +1,27 @@
+{
+    "name": "Hazy Flame Cerbereus",
+    "filename": "Hazy_Flame_Cerbereus",
+    "card_text": "You can Normal Summon this card without Tributing, but its original ATK becomes 1000. Your opponent cannot target this card with card effects. When this card is destroyed and sent to the Graveyard: You can add 1 \"Hazy\" card from your Deck to your hand.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Hazy Flame Basiltrice",
+        "Hazy Flame Griffin",
+        "Hazy Flame Hydra",
+        "Hazy Flame Hyppogrif",
+        "Hazy Flame Mantikor",
+        "Hazy Flame Peryton",
+        "Hazy Flame Sphynx",
+        "Hazy Glory",
+        "Hazy Pillar"
+    ],
+    "attribute": "FIRE",
+    "attack": 2000,
+    "defense": 200,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

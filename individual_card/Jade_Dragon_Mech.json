@@ -1,0 +1,17 @@
+{
+    "name": "Jade Dragon Mech",
+    "filename": "Jade_Dragon_Mech",
+    "card_text": "1 Tuner + 1+ non-Tuners\nIf this card is Special Summoned: You can send 1 Machine Tuner from your Deck to the GY, or if you control a monster whose current Level is different from its original Level, you can Special Summon it instead. You can only use this effect of \"Jade Dragon Mech\" once per turn. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can banish any number of Tuners from your GY, then target that many cards on the field; destroy them.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2700,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

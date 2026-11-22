@@ -1,0 +1,35 @@
+{
+    "name": "DZW - Chimera Clad",
+    "filename": "DZW___Chimera_Clad",
+    "card_text": "You can target 1 \"Number C39\" monster you control; equip this monster from your hand or your side of the field to that target. The equipped monster cannot be destroyed by battle. At the end of the Damage Step, when the equipped monster attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can make the opponent's monster's ATK 0 (even after this card leaves the field or the monster becomes unaffected by card effects), and if you do, the equipped monster can make a second attack on the same monster in a row.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Gagaga Magician - Gagaga Magic",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Rank-Up-Magic Zexal Force",
+        "Shining Draw",
+        "SZW - Fenrir Sword",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray",
+        "Zexal Catapult",
+        "Zexal Construction",
+        "Zexal Entrust",
+        "ZS - Armed Sage",
+        "ZS - Utopic Sage",
+        "ZW - Dragonic Halberd",
+        "ZW - Leo Arms",
+        "ZW - Lightning Blade"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

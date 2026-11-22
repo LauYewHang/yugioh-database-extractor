@@ -1,0 +1,12 @@
+{
+    "name": "Power Pickaxe",
+    "filename": "Power_Pickaxe",
+    "card_text": "Once per turn, you can select and remove from play 1 monster in your opponent's Graveyard whose Level is less than or equal to the equipped monster's, and have the equipped monster gain 500 ATK until the End Phase.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

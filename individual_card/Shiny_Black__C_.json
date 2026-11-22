@@ -1,0 +1,18 @@
+{
+    "name": "Shiny Black \"C\"",
+    "filename": "Shiny_Black__C_",
+    "card_text": "During either player's turn, when exactly 1 Synchro Monster is Special Summoned to your opponent's side of the field: You can banish this card from your Graveyard to target that face-up Synchro Monster; destroy that target.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "DUELIST LEAGUE 14"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 200,
+    "defense": 500,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

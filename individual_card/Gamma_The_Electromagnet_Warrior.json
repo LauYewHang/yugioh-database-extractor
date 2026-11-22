@@ -1,0 +1,38 @@
+{
+    "name": "Gamma The Electromagnet Warrior",
+    "filename": "Gamma_The_Electromagnet_Warrior",
+    "card_text": "If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower \"Magnet Warrior\" monster from your hand, except \"Gamma The Electromagnet Warrior\". You can only use this effect of \"Gamma The Electromagnet Warrior\" once per turn. During your opponent's turn (Quick Effect): You can Tribute this card; Special Summon 1 Level 4 \"Magnet Warrior\" monster from your Deck.",
+    "release_date": "2016-10-21",
+    "available_set": [
+        "STRUCTURE DECK : YUGI MUTO",
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Alpha The Magnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Beta The Magnet Warrior",
+        "Conduction Warrior Linear Magnum Plus Minus",
+        "Conduction Warrior Plasma Magnum",
+        "Delta The Magnet Warrior",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Magnet Warrior",
+        "Magnet Bonding",
+        "Magnet Conversion",
+        "Magnet Induction",
+        "Magnet Warrior Omega Plus",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Magnetic Field",
+        "Tellusion the Magna Warrior",
+        "Valkyrion the Magna Warrior"
+    ],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 2000,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

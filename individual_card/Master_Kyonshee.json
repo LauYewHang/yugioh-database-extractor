@@ -1,0 +1,20 @@
+{
+    "name": "Master Kyonshee",
+    "filename": "Master_Kyonshee",
+    "card_text": "A wandering Kyonshee searching for a strong rival to defeat. They say he was known as the master of all martial arts.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "PHARAONIC GUARDIAN",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1750,
+    "defense": 1000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Arcana Force V - The Hierophant",
+    "filename": "Arcana_Force_V___The_Hierophant",
+    "card_text": "You can discard this card; this turn, your opponent cannot activate cards or effects when an \"Arcana Force\" monster(s) is Summoned to your field. If this card is Summoned: Toss a coin.\n\u25cfHeads: Special Summon 1 Level 4 or lower \"Arcana Force\" monster from your Deck with a different name from the monsters you control and in your GY.\n\u25cfTails: Special Summon 1 \"Arcana Force\" monster from your Deck to your opponent's field.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Arcana Call",
+        "Arcana Force 0 - The Fool",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force EX - The Dark Ruler",
+        "Arcana Force EX - The Light Ruler",
+        "Arcana Force I - The Magician",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force VI - The Lovers",
+        "Arcana Force VII - The Chariot",
+        "Arcana Force XIV - Temperance",
+        "Arcana Force XIX - The Sun",
+        "Arcana Force XV - The Fiend",
+        "Arcana Force XVIII - The Moon",
+        "Arcana Force XXI - The World",
+        "Arcana Reading",
+        "Arcana Spread",
+        "Light Barrier",
+        "Light Force",
+        "Reversal of Fate"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

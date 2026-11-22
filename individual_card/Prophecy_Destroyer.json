@@ -1,0 +1,37 @@
+{
+    "name": "Prophecy Destroyer",
+    "filename": "Prophecy_Destroyer",
+    "card_text": "If this card is in your Graveyard: You can banish 3 \"Spellbook\" Spell Cards from your Graveyard; Special Summon this card from your Graveyard.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST",
+        "COLLECTIBLE TIN 2012 WAVE 2.5"
+    ],
+    "related_card": [
+        "Hidden Spellbook (Updated from: Hidden Book of Spell)",
+        "Spellbook Library of the Crescent",
+        "Spellbook Library of the Heliosphere",
+        "Spellbook Magician of Prophecy",
+        "Spellbook of Eternity",
+        "Spellbook of Fate",
+        "Spellbook of Judgment",
+        "Spellbook of Knowledge",
+        "Spellbook of Life",
+        "Spellbook of Miracles",
+        "Spellbook of Power",
+        "Spellbook of Secrets",
+        "Spellbook of the Grand Circle",
+        "Spellbook of the Master",
+        "Spellbook of Wisdom",
+        "Spellbook Organization (Updated from: Pigeonholing Books of Spell)",
+        "Spellbook Star Hall",
+        "The Grand Spellbook Tower"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

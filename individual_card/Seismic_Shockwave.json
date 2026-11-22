@@ -1,0 +1,14 @@
+{
+    "name": "Seismic Shockwave",
+    "filename": "Seismic_Shockwave",
+    "card_text": "Destroy this card during your 3rd Standby Phase after activation. Activate this card when a face-up Dinosaur-Type monster you control is destroyed and sent to the Graveyard (except during the Damage Step): Choose 3 of your opponent's unused Spell & Trap Zones. Those Zones cannot be used. If this card destroys itself: You can target 1 Dinosaur-Type monster in your Graveyard; add that target to your hand.",
+    "release_date": "2006-10-20",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "OTS TOURNAMENT PACK 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

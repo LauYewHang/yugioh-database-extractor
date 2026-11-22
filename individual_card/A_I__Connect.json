@@ -1,0 +1,39 @@
+{
+    "name": "A.I. Connect",
+    "filename": "A_I__Connect",
+    "card_text": "Reveal 1 Cyberse monster in your hand; apply this effect based on its Attribute, also you cannot Special Summon for the rest of this turn after this card resolves, except Cyberse monsters.\n\u25cfDARK: Special Summon the revealed monster, and if you do, add 1 Level 4 or lower non-DARK Cyberse monster from your Deck to your hand.\n\u25cfOther: Shuffle the revealed monster into the Deck, and if you do, add 1 \"@Ignister\" monster with a different Attribute from your Deck to your hand.\nYou can only activate 1 \"A.I. Connect\" per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "A.I.dle Reborn",
+        "Achichi @Ignister",
+        "Allied Code Talker @Ignister",
+        "Backup @Ignister",
+        "Bururu @Ignister",
+        "Code Igniter",
+        "Danmari @Ignister",
+        "Dark Infant @Ignister",
+        "Dark Templar @Ignister",
+        "Donyoribo @Ignister",
+        "Doshin @Ignister",
+        "Doyon @Ignister",
+        "Earth Golem @Ignister",
+        "Fire Phoenix @Ignister",
+        "Firewall Saber Dragon",
+        "Gatchiri @Ignister",
+        "Gussari @Ignister",
+        "Hiyari @Ignister",
+        "Kurikurinku @Ignister",
+        "Light Dragon @Ignister",
+        "Linkslayer @Ignister",
+        "Pikari @Ignister",
+        "The Arrival Cyberse @Ignister",
+        "Water Leviathan @Ignister",
+        "Wind Pegasus @Ignister",
+        "Wizard @Ignister"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

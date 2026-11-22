@@ -1,0 +1,34 @@
+{
+    "name": "Tri-Brigade Roar",
+    "filename": "Tri_Brigade_Roar",
+    "card_text": "If you control a Link Monster: Send 1 \"Tri-Brigade\" card from your Deck or Extra Deck to the GY, then target 1 Effect Monster on the field; apply the following effect based on the type of card sent to the GY.\n\u25cfMonster: Change the targeted monster's ATK to 0 until the end of this turn.\n\u25cfSpell: Negate that monster's effects until the end of this turn.\n\u25cfTrap: Return that monster to the hand.\nYou can only activate 1 \"Tri-Brigade Roar\" per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Airborne Assault",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Ferrijit the Barren Blossom",
+        "Tri-Brigade Fraktall",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kerass",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Oath",
+        "Tri-Brigade Rendezvous",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Rugal the Silver Sheller",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Shuraig the Ominous Omen",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

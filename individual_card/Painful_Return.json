@@ -1,0 +1,12 @@
+{
+    "name": "Painful Return",
+    "filename": "Painful_Return",
+    "card_text": "Your opponent chooses 1 monster in your Graveyard. During the End Phase, add that monster to your hand.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

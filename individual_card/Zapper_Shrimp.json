@@ -1,0 +1,18 @@
+{
+    "name": "Zapper Shrimp",
+    "filename": "Zapper_Shrimp",
+    "card_text": "1 Tuner + 1 non-Tuner monster\nIf this card is Special Summoned: You can send 1 other card from your hand or field to the GY, then target 1 Spell/Trap your opponent controls; destroy it. You can only use this effect of \"Zapper Shrimp\" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1200,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

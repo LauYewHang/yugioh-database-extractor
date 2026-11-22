@@ -1,0 +1,17 @@
+{
+    "name": "Ripple Bird",
+    "filename": "Ripple_Bird",
+    "card_text": "2 Level 1 monsters\nYou can detach 1 material from this card, then target 1 monster on the field; change its battle position. While all monsters you control are in Attack Position, they gain 500 ATK. While all monsters you control are in Defense Position, your opponent cannot declare an attack.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 0,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 1
+}

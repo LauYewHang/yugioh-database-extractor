@@ -1,0 +1,22 @@
+{
+    "name": "Huaquero of the Golden Land",
+    "filename": "Huaquero_of_the_Golden_Land",
+    "card_text": "Special Summon this card as a Normal Monster (Zombie/LIGHT/Level 5/ATK 1800/DEF 1500) (this card is also still a Trap), then, if you control \"Eldlich the Golden Lord\", you can banish 1 card from either GY. During the End Phase: You can banish this card from your GY; Set 1 \"Eldlixir\" Spell/Trap directly from your Deck. You can only use 1 \"Huaquero of the Golden Land\" effect per turn, and only once that turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Cursed Eldland",
+        "El Dorado Adelantado",
+        "Eldlich the Golden Lord",
+        "Eldlich the Mad Golden Lord",
+        "Eldlixir of Black Awakening",
+        "Eldlixir of Scarlet Sanguine",
+        "Eldlixir of the Glorious Golden Land",
+        "Eldlixir of White Destiny"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

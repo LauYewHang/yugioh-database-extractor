@@ -1,0 +1,21 @@
+{
+    "name": "Trifortressops",
+    "filename": "Trifortressops",
+    "card_text": "Once per Chain, during a turn your opponent Summoned 3 or more monsters (Quick Effect): You can Special Summon this card from your hand, and if you do, it is unaffected by other cards' effects, but loses 500 DEF during each Standby Phase.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Storagepod"
+    ],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

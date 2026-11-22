@@ -1,0 +1,13 @@
+{
+    "name": "The Huge Revolution is Over",
+    "filename": "The_Huge_Revolution_is_Over",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated that would destroy 2 or more cards on the field: Negate the activation, and if you do, banish it.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS",
+        "MACHINE REACTOR STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

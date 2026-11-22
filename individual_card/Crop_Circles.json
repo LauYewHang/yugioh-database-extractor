@@ -1,0 +1,32 @@
+{
+    "name": "Crop Circles",
+    "filename": "Crop_Circles",
+    "card_text": "Send any number of monsters from your side of the field to the Graveyard to activate this card. Select from your Deck 1 \"Alien\" monster whose Level is equal to the total Levels of the sent monsters, and Special Summon it. If you fail to find a monster to Special Summon, you take 2000 damage.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [
+        "Alien Ammonite",
+        "Alien Brain",
+        "Alien Dog",
+        "Alien Grey",
+        "Alien Hunter",
+        "Alien Hypno",
+        "Alien Infiltrator",
+        "Alien Kid",
+        "Alien Mars",
+        "Alien Mother",
+        "Alien Overlord",
+        "Alien Psychic",
+        "Alien Shocktrooper",
+        "Alien Shocktrooper M-Frame",
+        "Alien Skull",
+        "Alien Stealthbuster",
+        "Alien Telepath",
+        "Alien Warrior",
+        "I.A.S. -Invasive Alien Species-"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

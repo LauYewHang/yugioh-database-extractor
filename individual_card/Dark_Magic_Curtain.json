@@ -1,0 +1,35 @@
+{
+    "name": "Dark Magic Curtain",
+    "filename": "Dark_Magic_Curtain",
+    "card_text": "Pay half your LP; Special Summon 1 \"Dark Magician\" from your Deck. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+    "release_date": "2007-07-26",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "PREMIUM PACK",
+        "LEGENDARY DRAGON DECKS",
+        "Speed Duel: Battle City Box",
+        "STRUCTURE DECK : YUGI MUTO"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

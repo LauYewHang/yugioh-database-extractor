@@ -1,0 +1,35 @@
+{
+    "name": "Neiroy, the Dream Mirror Traitor",
+    "filename": "Neiroy__the_Dream_Mirror_Traitor",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Neiroy, the Dream Mirror Disciple\" from your Deck to your hand, then you can make this card become LIGHT. You can Tribute 1 other \"Dream Mirror\" monster; choose 1 \"Dream Mirror\" monster from your Deck with a different Level than the Tributed monster, add 1 \"Dream Mirror of Joy\" or 1 \"Dream Mirror of Terror\" from your Deck to your hand that is mentioned on that chosen monster, and Special Summon that chosen monster in Defense Position. You can only use each effect of \"Neiroy, the Dream Mirror Traitor\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS"
+    ],
+    "related_card": [
+        "Dream Mirror Fantasy",
+        "Dream Mirror Hypnagogia",
+        "Dream Mirror of Chaos",
+        "Dream Mirror of Joy",
+        "Dream Mirror of Terror",
+        "Dream Mirror Oneiromancy",
+        "Dream Mirror Phantasms",
+        "Dream Mirror Recap",
+        "Ikelos, the Dream Mirror Mara",
+        "Ikelos, the Dream Mirror Sprite",
+        "Morpheus, the Dream Mirror Black Knight",
+        "Morpheus, the Dream Mirror White Knight",
+        "Neiroy, the Dream Mirror Disciple",
+        "Oneiros, the Dream Mirror Erlking",
+        "Oneiros, the Dream Mirror Tormentor",
+        "Phantasos, the Dream Mirror Foe",
+        "Phantasos, the Dream Mirror Friend"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

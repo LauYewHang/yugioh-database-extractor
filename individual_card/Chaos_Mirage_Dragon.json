@@ -1,0 +1,18 @@
+{
+    "name": "Chaos Mirage Dragon",
+    "filename": "Chaos_Mirage_Dragon",
+    "card_text": "You can target 1 banished LIGHT or DARK monster; Special Summon it to your field, but negate its effects, also for the rest of this turn, you cannot Special Summon monsters from the Extra Deck, except LIGHT or DARK Synchro Monsters. If this card is sent to the GY as Synchro Material: You can target cards your opponent controls, up to the number of other monsters used for the Synchro Summon; banish them. You can only use each effect of \"Chaos Mirage Dragon\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 600,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

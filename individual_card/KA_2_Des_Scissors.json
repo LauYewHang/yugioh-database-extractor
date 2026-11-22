@@ -1,0 +1,18 @@
+{
+    "name": "KA-2 Des Scissors",
+    "filename": "KA_2_Des_Scissors",
+    "card_text": "When this card destroys a monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent's Life Points equal to the Level of the destroyed monster x 500 points.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

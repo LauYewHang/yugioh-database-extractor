@@ -1,0 +1,26 @@
+{
+    "name": "Revival of the Immortals",
+    "filename": "Revival_of_the_Immortals",
+    "card_text": "Target 1 \"Earthbound Immortal\" monster in your GY; Special Summon it, but it cannot declare an attack this turn, also your opponent takes no battle damage from attacks involving it.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [
+        "Earthbound Immortal Aslla piscu",
+        "Earthbound Immortal Ccapac Apu",
+        "Earthbound Immortal Ccarayhua",
+        "Earthbound Immortal Chacu Challhua",
+        "Earthbound Immortal Cusillu",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Immortal Revival",
+        "Earthbound Immortal Uru",
+        "Earthbound Immortal Wiraqocha Rasca",
+        "Roar of the Earthbound Immortal",
+        "Ultimate Earthbound Immortal"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

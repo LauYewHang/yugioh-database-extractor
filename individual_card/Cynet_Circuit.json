@@ -1,0 +1,25 @@
+{
+    "name": "Cynet Circuit",
+    "filename": "Cynet_Circuit",
+    "card_text": "Target 1 \"Firewall\" Link Monster you control; Special Summon any number of monsters from your GY to either player's zones linked to that monster. If your LP are 2000 or less: You can banish this card from your GY; return 1 \"Firewall\" Link Monster from your GY to your Extra Deck, then you can Special Summon that monster from your Extra Deck. You can only use each effect of \"Cynet Circuit\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Cyberse Reminder",
+        "Firewall Defenser",
+        "Firewall Dragon",
+        "Firewall Dragon Darkfluid",
+        "Firewall Dragon Darkfluid - Neo Tempest Terahertz",
+        "Firewall Dragon Singularity",
+        "Firewall eXceed Dragon",
+        "Firewall Guardian",
+        "Firewall Phantom",
+        "Firewall Saber Dragon",
+        "Micro Coder"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Karma of the Destruction Swordsman",
+    "filename": "Karma_of_the_Destruction_Swordsman",
+    "card_text": "Target up to 3 monsters of the same Type in your opponent's Graveyard; banish them, and if you do, 1 \"Buster Blader\" monster or 1 \"Destruction Sword\" monster you control gains 500 ATK and DEF for each of those banished monsters, until the end of this turn. If this card is in your Graveyard: You can discard 1 \"Destruction Sword\" card; add this card to your hand. You can only use each effect of \"Karma of the Destruction Swordsman\" once per turn.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Buster Blader",
+        "Buster Blader, the Destruction Swordmaster",
+        "Buster Blader, the Dragon Destroyer Swordsman",
+        "Buster Dragon",
+        "Buster Whelp of the Destruction Swordsman",
+        "Destruction Sword Flash",
+        "Destruction Sword Memories",
+        "Destruction Swordsman Fusion",
+        "Dragon Buster Destruction Sword",
+        "Prologue of the Destruction Swordsman",
+        "Protector Whelp of the Destruction Swordsman",
+        "Robot Buster Destruction Sword",
+        "Toon Buster Blader",
+        "Wizard Buster Destruction Sword"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

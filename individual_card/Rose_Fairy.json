@@ -1,0 +1,18 @@
+{
+    "name": "Rose Fairy",
+    "filename": "Rose_Fairy",
+    "card_text": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 600,
+    "defense": 1200,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

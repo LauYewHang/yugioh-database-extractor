@@ -1,0 +1,29 @@
+{
+    "name": "Amorphactor Pain, the Imagination Dracoverlord",
+    "filename": "Amorphactor_Pain__the_Imagination_Dracoverlord",
+    "card_text": "You can Ritual Summon this card with \"Amorphous Persona\". If this card is Ritual Summoned, skip the Main Phase 1 of your opponent's next turn. Negate the effects of Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the GY: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "OTS TOURNAMENT PACK 15"
+    ],
+    "related_card": [
+        "Amorphous Persona",
+        "Draco Awakening",
+        "Draco Face-Off",
+        "Dragonic Pendulum",
+        "Forge of the True Dracos",
+        "Lector Pendulum, the Dracoverlord",
+        "Master Peace, the True Dracoslayer",
+        "Master Peace, the True Dracoverlord",
+        "Vector Pendulum, the Dracoverlord"
+    ],
+    "attribute": "EARTH",
+    "attack": 2950,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

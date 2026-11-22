@@ -1,0 +1,36 @@
+{
+    "name": "Mekk-Knight Spectrum Supreme",
+    "filename": "Mekk_Knight_Spectrum_Supreme",
+    "card_text": "2+ \"Mekk-Knight\" monsters\nThis card can attack directly if it is the only card in its column. If this card in the Extra Monster Zone points to no monsters, it cannot be destroyed by card effects, also your opponent cannot target it with card effects. You can send 1 other card you control in this card's column to the GY: Special Summon 1 \"Mekk-Knight\" monster from your Deck in Defense Position. You can only use this effect of \"Mekk-Knight Spectrum Supreme\" once per turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Girsu, the Orcust Mekk-Knight",
+        "Mekk-Knight Avram",
+        "Mekk-Knight Blue Sky",
+        "Mekk-Knight Crusadia Avramax",
+        "Mekk-Knight Green Horizon",
+        "Mekk-Knight Indigo Eclipse",
+        "Mekk-Knight of the Morning Star",
+        "Mekk-Knight Orange Sunset",
+        "Mekk-Knight Purple Nightfall",
+        "Mekk-Knight Red Moon",
+        "Mekk-Knight Yellow Star",
+        "World Legacy Key",
+        "World Legacy Scars",
+        "World Legacy Whispers",
+        "World Legacy's Memory",
+        "World Legacy's Secret"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

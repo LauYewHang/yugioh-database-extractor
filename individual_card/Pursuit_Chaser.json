@@ -1,0 +1,17 @@
+{
+    "name": "Pursuit Chaser",
+    "filename": "Pursuit_Chaser",
+    "card_text": "When a Defense Position monster is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

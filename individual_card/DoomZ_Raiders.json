@@ -1,0 +1,28 @@
+{
+    "name": "DoomZ Raiders",
+    "filename": "DoomZ_Raiders",
+    "card_text": "During your Main Phase: You can destroy 1 other \"DoomZ\" card in your hand or face-up field, then add to your hand or Special Summon, 1 \"DoomZ\" monster from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. If this card is destroyed by card effect: You can target 1 face-up monster on the field; destroy it. You can only use 1 \"DoomZ Raiders\" effect per turn, and only once that turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "DoomZ Break - Diactorus",
+        "DoomZ Change",
+        "DoomZ Command \"A.D.R.A.S.T.E.I.A.\"",
+        "DoomZ Command \"D.O.O.M.D.U.R.G.\"",
+        "DoomZ Destruction",
+        "DoomZ V Five - Amalthe",
+        "DoomZ VII Seven - Elara",
+        "DoomZ XII End - Drastrius",
+        "DoomZ XII Zero - Drastea",
+        "DoomZ XIII Over - Graflareio",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Power Patron DoomZ",
+        "Theorealize Past Lull"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

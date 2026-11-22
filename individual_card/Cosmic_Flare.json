@@ -1,0 +1,37 @@
+{
+    "name": "Cosmic Flare",
+    "filename": "Cosmic_Flare",
+    "card_text": "Target 1 \"Stardust\" Synchro Monster you control; this turn, if that Synchro Monster you control battles an opponent's monster, shuffle that opponent's monster into the Deck at the start of the Damage Step. If a \"Stardust\" Synchro Monster you control would Tribute itself to activate its effect, you can banish this card from your GY instead.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "OTS TOURNAMENT PACK 16",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Accel Synchro Stardust Dragon",
+        "Malefic Stardust Dragon",
+        "Stardust Assault Warrior",
+        "Stardust Charge Warrior",
+        "Stardust Chronicle Spark Dragon",
+        "Stardust Divinity",
+        "Stardust Dragon",
+        "Stardust Dragon - Victim Sanctuary",
+        "Stardust Dragon/Assault Mode",
+        "Stardust Flash",
+        "Stardust Illumination",
+        "Stardust Mirage",
+        "Stardust Phantom",
+        "Stardust Re-Spark",
+        "Stardust Sifr Divine Dragon",
+        "Stardust Spark Dragon",
+        "Stardust Synchron",
+        "Stardust Trail",
+        "Stardust Warrior",
+        "Stardust Wish",
+        "Stardust Wurm",
+        "Stardust Xiaolong",
+        "Starduston"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "The Three Champions of Swordsoul",
+    "filename": "The_Three_Champions_of_Swordsoul",
+    "card_text": "1 Level 4 Tuner + 1+ non-Tuners\nIf this card is Synchro Summoned: You can add 1 Level 4 or 8 Spellcaster monster whose ATK equals its own DEF from your Deck or GY to your hand. You can target 1 face-up card on the field; negate its effects, then if an \"Ecclesia\" monster or \"Fallen of Albaz\" is in your GY, you can destroy that card. You can only use each effect of \"The Three Champions of Swordsoul\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Albaz the Ashen",
+        "Albion the Shrouded Dragon",
+        "Branded in High Spirits",
+        "Branded Lost",
+        "Branded Sword",
+        "Dogmatika Ecclesia, the Virtuous",
+        "Ecclesia and the Dark Dragon",
+        "Fallen of Albaz",
+        "Fallen of the White Dragon",
+        "Guiding Quem, the Virtuous",
+        "Gung-Ho! Springans!",
+        "Incredible Ecclesia, the Virtuous",
+        "New Frontier",
+        "Swordsoul Assessment",
+        "Swordsoul Emergence",
+        "Swordsoul Grandmaster - Chixiao",
+        "Swordsoul of Mo Ye",
+        "Swordsoul of Taia",
+        "Swordsoul Sacred Summit",
+        "Swordsoul Strategist Longyuan",
+        "Swordsoul Strife",
+        "The Bystial Aluber",
+        "The Fallen & The Virtuous",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

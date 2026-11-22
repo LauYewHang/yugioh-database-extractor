@@ -1,0 +1,26 @@
+{
+    "name": "Dinomorphia Shell",
+    "filename": "Dinomorphia_Shell",
+    "card_text": "At the start of your opponent's Battle Phase: Pay half your LP; Special Summon 1 \"Dinomorphia Token\" (Dinosaur/DARK/Level 10/ATK 0/DEF 3000), and if you do, for the rest of this turn, while you control that Token in your Monster Zone, your opponent cannot target other monsters for attacks, except that one. During damage calculation, while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 \"Dinomorphia Shell\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Dinomorphia Alert",
+        "Dinomorphia Brute",
+        "Dinomorphia Diplos",
+        "Dinomorphia Domain",
+        "Dinomorphia Frenzy",
+        "Dinomorphia Intact",
+        "Dinomorphia Kentregina",
+        "Dinomorphia Reversion",
+        "Dinomorphia Rexterm",
+        "Dinomorphia Sonic",
+        "Dinomorphia Stealthbergia",
+        "Dinomorphia Therizia"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

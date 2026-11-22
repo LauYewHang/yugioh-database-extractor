@@ -1,0 +1,12 @@
+{
+    "name": "Anti-Magic Prism",
+    "filename": "Anti_Magic_Prism",
+    "card_text": "When your opponent activates a Quick-Play Spell Card, select 1 card on the field and destroy it.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

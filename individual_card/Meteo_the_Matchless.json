@@ -1,0 +1,17 @@
+{
+    "name": "Meteo the Matchless",
+    "filename": "Meteo_the_Matchless",
+    "card_text": "This card cannot be Special Summoned. This card must be Tribute Summoned by offering 3 Beast-Warrior-Type monsters on your side of the field as Tributes. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.",
+    "release_date": "2004-07-25",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2004"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

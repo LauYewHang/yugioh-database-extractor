@@ -1,0 +1,18 @@
+{
+    "name": "Hade-Hane",
+    "filename": "Hade_Hane",
+    "card_text": "FLIP: You can return up to 3 monsters on the field to the owner's hand.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 900,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Moon of the Closed Heaven",
+    "filename": "Moon_of_the_Closed_Heaven",
+    "card_text": "2 Effect Monsters\nYou can target 1 face-up monster your opponent controls this card points to; this turn, if you Link Summon a Link-5 monster using this card you control, you can also use that monster your opponent controls as material. You can only use this effect of \"Moon of the Closed Heaven\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "OTS TOURNAMENT PACK 26",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 768
+}

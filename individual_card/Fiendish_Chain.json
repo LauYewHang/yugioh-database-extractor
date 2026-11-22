@@ -1,0 +1,25 @@
+{
+    "name": "Fiendish Chain",
+    "filename": "Fiendish_Chain",
+    "card_text": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "ABSOLUTE POWERFORCE",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "SAMURAI WARLORDS STRUCTURE DECK",
+        "STRUCTURE DECK : SETO KAIBA",
+        "MACHINE REACTOR STRUCTURE DECK",
+        "ASTRAL PACK EIGHT",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "BATTLE PACK EPIC DAWN",
+        "STARTER DECK - LINK STRIKE -"
+    ],
+    "related_card": [
+        "Fiendish Golem"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

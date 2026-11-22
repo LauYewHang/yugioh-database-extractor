@@ -1,0 +1,18 @@
+{
+    "name": "Psi-Blocker",
+    "filename": "Psi_Blocker",
+    "card_text": "Once per turn: You can declare 1 card name; cards with that name, and their effects, cannot be used until the end of your opponent's next turn.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1200,
+    "defense": 300,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

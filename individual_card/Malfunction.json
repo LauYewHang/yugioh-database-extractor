@@ -1,0 +1,14 @@
+{
+    "name": "Malfunction",
+    "filename": "Malfunction",
+    "card_text": "Pay 500 Life Points. Negate the activation of a Trap Card and return it to its original position.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

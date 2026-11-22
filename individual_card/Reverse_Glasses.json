@@ -1,0 +1,14 @@
+{
+    "name": "Reverse Glasses",
+    "filename": "Reverse_Glasses",
+    "card_text": "Halve the ATK of all face-up monsters currently on the field, until the End Phase.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "JUDGMENT OF THE LIGHT",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

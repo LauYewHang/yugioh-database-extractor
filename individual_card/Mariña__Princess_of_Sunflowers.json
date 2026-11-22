@@ -1,0 +1,19 @@
+{
+    "name": "Mari\u00f1a, Princess of Sunflowers",
+    "filename": "Mari\u00f1a__Princess_of_Sunflowers",
+    "card_text": "If exactly 1 other Plant monster you control (and no other cards) is destroyed by battle or card effect and sent to the GY: You can target 1 card your opponent controls; destroy that target. This card must be face-up on the field to activate and to resolve this effect.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SECRET SLAYERS",
+        "SHADOW SPECTERS",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 1600,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

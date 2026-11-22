@@ -1,0 +1,12 @@
+{
+    "name": "Tyrant's Tirade",
+    "filename": "Tyrant_s_Tirade",
+    "card_text": "Tribute 2 monsters. Effects of Effect Monsters that activate in the hand or on the field cannot be activated.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

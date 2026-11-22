@@ -1,0 +1,22 @@
+{
+    "name": "Vernusylph and the Flower Buds",
+    "filename": "Vernusylph_and_the_Flower_Buds",
+    "card_text": "Target face-up cards your opponent controls, up to the number of EARTH monsters you control with different names that were Special Summoned from the GY; return EARTH monsters you control to the hand equal to the number of targets, and if you returned at least 1 to the hand, return the targeted cards to the hand. You can only activate 1 \"Vernusylph and the Flower Buds\" per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Vernusylph and the Changing Season",
+        "Vernusylph Corolla",
+        "Vernusylph in Full Bloom",
+        "Vernusylph of the Awakening Forests",
+        "Vernusylph of the Flourishing Hills",
+        "Vernusylph of the Flowering Fields",
+        "Vernusylph of the Misting Seedlings",
+        "Vernusylph of the Thawing Mountains"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

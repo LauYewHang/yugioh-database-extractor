@@ -1,0 +1,33 @@
+{
+    "name": "Melffy Tag",
+    "filename": "Melffy_Tag",
+    "card_text": "Target 1 \"Melffy\" monster in your GY; Special Summon it. You can only activate 1 \"Melffy Tag\" per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Joyous Melffys",
+        "Melffy Catty",
+        "Melffy Fenny",
+        "Melffy Footsteps",
+        "Melffy Godmommy",
+        "Melffy Hide-and-Seek",
+        "Melffy Mommy",
+        "Melffy of the Forest",
+        "Melffy Pinny",
+        "Melffy Playhouse",
+        "Melffy Playtime Surprise",
+        "Melffy Pony",
+        "Melffy Puppy",
+        "Melffy Rabby",
+        "Melffy Rabbys",
+        "Melffy Staring Contest",
+        "Melffy Wally",
+        "Melffys' Joyful Surprise",
+        "Merry Melffys"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Magical Reflect Slime",
+    "filename": "Magical_Reflect_Slime",
+    "card_text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cfYour opponent takes any battle damage you would have taken from battles involving this card.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "GLADIATOR'S ASSAULT",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 700,
+    "defense": 1200,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

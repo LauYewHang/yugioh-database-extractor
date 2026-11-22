@@ -1,0 +1,18 @@
+{
+    "name": "Rainbow Flower",
+    "filename": "Rainbow_Flower",
+    "card_text": "This monster may attack your opponent's Life Points directly.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 400,
+    "defense": 500,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

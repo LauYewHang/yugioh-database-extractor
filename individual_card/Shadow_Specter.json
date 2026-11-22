@@ -1,0 +1,17 @@
+{
+    "name": "Shadow Specter",
+    "filename": "Shadow_Specter",
+    "card_text": "Powerful in groups, this animal spirit can be found in the wastelands.",
+    "release_date": "2020-05-15",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Kozmo Lightsword",
+    "filename": "Kozmo_Lightsword",
+    "card_text": "Equip only to a Psychic-Type \"Kozmo\" monster. It gains 500 ATK and DEF, it can make up to 2 attacks on monsters during each Battle Phase, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can pay 800 LP; add this card to your hand. You can only use this effect of \"Kozmo Lightsword\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Kozmo Dark Destroyer",
+        "Kozmo Dark Eclipser",
+        "Kozmo Dark Planet",
+        "Kozmo Delta Shuttle",
+        "Kozmo DOG Fighter",
+        "Kozmo Farmgirl",
+        "Kozmo Forerunner",
+        "Kozmo Goodwitch",
+        "Kozmo Landwalker",
+        "Kozmo Scaredy Lion",
+        "Kozmo Sliprider",
+        "Kozmo Soartroopers",
+        "Kozmo Strawman",
+        "Kozmo Tincan",
+        "Kozmojo",
+        "Kozmoll Dark Lady",
+        "Kozmoll Wickedwitch",
+        "Kozmotown",
+        "Kozmourning"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

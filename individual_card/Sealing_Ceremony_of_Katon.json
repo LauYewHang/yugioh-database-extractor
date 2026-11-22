@@ -1,0 +1,12 @@
+{
+    "name": "Sealing Ceremony of Katon",
+    "filename": "Sealing_Ceremony_of_Katon",
+    "card_text": "Once per turn: You can banish 1 FIRE monster from your Graveyard to target 1 card in your opponent's Graveyard; banish that target.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Shinobird Crow",
+    "filename": "Shinobird_Crow",
+    "card_text": "Cannot be Special Summoned. Once per turn, during either player's Damage Step, when this card battles an opponent's monster: You can discard 1 Spirit monster; until the end of the Battle Phase, this card gains ATK and DEF equal to the ATK and DEF of the discarded monster. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

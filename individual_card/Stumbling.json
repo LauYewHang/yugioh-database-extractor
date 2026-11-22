@@ -1,0 +1,14 @@
+{
+    "name": "Stumbling",
+    "filename": "Stumbling",
+    "card_text": "Any monster that is Normal Summoned, Flip Summoned or Special Summoned is changed to Defense Position.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Malefic Force",
+    "filename": "Malefic_Force",
+    "card_text": "Target 1 face-up monster on the field; equip this card to it with the following effects.\n\u25cfThe equipped monster is unaffected by Spell effects.\n\u25cfOnce per turn: You can destroy this card, and if you do, add 1 \"Malefic\" card from your Deck to your hand.\nIf a card is in the Field Zone: You can banish this card and 1 other \"Malefic\" card from your GY; destroy all monsters on the field. You can only use each effect of \"Malefic Force\" once per turn.",
+    "release_date": "2026-09-04",
+    "available_set": [
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Malefic Blue-Eyes White Dragon",
+        "Malefic Claw Stream",
+        "Malefic Cyber End Dragon",
+        "Malefic Divide",
+        "Malefic Paradigm Dragon",
+        "Malefic Paradigm Shift",
+        "Malefic Paradox Dragon",
+        "Malefic Paradox Gear",
+        "Malefic Parallel Gear",
+        "Malefic Rainbow Dragon",
+        "Malefic Red-Eyes Black Dragon (Updated from: Malefic Red-Eyes B. Dragon)",
+        "Malefic Selector",
+        "Malefic Stardust Dragon",
+        "Malefic Territory",
+        "Malefic Truth Dragon",
+        "Malefic Tune",
+        "Malefic World"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

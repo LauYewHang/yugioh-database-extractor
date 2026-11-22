@@ -1,0 +1,20 @@
+{
+    "name": "Oppressed People",
+    "filename": "Oppressed_People",
+    "card_text": "They are oppressed, but believe they will have their freedom someday.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [
+        "Huge Revolution"
+    ],
+    "attribute": "WATER",
+    "attack": 400,
+    "defense": 2000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

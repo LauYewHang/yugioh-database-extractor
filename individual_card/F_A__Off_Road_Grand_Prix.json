@@ -1,0 +1,34 @@
+{
+    "name": "F.A. Off-Road Grand Prix",
+    "filename": "F_A__Off_Road_Grand_Prix",
+    "card_text": "Increase the Levels of all \"F.A.\" monsters on the field by 2 during the Main Phase only. You can only use each of the following effects of \"F.A. Off-Road Grand Prix\" once per turn.\n\u25cfWhen a \"F.A.\" monster you control is destroyed by battle: You can discard 1 random card from your opponent's hand.\n\u25cfIf this face-up card on the field is destroyed by a card effect: You can add 1 \"F.A.\" card from your Deck to your hand, except \"F.A. Off-Road Grand Prix\".",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "F.A. Auto Navigator",
+        "F.A. Circuit Grand Prix",
+        "F.A. City Grand Prix",
+        "F.A. Dark Dragster",
+        "F.A. Dawn Dragster",
+        "F.A. Dead Heat",
+        "F.A. Downforce",
+        "F.A. Hang On Mach",
+        "F.A. Motorhome Transport",
+        "F.A. Overheat",
+        "F.A. Pit Stop",
+        "F.A. Shining Star GT",
+        "F.A. Sonic Meister",
+        "F.A. Test Run",
+        "F.A. Turbo Charger",
+        "F.A. Whip Crosser",
+        "F.A. Winners",
+        "U.A. Hyper Stadium",
+        "U.A. Locker Room",
+        "U.A. Man of the Match"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

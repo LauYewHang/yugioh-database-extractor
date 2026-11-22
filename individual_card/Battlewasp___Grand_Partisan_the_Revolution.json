@@ -1,0 +1,29 @@
+{
+    "name": "Battlewasp - Grand Partisan the Revolution",
+    "filename": "Battlewasp___Grand_Partisan_the_Revolution",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nCannot be destroyed by card effects. Insect Synchro Monsters you control gain 200 ATK for each of your banished Insect monsters. If this card is banished: You can Special Summon it, then you can destroy cards your opponent controls up to the number of your banished Insect monsters, then inflict 500 damage to your opponent for each card destroyed. You can only use this effect of \"Battlewasp - Grand Partisan the Revolution\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Nest",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

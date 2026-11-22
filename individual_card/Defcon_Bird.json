@@ -1,0 +1,17 @@
+{
+    "name": "Defcon Bird",
+    "filename": "Defcon_Bird",
+    "card_text": "You can discard 1 other Cyberse monster; Special Summon this card from your hand. You can only use this effect of \"Defcon Bird\" once per turn. Once per turn, when your Cyberse monster is targeted for an attack: You can make its ATK/DEF become double its original ATK, then you can change it to Defense Position. This ATK/DEF change lasts until the end of the Damage Step.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 100,
+    "defense": 1700,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

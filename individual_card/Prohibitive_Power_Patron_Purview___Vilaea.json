@@ -1,0 +1,35 @@
+{
+    "name": "Prohibitive Power Patron Purview - Vilaea",
+    "filename": "Prohibitive_Power_Patron_Purview___Vilaea",
+    "card_text": "Show 1 \"Nerva the Power Patron of Creation\", 1 \"Jupiter the Power Patron of Destruction\", and 1 \"Junora the Power Patron of Tuning\" from your Extra Deck, face-up Monster Zone, and/or GY, and if you do, your opponent cannot activate cards or effects in response to the activation of your \"Power Patron\" monster effects this turn. If you would banish the top card(s) of your Deck to activate the effect of a \"Power Patron\" monster you control, you can banish this card from your GY instead. You can only use each effect of \"Prohibitive Power Patron Purview - Vilaea\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Ars Magna \"Philosophorum\"",
+        "Ars Magna the Corruption and the Purification",
+        "Ars Magna the Division and the Union",
+        "Ars Magna the Finite and the Infinite",
+        "Artmage Power Patron",
+        "Elfnote Power Patron",
+        "Junoldo the Shadespirit Power Patron",
+        "Junora the Power Patron of Tuning",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Mediclius the Extraordinary Power Patron",
+        "Medius the Pure",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Plundered Power Patron Plane - Vidolia",
+        "Power Patron DoomZ",
+        "Power Patron Shade of the Final Hour",
+        "Prohibited Power Patron Portal - Terminus",
+        "Purification Power Patron",
+        "Theorealized Medius",
+        "Vidolium the Unstable Power Patron of Unity"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

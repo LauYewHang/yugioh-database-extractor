@@ -1,0 +1,22 @@
+{
+    "name": "Shark Fortress",
+    "filename": "Shark_Fortress",
+    "card_text": "2 Level 5 monsters\nYour opponent cannot target monsters for attacks, except this one. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster you control; it can make a second attack during each Battle Phase this turn.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Hydrojet Shark",
+        "Surfacing Big Jaws",
+        "Veiss Shark"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1800,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 5
+}

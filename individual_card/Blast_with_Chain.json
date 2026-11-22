@@ -1,0 +1,19 @@
+{
+    "name": "Blast with Chain",
+    "filename": "Blast_with_Chain",
+    "card_text": "Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK. If this card is destroyed by card effect while equipped: Target 1 card on the field; destroy that target.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "LEGACY OF DARKNESS",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

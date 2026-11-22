@@ -1,0 +1,34 @@
+{
+    "name": "Adhesion Trap Hole",
+    "filename": "Adhesion_Trap_Hole",
+    "card_text": "When your opponent Summons a monster(s): Halve that monster(s)'s original ATK.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DUEL TERMINAL 1",
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "DARK REVELATION Volume 1",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

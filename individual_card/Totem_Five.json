@@ -1,0 +1,18 @@
+{
+    "name": "Totem Five",
+    "filename": "Totem_Five",
+    "card_text": "If 5 monsters are Special Summoned at the same time, including this card: Destroy as many cards your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each card destroyed.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": 200,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

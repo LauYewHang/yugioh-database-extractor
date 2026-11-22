@@ -1,0 +1,19 @@
+{
+    "name": "Ultra Evolution Pill",
+    "filename": "Ultra_Evolution_Pill",
+    "card_text": "Tribute 1 Reptile monster; Special Summon 1 Dinosaur monster from your hand.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Animadorned Archosaur",
+        "Overtex Qoatlus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

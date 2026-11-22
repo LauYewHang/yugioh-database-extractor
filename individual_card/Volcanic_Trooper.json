@@ -1,0 +1,36 @@
+{
+    "name": "Volcanic Trooper",
+    "filename": "Volcanic_Trooper",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Volcanic\" card from your Deck to your hand, except \"Volcanic Trooper\". You can discard 1 card; Special Summon 1 \"Bomb Token\" (Pyro/FIRE/Level 1/ATK 1000/DEF 1000) to your opponent's field. Each time 1 is destroyed, its controller takes 500 damage. You can only use each effect of \"Volcanic Trooper\" once per turn.",
+    "release_date": "2023-08-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Blaze Accelerator Reload",
+        "Fire Ejection",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Counter",
+        "Volcanic Doomfire",
+        "Volcanic Emission",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Queen",
+        "Volcanic Rat",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Rocket",
+        "Volcanic Scattershot",
+        "Volcanic Shell",
+        "Volcanic Slicer"
+    ],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

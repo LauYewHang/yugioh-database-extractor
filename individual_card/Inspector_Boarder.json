@@ -1,0 +1,20 @@
+{
+    "name": "Inspector Boarder",
+    "filename": "Inspector_Boarder",
+    "card_text": "Cannot be Normal or Special Summoned if you control a monster. Neither player can activate monster effects unless the number of monster effects that player has previously activated that turn is less than the number of monster card types currently on the field (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link). (If an effect's activation was negated, it still counts toward the total for that turn. Only count effects that were activated while this monster was face-up on the field.)",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "Duel Devastator"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

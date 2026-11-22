@@ -1,0 +1,29 @@
+{
+    "name": "Cipher Interference",
+    "filename": "Cipher_Interference",
+    "card_text": "During damage calculation, if your \"Cipher\" monster battles, while another monster with its same name is on the field: You can double the ATK of your battling \"Cipher\" monster until the end of the Battle Phase. You can only use this effect of \"Cipher Interference\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Cipher Biplane",
+        "Cipher Bit",
+        "Cipher Etranger",
+        "Cipher Mirror Knight",
+        "Cipher Soldier (Updated from: Kinetic Soldier)",
+        "Cipher Spectrum",
+        "Cipher Twin Raptor",
+        "Cipher Wing",
+        "Double Cipher",
+        "Double Exposure",
+        "Galaxy-Eyes Cipher Blade Dragon",
+        "Galaxy-Eyes Cipher Dragon",
+        "Galaxy-Eyes Cipher X Dragon",
+        "Neo Galaxy-Eyes Cipher Dragon",
+        "Rank-Up-Magic Cipher Ascension",
+        "Storm Cipher"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

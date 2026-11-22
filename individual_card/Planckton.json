@@ -1,0 +1,12 @@
+{
+    "name": "Planckton",
+    "filename": "Planckton",
+    "card_text": "Apply these effects until the end of this turn.\n\u25cfRank 3 or lower Xyz Monsters gain 500 ATK and DEF.\n\u25cfRank 4 or higher Xyz Monsters cannot attack.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

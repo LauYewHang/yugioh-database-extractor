@@ -1,0 +1,26 @@
+{
+    "name": "Startling Stare of the Snake-Eyes",
+    "filename": "Startling_Stare_of_the_Snake_Eyes",
+    "card_text": "If the total Levels of \"Snake-Eye\" monsters you control are 2 or higher: Activate 1 of these effects;\n\u25cfTarget 1 face-up monster your opponent controls or in their GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell.\n\u25cfTarget 1 Monster Card treated as a Continuous Spell on the field; Special Summon it to your field.\nYou can only activate 1 \"Startling Stare of the Snake-Eyes\" per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Divine Temple of the Snake-Eye",
+        "Dramatic Snake-Eye Chase",
+        "Original Sinful Spoils - Snake-Eye",
+        "Sinful Spoils of Subversion - Snake-Eye",
+        "Snake-Eye Ash",
+        "Snake-Eye Birch",
+        "Snake-Eye Oak",
+        "Snake-Eyes Diabellstar",
+        "Snake-Eyes Doomed Dragon",
+        "Snake-Eyes Flamberge Dragon",
+        "Snake-Eyes Poplar",
+        "Snake-Eyes Vengeance Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

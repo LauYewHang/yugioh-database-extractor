@@ -1,0 +1,29 @@
+{
+    "name": "Rebirth of Nephthys",
+    "filename": "Rebirth_of_Nephthys",
+    "card_text": "This card can be used to Ritual Summon any \"Nephthys\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then, if you Tributed \"Devotee of Nephthys\" or \"Cerulean Sacred Phoenix of Nephthys\", you can destroy 1 card on the field.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS"
+    ],
+    "related_card": [
+        "Awakening of Nephthys",
+        "Cerulean Sacred Phoenix of Nephthys",
+        "Chaos Nephthys",
+        "Chronicler of Nephthys",
+        "Conductor of Nephthys",
+        "Dark Nephthys",
+        "Defender of Nephthys",
+        "Devotee of Nephthys",
+        "Disciple of Nephthys",
+        "Hand of Nephthys",
+        "Last Hope of Nephthys",
+        "Matriarch of Nephthys",
+        "Metaphys Nephthys",
+        "Nephthys, the Sacred Flame",
+        "Nephthys, the Sacred Preserver",
+        "Sacred Phoenix of Nephthys"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Hero's Rule 2",
+    "filename": "Hero_s_Rule_2",
+    "card_text": "Negate the activation of an Effect Monster, Spell or Trap Card that targets a card(s) in the Graveyard, and destroy it.",
+    "release_date": "2008-01-26",
+    "available_set": [
+        "DUELIST PACK - JADEN YUKI 3 -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

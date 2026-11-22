@@ -1,0 +1,19 @@
+{
+    "name": "Serpentine Princess",
+    "filename": "Serpentine_Princess",
+    "card_text": "If this face-up card is shuffled from the field into your Deck: Special Summon 1 Level 3 or lower monster from your Deck.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "OTS TOURNAMENT PACK 25"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 2000,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

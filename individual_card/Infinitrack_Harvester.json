@@ -1,0 +1,34 @@
+{
+    "name": "Infinitrack Harvester",
+    "filename": "Infinitrack_Harvester",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Infinitrack\" monster from your Deck to your hand, except \"Infinitrack Harvester\". You can target 1 other Machine monster you control; the Levels of both that monster and this card become the combined original Levels of those 2 monsters, until the end of this turn. You can only use each effect of \"Infinitrack Harvester\" once per turn.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "RARITY COLLECTION 5",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Heavy Forward",
+        "Infinitrack Anchor Drill",
+        "Infinitrack Brutal Dozer",
+        "Infinitrack Crab Crane",
+        "Infinitrack Drag Shovel",
+        "Infinitrack Earth Slicer",
+        "Infinitrack Fortress Megaclops",
+        "Infinitrack Goliath",
+        "Infinitrack Mountain Smasher",
+        "Infinitrack River Stormer",
+        "Infinitrack Road Roller",
+        "Infinitrack Trencher",
+        "Infinitrack Tunneller",
+        "Outrigger Extension"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

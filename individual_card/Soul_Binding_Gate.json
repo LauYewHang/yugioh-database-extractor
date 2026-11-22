@@ -1,0 +1,14 @@
+{
+    "name": "Soul Binding Gate",
+    "filename": "Soul_Binding_Gate",
+    "card_text": "To activate this card you must control no monsters, and a Set Spell/Trap(s) you control must have been destroyed by card effect this turn. During the Main Phase, if exactly 1 monster with less ATK than your LP is Summoned and you have \"Z-ONE\" in your GY: Destroy that monster, and if you do, take 800 damage, then inflict 800 damage to your opponent.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Z-ONE"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

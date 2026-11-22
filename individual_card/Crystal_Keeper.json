@@ -1,0 +1,41 @@
+{
+    "name": "Crystal Keeper",
+    "filename": "Crystal_Keeper",
+    "card_text": "If a \"Crystal Beast\" monster you control battles an opponent's monster, during damage calculation (Quick Effect): You can Tribute this card from your hand or face-up field; your battling monster's ATK/DEF become double its original ATK/DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Rainbow Dark Dragon",
+        "Rainbow Dragon",
+        "Rainbow Overdragon",
+        "Ultimate Crystal Rainbow Dragon Overdrive"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Each turn, the first time an \"Ultimate Crystal\" monster(s) and/or \"Crystal Beast\" card(s) you control would be destroyed by card effect that turn, it is not destroyed.",
+    "pendulum_scale": 2
+}

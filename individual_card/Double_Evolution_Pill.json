@@ -1,0 +1,18 @@
+{
+    "name": "Double Evolution Pill",
+    "filename": "Double_Evolution_Pill",
+    "card_text": "Banish 1 Dinosaur monster and 1 non-Dinosaur monster from your hand and/or GY; Special Summon 1 Level 7 or higher Dinosaur monster from your hand or Deck, ignoring its Summoning conditions. You can only activate 1 \"Double Evolution Pill\" per turn.",
+    "release_date": "2017-07-07",
+    "available_set": [
+        "WILD SURVIVORS",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Animadorned Archosaur",
+        "Overtex Qoatlus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

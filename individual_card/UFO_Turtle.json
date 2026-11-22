@@ -1,0 +1,27 @@
+{
+    "name": "UFO Turtle",
+    "filename": "UFO_Turtle",
+    "card_text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 FIRE monster with 1500 or less ATK from your Deck, in Attack Position.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DUELIST LEAGUE 3",
+        "DARK BEGINNING 1",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "5D's STARTER DECK 2008",
+        "RETRO PACK",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

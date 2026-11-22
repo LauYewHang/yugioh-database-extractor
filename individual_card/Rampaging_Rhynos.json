@@ -1,0 +1,17 @@
+{
+    "name": "Rampaging Rhynos",
+    "filename": "Rampaging_Rhynos",
+    "card_text": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If this card attacks the monster in its same column, this card gains 500 ATK during the Damage Step.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

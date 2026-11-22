@@ -1,0 +1,12 @@
+{
+    "name": "Oath of Companionship",
+    "filename": "Oath_of_Companionship",
+    "card_text": "If you control no monsters that were Special Summoned from the Extra Deck: Target 1 face-up monster your opponent controls that was Special Summoned from the Extra Deck; take control of it until the End Phase. You cannot Special Summon during the turn you activate this card.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

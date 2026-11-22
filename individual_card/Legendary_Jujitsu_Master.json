@@ -1,0 +1,24 @@
+{
+    "name": "Legendary Jujitsu Master",
+    "filename": "Legendary_Jujitsu_Master",
+    "card_text": "If this Defense Position card battled a monster, at the end of the Damage Step: Place that monster on the top of the Deck.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DUELIST LEAGUE 2010",
+        "DUEL TERMINAL 6B",
+        "DARK REVELATION Volume 2",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "ANCIENT SANCTUARY",
+        "CHAMPION PACK GAME SEVEN",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 1800,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

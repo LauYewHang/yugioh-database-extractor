@@ -1,0 +1,21 @@
+{
+    "name": "Freed the Brave Wanderer",
+    "filename": "Freed_the_Brave_Wanderer",
+    "card_text": "Once per turn: You can banish 2 LIGHT monsters from your Graveyard to target 1 face-up monster on the field with higher ATK than this face-up card; destroy that target.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "DUEL TERMINAL 6A",
+        "CHAMPION PACK GAME FOUR",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

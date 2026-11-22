@@ -1,0 +1,17 @@
+{
+    "name": "Fallin' Cheatah",
+    "filename": "Fallin__Cheatah",
+    "card_text": "Cannot be Tributed, nor used as material for a Fusion, Synchro, Xyz, or Link Summon, while face-up on the field. If a monster(s) is Special Summoned to your opponent's field, while this card is in your Monster Zone: Target 1 of them; give control of this card to that monster's controller, also that monster cannot be Tributed nor used as material for a Fusion, Synchro, Xyz or Link Summon while this monster is face-up on the field.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1100,
+    "defense": 2200,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

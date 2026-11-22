@@ -1,0 +1,19 @@
+{
+    "name": "Big Bang Shot",
+    "filename": "Big_Bang_Shot",
+    "card_text": "The equipped monster gains 400 ATK. If the equipped monster attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. When this card leaves the field, banish the equipped monster.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "CHAMPION PACK GAME TWO",
+        "DARK REVELATION Volume 1",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "WARRIORS' STRIKE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

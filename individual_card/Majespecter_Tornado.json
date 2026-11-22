@@ -1,0 +1,29 @@
+{
+    "name": "Majespecter Tornado",
+    "filename": "Majespecter_Tornado",
+    "card_text": "Tribute 1 WIND Spellcaster monster, then target 1 monster your opponent controls; banish it.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 24",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Majespecter Cat - Nekomata",
+        "Majespecter Crow - Yata",
+        "Majespecter Draco - Ryu",
+        "Majespecter Fox - Kyubi",
+        "Majespecter Gust",
+        "Majespecter Orthrus - Nue",
+        "Majespecter Porcupine - Yamarashi",
+        "Majespecter Raccoon - Bunbuku",
+        "Majespecter Sonics",
+        "Majespecter Supercell",
+        "Majespecter Toad - Ogama",
+        "Majespecter Wind",
+        "Majesty Pegasus, the Dracoslayer",
+        "Majesty's Pegasus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

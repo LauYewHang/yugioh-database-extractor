@@ -1,0 +1,25 @@
+{
+    "name": "Red Dragon Vase",
+    "filename": "Red_Dragon_Vase",
+    "card_text": "If you control a \"Red Dragon Archfiend\": Draw 2 cards. You cannot Normal or Special Summon monsters the turn you activate this card, and until the end of your opponent's turn after this card is activated.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Crimson Call",
+        "Crimson Gaia",
+        "Fiend Piece Golem",
+        "Fiendish Golem",
+        "Red Dragon Archfiend",
+        "Red Zone",
+        "Scarlight Red Dragon Archfiend",
+        "Scarred Dragon Archfiend",
+        "Soul Resonator",
+        "The Crimson King",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

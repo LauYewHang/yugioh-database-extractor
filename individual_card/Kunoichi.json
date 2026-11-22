@@ -1,0 +1,17 @@
+{
+    "name": "Kunoichi",
+    "filename": "Kunoichi",
+    "card_text": "When control of this face-up card changes, its new controller discards 1 random card.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

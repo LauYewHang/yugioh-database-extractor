@@ -1,0 +1,17 @@
+{
+    "name": "Torapart",
+    "filename": "Torapart",
+    "card_text": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Warrior-Type Synchro Monster. If the Synchro Monster that used this card as a Synchro Material Monster attacks, your opponent cannot activate Trap Cards until the end of the Damage Step.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

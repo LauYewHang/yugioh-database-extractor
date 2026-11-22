@@ -1,0 +1,43 @@
+{
+    "name": "Fire Formation - Gyokkou",
+    "filename": "Fire_Formation___Gyokkou",
+    "card_text": "Activate this card by targeting 1 Set Spell/Trap your opponent controls. Your opponent cannot activate the targeted card in response to this card's activation. While this card is face-up on the field, that Set card cannot be activated. All Beast-Warrior monsters you control gain 100 ATK.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "2014 MEGA-TINS MEGA PACK",
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [
+        "Brotherhood of the Fire Fist - Bear",
+        "Brotherhood of the Fire Fist - Boar",
+        "Brotherhood of the Fire Fist - Buffalo",
+        "Brotherhood of the Fire Fist - Cardinal",
+        "Brotherhood of the Fire Fist - Caribou",
+        "Brotherhood of the Fire Fist - Coyote",
+        "Brotherhood of the Fire Fist - Dragon",
+        "Brotherhood of the Fire Fist - Eagle",
+        "Brotherhood of the Fire Fist - Eland",
+        "Brotherhood of the Fire Fist - Elephant",
+        "Brotherhood of the Fire Fist - Gorilla",
+        "Brotherhood of the Fire Fist - Hawk",
+        "Brotherhood of the Fire Fist - Kirin",
+        "Brotherhood of the Fire Fist - Leopard",
+        "Brotherhood of the Fire Fist - Panda",
+        "Brotherhood of the Fire Fist - Peacock",
+        "Brotherhood of the Fire Fist - Ram",
+        "Brotherhood of the Fire Fist - Raven",
+        "Brotherhood of the Fire Fist - Rhino",
+        "Brotherhood of the Fire Fist - Rooster",
+        "Brotherhood of the Fire Fist - Snake",
+        "Brotherhood of the Fire Fist - Swallow",
+        "Brotherhood of the Fire Fist - Swan",
+        "Brotherhood of the Fire Fist - Tiger King",
+        "Brotherhood of the Fire Fist - Wolf",
+        "Fire Fortress atop Liang Peak",
+        "Ultimate Fire Formation - Seito",
+        "Ultimate Fire Formation - Sinto"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

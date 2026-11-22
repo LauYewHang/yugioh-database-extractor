@@ -1,0 +1,33 @@
+{
+    "name": "Mayakashi Return",
+    "filename": "Mayakashi_Return",
+    "card_text": "Take 1 \"Mayakashi\" card from your Deck, except \"Mayakashi Return\", and either add it to your hand or send it to the GY. You can only activate 1 \"Mayakashi Return\" per turn.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "HIDDEN SUMMONERS"
+    ],
+    "related_card": [
+        "Dakki, the Graceful Mayakashi",
+        "Gashadokuro, the Skeletal Mayakashi",
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Mayakashi's Manuscript",
+        "Hajun, the Winged Mayakashi",
+        "Mayakashi Mayhem",
+        "Mayakashi Metamorphosis",
+        "Mayakashi Winter",
+        "Oboro-Guruma, the Wheeled Mayakashi",
+        "Shafu, the Wheeled Mayakashi",
+        "Tengu, the Winged Mayakashi",
+        "Tsuchigumo, the Poisonous Mayakashi",
+        "Tsukahagi, the Poisonous Mayakashi",
+        "Yasha, the Skeletal Mayakashi",
+        "Yoko, the Graceful Mayakashi",
+        "Yuki-Musume, the Ice Mayakashi",
+        "Yuki-Onna, the Absolute Zero Mayakashi",
+        "Yuki-Onna, the Ice Mayakashi",
+        "Yuki-Onna, the Icicle Mayakashi"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

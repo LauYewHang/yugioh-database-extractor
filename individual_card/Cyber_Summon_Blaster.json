@@ -1,0 +1,23 @@
+{
+    "name": "Cyber Summon Blaster",
+    "filename": "Cyber_Summon_Blaster",
+    "card_text": "Each time a Machine monster(s) is Special Summoned, while this card is already face-up in your Spell & Trap Zone: Inflict 300 damage to your opponent.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "DUELIST LEAGUE 18",
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Dragon Core",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Cybernetic Overflow",
+        "Prima Light"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

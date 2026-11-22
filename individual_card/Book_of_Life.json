@@ -1,0 +1,25 @@
+{
+    "name": "Book of Life",
+    "filename": "Book_of_Life",
+    "card_text": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "DUELIST LEAGUE 17",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "OTS TOURNAMENT PACK 7",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "TOURNAMENT PACK 5",
+        "PHARAONIC GUARDIAN",
+        "GOLD SERIES HAUNTED MINE",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Bunny Ear Enthusiast",
+    "filename": "Bunny_Ear_Enthusiast",
+    "card_text": "Once per Chain, when a monster on the field, except \"Bunny Ear Enthusiast\", activates its effect (Quick Effect): You can place 1 Bunny Ear Counter on it, and it cannot be destroyed by battle as long as it has that Counter. Once per turn (Quick Effect): You can target 1 monster with a Bunny Ear Counter; banish both it and this card until the Standby Phase of the next turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 200,
+    "defense": 100,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

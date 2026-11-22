@@ -1,0 +1,31 @@
+{
+    "name": "R.B. Lambda Cannon",
+    "filename": "R_B__Lambda_Cannon",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 \"R.B.\" monster in your GY, except \"R.B. Lambda Cannon\"; add it to your hand. While this card is linked to an \"R.B.\" Link Monster: You can pay 1200 LP; destroy this card, and if you do, look at your opponent's hand, then you can Special Summon 1 monster from it to their field, but negate its effects. You can only use each effect of \"R.B. Lambda Cannon\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "R.B. Funk Dock",
+        "R.B. Ga10 Cutter",
+        "R.B. Ga10 Driller",
+        "R.B. Ga10 Pile Bunker",
+        "R.B. Lambda Blade",
+        "R.B. Last Stand",
+        "R.B. Next Phase",
+        "R.B. Operation Test",
+        "R.B. Shepherd's Crook",
+        "R.B. Stage Landing",
+        "R.B. The Brute Blues",
+        "R.B. VALCan Booster",
+        "R.B. VALCan Rocket"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

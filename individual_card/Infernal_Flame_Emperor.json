@@ -1,0 +1,19 @@
+{
+    "name": "Infernal Flame Emperor",
+    "filename": "Infernal_Flame_Emperor",
+    "card_text": "Cannot be Special Summoned. When this card is Tribute Summoned: You can banish up to 5 FIRE monsters from your GY; destroy Spells/Traps on the field equal to the number banished to activate this effect.",
+    "release_date": "2005-05-09",
+    "available_set": [
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "WORLD CHAMPIONSHIP 2010 CARD PACK",
+        "STRUCTURE DECK: FIRE KINGS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2700,
+    "defense": 1600,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

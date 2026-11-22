@@ -1,0 +1,33 @@
+{
+    "name": "Yosenju Wind Worship",
+    "filename": "Yosenju_Wind_Worship",
+    "card_text": "If you control 3 or more \"Yosenju\" Monster Cards with different names: Return as many \"Yosenju\" Monster Cards you control to the hand as possible, then you can draw until you have 5 cards in your hand. You can only activate 1 \"Yosenju Wind Worship\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Dizzying Winds of Yosen Village",
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosen Training Grounds",
+        "Yosen Whirlwind",
+        "Yosenju Izna",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Kodam",
+        "Yosenju Magat",
+        "Yosenju Misak",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Shinchu R",
+        "Yosenju Tsujik",
+        "Yosenjus' Secret Move",
+        "Yosenjus' Sword Sting"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

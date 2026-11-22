@@ -1,0 +1,17 @@
+{
+    "name": "Rallis the Star Bird",
+    "filename": "Rallis_the_Star_Bird",
+    "card_text": "This card gains ATK equal to the Level of the monster that it battles x 200 during the Damage Step only. If this card attacks, it is removed from play at the end of the Damage Step and returned to your side of the field in face-up Attack Position at the beginning of your next turn's Battle Phase.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

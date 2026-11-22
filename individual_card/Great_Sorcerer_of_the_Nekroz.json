@@ -1,0 +1,41 @@
+{
+    "name": "Great Sorcerer of the Nekroz",
+    "filename": "Great_Sorcerer_of_the_Nekroz",
+    "card_text": "If this card is Tributed by a card effect: You can add 1 Spellcaster-Type \"Nekroz\" Ritual Monster from your Deck to your hand. If this card is banished: You can send 1 \"Nekroz\" monster from your Deck to the Graveyard, except \"Great Sorcerer of the Nekroz\". You can only use 1 \"Great Sorcerer of the Nekroz\" effect per turn, and only once that turn.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Divinemirror",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Brionac",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": 800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

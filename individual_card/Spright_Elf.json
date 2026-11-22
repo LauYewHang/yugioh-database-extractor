@@ -1,0 +1,22 @@
+{
+    "name": "Spright Elf",
+    "filename": "Spright_Elf",
+    "card_text": "2 monsters, including a Level/Rank/Link 2 monster\nCannot be used as Link Material the turn it is Link Summoned. Your opponent cannot target monsters this card points to with card effects. During the Main Phase (Quick Effect): You can target 1 Level 2 monster in your GY, or, if your opponent controls a monster, you can target 1 Rank/Link 2 monster instead; Special Summon it. You can only use this effect of \"Spright Elf\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Spright Blue",
+        "Spright Jet",
+        "Spright Smashers",
+        "Spright Starter"
+    ],
+    "attribute": "FIRE",
+    "attack": 1400,
+    "defense": null,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

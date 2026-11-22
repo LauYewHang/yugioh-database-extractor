@@ -1,0 +1,31 @@
+{
+    "name": "Cynet Codec",
+    "filename": "Cynet_Codec",
+    "card_text": "If a \"Code Talker\" monster(s) is Special Summoned from the Extra Deck to your field (except during the Damage Step): You can target 1 of those monsters; add 1 Cyberse monster with the same Attribute from your Deck to your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Cyberse monsters (even if this card leaves the field). You cannot add other monsters with that same Attribute to your hand by the effect of \"Cynet Codec\" this turn, and you can only activate the effect of \"Cynet Codec\" once per Chain.",
+    "release_date": "2019-08-20",
+    "available_set": [
+        "TOON CHAOS",
+        "Legacy of the Duelist Link Evolution"
+    ],
+    "related_card": [
+        "Accesscode Talker",
+        "Allied Code Talker @Ignister",
+        "Code Talker",
+        "Code Talker Inverted",
+        "Cyberse Reminder",
+        "Decode Talker",
+        "Decode Talker Extended",
+        "Decode Talker Heatsoul",
+        "Decode Talker Integration",
+        "Encode Talker",
+        "Excode Talker",
+        "Firewall Phantom",
+        "Micro Coder",
+        "Powercode Talker",
+        "Protectcode Talker",
+        "Shootingcode Talker",
+        "Transcode Talker"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Dinowrestler Martial Anga",
+    "filename": "Dinowrestler_Martial_Anga",
+    "card_text": "During damage calculation, when your \"Dinowrestler\" monster battles a monster with an equal or higher ATK (Quick Effect): You can send this card from your hand to the GY; your battling monster cannot be destroyed by that battle, also end the Battle Phase after the Damage Step. Once per turn, during the End Phase, if this card is in the GY because it was sent there to activate this effect this turn, and your opponent controls more monsters than you do: You can Special Summon this card.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Dinowrestler Capaptera",
+        "Dinowrestler Capoeiraptor",
+        "Dinowrestler Chimera T Wrextle",
+        "Dinowrestler Coelasilat",
+        "Dinowrestler Eskrimamenchi",
+        "Dinowrestler Giga Spinosavate",
+        "Dinowrestler Iguanodraka",
+        "Dinowrestler King T Wrextle",
+        "Dinowrestler Martial Ampelo",
+        "Dinowrestler Martial Ankylo",
+        "Dinowrestler Pankratops",
+        "Dinowrestler Rambrachio",
+        "Dinowrestler Systegosaur",
+        "Dinowrestler Terra Parkourio",
+        "Dinowrestler Valeonyx",
+        "Gouki Gameface",
+        "Tyrant Dino Fusion",
+        "World Dino Wrestling"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

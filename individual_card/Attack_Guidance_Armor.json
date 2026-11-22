@@ -1,0 +1,12 @@
+{
+    "name": "Attack Guidance Armor",
+    "filename": "Attack_Guidance_Armor",
+    "card_text": "When a monster declares an attack: Activate 1 of these effects;\n\u25cfDestroy the attacking monster.\n\u25cfTarget 1 monster on either field, except the attacking monster; change the attack target to it and perform damage calculation.\nYou can only activate 1 \"Attack Guidance Armor\" per turn.",
+    "release_date": "2024-03-01",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

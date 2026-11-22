@@ -1,0 +1,22 @@
+{
+    "name": "Herald of Perfection",
+    "filename": "Herald_of_Perfection",
+    "card_text": "You can Ritual Summon this card with \"Dawn of the Herald\". When your opponent activates a Spell/Trap Card, or monster effect (Quick Effect): You can send 1 Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS",
+        "QUARTER CENTURY BONANZA",
+        "GOLD SERIES HAUNTED MINE",
+        "PREMIUM GOLD: RETURN OF THE BLING"
+    ],
+    "related_card": [
+        "Dawn of the Herald"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 2800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Future Glow",
+    "filename": "Future_Glow",
+    "card_text": "Activate this card by banishing 1 Psychic-Type monster from your Graveyard, and note its Level; all Psychic-Type monsters you control gain ATK equal to that Level x 200.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "HIGH-SPEED RIDERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

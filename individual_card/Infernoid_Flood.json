@@ -1,0 +1,43 @@
+{
+    "name": "Infernoid Flood",
+    "filename": "Infernoid_Flood",
+    "card_text": "2+ monsters, including an \"Infernoid\" monster\nWhen your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute 1 monster; negate the Summon, and if you do, banish that monster(s). If a card(s) is banished from your GY (except during the Damage Step): You can banish 1 card on the field. If this Link Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 \"Infernoid\" monster from your Deck, ignoring its Summoning conditions. You can only use each effect of \"Infernoid Flood\" once per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Eye of the Void",
+        "Infernoid Antra",
+        "Infernoid Attondel",
+        "Infernoid Decatron",
+        "Infernoid Devyaty",
+        "Infernoid Evil",
+        "Infernoid Harmadik",
+        "Infernoid Onuncu",
+        "Infernoid Patrulea",
+        "Infernoid Piaty",
+        "Infernoid Pirmais",
+        "Infernoid Seitsemas",
+        "Infernoid Sjette",
+        "Infernoid Tierra",
+        "Void Apocalypse",
+        "Void Breach",
+        "Void Expansion",
+        "Void Feast",
+        "Void Imagination",
+        "Void Launch",
+        "Void Purification",
+        "Void Reignition",
+        "Void Seer",
+        "Void Unleashing",
+        "Void Vanishment"
+    ],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 270
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Dark Cure",
+    "filename": "Dark_Cure",
+    "card_text": "When your opponent Summons a monster(s), they gain Life Points equal to half the ATK of 1 of the Summoned monsters of your choice.",
+    "release_date": "2008-01-08",
+    "available_set": [
+        "Yu-Gi-Oh! GX The Beginning of Destiny Bundles"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

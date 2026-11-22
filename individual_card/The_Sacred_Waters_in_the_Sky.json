@@ -1,0 +1,41 @@
+{
+    "name": "The Sacred Waters in the Sky",
+    "filename": "The_Sacred_Waters_in_the_Sky",
+    "card_text": "Activate 1 \"The Sanctuary in the Sky\" directly from your Deck, or add 1 monster that mentions \"The Sanctuary in the Sky\" from your Deck to your hand, then, if \"The Sanctuary in the Sky\" is on the field or in either GY, you can gain 500 LP for each \"Hyperion\" and \"The Agent\" monster you control. If your monster that mentions \"The Sanctuary in the Sky\" would be destroyed by battle, you can banish this card from your GY instead. You can only use each effect of \"The Sacred Waters in the Sky\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Archlord Zerato",
+        "Celestial Knightlord Parshath",
+        "Divine Punishment",
+        "Fallen Sanctuary",
+        "Light of Judgment",
+        "Majesty Hyperion",
+        "Master Hyperion",
+        "Masterflare Hyperion",
+        "Meltiel, Sage of the Sky",
+        "Minerva, Scholar of the Sky",
+        "Neo-Parshath, the Sky Paladin",
+        "Nova Summoner",
+        "Protector of The Agents - Moon",
+        "Radiant Jeral",
+        "The Agent of Creation - Venus",
+        "The Agent of Destruction - Venus",
+        "The Agent of Entropy - Uranus",
+        "The Agent of Force - Mars",
+        "The Agent of Judgment - Saturn",
+        "The Agent of Life - Neptune",
+        "The Agent of Miracles - Jupiter",
+        "The Agent of Mystery - Earth",
+        "The Agent of Wisdom - Mercury",
+        "The Chorus in the Sky",
+        "The Executor of the Underworld - Pluto",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath",
+        "Zeradias, Herald of Heaven"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

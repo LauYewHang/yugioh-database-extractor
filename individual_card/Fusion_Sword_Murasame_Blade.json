@@ -1,0 +1,37 @@
+{
+    "name": "Fusion Sword Murasame Blade",
+    "filename": "Fusion_Sword_Murasame_Blade",
+    "card_text": "Equip only to a Warrior monster. It gains 800 ATK. While equipped to a monster, this card cannot be destroyed by card effects.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "LEGACY OF DARKNESS",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

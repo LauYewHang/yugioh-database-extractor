@@ -1,0 +1,24 @@
+{
+    "name": "The Flute of Summoning Kuriboh",
+    "filename": "The_Flute_of_Summoning_Kuriboh",
+    "card_text": "Take 1 \"Kuriboh\" or 1 \"Winged Kuriboh\" from your Deck, and either add it to your hand or Special Summon it.",
+    "release_date": "2006-12-26",
+    "available_set": [
+        "Promotional Cards 2",
+        "RA YELLOW MEGA PACK",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "DUEL TERMINAL 4",
+        "ADVENT CALENDAR 2019"
+    ],
+    "related_card": [
+        "Generation Next",
+        "Kuribee",
+        "Kuriboh",
+        "Kuribohrn",
+        "Skilled Brown Magician",
+        "Winged Kuriboh"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

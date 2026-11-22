@@ -1,0 +1,30 @@
+{
+    "name": "Cubic Causality",
+    "filename": "Cubic_Causality",
+    "card_text": "Distribute a number of Cubic Counters on face-up monsters your opponent controls, up to the number of \"Cubic\" monsters you control. (Monsters with a Cubic Counter cannot attack, also negate their effects.) You can banish this card from your GY, then target 1 \"Cubic\" monster you control; this turn, each time it destroys a monster by battle that has a Cubic Counter, inflict damage to your opponent equal to the original ATK of that destroyed monster. You can only use each effect of \"Cubic Causality\" once per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Blade Garoodia the Cubic Beast",
+        "Buster Gundil the Cubic Behemoth",
+        "Crimson Nova the Dark Cubic Lord",
+        "Crimson Nova Trinity the Dark Cubic Lord",
+        "Cubic Ascension",
+        "Cubic Dharma",
+        "Cubic Karma",
+        "Cubic Mandala",
+        "Cubic Rebirth",
+        "Cubic Wave",
+        "Dark Garnex the Cubic Beast",
+        "Duza the Meteor Cubic Vessel",
+        "Geira Guile the Cubic King",
+        "Indiora Doom Volt the Cubic Emperor",
+        "Unification of the Cubic Lords",
+        "Vijam the Cubic Seed",
+        "Vulcan Dragni the Cubic King"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

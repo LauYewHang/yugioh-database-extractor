@@ -1,0 +1,19 @@
+{
+    "name": "Puppet Pawn",
+    "filename": "Puppet_Pawn",
+    "card_text": "This card can attack directly. You can only use each of the following effects of \"Puppet Pawn\" once per turn. When this card inflicts battle damage to your opponent: You can add 1 \"Promotion\" from your Deck to your hand. You can banish this card from your GY; add 1 EARTH Warrior monster from your Deck to your hand, except \"Puppet Pawn\", then your opponent can add 1 monster from their Deck to their hand.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Promotion"
+    ],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

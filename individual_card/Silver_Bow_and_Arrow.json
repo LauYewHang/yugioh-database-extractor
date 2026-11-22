@@ -1,0 +1,13 @@
+{
+    "name": "Silver Bow and Arrow",
+    "filename": "Silver_Bow_and_Arrow",
+    "card_text": "A Fairy-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

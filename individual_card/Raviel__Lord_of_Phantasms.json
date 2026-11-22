@@ -1,0 +1,39 @@
+{
+    "name": "Raviel, Lord of Phantasms",
+    "filename": "Raviel__Lord_of_Phantasms",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 Fiend monsters. Each time your opponent Normal Summons a monster: Special Summon 1 \"Phantasm Token\" (Fiend/DARK/Level 1/ATK 1000/DEF 1000), but it cannot declare an attack. Once per turn: You can Tribute 1 monster; this card gains ATK equal to the Tributed monster's original ATK, until the end of this turn.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STRUCTURE DECK: SACRED BEASTS",
+        "DARK REVELATION Volume 4",
+        "COLLECTIBLE TIN SERIES 3 WAVE 1",
+        "SHADOW OF INFINITY",
+        "2021 TIN OF ANCIENT BATTLES",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Armityle the Chaos Phantasm (Updated from: Armityle the Chaos Phantom)",
+        "Armityle the Chaos Phantasm - Phantom of Fury",
+        "Awakening of the Sacred Beasts",
+        "Cerulean Skyfire",
+        "Chaos Core",
+        "Chaos Summoning Beast",
+        "Dark Beckoning Beast",
+        "Dark Summoning Beast",
+        "Dimension Fusion Destruction",
+        "Fallen Paradise",
+        "Hyper Blaze",
+        "Opening of the Spirit Gates",
+        "Phantasmal Summoning Beast",
+        "Raviel, Lord of Phantasms - Shimmering Scraper"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

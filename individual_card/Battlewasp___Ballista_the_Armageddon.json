@@ -1,0 +1,29 @@
+{
+    "name": "Battlewasp - Ballista the Armageddon",
+    "filename": "Battlewasp___Ballista_the_Armageddon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can banish all Insect monsters from your GY; all monsters your opponent currently controls lose 500 ATK/DEF for each of your banished Insect monsters. If this card attacks a Defense Position monster, inflict piercing battle damage. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 3 of your banished Level 11 or lower Insect monsters.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Nest",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 3000,
+    "defense": 800,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

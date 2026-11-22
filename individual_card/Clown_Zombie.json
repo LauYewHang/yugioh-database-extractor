@@ -1,0 +1,18 @@
+{
+    "name": "Clown Zombie",
+    "filename": "Clown_Zombie",
+    "card_text": "A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "TOURNAMENT PACK 6",
+        "SPEED DUEL: ARENA OF LOST SOULS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1350,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Generaider Boss Stage",
+    "filename": "Generaider_Boss_Stage",
+    "card_text": "Once per turn, if a card(s) is added from the Main Deck to your opponent's hand (except during the Damage Step): You can Special Summon 1 \"Generaider\" monster from your Deck in Defense Position. If you Special Summon a \"Generaider\" monster(s) during your opponent's turn (except during the Damage Step): You can Special Summon as many \"Generaider Tokens\" (Fairy/LIGHT/Level 4/ATK 1500/DEF 1500) as possible in Attack Position, but destroy them during the End Phase (even if this card leaves the field). You can only use this effect of \"Generaider Boss Stage\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Dovelgus, Generaider Boss of Iron",
+        "Frodi, Generaider Boss of Swords",
+        "Generaider Boss Bite",
+        "Generaider Boss Fight",
+        "Generaider Boss Loot",
+        "Generaider Boss Quest",
+        "Generaider Boss Room",
+        "Harr, Generaider Boss of Storms",
+        "Hela, Generaider Boss of Doom",
+        "Jormungandr, Generaider Boss of Eternity",
+        "Laevatein, Generaider Boss of Shadows",
+        "Loptr, Shadow of the Generaider Bosses",
+        "Mardel, Generaider Boss of Light",
+        "Naglfar, Generaider Boss of Fire",
+        "Nidhogg, Generaider Boss of Ice",
+        "Utgarda, Generaider Boss of Delusion",
+        "Vala, Seidhr of the Generaider Bosses"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

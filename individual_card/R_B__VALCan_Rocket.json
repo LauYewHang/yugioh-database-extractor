@@ -1,0 +1,31 @@
+{
+    "name": "R.B. VALCan Rocket",
+    "filename": "R_B__VALCan_Rocket",
+    "card_text": "If you control no face-up monsters, or the only face-up monsters you control are \"R.B.\" monsters, you can Special Summon this card (from your hand). You can only Special Summon \"R.B. VALCan Rocket\" once per turn this way. If this card is linked to an \"R.B.\" Link Monster: You can pay 1000 LP, then target up to 2 cards your opponent controls; destroy them, also this card, and if you do, inflict 500 damage to your opponent for each card destroyed. You can only use this effect of \"R.B. VALCan Rocket\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "R.B. Funk Dock",
+        "R.B. Ga10 Cutter",
+        "R.B. Ga10 Driller",
+        "R.B. Ga10 Pile Bunker",
+        "R.B. Lambda Blade",
+        "R.B. Lambda Cannon",
+        "R.B. Last Stand",
+        "R.B. Next Phase",
+        "R.B. Operation Test",
+        "R.B. Shepherd's Crook",
+        "R.B. Stage Landing",
+        "R.B. The Brute Blues",
+        "R.B. VALCan Booster"
+    ],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

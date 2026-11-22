@@ -1,0 +1,42 @@
+{
+    "name": "Meklord Astro Mekanikle",
+    "filename": "Meklord_Astro_Mekanikle",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 \"Meklord\" monsters from your hand to the GY. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. Once per turn, during your Standby Phase: You can send 1 of these equipped monsters you control to the GY; inflict damage to your opponent equal to that monster's original ATK. You cannot conduct your Battle Phase the turn you activate this effect.",
+    "release_date": "2011-05-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2011 Qualifier",
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "SHONEN JUMP Subscription Promotional Card - June/July 2011 -"
+    ],
+    "related_card": [
+        "Boon of the Meklord Emperor",
+        "Chaos Infinity",
+        "Meklord Army Deployer Obbligato",
+        "Meklord Army of Granel",
+        "Meklord Army of Skiel",
+        "Meklord Army of Wisel",
+        "Meklord Assembly",
+        "Meklord Astro Dragon Asterisk",
+        "Meklord Astro Dragon Triskelion",
+        "Meklord Astro the Eradicator",
+        "Meklord Deflection",
+        "Meklord Emperor Granel",
+        "Meklord Emperor Skiel",
+        "Meklord Emperor Wisel",
+        "Meklord Emperor Wisel - Synchro Absorption",
+        "Meklord Factory",
+        "Meklord Fortress",
+        "Meklord Nucleus Infinity Core",
+        "Mektimed Blast",
+        "Reboot",
+        "The Resolute Meklord Army"
+    ],
+    "attribute": "LIGHT",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

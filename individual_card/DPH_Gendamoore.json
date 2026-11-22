@@ -1,0 +1,18 @@
+{
+    "name": "DPH Gendamoore",
+    "filename": "DPH_Gendamoore",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can Special Summon 1 Level 4 Cyberse monster from your GY in Defense Position, but negate its effects, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. When your Cyberse monster battles an opponent's monster and inflicts battle damage to them: You can banish this card from your GY; inflict that much damage to your opponent. You can only use each effect of \"DPH Gendamoore\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2000,
+    "defense": 2800,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

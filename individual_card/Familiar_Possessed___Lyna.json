@@ -1,0 +1,35 @@
+{
+    "name": "Familiar-Possessed - Lyna",
+    "filename": "Familiar_Possessed___Lyna",
+    "card_text": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" you control and 1 face-up LIGHT monster you control to the GY. When Summoned this way: You can add 1 Spellcaster monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS",
+        "2018 MEGA-TINS MEGA PACK",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Aussa the Earth Charmer, Immovable",
+        "Awakening of the Possessed",
+        "Charmers of the Grand Circle",
+        "Dharc the Dark Charmer, Gloomy",
+        "Eria the Water Charmer, Gentle",
+        "Hiita the Fire Charmer, Ablaze",
+        "Lyna the Light Charmer",
+        "Lyna the Light Charmer, Lustrous",
+        "Possessed Destiny",
+        "Possessed Destiny - Wynn",
+        "Spellbook of the Grand Circle",
+        "Spirit Charmers",
+        "Spiritual Art Familiars",
+        "Unpossessed",
+        "Wynn the Wind Charmer, Verdant"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1850,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

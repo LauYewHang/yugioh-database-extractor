@@ -1,0 +1,22 @@
+{
+    "name": "Shooting Quasar Dragon",
+    "filename": "Shooting_Quasar_Dragon",
+    "card_text": "1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters\nMust be Synchro Summoned. Can attack a number of times each Battle Phase, up to the number of non-Tuners used for its Synchro Summon. Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy it. When this face-up card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
+    "release_date": "2014-10-24",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "SHONEN JUMP Subscription Promotional Card - December 2011 -",
+        "RARITY COLLECTION 5",
+        "LEGENDARY COLLECTION 5D's"
+    ],
+    "related_card": [
+        "Shooting Star Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

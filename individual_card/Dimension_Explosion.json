@@ -1,0 +1,12 @@
+{
+    "name": "Dimension Explosion",
+    "filename": "Dimension_Explosion",
+    "card_text": "Return 1 face-up Fusion Monster you control to the Extra Deck. Both players select up to 2 of their monsters that are removed from play, and Special Summon them.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

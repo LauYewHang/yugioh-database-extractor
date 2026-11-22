@@ -1,0 +1,16 @@
+{
+    "name": "Battleguard Echoes",
+    "filename": "Battleguard_Echoes",
+    "card_text": "When this card is activated: You can add 1 Level 5 EARTH Warrior monster from your Deck to your hand, then discard 1 card. Once per turn, if a monster(s) is returned from the field to the hand, even during the Damage Step: You can activate 1 of these effects;\n\u25cfAdd 1 \"Battleguard Rage\" or \"Battleguard Howling\" from your Deck to your hand.\n\u25cfChange 1 face-up monster on the field to face-down Defense Position.\nYou can only activate 1 \"Battleguard Echoes\" per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Battleguard Cadet",
+        "Battleguard Howling",
+        "Battleguard Rage"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Zoodiac Whiptail",
+    "filename": "Zoodiac_Whiptail",
+    "card_text": "(Quick Effect): You can target 1 Beast-Warrior Xyz Monster you control; attach this card from your hand or field to it as material. An Xyz Monster whose original Type is Beast-Warrior and has this card as material gains this effect.\n\u25cfIf this card battles an opponent's monster, after damage calculation: Banish that opponent's monster.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 5",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Zodiac Sign",
+        "Zoodiac Barrage",
+        "Zoodiac Boarbow",
+        "Zoodiac Broadbull",
+        "Zoodiac Bunnyblast",
+        "Zoodiac Chakanine",
+        "Zoodiac Combo",
+        "Zoodiac Drident",
+        "Zoodiac Gathering",
+        "Zoodiac Hammerkong",
+        "Zoodiac Kataroost",
+        "Zoodiac Ramram",
+        "Zoodiac Ratpier",
+        "Zoodiac Thoroughblade",
+        "Zoodiac Tigermortar"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 400,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

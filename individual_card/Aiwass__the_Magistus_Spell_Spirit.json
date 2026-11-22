@@ -1,0 +1,39 @@
+{
+    "name": "Aiwass, the Magistus Spell Spirit",
+    "filename": "Aiwass__the_Magistus_Spell_Spirit",
+    "card_text": "1 \"Magistus\" monster + 1 Spellcaster monster\nWhile this card is an Equip Card, the equipped monster gains 1000 ATK/DEF. During the Main Phase (Quick Effect): You can target 1 other face-up monster on the field; equip this card you control to it. If this card was equipped to an opponent's monster by this effect, take control of the equipped monster, also it cannot activate its effects. You can only use this effect of \"Aiwass, the Magistus Spell Spirit\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 2800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

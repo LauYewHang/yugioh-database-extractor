@@ -1,0 +1,26 @@
+{
+    "name": "Hecahands Bait",
+    "filename": "Hecahands_Bait",
+    "card_text": "You can Tribute 1 \"Hecahands\" monster, or 1 monster you control that is owned by your opponent; take control of 1 monster your opponent controls. You can only use this effect of \"Hecahands Bait\" once per turn. Once per turn, during your End Phase: Send 1 card you control to the GY.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Hecahands Breus",
+        "Hecahands Dandalos",
+        "Hecahands Gaigas",
+        "Hecahands Godos",
+        "Hecahands Ibtel",
+        "Hecahands Jauzah",
+        "Hecahands Mankibuel",
+        "Hecahands Tartaros",
+        "Hecahands Xeno",
+        "Hecahands Yadel",
+        "Ib'al-Hecahands",
+        "The Hidden Hecahands",
+        "Yad'al-Hecahands"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

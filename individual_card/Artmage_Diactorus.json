@@ -1,0 +1,37 @@
+{
+    "name": "Artmage Diactorus",
+    "filename": "Artmage_Diactorus",
+    "card_text": "\"Medius the Pure\" + 1 \"Artmage\" monster\nYou can target 1 monster on the field; change its battle position. When your opponent activates a card or effect on the field, if you have 3 or more different Monster Types on your field (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Fusion Summoned card is destroyed: You can Special Summon 1 \"Medius the Pure\" from your hand, Deck, or banishment. You can only use each effect of \"Artmage Diactorus\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Artmage Academic Arcane Arts Acropolis",
+        "Artmage Finmel",
+        "Artmage Graflare",
+        "Artmage Impasto -Recapture-",
+        "Artmage Litera",
+        "Artmage Masterwork -Succession-",
+        "Artmage Movement -Pedigree-",
+        "Artmage Non-Finito",
+        "Artmage Pact -Awakening-",
+        "Artmage Peripeteia -Turmoil-",
+        "Artmage Power Patron",
+        "Artmage Vandalism -Assault-",
+        "Artmage Varnish -Alteration-",
+        "Medius the Pure",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Theorealize Past Lull",
+        "Theorealized Medius"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2500,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

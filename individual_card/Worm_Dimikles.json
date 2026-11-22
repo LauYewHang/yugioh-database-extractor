@@ -1,0 +1,33 @@
+{
+    "name": "Worm Dimikles",
+    "filename": "Worm_Dimikles",
+    "card_text": "FLIP: This card gains 300 ATK and DEF.",
+    "release_date": "2009-11-10",
+    "available_set": [
+        "HIDDEN ARSENAL",
+        "DUEL TERMINAL 1"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1400,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

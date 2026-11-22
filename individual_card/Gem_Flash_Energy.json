@@ -1,0 +1,20 @@
+{
+    "name": "Gem Flash Energy",
+    "filename": "Gem_Flash_Energy",
+    "card_text": "During each of your Standby Phases, inflict damage to your opponent equal to the number of face-up Continuous Spell Cards on the field x 300.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER"
+    ],
+    "related_card": [
+        "Gem-Knight Dispersion",
+        "Gem-Knight Iolite",
+        "Gem-Knight Master Diamond",
+        "Gem-Knight Master Diamond Dispersion",
+        "Gem-Knight Nepyrim",
+        "Gem-Knight Phantom Quartz",
+        "Gem-Knight Ruby"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

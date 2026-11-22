@@ -1,0 +1,22 @@
+{
+    "name": "Spell Canceller",
+    "filename": "Spell_Canceller",
+    "card_text": "Spell Cards, and their effects on the field, cannot be activated. Negate all Spell effects on the field.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "Speed Duel: Battle City Box",
+        "DARK REVELATION Volume 1",
+        "Duel Devastator",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

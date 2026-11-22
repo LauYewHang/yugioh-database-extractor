@@ -1,0 +1,37 @@
+{
+    "name": "S-Force Nightcatcher",
+    "filename": "S_Force_Nightcatcher",
+    "card_text": "2 monsters, including an \"S-Force\" monster\nIf this card is Special Summoned: You can add 1 \"S-Force\" Spell/Trap from your Deck to your hand. (Quick Effect): You can banish this card you control and 1 \"S-Force\" card in your hand; Special Summon 1 \"S-Force\" monster from your Deck/Extra Deck, except \"S-Force Nightcatcher\". You can only use each effect of \"S-Force Nightcatcher\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 80
+}

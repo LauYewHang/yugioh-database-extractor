@@ -1,0 +1,22 @@
+{
+    "name": "Fantastical Dragon Phantazmay",
+    "filename": "Fantastical_Dragon_Phantazmay",
+    "card_text": "If your opponent Special Summons a Link Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, draw cards equal to the number of Link Monsters your opponent controls +1, then shuffle cards from your hand into the Deck equal to the number of Link Monsters they control. When your opponent activates a card or effect that targets a monster(s) you control (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. You can only use each effect of \"Fantastical Dragon Phantazmay\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "Gold Series: Maximum Gold",
+        "SAVAGE STRIKE",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "WINNER'S PACK 2026-2027",
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

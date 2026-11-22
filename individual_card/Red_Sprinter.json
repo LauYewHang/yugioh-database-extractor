@@ -1,0 +1,19 @@
+{
+    "name": "Red Sprinter",
+    "filename": "Red_Sprinter",
+    "card_text": "When this card is Normal or Special Summoned while you control no other monsters: You can Special Summon 1 Level 3 or lower Fiend Tuner from your hand or GY. You can only use this effect of \"Red Sprinter\" once per turn.",
+    "release_date": "2015-10-02",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "HIGH-SPEED RIDERS",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

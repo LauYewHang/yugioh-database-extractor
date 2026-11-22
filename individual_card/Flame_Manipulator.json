@@ -1,0 +1,24 @@
+{
+    "name": "Flame Manipulator",
+    "filename": "Flame_Manipulator",
+    "card_text": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\".",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DARK BEGINNING 1",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "STARTER DECK JOEY",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [
+        "Flame Swordsman"
+    ],
+    "attribute": "FIRE",
+    "attack": 900,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

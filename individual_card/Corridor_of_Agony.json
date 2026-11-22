@@ -1,0 +1,12 @@
+{
+    "name": "Corridor of Agony",
+    "filename": "Corridor_of_Agony",
+    "card_text": "Monsters that were Special Summoned from the Main Deck cannot activate their effects, their effects are negated, and they cannot declare an attack, as long as they remain face-up on the field.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

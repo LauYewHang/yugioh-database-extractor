@@ -1,0 +1,12 @@
+{
+    "name": "Soul Levy",
+    "filename": "Soul_Levy",
+    "card_text": "You can only control 1 \"Soul Levy\". Each time your opponent Special Summons a monster(s), send the top 3 cards of your opponent's Deck to the GY.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Hieratic Seal of the Sun Dragon Overlord",
+    "filename": "Hieratic_Seal_of_the_Sun_Dragon_Overlord",
+    "card_text": "A mysterious engraved Hieratic relic. It was thought to be a simple stone, but it was actually infused with the power of a sun-wielding dragon. Aeons passed, and the power of the relic grew and grew until it finally shone like the sun itself.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Hieratic Dragon of Asar",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Su",
+        "Hieratic Seal From the Ashes",
+        "Hieratic Seal of Banishment",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Creation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

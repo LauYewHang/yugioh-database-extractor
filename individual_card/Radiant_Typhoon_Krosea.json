@@ -1,0 +1,30 @@
+{
+    "name": "Radiant Typhoon Krosea",
+    "filename": "Radiant_Typhoon_Krosea",
+    "card_text": "Cannot be destroyed by battle or card effects while your opponent controls no Spells/Traps. You can only use each of the following effects of \"Radiant Typhoon Krosea\" once per turn. If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Radiant Typhoon\" card (except \"Radiant Typhoon Krosea\") and/or 1 \"Mystical Space Typhoon\" from your Deck and/or GY to your hand, also you cannot Special Summon for the rest of this turn, except WIND monsters.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Mystical Space Typhoon",
+        "Radiant Typhoon Ascendance",
+        "Radiant Typhoon Chant",
+        "Radiant Typhoon Eldam",
+        "Radiant Typhoon Fonix, the Great Flame",
+        "Radiant Typhoon Mandate",
+        "Radiant Typhoon Manifestation",
+        "Radiant Typhoon Meghala",
+        "Radiant Typhoon Swen",
+        "Radiant Typhoon Varuroon, the Marine Eidolon",
+        "Radiant Typhoon Varuroon, the Vibrant Vortex",
+        "Radiant Typhoon Vision"
+    ],
+    "attribute": "WIND",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Full-Armored Xyz",
+    "filename": "Full_Armored_Xyz",
+    "card_text": "If an Xyz Monster(s) is on the field: Immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control. You can banish this card from your GY, then target 1 Xyz Monster you control; equip 1 other Xyz Monster from your face-up field or GY to that monster as an Equip Spell with the following effects.\n\u25cfThe equipped monster gains ATK equal to this card's ATK.\n\u25cfIf the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "OTS TOURNAMENT PACK 25"
+    ],
+    "related_card": [
+        "Armored Shark",
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Reincarnation Unveiling Mail",
+        "Xyz Armor Fortress",
+        "Xyz Entrust",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

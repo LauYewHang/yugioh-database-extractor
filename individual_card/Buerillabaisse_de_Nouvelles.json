@@ -1,0 +1,35 @@
+{
+    "name": "Buerillabaisse de Nouvelles",
+    "filename": "Buerillabaisse_de_Nouvelles",
+    "card_text": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can excavate the top 5 cards of your Deck, and if you do, you can add 1 excavated \"Nouvelles\" card to your hand, also shuffle the rest into the Deck. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Tribute this card and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 2 or 3 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Buerillabaisse de Nouvelles\" once per turn.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Baelgrill de Nouvelles",
+        "Balameuniere de Nouvelles",
+        "Chef de Nouvelles",
+        "Chef's Special Recipe",
+        "Concours de Cuisine (Culinary Confrontation)",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Hamburger Recipe",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Personnel (Staff Recipe)",
+        "Recette de Poisson (Fish Recipe)",
+        "Recette de Viande (Meat Recipe)",
+        "Voici la Carte (Today's Menu)"
+    ],
+    "attribute": "DARK",
+    "attack": 400,
+    "defense": 1850,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

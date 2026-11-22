@@ -1,0 +1,41 @@
+{
+    "name": "Karakuri Strategist mdl 248 \"Nishipachi\"",
+    "filename": "Karakuri_Strategist_mdl_248__Nishipachi_",
+    "card_text": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is Normal or Special Summoned, select 1 monster on the field, and change its battle position.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [
+        "Golden Gearbox",
+        "Karakuri Anatomy",
+        "Karakuri Bonze mdl 9763 \"Kunamzan\"",
+        "Karakuri Bushi mdl 6318 \"Muzanichiha\"",
+        "Karakuri Cash Cache",
+        "Karakuri Cash Inn",
+        "Karakuri Cash Shed",
+        "Karakuri Gama mdl 4624 \"Shirokunishi\"",
+        "Karakuri Gama Oil",
+        "Karakuri Gold Dust",
+        "Karakuri Klock",
+        "Karakuri Komachi mdl 224 \"Ninishi\"",
+        "Karakuri Merchant mdl 177 \"Inashichi\"",
+        "Karakuri Ninja mdl 7749 \"Nanashick\"",
+        "Karakuri Ninja mdl 919 \"Kuick\"",
+        "Karakuri Shogun mdl 00 \"Burei\"",
+        "Karakuri Showdown Castle",
+        "Karakuri Soldier mdl 236 \"Nisamu\"",
+        "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+        "Karakuri Super Shogun mdl 00N \"Bureibu\"",
+        "Karakuri Trick House",
+        "Karakuri Watchdog mdl 313 \"Saizan\"",
+        "Runaway Karakuri"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

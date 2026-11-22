@@ -1,0 +1,22 @@
+{
+    "name": "Pandemonium Watchbear",
+    "filename": "Pandemonium_Watchbear",
+    "card_text": "As long as this card remains face-up on your side of the field, \"Pandemonium\" on your side of the field is not destroyed by your opponent's card effects.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [
+        "Pandemonium"
+    ],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 1800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

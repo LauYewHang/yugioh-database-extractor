@@ -1,0 +1,19 @@
+{
+    "name": "Machine King Prototype",
+    "filename": "Machine_King_Prototype",
+    "card_text": "This card gains 100 ATK and DEF for each Machine-Type monster on the field, except this card.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

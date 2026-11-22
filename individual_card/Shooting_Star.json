@@ -1,0 +1,37 @@
+{
+    "name": "Shooting Star",
+    "filename": "Shooting_Star",
+    "card_text": "If a \"Stardust\" monster is on the field: Target 1 card on the field; destroy that target.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND"
+    ],
+    "related_card": [
+        "Accel Synchro Stardust Dragon",
+        "Malefic Stardust Dragon",
+        "Stardust Assault Warrior",
+        "Stardust Charge Warrior",
+        "Stardust Chronicle Spark Dragon",
+        "Stardust Divinity",
+        "Stardust Dragon",
+        "Stardust Dragon - Victim Sanctuary",
+        "Stardust Dragon/Assault Mode",
+        "Stardust Flash",
+        "Stardust Illumination",
+        "Stardust Mirage",
+        "Stardust Phantom",
+        "Stardust Re-Spark",
+        "Stardust Sifr Divine Dragon",
+        "Stardust Spark Dragon",
+        "Stardust Synchron",
+        "Stardust Trail",
+        "Stardust Warrior",
+        "Stardust Wish",
+        "Stardust Wurm",
+        "Stardust Xiaolong",
+        "Starduston"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

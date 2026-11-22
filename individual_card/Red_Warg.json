@@ -1,0 +1,39 @@
+{
+    "name": "Red Warg",
+    "filename": "Red_Warg",
+    "card_text": "When you Normal Summon a \"Resonator\" monster: You can Special Summon this card from your hand, but its ATK becomes halved.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Chain Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Red Resonator",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Vision Resonator"
+    ],
+    "attribute": "FIRE",
+    "attack": 1400,
+    "defense": 2200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

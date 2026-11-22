@@ -1,0 +1,33 @@
+{
+    "name": "Prank-Kids Fansies",
+    "filename": "Prank_Kids_Fansies",
+    "card_text": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can send 1 \"Prank-Kids\" card from your Deck to the GY, except \"Prank-Kids Fansies\", then you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Fansies\". You can only use this effect of \"Prank-Kids Fansies\" once per turn.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Prank-Kids Battle Butler",
+        "Prank-Kids Bow-Wow-Bark",
+        "Prank-Kids Dodo-Doodle-Doo",
+        "Prank-Kids Dropsies",
+        "Prank-Kids Lampsies",
+        "Prank-Kids Meow-Meow-Mu",
+        "Prank-Kids Pandemonium",
+        "Prank-Kids Place",
+        "Prank-Kids Plan",
+        "Prank-Kids Pranks",
+        "Prank-Kids Rip-Roarin-Roaster",
+        "Prank-Kids Rocket Ride",
+        "Prank-Kids Rocksies",
+        "Prank-Kids Weather Washer"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Psychic Shockwave",
+    "filename": "Psychic_Shockwave",
+    "card_text": "When your opponent activates a Trap Card: Discard 1 Spell/Trap; Special Summon 1 Level 6 DARK Machine monster from your Deck.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "EXTREME VICTORY",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

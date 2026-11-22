@@ -1,0 +1,12 @@
+{
+    "name": "High Tide on Fire Island",
+    "filename": "High_Tide_on_Fire_Island",
+    "card_text": "If you control a Level 7 or higher WATER or FIRE monster: Apply the appropriate effects, in sequence, depending on the Attributes of monsters you control at that time.\n\u25cfWATER: Special Summon as many WATER monsters as possible that were sent to your Graveyard to activate monster effects this turn, then destroy 1 monster you control.\n\u25cfFIRE: Destroy 1 monster on the field, then if you have any cards in your hand, discard 1 card to the Graveyard.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

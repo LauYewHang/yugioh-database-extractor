@@ -1,0 +1,16 @@
+{
+    "name": "Dragon's Rage",
+    "filename": "Dragon_s_Rage",
+    "card_text": "If your Dragon monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

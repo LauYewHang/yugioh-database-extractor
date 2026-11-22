@@ -1,0 +1,33 @@
+{
+    "name": "Adamancipator Risen - Dragite",
+    "filename": "Adamancipator_Risen___Dragite",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nDuring your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can return cards your opponent controls to the hand, up to the number of excavated Rock monsters, also place the excavated cards on the bottom of your Deck in any order. When your opponent activates a Spell/Trap Card or effect, while a WATER monster is in your GY (Quick Effect): You can negate the activation, and if you do, destroy it. You can only use each effect of \"Adamancipator Risen - Dragite\" once per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "2021 TIN OF ANCIENT BATTLES",
+        "OTS TOURNAMENT PACK 25"
+    ],
+    "related_card": [
+        "Adamancipator Conductor",
+        "Adamancipator Crystal - Dragite",
+        "Adamancipator Crystal - Leonite",
+        "Adamancipator Crystal - Raptite",
+        "Adamancipator Crystal - Tiamite",
+        "Adamancipator Laputite",
+        "Adamancipator Mates",
+        "Adamancipator Relief",
+        "Adamancipator Resonance",
+        "Adamancipator Risen - Leonite",
+        "Adamancipator Risen - Tiamite",
+        "Adamancipator Seeker",
+        "Adamancipator Signs"
+    ],
+    "attribute": "WATER",
+    "attack": 3000,
+    "defense": 2200,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

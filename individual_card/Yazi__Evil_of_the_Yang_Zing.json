@@ -1,0 +1,39 @@
+{
+    "name": "Yazi, Evil of the Yang Zing",
+    "filename": "Yazi__Evil_of_the_Yang_Zing",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nYour opponent cannot target this card on the field with card effects. You can only use each of these effects of \"Yazi, Evil of the Yang Zing\" once per turn.\n\u25cfYou can target 1 \"Yang Zing\" monster you control and 1 card your opponent controls; destroy them.\n\u25cfWhen this card you control is destroyed by battle or card effect and sent to your GY: You can Special Summon 1 Wyrm monster from your Deck in Defense Position.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 17",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "Baxia, Brightness of the Yang Zing",
+        "Bi'an, Earth of the Yang Zing",
+        "Bixi, Water of the Yang Zing",
+        "Chaofeng, Phantom of the Yang Zing",
+        "Chiwen, Light of the Yang Zing",
+        "Denglong, First of the Yang Zing",
+        "Jiaotu, Darkness of the Yang Zing",
+        "Nine Pillars of Yang Zing",
+        "Pulao, Wind of the Yang Zing",
+        "Suanni, Fire of the Yang Zing",
+        "Taotie, Shadow of the Yang Zing",
+        "Yang Zing Brutality",
+        "Yang Zing Creation",
+        "Yang Zing Path",
+        "Yang Zing Prana",
+        "Yang Zing Unleashed",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 2100,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

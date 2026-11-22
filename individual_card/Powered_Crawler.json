@@ -1,0 +1,18 @@
+{
+    "name": "Powered Crawler",
+    "filename": "Powered_Crawler",
+    "card_text": "If this card is Normal or Special Summoned: You can destroy 1 monster your opponent controls with less ATK than this card. You can only use this effect of \"Powered Crawler\" once per turn. All monsters your opponent controls must attack, if able.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2700,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Alien Infiltrator",
+    "filename": "Alien_Infiltrator",
+    "card_text": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent's side of the field is in the same column as this card, it can attack your opponent directly.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [
+        "\"A\" Cell Recombination Device",
+        "\"A\" Cell Scatter Burst",
+        "Alien Ammonite",
+        "Alien Dog",
+        "Alien Grey",
+        "Alien Kid",
+        "Alien Overlord",
+        "Alien Skull",
+        "Alien Telepath",
+        "Alien Warrior",
+        "Code A Ancient Ruins",
+        "Cosmic Fortress Gol'gar",
+        "Cosmic Horror Gangi'el",
+        "Crop Circles",
+        "Flying Saucer Muusik'i",
+        "Mass Hypnosis",
+        "Mysterious Triangle",
+        "Orbital Bombardment",
+        "Otherworld - The \"A\" Zone",
+        "Planet Pollutant Virus"
+    ],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 500,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

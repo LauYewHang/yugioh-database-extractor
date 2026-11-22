@@ -1,0 +1,35 @@
+{
+    "name": "Purrelyly",
+    "filename": "Purrelyly",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Purrely\" card from your Deck to your hand, except a Quick-Play Spell. You can target 1 \"Purrely\" Quick-Play Spell in your GY; Special Summon 1 Xyz Monster from your Extra Deck that mentions that card, by using this card you control as material, and if you do, attach that Spell to the Summoned monster. (This is treated as an Xyz Summon.) You can only use each effect of \"Purrelyly\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "OTS TOURNAMENT PACK 22",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Epurrely Beauty",
+        "Epurrely Happiness",
+        "Epurrely Noir",
+        "Epurrely Plump",
+        "Expurrely Happiness",
+        "Expurrely Noir",
+        "My Friend Purrely",
+        "Purrely",
+        "Purrely Delicious Memory",
+        "Purrely Happy Memory",
+        "Purrely Pretty Memory",
+        "Purrely Sharely!?",
+        "Purrely Sleepy Memory",
+        "Purrelyeap!?",
+        "Stray Purrely Street"
+    ],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

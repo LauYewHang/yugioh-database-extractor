@@ -1,0 +1,33 @@
+{
+    "name": "Thunder Dragonhawk",
+    "filename": "Thunder_Dragonhawk",
+    "card_text": "You can discard this card; Special Summon 1 of your \"Thunder Dragon\" monsters that is banished or in your GY, except \"Thunder Dragonhawk\". If this card is banished, or sent from the field to the GY: You can shuffle any number of cards from your hand into the Deck, then draw the same number of cards. You can only use 1 \"Thunder Dragonhawk\" effect per turn, and only once that turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Thunder Dragon",
+        "Thunder Dragon Colossus",
+        "Thunder Dragon Discharge",
+        "Thunder Dragon Fusion",
+        "Thunder Dragon Thunderstormech",
+        "Thunder Dragon Titan",
+        "Thunder Dragondark",
+        "Thunder Dragonduo",
+        "Thunder Dragonlord",
+        "Thunder Dragonmatrix",
+        "Thunder Dragonroar",
+        "Thunder Dragons' Hundred Thunders",
+        "Twin-Headed Thunder Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 2200,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

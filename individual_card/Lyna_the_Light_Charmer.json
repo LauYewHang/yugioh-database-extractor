@@ -1,0 +1,29 @@
+{
+    "name": "Lyna the Light Charmer",
+    "filename": "Lyna_the_Light_Charmer",
+    "card_text": "FLIP: Take control of 1 LIGHT monster your opponent controls, while this card is face-up on the field.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Aussa the Earth Channeler",
+        "Awakening of the Possessed",
+        "Charmers of the Grand Circle",
+        "Eria the Water Channeler",
+        "Familiar-Possessed - Lyna",
+        "Hiita the Fire Channeler",
+        "Possessed Destiny",
+        "Spellbook of the Grand Circle",
+        "Spirit Charmers",
+        "Unpossessed",
+        "Wynn the Wind Channeler"
+    ],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

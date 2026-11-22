@@ -1,0 +1,34 @@
+{
+    "name": "Crystal Pair",
+    "filename": "Crystal_Pair",
+    "card_text": "When a \"Crystal Beast\" monster you control is destroyed by battle and sent to the GY: Place 1 \"Crystal Beast\" monster from your Deck face-up in your Spell & Trap Zone as a Continuous Spell, and if you do, you take no battle damage for the rest of this turn.",
+    "release_date": "2008-01-26",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "DUELIST PACK - JESSE ANDERSON -",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Crystal Master",
+        "Golden Rule",
+        "Rainbow Bridge",
+        "Rainbow Bridge of the Heart"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

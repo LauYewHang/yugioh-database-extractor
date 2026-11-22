@@ -1,0 +1,25 @@
+{
+    "name": "G Golem Pebble Dog",
+    "filename": "G_Golem_Pebble_Dog",
+    "card_text": "If this card is Normal or Special Summoned: You can add to your hand or Special Summon 1 \"G Golem Pebble Dog\" from your Deck, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. If this card is sent from the hand to the GY: You can add 1 \"G Golem\" card from your Deck to your hand. You can only use each effect of \"G Golem Pebble Dog\" once per turn.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "G Golem Crystal Heart",
+        "G Golem Dignified Trilithon",
+        "G Golem Invalid Dolmen",
+        "G Golem Rock Hammer",
+        "G Golem Stubborn Menhir",
+        "Gouki Gameface",
+        "Gravity Balance"
+    ],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 1000,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

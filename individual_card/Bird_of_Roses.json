@@ -1,0 +1,18 @@
+{
+    "name": "Bird of Roses",
+    "filename": "Bird_of_Roses",
+    "card_text": "When this face-up Attack Position card you control is destroyed by battle with an opponent's attacking monster and sent to your GY: You can Special Summon 2 Plant Tuners from your Deck in Defense Position.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS",
+        "LEGENDARY DUELISTS: SEASON 2"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

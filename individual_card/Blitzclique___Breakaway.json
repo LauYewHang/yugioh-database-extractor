@@ -1,0 +1,23 @@
+{
+    "name": "Blitzclique - Breakaway",
+    "filename": "Blitzclique___Breakaway",
+    "card_text": "Activate 1 of these effects;\n\u25cfPlace 1 \"Blitzclique\" Continuous Trap from your Deck, face-up on your field.\n\u25cfReturn 1 Thunder monster you control to the hand, then target 1 card on the field; destroy it.\nIf a card(s) is destroyed by your \"Blitzclique\" card's effect, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use each effect of \"Blitzclique - Breakaway\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Blitzclique - Steppleader",
+        "Blitzclique Alternator",
+        "Blitzclique Overvolt",
+        "Blitzclique Return Stroke",
+        "Crackle Blitzclique",
+        "Emi Blitzclique",
+        "Grain Blitzclique",
+        "Hideout in the Sky, Coulomb",
+        "Surge Blitzclique",
+        "Whisker Blitzclique"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

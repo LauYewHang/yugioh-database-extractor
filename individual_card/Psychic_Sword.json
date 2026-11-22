@@ -1,0 +1,13 @@
+{
+    "name": "Psychic Sword",
+    "filename": "Psychic_Sword",
+    "card_text": "Equip only to a Psychic-Type monster. While your LP is lower than your opponent's, the equipped monster gains ATK equal to the difference (max. 2000).",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

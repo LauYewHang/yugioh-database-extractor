@@ -1,0 +1,15 @@
+{
+    "name": "Train Connection",
+    "filename": "Train_Connection",
+    "card_text": "Must be equipped to an EARTH Machine monster, by banishing 2 Level 10 or higher Machine monsters from your GY. The equipped monster's ATK becomes double its original ATK, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. Other monsters you control cannot attack.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND"
+    ],
+    "related_card": [
+        "Night Train Blue Traveler"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

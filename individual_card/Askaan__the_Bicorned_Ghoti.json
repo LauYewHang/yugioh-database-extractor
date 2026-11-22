@@ -1,0 +1,23 @@
+{
+    "name": "Askaan, the Bicorned Ghoti",
+    "filename": "Askaan__the_Bicorned_Ghoti",
+    "card_text": "1 Tuner + 1+ non-Tuners\nIf this card is Synchro Summoned: You can target 1 Fish monster you control and 1 card your opponent controls; banish them. If this card is banished: You can banish 1 Fish monster from your GY; Special Summon this card. You can only use each effect of \"Askaan, the Bicorned Ghoti\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "MAGNIFICENT MAESTROS",
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Eanoc, Sentry of the Ghoti",
+        "Ghoti Chain",
+        "Ixeep, Omen of the Ghoti",
+        "The Most Distant, Deepest Depths"
+    ],
+    "attribute": "WATER",
+    "attack": 2700,
+    "defense": 0,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

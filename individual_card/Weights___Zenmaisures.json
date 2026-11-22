@@ -1,0 +1,34 @@
+{
+    "name": "Weights & Zenmaisures",
+    "filename": "Weights___Zenmaisures",
+    "card_text": "Target 2 face-up \"Wind-Up\" monsters you control with different Levels; your opponent chooses 1 of them, and the Level of the other monster becomes the same as the chosen monster's, until the End Phase. Then, if your opponent chose the monster with a lower Level, you can draw 1 card.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Legendary Wind-Up Key",
+        "Wind-Up Arsenal Zenmaioh",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Dog",
+        "Wind-Up Factory",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Juggler",
+        "Wind-Up Kitten",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Snail",
+        "Wind-Up Soldier",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaines",
+        "Wind-Up Zenmaintenance",
+        "Wind-Up Zenmaister"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

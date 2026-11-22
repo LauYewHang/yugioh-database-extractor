@@ -1,0 +1,23 @@
+{
+    "name": "Drillago",
+    "filename": "Drillago",
+    "card_text": "If the only cards your opponent controls are face-up monsters with 1600 or more ATK, this card can attack your opponent directly.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "STRUCTURE DECK - MARIK -",
+        "INVASION OF CHAOS",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Soul Demolition",
+    "filename": "Soul_Demolition",
+    "card_text": "If you control a Fiend monster: You can pay 500 LP, then each player targets 1 monster in their opponent's GY; banish those targets.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

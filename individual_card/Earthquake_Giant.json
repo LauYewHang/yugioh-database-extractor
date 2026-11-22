@@ -1,0 +1,17 @@
+{
+    "name": "Earthquake Giant",
+    "filename": "Earthquake_Giant",
+    "card_text": "Once per turn, when the battle position of this card is changed, you can select 1 monster your opponent controls and change its battle position.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 2100,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

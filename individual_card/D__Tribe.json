@@ -1,0 +1,14 @@
+{
+    "name": "D. Tribe",
+    "filename": "D__Tribe",
+    "card_text": "All monsters on your side of the field are treated as Dragon-Types until the End Phase of this turn.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "STARTER DECK KAIBA Evolution",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

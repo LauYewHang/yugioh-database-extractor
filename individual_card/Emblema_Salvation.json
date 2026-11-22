@@ -1,0 +1,28 @@
+{
+    "name": "Emblema Salvation",
+    "filename": "Emblema_Salvation",
+    "card_text": "Banish 1 face-up \"Centur-Ion\" Monster Card from your Spell & Trap Zone, then target 1 card your opponent controls; banish it. If this Set card in its owner's control is destroyed or banished by an opponent's activated effect: You can place 2 \"Centur-Ion\" monsters with different names from your hand, Deck, GY, and/or banishment in your Spell & Trap Zone as face-up Continuous Traps. You can only activate 1 \"Emblema Salvation\" per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Centur-Ion Atrii",
+        "Centur-Ion Auxila",
+        "Centur-Ion Bonds",
+        "Centur-Ion Chimerea",
+        "Centur-Ion Emeth VI",
+        "Centur-Ion Gargoyle II",
+        "Centur-Ion Legatia",
+        "Centur-Ion Phalanx",
+        "Centur-Ion Primera",
+        "Centur-Ion Primera Primus",
+        "Centur-Ion Trudea",
+        "Centur-Ion True Awakening",
+        "Stand Up Centur-Ion!",
+        "Wake Up Centur-Ion!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

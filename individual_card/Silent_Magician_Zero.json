@@ -1,0 +1,31 @@
+{
+    "name": "Silent Magician Zero",
+    "filename": "Silent_Magician_Zero",
+    "card_text": "If your opponent draws a card(s): Increase this card's Level by the number drawn. While this card's Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a Spell Card or effect, while you control \"Shining Sarcophagus\" (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of \"Silent Magician Zero\" once per turn.",
+    "release_date": "2024-04-20",
+    "available_set": [
+        "LEGACY OF DESTRUCTION Core Booster Premiere!",
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Dark Magician Girl the Magician's Apprentice",
+        "Future Silence",
+        "Gadget Trio",
+        "Gandora-G the Dragon of Destruction",
+        "Shining Sarcophagus",
+        "Silent Burning",
+        "Silent Magician",
+        "Silent Swordsman Zero",
+        "Stronghold the Hidden Fortress",
+        "Ties That Bind",
+        "Turn Silence"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

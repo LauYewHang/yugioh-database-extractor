@@ -1,0 +1,12 @@
+{
+    "name": "Terrible Deal",
+    "filename": "Terrible_Deal",
+    "card_text": "Activate only by paying 1000 Life Points when your opponent activates a Spell Card. Your opponent discards 1 random card.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

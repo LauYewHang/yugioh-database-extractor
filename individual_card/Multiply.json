@@ -1,0 +1,20 @@
+{
+    "name": "Multiply",
+    "filename": "Multiply",
+    "card_text": "Tribute 1 face-up \"Kuriboh\"; Special Summon as many \"Kuriboh Tokens\" (Fiend/DARK/Level 1/ATK 300/DEF 200) as possible, in Defense Position. They cannot be Tributed for a Tribute Summon.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "ADVENT CALENDAR 2019",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Detonate",
+        "Kuribee",
+        "Kuriboh",
+        "Skilled Brown Magician"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

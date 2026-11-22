@@ -1,0 +1,17 @@
+{
+    "name": "Needle Soldier",
+    "filename": "Needle_Soldier",
+    "card_text": "If this card is used as a Synchro Material Monster for a Synchro Monster, during battle between that Synchro Monster and a Defense Position monster whose DEF is lower than the ATK of that Synchro Monster, inflict the difference as Battle Damage to your opponent.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

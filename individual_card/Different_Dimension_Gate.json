@@ -1,0 +1,19 @@
+{
+    "name": "Different Dimension Gate",
+    "filename": "Different_Dimension_Gate",
+    "card_text": "Activate this card by targeting 1 monster on each field; banish those targets. When this card is destroyed and sent to the GY: Return those banished monsters to the field in the same battle positions they were in.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DARK CRISIS (Reprint)",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

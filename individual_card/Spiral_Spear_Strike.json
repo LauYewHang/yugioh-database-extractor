@@ -1,0 +1,30 @@
+{
+    "name": "Spiral Spear Strike",
+    "filename": "Spiral_Spear_Strike",
+    "card_text": "If \"Gaia The Fierce Knight\", \"Swift Gaia the Fierce Knight\", or \"Gaia the Dragon Champion\" you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. If \"Gaia the Dragon Champion\" inflicts battle damage with this effect: Draw 2 cards, then discard 1 card.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "MILLENNIUM PACK"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Charging Gaia the Fierce Knight",
+        "Curse of Dragon, the Cursed Dragon",
+        "Gaia the Dragon Champion",
+        "Gaia The Fierce Knight",
+        "Gaia the Fierce Knight Origin",
+        "Gaia the Magical Knight",
+        "Gaia the Magical Knight of Dragons",
+        "Heart of Gaia",
+        "Lord Gaia the Fierce Knight",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Soldier Gaia The Fierce Knight",
+        "Swift Gaia the Fierce Knight"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

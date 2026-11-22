@@ -1,0 +1,32 @@
+{
+    "name": "Crystal Brilliance",
+    "filename": "Crystal_Brilliance",
+    "card_text": "You can only control 1 \"Crystal Brilliance\". Each \"Crystal Beast\" monster you control gains ATK equal to its original DEF. If a \"Crystal Beast\" card(s) is placed in your Spell & Trap Zone, even during the Damage Step: You can send this face-up card to the GY; Special Summon 1 \"Crystal Beast\" monster from your hand or GY, also any damage you take this turn is halved.",
+    "release_date": "2022-09-30",
+    "available_set": [
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Crystal Master",
+        "Golden Rule",
+        "Rainbow Bridge",
+        "Rainbow Bridge of the Heart"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

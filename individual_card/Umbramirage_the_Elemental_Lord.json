@@ -1,0 +1,24 @@
+{
+    "name": "Umbramirage the Elemental Lord",
+    "filename": "Umbramirage_the_Elemental_Lord",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 DARK monsters in your GY. If this card is Special Summoned: Add 1 monster with 1500 or less ATK from your Deck to your hand. You can only use this effect of \"Umbramirage the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Elemental Training",
+        "Elementsaber Aina",
+        "Elementsaber Lapauila Mana",
+        "Elementsaber Makani",
+        "Elementsaber Malo",
+        "Elementsaber Nalu"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Celestial Sword - Eatos",
+    "filename": "Celestial_Sword___Eatos",
+    "card_text": "(This card is always treated as a \"Noble Arms\" card.)\nThe equipped monster gains 500 ATK. When this card is sent from the field to the GY: You can target 1 \"Guardian Eatos\" you control; it gains 500 ATK for each banished monster.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND"
+    ],
+    "related_card": [
+        "Artorigus, King of the Noble Knights",
+        "Camelot, Realm of Noble Knights and Noble Arms",
+        "Guardian Eatos",
+        "Heritage of the Chalice",
+        "Ignoble Knight of Black Laundsallyn",
+        "Ignoble Knight of High Laundsallyn",
+        "Infernoble Knight Maugis",
+        "Infernoble Knight Ogier",
+        "Last Chapter of the Noble Knights",
+        "Morgan, the Enchantress of Avalon",
+        "Noble Arms Museum",
+        "Noble Knight Bedwyr",
+        "Noble Knight Borz",
+        "Noble Knight Brothers",
+        "Noble Knight Custennin",
+        "Noble Knight Drystan",
+        "Noble Knight Gwalchavad",
+        "Noble Knight Iyvanne",
+        "Noble Knight Medraut",
+        "Noble Knight Pellinore",
+        "Noble Knight Peredur",
+        "Noble Knights of the Round Table",
+        "Sacred Noble Knight of King Artorigus",
+        "The Continuing Epic of Charles",
+        "Until Noble Arms are Needed Once Again"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

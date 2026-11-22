@@ -1,0 +1,27 @@
+{
+    "name": "Thunder Dragon Discharge",
+    "filename": "Thunder_Dragon_Discharge",
+    "card_text": "The activation of your Thunder monsters' effects cannot be negated. Once per turn, if a \"Thunder Dragon\" monster(s) is Normal or Special Summoned to your field: You can target 1 Spell/Trap on the field; banish 1 Thunder monster from your Deck, and if you do, destroy that target.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Thunder Dragon",
+        "Thunder Dragon Colossus",
+        "Thunder Dragon Fusion",
+        "Thunder Dragon Thunderstormech",
+        "Thunder Dragon Titan",
+        "Thunder Dragondark",
+        "Thunder Dragonduo",
+        "Thunder Dragonhawk",
+        "Thunder Dragonlord",
+        "Thunder Dragonmatrix",
+        "Thunder Dragonroar",
+        "Thunder Dragons' Hundred Thunders",
+        "Twin-Headed Thunder Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Sosei Ryu-Ge Mistva",
+    "filename": "Sosei_Ryu_Ge_Mistva",
+    "card_text": "Must be Special Summoned by its own effect. You can only Special Summon \"Sosei Ryu-Ge Mistva(s)\" once per turn. If a monster(s) on the field is destroyed by battle or card effect, while this card is in your Extra Deck: You can Tribute 1 Level 10 \"Ryu-Ge\" monster, and if you do, Special Summon this card (this is treated as a Ritual Summon), then you can apply this effect.\n\u25cfDestroy up to 2 cards you control, and if you do, place up to that many \"Ryu-Ge\" Continuous Spells from your Deck face-up on your field.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Genro Ryu-Ge Hakva",
+        "Kairo Ryu-Ge Emva",
+        "Kyoro Ryu-Ge Kaiva",
+        "Ryu-Ge End",
+        "Ryu-Ge Realm - Dino Domains",
+        "Ryu-Ge Realm - Sea Spires",
+        "Ryu-Ge Realm - Wyrm Winds",
+        "Ryu-Ge Rising",
+        "Ryu-Ge Rivalry",
+        "Ryu-Ge War Zone",
+        "Tensei Ryu-Ge Anva"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3500,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10,
+    "pendulum_effect": "During your Main Phase: You can add 1 non-Pendulum \"Ryu-Ge\" card from your Deck to your hand, then destroy this card. You can only use this effect of \"Sosei Ryu-Ge Mistva\" once per turn.",
+    "pendulum_scale": 0
+}

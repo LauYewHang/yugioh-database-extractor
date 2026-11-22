@@ -1,0 +1,13 @@
+{
+    "name": "Equip Shot",
+    "filename": "Equip_Shot",
+    "card_text": "Activate only during the Battle Phase. Select 1 Equip Card equipped to a face-up Attack Position monster you control, and select 1 face-up Attack Position monster your opponent controls. Equip that monster with the selected Equip Card. Then, conduct battle between your previously equipped monster and the selected monster (other effects cannot be activated during this battle).",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "DUELIST PACK - YUSEI -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

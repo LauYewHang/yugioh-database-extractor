@@ -1,0 +1,35 @@
+{
+    "name": "Teleport Fusion",
+    "filename": "Teleport_Fusion",
+    "card_text": "During the Main Phase: Fusion Summon 1 Psychic Fusion Monster from your Extra Deck, by banishing Psychic monsters from your field or GY as material. If a face-up Psychic monster(s) you control that was Special Summoned from the Extra Deck is destroyed by battle or card effect: You can banish this card from your GY, then target 1 of your banished Psychic monsters; Special Summon it. You can only use each effect of \"Teleport Fusion\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Axon Kicker Oracle",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Mind Procedure",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Serene Psychic Sorceress",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

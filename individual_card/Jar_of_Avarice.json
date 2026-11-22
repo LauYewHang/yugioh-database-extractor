@@ -1,0 +1,19 @@
+{
+    "name": "Jar of Avarice",
+    "filename": "Jar_of_Avarice",
+    "card_text": "Target 5 cards in your GY, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "LEGENDARY DECKS II",
+        "CROSSED SOULS",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "MACHINE REACTOR STRUCTURE DECK",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "DEMO DECK 2026",
+        "STARTER DECK - LINK STRIKE -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

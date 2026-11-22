@@ -1,0 +1,26 @@
+{
+    "name": "Yummy\u2605Redemption",
+    "filename": "Yummy_Redemption",
+    "card_text": "Monsters your opponent controls lose 200 ATK for each LIGHT Beast monster in your field and GY. Once per Chain, if you Synchro Summon a LIGHT Beast monster: You can draw 1 card, then place 1 card from your hand on the bottom of the Deck. You can banish this card from your GY, then target 1 \"Yummy\" monster you control and 1 monster your opponent controls; switch control of those 2 monsters. You can only use this effect of \"Yummy\u2605Redemption\" once per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Assist\u2605Yummy!",
+        "Cooky\u2605Yummy Way",
+        "Cooky\u2606Yummy",
+        "Cupsy\u2605Yummy Way",
+        "Cupsy\u2606Yummy",
+        "Lollipo\u2605Yummy Way",
+        "Lollipo\u2606Yummy",
+        "Marshmao\u2606Yummy",
+        "Yummyusment\u2605Acroquey",
+        "Yummyusment\u2606Mignon",
+        "Yummy\u2605Snatchy",
+        "Yummy\u2606Surprise",
+        "Yum\u2606Yum\u2606Yummys"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

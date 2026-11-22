@@ -1,0 +1,18 @@
+{
+    "name": "LANphorhynchus",
+    "filename": "LANphorhynchus",
+    "card_text": "2 monsters",
+    "release_date": "2018-08-10",
+    "available_set": [
+        "STRUCTURE DECK: POWERCODE LINK",
+        "Duel Devastator"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Link",
+    "link_rating": 2,
+    "link_arrow": 10
+}

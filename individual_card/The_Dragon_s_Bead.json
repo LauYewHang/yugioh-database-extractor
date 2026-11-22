@@ -1,0 +1,14 @@
+{
+    "name": "The Dragon's Bead",
+    "filename": "The_Dragon_s_Bead",
+    "card_text": "Discard 1 card from your hand. Negate the effect of a Trap Card that targets 1 face-up Dragon-Type monster and destroy the Trap Card.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "STRUCTURE DECK DRAGON'S ROAR"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Ghost Meets Girl - A Shiranui's Story",
+    "filename": "Ghost_Meets_Girl___A_Shiranui_s_Story",
+    "card_text": "If your opponent controls a monster: Discard 1 Zombie monster; Special Summon 1 \"Shiranui\" monster with a different name from your Deck or GY, also you cannot Special Summon monsters, except Zombie monsters, for the rest of this turn after this card resolves. You can only activate 1 \"Ghost Meets Girl - A Shiranui's Story\" per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Shiranui Samurai",
+        "Shiranui Samuraisaga",
+        "Shiranui Shogunsaga",
+        "Shiranui Skillsaga Supremacy",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Squire",
+        "Shiranui Squiresaga",
+        "Shiranui Style Samsara",
+        "Shiranui Style Solemnity",
+        "Shiranui Style Success",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Style Synthesis",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster",
+        "Shiranui Swordsaga"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

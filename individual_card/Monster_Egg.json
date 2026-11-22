@@ -1,0 +1,20 @@
+{
+    "name": "Monster Egg",
+    "filename": "Monster_Egg",
+    "card_text": "A warrior hidden within an egg that attacks enemies by flinging eggshells.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Charubin the Fire Knight"
+    ],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": 900,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

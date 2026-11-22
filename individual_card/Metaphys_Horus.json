@@ -1,0 +1,36 @@
+{
+    "name": "Metaphys Horus",
+    "filename": "Metaphys_Horus",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate the appropriate effect(s), depending on the non-Tuner monster(s) used as Synchro Material;\n\u25cfNormal Monster: This face-up card is unaffected by other card effects this turn.\n\u25cfEffect Monster: You can target 1 other face-up card on the field; negate that target's effects.\n\u25cfPendulum Monster: Your opponent chooses 1 monster they control and gives control of it to you, but it cannot attack this turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY",
+        "Duel Devastator"
+    ],
+    "related_card": [
+        "Asymmetaphys",
+        "Canopic Protector",
+        "Duamutef, Blessing of Horus",
+        "Horus the Black Flame Deity",
+        "King's Sarcophagus",
+        "Metaphys Ascension",
+        "Metaphys Daedalus",
+        "Metaphys Decoy Dragon",
+        "Metaphys Dimension",
+        "Metaphys Executor",
+        "Metaphys Factor",
+        "Metaphys Nephthys",
+        "Metaphys Ragnarok",
+        "Metaphys Tyrant Dragon",
+        "Qebehsenuef, Protection of Horus",
+        "Walls of the Imperial Tomb"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 1600,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

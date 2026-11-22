@@ -1,0 +1,38 @@
+{
+    "name": "Reverse of Neos",
+    "filename": "Reverse_of_Neos",
+    "card_text": "Activate only when a face-up \"Neos\" Fusion Monster you control is destroyed. Special Summon 1 \"Elemental Hero Neos\" from your Deck in Attack Position. It gains 1000 ATK and is destroyed during the End Phase of this turn.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "DUELIST PACK - JADEN YUKI 3 -",
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Armed Neos",
+        "Elemental HERO Air Neos",
+        "Elemental HERO Aqua Neos",
+        "Elemental HERO Brave Neos",
+        "Elemental HERO Chaos Neos",
+        "Elemental HERO Cosmo Neos",
+        "Elemental HERO Dark Neos",
+        "Elemental HERO Divine Neos",
+        "Elemental HERO Flare Neos",
+        "Elemental HERO Glow Neos",
+        "Elemental HERO Grand Neos",
+        "Elemental HERO Magma Neos",
+        "Elemental HERO Marine Neos",
+        "Elemental HERO Nebula Neos",
+        "Elemental HERO Neos",
+        "Elemental HERO Neos Alius",
+        "Elemental HERO Neos Kluger",
+        "Elemental HERO Neos Knight",
+        "Elemental HERO Shining Neos Wingman",
+        "Elemental HERO Spirit of Neos",
+        "Elemental HERO Storm Neos",
+        "Evil HERO Neos Lord",
+        "Miracle Ejector",
+        "Rainbow Neos"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

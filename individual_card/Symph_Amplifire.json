@@ -1,0 +1,25 @@
+{
+    "name": "Symph Amplifire",
+    "filename": "Symph_Amplifire",
+    "card_text": "Each time an effect of a \"Symphonic Warrior\" card is activated, place 1 Symphonic Counter on this card when that effect resolves. All \"Symphonic Warrior\" monsters on the field gain 100 ATK for each Symphonic Counter on this card. Once per turn: You can remove 5 or 7 Symphonic Counters from your field; apply this effect, depending on the number of Symphonic Counters removed.\n\u25cf5: Inflict 300 damage to your opponent for each \"Symphonic Warrior\" card on the field.\n\u25cf7: Banish cards your opponent controls and/or in their GY, up to the number of \"Symphonic Warrior\" cards on the field.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST",
+        "OTS TOURNAMENT PACK 19"
+    ],
+    "related_card": [
+        "Generalprobe",
+        "Symphonic Warrior Basses",
+        "Symphonic Warrior DJJ",
+        "Symphonic Warrior Drumss",
+        "Symphonic Warrior Guitaar",
+        "Symphonic Warrior Guitariss",
+        "Symphonic Warrior Miccs",
+        "Symphonic Warrior Piaano",
+        "Symphonic Warrior Rockks",
+        "Symphonic Warrior Synthess"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

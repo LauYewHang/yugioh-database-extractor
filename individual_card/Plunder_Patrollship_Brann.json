@@ -1,0 +1,34 @@
+{
+    "name": "Plunder Patrollship Brann",
+    "filename": "Plunder_Patrollship_Brann",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nAll other Fiend monsters you control gain 500 ATK. You can discard 1 \"Plunder Patroll\" card, then target 1 Spell/Trap your opponent controls; banish it, then you can add 1 \"Plunder Patroll\" monster from your Deck to your hand. This is a Quick Effect if this card is equipped with a \"Plunder Patroll\" card. You can only use this effect of \"Plunder Patrollship Brann\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Blackbeard, the Plunder Patroll Captain",
+        "Blackeyes, the Plunder Patroll Seaguide",
+        "Bluebeard, the Plunder Patroll Shipwright",
+        "Emblem of the Plunder Patroll",
+        "Goldenhair, the Newest Plunder Patroll",
+        "Plunder Patroll Booty",
+        "Plunder Patroll Parrrty",
+        "Plunder Patroll Shipshape Ships Shipping",
+        "Plunder Patroll Shipyarrrd",
+        "Plunder Patrollship Jord",
+        "Plunder Patrollship Lys",
+        "Plunder Patrollship Moerk",
+        "Pride of the Plunder Patroll",
+        "Redbeard, the Plunder Patroll Matey",
+        "Whitebeard, the Plunder Patroll Helm"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

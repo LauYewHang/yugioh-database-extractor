@@ -1,0 +1,40 @@
+{
+    "name": "Vendread Houndhorde",
+    "filename": "Vendread_Houndhorde",
+    "card_text": "If this card is in your GY: You can discard 1 \"Vendread\" card; Special Summon this card, but banish it when it leaves the field. A \"Vendread\" monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of \"Vendread Houndhorde\" once per turn.\n\u25cfOnce per turn (Quick Effect): You can target 1 Spell/Trap your opponent controls; banish it.",
+    "release_date": "2017-07-29",
+    "available_set": [
+        "CODE OF THE DUELIST",
+        "CODE OF THE DUELIST Sneak Peek"
+    ],
+    "related_card": [
+        "Avendread Savior",
+        "Ravenous Vendread",
+        "Revendread Evolution",
+        "Revendread Executor",
+        "Revendread Origin",
+        "Revendread Slayer",
+        "Scar of the Vendread",
+        "Vendread Anima",
+        "Vendread Battlelord",
+        "Vendread Charge",
+        "Vendread Chimera",
+        "Vendread Core",
+        "Vendread Daybreak",
+        "Vendread Nightmare",
+        "Vendread Nights",
+        "Vendread Reorigin",
+        "Vendread Reunion",
+        "Vendread Revenants",
+        "Vendread Revolution",
+        "Vendread Scavenger",
+        "Vendread Striges"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 2100,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

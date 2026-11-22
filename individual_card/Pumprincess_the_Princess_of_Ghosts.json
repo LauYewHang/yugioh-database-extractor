@@ -1,0 +1,19 @@
+{
+    "name": "Pumprincess the Princess of Ghosts",
+    "filename": "Pumprincess_the_Princess_of_Ghosts",
+    "card_text": "If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY. While this card is treated as a Continuous Spell by this effect, during each Standby Phase: Place 1 Pumpkin Counter on this card. All monsters your opponent controls lose 100 ATK/DEF for each Pumpkin Counter on this card.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS",
+        "2014 MEGA-TINS MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 900,
+    "defense": 1000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

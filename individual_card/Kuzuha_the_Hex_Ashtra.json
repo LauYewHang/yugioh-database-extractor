@@ -1,0 +1,27 @@
+{
+    "name": "Kuzuha the Hex Ashtra",
+    "filename": "Kuzuha_the_Hex_Ashtra",
+    "card_text": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand or Extra Deck. You can only Special Summon \"Kuzuha the Hex Ashtra\" once per turn this way. You can only use each of the following effects of \"Kuzuha the Hex Ashtra\" once per turn. You can target 1 card on the field for every 2 face-down cards on the field; destroy it. During your End Phase: You can target 1 \"Ashtra\" Trap in your GY; Set it.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Akasuna the Battle Ashtra",
+        "Ashtra's Domain",
+        "Ashtra's Howl",
+        "Ashtra's Web",
+        "Ashtraja Susanoo",
+        "Ashtrashen - Gate to the Worlds Beyond",
+        "Ashtraya Mikumari-no-Mikoto",
+        "Mikumari the Banisher Ashtra",
+        "Yoa the Plague Ashtra"
+    ],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 1500,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

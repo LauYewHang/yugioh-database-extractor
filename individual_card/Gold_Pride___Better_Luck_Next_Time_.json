@@ -1,0 +1,29 @@
+{
+    "name": "Gold Pride - Better Luck Next Time!",
+    "filename": "Gold_Pride___Better_Luck_Next_Time_",
+    "card_text": "When this card is activated: You can add 1 \"Gold Pride\" monster from your Deck to your hand, and if you do, lose LP equal to its ATK. If a face-up \"Gold Pride\" monster(s) you control that was Special Summoned from the Extra Deck returns to the Extra Deck (except during the Damage Step): You can draw 1 card. You can only use this effect of \"Gold Pride - Better Luck Next Time!\" once per turn. You can only activate 1 \"Gold Pride - Better Luck Next Time!\" per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Gold Pride - Captain Carrie",
+        "Gold Pride - Chariot Carrie",
+        "Gold Pride - Eliminator",
+        "Gold Pride - Eradicator",
+        "Gold Pride - It's Neck and Neck!",
+        "Gold Pride - Leon",
+        "Gold Pride - Nytro Blaster",
+        "Gold Pride - Nytro Head",
+        "Gold Pride - Pedal to the Metal!",
+        "Gold Pride - Pin Baller",
+        "Gold Pride - Roller Baller",
+        "Gold Pride - Star Leon",
+        "Gold Pride - Start Your Engines!",
+        "Gold Pride - That Came Out of Nowhere!",
+        "Gold Pride - The Crowd Goes Wild!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

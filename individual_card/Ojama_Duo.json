@@ -1,0 +1,31 @@
+{
+    "name": "Ojama Duo",
+    "filename": "Ojama_Duo",
+    "card_text": "Special Summon 2 \"Ojama Tokens\" (Beast/LIGHT/Level 2/ATK 0/DEF 1000) to your opponent's field in Defense Position. These Tokens cannot be Tributed for a Tribute Summon, and each time 1 is destroyed, its controller takes 300 damage. During either player's turn, except the turn this card was sent to the GY: You can banish this card from your GY; Special Summon 2 \"Ojama\" monsters with different names from your Deck.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Ojama Black",
+        "Ojama Blue",
+        "Ojama Country",
+        "Ojama Delta Hurricane!!",
+        "Ojama Emperor",
+        "Ojama Green",
+        "Ojama King",
+        "Ojama Knight",
+        "Ojama Pajama",
+        "Ojama Pink",
+        "Ojama Red",
+        "Ojama Trio",
+        "Ojama Yellow",
+        "Ojamagic",
+        "Ojamassimilation",
+        "Ojamatch",
+        "Ojamuscle"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

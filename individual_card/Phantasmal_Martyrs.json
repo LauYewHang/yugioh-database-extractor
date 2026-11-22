@@ -1,0 +1,19 @@
+{
+    "name": "Phantasmal Martyrs",
+    "filename": "Phantasmal_Martyrs",
+    "card_text": "While you have at least 2 other cards in your hand, and control \"Uria, Lord of Searing Flames\" or \"Hamon, Lord of Striking Thunder\": Send your entire hand to the GY; Special Summon 3 \"Phantasmal Martyr Tokens\" (Fiend/DARK/Level 1/ATK 0/DEF 0) in Attack Position.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "STRUCTURE DECK: SACRED BEASTS",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [
+        "Dark Beckoning Beast",
+        "Hamon, Lord of Striking Thunder",
+        "Opening of the Spirit Gates",
+        "Uria, Lord of Searing Flames"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

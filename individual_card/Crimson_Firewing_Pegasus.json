@@ -1,0 +1,17 @@
+{
+    "name": "Crimson Firewing Pegasus",
+    "filename": "Crimson_Firewing_Pegasus",
+    "card_text": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand), and if you do, it can attack directly this turn. You can only Special Summon \"Crimson Firewing Pegasus\" once per turn this way. When your opponent activates a monster effect on the field (Quick Effect): You can inflict damage to your opponent equal to the Chain Link number of this effect x 300, also this card cannot be destroyed by effects activated before this one in this Chain. You can only use this effect of \"Crimson Firewing Pegasus\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2250,
+    "defense": 1800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

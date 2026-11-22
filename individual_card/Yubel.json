@@ -1,0 +1,35 @@
+{
+    "name": "Yubel",
+    "filename": "Yubel",
+    "card_text": "Cannot be destroyed by battle. You take no battle damage from battles involving this card. Before damage calculation, if this face-up Attack Position card is targeted for an attack: Inflict damage to your opponent equal to that attacking monster's ATK. Once per turn, during your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 \"Yubel - Terror Incarnate\" from their hand, Deck, or GY.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "RA YELLOW MEGA PACK",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHANTOM DARKNESS",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Elemental HERO Neos Kluger",
+        "Eternal Favorite",
+        "Geistgrinder Golem",
+        "Gruesome Grave Squirmer",
+        "Mature Chronicle",
+        "Neos Wiseman",
+        "Nightmare Pain",
+        "Nightmare Throne",
+        "Phantom of Yubel",
+        "Samsara D Lotus",
+        "Spirit of Yubel",
+        "Yubel - Terror Incarnate",
+        "Yubel - The Loving Defender Forever"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

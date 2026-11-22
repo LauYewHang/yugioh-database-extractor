@@ -1,0 +1,18 @@
+{
+    "name": "Kachi Kochi Dragon",
+    "filename": "Kachi_Kochi_Dragon",
+    "card_text": "2 Level 4 monsters\nOnce per turn, when this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; it can can make a second attack in a row.",
+    "release_date": "2012-06-05",
+    "available_set": [
+        "Yu-Gi-Oh! ZEXAL volume 1 Promotional Card",
+        "MAXIMUM CRISIS SPECIAL EDITION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 1300,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

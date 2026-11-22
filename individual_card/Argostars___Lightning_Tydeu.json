@@ -1,0 +1,20 @@
+{
+    "name": "Argostars - Lightning Tydeu",
+    "filename": "Argostars___Lightning_Tydeu",
+    "card_text": "While this card is face-up in the Spell & Trap Zone, Warrior monsters you control gain 500 ATK/DEF. Once per turn: You can discard 1 card; Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 2000/DEF 2000) with the following effect (this card is also still a Trap), then you can add 1 \"Argostars\" card from your Deck to your hand, except \"Argostars - Lightning Tydeu\".\n\u25cfOnce per turn (Quick Effect): You can place this card face-up in your Spell & Trap Zone.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Argostars - Adventurous Arion",
+        "Argostars - Fierce Parthe",
+        "Argostars - Giantslaying",
+        "Argostars - Glorious Adra",
+        "Argostars - Home Stadium",
+        "Argostars - Slayer Eteo",
+        "Argostars - Swift Capane"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

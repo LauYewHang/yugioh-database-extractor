@@ -1,0 +1,21 @@
+{
+    "name": "Xyz Gift",
+    "filename": "Xyz_Gift",
+    "card_text": "If you control 2 or more face-up Xyz Monsters: Detach 2 Xyz Materials from a monster you control and draw 2 cards.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Swordsoul Emergence",
+    "filename": "Swordsoul_Emergence",
+    "card_text": "Add 1 \"Swordsoul\" monster from your Deck to your hand, or if you control a Synchro Monster, you can add 1 Wyrm monster instead. If this card is banished: You can target 1 \"Swordsoul\" monster, or Wyrm monster, you control; increase or decrease its Level by 1 until the end of this turn. You can only use each effect of \"Swordsoul Emergence\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "MAGNIFICENT MAVENS",
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Incredible Ecclesia, the Virtuous",
+        "Swordsoul Assessment",
+        "Swordsoul Auspice Chunjun",
+        "Swordsoul Blackout",
+        "Swordsoul Grandmaster - Chixiao",
+        "Swordsoul of Mo Ye",
+        "Swordsoul of Taia",
+        "Swordsoul Punishment",
+        "Swordsoul Sacred Summit",
+        "Swordsoul Sinister Sovereign - Qixing Longyuan",
+        "Swordsoul Strategist Longyuan",
+        "Swordsoul Strife",
+        "Swordsoul Supreme Sovereign - Chengying",
+        "The Abyss Dragon Swordsoul",
+        "The Golden Swordsoul",
+        "The Iris Swordsoul",
+        "The Three Champions of Swordsoul"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

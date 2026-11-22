@@ -1,0 +1,39 @@
+{
+    "name": "Meklord Nucleus Infinity Core",
+    "filename": "Meklord_Nucleus_Infinity_Core",
+    "card_text": "The first time this card would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"Meklord Nucleus Infinity Core\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Meklord\" Spell/Trap from your Deck to your hand. If this card is destroyed by card effect: You can Special Summon 1 \"Meklord Emperor\" monster from your hand or Deck with a different Attribute from the monsters you control, ignoring its Summoning conditions, also for the rest of this turn, you can only declare an attack with 1 monster.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Boon of the Meklord Emperor",
+        "Chaos Infinity",
+        "Meklord Army Deployer Obbligato",
+        "Meklord Army of Granel",
+        "Meklord Army of Skiel",
+        "Meklord Army of Wisel",
+        "Meklord Assembly",
+        "Meklord Astro Dragon Asterisk",
+        "Meklord Astro Dragon Triskelion",
+        "Meklord Astro Mekanikle",
+        "Meklord Astro the Eradicator",
+        "Meklord Deflection",
+        "Meklord Emperor Granel",
+        "Meklord Emperor Skiel",
+        "Meklord Emperor Wisel",
+        "Meklord Emperor Wisel - Synchro Absorption",
+        "Meklord Factory",
+        "Meklord Fortress",
+        "Mektimed Blast",
+        "Reboot",
+        "The Resolute Meklord Army"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

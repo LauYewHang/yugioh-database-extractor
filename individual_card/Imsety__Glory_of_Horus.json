@@ -1,0 +1,27 @@
+{
+    "name": "Imsety, Glory of Horus",
+    "filename": "Imsety__Glory_of_Horus",
+    "card_text": "If you control \"King's Sarcophagus\", you can Special Summon this card (from your GY). You can only Special Summon \"Imsety, Glory of Horus\" once per turn this way. You can only use each of the following effects of \"Imsety, Glory of Horus\" once per turn. You can send 2 cards from your hand to the GY, including this card; add 1 \"King's Sarcophagus\" from your Deck to your hand, then you can draw 1 card. If another card(s) you control leaves the field by an opponent's card effect, while this card is in your Monster Zone (except during the Damage Step): You can send 1 card on the field to the GY.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "RARITY COLLECTION 5",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+    ],
+    "related_card": [
+        "Canopic Protector",
+        "Duamutef, Blessing of Horus",
+        "Horus the Black Flame Deity",
+        "King's Sarcophagus",
+        "Qebehsenuef, Protection of Horus",
+        "Walls of the Imperial Tomb"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

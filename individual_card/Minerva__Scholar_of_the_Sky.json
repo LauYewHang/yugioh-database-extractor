@@ -1,0 +1,26 @@
+{
+    "name": "Minerva, Scholar of the Sky",
+    "filename": "Minerva__Scholar_of_the_Sky",
+    "card_text": "Each time a Counter Trap Card is activated, immediately after it resolves, this card gains 500 ATK, and if it does, and \"The Sanctuary in the Sky\" is on the field, add 1 Counter Trap with a different name from your GY to your hand.",
+    "release_date": "2018-01-19",
+    "available_set": [
+        "STRUCTURE DECK WAVE OF LIGHT"
+    ],
+    "related_card": [
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "The Chorus in the Sky",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 400,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Lord of D.",
+    "filename": "Lord_of_D_",
+    "card_text": "Neither player can target Dragon monsters on the field with card effects.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "BOOSTER PACK TIN 2002",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DUELIST LEAGUE 17",
+        "DARK LEGENDS",
+        "STARTER DECK KAIBA",
+        "SPEED DUEL TOURNAMENT PACK 01",
+        "DUELIST PACK - BATTLE CITY -",
+        "STRUCTURE DECK : SETO KAIBA",
+        "DUELIST PACK - KAIBA -",
+        "RETRO PACK",
+        "STARTER DECK KAIBA Evolution",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "DRAGONS COLLIDE STRUCTURE DECK"
+    ],
+    "related_card": [
+        "King Dragun",
+        "The Flute of Summoning Dragon",
+        "The King of D."
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

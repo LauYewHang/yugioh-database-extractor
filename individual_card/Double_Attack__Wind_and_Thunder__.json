@@ -1,0 +1,22 @@
+{
+    "name": "Double Attack! Wind and Thunder!!",
+    "filename": "Double_Attack__Wind_and_Thunder__",
+    "card_text": "If you control a \"Gate Guardian\" monster: Target 1 card on the field; destroy it. During your Main Phase: You can banish this card from your GY; add 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished or in your Deck to your hand. You can only use this effect of \"Double Attack! Wind and Thunder!!\" once per turn.",
+    "release_date": "2023-03-10",
+    "available_set": [
+        "MAZE OF MEMORIES"
+    ],
+    "related_card": [
+        "Dark Guardian",
+        "Gate Guardian",
+        "Gate Guardian of Thunder and Wind",
+        "Gate Guardian of Water and Thunder",
+        "Gate Guardian of Wind and Water",
+        "Gate Guardians Combined",
+        "Kazejin",
+        "Sanga of the Thunder",
+        "Suijin"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

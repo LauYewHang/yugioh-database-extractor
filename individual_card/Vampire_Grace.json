@@ -1,0 +1,36 @@
+{
+    "name": "Vampire Grace",
+    "filename": "Vampire_Grace",
+    "card_text": "When a Level 5 or higher Zombie monster(s) is Special Summoned to your field by the effect of a Zombie monster while this card is in your GY: You can pay 2000 LP; Special Summon this card from your GY. You can only use this effect of \"Vampire Grace\" once per turn. Once per turn: You can declare 1 card type (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS",
+        "2014 MEGA-TINS MEGA PACK",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Shadow Vampire",
+        "Vampire Awakening",
+        "Vampire Domination",
+        "Vampire Duke",
+        "Vampire Familiar",
+        "Vampire Fascinator",
+        "Vampire Ghost",
+        "Vampire Kingdom",
+        "Vampire Red Baron",
+        "Vampire Retainer",
+        "Vampire Scarlet Scourge",
+        "Vampire Sorcerer",
+        "Vampire Takeover",
+        "Vampire Vamp",
+        "Vampire's Desire",
+        "Vampire's Domain"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

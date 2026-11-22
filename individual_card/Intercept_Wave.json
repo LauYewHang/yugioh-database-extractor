@@ -1,0 +1,12 @@
+{
+    "name": "Intercept Wave",
+    "filename": "Intercept_Wave",
+    "card_text": "All Synchro Monsters on the field are changed to Defense Position. And then, return all face-up Synchro Monsters to the Extra Deck during the End Phase.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

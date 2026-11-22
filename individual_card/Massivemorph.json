@@ -1,0 +1,13 @@
+{
+    "name": "Massivemorph",
+    "filename": "Massivemorph",
+    "card_text": "Target 1 face-up monster your opponent controls; its ATK and DEF become double its current ATK and DEF, but it cannot attack directly.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Mother Grizzly",
+    "filename": "Mother_Grizzly",
+    "card_text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in Attack Position.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DUELIST LEAGUE 3",
+        "DARK BEGINNING 1",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "RETRO PACK",
+        "CHAMPION PACK GAME FOUR",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 1000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Guilt-Gripping Morganite",
+    "filename": "Guilt_Gripping_Morganite",
+    "card_text": "For the rest of this Duel, apply the following effects.\n\u25cfYou cannot activate monster effects in the hand.\n\u25cfYou can Normal Summon Level 5 or higher monsters without Tributing.\n\u25cfYou do not pay LP to activate Spell/Trap Cards.\nYou can banish this card from your GY, then reveal 1 \"Morganite\" card in your hand; place the revealed card on the bottom of the Deck, then draw 1 card.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Morgana the Witch of Eyes",
+        "Succumbing-Song Morganite",
+        "Time-Tearing Morganite"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

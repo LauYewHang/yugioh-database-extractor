@@ -1,0 +1,42 @@
+{
+    "name": "Koa'ki Meiru Wall",
+    "filename": "Koa_ki_Meiru_Wall",
+    "card_text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the GY or reveal 1 Rock monster in your hand. When your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy that card.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "SECRET SLAYERS",
+        "STARSTRIKE BLAST",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "Core Blast",
+        "Core Blaster",
+        "Core Compression",
+        "Core Overclock",
+        "Core Reinforcement",
+        "Diamond Core of Koa'ki Meiru",
+        "Iron Core Armor",
+        "Iron Core of Koa'ki Meiru",
+        "Iron Core Specimen Lab",
+        "Koa'ki Meiru Boulder",
+        "Koa'ki Meiru Crusader",
+        "Koa'ki Meiru Ghoulungulate",
+        "Koa'ki Meiru Hydro Barrier",
+        "Koa'ki Meiru Initialize!",
+        "Koa'ki Meiru Maximus",
+        "Koa'ki Meiru Prototype",
+        "Koa'ki Meiru Rooklord",
+        "Koa'ki Meiru Supplier",
+        "Koa'ki Meiru Urnight",
+        "Koa'ki Meiru Valafar",
+        "Nega-Ton Corepanel",
+        "Urgent Synthesis"
+    ],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 1200,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Wake Up Centur-Ion!",
+    "filename": "Wake_Up_Centur_Ion_",
+    "card_text": "If a Monster Card is face-up in your Spell & Trap Zone: You can declare Level 4 or 8; Special Summon 1 \"Centur-Ion Token\" (Pyro/DARK/ATK 0/DEF 0) with the declared Level, but it cannot be used as Fusion or Link Material. During your Main Phase: You can banish this card from your GY; send 1 \"Centur-Ion\" card from your Deck to the GY, except \"Wake Up Centur-Ion!\". You can only use each effect of \"Wake Up Centur-Ion!\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Centur-Ion Atrii",
+        "Centur-Ion Auxila",
+        "Centur-Ion Bonds",
+        "Centur-Ion Chimerea",
+        "Centur-Ion Emeth VI",
+        "Centur-Ion Gargoyle II",
+        "Centur-Ion Legatia",
+        "Centur-Ion Phalanx",
+        "Centur-Ion Primera",
+        "Centur-Ion Primera Primus",
+        "Centur-Ion Trudea",
+        "Centur-Ion True Awakening",
+        "Emblema Oath",
+        "Emblema Salvation",
+        "Stand Up Centur-Ion!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

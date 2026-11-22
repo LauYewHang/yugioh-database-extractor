@@ -1,0 +1,17 @@
+{
+    "name": "Cosmic Tree Irmistil",
+    "filename": "Cosmic_Tree_Irmistil",
+    "card_text": "3+ Effect Monsters\nYou can only control 1 \"Cosmic Tree Irmistil\". Each time your opponent Special Summons a monster(s) face-up during the Main Phase, you gain LP equal to their ATK. Once per turn (Quick Effect): You can pay LP in multiples of 1000 (max. 3000); this card gains that much ATK.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": null,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "link_rating": 5,
+    "link_arrow": 158
+}

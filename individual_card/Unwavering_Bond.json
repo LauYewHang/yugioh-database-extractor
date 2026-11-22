@@ -1,0 +1,13 @@
+{
+    "name": "Unwavering Bond",
+    "filename": "Unwavering_Bond",
+    "card_text": "When your opponent activates a Pendulum Monster's effect, or an effect of a card in the Pendulum Zone: Negate the activation, and if you do, banish that card.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "PENDULUM EVOLUTION",
+        "SHINING VICTORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

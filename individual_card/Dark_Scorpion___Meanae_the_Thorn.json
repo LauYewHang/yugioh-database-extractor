@@ -1,0 +1,30 @@
+{
+    "name": "Dark Scorpion - Meanae the Thorn",
+    "filename": "Dark_Scorpion___Meanae_the_Thorn",
+    "card_text": "When this card inflicts battle damage to your opponent, you can activate 1 of these effects:\n\u25cfAdd 1 \"Dark Scorpion\" card from your Deck to your hand.\n\u25cfTarget 1 \"Dark Scorpion\" card in your GY; add that target to your hand.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1",
+        "GOLD SERIES HAUNTED MINE",
+        "Speed Duel: Battle City Box",
+        "DARK CRISIS"
+    ],
+    "related_card": [
+        "Dark Scorpion - Chick the Yellow",
+        "Dark Scorpion - Cliff the Trap Remover",
+        "Dark Scorpion - Gorg the Strong",
+        "Dark Scorpion Burglars",
+        "Dark Scorpion Combination",
+        "Mustering of the Dark Scorpions"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

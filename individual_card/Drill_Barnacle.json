@@ -1,0 +1,17 @@
+{
+    "name": "Drill Barnacle",
+    "filename": "Drill_Barnacle",
+    "card_text": "This card can attack your opponent directly. Each time this card inflicts Battle Damage to your opponent by a direct attack: This card gains 1000 ATK.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

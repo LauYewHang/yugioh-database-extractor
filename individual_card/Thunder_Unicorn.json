@@ -1,0 +1,19 @@
+{
+    "name": "Thunder Unicorn",
+    "filename": "Thunder_Unicorn",
+    "card_text": "1 Beast-Type Tuner + 1 or more non-Tuner monsters\nOnce per turn, during your Main Phase, you can select 1 face-up monster your opponent controls. It loses 500 ATK for each monster you control, until the End Phase. During the turn this effect is activated, no other monsters can attack, except this card.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [
+        "Lightning Tricorn"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2200,
+    "defense": 1800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

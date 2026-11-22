@@ -1,0 +1,12 @@
+{
+    "name": "Psychic Tuning",
+    "filename": "Psychic_Tuning",
+    "card_text": "Select 1 Psychic-Type monster in your Graveyard and Special Summon it in Attack Position. It is treated as a Tuner monster. When this card is removed from the field, destroy that monster. When that monster is removed from the field, destroy this card. When this card is sent to the Graveyard, take damage equal to that monster's Level x 400.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

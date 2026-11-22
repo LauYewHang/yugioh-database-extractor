@@ -1,0 +1,22 @@
+{
+    "name": "Hitotsu-Me Giant",
+    "filename": "Hitotsu_Me_Giant",
+    "card_text": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STARTER DECK KAIBA",
+        "DARK BEGINNING 1",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

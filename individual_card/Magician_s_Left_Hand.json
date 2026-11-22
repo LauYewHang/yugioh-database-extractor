@@ -1,0 +1,17 @@
+{
+    "name": "Magician's Left Hand",
+    "filename": "Magician_s_Left_Hand",
+    "card_text": "Negate the effect of your opponent's first Trap Card or effect that resolves each turn while you control a Spellcaster monster, and if you do, destroy that card.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS",
+        "THE INFINITY CHASERS",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Magician's Restage",
+        "Performapal Sky Magician"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

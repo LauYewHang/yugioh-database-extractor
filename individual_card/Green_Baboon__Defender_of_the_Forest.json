@@ -1,0 +1,23 @@
+{
+    "name": "Green Baboon, Defender of the Forest",
+    "filename": "Green_Baboon__Defender_of_the_Forest",
+    "card_text": "When a face-up Beast monster you control is destroyed and sent to the GY, while this card is in your hand or GY (except during the Damage Step): You can pay 1000 LP; Special Summon this card.",
+    "release_date": "2007-07-15",
+    "available_set": [
+        "DARK LEGENDS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SHONEN JUMP Subscription Promotional Card - July 2007 -",
+        "RETRO PACK 2",
+        "COLLECTIBLE TIN 2010 WAVE 1",
+        "Speed Duel: Battle City Box",
+        "DUEL TERMINAL 3"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": 1800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

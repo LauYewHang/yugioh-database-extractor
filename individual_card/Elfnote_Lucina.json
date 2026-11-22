@@ -1,0 +1,34 @@
+{
+    "name": "Elfnote Lucina",
+    "filename": "Elfnote_Lucina",
+    "card_text": "You can Special Summon this card (from your hand) to your center Main Monster Zone. You can only Special Summon \"Elfnote Lucina\" once per turn this way. You can only use each of the following effects of \"Elfnote Lucina\" once per turn. During your Main Phase: You can add 1 \"Elfnote\" monster from your Deck to your hand, except \"Elfnote Lucina\". During your opponent's turn (Quick Effect): You can switch the locations of this card in your Main Monster Zone and the monster in your center Main Monster Zone, then you can return 1 Level 6 or lower monster your opponent controls to the hand.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "MAGNIFICENT MAESTROS",
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Elfnote Fortuna",
+        "Elfnote June Pride",
+        "Elfnote Power Patron",
+        "Elfnote Regina",
+        "Elfnote Seraphim Strelitzia",
+        "Elfnote Tinia",
+        "Elfnotes: A Plea for Help",
+        "Elfnotes: Aristeia of Trust",
+        "Elfnotes: Quatrain of Succession",
+        "Elfnotes: Rhapsodia of Madness",
+        "Elfnotes: Welcome Home",
+        "Junoldo the Shadespirit Power Patron",
+        "Junora the Power Patron of Tuning",
+        "Theorealize Past Lull"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

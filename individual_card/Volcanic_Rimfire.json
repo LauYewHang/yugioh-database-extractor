@@ -1,0 +1,39 @@
+{
+    "name": "Volcanic Rimfire",
+    "filename": "Volcanic_Rimfire",
+    "card_text": "If this card is sent to the GY: You can activate 1 of these effects (but you can only use each effect of \"Volcanic Rimfire\" once per turn);\n\u25cfBanish this card from your GY, and if you do, send 1 \"Volcanic\" monster from your Deck to the GY, except \"Volcanic Rimfire\".\n\u25cfBanish 1 \"Blaze Accelerator\" card from your face-up field or GY, and if you do, place 1 \"Blaze Accelerator\" Continuous Spell/Trap from your hand or Deck face-up on your field.",
+    "release_date": "2023-08-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Blaze Accelerator",
+        "Blaze Accelerator Reload",
+        "Blaze Cannon",
+        "Fire Ejection",
+        "Tri-Blaze Accelerator",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Counter",
+        "Volcanic Doomfire",
+        "Volcanic Emission",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Queen",
+        "Volcanic Rat",
+        "Volcanic Recharge",
+        "Volcanic Rocket",
+        "Volcanic Scattershot",
+        "Volcanic Shell",
+        "Volcanic Slicer",
+        "Volcanic Trooper"
+    ],
+    "attribute": "FIRE",
+    "attack": 300,
+    "defense": 0,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

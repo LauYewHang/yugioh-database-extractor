@@ -1,0 +1,21 @@
+{
+    "name": "Depth Shark",
+    "filename": "Depth_Shark",
+    "card_text": "If you control no monsters, you can Normal Summon this card without Tributing. Once per turn, during your opponent's Standby Phase: This card's ATK becomes double its current ATK until the end of this turn.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Hydrojet Shark",
+        "Surfacing Big Jaws",
+        "Veiss Shark"
+    ],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 0,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Star Ryzeal",
+    "filename": "Star_Ryzeal",
+    "card_text": "You can Special Summon this card (from your hand) by detaching 1 material from a monster you control. If Summoned this way, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon \"Star Ryzeal\" once per turn this way. If this card is Special Summoned: You can Set 1 \"Ryzeal\" Spell/Trap from your Deck. You can only use this effect of \"Star Ryzeal\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Ext Ryzeal",
+        "Ice Ryzeal",
+        "Node Ryzeal",
+        "Palm Ryzeal",
+        "Ryzeal Cross",
+        "Ryzeal Detonator",
+        "Ryzeal Duo Drive",
+        "Ryzeal Mass Driver",
+        "Ryzeal Plasma Hole",
+        "Ryzeal Plugin",
+        "Sword Ryzeal"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

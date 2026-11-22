@@ -1,0 +1,19 @@
+{
+    "name": "Release Restraint",
+    "filename": "Release_Restraint",
+    "card_text": "Tribute 1 \"Gearfried the Iron Knight\"; Special Summon 1 \"Gearfried the Swordmaster\" from your hand or Deck.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [
+        "Gearfried the Iron Knight",
+        "Gearfried the Swordmaster"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Rilliona, the Wondrous Magistus Witch Wardrobe",
+    "filename": "Rilliona__the_Wondrous_Magistus_Witch_Wardrobe",
+    "card_text": "2 Level 4 Spellcaster monsters with different Attributes\nYou can detach 1 material from this card; Special Summon 1 \"Magistus\" monster from your Deck, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Magistus\" monsters. While this card is equipped to a monster: You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only use each effect of \"Rilliona, the Wondrous Magistus Witch Wardrobe\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Magistus of Verre",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 2800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

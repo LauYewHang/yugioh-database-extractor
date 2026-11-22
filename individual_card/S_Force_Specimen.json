@@ -1,0 +1,32 @@
+{
+    "name": "S-Force Specimen",
+    "filename": "S_Force_Specimen",
+    "card_text": "If your opponent controls a monster: Target 1 of your \"S-Force\" monsters that is banished or in your GY; Special Summon it to your field in the same column as an opponent's monster. You can banish this card from your GY, then target 1 \"S-Force\" monster you control; move that target to another of your Main Monster Zones. You can only use 1 \"S-Force Specimen\" effect per turn, and only once that turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force World Sorting"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

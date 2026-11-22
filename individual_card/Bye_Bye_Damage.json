@@ -1,0 +1,13 @@
+{
+    "name": "Bye Bye Damage",
+    "filename": "Bye_Bye_Damage",
+    "card_text": "During damage calculation, if your monster is attacked: Your battling monster cannot be destroyed by that battle, also if you take battle damage from that battle, your opponent takes effect damage equal to double that amount. You can only apply this effect of \"Bye Bye Damage\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

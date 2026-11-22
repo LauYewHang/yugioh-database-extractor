@@ -1,0 +1,18 @@
+{
+    "name": "Golden Cloud Beast - Malong",
+    "filename": "Golden_Cloud_Beast___Malong",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can increase or decrease its Level by 1. If this card is sent to the GY: You can target 1 face-up card your opponent controls; return it to the hand. You can only use this effect of \"Golden Cloud Beast - Malong\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2200,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

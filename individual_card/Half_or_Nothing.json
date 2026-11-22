@@ -1,0 +1,14 @@
+{
+    "name": "Half or Nothing",
+    "filename": "Half_or_Nothing",
+    "card_text": "During your opponent's Battle Phase (except during the Damage Step): Your opponent chooses 1 of these effects.\n\u25cfHalve the ATK of all monsters they currently control, until the end of the Battle Phase.\n\u25cfEnd the Battle Phase.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

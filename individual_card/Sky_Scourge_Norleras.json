@@ -1,0 +1,17 @@
+{
+    "name": "Sky Scourge Norleras",
+    "filename": "Sky_Scourge_Norleras",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 LIGHT Fairy-Type monster and 3 DARK Fiend-Type monsters in your Graveyard. You can pay 1000 Life Points to send all cards on the field and in both players' hands to the Graveyard, then you draw 1 card.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

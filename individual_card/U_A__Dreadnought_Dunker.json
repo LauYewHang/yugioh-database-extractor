@@ -1,0 +1,35 @@
+{
+    "name": "U.A. Dreadnought Dunker",
+    "filename": "U_A__Dreadnought_Dunker",
+    "card_text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Dreadnought Dunker\". You can only Special Summon \"U.A. Dreadnought Dunker\" once per turn this way. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. When this card inflicts battle damage to your opponent: You can target 1 card on the field; destroy it.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "U.A. Blockbacker",
+        "U.A. Goalkeeper",
+        "U.A. Hyper Stadium",
+        "U.A. Libero Spiker",
+        "U.A. Locker Room",
+        "U.A. Man of the Match",
+        "U.A. Midfielder",
+        "U.A. Mighty Slugger",
+        "U.A. Penalty Box",
+        "U.A. Perfect Ace",
+        "U.A. Player Manager",
+        "U.A. Playmaker",
+        "U.A. Powered Jersey",
+        "U.A. Rival Rebounder",
+        "U.A. Signing Deal",
+        "U.A. Stadium",
+        "U.A. Turnover Tactics"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

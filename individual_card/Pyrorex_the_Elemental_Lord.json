@@ -1,0 +1,25 @@
+{
+    "name": "Pyrorex the Elemental Lord",
+    "filename": "Pyrorex_the_Elemental_Lord",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 FIRE monsters in your GY. When this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, and if you do, both players take damage equal to half the original ATK of the destroyed monster. You can only use this effect of \"Pyrorex the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Elemental Training",
+        "Elementsaber Aina",
+        "Elementsaber Lapauila Mana",
+        "Elementsaber Makani",
+        "Elementsaber Malo",
+        "Elementsaber Nalu"
+    ],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 2200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

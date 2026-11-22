@@ -1,0 +1,19 @@
+{
+    "name": "Pinecono",
+    "filename": "Pinecono",
+    "card_text": "If this card is sent to the Graveyard by the effect of \"Acorno\": You can Special Summon this card from the Graveyard.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Acorno"
+    ],
+    "attribute": "EARTH",
+    "attack": 400,
+    "defense": 200,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

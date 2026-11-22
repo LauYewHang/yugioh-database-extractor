@@ -1,0 +1,29 @@
+{
+    "name": "Battlewasp - Twinbow the Attacker",
+    "filename": "Battlewasp___Twinbow_the_Attacker",
+    "card_text": "During your Main Phase: You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Insect monsters. You can only use this effect of \"Battlewasp - Twinbow the Attacker\" once per turn. This card can make a second attack during each Battle Phase.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Nest",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 500,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

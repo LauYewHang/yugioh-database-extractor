@@ -1,0 +1,17 @@
+{
+    "name": "Aquarium Set",
+    "filename": "Aquarium_Set",
+    "card_text": "All WATER monsters you control gain 300 ATK/DEF. All \"Aquaactress\" monsters you control gain 300 ATK/DEF. If this card is sent from the field to the GY: You can target 1 Aqua monster in your GY; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Aqua monsters.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Aquaactress Arowana",
+        "Aquaactress Guppy",
+        "Aquaactress Tetra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

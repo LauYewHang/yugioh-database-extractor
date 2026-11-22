@@ -1,0 +1,18 @@
+{
+    "name": "Cassimolar",
+    "filename": "Cassimolar",
+    "card_text": "When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; it gains ATK equal to its original ATK, also during the End Phase of the next turn, destroy that face-up monster, and if you do, your opponent takes damage equal to half its original ATK. At the start of your opponent's Battle Phase: You can Tribute this Normal Summoned/Set card; your opponent's monsters cannot attack directly for the rest of this turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

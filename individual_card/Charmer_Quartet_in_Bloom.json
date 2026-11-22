@@ -1,0 +1,29 @@
+{
+    "name": "Charmer Quartet in Bloom",
+    "filename": "Charmer_Quartet_in_Bloom",
+    "card_text": "2+ monsters\nGains 300 ATK for each different Attribute on the field. Once, while this card is face-up on the field, during the Main Phase (Quick Effect): You can target 2 monsters in your GY with the same Attribute but different Types, or with the same Type but different Attributes; Special Summon both, also until the end of the next turn, this card and the Special Summoned monsters cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use this effect of \"Charmer Quartet in Bloom\" once per turn.",
+    "release_date": "2026-05-02",
+    "available_set": [
+        "BLAZING DOMINION",
+        "BLAZING DOMINION Core Booster Premiere!"
+    ],
+    "related_card": [
+        "Aussa the Earth Channeler",
+        "Awakening of the Possessed",
+        "Charmers of the Grand Circle",
+        "Eria the Water Channeler",
+        "Hiita the Fire Channeler",
+        "Possessed Destiny",
+        "Spellbook of the Grand Circle",
+        "Spirit Charmers",
+        "Unpossessed",
+        "Wynn the Wind Channeler"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1850,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 90
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Virtual World Dragon - Longlong",
+    "filename": "Virtual_World_Dragon___Longlong",
+    "card_text": "2+ Level 3 monsters with the same Type and Attribute\nYour opponent cannot target this card with card effects while it has Xyz Material. When your opponent activates the effect of a monster with an Attribute that is not on their field, while they control a face-up monster (Quick Effect): You can detach 2 materials from this card; negate the activation. You can only use this effect of \"Virtual World Dragon - Longlong\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Virtual World City - Kauwloon",
+        "Virtual World Gate - Chuche",
+        "Virtual World Gate - Qinglong",
+        "Virtual World Gate - Xuanwu",
+        "Virtual World Kirin - Lili",
+        "Virtual World Mai-Hime - Lulu",
+        "Virtual World Phoenix - Fanfan",
+        "Virtual World Roshi - Laolao",
+        "Virtual World Tiger - Fufu",
+        "Virtual World Xiezhi - Jiji"
+    ],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

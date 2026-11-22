@@ -1,0 +1,33 @@
+{
+    "name": "Cloudian - Poison Cloud",
+    "filename": "Cloudian___Poison_Cloud",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard, if it was face-up at the start of the Damage Step: Destroy the monster that destroyed it, and if you do, inflict 800 damage to your opponent.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "BATTLE PACK EPIC DAWN",
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [
+        "Cloudian - Acid Cloud",
+        "Cloudian - Altus",
+        "Cloudian - Cirrostratus",
+        "Cloudian - Eye of the Typhoon",
+        "Cloudian - Sheep Cloud",
+        "Cloudian - Storm Dragon",
+        "Cloudian - Turbulence",
+        "Cloudian Aerosol",
+        "Fog Control",
+        "Lucky Cloud",
+        "Natural Disaster",
+        "Raging Cloudian",
+        "Rain Storm",
+        "Summon Cloud"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Dark Magic Twin Burst",
+    "filename": "Dark_Magic_Twin_Burst",
+    "card_text": "Target 1 \"Dark Magician\" you control; it gains ATK equal to the combined ATK of all \"Dark Magician Girl\" currently on the field and in the GYs, until the end of this turn. You can only activate 1 \"Dark Magic Twin Burst\" per turn.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Bond Between Teacher and Student",
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician Girl",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

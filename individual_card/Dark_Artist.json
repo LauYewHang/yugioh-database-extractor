@@ -1,0 +1,17 @@
+{
+    "name": "Dark Artist",
+    "filename": "Dark_Artist",
+    "card_text": "If this card is being attacked by a LIGHT monster, its DEF is halved during damage calculation only.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 1400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Deadly Zombie Breath",
+    "filename": "Deadly_Zombie_Breath",
+    "card_text": "If you control a Zombie monster and \"Call of the Haunted\": Target 1 monster your opponent controls; send it to the GY. If you control a Zombie monster: You can banish this card from your GY, then target 1 face-up card you control and 1 face-up card your opponent controls; send them to the GY. You can only use 1 \"Deadly Zombie Breath\" effect per turn, and only once that turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Call of the Haunted",
+        "Pumpking the Great Ghost King",
+        "Stare of the Snake Hair"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

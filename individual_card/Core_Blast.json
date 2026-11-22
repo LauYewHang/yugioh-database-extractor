@@ -1,0 +1,42 @@
+{
+    "name": "Core Blast",
+    "filename": "Core_Blast",
+    "card_text": "You can only activate this card's effect while you control a face-up \"Koa'ki Meiru\" monster. Once per turn, during your Standby Phase, if your opponent controls more monsters than you do, you can destroy a number of cards your opponent controls so that your opponent will control the same number of cards as you control monsters.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Diamond Core of Koa'ki Meiru",
+        "Iron Core of Koa'ki Meiru",
+        "Koa'ki Meiru Beetle",
+        "Koa'ki Meiru Bergzak",
+        "Koa'ki Meiru Boulder",
+        "Koa'ki Meiru Crusader",
+        "Koa'ki Meiru Doom",
+        "Koa'ki Meiru Drago",
+        "Koa'ki Meiru Ghoulungulate",
+        "Koa'ki Meiru Gravirose",
+        "Koa'ki Meiru Guardian",
+        "Koa'ki Meiru Hydro Barrier",
+        "Koa'ki Meiru Ice",
+        "Koa'ki Meiru Initialize!",
+        "Koa'ki Meiru Maximus",
+        "Koa'ki Meiru Overload",
+        "Koa'ki Meiru Powerhand",
+        "Koa'ki Meiru Prototype",
+        "Koa'ki Meiru Rooklord",
+        "Koa'ki Meiru Sandman",
+        "Koa'ki Meiru Sea Panther",
+        "Koa'ki Meiru Shield",
+        "Koa'ki Meiru Speeder",
+        "Koa'ki Meiru Supplier",
+        "Koa'ki Meiru Tornado",
+        "Koa'ki Meiru Urnight",
+        "Koa'ki Meiru Valafar",
+        "Koa'ki Meiru Wall",
+        "Koa'ki Meiru War Arms"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Primal Dragon, the Primordial",
+    "filename": "Primal_Dragon__the_Primordial",
+    "card_text": "Your opponent takes no battle damage from attacks involving this card. You can only use each of the following effects of \"Primal Dragon, the Primordial\" once per turn. You can banish 1 Dragon monster from your GY; this card gains ATK/DEF equal to that banished monster's ATK until the end of the next turn. If this card is Tributed: You can target 1 monster you control; it can make a second attack during each Battle Phase this turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Zombina",
+    "filename": "Zombina",
+    "card_text": "If this card in its owner's possession is destroyed by an opponent's card: You can target 1 Level 4 or lower monster in your GY, except \"Zombina\"; Special Summon it.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "CODE OF THE DUELIST",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "2018 MEGA-TINS MEGA PACK",
+        "SPEED DUEL TOURNAMENT PACK 3"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1500,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

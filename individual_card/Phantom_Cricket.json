@@ -1,0 +1,17 @@
+{
+    "name": "Phantom Cricket",
+    "filename": "Phantom_Cricket",
+    "card_text": "FLIP: Return 1 face-down monster from the field to the top of its owner's Deck.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 1000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

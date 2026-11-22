@@ -1,0 +1,33 @@
+{
+    "name": "Drytron Nova",
+    "filename": "Drytron_Nova",
+    "card_text": "Special Summon 1 \"Drytron\" monster from your Deck, but destroy it during the End Phase. You can only activate 1 \"Drytron Nova\" per turn. You cannot Special Summon monsters, except monsters that cannot be Normal Summoned/Set, the turn you activate this card.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Drytron Alpha Thuban",
+        "Drytron Asterism",
+        "Drytron Beta Rastaban",
+        "Drytron Delta Altais",
+        "Drytron Eclipse",
+        "Drytron Fafnir",
+        "Drytron Gamma Eltanin",
+        "Drytron Meteonis DA Draconids",
+        "Drytron Meteonis Draconids",
+        "Drytron Meteonis Quadrantids",
+        "Drytron Meteor Shower",
+        "Drytron Mu Beta Fafnir",
+        "Drytron Nu II",
+        "Drytron Zeta Aldhibah",
+        "Meteonis Drytron",
+        "Meteoroa Drytron",
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Drytron"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

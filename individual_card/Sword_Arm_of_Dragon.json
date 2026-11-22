@@ -1,0 +1,17 @@
+{
+    "name": "Sword Arm of Dragon",
+    "filename": "Sword_Arm_of_Dragon",
+    "card_text": "This Jurassic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.",
+    "release_date": "2013-10-11",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1750,
+    "defense": 2030,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

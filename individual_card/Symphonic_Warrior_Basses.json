@@ -1,0 +1,28 @@
+{
+    "name": "Symphonic Warrior Basses",
+    "filename": "Symphonic_Warrior_Basses",
+    "card_text": "Once per turn, you can select 1 face-up \"Symphonic Warrior\" monster on the field. Increase its Level by the number of cards in your hand; this increase lasts until the End Phase. You can remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and increase its Level by the number of cards in your hand; this increase lasts until the End Phase.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Generalprobe",
+        "Symph Amplifire",
+        "Symphonic Warrior DJJ",
+        "Symphonic Warrior Drumss",
+        "Symphonic Warrior Guitaar",
+        "Symphonic Warrior Guitariss",
+        "Symphonic Warrior Miccs",
+        "Symphonic Warrior Piaano",
+        "Symphonic Warrior Rockks",
+        "Symphonic Warrior Synthess"
+    ],
+    "attribute": "WIND",
+    "attack": 600,
+    "defense": 400,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

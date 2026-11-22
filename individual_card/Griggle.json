@@ -1,0 +1,19 @@
+{
+    "name": "Griggle",
+    "filename": "Griggle",
+    "card_text": "When the control of this face-up card on the field shifts to your opponent, increase your Life Points by 3000 points. This effect can only be used once as long as this card remains face-up on the field.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 350,
+    "defense": 300,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

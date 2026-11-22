@@ -1,0 +1,26 @@
+{
+    "name": "Spear Dragon",
+    "filename": "Spear_Dragon",
+    "card_text": "If this card attacks a Defense Position monster, inflict piercing battle damage. If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "TOURNAMENT PACK 6",
+        "RETRO PACK 2",
+        "HOBBY LEAGUE 3",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STARTER DECK 2006",
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box",
+        "DEMO DECK 2026"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1900,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

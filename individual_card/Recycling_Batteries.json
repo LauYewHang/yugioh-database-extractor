@@ -1,0 +1,14 @@
+{
+    "name": "Recycling Batteries",
+    "filename": "Recycling_Batteries",
+    "card_text": "Target 2 Thunder-Type monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "ASTRAL PACK TWO",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

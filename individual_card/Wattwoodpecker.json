@@ -1,0 +1,32 @@
+{
+    "name": "Wattwoodpecker",
+    "filename": "Wattwoodpecker",
+    "card_text": "This card can attack twice during each Battle Phase. Any monster that battles with this card cannot change its battle position.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Wattcancel",
+        "Wattcastle",
+        "Wattchimera",
+        "Wattcobra",
+        "Wattdragonfly",
+        "Watthopper",
+        "Watthydra",
+        "Wattkeeper",
+        "Wattkey",
+        "Wattkingdom",
+        "Wattkiwi",
+        "Wattkyuki",
+        "Wattrain",
+        "Wattuna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 100,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Ride of the Valkyries",
+    "filename": "Ride_of_the_Valkyries",
+    "card_text": "Special Summon any number of \"Valkyrie\" monsters with different names from your hand. If you Special Summoned 3 or more monsters with this effect, you take no battle damage until the end of the next turn. During the End Phase of the turn you activated this card, shuffle all monsters you control into the Deck. You can banish this card from your GY; add 1 \"Mischief of the Time Goddess\" from your Deck to your hand. You can only use this effect of \"Ride of the Valkyries\" once per turn.",
+    "release_date": "2018-08-17",
+    "available_set": [
+        "SHADOWS IN VALHALLA"
+    ],
+    "related_card": [
+        "Apple of Enlightenment",
+        "Final Light",
+        "Fortune Chariot",
+        "Goddess Skuld's Oracle",
+        "Goddess Urd's Verdict",
+        "Goddess Verdande's Guidance",
+        "Loge's Flame",
+        "Mischief of the Time Goddess",
+        "Pegasus Wing",
+        "Valkyrie Brunhilde",
+        "Valkyrie Chariot",
+        "Valkyrie Dritte",
+        "Valkyrie Erda",
+        "Valkyrie Erste",
+        "Valkyrie Funfte",
+        "Valkyrie Sechste",
+        "Valkyrie Sigrun",
+        "Valkyrie Vierte",
+        "Valkyrie Zweite",
+        "Valkyrie's Embrace"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Erebus the Underworld Monarch",
+    "filename": "Erebus_the_Underworld_Monarch",
+    "card_text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: You can send 2 \"Monarch\" Spells/Traps with different names from your hand and/or Deck to the GY, and if you do, shuffle 1 card from your opponent's hand (at random), GY, or their field into the Deck. Once per turn, during the Main Phase, if this card is in your GY (Quick Effect): You can discard 1 \"Monarch\" Spell/Trap, then target 1 monster in your GY with 2400 or more ATK and 1000 DEF; add it to your hand.",
+    "release_date": "2016-01-29",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "EMPEROR OF DARKNESS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Domain of the True Monarchs",
+        "Escalation of the Monarchs",
+        "Frost Blast of the Monarchs",
+        "March of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Restoration of the Monarchs",
+        "Return of the Monarchs",
+        "Strike of the Monarchs",
+        "Tenacity of the Monarchs",
+        "The First Monarch",
+        "The Monarchs Awaken",
+        "The Monarchs Erupt",
+        "The Monarchs Masterplan",
+        "The Monarchs Revolt",
+        "The Monarchs Stormforth",
+        "The Prime Monarch"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 1000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Ghost Ogre & Snow Rabbit",
+    "filename": "Ghost_Ogre___Snow_Rabbit",
+    "card_text": "When a monster on the field activates its effect, or when a Spell/Trap that is already face-up on the field activates its effect (Quick Effect): You can send this card from your hand or field to the GY; destroy that card on the field. You can only use this effect of \"Ghost Ogre & Snow Rabbit\" once per turn.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "CROSSED SOULS",
+        "Legendary 5D's Decks",
+        "2016 MEGA-TINS",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "Gold Series: Maximum Gold",
+        "DUEL POWER",
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "Duel Devastator",
+        "OTS TOURNAMENT PACK 5",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "WINNER'S PACK 2026-2027",
+        "QUARTER CENTURY STAMPEDE",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 1800,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

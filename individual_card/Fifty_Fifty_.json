@@ -1,0 +1,12 @@
+{
+    "name": "Fifty Fifty?",
+    "filename": "Fifty_Fifty_",
+    "card_text": "Take 1 monster and 2 Traps from your Deck and reveal them, your opponent randomly picks 1 and you look at the remaining 2 to banish 1 Trap from it, then your opponent chooses 1 of these effects for you to apply.\n\u25cfReveal the card picked by your opponent, and if it was a monster, add it to your hand or Special Summon it, or if it wasn't, banish it, also shuffle the rest into the Deck.\n\u25cfReveal the card that was not picked by your opponent nor banished by you, and if it was a monster, add it to your hand, or if it wasn't, banish it, also shuffle the rest into the Deck.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

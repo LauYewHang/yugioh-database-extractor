@@ -1,0 +1,34 @@
+{
+    "name": "Vanquish Soul Hollie Sue",
+    "filename": "Vanquish_Soul_Hollie_Sue",
+    "card_text": "During the Main Phase (Quick Effect): You can reveal 1 other \"Vanquish Soul\" monster in your hand; Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n\u25cfEARTH & DARK: Take control of 1 monster your opponent controls with the lowest ATK (your choice, if tied) until the End Phase.\n\u25cfFIRE & DARK: Special Summon 1 non-Psychic \"Vanquish Soul\" monster from your Deck.\nYou can only use each effect of \"Vanquish Soul Hollie Sue\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Rock of the Vanquisher",
+        "Stake your Soul!",
+        "Vanquish Soul - Continue?",
+        "Vanquish Soul Caesar Valius",
+        "Vanquish Soul Calamity Caesar",
+        "Vanquish Soul Dr. Mad Love",
+        "Vanquish Soul Dust Devil",
+        "Vanquish Soul Heavy Borger",
+        "Vanquish Soul Jiaolong",
+        "Vanquish Soul Pantera",
+        "Vanquish Soul Pluton HG",
+        "Vanquish Soul Razen",
+        "Vanquish Soul Rocks",
+        "Vanquish Soul Snow Devil",
+        "Vanquish Soul Trinity Burst",
+        "Vanquish Soul, Start!"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 2200,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

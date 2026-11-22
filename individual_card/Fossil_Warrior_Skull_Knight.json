@@ -1,0 +1,25 @@
+{
+    "name": "Fossil Warrior Skull Knight",
+    "filename": "Fossil_Warrior_Skull_Knight",
+    "card_text": "1 Rock monster + 1 Level 5 or 6 monster\nMust first be Special Summoned with \"Fossil Fusion\". If this card attacks a Defense Position monster, inflict piercing battle damage. When this attacking card destroys a monster by battle: You can activate this effect; this card can make a second attack in a row. You can banish this card from your GY, then target 1 monster on the field; destroy it. You can only use this effect of \"Fossil Warrior Skull Knight\" once per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Flint Cragger",
+        "Fossil Fusion",
+        "Time Stream",
+        "Weathering Soldier"
+    ],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 1100,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

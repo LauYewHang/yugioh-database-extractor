@@ -1,0 +1,26 @@
+{
+    "name": "K9-EW Special Release Experiment",
+    "filename": "K9_EW_Special_Release_Experiment",
+    "card_text": "Special Summon 1 \"K9\" monster from your hand or GY, then you can Special Summon 1 \"K9\" Xyz Monster from your Extra Deck, by using that monster as material (this is treated as an Xyz Summon), but destroy the monster Special Summoned from the Extra Deck, during the End Phase of the next turn. During the End Phase: You can banish this card from your GY, then target 1 \"K9\" Quick-Play Spell in your GY; Set it. You can only use each effect of \"K9-EW Special Release Experiment\" once per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "\"A Case for K9\"",
+        "K9-04 Noroi",
+        "K9-17 \"Ripper\"",
+        "K9-17 Izuna",
+        "K9-66a Jokul",
+        "K9-66b Lantern",
+        "K9-66X \"Jacks\"",
+        "K9-LC Release Restraint",
+        "K9-X \"Ripper/M\"",
+        "K9-X \"Werewolf\"",
+        "K9-X Forced Release",
+        "K9-\u00d8\u00d8 \"Hound\"",
+        "K9-\u00d8\u00d8 Lupis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

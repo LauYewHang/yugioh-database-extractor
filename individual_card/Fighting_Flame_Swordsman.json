@@ -1,0 +1,30 @@
+{
+    "name": "Fighting Flame Swordsman",
+    "filename": "Fighting_Flame_Swordsman",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 Spell/Trap that mentions \"Flame Swordsman\" from your Deck to your hand. If this card is sent to the GY: You can send 1 \"Flame Swordsman\" or 1 monster that mentions it from your Deck or Extra Deck to the GY, except \"Fighting Flame Swordsman\". You can only use each effect of \"Fighting Flame Swordsman\" once per turn.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS"
+    ],
+    "related_card": [
+        "Dark Flare Knight",
+        "Dark Flare Swordsman",
+        "Fighting Flame Dragon",
+        "Fighting Flame Sword",
+        "Flame Swordsdance",
+        "Flame Swordsman",
+        "Flame Swordsrealm",
+        "Mirage Swordsman",
+        "Salamandra Fusion",
+        "Salamandra, the Flying Flame Dragon",
+        "Ultimate Flame Swordsman"
+    ],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

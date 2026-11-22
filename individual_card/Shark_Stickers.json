@@ -1,0 +1,21 @@
+{
+    "name": "Shark Stickers",
+    "filename": "Shark_Stickers",
+    "card_text": "When a Fish, Sea Serpent, or Aqua-Type monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Hydrojet Shark",
+        "Surfacing Big Jaws",
+        "Veiss Shark"
+    ],
+    "attribute": "WATER",
+    "attack": 200,
+    "defense": 1000,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

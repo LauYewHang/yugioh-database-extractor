@@ -1,0 +1,31 @@
+{
+    "name": "R.B. The Brute Blues",
+    "filename": "R_B__The_Brute_Blues",
+    "card_text": "2+ Machine monsters\nGains the following effects while this card points to an \"R.B.\" monster.\n\u25cfGains ATK equal to the total original ATK of \"R.B.\" monsters it points to.\n\u25cfCan make a second attack during each Battle Phase.\n\u25cfCannot be destroyed by battle or card effects.\nDuring your Main Phase: You can add 1 \"R.B.\" card from your Deck to your hand. You can only use this effect of \"R.B. The Brute Blues\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "R.B. Funk Dock",
+        "R.B. Ga10 Cutter",
+        "R.B. Ga10 Driller",
+        "R.B. Ga10 Pile Bunker",
+        "R.B. Lambda Blade",
+        "R.B. Lambda Cannon",
+        "R.B. Last Stand",
+        "R.B. Next Phase",
+        "R.B. Operation Test",
+        "R.B. Shepherd's Crook",
+        "R.B. Stage Landing",
+        "R.B. VALCan Booster",
+        "R.B. VALCan Rocket"
+    ],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

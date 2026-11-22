@@ -1,0 +1,31 @@
+{
+    "name": "Swordsoul Strife",
+    "filename": "Swordsoul_Strife",
+    "card_text": "If a card(s) is banished (except during the Damage Step): You can banish 1 Wyrm Synchro Monster or 1 \"Swordsoul\" card from your hand, Deck, GY, or that is face-up on either field. If this card is banished: You can Special Summon 1 \"Swordsoul Token\" (Wyrm/Tuner/WATER/Level 4/ATK 0/DEF 0). While that Token is in the Monster Zone, the player who Summoned it cannot Special Summon monsters from the Extra Deck, except Synchro Monsters. You can only use each effect of \"Swordsoul Strife\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "MAGNIFICENT MAVENS"
+    ],
+    "related_card": [
+        "Incredible Ecclesia, the Virtuous",
+        "Swordsoul Assessment",
+        "Swordsoul Auspice Chunjun",
+        "Swordsoul Blackout",
+        "Swordsoul Emergence",
+        "Swordsoul Grandmaster - Chixiao",
+        "Swordsoul of Mo Ye",
+        "Swordsoul of Taia",
+        "Swordsoul Punishment",
+        "Swordsoul Sacred Summit",
+        "Swordsoul Sinister Sovereign - Qixing Longyuan",
+        "Swordsoul Strategist Longyuan",
+        "Swordsoul Supreme Sovereign - Chengying",
+        "The Abyss Dragon Swordsoul",
+        "The Golden Swordsoul",
+        "The Iris Swordsoul",
+        "The Three Champions of Swordsoul"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

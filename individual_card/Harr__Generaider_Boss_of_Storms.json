@@ -1,0 +1,35 @@
+{
+    "name": "Harr, Generaider Boss of Storms",
+    "filename": "Harr__Generaider_Boss_of_Storms",
+    "card_text": "You can only control 1 \"Harr, Generaider Boss of Storms\". Once per turn, if your opponent adds a card(s) from the Deck to their hand, except during the Draw Phase (Quick Effect): You can make your opponent send 1 monster from their hand or field to the GY (their choice). When a card or effect is activated (Quick Effect): You can Tribute 2 \"Generaider\" and/or Spellcaster monsters; negate the activation, and if you do, destroy that card. You can only use this effect of \"Harr, Generaider Boss of Storms\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Dovelgus, Generaider Boss of Iron",
+        "Frodi, Generaider Boss of Swords",
+        "Generaider Boss Bite",
+        "Generaider Boss Fight",
+        "Generaider Boss Loot",
+        "Generaider Boss Quest",
+        "Generaider Boss Room",
+        "Generaider Boss Stage",
+        "Hela, Generaider Boss of Doom",
+        "Jormungandr, Generaider Boss of Eternity",
+        "Laevatein, Generaider Boss of Shadows",
+        "Loptr, Shadow of the Generaider Bosses",
+        "Mardel, Generaider Boss of Light",
+        "Naglfar, Generaider Boss of Fire",
+        "Nidhogg, Generaider Boss of Ice",
+        "Utgarda, Generaider Boss of Delusion",
+        "Vala, Seidhr of the Generaider Bosses"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

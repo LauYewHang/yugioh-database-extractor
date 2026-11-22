@@ -1,0 +1,13 @@
+{
+    "name": "Blessings of the Nile",
+    "filename": "Blessings_of_the_Nile",
+    "card_text": "Each time card(s) are discarded from your hand to the Graveyard by the effect of a card controlled by your opponent, increase your Life Points by 1000 points.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

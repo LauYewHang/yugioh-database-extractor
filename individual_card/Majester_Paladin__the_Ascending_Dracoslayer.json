@@ -1,0 +1,35 @@
+{
+    "name": "Majester Paladin, the Ascending Dracoslayer",
+    "filename": "Majester_Paladin__the_Ascending_Dracoslayer",
+    "card_text": "2 Level 4 Pendulum Monsters\nWhen this card is Xyz Summoned: You can add 1 Pendulum Monster from your Deck to your hand during the End Phase of this turn. Once per turn: You can detach 1 material from this card; Special Summon 1 face-up \"Dracoslayer\" Pendulum Monster from your Extra Deck, but it cannot be used as material for an Xyz Summon.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Dinomight Powerload, the Dracoslayer",
+        "Dinoster Power, the Mighty Dracoslayer",
+        "Draco Awakening",
+        "Draco Face-Off",
+        "Dragonic Pendulum",
+        "Forge of the True Dracos",
+        "Ignis Phoenix, the Dracoslayer",
+        "Ignister Prominence, the Blasting Dracoslayer",
+        "Luster Pendulum, the Dracoslayer",
+        "Majespecter Draco - Ryu",
+        "Majespecter Orthrus - Nue",
+        "Majesty Pegasus, the Dracoslayer",
+        "Master Peace, the True Dracoslayer",
+        "Master Pendulum, the Dracoslayer",
+        "Wind Unicorn Parallel, the Dracoslayer"
+    ],
+    "attribute": "WIND",
+    "attack": 1850,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

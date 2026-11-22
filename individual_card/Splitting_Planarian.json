@@ -1,0 +1,18 @@
+{
+    "name": "Splitting Planarian",
+    "filename": "Splitting_Planarian",
+    "card_text": "You can banish this card you control; Special Summon 2 Level 3 Insect monsters from your Deck with the same name from each other, but their effects are negated, also banish them during the End Phase. You can only use this effect of \"Splitting Planarian\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 800,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

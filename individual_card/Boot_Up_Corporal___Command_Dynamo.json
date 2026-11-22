@@ -1,0 +1,33 @@
+{
+    "name": "Boot-Up Corporal - Command Dynamo",
+    "filename": "Boot_Up_Corporal___Command_Dynamo",
+    "card_text": "You can target up to 2 Machine \"Gadget\" monsters you control or in your GY with different names; Special Summon this card from your hand, then equip those targets to this card (regardless of their Type). You can only use this effect of \"Boot-Up Corporal - Command Dynamo\" once per turn. Gains 1000 ATK for each monster equipped to this card by this effect.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Ancient Gear Gadget",
+        "Cyberse Gadget",
+        "Gadget Arms",
+        "Gadget Box",
+        "Gadget Driver",
+        "Gadget Gamer",
+        "Gadget Hauler",
+        "Gadget Soldier",
+        "Gadget Trio",
+        "Gold Gadget",
+        "Green Gadget",
+        "Platinum Gadget",
+        "Red Gadget",
+        "Silver Gadget",
+        "Yellow Gadget"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

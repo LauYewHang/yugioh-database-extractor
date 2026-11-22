@@ -1,0 +1,20 @@
+{
+    "name": "Darkness Neosphere",
+    "filename": "Darkness_Neosphere",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 1 Fiend-Type monster you control and 1 Fiend-Type monster from your hand to the Graveyard when your opponent's monster declares an attack. This card cannot be destroyed by battle. Once per turn, you can return all face-up Trap Cards you control to the hand.",
+    "release_date": "2011-04-09",
+    "available_set": [
+        "SHONEN JUMP Promotional Card - November 2009 -",
+        "TURBO PACK BOOSTER FIVE"
+    ],
+    "related_card": [
+        "Elemental HERO Divine Neos"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Malefic Truth Dragon",
+    "filename": "Malefic_Truth_Dragon",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a \"Malefic\" monster you control, except \"Malefic Truth Dragon\", is destroyed by battle or by card effect: You can pay half your Life Points; Special Summon this card from your hand or Graveyard. There can only be 1 \"Malefic\" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. If this card destroys an opponent's monster by battle: Destroy all face-up monsters your opponent controls.",
+    "release_date": "2012-10-30",
+    "available_set": [
+        "STAR PACK 2014",
+        "COLLECTIBLE TIN 2012 WAVE 2",
+        "SHONEN JUMP Promotional Card - March 2011 -"
+    ],
+    "related_card": [
+        "Malefic Blue-Eyes White Dragon",
+        "Malefic Claw Stream",
+        "Malefic Cyber End Dragon",
+        "Malefic Divide",
+        "Malefic Force",
+        "Malefic Paradigm Dragon",
+        "Malefic Paradigm Shift",
+        "Malefic Paradox Dragon",
+        "Malefic Paradox Gear",
+        "Malefic Parallel Gear",
+        "Malefic Rainbow Dragon",
+        "Malefic Red-Eyes Black Dragon (Updated from: Malefic Red-Eyes B. Dragon)",
+        "Malefic Selector",
+        "Malefic Stardust Dragon",
+        "Malefic Territory",
+        "Malefic Tune",
+        "Malefic World"
+    ],
+    "attribute": "DARK",
+    "attack": 5000,
+    "defense": 5000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Sky Striker Maneuver - Jamming Waves!",
+    "filename": "Sky_Striker_Maneuver___Jamming_Waves_",
+    "card_text": "If you control no monsters in your Main Monster Zone: Target 1 Set Spell/Trap on the field; destroy it, then, if you have 3 or more Spells in your GY, you can destroy 1 monster on the field.",
+    "release_date": "2018-05-25",
+    "available_set": [
+        "DARK SAVIORS",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "LEGENDARY MODERN DECKS 2026"
+    ],
+    "related_card": [
+        "Aileron",
+        "Pillar of the Future - Cyanos",
+        "Sage of Benevolence - Ciela",
+        "Sage of Strength - Akash",
+        "Sage of Wisdom - Himmel",
+        "Sky Striker Ace - Azalea Temperance",
+        "Sky Striker Ace - Camellia",
+        "Sky Striker Ace - Hayate",
+        "Sky Striker Ace - Kagari",
+        "Sky Striker Ace - Kaina",
+        "Sky Striker Ace - Shizuku",
+        "Sky Striker Ace = Zero",
+        "Sky Striker Airspace - Area Zero",
+        "Sky Striker Mecha - Adil Saber",
+        "Sky Striker Mecha Modules - Multirole",
+        "Sky Striker Mecharmory - Hercules Base",
+        "Sky Striker Mobilize - Engage!",
+        "Sky Striker Special Maneuver - Lemnisgate!",
+        "Surgical Striker - H.A.M.P."
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

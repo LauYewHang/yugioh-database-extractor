@@ -1,0 +1,18 @@
+{
+    "name": "Cucumber Horse",
+    "filename": "Cucumber_Horse",
+    "card_text": "This card in the Monster Zone is sent to the GY, except during the Battle Phase. At the start of the Battle Phase, if this card is in your GY: You can send 1 Plant monster from your hand or face-up field to the GY; Special Summon this card, then you can Special Summon 1 monster from either GY to your field, but send these Special Summoned monsters to the GY at the end of the Battle Phase. You can only use this effect of \"Cucumber Horse\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 2000,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

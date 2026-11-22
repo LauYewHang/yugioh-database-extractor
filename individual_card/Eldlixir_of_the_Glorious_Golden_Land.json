@@ -1,0 +1,26 @@
+{
+    "name": "Eldlixir of the Glorious Golden Land",
+    "filename": "Eldlixir_of_the_Glorious_Golden_Land",
+    "card_text": "You can pay 800 LP, then activate 1 of these effects;\n\u25cfSpecial Summon this card as a Normal Monster (Zombie/LIGHT/Level 10/ATK 1500/DEF 2800) (this card is also still a Trap), then if you control \"Eldlich the Golden Lord\", you can return 1 monster from the field to the hand.\n\u25cfSet 1 of your banished \"Golden Land\" or \"Eldlixir\" Spells/Traps.\nYou can only use this effect of \"Eldlixir of the Glorious Golden Land\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Conquistador of the Golden Land",
+        "Cursed Eldland",
+        "El Dorado Adelantado",
+        "Eldlich the Golden Lord",
+        "Eldlich the Mad Golden Lord",
+        "Eldlixir of Black Awakening",
+        "Eldlixir of Scarlet Sanguine",
+        "Eldlixir of White Destiny",
+        "Fallen Angel of the Golden Land",
+        "Golden Land Forever!",
+        "Guardian of the Golden Land",
+        "Huaquero of the Golden Land",
+        "Seven Cities of the Golden Land"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

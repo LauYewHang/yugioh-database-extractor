@@ -1,0 +1,41 @@
+{
+    "name": "Invoked Elysium",
+    "filename": "Invoked_Elysium",
+    "card_text": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn (Quick Effect): You can target 1 \"Invoked\" monster you control or in your GY; banish it and all monsters your opponent controls with the same Attribute as that monster.",
+    "release_date": "2017-02-24",
+    "available_set": [
+        "FUSION ENFORCERS",
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Aiwass, Divine Spirit of the Law",
+        "Aleister the Reminiscent",
+        "Crowley, the Gifted Magistus",
+        "Gamma Summon",
+        "Hyperinvoked Aeon",
+        "Invocation",
+        "Invocation - \"Grail\"",
+        "Invocation - \"Sword\"",
+        "Invoked Augoeides",
+        "Invoked Baybarron",
+        "Invoked Caliga",
+        "Invoked Cocytus",
+        "Invoked De Anima",
+        "Invoked Magellanica",
+        "Invoked Magistus Omega",
+        "Invoked Mechaba",
+        "Invoked Oceanus",
+        "Invoked Purgatrio",
+        "Invoked Raidjin",
+        "Invoked Sorath",
+        "Omega Summon",
+        "The Book of the Law"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3200,
+    "defense": 4000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

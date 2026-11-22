@@ -1,0 +1,17 @@
+{
+    "name": "Flame Ogre",
+    "filename": "Flame_Ogre",
+    "card_text": "This card cannot be Special Summoned. When this card is Normal Summoned, draw 1 card.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 1700,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

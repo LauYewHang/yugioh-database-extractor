@@ -1,0 +1,41 @@
+{
+    "name": "Inzektor Earwig",
+    "filename": "Inzektor_Earwig",
+    "card_text": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster gains ATK and DEF equal to this card's ATK and DEF. When this card is sent to the Graveyard while equipped to a monster: The monster this card was equipped to gains 1000 ATK, until the End Phase.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Armor Blast",
+        "Final Inzektion",
+        "Inzektor Ant",
+        "Inzektor Axe - Zektahawk",
+        "Inzektor Centipede",
+        "Inzektor Crossbow - Zektarrow",
+        "Inzektor Dragonfly",
+        "Inzektor Exa-Beetle",
+        "Inzektor Exa-Stag",
+        "Inzektor Firefly",
+        "Inzektor Gauntlet",
+        "Inzektor Giga-Cricket",
+        "Inzektor Giga-Mantis",
+        "Inzektor Giga-Weevil",
+        "Inzektor Hopper",
+        "Inzektor Hornet",
+        "Inzektor Ladybug",
+        "Inzektor Orb",
+        "Inzektor Picofalena",
+        "Inzektor Sword - Zektkaliber",
+        "Variable Form",
+        "Zekt Conversion",
+        "Zektrike Kou-ou"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

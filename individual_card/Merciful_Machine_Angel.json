@@ -1,0 +1,21 @@
+{
+    "name": "Merciful Machine Angel",
+    "filename": "Merciful_Machine_Angel",
+    "card_text": "Tribute 1 \"Cyber Angel\" Ritual Monster from your hand or field; draw 2 cards, then place 1 card from your hand on the bottom of the Deck. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except Ritual Monsters. You can only activate 1 \"Merciful Machine Angel\" per turn.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE"
+    ],
+    "related_card": [
+        "Cyber Angel Benten",
+        "Cyber Angel Dakini",
+        "Cyber Angel Idaten",
+        "Cyber Angel Izana",
+        "Cyber Angel Natasha",
+        "Cyber Angel Vrash",
+        "Cyber Egg Angel"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

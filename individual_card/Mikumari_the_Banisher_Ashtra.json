@@ -1,0 +1,27 @@
+{
+    "name": "Mikumari the Banisher Ashtra",
+    "filename": "Mikumari_the_Banisher_Ashtra",
+    "card_text": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand or Extra Deck. You can only Special Summon \"Mikumari the Banisher Ashtra\" once per turn this way. You can only use each of the following effects of \"Mikumari the Banisher Ashtra\" once per turn. During your Main Phase: You can add 1 non-Wyrm \"Ashtra\" monster from your Deck to your hand. If this card is sent to the GY as Synchro Material for an \"Ashtra\" Synchro Monster: You can target 1 Normal Trap in your GY; Set it.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Akasuna the Battle Ashtra",
+        "Ashtra's Domain",
+        "Ashtra's Howl",
+        "Ashtra's Web",
+        "Ashtraja Susanoo",
+        "Ashtrashen - Gate to the Worlds Beyond",
+        "Ashtraya Mikumari-no-Mikoto",
+        "Kuzuha the Hex Ashtra",
+        "Yoa the Plague Ashtra"
+    ],
+    "attribute": "WATER",
+    "attack": 2000,
+    "defense": 2500,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Victory Dragon",
+    "filename": "Victory_Dragon",
+    "card_text": "This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Dragon-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
+    "release_date": "2003-06-27",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2003",
+        "RETRO PACK 2",
+        "SHONEN JUMP Promotional Card - January 2007 -"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Wings of Wicked Flame",
+    "filename": "Wings_of_Wicked_Flame",
+    "card_text": "Crimson wings of fire make this a very lethal creature.",
+    "release_date": "2014-02-07",
+    "available_set": [
+        "ASTRAL PACK FOUR"
+    ],
+    "related_card": [
+        "Mavelus"
+    ],
+    "attribute": "FIRE",
+    "attack": 700,
+    "defense": 600,
+    "monster_type": "Pyro",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

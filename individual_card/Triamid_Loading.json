@@ -1,0 +1,21 @@
+{
+    "name": "Triamid Loading",
+    "filename": "Triamid_Loading",
+    "card_text": "If a Field Spell is placed face-up in the Field Zone: You can add 1 \"Triamid\" Spell/Trap from your Deck to your hand, except \"Triamid Loading\". If a face-up Rock monster(s) you control is destroyed by battle or an opponent's card effect: You can Special Summon 1 \"Triamid\" monster with a different name from your Deck. You can only use each effect of \"Triamid Loading\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Triamid Cruiser",
+        "Triamid Dancer",
+        "Triamid Fortress",
+        "Triamid Hunter",
+        "Triamid Kingolem",
+        "Triamid Master",
+        "Triamid Pulse",
+        "Triamid Sphinx"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

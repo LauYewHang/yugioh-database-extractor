@@ -1,0 +1,38 @@
+{
+    "name": "Unchained Soul of Anguish",
+    "filename": "Unchained_Soul_of_Anguish",
+    "card_text": "2+ monsters, including an \"Unchained Soul\" monster\nYou can target 1 face-up monster your opponent controls; immediately after this effect resolves, Link Summon 1 DARK Link Monster, except \"Unchained Soul of Anguish\", by using only that opponent's monster and this card you control. If this card on the field is destroyed by battle or card effect: You can target 1 Fiend monster in your GY, except \"Unchained Soul of Anguish\"; add it to your hand. You can only use each effect of \"Unchained Soul of Anguish\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "2020 TIN OF LOST MEMORIES",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abominable Unchained Soul",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Firelord of Yama",
+        "Unchained Hunger",
+        "Unchained Oni of Shyma",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Rage",
+        "Unchained Soul of Sharvara",
+        "Unchained Soul of Shyama",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Wailing of the Unchained Souls"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 266
+}

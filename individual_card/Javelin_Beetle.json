@@ -1,0 +1,19 @@
+{
+    "name": "Javelin Beetle",
+    "filename": "Javelin_Beetle",
+    "card_text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Javelin Beetle Pact\".",
+    "release_date": "2007-07-26",
+    "available_set": [
+        "PREMIUM PACK"
+    ],
+    "related_card": [
+        "Javelin Beetle Pact"
+    ],
+    "attribute": "EARTH",
+    "attack": 2450,
+    "defense": 2550,
+    "monster_type": "Insect",
+    "monster_card_type": "Ritual",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

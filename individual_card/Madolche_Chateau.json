@@ -1,0 +1,43 @@
+{
+    "name": "Madolche Chateau",
+    "filename": "Madolche_Chateau",
+    "card_text": "When this card is activated: Shuffle all \"Madolche\" monsters in your GY into the Deck. All \"Madolche\" monsters on the field gain 500 ATK/DEF. If a monster(s) in your GY would be returned to the Deck by the effect of a \"Madolche\" monster, you can add it to your hand instead.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "GHOSTS FROM THE PAST",
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Madolche Anjelly",
+        "Madolche Baaple",
+        "Madolche Butlerusk",
+        "Madolche Chickolates",
+        "Madolche Chouxvalier",
+        "Madolche Cruffssant",
+        "Madolche Dessert",
+        "Madolche Fresh Sistart",
+        "Madolche Hootcake",
+        "Madolche Lesson",
+        "Madolche Magileine",
+        "Madolche Marmalmaide",
+        "Madolche Messengelato",
+        "Madolche Mewfeuille",
+        "Madolche Mini Meowcaroons",
+        "Madolche Nights",
+        "Madolche Petingcessoeur",
+        "Madolche Promenade",
+        "Madolche Puddingcess",
+        "Madolche Puddingcess Chocolat-a-la-Mode",
+        "Madolche Queen Tiarafraise",
+        "Madolche Queen Tiaramisu",
+        "Madolche Salon",
+        "Madolche Tea Break",
+        "Madolche Teacher Glassouffle",
+        "Madolche Ticket",
+        "Madolche Waltz",
+        "Madolchepalooza"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

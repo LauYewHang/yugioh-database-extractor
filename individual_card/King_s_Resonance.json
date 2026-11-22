@@ -1,0 +1,25 @@
+{
+    "name": "King's Resonance",
+    "filename": "King_s_Resonance",
+    "card_text": "During the turn in which your opponent has Special Summoned 10 or more monsters, neither player can activate cards or effects in response to this card's activation. Apply the following effects in sequence, based on the number of monsters your opponent Special Summoned this turn.\n\u25cf1+: Special Summon 1 DARK Synchro Monster from your GY or banishment.\n\u25cf3+: Every \"Red Dragon Archfiend\" in your Monster Zone is unaffected by your opponent's activated effects, until the end of your next turn.\n\u25cf5+: Change all your opponent's monsters to face-down Defense Position.\nYou can only activate 1 \"King's Resonance\" per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Crimson Call",
+        "Crimson Gaia",
+        "Fiend Piece Golem",
+        "Fiendish Golem",
+        "Red Dragon Archfiend",
+        "Red Zone",
+        "Scarlight Red Dragon Archfiend",
+        "Scarred Dragon Archfiend",
+        "Soul Resonator",
+        "The Crimson King",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

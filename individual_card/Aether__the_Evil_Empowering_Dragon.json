@@ -1,0 +1,27 @@
+{
+    "name": "Aether, the Evil Empowering Dragon",
+    "filename": "Aether__the_Evil_Empowering_Dragon",
+    "card_text": "When this card is Normal or Special Summoned: You can target 1 monster on the field; banish it.",
+    "release_date": "2016-09-02",
+    "available_set": [
+        "2016 MEGA-TINS"
+    ],
+    "related_card": [
+        "Arnis, the Empowered Warrior",
+        "Dragodies, the Empowered Warrior",
+        "Dragonox, the Empowered Warrior",
+        "Empowerment",
+        "Hydrotortoise, the Empowered Warrior",
+        "Terratiger, the Empowered Warrior",
+        "Ventdra, the Empowered Warrior"
+    ],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": 1600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6,
+    "pendulum_effect": "Once per turn: You can banish 1 \"Empowered Warrior\" monster from your Graveyard, then target 1 card on the field; destroy it.",
+    "pendulum_scale": 4
+}

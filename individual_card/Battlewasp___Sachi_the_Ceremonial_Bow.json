@@ -1,0 +1,33 @@
+{
+    "name": "Battlewasp - Sachi the Ceremonial Bow",
+    "filename": "Battlewasp___Sachi_the_Ceremonial_Bow",
+    "card_text": "1 Insect Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can treat it as a Tuner. Once per turn: You can return 1 Continuous Spell you control to the hand; you can Normal Summon 1 \"Battlewasp\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card is sent to the GY as Synchro Material: You can inflict 100 damage to your opponent for each of your banished \"Battlewasp\" monsters. You can only use this effect of \"Battlewasp - Sachi the Ceremonial Bow\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Ballista the Armageddon",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Grand Partisan the Revolution",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Nest",
+        "Battlewasp - Pin the Bullseye",
+        "Battlewasp - Rapier the Onslaught",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp - Twinbow the Attacker",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1200,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

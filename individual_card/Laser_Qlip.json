@@ -1,0 +1,30 @@
+{
+    "name": "Laser Qlip",
+    "filename": "Laser_Qlip",
+    "card_text": "During your Main Phase, you can Normal Summon 1 \"Qli\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Normal Summons of \"Qli\" monsters cannot be negated.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "Apoqliphort Skybase",
+        "Apoqliphort Towers",
+        "Qlife's End",
+        "Qlimate Change",
+        "Qliphort Carrier",
+        "Qliphort Cephalopod",
+        "Qliphort Disk",
+        "Qliphort Genius",
+        "Qliphort Helix",
+        "Qliphort Monolith",
+        "Qliphort Scout",
+        "Qliphort Shell",
+        "Qliphort Stealth",
+        "Qlipper Launch",
+        "Re-qliate",
+        "Saqlifice"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

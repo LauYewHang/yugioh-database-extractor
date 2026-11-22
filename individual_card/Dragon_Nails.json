@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Nails",
+    "filename": "Dragon_Nails",
+    "card_text": "Equip only to a DARK monster. It gains 600 ATK, also it cannot be destroyed by your opponent's card effects. If this card is sent to the GY because the equipped monster was destroyed by battle and sent to the GY: You can Special Summon that monster, and if you do, equip this card to it, but banish this card when it leaves the field. You can only use this effect of \"Dragon Nails\" once per turn.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

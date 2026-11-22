@@ -1,0 +1,12 @@
+{
+    "name": "White Mirror",
+    "filename": "White_Mirror",
+    "card_text": "Target 1 Level 4 or lower Fish monster in your GY; Special Summon it, then you can add 1 monster from your Deck to your hand with the same original name as that Special Summoned monster. You can only activate \"White Mirror\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

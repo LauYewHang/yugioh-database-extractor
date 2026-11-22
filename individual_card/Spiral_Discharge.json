@@ -1,0 +1,17 @@
+{
+    "name": "Spiral Discharge",
+    "filename": "Spiral_Discharge",
+    "card_text": "While \"Gaia the Dragon Champion\" is in your Monster Zone, your opponent's monsters can only target \"Gaia the Dragon Champion\" for attacks. When an attack is declared involving your \"Gaia the Dragon Champion\": You can target 1 card on the field; destroy it. You can only use this effect of \"Spiral Discharge\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Curse of Dragon, the Cursed Dragon",
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight of Dragons",
+        "Sky Galloping Gaia the Dragon Champion"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

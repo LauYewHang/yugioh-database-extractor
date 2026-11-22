@@ -1,0 +1,32 @@
+{
+    "name": "Void Breach",
+    "filename": "Void_Breach",
+    "card_text": "\"Infernoid\" monsters you control gain 100 ATK for each of your banished \"Infernoid\" monsters. If you control no monsters, or all monsters you control are Fiend monsters: You can activate 1 of these effects;\n\u25cfAdd 1 of your banished \"Infernoid\" monsters to your hand.\n\u25cfSpecial Summon 1 \"Infernoid\" monster from your hand, ignoring its Summoning conditions.\nYou can only use this effect of \"Void Breach\" once per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "El Shaddoll Meshachrer",
+        "Infernity Pawn",
+        "Infernoid Antra",
+        "Infernoid Attondel",
+        "Infernoid Decatron",
+        "Infernoid Devyaty",
+        "Infernoid Evil",
+        "Infernoid Flood",
+        "Infernoid Harmadik",
+        "Infernoid Onuncu",
+        "Infernoid Patrulea",
+        "Infernoid Piaty",
+        "Infernoid Pirmais",
+        "Infernoid Seitsemas",
+        "Infernoid Sjette",
+        "Infernoid Tierra",
+        "Void Feast",
+        "Void Reignition",
+        "Void Vanishment"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

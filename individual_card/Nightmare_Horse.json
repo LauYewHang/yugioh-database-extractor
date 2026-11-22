@@ -1,0 +1,20 @@
+{
+    "name": "Nightmare Horse",
+    "filename": "Nightmare_Horse",
+    "card_text": "This card can attack your opponent's Life Points directly even if there is a monster on your opponent's side of the field.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [
+        "Reaper on the Nightmare"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 400,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Tri-Brigade Showdown",
+    "filename": "Tri_Brigade_Showdown",
+    "card_text": "If a Beast, Beast-Warrior, or Winged Beast monster is Special Summoned to your field (except during the Damage Step): You can target 1 of your banished \"Tri-Brigade\" monsters; add it to your hand. After damage calculation, if your \"Tri-Brigade\" monster battled an opponent's monster: You can return the opponent's monster to the hand. You can only use each effect of \"Tri-Brigade Showdown\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Airborne Assault",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Ferrijit the Barren Blossom",
+        "Tri-Brigade Fraktall",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kerass",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Oath",
+        "Tri-Brigade Rendezvous",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Rugal the Silver Sheller",
+        "Tri-Brigade Shuraig the Ominous Omen",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

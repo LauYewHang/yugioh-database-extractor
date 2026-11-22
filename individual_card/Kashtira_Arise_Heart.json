@@ -1,0 +1,33 @@
+{
+    "name": "Kashtira Arise-Heart",
+    "filename": "Kashtira_Arise_Heart",
+    "card_text": "3 Level 7 monsters\nOnce per turn, you can also Xyz Summon \"Kashtira Arise-Heart\" by using 1 \"Kashtira\" monster you control, if an effect of \"Kashtira Shangri-Ira\" was successfully activated this turn. (Transfer its materials to this card.) Any card sent to the GY is banished instead. Once per Chain, each time a card(s) is banished: Attach 1 banished card to this card as material. Once per turn (Quick Effect): You can detach 3 materials from this card, then target 1 card on the field; banish it face-down.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Kashtira Akstra",
+        "Kashtira Big Bang",
+        "Kashtira Birth",
+        "Kashtira Fenrir",
+        "Kashtira Ogre",
+        "Kashtira Overlap",
+        "Kashtira Preparations",
+        "Kashtira Riseheart",
+        "Kashtira Shangri-Ira",
+        "Kashtira Unicorn",
+        "Kashtiratheosis",
+        "Loka Samsara",
+        "Pressured Planet Wraitsoth",
+        "Scareclaw Kashtira",
+        "Tearlaments Kashtira"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 7
+}

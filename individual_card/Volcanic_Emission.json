@@ -1,0 +1,31 @@
+{
+    "name": "Volcanic Emission",
+    "filename": "Volcanic_Emission",
+    "card_text": "Activate 1 of these effects (but you can only use each effect of \"Volcanic Emission\" once per turn);\n\u25cfTake 1 \"Volcanic\" monster from your Deck, and either add it to your hand or Special Summon it, ignoring its Summoning conditions, but return it to the hand during the End Phase.\n\u25cfTarget 1 Pyro monster on the field; inflict damage to your opponent equal to that monster's original ATK, or if you targeted a monster you control, the damage is halved.",
+    "release_date": "2023-08-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Blaze Accelerator Reload",
+        "Fire Ejection",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Counter",
+        "Volcanic Doomfire",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Queen",
+        "Volcanic Rat",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Rocket",
+        "Volcanic Scattershot",
+        "Volcanic Shell",
+        "Volcanic Slicer",
+        "Volcanic Trooper"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

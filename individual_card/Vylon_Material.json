@@ -1,0 +1,39 @@
+{
+    "name": "Vylon Material",
+    "filename": "Vylon_Material",
+    "card_text": "Equip only to a \"Vylon\" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+    "release_date": "2011-05-29",
+    "available_set": [
+        "DUEL TERMINAL 5A",
+        "HIDDEN ARSENAL 5 STEELSWARM INVASION"
+    ],
+    "related_card": [
+        "Vylon Alpha",
+        "Vylon Charger",
+        "Vylon Component",
+        "Vylon Cube",
+        "Vylon Delta",
+        "Vylon Disigma",
+        "Vylon Element",
+        "Vylon Epsilon",
+        "Vylon Filament",
+        "Vylon Hept",
+        "Vylon Matter",
+        "Vylon Ohm",
+        "Vylon Omega",
+        "Vylon Pentachloro",
+        "Vylon Polytope",
+        "Vylon Prism",
+        "Vylon Segment",
+        "Vylon Sigma",
+        "Vylon Soldier",
+        "Vylon Sphere",
+        "Vylon Stella",
+        "Vylon Stigma",
+        "Vylon Tesseract",
+        "Vylon Tetra",
+        "Vylon Vanguard"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

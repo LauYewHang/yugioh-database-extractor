@@ -1,0 +1,17 @@
+{
+    "name": "Dark Prisoner",
+    "filename": "Dark_Prisoner",
+    "card_text": "This monster bends light to hide its image from the eyes of opponents.",
+    "release_date": "2020-05-15",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

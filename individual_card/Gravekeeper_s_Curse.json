@@ -1,0 +1,43 @@
+{
+    "name": "Gravekeeper's Curse",
+    "filename": "Gravekeeper_s_Curse",
+    "card_text": "If this card is Summoned: Inflict 500 damage to your opponent.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "PHARAONIC GUARDIAN",
+        "DARK REVELATION Volume 1",
+        "STRUCTURE DECK - MARIK -"
+    ],
+    "related_card": [
+        "Charm of Shabti",
+        "Gravekeeper's Cannonholder",
+        "Gravekeeper's Chief",
+        "Gravekeeper's Descendant",
+        "Gravekeeper's Headman",
+        "Gravekeeper's Nobleman",
+        "Gravekeeper's Oracle",
+        "Gravekeeper's Priestess",
+        "Gravekeeper's Recruiter",
+        "Gravekeeper's Shaman",
+        "Gravekeeper's Spy",
+        "Gravekeeper's Stele",
+        "Gravekeeper's Supernaturalist",
+        "Gravekeeper's Trap",
+        "Gravekeeper's Visionary",
+        "Hidden Temples of Necrovalley",
+        "Imperial Tombs of Necrovalley",
+        "Necrovalley",
+        "Necrovalley Temple",
+        "Necrovalley Throne",
+        "Rite of Spirit"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

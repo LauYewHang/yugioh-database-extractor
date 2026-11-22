@@ -1,0 +1,43 @@
+{
+    "name": "Supreme King Z-ARC",
+    "filename": "Supreme_King_Z_ARC",
+    "card_text": "4 Dragon monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)\nMust be Fusion Summoned. If this card is Special Summoned: Destroy all cards your opponent controls. Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects. When this card destroys an opponent's monster by battle: You can Special Summon 1 \"Supreme King Dragon\" monster from your Deck or Extra Deck. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "MAXIMUM CRISIS",
+        "2018 MEGA-TINS MEGA PACK",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Astrograph Sorcerer",
+        "Chronograph Sorcerer",
+        "Miracle of the Supreme King",
+        "Odd-Eyes Arcray Dragon",
+        "Pendulum Evolution",
+        "Soul of the Supreme Celestial King",
+        "Soul of the Supreme King",
+        "Supreme King Dragon Clear Wing",
+        "Supreme King Dragon Dark Rebellion",
+        "Supreme King Dragon Darkwurm",
+        "Supreme King Dragon Lightwurm",
+        "Supreme King Dragon Odd-Eyes",
+        "Supreme King Dragon Starving Venom",
+        "Supreme King Gate Infinity",
+        "Supreme King Gate Magician",
+        "Supreme King Gate Zero",
+        "Supreme King Z-ARC - Synchro Universe",
+        "Supreme Rage",
+        "Wings of Light"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12,
+    "pendulum_effect": "Fusion, Synchro, and Xyz Monsters your opponent controls cannot activate their effects. Once per turn, when a card(s) is added from the Main Deck to your opponent's hand (except during the Draw Phase or the Damage Step): You can destroy that card(s).",
+    "pendulum_scale": 1
+}

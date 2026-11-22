@@ -1,0 +1,33 @@
+{
+    "name": "Cyber Valley",
+    "filename": "Cyber_Valley",
+    "card_text": "You can activate 1 of these effects.\n\u25cfWhen this card is targeted for an attack: You can banish this card; draw 1 card, then end the Battle Phase.\n\u25cfYou can target 1 face-up monster you control and this card; banish both those targets, then draw 2 cards.\n\u25cfYou can target 1 card in your GY; banish both this card and 1 card from your hand, then place that target on top of the Deck.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "BATTLE PACK EPIC DAWN",
+        "PHANTOM DARKNESS",
+        "LEGENDARY DRAGON DECKS",
+        "MACHINA MAYHEM STRUCTURE DECK",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STRUCTURE DECK: CYBER STRIKE"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

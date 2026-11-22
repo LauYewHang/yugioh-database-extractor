@@ -1,0 +1,15 @@
+{
+    "name": "Limiter Overload",
+    "filename": "Limiter_Overload",
+    "card_text": "If this card is sent to the Graveyard: Special Summon 1 \"Speed Warrior\" from your hand, Deck, or Graveyard.",
+    "release_date": "2009-02-24",
+    "available_set": [
+        "DUELIST PACK - YUSEI -",
+        "SYNCHRON EXTREME STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Speed Warrior"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

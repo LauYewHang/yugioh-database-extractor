@@ -1,0 +1,25 @@
+{
+    "name": "Armored Xyz",
+    "filename": "Armored_Xyz",
+    "card_text": "Target 1 face-up monster you control and 1 Xyz Monster in your GY; equip that monster from your GY to that monster on the field as an Equip Spell with these effects.\n\u25cfChange the equipped monster's ATK to this card's ATK.\n\u25cfThe equipped monster gains this card's Attribute.\n\u25cfAt the end of the Damage Step, if the equipped monster attacked: You can send this card to the GY; that attacking monster can make a second attack in a row.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "Armored Shark",
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Reincarnation Unveiling Mail",
+        "Xyz Armor Fortress",
+        "Xyz Entrust",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

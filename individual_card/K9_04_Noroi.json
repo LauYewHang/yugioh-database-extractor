@@ -1,0 +1,31 @@
+{
+    "name": "K9-04 Noroi",
+    "filename": "K9_04_Noroi",
+    "card_text": "If your opponent has 2 or more cards in their hand, you can Normal Summon this card without Tributing. You can only use each of the following effects of \"K9-04 Noroi\" once per turn. If this card is Normal Summoned: You can Special Summon 1 non-Machine \"K9\" monster from your Deck, but you cannot Special Summon from the Extra Deck, except \"K9\" monsters, while you control that face-up monster. You can send 1 face-up \"K9\" card you control to the GY; look at your opponent's hand.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "\"A Case for K9\"",
+        "K9-17 \"Ripper\"",
+        "K9-17 Izuna",
+        "K9-66a Jokul",
+        "K9-66b Lantern",
+        "K9-66X \"Jacks\"",
+        "K9-EW Special Release Experiment",
+        "K9-LC Release Restraint",
+        "K9-X \"Ripper/M\"",
+        "K9-X \"Werewolf\"",
+        "K9-X Forced Release",
+        "K9-\u00d8\u00d8 \"Hound\"",
+        "K9-\u00d8\u00d8 Lupis"
+    ],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

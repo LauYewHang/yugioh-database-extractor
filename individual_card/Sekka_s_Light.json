@@ -1,0 +1,14 @@
+{
+    "name": "Sekka's Light",
+    "filename": "Sekka_s_Light",
+    "card_text": "If you have no Spells/Traps in your GY: Draw 2 cards, also, for the rest of this Duel after you activate this card, you cannot activate Spell/Trap Cards or effects, except \"Sekka's Light\". You can banish this card from your GY; reveal 1 monster in your hand, shuffle it into the Deck, then, draw 1 card. You can only use each effect of \"Sekka's Light\" once per turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "OTS TOURNAMENT PACK 9"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

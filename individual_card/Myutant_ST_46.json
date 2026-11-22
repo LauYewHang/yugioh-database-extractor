@@ -1,0 +1,32 @@
+{
+    "name": "Myutant ST-46",
+    "filename": "Myutant_ST_46",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Myutant\" Spell/Trap from your Deck to your hand. You can Tribute this card, then banish 1 card from your hand or face-up field; Special Summon 1 monster from your hand or Deck, based on the banished card.\n\u25cfMonster: \"Myutant Beast\"\n\u25cfSpell: \"Myutant Mist\"\n\u25cfTrap: \"Myutant Arsenal\"\nYou can only use each effect of \"Myutant ST-46\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Myutant Arsenal",
+        "Myutant Beast",
+        "Myutant Blast",
+        "Myutant Clash",
+        "Myutant Cry",
+        "Myutant Evolution Lab",
+        "Myutant Expansion",
+        "Myutant Fusion",
+        "Myutant GB-88",
+        "Myutant M-05",
+        "Myutant Mist",
+        "Myutant Mutant",
+        "Myutant Synthesis",
+        "Myutant Ultimus"
+    ],
+    "attribute": "WATER",
+    "attack": 500,
+    "defense": 0,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

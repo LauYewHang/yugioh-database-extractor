@@ -1,0 +1,12 @@
+{
+    "name": "Dark Advance",
+    "filename": "Dark_Advance",
+    "card_text": "During either player's Main Phase or Battle Phase: Target 1 monster in your Graveyard with 2400 or more ATK and 1000 DEF; add it to your hand, then immediately after this effect resolves, you can Tribute Summon 1 monster with 2400 or more ATK and 1000 DEF in face-up Attack Position. You can only activate 1 \"Dark Advance\" per turn.",
+    "release_date": "2016-03-18",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

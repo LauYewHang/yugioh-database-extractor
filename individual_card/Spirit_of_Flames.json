@@ -1,0 +1,20 @@
+{
+    "name": "Spirit of Flames",
+    "filename": "Spirit_of_Flames",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your GY. Gains 300 ATK during your Battle Phase only.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "STRUCTURE DECK: FIRE KINGS",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

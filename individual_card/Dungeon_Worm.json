@@ -1,0 +1,33 @@
+{
+    "name": "Dungeon Worm",
+    "filename": "Dungeon_Worm",
+    "card_text": "Hidden under the floors of a labyrinth, it swallows any who pass above.",
+    "release_date": "2006-12-26",
+    "available_set": [
+        "Promotional Cards 2",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Insect",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

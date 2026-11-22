@@ -1,0 +1,31 @@
+{
+    "name": "Eldlich the Mad Golden Lord",
+    "filename": "Eldlich_the_Mad_Golden_Lord",
+    "card_text": "1 \"Eldlich\" monster + 1 Level 5 or higher Zombie monster\nThis card's name becomes \"Eldlich the Golden Lord\" while on the field. Cannot be destroyed by battle or card effects. You can Tribute 1 Zombie monster, then target 1 face-up monster your opponent controls; take control of it, but it cannot attack or activate its effects this turn. You can only use this effect of \"Eldlich the Mad Golden Lord\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Conquistador of the Golden Land",
+        "Cursed Eldland",
+        "El Dorado Adelantado",
+        "Eldlich the Golden Lord",
+        "Eldlixir of Black Awakening",
+        "Eldlixir of Scarlet Sanguine",
+        "Eldlixir of the Glorious Golden Land",
+        "Eldlixir of White Destiny",
+        "Fallen Angel of the Golden Land",
+        "Golden Land Forever!",
+        "Guardian of the Golden Land",
+        "Huaquero of the Golden Land"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3800,
+    "defense": 3500,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

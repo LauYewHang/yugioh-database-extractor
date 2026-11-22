@@ -1,0 +1,35 @@
+{
+    "name": "Ursarctic Grand Chariot",
+    "filename": "Ursarctic_Grand_Chariot",
+    "card_text": "Cannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 monsters you control with a Level difference of 7 to the GY (1 Level 8 or higher Tuner and 1 non-Tuner Synchro Monster). If this card is Special Summoned: You can target up to 2 other cards on the field; destroy them. Once per turn, when a card or effect is activated that targets an \"Ursarctic\" card you control (Quick Effect): You can Tribute 1 monster from your hand or field; negate the activation.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Big Dipper",
+        "Ursarctic Departure",
+        "Ursarctic Drytron",
+        "Ursarctic Megabilis",
+        "Ursarctic Megapolar",
+        "Ursarctic Megatanus",
+        "Ursarctic Mikbilis",
+        "Ursarctic Mikpolar",
+        "Ursarctic Miktanus",
+        "Ursarctic Polar Star",
+        "Ursarctic Polari",
+        "Ursarctic Quint Charge",
+        "Ursarctic Radiation",
+        "Ursarctic Septentrion",
+        "Ursarctic Slider"
+    ],
+    "attribute": "WATER",
+    "attack": 2700,
+    "defense": 700,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

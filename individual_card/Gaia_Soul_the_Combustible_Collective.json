@@ -1,0 +1,20 @@
+{
+    "name": "Gaia Soul the Combustible Collective",
+    "filename": "Gaia_Soul_the_Combustible_Collective",
+    "card_text": "Once per turn: You can Tribute up to 2 Pyro-Type monsters; this card gains 1000 ATK for each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During the End Phase: Destroy this card.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "DUELIST LEAGUE 15",
+        "RISE OF DESTINY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

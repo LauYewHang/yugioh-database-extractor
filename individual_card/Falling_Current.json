@@ -1,0 +1,12 @@
+{
+    "name": "Falling Current",
+    "filename": "Falling_Current",
+    "card_text": "Target 1 face-up monster you control and declare a Level between 1 and 3; it becomes that Level.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

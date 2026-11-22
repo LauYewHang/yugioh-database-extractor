@@ -1,0 +1,34 @@
+{
+    "name": "Magician's Salvation",
+    "filename": "Magician_s_Salvation",
+    "card_text": "When this card is activated: You can Set 1 \"Eternal Soul\" directly from your Deck. If you Normal or Special Summon \"Dark Magician\" or \"Dark Magician Girl\" (except during the Damage Step): You can target 1 of those monsters; Special Summon 1 \"Dark Magician\" or \"Dark Magician Girl\" from your GY, with a different name than that monster. You can only use this effect of \"Magician's Salvation\" once per turn. You can only activate 1 \"Magician's Salvation\" per turn.",
+    "release_date": "2021-10-01",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "The Lost Art Promotion 8",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "DEMO PROGRESSION SET 2026"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician Girl",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Eternal Soul",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

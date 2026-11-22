@@ -1,0 +1,36 @@
+{
+    "name": "Doomkaiser Dragon/Assault Mode",
+    "filename": "Doomkaiser_Dragon_Assault_Mode",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". When this card is Special Summoned, Special Summon any number of Zombie-Type monsters from either player's Graveyard(s) to your side of the field. Those monsters' effects are negated, and they are destroyed during the End Phase this turn. When this card on the field is destroyed, you can Special Summon 1 \"Doomkaiser Dragon\" from your Graveyard.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Assault Counter",
+        "Assault Lich",
+        "Assault Mode Activate",
+        "Assault Mode Zero",
+        "Assault Overload",
+        "Assault Reboot",
+        "Assault Revival",
+        "Assault Sentinel",
+        "Assault Slash",
+        "Assault Sonic Warrior",
+        "Assault Teleport",
+        "Crimson Blader/Assault Mode",
+        "Crimson Call",
+        "Doomkaiser Dragon",
+        "Duel Evolution - Assault Zone",
+        "Junk Warrior/Assault Mode",
+        "Nightwinged Cleric",
+        "Psi-Reflector"
+    ],
+    "attribute": "FIRE",
+    "attack": 2900,
+    "defense": 2000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Moulinglacia the Elemental Lord",
+    "filename": "Moulinglacia_the_Elemental_Lord",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WATER monsters in your GY. If this card is Special Summoned: Discard 2 random cards from your opponent's hand (or their entire hand, if less than 2). You can only use this effect of \"Moulinglacia the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "FLAMES OF DESTRUCTION SPECIAL EDITION",
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Elemental Training",
+        "Elementsaber Aina",
+        "Elementsaber Lapauila Mana",
+        "Elementsaber Makani",
+        "Elementsaber Malo",
+        "Elementsaber Nalu"
+    ],
+    "attribute": "WATER",
+    "attack": 2800,
+    "defense": 2200,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Canyon",
+    "filename": "Canyon",
+    "card_text": "If a Rock-Type monster in Defense Position is attacked, double any Battle Damage to the controller of the attacking monster.",
+    "release_date": "2006-05-15",
+    "available_set": [
+        "STRUCTURE DECK INVINCIBLE FORTRESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

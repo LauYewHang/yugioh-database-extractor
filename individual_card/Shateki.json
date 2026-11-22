@@ -1,0 +1,12 @@
+{
+    "name": "Shateki",
+    "filename": "Shateki",
+    "card_text": "You can discard 1 card, then target 1 monster your opponent controls with a Level; roll a six-sided die and apply this effect based on the result.\n\u25cfHigher than its Level: Destroy that monster, then you can add 1 monster with the same original Level from your Deck to your hand, also you cannot activate the effect of \"Shateki\" for the rest of this turn.\n\u25cfEqual to or lower than its Level: Reduce that monster's Level by 1 (even if this card leaves the field).",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

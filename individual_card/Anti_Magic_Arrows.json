@@ -1,0 +1,15 @@
+{
+    "name": "Anti-Magic Arrows",
+    "filename": "Anti_Magic_Arrows",
+    "card_text": "At the start of the Battle Phase: For the rest of this turn after this card resolves, neither player can activate Spell/Trap Cards, or their effects. Neither player can activate cards or effects in response to this card's activation.",
+    "release_date": "2015-06-19",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "QUARTER CENTURY BONANZA",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DUELIST PACK - BATTLE CITY -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

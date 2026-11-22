@@ -1,0 +1,30 @@
+{
+    "name": "Fairy Tail - Luna",
+    "filename": "Fairy_Tail___Luna",
+    "card_text": "When this card is Normal Summoned: You can add 1 Spellcaster monster with 1850 ATK from your Deck to your hand. Once per turn (Quick Effect): You can target 1 face-up monster your opponent controls; your opponent can send 1 card with that monster's name from their Deck or Extra Deck to the GY to negate this effect, otherwise return both this card and that monster to the hand.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "MAXIMUM CRISIS",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
+        "OTS TOURNAMENT PACK 5",
+        "STRUCTURE DECK: ORDER OF THE SPELLCASTERS"
+    ],
+    "related_card": [
+        "Fairy Tail - Matchgiru",
+        "Fairy Tail - Wiccat",
+        "Fairy Tail Ball",
+        "Once Upon a Fairy Tail",
+        "Tails of the Fairy Tails",
+        "Teller of Fairy Tails",
+        "Weaver of Fairy Tails"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1850,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

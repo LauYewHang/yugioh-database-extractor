@@ -1,0 +1,19 @@
+{
+    "name": "Wandering King Wildwind",
+    "filename": "Wandering_King_Wildwind",
+    "card_text": "If you control a Fiend Tuner with 1500 or less ATK, you can Special Summon this card (from your hand). If Summoned this way, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 Fiend Tuner with 1500 or less ATK from your Deck to your hand.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 1300,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

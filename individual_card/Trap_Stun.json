@@ -1,0 +1,19 @@
+{
+    "name": "Trap Stun",
+    "filename": "Trap_Stun",
+    "card_text": "Negate all other Trap effects on the field this turn.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "ASTRAL PACK TWO",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUEL TERMINAL 5A",
+        "PREMIUM GOLD",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "RAGING BATTLE",
+        "STRUCTURE DECK: POWERCODE LINK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

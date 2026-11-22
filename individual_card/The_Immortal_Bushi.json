@@ -1,0 +1,19 @@
+{
+    "name": "The Immortal Bushi",
+    "filename": "The_Immortal_Bushi",
+    "card_text": "While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a Warrior-Type monster. During your Standby Phase, if this card is in your Graveyard and all the monsters in your Graveyard are Warrior-Type: You can Special Summon this card. You must also control no monsters to activate and to resolve this effect.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "SAMURAI WARLORDS STRUCTURE DECK",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,21 @@
+{
+    "name": "The Calculator",
+    "filename": "The_Calculator",
+    "card_text": "The ATK of this card is the combined Levels of all face-up monsters you control x 300.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "STARTER DECK SABER FORCE (US)",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "PHANTOM DARKNESS",
+        "BATTLE PACK EPIC DAWN",
+        "DEMO DECK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": 0,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

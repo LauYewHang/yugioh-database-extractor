@@ -1,0 +1,22 @@
+{
+    "name": "Mysterious Guard",
+    "filename": "Mysterious_Guard",
+    "card_text": "FLIP: Target 1 face-up monster on the field, and if you control a Warrior monster, you can target 1 additional face-up monster on the field; place the first target on top of the Deck, then return the additional target (if any) to the hand if you still control a Warrior monster.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "CHAMPION PACK GAME ONE",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box",
+        "BATTLE PACK EPIC DAWN",
+        "SPEED DUEL TOURNAMENT PACK 6"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

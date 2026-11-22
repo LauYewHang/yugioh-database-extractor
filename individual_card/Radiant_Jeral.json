@@ -1,0 +1,27 @@
+{
+    "name": "Radiant Jeral",
+    "filename": "Radiant_Jeral",
+    "card_text": "When this card is sent to the Graveyard (except if destroyed by battle), gain 1000 Life Points if \"The Sanctuary in the Sky\" is on the field.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "STRIKE OF NEOS"
+    ],
+    "related_card": [
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "The Chorus in the Sky",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

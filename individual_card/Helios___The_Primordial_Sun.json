@@ -1,0 +1,22 @@
+{
+    "name": "Helios - The Primordial Sun",
+    "filename": "Helios___The_Primordial_Sun",
+    "card_text": "This card's ATK/DEF become the number of banished monsters x 100.",
+    "release_date": "2006-03-14",
+    "available_set": [
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "Yu-Gi-Oh! ULTIMATE MASTERS - World Championship Tournament 2006 - Bundles"
+    ],
+    "related_card": [
+        "Helios Duo Megistus",
+        "Macro Cosmos"
+    ],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

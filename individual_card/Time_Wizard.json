@@ -1,0 +1,34 @@
+{
+    "name": "Time Wizard",
+    "filename": "Time_Wizard",
+    "card_text": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "MAZE OF MUERTOS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK LEGENDS",
+        "SPEED DUEL TOURNAMENT PACK 01",
+        "DUELIST PACK - BATTLE CITY -",
+        "METAL RAIDERS",
+        "RETRO PACK",
+        "STARTER DECK JOEY",
+        "DARK BEGINNING 2",
+        "DUEL TERMINAL 3",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [
+        "Dark Sage",
+        "Thousand Dragon",
+        "Time Wizard of Tomorrow"
+    ],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

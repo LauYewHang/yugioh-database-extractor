@@ -1,0 +1,15 @@
+{
+    "name": "Obedience Schooled",
+    "filename": "Obedience_Schooled",
+    "card_text": "If you control no monsters: Special Summon 3 Level 2 or lower Beast Effect Monsters with different names from your Deck, but their effects are negated, also they are destroyed during the End Phase. For the rest of this turn after this card resolves, you cannot Special Summon, except Beast monsters.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "Justice Hunters",
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

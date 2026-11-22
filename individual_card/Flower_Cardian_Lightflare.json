@@ -1,0 +1,40 @@
+{
+    "name": "Flower Cardian Lightflare",
+    "filename": "Flower_Cardian_Lightflare",
+    "card_text": "1 Tuner + 4 non-Tuner monsters\nOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card: You can negate the activation, and if you do, destroy that card. If a \"Flower Cardian\" monster you control battles an opponent's monster, that opponent's monster has its effects negated during the Battle Phase only. If this face-up Synchro Summoned card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can Special Summon 1 \"Flower Cardian\" Synchro Monster from your Extra Deck, except \"Flower Cardian Lightflare\".",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Flower Cardian Boardefly",
+        "Flower Cardian Cherry Blossom",
+        "Flower Cardian Cherry Blossom with Curtain",
+        "Flower Cardian Clover with Boar",
+        "Flower Cardian Lightshower",
+        "Flower Cardian Maple with Deer",
+        "Flower Cardian Moonflowerviewing",
+        "Flower Cardian Paulownia",
+        "Flower Cardian Paulownia with Phoenix",
+        "Flower Cardian Peony with Butterfly",
+        "Flower Cardian Pine",
+        "Flower Cardian Pine with Crane",
+        "Flower Cardian Willow",
+        "Flower Cardian Willow with Calligrapher",
+        "Flower Cardian Zebra Grass",
+        "Flower Cardian Zebra Grass with Moon",
+        "Flower Gathering",
+        "Flower Stacking",
+        "Fraud Freeze",
+        "Recardination",
+        "Super All In!",
+        "Super Koi Koi"
+    ],
+    "attribute": "DARK",
+    "attack": 5000,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

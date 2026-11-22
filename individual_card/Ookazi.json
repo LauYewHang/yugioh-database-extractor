@@ -1,0 +1,15 @@
+{
+    "name": "Ookazi",
+    "filename": "Ookazi",
+    "card_text": "Inflict 800 points of damage to your opponent's Life Points.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK 2006",
+        "STARTER DECK KAIBA Evolution",
+        "5D's STARTER DECK 2009",
+        "STARTER DECK KAIBA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

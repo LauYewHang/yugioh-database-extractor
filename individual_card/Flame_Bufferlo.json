@@ -1,0 +1,19 @@
+{
+    "name": "Flame Bufferlo",
+    "filename": "Flame_Bufferlo",
+    "card_text": "If this face-up card leaves the field: You can discard 1 Cyberse monster, and if you do, draw 2 cards. You can only use this effect of \"Flame Bufferlo\" once per turn.",
+    "release_date": "2018-08-10",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "OTS TOURNAMENT PACK 12",
+        "STRUCTURE DECK: POWERCODE LINK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1400,
+    "defense": 200,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

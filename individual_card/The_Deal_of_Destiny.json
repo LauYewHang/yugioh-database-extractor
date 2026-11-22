@@ -1,0 +1,38 @@
+{
+    "name": "The Deal of Destiny",
+    "filename": "The_Deal_of_Destiny",
+    "card_text": "Each time a card(s) you control is destroyed by battle or card effect, place 1 Emperor's Key Counter on this card (max. 1). If your opponent Special Summons a monster(s) from the Extra Deck (except during the Damage Step): You can remove 1 Emperor's Key Counter from this card; send 1 \"The Door of Destiny\" from your hand, Deck, or face-up field to the GY, Special Summon 1 LIGHT \"Utopia\" or \"Utopic\" Xyz Monster from your Extra Deck, and if you do, attach this card to it as material. (This is treated as an Xyz Summon.) You can only use this effect of \"The Deal of Destiny\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Full Armored Utopic Ray Lancer",
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number 99: Utopic Dragon",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number F0: Utopic Draco Future",
+        "Number F0: Utopic Future",
+        "Number F0: Utopic Future Slash",
+        "Number F0: Utopic Future Zexal",
+        "Number S0: Utopic ZEXAL",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Number XX: Utopic Dark Infinity",
+        "The Door of Destiny",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray",
+        "ZS - Utopic Sage"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

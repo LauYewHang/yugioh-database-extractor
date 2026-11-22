@@ -1,0 +1,36 @@
+{
+    "name": "Nordic Relic Brisingamen",
+    "filename": "Nordic_Relic_Brisingamen",
+    "card_text": "Target 1 face-up monster you control and 1 face-up monster your opponent controls; the ATK of the first target becomes equal to the original ATK of the second target, until the end of this turn.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "STORM OF RAGNAROK",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [
+        "Alviss of the Nordic Alfar",
+        "Dverg of the Nordic Alfar",
+        "Gleipnir, the Fetters of Fenrir",
+        "Gullveig of the Nordic Ascendant",
+        "Ljosalf of the Nordic Alfar",
+        "Mara of the Nordic Alfar",
+        "Mimir of the Nordic Ascendant",
+        "Nordic Beast Gullinbursti",
+        "Nordic Relic Draupnir",
+        "Nordic Relic Gungnir",
+        "Nordic Relic Hlidskjalf",
+        "Nordic Relic Megingjord",
+        "Nordic Relic Svalinn",
+        "Nordic Smith Ivaldi",
+        "Svartalf of the Nordic Alfar",
+        "The Nordic Lights",
+        "Tyr of the Nordic Champions",
+        "Valkyrie of the Nordic Ascendant",
+        "Vanadis of the Nordic Ascendant"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Elfnote June Pride",
+    "filename": "Elfnote_June_Pride",
+    "card_text": "1 Tuner + 1 non-Tuner Spellcaster monster\nWhile this card is in the center Main Monster Zone, neither player can declare attacks, except with monsters in their center Main Monster Zones. During the Main Phase, if this card is in the center Main Monster Zone (Quick Effect): You can return this card to the Extra Deck, and if you do, Special Summon up to 1 \"Elfnote\" monster each from your hand, Deck, and GY. You can only use this effect of \"Elfnote June Pride\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Elfnote Fortuna",
+        "Elfnote Lucina",
+        "Elfnote Power Patron",
+        "Elfnote Regina",
+        "Elfnote Seraphim Strelitzia",
+        "Elfnote Tinia",
+        "Elfnotes: A Plea for Help",
+        "Elfnotes: Aristeia of Trust",
+        "Elfnotes: Quatrain of Succession",
+        "Elfnotes: Rhapsodia of Madness",
+        "Elfnotes: Welcome Home",
+        "Junoldo the Shadespirit Power Patron",
+        "Junora the Power Patron of Tuning",
+        "Theorealize Past Lull"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3100,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

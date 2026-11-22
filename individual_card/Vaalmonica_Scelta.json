@@ -1,0 +1,28 @@
+{
+    "name": "Vaalmonica Scelta",
+    "filename": "Vaalmonica_Scelta",
+    "card_text": "Apply 1 of these effects. Unless you have a \"Vaalmonica\" card in your Pendulum Zone, your opponent chooses the effect.\n\u25cfGain 500 LP, then you can place 1 card from your hand on the bottom of the Deck, then draw 2 cards.\n\u25cfTake 500 damage, then you can add 1 \"Vaalmonica\" Spell/Trap from your Deck to your hand, except \"Vaalmonica Scelta\".\nYou can only activate 1 \"Vaalmonica Scelta\" per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Dimonno Vaalmonica",
+        "Duralume, Vaalmonican Heathen Hallow",
+        "Selettrice Vaalmonica",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Disarmonia",
+        "Vaalmonica Ereditare",
+        "Vaalmonica Followed Rhythm",
+        "Vaalmonica Intonare",
+        "Vaalmonica Invitare",
+        "Vaalmonica Versare",
+        "Vaalmonica, the Agathokakological Voice",
+        "Varar, Vaalmonican Concord",
+        "Zebufera, Vaalmonican Hallow Heathen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

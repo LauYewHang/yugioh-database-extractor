@@ -1,0 +1,20 @@
+{
+    "name": "Necro Fleur",
+    "filename": "Necro_Fleur",
+    "card_text": "If this card is destroyed by card effect and sent to the GY: You can Special Summon 1 \"Sorciere de Fleur\" from your Deck.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY DUELISTS: SYNCHRO STORM",
+        "Yu-Gi-Oh! 5D's WORLD CHAMPIONSHIP 2011 \uff0d OVER THE NEXUS \uff0d Bundles"
+    ],
+    "related_card": [
+        "Sorciere de Fleur"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

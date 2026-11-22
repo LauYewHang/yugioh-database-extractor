@@ -1,0 +1,33 @@
+{
+    "name": "Enato Enneacraft - \"oknirIA\"",
+    "filename": "Enato_Enneacraft____oknirIA_",
+    "card_text": "FLIP: Shuffle up to 3 cards from your opponent's GY and/or banishment into the Deck.\nWhen your opponent activates a card effect in the GY or banishment (Quick Effect): You can change this face-down card to face-up Defense Position; add 1 \"Enneacraft\" card from your Deck to your hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "Deftero Enneacraft - \"alazoneIA\"",
+        "Ekto Enneacraft - \"tromarIA\"",
+        "Enneacraft - Aiza.LEON",
+        "Enneacraft - Archa.TAIL",
+        "Enneacraft - Asta.PIXEA",
+        "Enneacraft - Atil.SPIA",
+        "Enneacraft - Atori.MAR",
+        "Enneacraft Release",
+        "Enneacraft Reset",
+        "Enneacraft Reverth",
+        "Enneapolis",
+        "Proto Enneacraft - \"orgIA\"",
+        "Trito Enneacraft - \"exapatisIA\""
+    ],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1,
+    "pendulum_effect": "Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. You can pay 900 LP; reveal 3 \"Enneacraft\" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, shuffle the rest into the Deck. You can only use this effect of \"Enato Enneacraft - \"oknirIA\"\" once per turn.",
+    "pendulum_scale": 0
+}

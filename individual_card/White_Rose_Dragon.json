@@ -1,0 +1,31 @@
+{
+    "name": "White Rose Dragon",
+    "filename": "White_Rose_Dragon",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 \"Rose Dragon\" monster from your hand or GY, except \"White Rose Dragon\". You can only use each of these effects of \"White Rose Dragon\" once per turn.\n\u25cfIf you control a Dragon Tuner or Plant Tuner: You can Special Summon this card from your hand.\n\u25cfIf this card is sent to the GY as Synchro Material: You can send 1 Level 4 or higher Plant monster from your Deck to the GY.",
+    "release_date": "2019-03-08",
+    "available_set": [
+        "Legendary 5D's Decks",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "SAVAGE STRIKE SPECIAL EDITION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Black Rose Dragon",
+        "Black Rose Garden",
+        "Blue Rose Dragon",
+        "Bramble Rose Dragon",
+        "Crossrose Dragon",
+        "Garden Rose Maiden",
+        "Red Rose Dragon",
+        "Roxrose Dragon",
+        "Ruddy Rose Dragon",
+        "White Rose Cloister"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

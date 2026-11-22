@@ -1,0 +1,42 @@
+{
+    "name": "Chronomaly City Babylon",
+    "filename": "Chronomaly_City_Babylon",
+    "card_text": "Once per turn: You can banish 1 \"Chronomaly\" monster from your Graveyard, then target 1 \"Chronomaly\" monster in your Graveyard with the same Level as the banished monster; Special Summon it.",
+    "release_date": "2014-03-28",
+    "available_set": [
+        "PREMIUM GOLD"
+    ],
+    "related_card": [
+        "Chronomaly Acambaro Figures",
+        "Chronomaly Aztec Mask Golem",
+        "Chronomaly Cabrera Trebuchet",
+        "Chronomaly Colossal Head",
+        "Chronomaly Crystal Bones",
+        "Chronomaly Crystal Chrononaut",
+        "Chronomaly Crystal Skull",
+        "Chronomaly Esperanza Glyph",
+        "Chronomaly Golden Jet",
+        "Chronomaly Gordian Knot",
+        "Chronomaly Magella Globe",
+        "Chronomaly Mayan Machine",
+        "Chronomaly Moai",
+        "Chronomaly Moai Carrier",
+        "Chronomaly Mud Golem",
+        "Chronomaly Nebra Disk",
+        "Chronomaly Pyramid Eye Tablet",
+        "Chronomaly Sol Monolith",
+        "Chronomaly Technology",
+        "Chronomaly Temple - Trilithon",
+        "Chronomaly Tula Guardian",
+        "Chronomaly Tuspa Rocket",
+        "Chronomaly Vimana",
+        "Chronomaly Winged Sphinx",
+        "Number 33: Chronomaly Machu Mech",
+        "Number 36: Chronomaly Chateau Huyuk",
+        "Number 6: Chronomaly Atlandis",
+        "Number C6: Chronomaly Chaos Atlandis",
+        "Stonehenge Methods"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

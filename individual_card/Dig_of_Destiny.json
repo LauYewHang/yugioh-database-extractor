@@ -1,0 +1,14 @@
+{
+    "name": "Dig of Destiny",
+    "filename": "Dig_of_Destiny",
+    "card_text": "When you take battle damage: Draw 1 card. If this card in its owner's control is destroyed by an opponent's card effect: You can draw cards, equal to the number of \"Dig of Destiny\" in your Graveyard.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

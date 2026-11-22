@@ -1,0 +1,19 @@
+{
+    "name": "Blue Thunder T-45",
+    "filename": "Blue_Thunder_T_45",
+    "card_text": "If this card destroys an opponent's monster by battle: Special Summon 1 \"Thunder Option Token\" (Machine-Type/LIGHT/Level 4/ATK 1500/DEF 1500). This Token cannot be Tributed for a Tribute Summon.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "BATTLE PACK EPIC DAWN",
+        "PHANTOM DARKNESS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Ghost Lancer, the Underworld Spearman",
+    "filename": "Ghost_Lancer__the_Underworld_Spearman",
+    "card_text": "If only your opponent controls a monster, you can Special Summon this card (from your hand). Cannot be destroyed by battle, except with monsters Special Summoned from the Extra Deck. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

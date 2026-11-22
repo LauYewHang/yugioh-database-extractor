@@ -1,0 +1,28 @@
+{
+    "name": "Saber Beetle",
+    "filename": "Saber_Beetle",
+    "card_text": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "5D's STARTER DECK 2009",
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [
+        "Commander Gottoms, Swordmaster",
+        "Commander Souza, Swordmaster",
+        "Saber Reflection",
+        "X-Saber Axel",
+        "X-Saber Bruno",
+        "X-Saber Galahad",
+        "X-Saber Gottoms",
+        "X-Saber Palomuro"
+    ],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 600,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

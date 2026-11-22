@@ -1,0 +1,42 @@
+{
+    "name": "Heroic Challenger - Swordshield",
+    "filename": "Heroic_Challenger___Swordshield",
+    "card_text": "During either player's turn, if you control a face-up \"Heroic\" monster: You can send this card from your hand to the Graveyard; for the rest of this turn, you take no Battle Damage and \"Heroic\" monsters you control cannot be destroyed by battle.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Ambush Soldier",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Clasp Sword",
+        "Heroic Challenger - Double Lance",
+        "Heroic Challenger - Extra Sword",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Night Watchman",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Challenger - War Hammer",
+        "Heroic Champion - Claivesolish",
+        "Heroic Champion - Excalibur",
+        "Heroic Champion - Gandiva",
+        "Heroic Champion - Jarngreipr",
+        "Heroic Champion - Kusanagi",
+        "Heroic Champion - Magnum Excalibur",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Gift",
+        "Heroic Retribution Sword",
+        "Number 86: Heroic Champion - Rhongomyniad"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

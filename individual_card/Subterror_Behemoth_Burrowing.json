@@ -1,0 +1,31 @@
+{
+    "name": "Subterror Behemoth Burrowing",
+    "filename": "Subterror_Behemoth_Burrowing",
+    "card_text": "You can banish 1 \"Subterror\" monster from your Graveyard; for the rest of this turn, face-down monsters you control cannot be destroyed by card effects, and your opponent cannot target them with card effects. If this card on the field is destroyed by a card effect: You can add 1 \"Subterror\" monster from your Deck to your hand. You can banish this card from your Graveyard, then target 1 \"Subterror\" monster you control; change it to face-down Defense Position.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Subterror Behemoth Dragossuary",
+        "Subterror Behemoth Fiendess",
+        "Subterror Behemoth Phospheroglacier",
+        "Subterror Behemoth Speleogeist",
+        "Subterror Behemoth Stalagmo",
+        "Subterror Behemoth Stygokraken",
+        "Subterror Behemoth Ultramafus",
+        "Subterror Behemoth Umastryx",
+        "Subterror Behemoth Voltelluric",
+        "Subterror Cave Clash",
+        "Subterror Fiendess",
+        "Subterror Final Battle",
+        "Subterror Guru",
+        "Subterror Nemesis Archer",
+        "Subterror Nemesis Defender",
+        "Subterror Nemesis Warrior",
+        "Subterror Succession",
+        "The Hidden City"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

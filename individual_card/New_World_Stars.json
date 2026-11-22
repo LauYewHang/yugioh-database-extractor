@@ -1,0 +1,19 @@
+{
+    "name": "New World Stars",
+    "filename": "New_World_Stars",
+    "card_text": "While you control \"Visas Starfrost\", the first time each monster you control would be destroyed by battle each turn, it is not destroyed. During your End Phase, if you control \"Visas Starfrost\": You can target 1 monster in your GY; shuffle it into the Deck, or, if you control a Tuner Synchro Monster, you can add it to your hand instead. You can only use this effect of \"New World Stars\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

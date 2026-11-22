@@ -1,0 +1,34 @@
+{
+    "name": "Fortune Lady Light",
+    "filename": "Fortune_Lady_Light",
+    "card_text": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this face-up card leaves the field by card effect: You can Special Summon 1 \"Fortune Lady\" monster from your Deck.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "OTS TOURNAMENT PACK 11"
+    ],
+    "related_card": [
+        "Bending Destiny",
+        "Fortune Lady Calling",
+        "Fortune Lady Dark",
+        "Fortune Lady Earth",
+        "Fortune Lady Every",
+        "Fortune Lady Fire",
+        "Fortune Lady Past",
+        "Fortune Lady Rewind",
+        "Fortune Lady Water",
+        "Fortune Lady Wind",
+        "Fortune Vision",
+        "Fortune's Future",
+        "Inherited Fortune",
+        "Solitaire Magician",
+        "Time Passage"
+    ],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,39 @@
+{
+    "name": "ZS - Vanish Sage",
+    "filename": "ZS___Vanish_Sage",
+    "card_text": "If you control a \"Utopia\" monster: You can draw 1 card. If a monster(s) you control is banished during the Battle Phase (except during the Damage Step): You can banish this card from the field, then target 1 of those banished monsters; Special Summon that target, and if you do, banish 1 monster your opponent controls that has 3000 or less ATK. You can only use 1 \"ZS - Vanish Sage\" effect per turn, and only once that turn.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Gagaga Magician - Gagaga Magic",
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Rank-Up-Magic Zexal Force",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray",
+        "Zexal Catapult",
+        "Zexal Construction",
+        "Zexal Entrust",
+        "ZS - Utopic Sage"
+    ],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

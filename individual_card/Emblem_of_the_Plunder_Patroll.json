@@ -1,0 +1,29 @@
+{
+    "name": "Emblem of the Plunder Patroll",
+    "filename": "Emblem_of_the_Plunder_Patroll",
+    "card_text": "Equip only to a \"Plunder Patroll\" monster. It gains 500 ATK, also your opponent cannot target it with card effects. You can send this equipped card to the GY; Special Summon 1 \"Plunder Patroll\" monster from your Extra Deck with the same Attribute as a monster on the field or in the GY, then take the monster that was equipped with this card, and equip it to that Special Summoned monster as an Equip Spell with this effect.\n\u25cfThe equipped monster gains 500 ATK.\nYou can only use this effect of \"Emblem of the Plunder Patroll\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Blackbeard, the Plunder Patroll Captain",
+        "Blackeyes, the Plunder Patroll Seaguide",
+        "Bluebeard, the Plunder Patroll Shipwright",
+        "Goldenhair, the Newest Plunder Patroll",
+        "Plunder Patroll Booty",
+        "Plunder Patroll Parrrty",
+        "Plunder Patroll Shipshape Ships Shipping",
+        "Plunder Patroll Shipyarrrd",
+        "Plunder Patrollship Brann",
+        "Plunder Patrollship Jord",
+        "Plunder Patrollship Lys",
+        "Plunder Patrollship Moerk",
+        "Pride of the Plunder Patroll",
+        "Redbeard, the Plunder Patroll Matey",
+        "Whitebeard, the Plunder Patroll Helm"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

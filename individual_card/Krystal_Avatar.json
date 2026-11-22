@@ -1,0 +1,14 @@
+{
+    "name": "Krystal Avatar",
+    "filename": "Krystal_Avatar",
+    "card_text": "When an opponent's monster declares a direct attack, if its ATK is greater than or equal to your LP: Special Summon this card in Attack Position as an Effect Monster (Warrior-Type/LIGHT/Level 4/ATK ?/DEF 0) that has ATK equal to your LP, then change the attack target to this card. (This card is also still a Trap Card.) If this card Summoned this way is destroyed by battle, after damage calculation: Inflict damage to your opponent equal to its ATK.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

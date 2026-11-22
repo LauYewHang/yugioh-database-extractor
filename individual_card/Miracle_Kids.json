@@ -1,0 +1,17 @@
+{
+    "name": "Miracle Kids",
+    "filename": "Miracle_Kids",
+    "card_text": "Target 1 monster your opponent controls; that target loses 400 ATK for each \"Hero Kid\" in your Graveyard, until the End Phase.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "DUELIST PACK - JADEN YUKI 2 -",
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [
+        "Hero Kid"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Powered Tuner",
+    "filename": "Powered_Tuner",
+    "card_text": "This card gains 500 ATK for each face-up Tuner monster on the field.",
+    "release_date": "2009-06-09",
+    "available_set": [
+        "5D's STARTER DECK 2009"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

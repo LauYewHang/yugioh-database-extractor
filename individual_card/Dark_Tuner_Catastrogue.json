@@ -1,0 +1,19 @@
+{
+    "name": "Dark Tuner Catastrogue",
+    "filename": "Dark_Tuner_Catastrogue",
+    "card_text": "You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 \"Dark Tuner\" monster. You can only use this effect of \"Dark Tuner Catastrogue\" once per turn. Once per turn, if you control this Normal Summoned/Set card: You can Tribute both this face-up card and 1 face-up non-Tuner with a lower Level, and if you do, Special Summon 1 Synchro Monster from your Extra Deck with a Level equal to the difference in Levels of those monsters (this is treated as a Synchro Summon), then you can destroy 1 card your opponent controls.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Dark Tuner Nightmare Hand"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

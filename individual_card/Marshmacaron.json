@@ -1,0 +1,19 @@
+{
+    "name": "Marshmacaron",
+    "filename": "Marshmacaron",
+    "card_text": "If this card is destroyed by battle or card effect: You can Special Summon up to 2 other \"Marshmacaron\" from your hand, Deck, and/or Graveyard. You can only use this effect of \"Marshmacaron\" once per turn.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

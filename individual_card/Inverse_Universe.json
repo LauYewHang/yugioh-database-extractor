@@ -1,0 +1,15 @@
+{
+    "name": "Inverse Universe",
+    "filename": "Inverse_Universe",
+    "card_text": "Switch the ATK/DEF of all face-up Effect Monsters on the field.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE",
+        "BATTLE PACK EPIC DAWN",
+        "OTS TOURNAMENT PACK 4",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

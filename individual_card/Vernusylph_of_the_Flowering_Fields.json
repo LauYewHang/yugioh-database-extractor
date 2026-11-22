@@ -1,0 +1,27 @@
+{
+    "name": "Vernusylph of the Flowering Fields",
+    "filename": "Vernusylph_of_the_Flowering_Fields",
+    "card_text": "Your opponent cannot target \"Vernusylph\" monsters you control with card effects. You can discard this card, and 1 monster or \"Vernusylph\" card; add 1 EARTH monster from your GY to your hand, except \"Vernusylph of the Flowering Fields\", then you can Special Summon 1 EARTH monster from your GY, also you cannot activate non-EARTH monster effects for the rest of this turn. You can only use this effect of \"Vernusylph of the Flowering Fields\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Vera the Vernusylph Goddess",
+        "Vernusylph and the Changing Season",
+        "Vernusylph and the Flower Buds",
+        "Vernusylph Corolla",
+        "Vernusylph in Full Bloom",
+        "Vernusylph of the Awakening Forests",
+        "Vernusylph of the Flourishing Hills",
+        "Vernusylph of the Misting Seedlings",
+        "Vernusylph of the Thawing Mountains"
+    ],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": 1600,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

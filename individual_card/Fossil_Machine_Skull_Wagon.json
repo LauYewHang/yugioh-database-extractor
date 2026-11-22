@@ -1,0 +1,22 @@
+{
+    "name": "Fossil Machine Skull Wagon",
+    "filename": "Fossil_Machine_Skull_Wagon",
+    "card_text": "1 Rock monster in your GY + 1 Level 5 or 6 monster\nMust first be Special Summoned with \"Fossil Fusion\". This card can make up to 2 attacks on monsters during each Battle Phase. When this card destroys an opponent's monster by battle: You can inflict 800 damage to your opponent. You can banish this card from your GY, then target 1 Spell/Trap on the field; destroy it. You can only use this effect of \"Fossil Machine Skull Wagon\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Flint Cragger",
+        "Fossil Fusion",
+        "Time Stream",
+        "Weathering Soldier"
+    ],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1500,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

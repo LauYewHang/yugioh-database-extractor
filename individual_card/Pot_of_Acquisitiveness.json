@@ -1,0 +1,12 @@
+{
+    "name": "Pot of Acquisitiveness",
+    "filename": "Pot_of_Acquisitiveness",
+    "card_text": "Target 3 banished monsters; shuffle all 3 into the Deck, then draw 1 card. You can only activate 1 \"Pot of Acquisitiveness\" per turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Command Knight",
+    "filename": "Command_Knight",
+    "card_text": "All Warrior monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for attacks.",
+    "release_date": "2004-09-01",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "COLLECTIBLE TIN SERIES 1",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUELIST LEAGUE 14",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": 1900,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

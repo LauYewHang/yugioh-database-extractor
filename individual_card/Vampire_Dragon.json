@@ -1,0 +1,35 @@
+{
+    "name": "Vampire Dragon",
+    "filename": "Vampire_Dragon",
+    "card_text": "When this Tribute Summoned card is sent from the field to the Graveyard: You can add 1 Level 4 or lower monster from your Deck to your hand.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "ASTRAL PACK THREE",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Shadow Vampire",
+        "Vampire Awakening",
+        "Vampire Domination",
+        "Vampire Duke",
+        "Vampire Familiar",
+        "Vampire Fascinator",
+        "Vampire Ghost",
+        "Vampire Kingdom",
+        "Vampire Red Baron",
+        "Vampire Retainer",
+        "Vampire Scarlet Scourge",
+        "Vampire Sorcerer",
+        "Vampire Takeover",
+        "Vampire Vamp",
+        "Vampire's Desire",
+        "Vampire's Domain"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

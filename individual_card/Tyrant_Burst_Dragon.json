@@ -1,0 +1,24 @@
+{
+    "name": "Tyrant Burst Dragon",
+    "filename": "Tyrant_Burst_Dragon",
+    "card_text": "Must be Special Summoned with \"The Fang of Critias\", using \"Tyrant Wing\". This card can attack all your opponent's monsters, once each. You can target 1 face-up monster you control; equip this monster to that target. It gains 400 ATK/DEF, also it can make 3 attacks during each Battle Phase.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "LEGENDARY DRAGON DECKS",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "The Fang of Critias",
+        "Tyrant Wing"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2900,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

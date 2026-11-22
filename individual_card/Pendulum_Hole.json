@@ -1,0 +1,16 @@
+{
+    "name": "Pendulum Hole",
+    "filename": "Pendulum_Hole",
+    "card_text": "When a monster(s) would be Pendulum Summoned: Negate the Pendulum Summon, and if you do, shuffle that monster(s) into the Deck.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Duelist Alliance",
+        "PenduLuMoon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

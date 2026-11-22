@@ -1,0 +1,33 @@
+{
+    "name": "Code Igniter",
+    "filename": "Code_Igniter",
+    "card_text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can add 1 Cyberse Ritual Monster from your Deck to your hand. You can detach 1 material from this card; Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. If this card is sent to the GY as Link Material: You can add 1 \"A.I.\" Trap from your Deck to your hand. You can only use each effect of \"Code Igniter\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "A.I. Challenge You",
+        "A.I. Connect",
+        "A.I. Contact",
+        "A.I. Love Fusion",
+        "A.I. Meet You",
+        "A.I. Shadow",
+        "A.I.'s Ritual",
+        "A.I.'s Show",
+        "A.I.dle Reborn",
+        "A.I.Q",
+        "FA.I.ghting Spirit",
+        "Ignister A.I.Land",
+        "SA.I.dekick",
+        "TA.I. Strike",
+        "You and A.I."
+    ],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": 2000,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

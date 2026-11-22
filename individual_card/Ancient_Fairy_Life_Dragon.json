@@ -1,0 +1,24 @@
+{
+    "name": "Ancient Fairy Life Dragon",
+    "filename": "Ancient_Fairy_Life_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can draw 1 card, or if \"World of Spirits\" is on the field, add 1 LIGHT monster (Beast, Plant, or Fairy) or 1 \"Eternal Sunshine\" from your Deck to your hand instead. You can only use this effect of \"Ancient Fairy Life Dragon\" once per turn. Your \"Ancient Fairy Dragon\" and monsters that mention it can attack while in face-up Defense Position (apply their DEF for damage calculation).",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Ancient Fairy Dragon",
+        "Eternal Sunshine",
+        "Kuribon the Fairy Spirit",
+        "Regulus the Fairy Beast",
+        "Spore the Fairy Seed",
+        "World of Spirits"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 3300,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

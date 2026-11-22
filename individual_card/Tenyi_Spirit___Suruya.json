@@ -1,0 +1,37 @@
+{
+    "name": "Tenyi Spirit - Suruya",
+    "filename": "Tenyi_Spirit___Suruya",
+    "card_text": "If you control a Wyrm monster, or a face-up non-Effect Monster: You can Special Summon this card from your hand. If this card is sent to the GY as material for a Wyrm Synchro Monster: You can Special Summon 1 \"Tenyi\" Link Monster from your Extra Deck (but it cannot be used as Link Material), then you lose LP equal to its Link Rating x 1000. You can only use each effect of \"Tenyi Spirit - Suruya\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Berserker of the Tenyi",
+        "Draco Berserker of the Tenyi",
+        "Draco Masters of the Tenyi",
+        "Fists of the Unrivaled Tenyi",
+        "Flawless Perfection of the Tenyi",
+        "Heavenly Dragon Circle",
+        "Monk of the Tenyi",
+        "Shaman of the Tenyi",
+        "Tenyi Spirit - Adhara",
+        "Tenyi Spirit - Ashuna",
+        "Tenyi Spirit - Mapura",
+        "Tenyi Spirit - Mula Adhara",
+        "Tenyi Spirit - Nahata",
+        "Tenyi Spirit - Sahasrara",
+        "Tenyi Spirit - Shthana",
+        "Tenyi Spirit - Vishuda",
+        "Tenyinfinity",
+        "Vessel for the Dragon Cycle"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

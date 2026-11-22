@@ -1,0 +1,21 @@
+{
+    "name": "Incarnated Machine Angel",
+    "filename": "Incarnated_Machine_Angel",
+    "card_text": "Your \"Cyber Angel\" Ritual Monsters cannot be destroyed by battle. When you take damage by battle or an opponent's card effect: You can Tribute 1 \"Cyber Angel\" Ritual Monster from your hand or field; Special Summon 1 \"Cyber Angel\" Ritual Monster from your hand. (This is treated as a Ritual Summon.) You can only use this effect of \"Incarnated Machine Angel\" once per turn.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE"
+    ],
+    "related_card": [
+        "Cyber Angel Benten",
+        "Cyber Angel Dakini",
+        "Cyber Angel Idaten",
+        "Cyber Angel Izana",
+        "Cyber Angel Natasha",
+        "Cyber Angel Vrash",
+        "Cyber Egg Angel"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

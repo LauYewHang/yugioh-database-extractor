@@ -1,0 +1,20 @@
+{
+    "name": "Black Salvo",
+    "filename": "Black_Salvo",
+    "card_text": "When this card is Normal Summoned: You can target 1 Level 4 DARK Machine-Type monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "CRIMSON CRISIS",
+        "TURBO PACK BOOSTER FIVE",
+        "DUEL TERMINAL 5B"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 1100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

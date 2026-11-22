@@ -1,0 +1,19 @@
+{
+    "name": "Wollow, Founder of the Drudge Dragons",
+    "filename": "Wollow__Founder_of_the_Drudge_Dragons",
+    "card_text": "2+ Level 6 monsters\nMonsters you control gain 100 ATK/DEF for each card in your opponent's GY. (Quick Effect): You can target 1 card in your opponent's GY and detach 1 or 2 materials from this card, then activate the appropriate effect;\n\u25cf1: Return it to the Deck.\n\u25cf2: If the target is a monster, Special Summon it face-up, or in face-down Defense Position, to your field. If it is not, Set it on your field.\nYou can only use this effect of \"Wollow, Founder of the Drudge Dragons\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "MAZE OF MUERTOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1300,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

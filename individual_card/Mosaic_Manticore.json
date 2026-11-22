@@ -1,0 +1,18 @@
+{
+    "name": "Mosaic Manticore",
+    "filename": "Mosaic_Manticore",
+    "card_text": "During the Standby Phase of your next turn after you Tribute Summoned this face-up card on the field: Special Summon, from the Graveyard, as many monster(s) as possible that were used for its Tribute Summon. They cannot declare an attack, and their effects are negated.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 2500,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

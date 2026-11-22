@@ -1,0 +1,18 @@
+{
+    "name": "Staysailor Romarin",
+    "filename": "Staysailor_Romarin",
+    "card_text": "(Quick Effect): You can target 1 face-up monster you control; send 1 other Plant monster you control to the GY, and if you do, the next time the targeted monster would be destroyed by battle or card effect this turn, it is not destroyed. If this card is sent to the GY by a card effect: You can send 1 Level 5 or lower Plant monster from your Deck or Extra Deck to the GY. You can only use each effect of \"Staysailor Romarin\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 300,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Psychic Wheeleder",
+    "filename": "Psychic_Wheeleder",
+    "card_text": "If you control a Level 3 monster other than \"Psychic Wheeleder\", you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Psychic Wheeleder\" once per turn this way. If this card is sent to the GY as Synchro Material: You can target 1 monster on the field with less ATK than the Synchro Monster that used this card as material; destroy it. You can only use this effect of \"Psychic Wheeleder\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE",
+        "THE GRAND CREATORS",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": 0,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,17 @@
+{
+    "name": "NT8000 - SIRIUS",
+    "filename": "NT8000___SIRIUS",
+    "card_text": "This linked card cannot be destroyed by battle. You can only use each of the following effects of \"NT8000 - SIRIUS\" once per turn. During the turn a Link Monster's effect was activated (Quick Effect): You can target 1 face-up card you control and 1 face-up card your opponent controls; destroy both. If this card is sent to the GY, except from the field, and you control a DARK Link Monster: You can Special Summon this card, but banish it when it leaves the field.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": 2500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

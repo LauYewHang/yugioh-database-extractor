@@ -1,0 +1,35 @@
+{
+    "name": "Supreme King Dragon Dark Rebellion",
+    "filename": "Supreme_King_Dragon_Dark_Rebellion",
+    "card_text": "2 Level 4 DARK Pendulum Monsters\nOnce per turn, before damage calculation, if this card battles an opponent's monster: You can detach 1 material from this card; until the end of this turn, change the ATK of that face-up opponent's monster to 0, and if you do, this card gains ATK equal to the original ATK of that opponent's monster. During the Battle Phase (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 \"Supreme King Dragon\" and/or \"Supreme King Gate\" Pendulum Monsters from your face-up Extra Deck in Defense Position.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "MAZE OF MILLENNIA",
+        "CODE OF THE DUELIST",
+        "LEGENDARY DRAGON DECKS"
+    ],
+    "related_card": [
+        "Odd-Eyes Arcray Dragon",
+        "Odd-Eyes Rebellion Dragon Overlord",
+        "Performapal Duelist Extraordinaire",
+        "Supreme King Dragon Clear Wing",
+        "Supreme King Dragon Darkwurm",
+        "Supreme King Dragon Lightwurm",
+        "Supreme King Dragon Odd-Eyes",
+        "Supreme King Dragon Starving Venom",
+        "Supreme King Gate Infinity",
+        "Supreme King Gate Magician",
+        "Supreme King Gate Zero",
+        "Supreme King Z-ARC",
+        "Supreme King Z-ARC - Synchro Universe",
+        "Supreme Rage",
+        "Wings of Light"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

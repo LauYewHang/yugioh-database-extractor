@@ -1,0 +1,19 @@
+{
+    "name": "Chopman the Desperate Outlaw",
+    "filename": "Chopman_the_Desperate_Outlaw",
+    "card_text": "When this card is Flip Summoned, you can equip 1 Equip Spell Card in your Graveyard to this card.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1100,
+    "defense": 500,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

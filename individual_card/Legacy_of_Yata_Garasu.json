@@ -1,0 +1,15 @@
+{
+    "name": "Legacy of Yata-Garasu",
+    "filename": "Legacy_of_Yata_Garasu",
+    "card_text": "Activate 1 of these effects:\n\u25cfDraw 1 card.\n\u25cfActivate only if your opponent controls a face-up Spirit monster. Draw 2 cards.",
+    "release_date": "2007-07-26",
+    "available_set": [
+        "PREMIUM PACK",
+        "DRAGUNITY LEGION STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Shinobaroness Shade Peacock"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

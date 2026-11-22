@@ -1,0 +1,29 @@
+{
+    "name": "Luster Dragon",
+    "filename": "Luster_Dragon",
+    "card_text": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "STARTER DECK 2006",
+        "STRUCTURE DECK : SETO KAIBA",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "DARK REVELATION Volume 1",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "TOURNAMENT PACK 5",
+        "DEMO DECK 2026",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STARTER DECK KAIBA RELOADED"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1900,
+    "defense": 1600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

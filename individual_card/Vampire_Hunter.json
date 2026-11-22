@@ -1,0 +1,36 @@
+{
+    "name": "Vampire Hunter",
+    "filename": "Vampire_Hunter",
+    "card_text": "At the start of the Damage Step, if this card battles a DARK monster: Destroy that monster.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS",
+        "2014 MEGA-TINS MEGA PACK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+    ],
+    "related_card": [
+        "Shadow Vampire",
+        "Vampire Awakening",
+        "Vampire Domination",
+        "Vampire Duke",
+        "Vampire Familiar",
+        "Vampire Fascinator",
+        "Vampire Ghost",
+        "Vampire Kingdom",
+        "Vampire Red Baron",
+        "Vampire Retainer",
+        "Vampire Scarlet Scourge",
+        "Vampire Sorcerer",
+        "Vampire Takeover",
+        "Vampire Vamp",
+        "Vampire's Desire",
+        "Vampire's Domain"
+    ],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

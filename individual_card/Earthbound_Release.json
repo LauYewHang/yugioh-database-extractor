@@ -1,0 +1,41 @@
+{
+    "name": "Earthbound Release",
+    "filename": "Earthbound_Release",
+    "card_text": "When a Level 6 or higher monster(s) is Normal or Special Summoned: Tribute 1 Level 10 \"Earthbound\" monster; destroy as many monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "Call of the Earthbound",
+        "Earthbound Fusion",
+        "Earthbound Geoglyph",
+        "Earthbound Greater Linewalker",
+        "Earthbound Immortal Aslla piscu",
+        "Earthbound Immortal Ccapac Apu",
+        "Earthbound Immortal Ccarayhua",
+        "Earthbound Immortal Chacu Challhua",
+        "Earthbound Immortal Cusillu",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Immortal Revival",
+        "Earthbound Immortal Uru",
+        "Earthbound Immortal Wiraqocha Rasca",
+        "Earthbound Linewalker",
+        "Earthbound Prison",
+        "Earthbound Prisoner Ground Keeper",
+        "Earthbound Prisoner Line Walker",
+        "Earthbound Prisoner Stone Sweeper",
+        "Earthbound Resonance",
+        "Earthbound Servant Geo Grasha",
+        "Earthbound Servant Geo Gremlin",
+        "Earthbound Servant Geo Gremlina",
+        "Earthbound Servant Geo Gryphon",
+        "Earthbound Servant Geo Kraken",
+        "Earthbound Whirlwind",
+        "Roar of the Earthbound Immortal",
+        "Ultimate Earthbound Immortal",
+        "Zoma the Earthbound Spirit"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

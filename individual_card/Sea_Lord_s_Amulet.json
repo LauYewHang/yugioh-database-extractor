@@ -1,0 +1,12 @@
+{
+    "name": "Sea Lord's Amulet",
+    "filename": "Sea_Lord_s_Amulet",
+    "card_text": "Send this card to the Graveyard during your opponent's 3rd End Phase after activation. WATER monsters you control cannot be destroyed by your opponent's card effects.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

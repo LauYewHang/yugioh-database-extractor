@@ -1,0 +1,34 @@
+{
+    "name": "Defender of Nephthys",
+    "filename": "Defender_of_Nephthys",
+    "card_text": "During your Main Phase: You can destroy 1 card in your hand, and if you do, Special Summon 1 Level 4 or lower \"Nephthys\" monster from your hand, except \"Defender of Nephthys\". During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can destroy 1 \"Nephthys\" monster in your Deck, except \"Defender of Nephthys\". You can only use each effect of \"Defender of Nephthys\" once per turn.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS"
+    ],
+    "related_card": [
+        "Awakening of Nephthys",
+        "Cerulean Sacred Phoenix of Nephthys",
+        "Chaos Nephthys",
+        "Chronicler of Nephthys",
+        "Conductor of Nephthys",
+        "Dark Nephthys",
+        "Devotee of Nephthys",
+        "Disciple of Nephthys",
+        "Hand of Nephthys",
+        "Last Hope of Nephthys",
+        "Matriarch of Nephthys",
+        "Metaphys Nephthys",
+        "Nephthys, the Sacred Flame",
+        "Nephthys, the Sacred Preserver",
+        "Rebirth of Nephthys",
+        "Sacred Phoenix of Nephthys"
+    ],
+    "attribute": "WIND",
+    "attack": 1400,
+    "defense": 200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

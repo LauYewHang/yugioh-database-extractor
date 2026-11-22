@@ -1,0 +1,19 @@
+{
+    "name": "Minefieldriller",
+    "filename": "Minefieldriller",
+    "card_text": "When this face-up card you control leaves the field and is still in your possession: You can target 1 Field Spell Card in your Graveyard; add that target to your hand.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "MACHINE REACTOR STRUCTURE DECK",
+        "GEARGIA RAMPAGE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

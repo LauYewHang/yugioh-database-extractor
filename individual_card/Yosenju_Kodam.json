@@ -1,0 +1,38 @@
+{
+    "name": "Yosenju Kodam",
+    "filename": "Yosenju_Kodam",
+    "card_text": "You can Tribute this card, then target 1 \"Yosen Training Grounds\" you control; place 3 Yosen Counters on it. You can only use this effect of \"Yosenju Kodam\" once per turn. You can banish this card from your Graveyard; you can Normal Summon 1 \"Yosenju\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "Dizzying Winds of Yosen Village",
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosen Training Grounds",
+        "Yosen Whirlwind",
+        "Yosenju Izna",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Magat",
+        "Yosenju Misak",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Shinchu R",
+        "Yosenju Tsujik",
+        "Yosenju Wind Worship",
+        "Yosenjus' Secret Move",
+        "Yosenjus' Sword Sting"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

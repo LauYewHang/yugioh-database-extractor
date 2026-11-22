@@ -1,0 +1,21 @@
+{
+    "name": "Reload",
+    "filename": "Reload",
+    "card_text": "Add all cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Supay, Duskwalker",
+    "filename": "Supay__Duskwalker",
+    "card_text": "You can discard 1 card; Special Summon this card from your hand in Defense Position, then you can Special Summon 1 \"Supay\" from your hand or Deck. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Synchro Monsters. You can only use this effect of \"Supay, Duskwalker\" once per turn.",
+    "release_date": "2019-09-27",
+    "available_set": [
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "LEGENDARY DUELISTS: SEASON 3"
+    ],
+    "related_card": [
+        "Supay"
+    ],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 1900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

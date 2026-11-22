@@ -1,0 +1,24 @@
+{
+    "name": "Mustering of the Dark Scorpions",
+    "filename": "Mustering_of_the_Dark_Scorpions",
+    "card_text": "If you control a face-up \"Don Zaloog\": You can Special Summon any number of \"Dark Scorpion\" monsters from your hand, but only 1 copy of each.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1",
+        "GOLD SERIES HAUNTED MINE",
+        "DARK CRISIS"
+    ],
+    "related_card": [
+        "Dark Scorpion - Chick the Yellow",
+        "Dark Scorpion - Cliff the Trap Remover",
+        "Dark Scorpion - Gorg the Strong",
+        "Dark Scorpion - Meanae the Thorn",
+        "Dark Scorpion Burglars",
+        "Dark Scorpion Combination",
+        "Don Zaloog"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

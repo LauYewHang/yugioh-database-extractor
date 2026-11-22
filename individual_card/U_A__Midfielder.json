@@ -1,0 +1,35 @@
+{
+    "name": "U.A. Midfielder",
+    "filename": "U_A__Midfielder",
+    "card_text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Midfielder\". You can only Special Summon \"U.A. Midfielder\" once per turn this way. During either player's turn: You can target 1 other \"U.A.\" monster you control; return that face-up monster to the hand, then Special Summon 1 \"U.A.\" monster from your hand with a different name from that monster. You can only use this effect of \"U.A. Midfielder\" once per turn.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "U.A. Blockbacker",
+        "U.A. Dreadnought Dunker",
+        "U.A. Goalkeeper",
+        "U.A. Hyper Stadium",
+        "U.A. Libero Spiker",
+        "U.A. Locker Room",
+        "U.A. Man of the Match",
+        "U.A. Mighty Slugger",
+        "U.A. Penalty Box",
+        "U.A. Perfect Ace",
+        "U.A. Player Manager",
+        "U.A. Playmaker",
+        "U.A. Powered Jersey",
+        "U.A. Rival Rebounder",
+        "U.A. Signing Deal",
+        "U.A. Stadium",
+        "U.A. Turnover Tactics"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Aqua Story - Urashima",
+    "filename": "Aqua_Story___Urashima",
+    "card_text": "If you have an \"Aquaactress\" monster in your GY: Target 1 monster on the field; until the end of this turn, its effects are negated, its ATK/DEF become 100, also it is unaffected by your opponent's card effects.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Aquaactress Arowana",
+        "Aquaactress Guppy",
+        "Aquaactress Tetra"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

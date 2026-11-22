@@ -1,0 +1,17 @@
+{
+    "name": "Starfish",
+    "filename": "Starfish",
+    "card_text": "Once per turn: You can increase the Levels of all \"Starfish\" you currently control by 1.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 300,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

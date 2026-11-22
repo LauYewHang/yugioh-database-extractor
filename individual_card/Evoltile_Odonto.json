@@ -1,0 +1,37 @@
+{
+    "name": "Evoltile Odonto",
+    "filename": "Evoltile_Odonto",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 \"Evolsaur\" monster from your hand.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Evo-Branch",
+        "Evo-Diversity",
+        "Evo-Force",
+        "Evo-Karma",
+        "Evo-Miracle",
+        "Evo-Price",
+        "Evo-Singularity",
+        "Evolsaur Cerato",
+        "Evolsaur Darwino",
+        "Evolsaur Diplo",
+        "Evolsaur Elias",
+        "Evolsaur Lios",
+        "Evolsaur Pelta",
+        "Evolsaur Terias",
+        "Evolsaur Vulcano",
+        "Evoltile Elginero",
+        "Evoltile Lagosucho",
+        "Evoltile Pholis",
+        "Evolutionary Bridge"
+    ],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": 1200,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

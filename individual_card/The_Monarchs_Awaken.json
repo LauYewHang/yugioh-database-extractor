@@ -1,0 +1,26 @@
+{
+    "name": "The Monarchs Awaken",
+    "filename": "The_Monarchs_Awaken",
+    "card_text": "If you have no cards in your Extra Deck: Target 1 face-up Tribute Summoned monster you control; its effects are negated, also it is unaffected by the effects of cards other than this card.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT",
+        "EMPEROR OF DARKNESS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Frost Blast of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Tenacity of the Monarchs",
+        "Tessera the Primal Squire",
+        "The Monarchs Masterplan",
+        "The Prime Monarch"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

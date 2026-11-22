@@ -1,0 +1,32 @@
+{
+    "name": "Airknight Parshath",
+    "filename": "Airknight_Parshath",
+    "card_text": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card inflicts battle damage to your opponent: Draw 1 card.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "TOURNAMENT PACK 6",
+        "RETRO PACK 2",
+        "LEGACY OF DARKNESS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "LOST SANCTUARY STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Neo-Parshath, the Sky Paladin",
+        "Nova Summoner",
+        "Rebirth of Parshath",
+        "Sacred Arch-Airknight Parshath"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": 1400,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

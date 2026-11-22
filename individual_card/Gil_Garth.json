@@ -1,0 +1,22 @@
+{
+    "name": "Gil Garth",
+    "filename": "Gil_Garth",
+    "card_text": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "DEMO DECK 2015",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "STRUCTURE DECK - MARIK -",
+        "2-PLAYER STARTER SET",
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

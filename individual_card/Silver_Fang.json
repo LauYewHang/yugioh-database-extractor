@@ -1,0 +1,24 @@
+{
+    "name": "Silver Fang",
+    "filename": "Silver_Fang",
+    "card_text": "A snow wolf that's beautiful to the eye, but absolutely vicious in battle.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK BEGINNING 1",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [
+        "Flower Wolf"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 800,
+    "monster_type": "Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

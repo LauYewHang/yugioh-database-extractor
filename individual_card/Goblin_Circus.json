@@ -1,0 +1,28 @@
+{
+    "name": "Goblin Circus",
+    "filename": "Goblin_Circus",
+    "card_text": "Once per turn, during your End Phase: Reveal the bottom card of your Deck, then place it on the top of the Deck or banish it face-down.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

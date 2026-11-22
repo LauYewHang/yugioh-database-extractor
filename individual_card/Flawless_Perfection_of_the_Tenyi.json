@@ -1,0 +1,22 @@
+{
+    "name": "Flawless Perfection of the Tenyi",
+    "filename": "Flawless_Perfection_of_the_Tenyi",
+    "card_text": "All non-Effect Monsters on the field are unaffected by monster effects. Once per turn, if your opponent Special Summons an Effect Monster(s), while you control a face-down monster or non-Effect Monster (except during the Damage Step): You can draw 2 cards.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE",
+        "OTS TOURNAMENT PACK 17",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Heavenly Dragon Circle",
+        "Monk of the Tenyi",
+        "Shaman of the Tenyi",
+        "Tenyi Spirit - Ashuna",
+        "Tenyi Spirit - Suruya",
+        "Tenyinfinity",
+        "Vessel for the Dragon Cycle"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Greed Jar",
+    "filename": "Greed_Jar",
+    "card_text": "FLIP: Apply these effects in sequence.\n\u25cfExcavate any number of cards from the top of your Deck, up to the number of cards your opponent controls, and if you do, add 1 of them to your hand, also send the remaining to the GY.\n\u25cfSend monsters from your Extra Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck.\nYou can only use this effect of \"Greed Jar\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 700,
+    "defense": 800,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

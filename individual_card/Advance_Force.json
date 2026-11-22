@@ -1,0 +1,12 @@
+{
+    "name": "Advance Force",
+    "filename": "Advance_Force",
+    "card_text": "You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

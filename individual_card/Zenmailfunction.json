@@ -1,0 +1,34 @@
+{
+    "name": "Zenmailfunction",
+    "filename": "Zenmailfunction",
+    "card_text": "Target 1 \"Wind-Up\" monster in your Graveyard; Special Summon it in face-up Defense Position. Its effect(s) is negated, and it cannot be Tributed or used as a Synchro Material Monster.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Legendary Wind-Up Key",
+        "Wind-Up Arsenal Zenmaioh",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Dog",
+        "Wind-Up Factory",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Juggler",
+        "Wind-Up Kitten",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Snail",
+        "Wind-Up Soldier",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaines",
+        "Wind-Up Zenmaintenance",
+        "Wind-Up Zenmaister"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

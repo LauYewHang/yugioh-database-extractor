@@ -1,0 +1,25 @@
+{
+    "name": "Flamvell Grunika",
+    "filename": "Flamvell_Grunika",
+    "card_text": "If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original Level of the destroyed monster x 200.",
+    "release_date": "2010-05-25",
+    "available_set": [
+        "HIDDEN ARSENAL 2",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [
+        "Flamvell Archer",
+        "Flamvell Commando",
+        "Neo Flamvell Garuda",
+        "Neo Flamvell Origin",
+        "Neo Flamvell Shaman"
+    ],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

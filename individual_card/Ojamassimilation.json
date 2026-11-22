@@ -1,0 +1,30 @@
+{
+    "name": "Ojamassimilation",
+    "filename": "Ojamassimilation",
+    "card_text": "Reveal 1 LIGHT Machine Fusion Monster from your Extra Deck and banish any number of \"Ojama\" monsters from your hand, face-up field, and/or GY; Special Summon Fusion Materials with different names whose names are specifically listed on the card you revealed, from your hand, Deck, and/or GY, equal to the number of monsters banished to activate this effect. You can banish this card from your GY, then target 3 of your banished \"Ojama\" monsters; shuffle them into the Deck, then draw 1 card.",
+    "release_date": "2018-02-23",
+    "available_set": [
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM"
+    ],
+    "related_card": [
+        "Ojama Black",
+        "Ojama Blue",
+        "Ojama Country",
+        "Ojama Delta Hurricane!!",
+        "Ojama Duo",
+        "Ojama Emperor",
+        "Ojama Green",
+        "Ojama King",
+        "Ojama Knight",
+        "Ojama Pajama",
+        "Ojama Pink",
+        "Ojama Red",
+        "Ojama Trio",
+        "Ojama Yellow",
+        "Ojamagic",
+        "Ojamatch",
+        "Ojamuscle"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

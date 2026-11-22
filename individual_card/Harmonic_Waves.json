@@ -1,0 +1,12 @@
+{
+    "name": "Harmonic Waves",
+    "filename": "Harmonic_Waves",
+    "card_text": "Target 1 face-up monster on the field; it becomes Level 4 until the End Phase.",
+    "release_date": "2011-07-12",
+    "available_set": [
+        "STARTER DECK DAWN OF THE XYZ"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Burgeoning Whirlflame",
+    "filename": "Burgeoning_Whirlflame",
+    "card_text": "When a Trap Card is activated: Send 1 \"Laval\" monster from your hand to the Graveyard; negate the activation and destroy it. If this card is in the Graveyard: You can banish 2 FIRE monsters from your Graveyard; add this card to your hand.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [
+        "Laval Archer",
+        "Laval Blaster",
+        "Laval Burner",
+        "Laval Cannon",
+        "Laval Coatl",
+        "Laval Dual Slasher",
+        "Laval Forest Sprite",
+        "Laval Judgment Lord",
+        "Laval Lakeside Lady",
+        "Laval Lancelord",
+        "Laval Magma Cannoneer",
+        "Laval Miller",
+        "Laval Phlogis",
+        "Laval Stennon",
+        "Laval the Greater",
+        "Laval Volcano Handmaiden",
+        "Laval Warrior",
+        "Lavalval Chain",
+        "Lavalval Dragon",
+        "Lavalval Dragun",
+        "Lavalval Exlord",
+        "Lavalval Ignis",
+        "Lavalval Salamander"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

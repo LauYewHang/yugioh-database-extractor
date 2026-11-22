@@ -1,0 +1,36 @@
+{
+    "name": "Gameciel, the Sea Turtle Kaiju",
+    "filename": "Gameciel__the_Sea_Turtle_Kaiju",
+    "card_text": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When your opponent activates a card or effect, except \"Gameciel, the Sea Turtle Kaiju\" (Quick Effect): You can remove 2 Kaiju Counters from anywhere on the field; negate the activation, and if you do, banish that card.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "DIMENSION OF CHAOS",
+        "Duel Devastator",
+        "OTS TOURNAMENT PACK 2",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Dogoran, the Mad Flame Kaiju",
+        "Gadarla, the Mystery Dust Kaiju",
+        "Interrupted Kaiju Slumber",
+        "Jizukiru, the Star Destroying Kaiju",
+        "Kaiju Capture Mission",
+        "Kumongous, the Sticky String Kaiju",
+        "Kyoutou Waterfront",
+        "Radian, the Multidimensional Kaiju",
+        "Super Anti-Kaiju War Machine Mecha-Dogoran",
+        "Super Anti-Kaiju War Machine Mecha-Thunder-King",
+        "The Kaiju Files",
+        "Thunder King, the Lightningstrike Kaiju"
+    ],
+    "attribute": "WATER",
+    "attack": 2200,
+    "defense": 3000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,18 @@
+{
+    "name": "D.D. Destroyer",
+    "filename": "D_D__Destroyer",
+    "card_text": "When this card on the field is banished: You can target 1 face-up card your opponent controls; destroy that target.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

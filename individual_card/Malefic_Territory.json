@@ -1,0 +1,30 @@
+{
+    "name": "Malefic Territory",
+    "filename": "Malefic_Territory",
+    "card_text": "When this card is activated: You can activate 1 \"Malefic World\" from your Deck. While that card is in the Field Zone, neither player can target a card(s) in the Field Zone with card effects. The \"Malefic\" monster effect, \"There can only be 1 face-up \"Malefic\" monster on the field\" becomes \"There can only be 1 face-up \"Malefic\" monster on the field with the same name\". During the Battle Phase, negate the effects of face-up \"Malefic\" monsters on the field.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Malefic Blue-Eyes White Dragon",
+        "Malefic Claw Stream",
+        "Malefic Cyber End Dragon",
+        "Malefic Divide",
+        "Malefic Force",
+        "Malefic Paradigm Dragon",
+        "Malefic Paradigm Shift",
+        "Malefic Paradox Dragon",
+        "Malefic Paradox Gear",
+        "Malefic Parallel Gear",
+        "Malefic Rainbow Dragon",
+        "Malefic Red-Eyes Black Dragon (Updated from: Malefic Red-Eyes B. Dragon)",
+        "Malefic Selector",
+        "Malefic Stardust Dragon",
+        "Malefic Truth Dragon",
+        "Malefic Tune",
+        "Malefic World"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

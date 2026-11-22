@@ -1,0 +1,34 @@
+{
+    "name": "Redbeard, the Plunder Patroll Matey",
+    "filename": "Redbeard__the_Plunder_Patroll_Matey",
+    "card_text": "During your opponent's turn (Quick Effect): You can Special Summon 1 \"Plunder Patroll\" monster from your Extra Deck with the same Attribute as a monster your opponent controls or is in their GY, and if you do, equip this card you control to it. If this card is sent from the hand or Monster Zone to the GY: You can target 1 \"Plunder Patroll\" monster you control, except \"Redbeard, the Plunder Patroll Matey\"; equip this card to it. You can only use each effect of \"Redbeard, the Plunder Patroll Matey\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Blackbeard, the Plunder Patroll Captain",
+        "Blackeyes, the Plunder Patroll Seaguide",
+        "Bluebeard, the Plunder Patroll Shipwright",
+        "Emblem of the Plunder Patroll",
+        "Goldenhair, the Newest Plunder Patroll",
+        "Plunder Patroll Booty",
+        "Plunder Patroll Parrrty",
+        "Plunder Patroll Shipshape Ships Shipping",
+        "Plunder Patroll Shipyarrrd",
+        "Plunder Patrollship Brann",
+        "Plunder Patrollship Jord",
+        "Plunder Patrollship Lys",
+        "Plunder Patrollship Moerk",
+        "Pride of the Plunder Patroll",
+        "Whitebeard, the Plunder Patroll Helm"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

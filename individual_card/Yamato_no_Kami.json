@@ -1,0 +1,17 @@
+{
+    "name": "Yamato-no-Kami",
+    "filename": "Yamato_no_Kami",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 Spirit monster from your Graveyard. This card returns to its owner's hand during the End Phase of the turn it is Special Summoned. If this card destroys an opponent's monster by battle, you can destroy 1 Spell or Trap Card your opponent controls.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

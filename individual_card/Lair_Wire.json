@@ -1,0 +1,12 @@
+{
+    "name": "Lair Wire",
+    "filename": "Lair_Wire",
+    "card_text": "Remove from play 1 Insect-Type monster from your Graveyard and select 1 monster your opponent controls. Destroy the selected monster.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

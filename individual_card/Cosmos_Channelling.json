@@ -1,0 +1,19 @@
+{
+    "name": "Cosmos Channelling",
+    "filename": "Cosmos_Channelling",
+    "card_text": "You can send 1 monster you control that is owned by your opponent to the GY; Special Summon 1 Machine monster from your hand or GY. When your opponent draws for their normal draw in their Draw Phase while you control \"Jinzo\": You can declare 1 card type (Monster, Spell, or Trap); your opponent reveals the card they drew, and if it is the declared card type, send this card to the GY, and if you do, draw 1 card. You can only use each effect of \"Cosmos Channelling\" once per turn.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [
+        "Jinzo",
+        "Jinzo - Energy Shocker",
+        "Jinzo - Jector",
+        "Law of the Cosmos",
+        "Psychic Bounder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

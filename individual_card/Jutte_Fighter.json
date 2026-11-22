@@ -1,0 +1,17 @@
+{
+    "name": "Jutte Fighter",
+    "filename": "Jutte_Fighter",
+    "card_text": "Once per turn, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 700,
+    "defense": 900,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Hieratic Sky Dragon Overlord of Heliopolis",
+    "filename": "Hieratic_Sky_Dragon_Overlord_of_Heliopolis",
+    "card_text": "2 Level 8 monsters\nOnce per turn, when your opponent activates a card or effect that targets a card(s) on your field, your GY, and/or your banished card(s) (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Hieratic Dragon of Asar",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Su",
+        "Hieratic Seal From the Ashes",
+        "Hieratic Seal of Banishment",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Creation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2400,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 8
+}

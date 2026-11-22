@@ -1,0 +1,17 @@
+{
+    "name": "Shadowreaver Knight 21",
+    "filename": "Shadowreaver_Knight_21",
+    "card_text": "1 Tuner + 1+ non-Tuners\nCannot be destroyed by battle. Each time a card(s) is placed in your opponent's Spell & Trap Zone: Excavate the top cards of your Deck until you excavate a monster and equip it to this card as an Equip Spell, also place the rest on the bottom of the Deck in any order. Gains ATK/DEF equal to the total Levels of the monsters equipped to it x 300. If the total Levels of monsters equipped to this card are higher than 21, destroy this card.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

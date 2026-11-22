@@ -1,0 +1,36 @@
+{
+    "name": "GranSolfachord Musecia",
+    "filename": "GranSolfachord_Musecia",
+    "card_text": "2 Pendulum Monsters\nDuring your Main Phase: You can add 1 Pendulum Monster from your hand to the Extra Deck face-up, and 1 face-up Pendulum Monster from your Extra Deck to the hand, as long as one of them has an even Pendulum Scale, and the other has an odd Pendulum Scale. When you Pendulum Summon a \"Solfachord\" monster(s): You can target 1 of them; add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, whose Level equals the Pendulum Scale of that monster. You can only activate each effect of \"GranSolfachord Musecia\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "DoSolfachord Coolia",
+        "DoSolfachord Cutia",
+        "FaSolfachord Fancia",
+        "GranSolfachord Coolia",
+        "LaSolfachord Angelia",
+        "MiSolfachord Eliteia",
+        "ReSolfachord Dreamia",
+        "Solfachord Elegance",
+        "Solfachord Formal",
+        "Solfachord Happiness",
+        "Solfachord Harmonia",
+        "Solfachord Musica",
+        "Solfachord Primoa",
+        "Solfachord Scale",
+        "Solfachord Solfegia",
+        "Solfachord Symphony",
+        "SolSolfachord Gracia",
+        "TiSolfachord Beautia"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": null,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

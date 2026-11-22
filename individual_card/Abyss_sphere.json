@@ -1,0 +1,35 @@
+{
+    "name": "Abyss-sphere",
+    "filename": "Abyss_sphere",
+    "card_text": "Special Summon 1 \"Mermail\" monster from your Deck. Its effects are negated. You cannot activate any Spell Cards. When this card leaves the field, destroy that monster. Destroy this card during your opponent's next End Phase after activation.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Abyssrhine, the Atlantean Spirit",
+        "Abysstrite, the Atlantean Spirit",
+        "Mermail Abyssalacia",
+        "Mermail Abyssbalaen",
+        "Mermail Abyssdine",
+        "Mermail Abyssgaios",
+        "Mermail Abyssgunde",
+        "Mermail Abysshilde",
+        "Mermail Abyssleed",
+        "Mermail Abysslinde",
+        "Mermail Abysslung",
+        "Mermail Abyssmander",
+        "Mermail Abyssmegalo",
+        "Mermail Abyssnerei",
+        "Mermail Abyssnose",
+        "Mermail Abyssocea",
+        "Mermail Abysspike",
+        "Mermail Abyssteus",
+        "Mermail Abysstrite",
+        "Mermail Abyssturge",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

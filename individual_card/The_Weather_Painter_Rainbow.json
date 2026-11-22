@@ -1,0 +1,34 @@
+{
+    "name": "The Weather Painter Rainbow",
+    "filename": "The_Weather_Painter_Rainbow",
+    "card_text": "3 \"The Weather\" monsters\nWhen your opponent would Special Summon a monster(s) (Quick Effect): You can send this Link Summoned card to the GY; negate the Summon, and if you do, destroy that monster(s). Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card. \"The Weather\" Effect Monsters this card points to gain the following effect.\n\u25cfWhen a card or effect is activated (Quick Effect): You can banish this card; negate the activation, and if you do, destroy that card.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "The Weather Auroral Canvas",
+        "The Weather Cloudy Canvas",
+        "The Weather Forecast",
+        "The Weather Painter Aurora",
+        "The Weather Painter Cloud",
+        "The Weather Painter Moonbow",
+        "The Weather Painter Rain",
+        "The Weather Painter Snow",
+        "The Weather Painter Sun",
+        "The Weather Painter Thunder",
+        "The Weather Rainbowed Canvas",
+        "The Weather Rainy Canvas",
+        "The Weather Snowy Canvas",
+        "The Weather Sunny Canvas",
+        "The Weather Thundery Canvas"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": null,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

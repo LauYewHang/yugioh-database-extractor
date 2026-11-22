@@ -1,0 +1,30 @@
+{
+    "name": "Recardination",
+    "filename": "Recardination",
+    "card_text": "Target 1 \"Flower Cardian\" monster in your Graveyard; add it to your hand, then you can Special Summon 1 \"Flower Cardian\" monster from your hand, ignoring its Summoning conditions. If this card is sent to the Graveyard by a \"Flower Cardian\" monster's effect: You can excavate the top 5 cards of your Deck, and if you do, you can add 1 excavated Spell/Trap Card to your hand. Place the remaining cards on top of your Deck in any order.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Flower Cardian Boardefly",
+        "Flower Cardian Cherry Blossom",
+        "Flower Cardian Cherry Blossom with Curtain",
+        "Flower Cardian Clover with Boar",
+        "Flower Cardian Lightflare",
+        "Flower Cardian Lightshower",
+        "Flower Cardian Maple with Deer",
+        "Flower Cardian Moonflowerviewing",
+        "Flower Cardian Paulownia",
+        "Flower Cardian Paulownia with Phoenix",
+        "Flower Cardian Peony with Butterfly",
+        "Flower Cardian Pine",
+        "Flower Cardian Pine with Crane",
+        "Flower Cardian Willow",
+        "Flower Cardian Willow with Calligrapher",
+        "Flower Cardian Zebra Grass",
+        "Flower Cardian Zebra Grass with Moon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

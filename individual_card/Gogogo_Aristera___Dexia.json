@@ -1,0 +1,39 @@
+{
+    "name": "Gogogo Aristera & Dexia",
+    "filename": "Gogogo_Aristera___Dexia",
+    "card_text": "While another \"Gogogo\" monster is on the field, your opponent's monsters cannot target \"Gogogo\" monsters for attacks, also your opponent cannot target \"Gogogo\" monsters on the field with card effects. An Xyz Monster that was Summoned using only this card and other \"Gogogo\" monsters as material gains this effect.\n\u25cfWhen it is Xyz Summoned: You can target 1 face-up Attack Position monster your opponent controls; change it to Defense Position, and if you do, change its DEF to 0.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "CODE OF THE DUELIST",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Dodododwarf Gogogoglove",
+        "Gagaga Ganbara Knight",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Gogogo Ghost",
+        "Gogogo Giant",
+        "Gogogo Gigas",
+        "Gogogo Goblindbergh",
+        "Gogogo Golem",
+        "Gogogo Golem - Golden Form",
+        "Gogogo Goram",
+        "Gogogo Talisman",
+        "Guard Go!",
+        "Number 55: Gogogo Goliath",
+        "Onomatokage",
+        "Onomatopaira",
+        "Onomatopia",
+        "Onomatopickup",
+        "Utopic Onomatopoeia",
+        "Zubababancho Gagagacoat"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2200,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

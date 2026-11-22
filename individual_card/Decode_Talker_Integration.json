@@ -1,0 +1,30 @@
+{
+    "name": "Decode Talker Integration",
+    "filename": "Decode_Talker_Integration",
+    "card_text": "2+ Effect Monsters\nWhile this card is in the Extra Monster Zone, it gains 500 ATK for every other Link Monster in the field and the GYs, also your opponent cannot target it with card effects. (Quick Effect): You can Tribute 1 monster this card points to; send 1 Cyberse monster from your Extra Deck to the GY, also this card can make up to 2 attacks on monsters during each Battle Phase this turn. You can only use this effect of \"Decode Talker Integration\" once per turn.",
+    "release_date": "2026-09-04",
+    "available_set": [
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Code Exporter",
+        "Code Generator",
+        "Code Hack",
+        "Code Radiator",
+        "Cynet Codec",
+        "Cynet Conflict",
+        "Cynet Optimization",
+        "Limit Code",
+        "Micro Coder",
+        "Recoded Alive",
+        "Rokket Coder",
+        "Talkback Lancer"
+    ],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 266
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Cyber Eltanin",
+    "filename": "Cyber_Eltanin",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT Machine monsters from your field and GY. This card's ATK/DEF become the number of monsters banished for its Special Summon x 500. If this card is Special Summoned: Send all other face-up monsters on the field to the GY.",
+    "release_date": "2011-04-09",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "TURBO PACK BOOSTER FIVE",
+        "LEGENDARY DRAGON DECKS",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "SHONEN JUMP Promotional Card - March 2010 -",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

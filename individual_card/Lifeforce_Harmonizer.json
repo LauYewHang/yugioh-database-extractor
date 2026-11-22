@@ -1,0 +1,17 @@
+{
+    "name": "Lifeforce Harmonizer",
+    "filename": "Lifeforce_Harmonizer",
+    "card_text": "When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": 400,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

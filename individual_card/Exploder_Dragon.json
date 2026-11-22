@@ -1,0 +1,26 @@
+{
+    "name": "Exploder Dragon",
+    "filename": "Exploder_Dragon",
+    "card_text": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card.",
+    "release_date": "2007-03-20",
+    "available_set": [
+        "STARTER DECK DARK LEGION (US)",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2007 Bundles",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "GOLD SERIES 3",
+        "PREMIUM GOLD",
+        "DEMO DECK 2026",
+        "DUEL TERMINAL 4",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

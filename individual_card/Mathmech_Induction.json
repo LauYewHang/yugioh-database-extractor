@@ -1,0 +1,28 @@
+{
+    "name": "Mathmech Induction",
+    "filename": "Mathmech_Induction",
+    "card_text": "All Cyberse monsters you control gain 500 ATK. If you control a \"Mathmech\" monster: You can send this face-up card from the field to the GY, then target 1 card your opponent controls; destroy it. You can only use this effect of \"Mathmech Induction\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Geomathmech Final Sigma",
+        "Geomathmech Magma",
+        "Mathmech Addition",
+        "Mathmech Billionblade Nayuta",
+        "Mathmech Circular",
+        "Mathmech Diameter",
+        "Mathmech Division",
+        "Mathmech Equation",
+        "Mathmech Multiplication",
+        "Mathmech Nabla",
+        "Mathmech Sigma",
+        "Mathmech Subtraction",
+        "Mathmech Superfactorial",
+        "Primathmech Alembertian",
+        "Primathmech Laplacian"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

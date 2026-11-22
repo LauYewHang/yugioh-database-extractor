@@ -1,0 +1,40 @@
+{
+    "name": "Primite Fusion",
+    "filename": "Primite_Fusion",
+    "card_text": "Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by shuffling its materials from your field, GY, and/or banishment into the Deck, including a Normal Monster. You can banish this card from your GY; add 1 Level 5 or higher \"Primite\" monster from your Deck or GY to your hand. You can only use each effect of \"Primite Fusion\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Primite Dragon Ether Beryl",
+        "Primite Dragon Nether Berzelius",
+        "Primite Drillbeam",
+        "Primite Howl",
+        "Primite Imperial Dragon",
+        "Primite Lordly Lode",
+        "Primite Roar",
+        "Primite Scream",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Planet Pathfinder",
+    "filename": "Planet_Pathfinder",
+    "card_text": "You can Tribute this card; add 1 Field Spell from your Deck to your hand.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "CROSSOVER BREAKERS",
+        "MACHINE REACTOR STRUCTURE DECK",
+        "ABYSS RISING",
+        "Gold Series: Maximum Gold"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

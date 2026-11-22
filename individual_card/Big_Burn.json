@@ -1,0 +1,14 @@
+{
+    "name": "Big Burn",
+    "filename": "Big_Burn",
+    "card_text": "You can only activate this card when your opponent activates a card that targets a monster in the Graveyard. Remove from play all monsters in both players' Graveyards.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

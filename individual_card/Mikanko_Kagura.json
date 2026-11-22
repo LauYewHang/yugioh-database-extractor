@@ -1,0 +1,31 @@
+{
+    "name": "Mikanko Kagura",
+    "filename": "Mikanko_Kagura",
+    "card_text": "This card can be used to Ritual Summon any \"Mikanko\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then you can apply the following effect.\n\u25cfDestroy cards your opponent controls up to the number of Equip Spells with different names in your GY, and if you do, inflict 1000 damage to your opponent for each card destroyed.\nYou can only activate 1 \"Mikanko Kagura\" per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Arahime the Manifested Mikanko",
+        "Ha-Re the Sword Mikanko",
+        "Heavenly Gate of the Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Fire Dance",
+        "Mikanko Promise",
+        "Mikanko Purification Dance",
+        "Mikanko Reflection Rondo",
+        "Mikanko Rivalry",
+        "Mikanko Shinbu - Noble Twins",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Ohime the Manifested Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

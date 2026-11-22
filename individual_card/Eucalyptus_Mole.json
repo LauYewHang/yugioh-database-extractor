@@ -1,0 +1,24 @@
+{
+    "name": "Eucalyptus Mole",
+    "filename": "Eucalyptus_Mole",
+    "card_text": "If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower Beast monster from your Deck in face-down Defense Position, then if this card is in Attack Position, change it to Defense Position. If this card is destroyed: You can Special Summon 1 \"Koala\" monster or 1 \"Tree Otter\" from your Deck, and if you do, apply this effect until the end of the next turn.\n\u25cfNon-Effect Beast monsters you control gain ATK equal to their original DEF.\nYou can only use each effect of \"Eucalyptus Mole\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Big Koala",
+        "Des Koala",
+        "Koalo-Koala",
+        "Sea Koala",
+        "Tree Otter",
+        "Vampiric Koala"
+    ],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 1300,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

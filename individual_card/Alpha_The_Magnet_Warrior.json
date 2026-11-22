@@ -1,0 +1,38 @@
+{
+    "name": "Alpha The Magnet Warrior",
+    "filename": "Alpha_The_Magnet_Warrior",
+    "card_text": "Alpha, Beta, and Gamma meld as one to form a powerful monster.",
+    "release_date": "2003-02-16",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "RETRO PACK 2",
+        "Yu-Gi-Oh! THE DUELISTS OF THE ROSES Bundles",
+        "Speed Duel: Battle City Box",
+        "STRUCTURE DECK : YUGI MUTO"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Conduction Warrior Linear Magnum Plus Minus",
+        "Conduction Warrior Plasma Magnum",
+        "Delta The Magnet Warrior",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Magnet Bonding",
+        "Magnet Conversion",
+        "Magnet Induction",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Magnetic Field",
+        "Valkyrion the Magna Warrior"
+    ],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1700,
+    "monster_type": "Rock",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

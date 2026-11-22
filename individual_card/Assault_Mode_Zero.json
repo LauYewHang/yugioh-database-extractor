@@ -1,0 +1,31 @@
+{
+    "name": "Assault Mode Zero",
+    "filename": "Assault_Mode_Zero",
+    "card_text": "Tribute 1 Synchro Monster; Special Summon 1 \"/Assault Mode\" monster from your hand whose name includes the Tributed monster's name. (This is treated as a Special Summon with \"Assault Mode Activate\".) During your Main Phase: You can banish this card from your GY; Set 1 \"Assault Mode Activate\" directly from your hand or Deck. It can be activated this turn. You can only use each effect of \"Assault Mode Zero\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Arcanite Magician/Assault Mode",
+        "Assault Lich",
+        "Assault Mode Activate",
+        "Assault Reboot",
+        "Assault Sentinel",
+        "Assault Sonic Warrior",
+        "Colossal Fighter/Assault Mode",
+        "Crimson Blader/Assault Mode",
+        "Doomkaiser Dragon/Assault Mode",
+        "Duel Evolution - Assault Zone",
+        "Hyper Psychic Blaster/Assault Mode",
+        "Junk Warrior/Assault Mode",
+        "Nightwinged Cleric",
+        "Psi-Reflector",
+        "Red Dragon Archfiend/Assault Mode",
+        "Red Nova Dragon/Assault Mode",
+        "Stardust Dragon/Assault Mode",
+        "T.G. Halberd Cannon/Assault Mode"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

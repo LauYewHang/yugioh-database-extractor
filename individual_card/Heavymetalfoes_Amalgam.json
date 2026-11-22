@@ -1,0 +1,39 @@
+{
+    "name": "Heavymetalfoes Amalgam",
+    "filename": "Heavymetalfoes_Amalgam",
+    "card_text": "2 \"Metalfoes\" monsters\nIf this card is sent from the Monster Zone to the GY by a card effect: You can activate 1 of these effects;\n\u25cfTarget 1 \"Metalfoes\" monster you control; equip this card to it. It gains 1000 ATK.\n\u25cfTarget 1 \"Metalfoes\" card you control; destroy it, and if you do, Special Summon this card.\nYou can only use this effect of \"Heavymetalfoes Amalgam\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "Fullmetalfoes Alkahest",
+        "Fullmetalfoes Fusion",
+        "Heavymetalfoes Electrumite",
+        "Metalfoes Adamante",
+        "Metalfoes Combination",
+        "Metalfoes Counter",
+        "Metalfoes Crimsonite",
+        "Metalfoes Fusion",
+        "Metalfoes Goldriver",
+        "Metalfoes Mithrilium",
+        "Metalfoes Orichalc",
+        "Metalfoes Silverd",
+        "Metalfoes Steelen",
+        "Metalfoes Vanisher",
+        "Metalfoes Volflame",
+        "Metamorformation",
+        "Parametalfoes Azortless",
+        "Parametalfoes Fusion",
+        "Parametalfoes Melcaster",
+        "Raremetalfoes Bismugear"
+    ],
+    "attribute": "FIRE",
+    "attack": 2000,
+    "defense": null,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 80
+}

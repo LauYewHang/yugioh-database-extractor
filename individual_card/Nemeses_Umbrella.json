@@ -1,0 +1,24 @@
+{
+    "name": "Nemeses Umbrella",
+    "filename": "Nemeses_Umbrella",
+    "card_text": "You can target 1 of your banished monsters, except \"Nemeses Umbrella\"; Special Summon this card from your hand, and if you do, shuffle that target into the Deck. You can target 1 \"Nemeses\" monster in your GY, except \"Nemeses Umbrella\"; add it to your hand. You can only use each effect of \"Nemeses Umbrella\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Archnemeses Eschatos",
+        "Archnemeses Protos",
+        "Nemeses Adrastea",
+        "Nemeses Corridor",
+        "Nemeses Flag",
+        "Nemeses Keystone"
+    ],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": 400,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Necroworld Banshee",
+    "filename": "Necroworld_Banshee",
+    "card_text": "\"Zombie World\" in the Field Zone cannot be destroyed by card effects, also neither player can target it with card effects. (Quick Effect): You can banish this card from your field or GY; activate 1 \"Zombie World\" from your hand or Deck. You can only use this effect of \"Necroworld Banshee\" once per turn.",
+    "release_date": "2018-11-02",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "MAZE OF MUERTOS",
+        "STRUCTURE DECK: ZOMBIE HORDE"
+    ],
+    "related_card": [
+        "Zombie World"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

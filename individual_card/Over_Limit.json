@@ -1,0 +1,13 @@
+{
+    "name": "Over Limit",
+    "filename": "Over_Limit",
+    "card_text": "Pay 500 Life Points. Special Summon from both players' Graveyards as many Normal Monsters as possible with 1000 or less ATK that were destroyed by battle this turn.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "DUELIST PACK - JADEN YUKI 3 -",
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

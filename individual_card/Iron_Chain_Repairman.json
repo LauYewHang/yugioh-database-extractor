@@ -1,0 +1,23 @@
+{
+    "name": "Iron Chain Repairman",
+    "filename": "Iron_Chain_Repairman",
+    "card_text": "When this card destroys a monster by battle and sends it to the Graveyard, inflict 300 damage to your opponent. Once per turn, you can Special Summon 1 Level 4 or lower \"Iron Chain\" monster from your Graveyard, except \"Iron Chain Repairman\". This card cannot attack the turn you activate this effect.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [
+        "Iron Chain Blaster",
+        "Iron Chain Coil",
+        "Iron Chain Dragon",
+        "Iron Chain Snake",
+        "Poison Chain"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,13 @@
+{
+    "name": "A Rival Appears!",
+    "filename": "A_Rival_Appears_",
+    "card_text": "Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Boss Rush",
+    "filename": "Boss_Rush",
+    "card_text": "Activate only if you did not Normal Summon/Set this turn. You cannot Normal Summon/Set. During the End Phase, if a face-up \"B.E.S.\" monster(s) you control was destroyed and sent to the GY this turn while this card was face-up in your Spell & Trap Zone: You can Special Summon 1 \"B.E.S.\" monster from your Deck.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "OTS TOURNAMENT PACK 30",
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "B.E.F. Zelos",
+        "B.E.S. Big Core (Updated from: Big Core)",
+        "B.E.S. Big Core MK-2",
+        "B.E.S. Big Core MK-3",
+        "B.E.S. Blaster Cannon Core",
+        "B.E.S. Covered Core",
+        "B.E.S. Crystal Core",
+        "B.E.S. Derringer Core",
+        "B.E.S. Tetran",
+        "Boss on Parade",
+        "Super B.E.S. Metal Slave"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

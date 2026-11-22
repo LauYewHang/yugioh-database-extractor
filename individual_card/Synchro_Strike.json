@@ -1,0 +1,15 @@
+{
+    "name": "Synchro Strike",
+    "filename": "Synchro_Strike",
+    "card_text": "Target Synchro Summoned monster gains 500 ATK for each Synchro Material Monster used to Summon it, until the End Phase.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS",
+        "DUELIST PACK - YUSEI -"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

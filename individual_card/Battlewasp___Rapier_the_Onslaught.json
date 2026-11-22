@@ -1,0 +1,29 @@
+{
+    "name": "Battlewasp - Rapier the Onslaught",
+    "filename": "Battlewasp___Rapier_the_Onslaught",
+    "card_text": "If you control no face-up monsters, or the only face-up monsters you control are Insect monsters: You can discard 1 other Insect monster; place 1 \"Battlewasp Wind\" from your Deck, face-up in your Spell & Trap Zone, then Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Insect monsters. You can banish this card from your GY; reduce the Level of 1 Insect monster you control by 1. You can only use each effect of \"Battlewasp - Rapier the Onslaught\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Nest",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 1900,
+    "defense": 0,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

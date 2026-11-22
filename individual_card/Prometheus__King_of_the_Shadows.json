@@ -1,0 +1,22 @@
+{
+    "name": "Prometheus, King of the Shadows",
+    "filename": "Prometheus__King_of_the_Shadows",
+    "card_text": "If this card is Normal Summoned: Banish 1 or more DARK monsters from your GY, and if you do, this card gains 400 ATK for each, until the end of this turn.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER",
+        "GOLD SERIES",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "DESTINY SOLDIERS",
+        "STRUCTURE DECK : LAIR OF DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

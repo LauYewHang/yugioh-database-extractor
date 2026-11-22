@@ -1,0 +1,24 @@
+{
+    "name": "Shinobaroness Peacock",
+    "filename": "Shinobaroness_Peacock",
+    "card_text": "You can Ritual Summon this card with \"Shinobird's Calling\". Must be Ritual Summoned, and cannot be Special Summoned by other ways. If this card is Ritual Summoned: You can shuffle up to 3 Spell/Trap Cards your opponent controls into the Deck, then you can Special Summon 1 Level 4 or lower Spirit monster from your Deck, ignoring its Summoning conditions. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand, and if you do, Special Summon 2 \"Shinobird Tokens\" (Winged Beast-Type/WIND/Level 4/ATK 1500/DEF 1500).",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Shinobaron Peacock",
+        "Shinobaron Shade Peacock",
+        "Shinobaroness Shade Peacock",
+        "Shinobird's Calling",
+        "Stars Align Above the Shrine"
+    ],
+    "attribute": "WIND",
+    "attack": 2500,
+    "defense": 3000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

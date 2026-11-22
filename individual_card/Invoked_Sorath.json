@@ -1,0 +1,42 @@
+{
+    "name": "Invoked Sorath",
+    "filename": "Invoked_Sorath",
+    "card_text": "1 \"Aleister\" monster + 1 FIRE or WIND monster\nDuring the Main Phase (Quick Effect): You can target 1 Level 6 or lower monster in either GY; Special Summon it to your field in Defense Position, but negate its effects. If this card is in your GY: You can Fusion Summon 1 \"Invoked\" Fusion Monster from your Extra Deck, by banishing this card from your GY and monsters from your field or GY as material. You can only use each effect of \"Invoked Sorath\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Aiwass, Divine Spirit of the Law",
+        "Aleister the Invoker",
+        "Aleister the Invoker of Madness",
+        "Aleister the Reminiscent",
+        "Crowley, the Gifted Magistus",
+        "Gamma Summon",
+        "Hyperinvoked Aeon",
+        "Invocation",
+        "Invocation - \"Grail\"",
+        "Invocation - \"Sword\"",
+        "Invoked Augoeides",
+        "Invoked Baybarron",
+        "Invoked Caliga",
+        "Invoked Cocytus",
+        "Invoked De Anima",
+        "Invoked Elysium",
+        "Invoked Magellanica",
+        "Invoked Magistus Omega",
+        "Invoked Mechaba",
+        "Invoked Oceanus",
+        "Invoked Purgatrio",
+        "Invoked Raidjin",
+        "Omega Summon",
+        "The Book of the Law"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 2600,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

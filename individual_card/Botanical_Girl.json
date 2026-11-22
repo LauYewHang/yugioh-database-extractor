@@ -1,0 +1,17 @@
+{
+    "name": "Botanical Girl",
+    "filename": "Botanical_Girl",
+    "card_text": "When this card is sent from the field to the Graveyard, you can add 1 Plant-Type monster with 1000 or less DEF from your Deck to your hand.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1300,
+    "defense": 1100,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

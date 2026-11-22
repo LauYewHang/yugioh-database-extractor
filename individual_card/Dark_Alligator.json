@@ -1,0 +1,17 @@
+{
+    "name": "Dark Alligator",
+    "filename": "Dark_Alligator",
+    "card_text": "You can Tribute Summon this card by Tributing 1 Reptile monster. When this card is Tribute Summoned: You can Special Summon \"Alligator Tokens\" (Reptile/DARK/Level 1/ATK 2000/DEF 0), up to the number of Reptile monsters Tributed for this card's Tribute Summon. If this Tribute Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 Reptile monster from your Deck to your hand, except \"Dark Alligator\".",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2300,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

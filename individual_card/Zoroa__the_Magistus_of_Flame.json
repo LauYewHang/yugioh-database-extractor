@@ -1,0 +1,41 @@
+{
+    "name": "Zoroa, the Magistus of Flame",
+    "filename": "Zoroa__the_Magistus_of_Flame",
+    "card_text": "You can target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster from your Extra Deck. If this card becomes equipped with a \"Magistus\" Monster Card: You can Special Summon 1 Level 4 Spellcaster monster from your hand or GY in Defense Position, except \"Zoroa, the Magistus of Flame\", but its effects are negated. You can only use each effect of \"Zoroa, the Magistus of Flame\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "OTS TOURNAMENT PACK 27",
+        "MAZE OF MUERTOS",
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

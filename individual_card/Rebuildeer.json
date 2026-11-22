@@ -1,0 +1,18 @@
+{
+    "name": "Rebuildeer",
+    "filename": "Rebuildeer",
+    "card_text": "When this card destroys an opponent's monster by battle: You can target 1 Cyberse monster with 1500 or less ATK in your GY; Special Summon it.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": 800,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

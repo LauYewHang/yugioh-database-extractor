@@ -1,0 +1,33 @@
+{
+    "name": "Danger! Thunderbird!",
+    "filename": "Danger__Thunderbird_",
+    "card_text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Thunderbird!\", Special Summon 1 \"Danger! Thunderbird!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 Set card your opponent controls; destroy it. You can only use this effect of \"Danger! Thunderbird!\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "STRUCTURE DECK: DARK WORLD",
+        "GHOSTS FROM THE PAST",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Danger! Chupacabra!",
+        "Danger! Disturbance! Disorder!",
+        "Danger! Excitement! Mystery!",
+        "Danger! Feets of Strength!",
+        "Danger! Nessie!",
+        "Danger! Ogopogo!",
+        "Danger! Response Team",
+        "Danger! Zone",
+        "Danger!? Jackalope?",
+        "Realm of Danger!",
+        "Second Expedition into Danger!",
+        "You're in Danger!"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2400,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

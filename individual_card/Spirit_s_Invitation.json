@@ -1,0 +1,15 @@
+{
+    "name": "Spirit's Invitation",
+    "filename": "Spirit_s_Invitation",
+    "card_text": "Each time your Spirit monster returns to your hand, select 1 monster on your opponent's side of the field and return it to its owner's hand. Pay 500 Life Points during each of your Standby Phases. If you do not, destroy this card.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Shinobaroness Shade Peacock"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

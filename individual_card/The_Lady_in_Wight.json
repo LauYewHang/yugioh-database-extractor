@@ -1,0 +1,32 @@
+{
+    "name": "The Lady in Wight",
+    "filename": "The_Lady_in_Wight",
+    "card_text": "Face-up Level 3 or lower Zombie monsters on the field, except \"The Lady in Wight\", cannot be destroyed by battle, also they are unaffected by Spell/Trap Cards and effects. This card's name becomes \"Skull Servant\" while in the GY.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS",
+        "GOLD SERIES HAUNTED MINE",
+        "OTS TOURNAMENT PACK 13",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Flame Ghost",
+        "King of the Skull Servants",
+        "Moissa Wight",
+        "Skull Servant",
+        "Wight Reanimator",
+        "Wightbaking",
+        "Wightlord",
+        "Wightmare",
+        "Wightprince",
+        "Wightprincess",
+        "Zombie Warrior"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 2200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

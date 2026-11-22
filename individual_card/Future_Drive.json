@@ -1,0 +1,18 @@
+{
+    "name": "Future Drive",
+    "filename": "Future_Drive",
+    "card_text": "Target 1 \"Utopic Future\" Xyz Monster you control; apply the following effect(s) to that monster you control for the rest of this turn.\n\u25cfIt can attack all monsters your opponent controls once each.\n\u25cfIf it battles an opponent's monster, that monster's effects are negated during the Damage Step only.\n\u25cfEach time it destroys an opponent's monster by battle, inflict damage to your opponent equal to the destroyed monster's original ATK.\nYou can only activate 1 \"Future Drive\" per turn.",
+    "release_date": "2020-01-17",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: MAGICAL HERO"
+    ],
+    "related_card": [
+        "Number F0: Utopic Draco Future",
+        "Number F0: Utopic Future",
+        "Number F0: Utopic Future Slash",
+        "Number F0: Utopic Future Zexal"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

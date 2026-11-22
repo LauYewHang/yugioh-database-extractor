@@ -1,0 +1,21 @@
+{
+    "name": "Flying \"C\"",
+    "filename": "Flying__C_",
+    "card_text": "When your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can Special Summon this card from your hand to the opponent's field in Defense Position. The controller of this card cannot Xyz Summon.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "MAZE OF MUERTOS",
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT",
+        "JUDGMENT OF THE LIGHT DELUXE EDITION",
+        "OTS TOURNAMENT PACK 1"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 700,
+    "defense": 700,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

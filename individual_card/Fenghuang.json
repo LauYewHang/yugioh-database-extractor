@@ -1,0 +1,17 @@
+{
+    "name": "Fenghuang",
+    "filename": "Fenghuang",
+    "card_text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Destroy all Set Spell/Trap Cards your opponent controls.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2100,
+    "defense": 1800,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

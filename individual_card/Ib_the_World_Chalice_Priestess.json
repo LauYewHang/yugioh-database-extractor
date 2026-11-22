@@ -1,0 +1,32 @@
+{
+    "name": "Ib the World Chalice Priestess",
+    "filename": "Ib_the_World_Chalice_Priestess",
+    "card_text": "2 monsters with different Types and Attributes\nThis linked card cannot be destroyed by battle or card effects. Your opponent cannot target this linked card with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "CODE OF THE DUELIST",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Auram the World Chalice Blademaster",
+        "Beckoned by the World Chalice",
+        "Chosen by the World Chalice",
+        "Crowned by the World Chalice",
+        "Ib the World Chalice Justiciar",
+        "Imduk the World Chalice Dragon",
+        "Lee the World Chalice Fairy",
+        "Ningirsu the World Chalice Warrior",
+        "World Chalice Guardragon",
+        "World Chalice Guardragon Almarduke",
+        "World Legacy - \"World Chalice\"",
+        "World Legacy Discovery",
+        "World Legacy's Heart"
+    ],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 80
+}

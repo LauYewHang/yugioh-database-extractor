@@ -1,0 +1,36 @@
+{
+    "name": "Duel Evolution - Assault Zone",
+    "filename": "Duel_Evolution___Assault_Zone",
+    "card_text": "When this card is activated: You can add 1 monster that mentions \"Assault Mode Activate\" from your Deck or GY to your hand. \"/Assault Mode\" monsters cannot be destroyed by battle or your opponent's card effects the turn they are Special Summoned. You can pay 2000 LP; once this turn, the Synchro Monster you would Tribute to activate \"Assault Mode Activate\" can be chosen from your Extra Deck instead (even if this card has left the field). You can only use this effect of \"Duel Evolution - Assault Zone\" once per turn. You can only activate 1 \"Duel Evolution - Assault Zone\" per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Arcane Apprentice",
+        "Arcanite Magician/Assault Mode",
+        "Assault Beast",
+        "Assault Lich",
+        "Assault Mercenary",
+        "Assault Mode Activate",
+        "Assault Mode Zero",
+        "Assault Reboot",
+        "Assault Revival",
+        "Assault Sentinel",
+        "Assault Sonic Warrior",
+        "Colossal Fighter/Assault Mode",
+        "Crimson Blader/Assault Mode",
+        "Doomkaiser Dragon/Assault Mode",
+        "Hyper Psychic Blaster/Assault Mode",
+        "Junk Warrior/Assault Mode",
+        "Night Wing Sorceress",
+        "Nightwinged Cleric",
+        "Psi-Reflector",
+        "Red Dragon Archfiend/Assault Mode",
+        "Red Nova Dragon/Assault Mode",
+        "Stardust Dragon/Assault Mode",
+        "T.G. Halberd Cannon/Assault Mode"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Watch Dog",
+    "filename": "Watch_Dog",
+    "card_text": "During your Main Phase 2, if this card was Normal Summoned this turn: You can send 1 Spell Card from your hand to the Graveyard; Set 1 Continuous Spell Card directly from your Deck. You can only use this effect of \"Watch Dog\" once per turn. You cannot Special Summon during the turn you activate this effect.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

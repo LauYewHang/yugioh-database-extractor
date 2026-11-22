@@ -1,0 +1,18 @@
+{
+    "name": "Seraphim Papillion",
+    "filename": "Seraphim_Papillion",
+    "card_text": "2+ monsters with different names\nGains 200 ATK for each counter on it. You can only use 1 of the following effects of \"Seraphim Papillion\" per turn, and only once that turn.\n\u25cfIf this card is Link Summoned: Place 1 counter on this card for each Insect monster used as its Link Material.\n\u25cf(Quick Effect): You can remove 1 counter from this card; Special Summon 1 Level 4 or lower Insect monster from your GY in Defense Position.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "MAGNIFICENT MONSTERS",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2100,
+    "defense": null,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 266
+}

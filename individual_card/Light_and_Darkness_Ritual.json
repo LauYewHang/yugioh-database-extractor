@@ -1,0 +1,25 @@
+{
+    "name": "Light and Darkness Ritual",
+    "filename": "Light_and_Darkness_Ritual",
+    "card_text": "This card can be used to Ritual Summon \"Magician of Dark Chaos - Black Chaos\" or \"Black Luster Soldier - Soldier of Light and Darkness\". You must also Tribute monsters from your hand or field, and/or banish monsters from your GY, whose total Levels equal or exceed its Level. If this card is in your GY: You can add this card and 1 card that mentions \"Light and Darkness Ritual\" from your GY to your hand. You can only use this effect of \"Light and Darkness Ritual\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS",
+        "ULTIMATE TOURNAMENT PACK 2"
+    ],
+    "related_card": [
+        "Black Chaos",
+        "Black Luster Soldier - Soldier of Light and Darkness",
+        "Black Skull Dragon, the Archfiend of Unity",
+        "Celtic Mystic",
+        "Chaos Magical Hats",
+        "Chaos Mystic Box",
+        "Griffoh",
+        "Magician of Dark Chaos - Black Chaos",
+        "Mind Shuffle",
+        "Skull Archfiend of Chaos",
+        "Spell Shattering Sword"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

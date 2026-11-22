@@ -1,0 +1,32 @@
+{
+    "name": "Icejade Acti",
+    "filename": "Icejade_Acti",
+    "card_text": "If this card is Normal or Special Summoned: You can send 1 WATER monster from your hand to the GY; draw 1 card. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 \"Icejade\" monster from your hand or GY, except \"Icejade Acti\". You can only use each effect of \"Icejade Acti\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Icejade Aegirine",
+        "Icejade Cenote Enion Cradle",
+        "Icejade Cradle",
+        "Icejade Creation Aegirocassis",
+        "Icejade Creation Kingfisher",
+        "Icejade Curse",
+        "Icejade Erosion",
+        "Icejade Gymir Aegirine",
+        "Icejade Kosmochlor",
+        "Icejade Manifestation",
+        "Icejade Ran Aegirine",
+        "Icejade Tinola",
+        "Icejade Tremora"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

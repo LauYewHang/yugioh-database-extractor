@@ -1,0 +1,19 @@
+{
+    "name": "Skreech",
+    "filename": "Skreech",
+    "card_text": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "GLADIATOR'S ASSAULT",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": 400,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

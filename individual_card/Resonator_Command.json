@@ -1,0 +1,39 @@
+{
+    "name": "Resonator Command",
+    "filename": "Resonator_Command",
+    "card_text": "Discard 1 \"Resonator\" monster; add 1 Level 4 or lower Fiend monster from your Deck to your hand. You can only activate 1 \"Resonator Command\" per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "ETERNITY CODE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Chain Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Blade Dragon",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Power Vice Dragon",
+        "Red Carpet",
+        "Red Resonator",
+        "Red Rising Dragon",
+        "Red Warg",
+        "Resonant Destruction",
+        "Resonator Call",
+        "Resonator Engine",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Time to Stand Up",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

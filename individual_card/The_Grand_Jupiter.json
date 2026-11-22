@@ -1,0 +1,18 @@
+{
+    "name": "The Grand Jupiter",
+    "filename": "The_Grand_Jupiter",
+    "card_text": "Once per turn: You can discard 2 cards, then target 1 face-up monster your opponent controls; equip that face-up monster to this card. This card gains ATK equal to the combined original ATK of the monsters equipped to it by this effect. Once per turn, during the End Phase: You can target 1 Monster Card equipped to this card by this card's effect; Special Summon it to your field.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

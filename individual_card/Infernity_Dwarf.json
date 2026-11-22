@@ -1,0 +1,42 @@
+{
+    "name": "Infernity Dwarf",
+    "filename": "Infernity_Dwarf",
+    "card_text": "While you have no cards in your hand, if a monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2009-05-19",
+    "available_set": [
+        "GOLD SERIES 3",
+        "Yu-Gi-Oh! 5D's STARDUST ACCELERATOR \uff0d WORLD CHAMPIONSHIP 2009 \uff0d Bundles",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [
+        "Contract with the Void",
+        "Infernity Archfiend",
+        "Infernity Barrier",
+        "Infernity Break",
+        "Infernity Force",
+        "Infernity General",
+        "Infernity Inferno",
+        "Infernity Launcher",
+        "Infernity Mirage",
+        "Infernity Necromancer",
+        "Infernity Paranoia",
+        "Infernity Patriarch",
+        "Infernity Pawn",
+        "Infernity Reflector",
+        "Infernity Sage",
+        "Infernity Suppression",
+        "Infernity Wildcat",
+        "Phantom Hand",
+        "This Creepy Little Punk",
+        "Void Cauldron",
+        "Wave-Motion Inferno",
+        "ZERO-MAX"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

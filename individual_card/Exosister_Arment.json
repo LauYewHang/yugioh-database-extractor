@@ -1,0 +1,30 @@
+{
+    "name": "Exosister Arment",
+    "filename": "Exosister_Arment",
+    "card_text": "Pay 800 LP, then target 1 \"Exosister\" monster you control; Special Summon 1 \"Exosister\" Xyz Monster from your Extra Deck with a different name than the cards you control, by using that target as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only activate 1 \"Exosister Arment\" per turn. You can only activate this card during your opponent's turn, unless your opponent controls a monster Special Summoned from the GY.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "THE GRAND CREATORS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Exosister Asophiel",
+        "Exosister Betrayal",
+        "Exosister Carpedivem",
+        "Exosister Elis",
+        "Exosister Gibrine",
+        "Exosister Irene",
+        "Exosister Karmael",
+        "Exosister Kaspitell",
+        "Exosister Martha",
+        "Exosister Mikailis",
+        "Exosister Pax",
+        "Exosister Returnia",
+        "Exosister Sophia",
+        "Exosister Stella",
+        "Exosister Vadis",
+        "Exosisters Magnifica"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

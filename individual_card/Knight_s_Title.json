@@ -1,0 +1,30 @@
+{
+    "name": "Knight's Title",
+    "filename": "Knight_s_Title",
+    "card_text": "Tribute 1 face-up \"Dark Magician\"; Special Summon 1 \"Dark Magician Knight\" from your hand, Deck or Graveyard.",
+    "release_date": "2004-06-29",
+    "available_set": [
+        "Yu-Gi-Oh! RESHEF OF DESTRUCTION Bundles",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician Knight",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

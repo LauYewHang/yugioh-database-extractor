@@ -1,0 +1,24 @@
+{
+    "name": "Clear Vicious Knight",
+    "filename": "Clear_Vicious_Knight",
+    "card_text": "You can Tribute Summon this card by Tributing 1 monster that mentions \"Clear World\". Gains ATK equal to the highest original ATK among monsters your opponent controls (your choice, if tied). You are unaffected by the effects of \"Clear World\". While this Tribute Summoned card is in the Monster Zone, your opponent cannot activate the effects of Special Summoned monsters on the field with less ATK than this card.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Clear Cube",
+        "Clear Phantom",
+        "Clear Rage Golem",
+        "Clear Vice Dragon",
+        "Clear Wall",
+        "Clear World"
+    ],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": 1100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

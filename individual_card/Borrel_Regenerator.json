@@ -1,0 +1,41 @@
+{
+    "name": "Borrel Regenerator",
+    "filename": "Borrel_Regenerator",
+    "card_text": "Activate this card by targeting 1 \"Rokket\" monster in your GY; Special Summon it and equip it with this card, but banish it when this card leaves the field. If this card is sent to the GY because the equipped monster is destroyed: You can draw 1 card. You can only use each effect of \"Borrel Regenerator\" once per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "STRUCTURE DECK: ROKKET REVOLT",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Anesthrokket Dragon",
+        "Autorokket Dragon",
+        "Bayonet Punisher",
+        "Borrel Cooling",
+        "Borrel Reboot",
+        "Borrel Supplier",
+        "Borreload eXcharge Dragon",
+        "Borreload Riot Dragon",
+        "Borrelshroud Dragon",
+        "Breachborrel Dragon",
+        "Execute Protocols",
+        "Exploderokket Dragon",
+        "Hollowrokket Dragon",
+        "Magnarokket Dragon",
+        "Metalrokket Dragon",
+        "Miniborrel Dragon",
+        "Rokket Barrage",
+        "Rokket Caliber",
+        "Rokket Coder",
+        "Rokket Detonator",
+        "Rokket Loader",
+        "Rokket Recharger",
+        "Rokket Synchron",
+        "Rokket Tracer",
+        "Shelrokket Dragon",
+        "Silverrokket Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

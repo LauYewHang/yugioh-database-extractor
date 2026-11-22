@@ -1,0 +1,35 @@
+{
+    "name": "Crimson Nova Trinity the Dark Cubic Lord",
+    "filename": "Crimson_Nova_Trinity_the_Dark_Cubic_Lord",
+    "card_text": "3 x \"Crimson Nova the Dark Cubic Lord\"\nMust be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. Cannot be targeted, or destroyed by, your opponent's card effects. When this card declares an attack: Halve your opponent's LP. When this card destroys a monster by battle: You can activate this effect; this card can make a second attack during this Battle Phase. If you take effect damage: Inflict damage to your opponent equal to the damage you took.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Blade Garoodia the Cubic Beast",
+        "Buster Gundil the Cubic Behemoth",
+        "Crimson Nova the Dark Cubic Lord",
+        "Cubic Causality",
+        "Cubic Dharma",
+        "Cubic Karma",
+        "Cubic Mandala",
+        "Cubic Rebirth",
+        "Cubic Wave",
+        "Dark Garnex the Cubic Beast",
+        "Duza the Meteor Cubic Vessel",
+        "Geira Guile the Cubic King",
+        "Indiora Doom Volt the Cubic Emperor",
+        "Unification of the Cubic Lords",
+        "Vulcan Dragni the Cubic King"
+    ],
+    "attribute": "DARK",
+    "attack": 4500,
+    "defense": 3000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

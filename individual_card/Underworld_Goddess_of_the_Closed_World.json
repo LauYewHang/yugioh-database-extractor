@@ -1,0 +1,20 @@
+{
+    "name": "Underworld Goddess of the Closed World",
+    "filename": "Underworld_Goddess_of_the_Closed_World",
+    "card_text": "4+ Effect Monsters\nYou can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that Special Summons a monster(s) from the GY (Quick Effect): You can negate the activation.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "BLAZING VORTEX",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 5,
+    "link_arrow": 844
+}

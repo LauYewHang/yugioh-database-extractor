@@ -1,0 +1,43 @@
+{
+    "name": "Battlin' Boxer Rib Gardna",
+    "filename": "Battlin__Boxer_Rib_Gardna",
+    "card_text": "During either player's turn: You can banish this card from your hand or Graveyard, then target 1 \"Battlin' Boxer\" monster you control; banish it until your next Standby Phase.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Battlin' Boxer Big Bandage",
+        "Battlin' Boxer Cheat Commissioner",
+        "Battlin' Boxer Chief Second",
+        "Battlin' Boxer Counterpunch",
+        "Battlin' Boxer Glassjaw",
+        "Battlin' Boxer Headgeared",
+        "Battlin' Boxer King Dempsey",
+        "Battlin' Boxer Lead Yoke",
+        "Battlin' Boxer Promoter",
+        "Battlin' Boxer Rabbit Puncher",
+        "Battlin' Boxer Shadow",
+        "Battlin' Boxer Sparrer",
+        "Battlin' Boxer Switchitter",
+        "Battlin' Boxer Uppercutter",
+        "Battlin' Boxer Veil",
+        "Battlin' Boxing Cross Counter",
+        "Battlin' Boxing Spirits",
+        "Jolt Counter",
+        "Last Counter",
+        "Number 105: Battlin' Boxer Star Cestus",
+        "Number 79: Battlin' Boxer Nova Kaiser",
+        "Number C105: Battlin' Boxer Comet Cestus",
+        "Number C79: Battlin' Boxer General Kaiser",
+        "Ring Announcer"
+    ],
+    "attribute": "FIRE",
+    "attack": 100,
+    "defense": 1400,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

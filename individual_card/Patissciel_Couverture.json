@@ -1,0 +1,22 @@
+{
+    "name": "Patissciel Couverture",
+    "filename": "Patissciel_Couverture",
+    "card_text": "2 Pendulum Monsters\nIf this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Concours de Cuisine (Culinary Confrontation)"
+    ],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 700,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "If you have no card in your other Pendulum Zone: You can place 1 face-up Pendulum Monster from your Extra Deck in your Pendulum Zone. You can only use this effect of \"Patissciel Couverture\" once per turn.",
+    "pendulum_scale": 1
+}

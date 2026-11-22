@@ -1,0 +1,33 @@
+{
+    "name": "Scareclaw Straddle",
+    "filename": "Scareclaw_Straddle",
+    "card_text": "You can activate 1 of the following effects.\n\u25cfTarget 1 \"Scareclaw\" monster or 1 \"Visas Starfrost\" in your Monster Zone, and 1 face-up monster your opponent controls; your monster gains ATK/DEF equal to your opponent's monster's ATK or DEF (whichever is higher).\n\u25cfWhen a card or effect is activated that targets a \"Scareclaw\" monster or \"Visas Starfrost\" you control: Negate that effect.\nYou can only activate 1 \"Scareclaw Straddle\" per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Primitive Planet Reichphobia",
+        "Scareclaw Acro",
+        "Scareclaw Alternative",
+        "Scareclaw Arrival",
+        "Scareclaw Astra",
+        "Scareclaw Belone",
+        "Scareclaw Decline",
+        "Scareclaw Defanging",
+        "Scareclaw Kashtira",
+        "Scareclaw Light-Heart",
+        "Scareclaw Reichheart",
+        "Scareclaw Sclash",
+        "Scareclaw Tri-Heart",
+        "Scareclaw Twinsaw",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

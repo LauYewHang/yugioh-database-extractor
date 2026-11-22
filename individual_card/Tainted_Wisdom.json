@@ -1,0 +1,21 @@
+{
+    "name": "Tainted Wisdom",
+    "filename": "Tainted_Wisdom",
+    "card_text": "If this Attack Position card is changed to face-up Defense Position: Shuffle your Deck.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Skull Knight"
+    ],
+    "attribute": "DARK",
+    "attack": 1250,
+    "defense": 800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

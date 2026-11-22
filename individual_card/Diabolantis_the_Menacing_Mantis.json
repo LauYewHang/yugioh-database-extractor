@@ -1,0 +1,18 @@
+{
+    "name": "Diabolantis the Menacing Mantis",
+    "filename": "Diabolantis_the_Menacing_Mantis",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can send Insect and/or Plant monsters from your Deck to the GY up to the number of non-Tuners used for its Synchro Summon. If you control this Synchro Summoned card: You can target 1 Insect or Plant monster you control; treat it as a Tuner until the end of this turn. You can only use each effect of \"Diabolantis the Menacing Mantis\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2200,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

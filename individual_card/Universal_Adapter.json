@@ -1,0 +1,14 @@
+{
+    "name": "Universal Adapter",
+    "filename": "Universal_Adapter",
+    "card_text": "Target 1 face-up monster your opponent controls; the ATK of all other monsters currently on the field become equal to that monster's current ATK, until the end of this turn.",
+    "release_date": "2018-06-08",
+    "available_set": [
+        "FLAMES OF DESTRUCTION SPECIAL EDITION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

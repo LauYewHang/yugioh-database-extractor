@@ -1,0 +1,19 @@
+{
+    "name": "Black Shadow Squall",
+    "filename": "Black_Shadow_Squall",
+    "card_text": "When a Spell/Trap Card is activated: Remove 1 Black Feather Counter from your field; negate the activation, and if you do, destroy that card. If you control \"Black-Winged Dragon\": You can Set this card from your GY, but banish it when it leaves the field. You can only use 1 \"Black Shadow Squall\" effect per turn, and only once that turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Black Feather Whirlwind",
+        "Black-Winged Assault Dragon",
+        "Black-Winged Dragon",
+        "Blackwing - Auster the South Wind",
+        "Blackwing - Sudri the Phantom Glimmer"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

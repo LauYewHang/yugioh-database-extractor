@@ -1,0 +1,21 @@
+{
+    "name": "Super Crashbug",
+    "filename": "Super_Crashbug",
+    "card_text": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) in face-up Defense Position, by banishing \"Crashbug X\", \"Crashbug Y\", and \"Crashbug Z\" from your Graveyard. Switch the ATK and DEF of all face-up Attack Position monsters on the field. There can only be 1 face-up \"Super Crashbug\" on the field.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [
+        "Crashbug X",
+        "Crashbug Y",
+        "Crashbug Z"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 3000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

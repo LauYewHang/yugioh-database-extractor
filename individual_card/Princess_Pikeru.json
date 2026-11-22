@@ -1,0 +1,20 @@
+{
+    "name": "Princess Pikeru",
+    "filename": "Princess_Pikeru",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Trial of the Princesses\". During your Standby Phase, gain 800 Life Points for each monster you control.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [
+        "Trial of the Princesses"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

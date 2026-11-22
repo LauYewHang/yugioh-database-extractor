@@ -1,0 +1,12 @@
+{
+    "name": "Dark Scheme",
+    "filename": "Dark_Scheme",
+    "card_text": "Your opponent can discard 1 card to negate this card's effect, otherwise both players discard 2 cards, then draw 2 cards.",
+    "release_date": "2011-10-18",
+    "available_set": [
+        "GATES OF THE UNDERWORLD STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

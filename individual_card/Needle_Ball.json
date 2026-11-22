@@ -1,0 +1,17 @@
+{
+    "name": "Needle Ball",
+    "filename": "Needle_Ball",
+    "card_text": "FLIP: You can pay 2000 Life Points to inflict 1000 damage to your opponent.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 750,
+    "defense": 700,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

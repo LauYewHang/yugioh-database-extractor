@@ -1,0 +1,19 @@
+{
+    "name": "Swift Birdman Joe",
+    "filename": "Swift_Birdman_Joe",
+    "card_text": "If you Tribute Summon this card by Tributing a WIND monster, return all Spell and Trap Cards on the field to the owners' hands.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2300,
+    "defense": 1400,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

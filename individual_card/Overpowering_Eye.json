@@ -1,0 +1,14 @@
+{
+    "name": "Overpowering Eye",
+    "filename": "Overpowering_Eye",
+    "card_text": "Target 1 Zombie monster you control with 2000 or less ATK; it can attack directly this turn.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

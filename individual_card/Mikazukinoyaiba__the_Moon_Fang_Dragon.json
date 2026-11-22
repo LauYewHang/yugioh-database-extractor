@@ -1,0 +1,18 @@
+{
+    "name": "Mikazukinoyaiba, the Moon Fang Dragon",
+    "filename": "Mikazukinoyaiba__the_Moon_Fang_Dragon",
+    "card_text": "During the End Phase, if this card is in your hand or GY: You can Special Summon it, but place it on the bottom of the Deck when it leaves the field. You can discard 1 card; add 1 Level 7 DARK Dragon monster from your Deck to your hand. You can only use each effect of \"Mikazukinoyaiba, the Moon Fang Dragon\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 2350,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

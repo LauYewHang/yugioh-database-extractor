@@ -1,0 +1,18 @@
+{
+    "name": "Mecha-Dog Marron",
+    "filename": "Mecha_Dog_Marron",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard, inflict 1000 damage to both players. When this card on the field is destroyed and sent to the Graveyard except by battle, inflict 1000 damage to your opponent.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

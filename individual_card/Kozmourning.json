@@ -1,0 +1,32 @@
+{
+    "name": "Kozmourning",
+    "filename": "Kozmourning",
+    "card_text": "Monsters destroyed by battle with \"Kozmo\" monsters you control are shuffled into the Deck instead of going to the Graveyard. You can banish this card from your Graveyard; the first time you would take battle damage from a battle involving a \"Kozmo\" monster you control this turn, gain that much LP, instead.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES"
+    ],
+    "related_card": [
+        "Kozmo Dark Destroyer",
+        "Kozmo Dark Eclipser",
+        "Kozmo Dark Planet",
+        "Kozmo Delta Shuttle",
+        "Kozmo DOG Fighter",
+        "Kozmo Farmgirl",
+        "Kozmo Forerunner",
+        "Kozmo Goodwitch",
+        "Kozmo Landwalker",
+        "Kozmo Lightsword",
+        "Kozmo Scaredy Lion",
+        "Kozmo Sliprider",
+        "Kozmo Soartroopers",
+        "Kozmo Strawman",
+        "Kozmo Tincan",
+        "Kozmojo",
+        "Kozmoll Dark Lady",
+        "Kozmoll Wickedwitch",
+        "Kozmotown"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

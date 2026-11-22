@@ -1,0 +1,17 @@
+{
+    "name": "Princess Dracaena, the Thirsting Tree",
+    "filename": "Princess_Dracaena__the_Thirsting_Tree",
+    "card_text": "You can send 1 Level 4 or lower Plant monster from your Deck to the GY, except \"Princess Dracaena, the Thirsting Tree\"; Special Summon this card from your hand, and if you do, it becomes that sent monster's Level. You can banish 1 Plant monster and this card from your GY; Special Summon 1 Dragon monster from your hand or GY. You can only use each effect of \"Princess Dracaena, the Thirsting Tree\" once per turn, also you cannot Special Summon the turn you activate either of this card's effects, except Dragon or Plant monsters.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

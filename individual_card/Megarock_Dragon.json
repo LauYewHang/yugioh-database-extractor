@@ -1,0 +1,20 @@
+{
+    "name": "Megarock Dragon",
+    "filename": "Megarock_Dragon",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing any number of Rock monster(s) from your GY. The original ATK/DEF of this card become the number of Rock monsters banished to Special Summon it x 700.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "THE LOST MILLENNIUM",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "DARK REVELATION Volume 3",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

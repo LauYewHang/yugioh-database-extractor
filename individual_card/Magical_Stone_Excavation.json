@@ -1,0 +1,20 @@
+{
+    "name": "Magical Stone Excavation",
+    "filename": "Magical_Stone_Excavation",
+    "card_text": "Discard 2 cards, then target 1 Spell in your GY; add it to your hand.",
+    "release_date": "2007-02-06",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LEGENDARY HERO DECKS",
+        "CHAMPION PACK GAME TWO",
+        "DUELIST PACK - BATTLE CITY -",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "STRUCTURE DECK - MARIK -",
+        "TURBO PACK BOOSTER TWO",
+        "DRAGONS COLLIDE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

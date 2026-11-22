@@ -1,0 +1,17 @@
+{
+    "name": "Glitch Clutch Nullgainer",
+    "filename": "Glitch_Clutch_Nullgainer",
+    "card_text": "1 Tuner + 1+ non-Tuners\nIf this card is Synchro Summoned: You can add 1 Level 8 or higher monster with 0 ATK from your Deck to your hand. You can target 1 monster with 0 ATK in your GY; Special Summon it, but negate its effects, also it cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use each effect of \"Glitch Clutch Nullgainer\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

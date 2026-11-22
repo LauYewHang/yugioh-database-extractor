@@ -1,0 +1,33 @@
+{
+    "name": "Heroic Challenger - Night Watchman",
+    "filename": "Heroic_Challenger___Night_Watchman",
+    "card_text": "If this card attacks a Defense Position monster your opponent controls, before damage calculation: You can destroy that monster.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "ABYSS RISING",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Ambush Soldier",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Clasp Sword",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Retribution Sword"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

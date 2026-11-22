@@ -1,0 +1,18 @@
+{
+    "name": "Defrag Dragon",
+    "filename": "Defrag_Dragon",
+    "card_text": "You can Special Summon this card (from your hand) by sending 1 other monster from your hand to the GY. You can only Special Summon \"Defrag Dragon\" once per turn this way. If this card is in the GY: You can banish 3 monsters from your GY with the same name, except \"Defrag Dragon\"; Special Summon this card. You can only use this effect of \"Defrag Dragon\" once per turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "STRUCTURE DECK: ROKKET REVOLT",
+        "FLAMES OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

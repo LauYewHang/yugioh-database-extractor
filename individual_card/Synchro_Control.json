@@ -1,0 +1,14 @@
+{
+    "name": "Synchro Control",
+    "filename": "Synchro_Control",
+    "card_text": "Activate only if you have no Synchro Monsters on your side of the field or in your Graveyard. Pay 1000 Life Points and select 1 face-up Synchro Monster your opponent controls. Take control of the selected monster until the End Phase of your turn.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "March of the Monarchs",
+    "filename": "March_of_the_Monarchs",
+    "card_text": "Tribute Summoned monsters you control cannot be destroyed by card effects, also neither player can target them with card effects. You cannot Special Summon monsters from the Extra Deck.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON"
+    ],
+    "related_card": [
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Frost Blast of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Tenacity of the Monarchs",
+        "Tessera the Primal Squire",
+        "The Monarchs Masterplan",
+        "The Prime Monarch"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

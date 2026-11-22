@@ -1,0 +1,28 @@
+{
+    "name": "Celtic Guardian",
+    "filename": "Celtic_Guardian",
+    "card_text": "An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK BEGINNING 1",
+        "STARTER DECK YUGI Evolution",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "ANNIVERSARY PACK",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "MILLENNIUM PACK",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [
+        "Celtic Guard of Noble Arms"
+    ],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

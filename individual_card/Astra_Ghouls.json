@@ -1,0 +1,18 @@
+{
+    "name": "Astra Ghouls",
+    "filename": "Astra_Ghouls",
+    "card_text": "When this card is Normal Summoned: You can target 1 Level 4 or lower monster in your GY; Special Summon it in Defense Position, but its effects are negated, also banish it during the End Phase. Once per turn: You can roll a six-sided die, and the face-up monsters you currently control become the Level equal to the result, until the end of this turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

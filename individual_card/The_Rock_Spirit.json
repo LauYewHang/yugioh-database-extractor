@@ -1,0 +1,20 @@
+{
+    "name": "The Rock Spirit",
+    "filename": "The_Rock_Spirit",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your GY. Gains 300 ATK during your opponent's Battle Phase only.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

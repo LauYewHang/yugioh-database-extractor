@@ -1,0 +1,22 @@
+{
+    "name": "Ceasefire",
+    "filename": "Ceasefire",
+    "card_text": "If a face-down Defense Position monster or an Effect Monster is on the field: Change all face-down Defense Position monsters on the field to face-up Defense Position (Flip monsters' effects are not activated at this time), also inflict 500 damage to your opponent for each Effect Monster on the field.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "QUARTER CENTURY BONANZA",
+        "CHAMPION PACK GAME TWO",
+        "ASTRAL PACK SIX",
+        "DARK BEGINNING 1",
+        "RETRO PACK 2",
+        "PHARAOH'S SERVANT",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "MACHINA MAYHEM STRUCTURE DECK",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "STARTER DECK YUYA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

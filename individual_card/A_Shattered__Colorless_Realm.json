@@ -1,0 +1,20 @@
+{
+    "name": "A Shattered, Colorless Realm",
+    "filename": "A_Shattered__Colorless_Realm",
+    "card_text": "If \"Vicious Astraloud\" is on the field: Target 1 card on the field; destroy it, then, if the destroyed card's original name was \"Vicious Astraloud\", you can Special Summon 1 of your banished \"Visas Starfrost\", or if it was not, you can make 1 \"Vicious Astraloud\" you control gain 1500 ATK.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Trivikarma",
+        "Vicious Astraloud",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

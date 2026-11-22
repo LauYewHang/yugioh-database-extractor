@@ -1,0 +1,28 @@
+{
+    "name": "Chiron the Mage",
+    "filename": "Chiron_the_Mage",
+    "card_text": "Once per turn: You can discard 1 Spell, then target 1 Spell/Trap your opponent controls; destroy that target.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "DARK REVELATION Volume 3",
+        "2-PLAYER STARTER SET",
+        "CHAMPION PACK GAME THREE",
+        "STARTER DECK SYRUS TRUESDALE",
+        "STARTER DECK XYZ SYMPHONY",
+        "DEMO DECK 2026",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STARTER DECK JADEN YUKI"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

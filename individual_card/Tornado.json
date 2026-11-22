@@ -1,0 +1,12 @@
+{
+    "name": "Tornado",
+    "filename": "Tornado",
+    "card_text": "Activate only when there are 3 or more cards in your opponent's Spell & Trap Card Zone. Destroy 1 card in your opponent's Spell & Trap Card Zone.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

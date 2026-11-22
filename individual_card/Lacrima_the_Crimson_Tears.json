@@ -1,0 +1,31 @@
+{
+    "name": "Lacrima the Crimson Tears",
+    "filename": "Lacrima_the_Crimson_Tears",
+    "card_text": "(This card is always treated as a \"Fiendsmith\" card.)\nIf this card is Normal or Special Summoned: You can send 1 \"Fiendsmith\" card from your Deck to the GY, except \"Lacrima the Crimson Tears\". During your opponent's turn, if this card is in your GY (Quick Effect): You can target 1 \"Fiendsmith\" Link Monster in your GY; shuffle this card into the Deck, and if you do, Special Summon that monster. You can only use each effect of \"Lacrima the Crimson Tears\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Fiendsmith Engraver",
+        "Fiendsmith in Paradise",
+        "Fiendsmith Kyrie",
+        "Fiendsmith's Agnumday",
+        "Fiendsmith's Desirae",
+        "Fiendsmith's Lacrima",
+        "Fiendsmith's Requiem",
+        "Fiendsmith's Rextremende",
+        "Fiendsmith's Sanct",
+        "Fiendsmith's Sequence",
+        "Fiendsmith's Tract"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

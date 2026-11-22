@@ -1,0 +1,21 @@
+{
+    "name": "Enchanting Mermaid",
+    "filename": "Enchanting_Mermaid",
+    "card_text": "A beautiful mermaid that lures voyagers to a watery grave.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "OTS TOURNAMENT PACK 3",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Rare Fish"
+    ],
+    "attribute": "WATER",
+    "attack": 1200,
+    "defense": 900,
+    "monster_type": "Fish",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

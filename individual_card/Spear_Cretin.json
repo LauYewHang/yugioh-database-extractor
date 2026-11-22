@@ -1,0 +1,20 @@
+{
+    "name": "Spear Cretin",
+    "filename": "Spear_Cretin",
+    "card_text": "FLIP: When this card is sent to the Graveyard after being flipped, each player selects 1 monster from their Graveyard, and Special Summons it in face-up Attack Position or face-down Defense Position.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
+        "DUEL TERMINAL 5A",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Royal Decree",
+    "filename": "Royal_Decree",
+    "card_text": "Negate all other Trap effects on the field.",
+    "release_date": "2003-10-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "TOURNAMENT PACK 6",
+        "RETRO PACK 2",
+        "HOBBY LEAGUE 3",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "MAZE OF MEMORIES",
+        "THE SECRET FORCES",
+        "DARK BEGINNING 2",
+        "Duel Devastator",
+        "QUARTER CENTURY STAMPEDE",
+        "TOURNAMENT PACK 4",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

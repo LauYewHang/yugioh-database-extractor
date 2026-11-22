@@ -1,0 +1,25 @@
+{
+    "name": "Battleguard Cadet",
+    "filename": "Battleguard_Cadet",
+    "card_text": "All \"Battleguard\" monsters you control gain 500 ATK. You can only use each of the following effects of \"Battleguard Cadet\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Feast of the Wild LV5\" from your Deck to your hand. You can Tribute this card; Special Summon 1 Level 8 Warrior monster from your hand.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Battleguard Echoes",
+        "Battleguard Howling",
+        "Battleguard King",
+        "Battleguard Rage",
+        "Feast of the Wild LV5",
+        "Lava Battleguard",
+        "Swamp Battleguard"
+    ],
+    "attribute": "EARTH",
+    "attack": 50,
+    "defense": 100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

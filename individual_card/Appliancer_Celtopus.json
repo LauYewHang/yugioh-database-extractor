@@ -1,0 +1,30 @@
+{
+    "name": "Appliancer Celtopus",
+    "filename": "Appliancer_Celtopus",
+    "card_text": "2 \"Appliancer\" monsters\nThis linked card cannot be targeted by your opponent's card effects, or their monsters' attacks. During damage calculation, if an \"Appliancer\" Link Monster you control co-linked to this card battles an opponent's monster: Your battling monster gains ATK equal to the number of monsters co-linked to this card x 1000, during that damage calculation only. Once per turn, if an \"Appliancer\" Link Monster(s) you control that is not co-linked to this card is destroyed by battle or card effect: You can draw 1 card.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Appliancer Breakerbuncle",
+        "Appliancer Conversion",
+        "Appliancer Copybokkle",
+        "Appliancer Dryer Drake",
+        "Appliancer Electrilyrical World",
+        "Appliancer Kappa Scale",
+        "Appliancer Laundry Dragon",
+        "Appliancer Propelion",
+        "Appliancer Reuse",
+        "Appliancer Socketroll",
+        "Appliancer Test",
+        "Appliancer Vacculephant"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 6
+}

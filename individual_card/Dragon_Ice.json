@@ -1,0 +1,19 @@
+{
+    "name": "Dragon Ice",
+    "filename": "Dragon_Ice",
+    "card_text": "When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand or Graveyard. There can only be 1 \"Dragon Ice\" on the field.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "GLADIATOR'S ASSAULT",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "ASTRAL PACK ONE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 2200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

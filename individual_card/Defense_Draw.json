@@ -1,0 +1,15 @@
+{
+    "name": "Defense Draw",
+    "filename": "Defense_Draw",
+    "card_text": "During your opponent's turn, at damage calculation: Make the battle damage you take from this battle 0, and if you do, draw 1 card.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "DEMO DECK 2016 (UK)",
+        "DUELIST PACK - YUSEI -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

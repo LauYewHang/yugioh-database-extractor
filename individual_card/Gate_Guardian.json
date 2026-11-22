@@ -1,0 +1,35 @@
+{
+    "name": "Gate Guardian",
+    "filename": "Gate_Guardian",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "DARK LEGENDS",
+        "METAL RAIDERS",
+        "RETRO PACK",
+        "MAZE OF MEMORIES",
+        "SPEED DUEL GX: MIDTERM PARADOX"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Dark Element",
+        "Dark Guardian",
+        "Double Attack! Wind and Thunder!!",
+        "Gate Guardian of Thunder and Wind",
+        "Gate Guardians Combined",
+        "Kazejin",
+        "Principug",
+        "Riryoku Guardian",
+        "Sanga of the Thunder",
+        "Suijin"
+    ],
+    "attribute": "DARK",
+    "attack": 3750,
+    "defense": 3400,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

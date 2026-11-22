@@ -1,0 +1,43 @@
+{
+    "name": "Jurrac Guaiba",
+    "filename": "Jurrac_Guaiba",
+    "card_text": "If this card destroys an opponent's monster by battle: You can Special Summon 1 \"Jurrac\" monster with 1700 or less ATK from your Deck, but it cannot declare an attack this turn.",
+    "release_date": "2010-09-25",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "HIDDEN ARSENAL 3",
+        "DUEL TERMINAL 3",
+        "BATTLE PACK TOURNAMENT"
+    ],
+    "related_card": [
+        "Jurrac Aeolo",
+        "Jurrac Astero",
+        "Jurrac Brachis",
+        "Jurrac Dino",
+        "Jurrac Gallim",
+        "Jurrac Giganoto",
+        "Jurrac Herra",
+        "Jurrac Iguanon",
+        "Jurrac Impact",
+        "Jurrac Megalo",
+        "Jurrac Meteor",
+        "Jurrac Monoloph",
+        "Jurrac Protops",
+        "Jurrac Ptera",
+        "Jurrac Spinos",
+        "Jurrac Stauriko",
+        "Jurrac Stego",
+        "Jurrac Titano",
+        "Jurrac Tyrannus",
+        "Jurrac Velo",
+        "Jurrac Velphito",
+        "Jurrac Volcano"
+    ],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 400,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

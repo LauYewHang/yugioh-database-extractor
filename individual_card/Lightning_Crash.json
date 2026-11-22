@@ -1,0 +1,12 @@
+{
+    "name": "Lightning Crash",
+    "filename": "Lightning_Crash",
+    "card_text": "Add 1 Thunder monster from your Deck to your hand, but you cannot Normal Summon/Set monsters with that name until the end of the next turn after this card resolves. You can only activate 1 \"Lightning Crash\" per turn.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

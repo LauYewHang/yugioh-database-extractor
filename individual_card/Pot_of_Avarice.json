@@ -1,0 +1,27 @@
+{
+    "name": "Pot of Avarice",
+    "filename": "Pot_of_Avarice",
+    "card_text": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "ASTRAL PACK TWO",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4",
+        "STRUCTURE DECK MACHINE RE-VOLT",
+        "CHAMPION PACK GAME ONE",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "DEMO DECK 2026",
+        "RARITY COLLECTION 5",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

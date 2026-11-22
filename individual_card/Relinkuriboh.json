@@ -1,0 +1,25 @@
+{
+    "name": "Relinkuriboh",
+    "filename": "Relinkuriboh",
+    "card_text": "If this card is Tributed: Draw 1 card. If your monster would be destroyed by battle, you can banish this card from your GY instead.",
+    "release_date": "2016-04-20",
+    "available_set": [
+        "ADVENT CALENDAR 2019",
+        "INVASION: VENGEANCE SPECIAL EDITION",
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "SHONEN JUMP membership Promotional Card - April 2016 -"
+    ],
+    "related_card": [
+        "Generation Next",
+        "Kuribee",
+        "Kuribohrn",
+        "Skilled Brown Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

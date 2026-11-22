@@ -1,0 +1,20 @@
+{
+    "name": "Sand Moth",
+    "filename": "Sand_Moth",
+    "card_text": "If this face-down Defense Position card is destroyed and sent to the GY: Special Summon it and switch its original ATK/DEF.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "DARK REVELATION Volume 4",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 2000,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

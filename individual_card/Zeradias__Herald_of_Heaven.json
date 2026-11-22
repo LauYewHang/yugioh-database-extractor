@@ -1,0 +1,28 @@
+{
+    "name": "Zeradias, Herald of Heaven",
+    "filename": "Zeradias__Herald_of_Heaven",
+    "card_text": "You can discard this card to the GY; add 1 \"The Sanctuary in the Sky\" from your Deck to your hand. If \"The Sanctuary in the Sky\" is not on the field, destroy this card.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 7"
+    ],
+    "related_card": [
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "The Chorus in the Sky",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

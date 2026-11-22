@@ -1,0 +1,27 @@
+{
+    "name": "Phantom Skyblaster",
+    "filename": "Phantom_Skyblaster",
+    "card_text": "When this card is Normal or Flip Summoned: You can Special Summon any number of \"Skyblaster Tokens\" (Fiend/DARK/Level 4/ATK 500/DEF 500), up to the number of monsters you control. Once per turn, during your Standby Phase: You can inflict 300 damage to your opponent for each \"Skyblaster\" monster you control. \"Skyblaster\" monsters you control cannot declare an attack during the turn you activate this effect.",
+    "release_date": "2008-01-26",
+    "available_set": [
+        "DUEL TERMINAL 6B",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "STRUCTURE DECK: SACRED BEASTS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "OTS TOURNAMENT PACK 6",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "DUELIST PACK - JESSE ANDERSON -"
+    ],
+    "related_card": [
+        "Castel, the Skyblaster Musketeer",
+        "Clavkiys, the Magikey Skyblaster",
+        "Vallon, the Super Psy Skyblaster"
+    ],
+    "attribute": "DARK",
+    "attack": 1100,
+    "defense": 800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

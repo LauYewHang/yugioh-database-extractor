@@ -1,0 +1,28 @@
+{
+    "name": "Libromancer Intervention",
+    "filename": "Libromancer_Intervention",
+    "card_text": "When your opponent activates a card or effect: Target 1 \"Libromancer\" Ritual Monster you control; return it to the hand, and if you do, negate that activated effect, then you can Special Summon 1 \"Libromancer\" monster from your hand or GY. You can only activate 1 \"Libromancer Intervention\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Libromancer Agent",
+        "Libromancer Bonded",
+        "Libromancer Displaced",
+        "Libromancer Doombroker",
+        "Libromancer Fire",
+        "Libromancer Fireburst",
+        "Libromancer Firestarter",
+        "Libromancer First Appearance",
+        "Libromancer Geek Boy",
+        "Libromancer Magigirl",
+        "Libromancer Mystigirl",
+        "Libromancer Origin Story",
+        "Libromancer Prevented",
+        "Libromancer Realized"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

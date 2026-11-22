@@ -1,0 +1,20 @@
+{
+    "name": "Protective Soul Ailin",
+    "filename": "Protective_Soul_Ailin",
+    "card_text": "Once per turn, you can equip this card to an \"Indomitable Fighter Lei Lei\" you control, OR unequip it to Special Summon this card in face-up Attack Position. When equipped to a monster by this card's effect, you can change that monster's battle position once per turn. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Indomitable Fighter Lei Lei"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

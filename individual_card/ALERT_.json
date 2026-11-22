@@ -1,0 +1,30 @@
+{
+    "name": "ALERT!",
+    "filename": "ALERT_",
+    "card_text": "(This card is always treated as a \"Rescue-ACE\" card.)\nAdd 1 \"Rescue-ACE\" monster from your GY to your hand, or if you control \"Rescue-ACE Hydrant\", you can add 1 \"Rescue-ACE\" monster from your Deck to your hand instead. You can only activate 1 \"ALERT!\" per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "MAZE OF MILLENNIA",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "CONTAIN!",
+        "EMERGENCY!",
+        "EXTINGUISH!",
+        "REINFORCE!",
+        "RESCUE!",
+        "Rescue-ACE Air Lifter",
+        "Rescue-ACE Arbitrator",
+        "Rescue-ACE Fire Attacker",
+        "Rescue-ACE Fire Engine",
+        "Rescue-ACE HQ",
+        "Rescue-ACE Hydrant",
+        "Rescue-ACE Impulse",
+        "Rescue-ACE Monitor",
+        "Rescue-ACE Preventer",
+        "Rescue-ACE Quick Attacker",
+        "Rescue-ACE Turbulence"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

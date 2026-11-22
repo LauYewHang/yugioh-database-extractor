@@ -1,0 +1,12 @@
+{
+    "name": "Defenders Intersect",
+    "filename": "Defenders_Intersect",
+    "card_text": "Activate only during the Battle Phase. Defense Position monsters your opponent controls are changed to face-up Attack Position, and their effects are negated.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

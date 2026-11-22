@@ -1,0 +1,32 @@
+{
+    "name": "Dracotail Lukias",
+    "filename": "Dracotail_Lukias",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Dracotail\" monster from your Deck to your hand, except \"Dracotail Lukias\". If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Lukias\" once per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Dracotail Arthalion",
+        "Dracotail Faimena",
+        "Dracotail Flame",
+        "Dracotail Gulamel",
+        "Dracotail Horn",
+        "Dracotail Mululu",
+        "Dracotail Pan",
+        "Dracotail Phryxul",
+        "Dracotail Shaulas",
+        "Dracotail Sting",
+        "Dracotail Urgula",
+        "Ketu Dracotail",
+        "Rahu Dracotail"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 700,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

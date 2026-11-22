@@ -1,0 +1,39 @@
+{
+    "name": "Sylvan Lotuswain",
+    "filename": "Sylvan_Lotuswain",
+    "card_text": "Once per turn: You can excavate a number of cards from the top of your Deck, equal to the number of cards your opponent controls, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target up to 5 \"Sylvan\" cards in your Graveyard, except \"Sylvan Lotuswain\"; place them on the bottom of your Deck in any order.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Alsei, the Sylvan High Protector",
+        "Mount Sylvania",
+        "Orea, the Sylvan High Arbiter",
+        "Sylvan Bladefender",
+        "Sylvan Blessing",
+        "Sylvan Charity",
+        "Sylvan Cherubsprout",
+        "Sylvan Dancepione",
+        "Sylvan Flowerknight",
+        "Sylvan Guardioak",
+        "Sylvan Hermitree",
+        "Sylvan Komushroomo",
+        "Sylvan Marshalleaf",
+        "Sylvan Mikorange",
+        "Sylvan Peaskeeper",
+        "Sylvan Princessprite",
+        "Sylvan Princessprout",
+        "Sylvan Sagequoia",
+        "Sylvan Snapdrassinagon",
+        "Sylvan Waterslide"
+    ],
+    "attribute": "WATER",
+    "attack": 2300,
+    "defense": 1100,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

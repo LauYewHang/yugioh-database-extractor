@@ -1,0 +1,12 @@
+{
+    "name": "Matching Outfits",
+    "filename": "Matching_Outfits",
+    "card_text": "Both players reveal the top card of their Deck, and if they are the same type of card (Monster, Spell, or Trap), both players add them to their hands. Otherwise, banish them.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

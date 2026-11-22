@@ -1,0 +1,18 @@
+{
+    "name": "Larvas",
+    "filename": "Larvas",
+    "card_text": "A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Double Exposure",
+    "filename": "Double_Exposure",
+    "card_text": "You can target 2 Level 6 or lower monsters with the same name on the field; their Levels are doubled. At the start of the Battle Phase: You can target 1 \"Cipher\" monster you control; choose 1 other face-up monster on the field, and its name becomes that \"Cipher\" monster's, until the End Phase. You can only use each effect of \"Double Exposure\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Cipher Biplane",
+        "Cipher Bit",
+        "Cipher Etranger",
+        "Cipher Interference",
+        "Cipher Mirror Knight",
+        "Cipher Soldier (Updated from: Kinetic Soldier)",
+        "Cipher Spectrum",
+        "Cipher Twin Raptor",
+        "Cipher Wing",
+        "Double Cipher",
+        "Galaxy-Eyes Cipher Blade Dragon",
+        "Galaxy-Eyes Cipher Dragon",
+        "Galaxy-Eyes Cipher X Dragon",
+        "Neo Galaxy-Eyes Cipher Dragon",
+        "Rank-Up-Magic Cipher Ascension",
+        "Storm Cipher"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

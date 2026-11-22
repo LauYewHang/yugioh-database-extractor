@@ -1,0 +1,30 @@
+{
+    "name": "Hyperinvoked Aeon",
+    "filename": "Hyperinvoked_Aeon",
+    "card_text": "2+ Fusion Monsters with different Attributes\nIf this card is Fusion Summoned: You can banish cards from the field and/or GYs, up to the number of monsters used as material, then if you used 3 or more materials, you can look at your opponent's Extra Deck and banish up to 3 cards from it. (Quick Effect): You can declare 1 Attribute; all other monsters on the field become that Attribute until the end of this turn. You can only use 1 \"Hyperinvoked Aeon\" effect per turn, and only once that turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "WINNER'S PACK 2026-2027",
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Aiwass, Divine Spirit of the Law",
+        "Aleister the Reminiscent",
+        "Crowley, the Gifted Magistus",
+        "Gamma Summon",
+        "Invocation",
+        "Invocation - \"Grail\"",
+        "Invocation - \"Sword\"",
+        "Invoked Elysium",
+        "Invoked Sorath",
+        "Omega Summon",
+        "The Book of the Law"
+    ],
+    "attribute": "DARK",
+    "attack": 3800,
+    "defense": 3200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

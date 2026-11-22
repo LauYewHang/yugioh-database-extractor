@@ -1,0 +1,28 @@
+{
+    "name": "Zaralaam the Dark Palace",
+    "filename": "Zaralaam_the_Dark_Palace",
+    "card_text": "While you control a monster equipped with \"Dunnell, the Noble Arms of Light\", your opponent cannot activate cards or effects during the Battle Phase. Once per turn, when your \"Adventurer Token\" destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that destroyed monster's original ATK. Once per turn, during your Main Phase, if the previous effect was activated this turn: You can add 1 Field Spell that mentions \"Adventurer Token\" from your Deck or GY to your hand, except \"Zaralaam the Dark Palace\".",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "THE GRAND CREATORS"
+    ],
+    "related_card": [
+        "Breath of Resurrection",
+        "Celestial Apparatus Tesea",
+        "Curse of Aramatir",
+        "Dracoback, the Rideable Dragon",
+        "Dunnell, the Noble Arms of Light",
+        "Fateful Adventure",
+        "Forest of Lost Flowers",
+        "Illegal Knight",
+        "Magicore Warrior of the Relics",
+        "Rite of Aramesir",
+        "Starlit Papillon",
+        "Thunder Discharge",
+        "Wandering Gryphon Rider",
+        "Water Enchantress of the Temple"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

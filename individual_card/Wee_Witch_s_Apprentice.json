@@ -1,0 +1,18 @@
+{
+    "name": "Wee Witch's Apprentice",
+    "filename": "Wee_Witch_s_Apprentice",
+    "card_text": "2 DARK monsters\nAll DARK monsters on the field gain 500 ATK/DEF, also all LIGHT monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 DARK monster in your GY; add it to your hand. You can only use this effect of \"Wee Witch's Apprentice\" once per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

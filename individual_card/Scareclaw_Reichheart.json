@@ -1,0 +1,33 @@
+{
+    "name": "Scareclaw Reichheart",
+    "filename": "Scareclaw_Reichheart",
+    "card_text": "You can Special Summon this card (from your hand) to your Main Monster Zone, adjacent to a \"Scareclaw\" monster you control or in its column. You can only Special Summon \"Scareclaw Reichheart\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Scareclaw\" Spell/Trap from your Deck to your hand, then, if 3 or more Defense Position monsters are on the field, you can draw 1 card. You can only use this effect of \"Scareclaw Reichheart\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Primitive Planet Reichphobia",
+        "Scareclaw Acro",
+        "Scareclaw Alternative",
+        "Scareclaw Arrival",
+        "Scareclaw Astra",
+        "Scareclaw Belone",
+        "Scareclaw Decline",
+        "Scareclaw Defanging",
+        "Scareclaw Kashtira",
+        "Scareclaw Light-Heart",
+        "Scareclaw Sclash",
+        "Scareclaw Straddle",
+        "Scareclaw Tri-Heart",
+        "Scareclaw Twinsaw"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

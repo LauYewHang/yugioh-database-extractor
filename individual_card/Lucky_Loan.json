@@ -1,0 +1,19 @@
+{
+    "name": "Lucky Loan",
+    "filename": "Lucky_Loan",
+    "card_text": "Target 1 \"Fortune Fairy\" monster you control; Special Summon 1 Spellcaster monster from your hand or Deck, whose original Level is 1 lower than that monster's, also during your next turn after this card resolves, you cannot Normal or Special Summon monsters, except Spellcaster monsters. You can only activate 1 \"Lucky Loan\" per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Fortune Fairy Ann",
+        "Fortune Fairy Chee",
+        "Fortune Fairy En",
+        "Fortune Fairy Hikari",
+        "Fortune Fairy Hu",
+        "Fortune Fairy Swee"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

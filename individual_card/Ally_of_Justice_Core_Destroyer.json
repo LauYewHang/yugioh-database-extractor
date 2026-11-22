@@ -1,0 +1,23 @@
+{
+    "name": "Ally of Justice Core Destroyer",
+    "filename": "Ally_of_Justice_Core_Destroyer",
+    "card_text": "At the start of the Damage Step, if this card battles a LIGHT monster: Destroy that monster.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS",
+        "SPEED DUEL: SCARS OF BATTLE",
+        "SPEED DUEL TOURNAMENT PACK 02"
+    ],
+    "related_card": [
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unlimiter",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Dogmatikalamity",
+    "filename": "Dogmatikalamity",
+    "card_text": "This card can be used to Ritual Summon any \"Dogmatika\" Ritual Monster. You must also Tribute monsters from your hand or field, whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon, or send 1 monster from your Extra Deck to the GY, whose Level equals the Level of the Ritual Monster you Ritual Summon. For the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck. You can only activate 1 \"Dogmatikalamity\" per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "Alba System Dogmatikalamity",
+        "Branded in Central Dogmatika",
+        "Dogmatika Adin, the Enlightened",
+        "Dogmatika Alba Zoa",
+        "Dogmatika Ashiyan",
+        "Dogmatika Ecclesia, the Virtuous",
+        "Dogmatika Encounter",
+        "Dogmatika Fleurdelis, the Knighted",
+        "Dogmatika Fleurdelis, the Thunderbolt",
+        "Dogmatika Genesis",
+        "Dogmatika Lawbringer",
+        "Dogmatika Maximus",
+        "Dogmatika Nation",
+        "Dogmatika Nexus",
+        "Dogmatika Punishment",
+        "Dogmatika Theo, the Iron Punch",
+        "Dogmatikacism",
+        "Dogmatikamacabre",
+        "Dogmatikamatrix",
+        "Dogmatikaturgy",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Nadir Servant",
+        "Quadogmatika Beast",
+        "The Dragon that Devours the Dogma",
+        "The Fallen & The Virtuous",
+        "Titaniklad the Ash Dragon",
+        "White Knight of Dogmatika",
+        "White Relic of Dogmatika"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

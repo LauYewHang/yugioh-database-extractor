@@ -1,0 +1,21 @@
+{
+    "name": "Burnout",
+    "filename": "Burnout",
+    "card_text": "Banish 1 face-up \"Chemicritter\" monster you control; Special Summon 2 \"Chemicritter\" monsters from your Deck, with different names from each other. When your opponent declares a direct attack, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 of your banished Gemini monsters; Special Summon it, and if you do, it becomes an Effect Monster and gains its effects. You can only activate 1 \"Burnout\" per turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Chemicritter Carbo Crab",
+        "Chemicritter Hydron Hawk",
+        "Chemicritter Oxy Ox",
+        "Dimer Synthesis",
+        "Geminize Lord Golknight",
+        "Poly-Chemicritter Dioxogre",
+        "Poly-Chemicritter Hydragon",
+        "Vola-Chemicritter Methydraco"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

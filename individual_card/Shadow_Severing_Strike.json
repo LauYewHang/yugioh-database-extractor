@@ -1,0 +1,12 @@
+{
+    "name": "Shadow Severing Strike",
+    "filename": "Shadow_Severing_Strike",
+    "card_text": "If a card(s) is banished from the hand and/or field to activate a monster effect (except during the Damage Step): You can apply 1 of the following effects based on 1 of the card types banished.\n\u25cfMonster: Negate the effects of 1 face-up Spell/Trap on the field until the end of this turn.\n\u25cfSpell: Draw 2 cards.\n\u25cfTrap: Banish 1 monster on the field.\nIf this card is banished to activate a monster effect: You can add 1 of your other banished cards to your hand. You can only use each effect of \"Shadow Severing Strike\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

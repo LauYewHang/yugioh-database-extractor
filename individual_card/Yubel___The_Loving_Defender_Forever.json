@@ -1,0 +1,29 @@
+{
+    "name": "Yubel - The Loving Defender Forever",
+    "filename": "Yubel___The_Loving_Defender_Forever",
+    "card_text": "1 \"Yubel\" monster + 1+ Effect Monsters on the field\nIf this card is Fusion Summoned: You can inflict 500 damage to your opponent for each material used. You can only use this effect of \"Yubel - The Loving Defender Forever\" once per turn. Cannot be destroyed by battle or card effects, also you take no battle damage from battles involving this card. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, and if you do, banish that monster.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Eternal Favorite",
+        "Geistgrinder Golem",
+        "Mature Chronicle",
+        "Nightmare Pain",
+        "Phantom of Yubel",
+        "Samsara D Lotus",
+        "Spirit of Yubel",
+        "Yubel",
+        "Yubel - Terror Incarnate",
+        "Yubel - The Ultimate Nightmare"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

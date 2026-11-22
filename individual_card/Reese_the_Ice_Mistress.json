@@ -1,0 +1,19 @@
+{
+    "name": "Reese the Ice Mistress",
+    "filename": "Reese_the_Ice_Mistress",
+    "card_text": "This card cannot be destroyed by battle with a Level 4 or higher monster.",
+    "release_date": "2010-01-29",
+    "available_set": [
+        "GOLD SERIES 3",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "DUEL TERMINAL 1"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

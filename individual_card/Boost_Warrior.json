@@ -1,0 +1,18 @@
+{
+    "name": "Boost Warrior",
+    "filename": "Boost_Warrior",
+    "card_text": "If you control a Tuner, you can Special Summon this card (from your hand) in Defense Position. All Warrior monsters you control gain 300 ATK.",
+    "release_date": "2011-01-25",
+    "available_set": [
+        "DUELIST PACK - YUSEI 3 -",
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

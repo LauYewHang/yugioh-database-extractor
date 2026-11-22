@@ -1,0 +1,30 @@
+{
+    "name": "Sinful Spoils Subdual",
+    "filename": "Sinful_Spoils_Subdual",
+    "card_text": "Take 1 Level 5 or higher Illusion monster from your Deck and either add it to your hand or Special Summon it, but if you Special Summon it with this effect, you cannot activate its effects during the Main Phase this turn. You can banish this card from your GY, then target 1 face-down card you control; return it to the hand, then you can Set 1 Spell/Trap from your hand. You can only use 1 \"Sinful Spoils Subdual\" effect per turn, and only once that turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Azamina Debtors",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Diabellze the Original Sinkeeper",
+        "Diabellze the White Witch",
+        "Elzette, Azamina of the White Forest",
+        "Queen Azamina",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils Struggle",
+        "The Hallowed Azamina",
+        "WANTED: Seeker of Sinful Spoils"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

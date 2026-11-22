@@ -1,0 +1,29 @@
+{
+    "name": "Mannadium Riumheart",
+    "filename": "Mannadium_Riumheart",
+    "card_text": "During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 \"Mannadium\" monster you control or 1 monster you control with 1500 ATK/2100 DEF; destroy it, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Mannadium\" card from your Deck to your hand, except \"Mannadium Riumheart\". You can only use each effect of \"Mannadium Riumheart\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Mannadium Abscission",
+        "Mannadium Breakheart",
+        "Mannadium Fearless",
+        "Mannadium Imaginings",
+        "Mannadium Meek",
+        "Mannadium Prime-Heart",
+        "Mannadium Reframing",
+        "Mannadium Torrid",
+        "Mannadium Trisukta",
+        "Peaceful Planet Calarium"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

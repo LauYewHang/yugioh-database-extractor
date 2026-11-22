@@ -1,0 +1,16 @@
+{
+    "name": "Cybernetic Zone",
+    "filename": "Cybernetic_Zone",
+    "card_text": "Select 1 face-up Machine-Type Fusion Monster you control and remove it from play until the End Phase of this turn. When that monster is returned to the field, double its ATK. During your next Standby Phase, destroy it.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [
+        "Cyber Dragon Core",
+        "Cyberdark Wurm",
+        "Cybernetic Overflow"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

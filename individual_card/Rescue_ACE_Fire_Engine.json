@@ -1,0 +1,35 @@
+{
+    "name": "Rescue-ACE Fire Engine",
+    "filename": "Rescue_ACE_Fire_Engine",
+    "card_text": "If a \"Rescue-ACE\" monster(s) is Normal or Special Summoned to your field, except \"Rescue-ACE Fire Engine\" (except during the Damage Step): You can Special Summon this card from your hand. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can Special Summon 1 Level 4 or lower \"Rescue-ACE\" monster from your hand, Deck, or GY. You can only use each effect of \"Rescue-ACE Fire Engine\" once per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "ALERT!",
+        "CONTAIN!",
+        "EMERGENCY!",
+        "EXTINGUISH!",
+        "REINFORCE!",
+        "RESCUE!",
+        "Rescue-ACE Air Lifter",
+        "Rescue-ACE Arbitrator",
+        "Rescue-ACE Fire Attacker",
+        "Rescue-ACE HQ",
+        "Rescue-ACE Hydrant",
+        "Rescue-ACE Impulse",
+        "Rescue-ACE Monitor",
+        "Rescue-ACE Preventer",
+        "Rescue-ACE Quick Attacker",
+        "Rescue-ACE Turbulence"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dogurad, the Stonetrooper",
+    "filename": "Dogurad__the_Stonetrooper",
+    "card_text": "2+ monsters, including a Rock monster\nIf this card is Special Summoned: You can target 1 Rock monster in your GY; this card gains ATK equal to that monster's ATK. During your opponent's Main Phase (Quick Effect): You can target 1 other monster on the field with ATK less than or equal to this card; this card loses ATK exactly equal to that monster's ATK, and if it does, destroy that monster. You can only use each effect of \"Dogurad, the Stonetrooper\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 266
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Ancient Warriors Saga - Borrowing of Arrows",
+    "filename": "Ancient_Warriors_Saga___Borrowing_of_Arrows",
+    "card_text": "You can target 1 face-up monster your opponent controls and 1 \"Ancient Warriors\" monster you control; until the end of this turn, halve that opponent's monster's ATK, and if you do, add that lost ATK to your monster (even if this card leaves the field). If this card is sent to the GY while you control \"Ancient Warriors\" monsters with 2 or more different Attributes: You can place 1 \"Ancient Warriors\" Continuous Spell/Trap from your hand or Deck face-up on your field, except \"Ancient Warriors Saga - Borrowing of Arrows\". You can only use each effect of \"Ancient Warriors Saga - Borrowing of Arrows\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Ancient Warriors - Ambitious Cao De",
+        "Ancient Warriors - Deceptive Jia Wen",
+        "Ancient Warriors - Eccentric Lu Jing",
+        "Ancient Warriors - Fearsome Zhang Yuan",
+        "Ancient Warriors - Graceful Zhou Gong",
+        "Ancient Warriors - Ingenious Zhuge Kong",
+        "Ancient Warriors - Loyal Guan Yun",
+        "Ancient Warriors - Masterful Sun Mou",
+        "Ancient Warriors - Rebellious Lu Feng",
+        "Ancient Warriors - Savage Don Ying",
+        "Ancient Warriors - Valiant Zhang De",
+        "Ancient Warriors - Virtuous Liu Xuan",
+        "Ancient Warriors Oath - Double Dragon Lords",
+        "Ancient Warriors Saga - Chivalrous Path",
+        "Ancient Warriors Saga - Deception and Betrayal",
+        "Ancient Warriors Saga - Defense of Changban",
+        "Ancient Warriors Saga - East-by-South Winds",
+        "Ancient Warriors Saga - Sun-Liu Alliance",
+        "Ancient Warriors Saga - Three Visits"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Attack of the Cornered Rat",
+    "filename": "Attack_of_the_Cornered_Rat",
+    "card_text": "If a Level 3 or lower Normal Monster you control battles, during the Damage Step you can pay Life Points in multiples of 100. The ATK of the opponent's monster is reduced by the amount of Life Points you paid, until the End Phase. (You cannot pay more Life Points than the ATK of the opponent's monster.)",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

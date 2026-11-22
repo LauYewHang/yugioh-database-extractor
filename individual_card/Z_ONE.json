@@ -1,0 +1,15 @@
+{
+    "name": "Z-ONE",
+    "filename": "Z_ONE",
+    "card_text": "If this Set card is destroyed and sent to the GY: Target 1 Continuous Spell or Field Spell in your GY; add it to your hand.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY DUELISTS: SYNCHRO STORM",
+        "Yu-Gi-Oh! 5D's WORLD CHAMPIONSHIP 2011 \uff0d OVER THE NEXUS \uff0d Bundles"
+    ],
+    "related_card": [
+        "Soul Binding Gate"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

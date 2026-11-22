@@ -1,0 +1,37 @@
+{
+    "name": "Reptilianne Coatl",
+    "filename": "Reptilianne_Coatl",
+    "card_text": "If you control a DARK Reptile monster: You can Special Summon this card from your hand, then, if your opponent controls any monsters with 0 ATK, you can Special Summon up to an equal number of \"Reptilianne\" monsters from your hand. You can only use this effect of \"Reptilianne Coatl\" once per turn. If this card you control would be used as Synchro Material for a Reptile monster, you can treat it as a non-Tuner.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Reptilianne Echidna",
+        "Reptilianne Gardna",
+        "Reptilianne Gorgon",
+        "Reptilianne Hydra",
+        "Reptilianne Lamia",
+        "Reptilianne Medusa",
+        "Reptilianne Melusine",
+        "Reptilianne Naga",
+        "Reptilianne Nyami",
+        "Reptilianne Poison",
+        "Reptilianne Rage",
+        "Reptilianne Ramifications",
+        "Reptilianne Recoil",
+        "Reptilianne Scylla",
+        "Reptilianne Servant",
+        "Reptilianne Spawn",
+        "Reptilianne Vaskii",
+        "Reptilianne Viper",
+        "Serpent Suppression"
+    ],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 1000,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

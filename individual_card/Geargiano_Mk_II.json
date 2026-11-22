@@ -1,0 +1,32 @@
+{
+    "name": "Geargiano Mk-II",
+    "filename": "Geargiano_Mk_II",
+    "card_text": "When this card is Normal or Flip Summoned: You can Special Summon 1 \"Geargia\" monster from your hand or Graveyard in Defense Position.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST",
+        "DUELIST LEAGUE 18",
+        "GEARGIA RAMPAGE STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Gear Gigant X",
+        "Geargia Change",
+        "Geargiaccelerator",
+        "Geargiagear",
+        "Geargiagear Gigant XG",
+        "Geargianchor",
+        "Geargiano",
+        "Geargiano Mk-III",
+        "Geargiarmor",
+        "Geargiarsenal",
+        "Geargiattacker",
+        "Geargiauger"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

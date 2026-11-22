@@ -1,0 +1,43 @@
+{
+    "name": "Chimeratech Overdragon",
+    "filename": "Chimeratech_Overdragon",
+    "card_text": "\"Cyber Dragon\" + 1+ Machine monsters\nMust be Fusion Summoned. If this card is Fusion Summoned: Send all other cards you control to the GY. The original ATK/DEF of this card each become equal to the number of Fusion Materials used for its Fusion Summon x 800. This card can attack your opponent's monsters a number of times each Battle Phase, up to the number of Fusion Materials used for its Fusion Summon.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "RA YELLOW MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "POWER OF THE DUELIST",
+        "GOLD SERIES",
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "PREMIUM GOLD",
+        "STAR PACK 2014",
+        "LEGENDARY DRAGON DECKS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "DUEL TERMINAL 7A",
+        "STRUCTURE DECK: CYBER STRIKE"
+    ],
+    "related_card": [
+        "Armored Cybern",
+        "Cyber Dragon",
+        "Cyber Dragon Core",
+        "Cyber Dragon Drei",
+        "Cyber Dragon Herz",
+        "Cyber Dragon Nachster",
+        "Cyber Dragon Sieger",
+        "Cyber Dragon Vier",
+        "Cyber Dragon Zwei",
+        "Cyberdark Wurm",
+        "Cyberload Fusion",
+        "Cybernetic Hidden Technology",
+        "Cybernetic Revolution",
+        "Proto-Cyber Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

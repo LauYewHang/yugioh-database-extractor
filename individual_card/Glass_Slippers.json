@@ -1,0 +1,14 @@
+{
+    "name": "Glass Slippers",
+    "filename": "Glass_Slippers",
+    "card_text": "If this card is equipped to a Fairy monster, it gains 1000 ATK. If this card is equipped to a non-Fairy monster, it cannot attack, also it loses 1000 ATK. If this card is sent to the GY because the equipped monster is destroyed: You can target 1 \"Prinzessin\" you control; equip this card to that target. You can only use this effect of \"Glass Slippers\" once per turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Prinzessin"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

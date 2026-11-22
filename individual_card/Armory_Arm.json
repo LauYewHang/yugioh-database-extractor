@@ -1,0 +1,21 @@
+{
+    "name": "Armory Arm",
+    "filename": "Armory_Arm",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, you can either: Target 1 monster on the field; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, that target gains 1000 ATK. If that target destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the destroyed monster's original ATK.",
+    "release_date": "2009-02-24",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI -",
+        "TURBO PACK BOOSTER SIX",
+        "HIDDEN ARSENAL CHAPTER 1"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

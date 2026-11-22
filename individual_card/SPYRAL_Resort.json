@@ -1,0 +1,29 @@
+{
+    "name": "SPYRAL Resort",
+    "filename": "SPYRAL_Resort",
+    "card_text": "Your opponent cannot target other \"SPYRAL\" cards you control with card effects. Once per turn: You can add 1 \"SPYRAL\" monster from your Deck to your hand. Once per turn, during your End Phase, shuffle 1 monster from your GY into the Deck or destroy this card.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "SPYRAL Double Agent",
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

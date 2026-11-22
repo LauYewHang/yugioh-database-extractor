@@ -1,0 +1,38 @@
+{
+    "name": "Goblin Elite Attack Force",
+    "filename": "Goblin_Elite_Attack_Force",
+    "card_text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the end of your next turn.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "CYBERNETIC REVOLUTION",
+        "STARTER DECK DARK LEGION (US)",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

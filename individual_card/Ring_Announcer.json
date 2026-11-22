@@ -1,0 +1,35 @@
+{
+    "name": "Ring Announcer",
+    "filename": "Ring_Announcer",
+    "card_text": "(This card is always treated as a \"Battlin' Boxing\" card.)\nSpecial Summon 1 \"Battlin' Boxer\" monster from your hand, then you can destroy Spells/Traps on the field, up to the number of Xyz Monsters you control. You can only activate 1 \"Ring Announcer\" per turn.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "Battlin' Boxer Big Bandage",
+        "Battlin' Boxer Cheat Commissioner",
+        "Battlin' Boxer Chief Second",
+        "Battlin' Boxer Counterpunch",
+        "Battlin' Boxer Glassjaw",
+        "Battlin' Boxer Headgeared",
+        "Battlin' Boxer King Dempsey",
+        "Battlin' Boxer Lead Yoke",
+        "Battlin' Boxer Promoter",
+        "Battlin' Boxer Rabbit Puncher",
+        "Battlin' Boxer Rib Gardna",
+        "Battlin' Boxer Shadow",
+        "Battlin' Boxer Sparrer",
+        "Battlin' Boxer Switchitter",
+        "Battlin' Boxer Uppercutter",
+        "Battlin' Boxer Veil",
+        "Battlin' Boxing Cross Counter",
+        "Battlin' Boxing Spirits",
+        "Number 105: Battlin' Boxer Star Cestus",
+        "Number 79: Battlin' Boxer Nova Kaiser",
+        "Number C105: Battlin' Boxer Comet Cestus",
+        "Number C79: Battlin' Boxer General Kaiser"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

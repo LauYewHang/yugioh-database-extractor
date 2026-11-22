@@ -1,0 +1,12 @@
+{
+    "name": "Fish and Kicks",
+    "filename": "Fish_and_Kicks",
+    "card_text": "If you have 3 or more banished Fish, Sea Serpent, or Aqua-Type monsters: Target 1 card on the field; banish it.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

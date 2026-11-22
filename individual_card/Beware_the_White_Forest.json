@@ -1,0 +1,27 @@
+{
+    "name": "Beware the White Forest",
+    "filename": "Beware_the_White_Forest",
+    "card_text": "If you control a Level 6 or higher Illusion or Spellcaster monster: Target 1 card your opponent controls; destroy it. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of \"Beware the White Forest\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Azamina Aphes",
+        "Diabellze the White Witch",
+        "Elzette of the White Forest",
+        "Elzette, Azamina of the White Forest",
+        "Poplar of the White Forest",
+        "Queen Azamina",
+        "Rciela, Sinister Soul of the White Forest",
+        "Rucia of the White Forest",
+        "Scourge of the White Forest",
+        "Silvy of the White Forest",
+        "Tales of the White Forest",
+        "Witch of the White Forest",
+        "Woes of the White Forest"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

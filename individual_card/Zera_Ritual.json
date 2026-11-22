@@ -1,0 +1,15 @@
+{
+    "name": "Zera Ritual",
+    "filename": "Zera_Ritual",
+    "card_text": "This card is used to Ritual Summon \"Zera the Mant\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+    "release_date": "2007-07-26",
+    "available_set": [
+        "PREMIUM PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [
+        "Zera the Mant"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

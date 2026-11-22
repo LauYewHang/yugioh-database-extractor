@@ -1,0 +1,18 @@
+{
+    "name": "Kuibelt the Blade Dragon",
+    "filename": "Kuibelt_the_Blade_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can target 1 card on the field; destroy it. If this card on the field is destroyed: You can target 1 face-up monster on the field; that monster cannot attack until the end of your opponent's turn. You can only use each effect of \"Kuibelt the Blade Dragon\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 1900,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

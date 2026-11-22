@@ -1,0 +1,38 @@
+{
+    "name": "Drytron Mu Beta Fafnir",
+    "filename": "Drytron_Mu_Beta_Fafnir",
+    "card_text": "2+ Level 1 monsters\nWhen you Ritual Summon, you can detach a material(s) from this card as monster(s) required for the Ritual Summon. You can only use each of the following effects of \"Drytron Mu Beta Fafnir\" once per turn. If this card is Xyz Summoned: You can send 1 \"Drytron\" card from your Deck to the GY. When your opponent activates a Spell/Trap Card, while you control a Machine Ritual Monster (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "Drytron Alpha Thuban",
+        "Drytron Asterism",
+        "Drytron Beta Rastaban",
+        "Drytron Delta Altais",
+        "Drytron Eclipse",
+        "Drytron Fafnir",
+        "Drytron Gamma Eltanin",
+        "Drytron Meteonis DA Draconids",
+        "Drytron Meteonis Draconids",
+        "Drytron Meteonis Quadrantids",
+        "Drytron Meteor Shower",
+        "Drytron Nova",
+        "Drytron Nu II",
+        "Drytron Zeta Aldhibah",
+        "Meteonis Drytron",
+        "Meteoroa Drytron",
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Drytron"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 1
+}

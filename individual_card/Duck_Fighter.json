@@ -1,0 +1,17 @@
+{
+    "name": "Duck Fighter",
+    "filename": "Duck_Fighter",
+    "card_text": "If this card is in your hand or Graveyard: You can Tribute Tokens whose total Levels equal 3 or more; Special Summon this card. You can only use the effect of \"Duck Fighter\" once per turn.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1300,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

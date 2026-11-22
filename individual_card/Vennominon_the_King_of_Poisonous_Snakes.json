@@ -1,0 +1,24 @@
+{
+    "name": "Vennominon the King of Poisonous Snakes",
+    "filename": "Vennominon_the_King_of_Poisonous_Snakes",
+    "card_text": "Cannot be Special Summoned by another Effect Monster's effect. Unaffected by \"Venom Swamp\". Gains 500 ATK for each Reptile monster in your GY. When this card is destroyed by battle and sent to the GY: You can banish 1 other Reptile monster from your GY; Special Summon this card.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS",
+        "RA YELLOW MEGA PACK",
+        "TACTICAL EVOLUTION",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Rise of the Snake Deity",
+        "Venom Shot",
+        "Venom Swamp"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

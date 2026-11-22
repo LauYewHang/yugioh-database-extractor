@@ -1,0 +1,42 @@
+{
+    "name": "Gaia The Fierce Knight",
+    "filename": "Gaia_The_Fierce_Knight",
+    "card_text": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "DARK LEGENDS",
+        "MAZE OF MUERTOS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK BEGINNING 1",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "STARTER DECK YUGI Evolution",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "RETRO PACK",
+        "MILLENNIUM PACK",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [
+        "Artillery Catapult Turtle",
+        "Beginning of Heaven and Earth",
+        "Black Luster Soldier - Super Soldier",
+        "Envoy of Chaos",
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight",
+        "Gaia the Magical Knight of Dragons",
+        "Galloping Gaia",
+        "Gateway to Chaos",
+        "Skilled Blue Magician",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Spiral Spear Strike"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

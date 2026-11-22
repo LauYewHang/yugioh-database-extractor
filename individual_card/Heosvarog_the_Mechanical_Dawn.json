@@ -1,0 +1,17 @@
+{
+    "name": "Heosvarog the Mechanical Dawn",
+    "filename": "Heosvarog_the_Mechanical_Dawn",
+    "card_text": "2 LIGHT Machine monsters\nIf this card is Fusion Summoned: You can activate this effect; during the Standby Phase of the next turn, add 1 card from your GY to your hand, with an effect that Fusion Summons a monster(s). When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can banish 1 face-up LIGHT Machine monster you control or 2 LIGHT Machine monsters from your GY; negate the activation. You can only use each effect of \"Heosvarog the Mechanical Dawn\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,29 @@
+{
+    "name": "K9-X \"Werewolf\"",
+    "filename": "K9_X__Werewolf_",
+    "card_text": "2 Level 9 monsters\nWhile this card has material, it can attack a number of times each Battle Phase, up to the number of materials attached to it. When your opponent activates a card or effect (Quick Effect): You can detach 1 material from this card, then activate this effect depending on whose turn it is;\n\u25cfYours: Banish up to 1 card each from your opponent's field and GY.\n\u25cfOpponent's: Look at your opponent's hand and banish 1 card from it face-up, until the End Phase.\nYou can only use this effect of \"K9-X \"Werewolf\"\" once per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "\"A Case for K9\"",
+        "K9-04 Noroi",
+        "K9-17 \"Ripper\"",
+        "K9-17 Izuna",
+        "K9-66a Jokul",
+        "K9-66b Lantern",
+        "K9-66X \"Jacks\"",
+        "K9-EW Special Release Experiment",
+        "K9-LC Release Restraint",
+        "K9-X \"Ripper/M\"",
+        "K9-X Forced Release"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3300,
+    "defense": 2500,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 9
+}

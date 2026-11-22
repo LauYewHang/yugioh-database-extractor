@@ -1,0 +1,14 @@
+{
+    "name": "Spirit Force",
+    "filename": "Spirit_Force",
+    "card_text": "During your opponent's turn, at damage calculation: Make the battle damage you take from this battle 0, then you can add 1 Warrior-Type Tuner monster with 1500 or less DEF from your Graveyard to your hand.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI 2 -",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

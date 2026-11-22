@@ -1,0 +1,17 @@
+{
+    "name": "Otonari Thunder",
+    "filename": "Otonari_Thunder",
+    "card_text": "If you control 2 or more Thunder monsters and this card is in your hand or GY: You can Special Summon this card, but banish it when it leaves the field. You can target 1 Xyz Monster you control; attach 2 Level 4 LIGHT Thunder monsters from your hand, face-up field, and/or GY to it as material, including this card you control. You can only use each effect of \"Otonari Thunder\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 1200,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

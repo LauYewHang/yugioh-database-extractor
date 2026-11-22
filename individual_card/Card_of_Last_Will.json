@@ -1,0 +1,12 @@
+{
+    "name": "Card of Last Will",
+    "filename": "Card_of_Last_Will",
+    "card_text": "If the ATK of a monster(s) you control becomes 0 by a card effect: Draw until you have 5 cards in your hand.",
+    "release_date": "2013-10-11",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

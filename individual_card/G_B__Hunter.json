@@ -1,0 +1,17 @@
+{
+    "name": "G.B. Hunter",
+    "filename": "G_B__Hunter",
+    "card_text": "Cards on the field cannot be returned to the Deck.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

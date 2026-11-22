@@ -1,0 +1,30 @@
+{
+    "name": "Swordsoul Supreme Sovereign - Chengying",
+    "filename": "Swordsoul_Supreme_Sovereign___Chengying",
+    "card_text": "1 Tuner + 1+ non-Tuners\nFor each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "BURST OF DESTINY",
+        "MAZE OF THE MASTER",
+        "LEGENDARY MODERN DECKS 2026"
+    ],
+    "related_card": [
+        "Incredible Ecclesia, the Virtuous",
+        "Swordsoul Assessment",
+        "Swordsoul Emergence",
+        "Swordsoul Grandmaster - Chixiao",
+        "Swordsoul of Mo Ye",
+        "Swordsoul of Taia",
+        "Swordsoul Sacred Summit",
+        "Swordsoul Strategist Longyuan",
+        "Swordsoul Strife"
+    ],
+    "attribute": "WATER",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

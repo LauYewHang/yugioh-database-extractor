@@ -1,0 +1,33 @@
+{
+    "name": "S-Force Bridgehead",
+    "filename": "S_Force_Bridgehead",
+    "card_text": "When this card is activated: You can add 1 \"S-Force\" monster from your Deck to your hand. When an opponent's monster declares an attack on your \"S-Force\" monster in its same column: You can activate this effect; that monster you control cannot be destroyed by that battle. You can only use this effect of \"S-Force Bridgehead\" once per turn. You can only activate 1 \"S-Force Bridgehead\" per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

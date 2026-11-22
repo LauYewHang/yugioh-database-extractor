@@ -1,0 +1,17 @@
+{
+    "name": "Shared Ride",
+    "filename": "Shared_Ride",
+    "card_text": "For the rest of this turn, each time a card(s) is added from the Main Deck or GY to your opponent's hand, except by drawing them, you immediately draw 1 card. You can only activate 1 \"Shared Ride\" per turn.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT",
+        "Gold Series: Maximum Gold",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

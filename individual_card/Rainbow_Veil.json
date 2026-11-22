@@ -1,0 +1,12 @@
+{
+    "name": "Rainbow Veil",
+    "filename": "Rainbow_Veil",
+    "card_text": "If the equipped monster battles an opponent's monster, while that monster is on the field its effect(s) is negated during the Battle Phase only.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

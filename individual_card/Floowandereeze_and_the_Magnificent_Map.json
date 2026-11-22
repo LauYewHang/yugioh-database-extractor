@@ -1,0 +1,24 @@
+{
+    "name": "Floowandereeze and the Magnificent Map",
+    "filename": "Floowandereeze_and_the_Magnificent_Map",
+    "card_text": "During your Main Phase: You can reveal 1 Level 1 \"Floowandereeze\" monster in your hand and banish 1 \"Floowandereeze\" card with a different name from your Deck, then, immediately after this effect resolves, Normal Summon the revealed monster. If your opponent Normal Summons a monster: Immediately after this effect resolves, you can Normal Summon 1 \"Floowandereeze\" monster. You can only use each effect of \"Floowandereeze and the Magnificent Map\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Floowandereeze & Eglen",
+        "Floowandereeze & Empen",
+        "Floowandereeze & Robina",
+        "Floowandereeze & Snowl",
+        "Floowandereeze & Stri",
+        "Floowandereeze & Toccan",
+        "Floowandereeze and the Advent of Adventure",
+        "Floowandereeze and the Dreaming Town",
+        "Floowandereeze and the Scary Sea",
+        "Floowandereeze and the Unexplored Winds"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

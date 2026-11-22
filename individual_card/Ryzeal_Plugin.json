@@ -1,0 +1,25 @@
+{
+    "name": "Ryzeal Plugin",
+    "filename": "Ryzeal_Plugin",
+    "card_text": "Target 1 of your Xyz Monsters or \"Ryzeal\" monsters that is banished or in your GY; Special Summon it, then you can attach 1 \"Ryzeal\" card from your Deck to 1 Rank 4 Xyz Monster you control, also you cannot declare attacks for the rest of this turn, except with Rank 4 Xyz Monsters. You can only activate 1 \"Ryzeal Plugin\" per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ext Ryzeal",
+        "Ice Ryzeal",
+        "Node Ryzeal",
+        "Palm Ryzeal",
+        "Ryzeal Cross",
+        "Ryzeal Detonator",
+        "Ryzeal Duo Drive",
+        "Ryzeal Mass Driver",
+        "Ryzeal Plasma Hole",
+        "Star Ryzeal",
+        "Sword Ryzeal"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

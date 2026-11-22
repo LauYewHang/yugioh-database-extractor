@@ -1,0 +1,12 @@
+{
+    "name": "Ruthless Denial",
+    "filename": "Ruthless_Denial",
+    "card_text": "Select 1 monster you control and send it to the Graveyard, and send 1 random card in your opponent's hand to the Graveyard.",
+    "release_date": "2007-03-07",
+    "available_set": [
+        "DUELIST PACK - ZANE TRUESDALE -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

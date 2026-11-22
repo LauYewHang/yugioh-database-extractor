@@ -1,0 +1,39 @@
+{
+    "name": "Unchained Soul of Abominable Rage",
+    "filename": "Unchained_Soul_of_Abominable_Rage",
+    "card_text": "2+ monsters, including a Fiend monster\nIf your opponent Special Summons a monster(s) face-up (except during the Damage Step): You can target 1 of them; destroy 1 Fiend monster you control, and if you do, negate the targeted monster's effects until the end of this turn. When a monster effect is activated on the field and you control a Link-4 or higher \"Unchained\" Link Monster (Quick Effect): You can banish this card from your GY; destroy the monster that activated its effect. You can only use each effect of \"Unchained Soul of Abominable Rage\" once per turn.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abominable Unchained Soul",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Abomination",
+        "Unchained Firelord of Yama",
+        "Unchained Hunger",
+        "Unchained Oni of Shara",
+        "Unchained Oni of Shyma",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Anguish",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Rage",
+        "Unchained Soul of Sharvara",
+        "Unchained Soul of Shyama",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Unchained Zealot - Kamra",
+        "Wailing of the Unchained Souls"
+    ],
+    "attribute": "DARK",
+    "attack": 2100,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 84
+}

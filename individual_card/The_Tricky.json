@@ -1,0 +1,26 @@
+{
+    "name": "The Tricky",
+    "filename": "The_Tricky",
+    "card_text": "You can Special Summon this card (from your hand) by discarding 1 card.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "THE DUELIST GENESIS",
+        "STARTER DECK YUGI RELOADED",
+        "DUEL TERMINAL 5B",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Tricky Spell 4"
+    ],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

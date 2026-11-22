@@ -1,0 +1,29 @@
+{
+    "name": "Vector Pendulum, the Dracoverlord",
+    "filename": "Vector_Pendulum__the_Dracoverlord",
+    "card_text": "This Overlord overran an entire world with his army of Dracofiends, using his Dragon Alchemy to convert all life into his terrible minions. The source of this power is unidentified, and probably extra-dimensional.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Amorphactor Pain, the Imagination Dracoverlord",
+        "Draco Awakening",
+        "Draco Face-Off",
+        "Dragonic Pendulum",
+        "Duelist Alliance",
+        "Forge of the True Dracos",
+        "Master Peace, the True Dracoslayer",
+        "PenduLuMoon"
+    ],
+    "attribute": "DARK",
+    "attack": 1850,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Negate all card effects in your opponent's Pendulum Zones.",
+    "pendulum_scale": 3
+}

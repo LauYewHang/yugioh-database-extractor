@@ -1,0 +1,29 @@
+{
+    "name": "Deep Dark Trap Hole",
+    "filename": "Deep_Dark_Trap_Hole",
+    "card_text": "When a Level 5 or higher Effect Monster(s) is Special Summoned: Banish that Level 5 or higher Effect Monster(s).",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "MAZE OF MEMORIES",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

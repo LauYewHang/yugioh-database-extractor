@@ -1,0 +1,39 @@
+{
+    "name": "Supreme King's Castle",
+    "filename": "Supreme_King_s_Castle",
+    "card_text": "You can Fusion Summon Fusion Monsters that must be Special Summoned with \"Dark Fusion\", with effects other than \"Dark Fusion\". Once per turn, during damage calculation, if your Fiend monster battles an opponent's monster: You can send 1 \"Evil HERO\" monster from your Deck or Extra Deck to the GY; your monster gains ATK equal to the Level of the monster sent to the GY x 200, until the end of this turn (even if this card leaves the field).",
+    "release_date": "2019-09-27",
+    "available_set": [
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "LEGENDARY DUELISTS: SEASON 3"
+    ],
+    "related_card": [
+        "Dark Calling",
+        "Dark Contact",
+        "Dark Fusion",
+        "Dark Supremacy",
+        "Evil Assault",
+        "Evil HERO Adusted Gold",
+        "Evil HERO Dark Gaia",
+        "Evil HERO Darkest Knight",
+        "Evil HERO Dead-End Prison",
+        "Evil HERO Infernal Gainer",
+        "Evil HERO Infernal Prodigy",
+        "Evil HERO Infernal Rider",
+        "Evil HERO Infernal Sniper",
+        "Evil HERO Inferno Wing",
+        "Evil HERO Inferno Wing - Backfire",
+        "Evil HERO Lightning Golem",
+        "Evil HERO Malicious Bane",
+        "Evil HERO Malicious Edge",
+        "Evil HERO Malicious Fiend",
+        "Evil HERO Neos Lord",
+        "Evil HERO Sinister Necrom",
+        "Evil HERO Toxic Bubble",
+        "Evil HERO Vicious Claws",
+        "Evil HERO Wild Cyclone",
+        "Evil Mind"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

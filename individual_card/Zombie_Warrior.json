@@ -1,0 +1,28 @@
+{
+    "name": "Zombie Warrior",
+    "filename": "Zombie_Warrior",
+    "card_text": "\"Skull Servant\" + \"Battle Warrior\"",
+    "release_date": "2016-03-18",
+    "available_set": [
+        "OTS TOURNAMENT PACK 1"
+    ],
+    "related_card": [
+        "Battle Warrior",
+        "Moissa Wight",
+        "Skull Servant",
+        "The Lady in Wight",
+        "Wight Reanimator",
+        "Wightbaking",
+        "Wightlord",
+        "Wightmare",
+        "Wightprince",
+        "Wightprincess"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 900,
+    "monster_type": "Zombie",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

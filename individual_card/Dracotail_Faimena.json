@@ -1,0 +1,33 @@
+{
+    "name": "Dracotail Faimena",
+    "filename": "Dracotail_Faimena",
+    "card_text": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "LIMITED PACK WORLD CHAMPIONSHIP 2026",
+        "RARITY COLLECTION 5",
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Dracotail Arthalion",
+        "Dracotail Flame",
+        "Dracotail Gulamel",
+        "Dracotail Horn",
+        "Dracotail Lukias",
+        "Dracotail Mululu",
+        "Dracotail Pan",
+        "Dracotail Phryxul",
+        "Dracotail Shaulas",
+        "Dracotail Sting",
+        "Dracotail Urgula",
+        "Ketu Dracotail",
+        "Rahu Dracotail"
+    ],
+    "attribute": "WATER",
+    "attack": 1300,
+    "defense": 2500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

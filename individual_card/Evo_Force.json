@@ -1,0 +1,32 @@
+{
+    "name": "Evo-Force",
+    "filename": "Evo_Force",
+    "card_text": "Tribute 1 \"Evoltile\" monster; Special Summon 1 \"Evolsaur\" monster from your Deck. (This is treated as a Special Summon by the effect of an \"Evoltile\" monster.)",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "OTS TOURNAMENT PACK 22",
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Evolsaur Cerato",
+        "Evolsaur Darwino",
+        "Evolsaur Diplo",
+        "Evolsaur Elias",
+        "Evolsaur Lios",
+        "Evolsaur Pelta",
+        "Evolsaur Terias",
+        "Evolsaur Vulcano",
+        "Evoltile Casinerio",
+        "Evoltile Elginero",
+        "Evoltile Gephyro",
+        "Evoltile Lagosucho",
+        "Evoltile Megachirella",
+        "Evoltile Najasho",
+        "Evoltile Odonto",
+        "Evoltile Pholis",
+        "Evoltile Pleuro",
+        "Evoltile Westlo"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

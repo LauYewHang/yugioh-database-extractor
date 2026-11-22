@@ -1,0 +1,17 @@
+{
+    "name": "Cynet Crosswipe",
+    "filename": "Cynet_Crosswipe",
+    "card_text": "Tribute 1 Cyberse monster, then target 1 card on the field; destroy it.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Cyberse Reminder",
+        "Firewall Phantom",
+        "Micro Coder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

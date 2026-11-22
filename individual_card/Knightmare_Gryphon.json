@@ -1,0 +1,23 @@
+{
+    "name": "Knightmare Gryphon",
+    "filename": "Knightmare_Gryphon",
+    "card_text": "2+ monsters with different names\nIf this card is Link Summoned: You can discard 1 card, then target 1 Spell/Trap in your GY; Set it to your field, but it cannot be activated this turn, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of \"Knightmare Gryphon\" once per turn. Special Summoned monsters on the field cannot activate their effects, unless they are linked.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Knightmare Mermaid",
+        "Knightmare Unicorn",
+        "World Legacy's Nightmare"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 340
+}

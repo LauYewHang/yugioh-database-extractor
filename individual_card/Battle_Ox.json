@@ -1,0 +1,25 @@
+{
+    "name": "Battle Ox",
+    "filename": "Battle_Ox",
+    "card_text": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "DEMO DECK 2015",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STARTER DECK KAIBA",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "STARTER DECK KAIBA Evolution",
+        "STARTER DECK KAIBA RELOADED"
+    ],
+    "related_card": [
+        "Rabid Horseman"
+    ],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

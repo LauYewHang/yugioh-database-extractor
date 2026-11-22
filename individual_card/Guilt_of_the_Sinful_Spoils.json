@@ -1,0 +1,31 @@
+{
+    "name": "Guilt of the Sinful Spoils",
+    "filename": "Guilt_of_the_Sinful_Spoils",
+    "card_text": "If your opponent Special Summons a monster(s) from the Deck or Extra Deck and you control a \"Diabellstar\" Monster Card (except during the Damage Step): Target 1 monster your opponent controls; shuffle it into the Deck. During the Damage Step, when your \"Diabellstar\" monster battles an opponent's monster: You can banish this card from your GY; that opponent's monster's ATK becomes halved until the end of this turn. You can only use each effect of \"Guilt of the Sinful Spoils\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Azamina Debtors",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Diabellze the Original Sinkeeper",
+        "Diabellze the White Witch",
+        "Elzette, Azamina of the White Forest",
+        "Queen Azamina",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils Struggle",
+        "Snake-Eyes Diabellstar",
+        "The Hallowed Azamina",
+        "WANTED: Seeker of Sinful Spoils"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

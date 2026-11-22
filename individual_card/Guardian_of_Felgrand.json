@@ -1,0 +1,20 @@
+{
+    "name": "Guardian of Felgrand",
+    "filename": "Guardian_of_Felgrand",
+    "card_text": "If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon-Type monster from your hand or Graveyard to this card. This card gains ATK and DEF equal to half the ATK and DEF of the monster equipped to it by this effect. You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon-Type monster in your Graveyard; Special Summon it.",
+    "release_date": "2016-07-08",
+    "available_set": [
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug"
+    ],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

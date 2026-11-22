@@ -1,0 +1,31 @@
+{
+    "name": "Shiranui Spectralsword",
+    "filename": "Shiranui_Spectralsword",
+    "card_text": "If this card is in your Graveyard, except the turn this card was sent to the Graveyard: You can target 1 non-Tuner Zombie-Type monster in your Graveyard; banish both it and this card, and if you do, Special Summon 1 Zombie-Type Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had. You can only use this effect of \"Shiranui Spectralsword\" once per turn.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "HIDDEN SUMMONERS",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Squire",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster"
+    ],
+    "attribute": "FIRE",
+    "attack": 800,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

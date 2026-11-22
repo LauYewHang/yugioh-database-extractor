@@ -1,0 +1,33 @@
+{
+    "name": "Beetrooper Assault Roller",
+    "filename": "Beetrooper_Assault_Roller",
+    "card_text": "You can Special Summon this card (from your hand) by banishing 1 Insect monster from your GY. You can only Special Summon \"Beetrooper Assault Roller\" once per turn this way. Gains 200 ATK for each Insect monster you control, except this card. When this card is destroyed by battle: You can add 1 \"Beetrooper\" monster from your Deck to your hand, except \"Beetrooper Assault Roller\". You can only use this effect of \"Beetrooper Assault Roller\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Beetrooper Armor Horn",
+        "Beetrooper Cruel Saturnas",
+        "Beetrooper Descent",
+        "Beetrooper Fly & Sting",
+        "Beetrooper Formation",
+        "Beetrooper Landing",
+        "Beetrooper Light Flapper",
+        "Beetrooper Scale Bomber",
+        "Beetrooper Scout Buggy",
+        "Beetrooper Squad",
+        "Beetrooper Sting Lancer",
+        "Giant Beetrooper Invincible Atlas",
+        "Heavy Beetrooper Mighty Neptune",
+        "Ultra Beetrooper Absolute Hercules"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1400,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

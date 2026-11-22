@@ -1,0 +1,18 @@
+{
+    "name": "Sasuke Samurai #4",
+    "filename": "Sasuke_Samurai__4",
+    "card_text": "If this card battles a monster, toss a coin and call heads or tails before damage calculation. If you call it right, destroy the opponent's monster with this effect.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "RISE OF DESTINY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1200,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

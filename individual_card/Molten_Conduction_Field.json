@@ -1,0 +1,38 @@
+{
+    "name": "Molten Conduction Field",
+    "filename": "Molten_Conduction_Field",
+    "card_text": "Send 2 \"Laval\" monsters from your Deck to the GY.",
+    "release_date": "2012-09-28",
+    "available_set": [
+        "GHOSTS FROM THE PAST",
+        "DUEL TERMINAL 7A",
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS"
+    ],
+    "related_card": [
+        "Laval Archer",
+        "Laval Blaster",
+        "Laval Burner",
+        "Laval Cannon",
+        "Laval Coatl",
+        "Laval Dual Slasher",
+        "Laval Forest Sprite",
+        "Laval Judgment Lord",
+        "Laval Lakeside Lady",
+        "Laval Lancelord",
+        "Laval Magma Cannoneer",
+        "Laval Miller",
+        "Laval Phlogis",
+        "Laval Stennon",
+        "Laval the Greater",
+        "Laval Volcano Handmaiden",
+        "Laval Warrior",
+        "Lavalval Chain",
+        "Lavalval Dragon",
+        "Lavalval Dragun",
+        "Lavalval Exlord",
+        "Lavalval Ignis",
+        "Lavalval Salamander"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Defense of the Temple",
+    "filename": "Defense_of_the_Temple",
+    "card_text": "Fusion Summon 1 EARTH Fusion Monster from your Extra Deck, using monsters from your hand or field. If you use a monster you control that mentions \"Temple of the Kings\", you can also use face-up monsters your opponent controls as material. If you control \"Temple of the Kings\": You can banish this card from your GY; add 1 \"Dangers of the Divine\" from your Deck to your hand. You can only use this effect of \"Defense of the Temple\" once per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Anubis the Last Judge",
+        "Dangers of the Divine",
+        "Divine Serpent Apophis",
+        "Merciless Scorpion of Serket",
+        "Mystical Beast of Serket",
+        "Temple of the Kings",
+        "The Man with the Mark",
+        "Treasures of the Kings",
+        "Verdict of Anubis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

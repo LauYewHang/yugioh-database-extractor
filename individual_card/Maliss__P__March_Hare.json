@@ -1,0 +1,29 @@
+{
+    "name": "Maliss <P> March Hare",
+    "filename": "Maliss__P__March_Hare",
+    "card_text": "Your opponent cannot target \"Maliss\" Link Monsters that point to this card with card effects. You can only use each of the following effects of \"Maliss <P> March Hare\" once per turn. During the Main Phase, if this card is in your hand (Quick Effect): You can banish 1 other \"Maliss\" card from your hand or GY, and if you do, Special Summon this card. If this card is banished: You can pay 300 LP, then target 1 of your banished \"Maliss\" monsters; add it to your hand.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Maliss <C> GWC-06",
+        "Maliss <C> MTP-07",
+        "Maliss <C> TB-11",
+        "Maliss <P> Chessy Cat",
+        "Maliss <P> Dormouse",
+        "Maliss <P> White Rabbit",
+        "Maliss <Q> Hearts Crypter",
+        "Maliss <Q> Red Ransom",
+        "Maliss <Q> White Binder",
+        "Maliss in the Mirror",
+        "Maliss in Underground"
+    ],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 300,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

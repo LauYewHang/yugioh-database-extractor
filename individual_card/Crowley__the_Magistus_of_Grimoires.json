@@ -1,0 +1,40 @@
+{
+    "name": "Crowley, the Magistus of Grimoires",
+    "filename": "Crowley__the_Magistus_of_Grimoires",
+    "card_text": "You can send 1 Spellcaster monster from your hand or face-up field to the GY; Special Summon this card from your hand. You can declare 1 Attribute; this card becomes that Attribute until the end of this turn. You can banish this card from your GY, then target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster from your GY, except a Level 4 monster. You can only use each effect of \"Crowley, the Magistus of Grimoires\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "OTS TOURNAMENT PACK 27",
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

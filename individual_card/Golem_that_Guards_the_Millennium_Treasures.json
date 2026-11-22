@@ -1,0 +1,22 @@
+{
+    "name": "Golem that Guards the Millennium Treasures",
+    "filename": "Golem_that_Guards_the_Millennium_Treasures",
+    "card_text": "The activation of your \"Millennium Ankh\" cannot be negated. You can only use each of the following effects of \"Golem that Guards the Millennium Treasures\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. While this card is a Continuous Spell: You can either pay 2000 LP, or reveal 1 \"Millennium Ankh\" in your hand; Special Summon this card, then you can add 1 \"Wedju Temple\" from your Deck to your hand.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Millennium Ankh",
+        "Sengenjin Wakes from a Millennium",
+        "Wedju Temple"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 2200,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

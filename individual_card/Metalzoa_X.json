@@ -1,0 +1,24 @@
+{
+    "name": "Metalzoa X",
+    "filename": "Metalzoa_X",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Max Metalmorph\" that was activated by Tributing a Level 5 or higher Fiend monster. You can reveal this card in your hand; Set 1 \"Metalmorph\" Trap from your Deck, and if you do, shuffle this card into the Deck. You can only use this effect of \"Metalzoa X\" once per turn. Twice per turn, when your opponent activates a monster effect, or Spell Card or effect (Quick Effect): You can target 1 face-up monster your opponent controls; destroy it.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Flame Coating Metalmorph",
+        "Incoming Machine!",
+        "Max Metalmorph",
+        "Metalmorph",
+        "Rare Metalmorph",
+        "Time Engine"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2300,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

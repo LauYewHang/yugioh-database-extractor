@@ -1,0 +1,35 @@
+{
+    "name": "ZW - Unicorn Spear",
+    "filename": "ZW___Unicorn_Spear",
+    "card_text": "You can target 1 \"Number C39: Utopia Ray\" you control; equip this card from your hand to that target. It gains 1900 ATK. If the equipped monster battles an opponent's monster, the opponent's monster's effect is negated during the Battle Phase only. You can only control 1 \"ZW - Unicorn Spear\".",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "STAR PACK 2014",
+        "ORDER OF CHAOS",
+        "SUPER STARTER V FOR VICTORY"
+    ],
+    "related_card": [
+        "Gagaga Magician - Gagaga Magic",
+        "Number C39: Utopia Ray",
+        "Rank-Up-Magic Zexal Force",
+        "Shining Draw",
+        "SZW - Fenrir Sword",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray",
+        "Zexal Catapult",
+        "Zexal Construction",
+        "Zexal Entrust",
+        "ZS - Armed Sage",
+        "ZS - Utopic Sage",
+        "ZW - Dragonic Halberd",
+        "ZW - Leo Arms",
+        "ZW - Lightning Blade"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": 0,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

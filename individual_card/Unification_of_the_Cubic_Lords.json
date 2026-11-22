@@ -1,0 +1,32 @@
+{
+    "name": "Unification of the Cubic Lords",
+    "filename": "Unification_of_the_Cubic_Lords",
+    "card_text": "Fusion Summon 1 \"Cubic\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. If a face-up \"Cubic\" monster is destroyed by battle or leaves the field: You can banish this card from your Graveyard; Special Summon 1 Level 4 or lower \"Cubic\" monster from your hand or Deck, ignoring its Summoning conditions, and if you do, it cannot be destroyed by battle or card effects this turn.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Blade Garoodia the Cubic Beast",
+        "Buster Gundil the Cubic Behemoth",
+        "Crimson Nova the Dark Cubic Lord",
+        "Crimson Nova Trinity the Dark Cubic Lord",
+        "Cubic Ascension",
+        "Cubic Causality",
+        "Cubic Dharma",
+        "Cubic Karma",
+        "Cubic Mandala",
+        "Cubic Rebirth",
+        "Cubic Wave",
+        "Dark Garnex the Cubic Beast",
+        "Duza the Meteor Cubic Vessel",
+        "Geira Guile the Cubic King",
+        "Indiora Doom Volt the Cubic Emperor",
+        "Vijam the Cubic Seed",
+        "Vulcan Dragni the Cubic King"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

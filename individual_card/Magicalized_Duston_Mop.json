@@ -1,0 +1,22 @@
+{
+    "name": "Magicalized Duston Mop",
+    "filename": "Magicalized_Duston_Mop",
+    "card_text": "You can only control 1 \"Magicalized Duston Mop\". The equipped monster cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. When this card you control is destroyed by an opponent's card effect and sent to your Graveyard: You can add 1 \"Duston\" monster from your Deck to your hand.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [
+        "Blue Duston",
+        "Diamond Duston",
+        "Duston Roller",
+        "Green Duston",
+        "House Duston",
+        "Red Duston",
+        "Starduston",
+        "White Duston",
+        "Yellow Duston"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

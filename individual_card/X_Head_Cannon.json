@@ -1,0 +1,33 @@
+{
+    "name": "X-Head Cannon",
+    "filename": "X_Head_Cannon",
+    "card_text": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DUELIST PACK - CHAZZ PRINCETON -",
+        "MAGICIAN'S FORCE",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STRUCTURE DECK : SETO KAIBA",
+        "DUELIST PACK - KAIBA -",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DARK REVELATION Volume 1",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK KAIBA RELOADED"
+    ],
+    "related_card": [
+        "XY-Dragon Cannon",
+        "XYZ Combine",
+        "XYZ-Dragon Cannon",
+        "XZ-Tank Cannon",
+        "Y-Dragon Head",
+        "Z-Metal Tank"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

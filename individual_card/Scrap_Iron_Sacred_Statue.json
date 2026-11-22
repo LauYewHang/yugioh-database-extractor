@@ -1,0 +1,15 @@
+{
+    "name": "Scrap-Iron Sacred Statue",
+    "filename": "Scrap_Iron_Sacred_Statue",
+    "card_text": "Target 1 of your Level 7 or 8 Dragon Synchro Monsters that is banished or in your GY; Special Summon it, but return it to the Extra Deck during the End Phase, also, after that, Set this card face-down instead of sending it to the GY. If this Set card in its owner's control is destroyed by an opponent's card effect: You can Special Summon 1 \"Crimson Dragon\" from your Extra Deck. You can only use each effect of \"Scrap-Iron Sacred Statue\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Crimson Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Bone Temple Block",
+    "filename": "Bone_Temple_Block",
+    "card_text": "Discard 1 card. Special Summon 1 Level 4 or lower monster from your opponent's Graveyard to your side of the field, and your opponent Special Summons 1 Level 4 or lower monster from your Graveyard to your opponent's side of the field. Those monsters are destroyed during the End Phase of the next turn.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

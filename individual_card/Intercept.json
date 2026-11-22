@@ -1,0 +1,12 @@
+{
+    "name": "Intercept",
+    "filename": "Intercept",
+    "card_text": "Activate only when a monster is Tribute Summoned with 1 Tribute. Take control of that monster.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

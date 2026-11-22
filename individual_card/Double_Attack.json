@@ -1,0 +1,13 @@
+{
+    "name": "Double Attack",
+    "filename": "Double_Attack",
+    "card_text": "Discard 1 Monster Card from your hand to the Graveyard. Select 1 monster on your side of the field with a lower Level than the discarded monster. The selected monster can attack twice this turn.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "THE LOST MILLENNIUM",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Escalation of the Monarchs",
+    "filename": "Escalation_of_the_Monarchs",
+    "card_text": "Once per turn, during your opponent's Main Phase or your opponent's Battle Phase, you can: Immediately after this effect resolves, Tribute Summon 1 monster.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Frost Blast of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Tenacity of the Monarchs",
+        "Tessera the Primal Squire",
+        "The Monarchs Masterplan",
+        "The Prime Monarch"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

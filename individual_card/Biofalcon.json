@@ -1,0 +1,17 @@
+{
+    "name": "Biofalcon",
+    "filename": "Biofalcon",
+    "card_text": "When a Machine-Type monster you control is destroyed by battle and sent to the Graveyard while this card is face-up on the field, you can add 1 Machine-Type monster with 1000 or less ATK from your Deck to your hand.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Performance of Sword",
+    "filename": "Performance_of_Sword",
+    "card_text": "You can Ritual Summon this card with \"Commencement Dance\".",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Commencement Dance"
+    ],
+    "attribute": "EARTH",
+    "attack": 1950,
+    "defense": 1850,
+    "monster_type": "Warrior",
+    "monster_card_type": "Ritual",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

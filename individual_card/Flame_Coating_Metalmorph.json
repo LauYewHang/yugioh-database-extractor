@@ -1,0 +1,21 @@
+{
+    "name": "Flame Coating Metalmorph",
+    "filename": "Flame_Coating_Metalmorph",
+    "card_text": "Tribute 1 face-up monster that mentions \"Max Metalmorph\"; Special Summon 1 monster that cannot be Normal Summoned/Set and mentions \"Max Metalmorph\" from your Deck, ignoring its Summoning conditions, then you can equip this card to it with the following effect.\n\u25cfIf the equipped monster would be destroyed by battle or card effect, you can send this card to the GY instead.\nYou can only activate 1 \"Flame Coating Metalmorph\" per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Incoming Machine!",
+        "Max Metalmorph",
+        "Metal Illusionist",
+        "Metalzoa X",
+        "Red-Eyes Black Fullmetal Dragon",
+        "Red-Eyes Metal Claws Dragon",
+        "Time Engine",
+        "Zoa the Fiendish Beast"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

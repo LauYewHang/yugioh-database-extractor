@@ -1,0 +1,24 @@
+{
+    "name": "Cardcar D",
+    "filename": "Cardcar_D",
+    "card_text": "Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase. You cannot Special Summon during the turn you activate this effect.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "HIGH-SPEED RIDERS",
+        "STAR PACK 2014",
+        "THE SECRET FORCES",
+        "2-PLAYER STARTER SET",
+        "QUARTER CENTURY STAMPEDE",
+        "STARTER DECK - LINK STRIKE -"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 400,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

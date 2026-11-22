@@ -1,0 +1,19 @@
+{
+    "name": "Flyfang",
+    "filename": "Flyfang",
+    "card_text": "If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicted battle damage to your opponent, at the end of the Battle Phase: Banish this card until your next Standby Phase.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "OTS TOURNAMENT PACK 26"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1600,
+    "defense": 300,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

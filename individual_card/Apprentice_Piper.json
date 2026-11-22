@@ -1,0 +1,19 @@
+{
+    "name": "Apprentice Piper",
+    "filename": "Apprentice_Piper",
+    "card_text": "FLIP: You can Special Summon 1 monster from your hand.\nIf this card is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 monster from your hand.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2-PLAYER STARTER SET",
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

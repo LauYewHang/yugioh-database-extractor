@@ -1,0 +1,27 @@
+{
+    "name": "Trade-In",
+    "filename": "Trade_In",
+    "card_text": "Discard 1 Level 8 monster; draw 2 cards.",
+    "release_date": "2007-10-24",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "QUARTER CENTURY BONANZA",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "Gold Series: Maximum Gold",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "ANCIENT\u3000GUARDIANS",
+        "2-PLAYER STARTER SET",
+        "DESTINY SOLDIERS",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "STRUCTURE DECK: FIRE KINGS",
+        "TURBO PACK BOOSTER ONE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Howling Insect",
+    "filename": "Howling_Insect",
+    "card_text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Insect monster with 1500 or less ATK from your Deck.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK REVELATION Volume 3",
+        "DUELIST LEAGUE 13"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1300,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

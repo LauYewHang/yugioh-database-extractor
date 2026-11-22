@@ -1,0 +1,22 @@
+{
+    "name": "Skull Red Bird",
+    "filename": "Skull_Red_Bird",
+    "card_text": "This monster swoops down and attacks with a rain of knives stored in its wings.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "STARTER DECK KAIBA Evolution",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "STARTER DECK KAIBA"
+    ],
+    "related_card": [
+        "Crimson Sunbird"
+    ],
+    "attribute": "WIND",
+    "attack": 1550,
+    "defense": 1200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Recurring Nightmare",
+    "filename": "Recurring_Nightmare",
+    "card_text": "Target 2 DARK monsters with 0 DEF in your GY; add those targets to your hand.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER",
+        "OTS TOURNAMENT PACK 6",
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

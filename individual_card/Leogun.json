@@ -1,0 +1,18 @@
+{
+    "name": "Leogun",
+    "filename": "Leogun",
+    "card_text": "Huge monster with a lion's mane similar to the King of Beasts.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1750,
+    "defense": 1550,
+    "monster_type": "Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

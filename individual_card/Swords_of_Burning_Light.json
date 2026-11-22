@@ -1,0 +1,12 @@
+{
+    "name": "Swords of Burning Light",
+    "filename": "Swords_of_Burning_Light",
+    "card_text": "While you control no monsters, monsters your opponent controls cannot declare attacks. If you control a monster, or if your opponent has 5 or more cards in their hand, destroy this card.",
+    "release_date": "2013-06-14",
+    "available_set": [
+        "SUPER STARTER V FOR VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

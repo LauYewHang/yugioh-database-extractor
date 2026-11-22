@@ -1,0 +1,27 @@
+{
+    "name": "Buster Blader, the Dragon Destroyer Swordsman",
+    "filename": "Buster_Blader__the_Dragon_Destroyer_Swordsman",
+    "card_text": "1 \"Buster Blader\" + 1 Dragon monster\nMust be Fusion Summoned. Cannot attack directly. Gains 1000 ATK/DEF for each Dragon monster your opponent controls or is in their GY. Change all Dragon monsters your opponent controls to Defense Position, also Dragon monsters in your opponent's possession cannot activate their effects. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "Gold Series: Maximum Gold",
+        "STRUCTURE DECK : YUGI MUTO",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Buster Blader",
+        "Buster Blader, the Destruction Swordmaster",
+        "Buster Dragon",
+        "Destruction Sword Flash",
+        "Destruction Sword Memories",
+        "Karma of the Destruction Swordsman"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

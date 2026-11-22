@@ -1,0 +1,15 @@
+{
+    "name": "Destruction Punch",
+    "filename": "Destruction_Punch",
+    "card_text": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster you control, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "TOURNAMENT PACK 5",
+        "DARK BEGINNING 2",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

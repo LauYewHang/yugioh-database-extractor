@@ -1,0 +1,23 @@
+{
+    "name": "Twin Twisters",
+    "filename": "Twin_Twisters",
+    "card_text": "Discard 1 card, then target up to 2 Spells/Traps on the field; destroy them.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "LEGENDARY HERO DECKS",
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "BREAKERS OF SHADOW",
+        "OTS TOURNAMENT PACK 30",
+        "STRUCTURE DECK: ROKKET REVOLT",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "SHADOWS IN VALHALLA",
+        "OTS TOURNAMENT PACK 12",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

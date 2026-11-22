@@ -1,0 +1,34 @@
+{
+    "name": "Mediclius the Extraordinary Power Patron",
+    "filename": "Mediclius_the_Extraordinary_Power_Patron",
+    "card_text": "2+ monsters, including a Fusion, Synchro, Xyz, or Link Monster\nGains these effects based on the number of monsters it points to.\n\u25cf1+: Once per turn, during your Main Phase: You can negate the effects of all face-up monsters your opponent currently controls, also until the end of this turn, their ATK become halved.\n\u25cf2+: Unaffected by your opponent's activated effects.\n\u25cf3: Once per opponent's turn (Quick Effect): You can banish this card, also all cards your opponent controls.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Ars Magna \"Philosophorum\"",
+        "Ars Magna the Corruption and the Purification",
+        "Ars Magna the Division and the Union",
+        "Ars Magna the Finite and the Infinite",
+        "Junoldo the Shadespirit Power Patron",
+        "Jupredo the Shademachine Power Patron",
+        "Medius the Pure",
+        "Nervedo the Shadebeast Power Patron",
+        "Plundered Power Patron Plane - Vidolia",
+        "Power Patron Shade of the Final Hour",
+        "Prohibited Power Patron Portal - Terminus",
+        "Prohibitive Power Patron Purview - Vilaea",
+        "Purification Power Patron",
+        "Theorealized Medius",
+        "Vidolium the Unstable Power Patron of Unity"
+    ],
+    "attribute": "WATER",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

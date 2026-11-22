@@ -1,0 +1,22 @@
+{
+    "name": "Empowerment",
+    "filename": "Empowerment",
+    "card_text": "All Dragon, Warrior, and Spellcaster-Type monsters you control gain 300 ATK and DEF. Once per turn: You can discard 1 card; Special Summon 1 \"Empowered Warrior\" monster from your Deck. Once per turn: You can banish a total of 4 Warrior and/or Spellcaster-Type monsters from your Graveyard; add 1 \"Aether\" monster from your Deck to your hand.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Aether, the Empowering Dragon",
+        "Aether, the Evil Empowering Dragon",
+        "Arnis, the Empowered Warrior",
+        "Dragodies, the Empowered Warrior",
+        "Dragonox, the Empowered Warrior",
+        "Hydrotortoise, the Empowered Warrior",
+        "Terratiger, the Empowered Warrior",
+        "Ventdra, the Empowered Warrior"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

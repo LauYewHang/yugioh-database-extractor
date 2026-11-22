@@ -1,0 +1,42 @@
+{
+    "name": "Armed Dragon LV10",
+    "filename": "Armed_Dragon_LV10",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Armed Dragon LV7\". You can send 1 card from your hand to the GY; destroy all face-up monsters your opponent controls.",
+    "release_date": "2006-02-08",
+    "available_set": [
+        "DUELIST PACK - CHAZZ PRINCETON -",
+        "MAZE OF MUERTOS",
+        "GHOSTS FROM THE PAST",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DUEL TERMINAL 5B",
+        "OTS TOURNAMENT PACK 15"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Flash",
+        "Armed Dragon Lightning",
+        "Armed Dragon LV10 White",
+        "Armed Dragon LV7",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon Thunderbolt",
+        "Armed Neos",
+        "Level Down!?",
+        "Level Modulation",
+        "Level Up!",
+        "Ojama Pajama",
+        "Ojamatch",
+        "Pile Armed Dragon",
+        "Silent Paladin",
+        "The Graveyard in the Fourth Dimension"
+    ],
+    "attribute": "WIND",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

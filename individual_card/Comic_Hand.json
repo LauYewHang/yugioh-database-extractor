@@ -1,0 +1,22 @@
+{
+    "name": "Comic Hand",
+    "filename": "Comic_Hand",
+    "card_text": "If you control \"Toon World\", equip to an opponent's monster. Take control of it. It is treated as a Toon monster. If your opponent controls no Toon monsters, it can attack your opponent directly. If \"Toon World\" is not on the field, destroy this card.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Animimicat",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Dark-Eyes Illusionist Faceless Mage",
+        "Funny Dark Rabbit",
+        "Perfect Toon World",
+        "Toon Bookmark",
+        "Toon Kingdom",
+        "Toon World"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

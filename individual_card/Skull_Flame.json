@@ -1,0 +1,20 @@
+{
+    "name": "Skull Flame",
+    "filename": "Skull_Flame",
+    "card_text": "Once per turn, you can Special Summon 1 \"Burning Skull Head\" from your hand. You cannot conduct your Battle Phase the turn you activate this effect. You can add 1 \"Burning Skull Head\" from your Graveyard to your hand instead of conducting a normal draw in your Draw Phase.",
+    "release_date": "2009-05-19",
+    "available_set": [
+        "Yu-Gi-Oh! 5D's Wheelie Breakers Bundles"
+    ],
+    "related_card": [
+        "Burning Skull Head",
+        "Supersonic Skull Flame"
+    ],
+    "attribute": "FIRE",
+    "attack": 2600,
+    "defense": 2000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Fortune Vision",
+    "filename": "Fortune_Vision",
+    "card_text": "When this card is activated: You can add 1 \"Fortune Lady\" card from your Deck to your hand. Once per turn, if a card(s) you control is banished by card effect (except during the Damage Step): You can activate this effect; this turn, monsters you control cannot be destroyed by card effects (even if this card leaves the field). Once per turn, if a card(s) your opponent controls is banished by card effect (except during the Damage Step): You can make the next battle damage you take this turn become 0 (even if this card leaves the field). You can only activate 1 \"Fortune Vision\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Fortune Lady Calling",
+        "Fortune Lady Dark",
+        "Fortune Lady Earth",
+        "Fortune Lady Every",
+        "Fortune Lady Fire",
+        "Fortune Lady Light",
+        "Fortune Lady Past",
+        "Fortune Lady Rewind",
+        "Fortune Lady Water",
+        "Fortune Lady Wind"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

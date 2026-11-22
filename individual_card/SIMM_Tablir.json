@@ -1,0 +1,18 @@
+{
+    "name": "SIMM Tablir",
+    "filename": "SIMM_Tablir",
+    "card_text": "You can reveal this card in your hand, then target 1 Level 4 Cyberse monster in your GY; Special Summon this card from your hand to your zone a linked Link Monster you control points to, and if you do, return the targeted monster to the hand. You can only use this effect of \"SIMM Tablir\" once per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 1800,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

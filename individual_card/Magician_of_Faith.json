@@ -1,0 +1,36 @@
+{
+    "name": "Magician of Faith",
+    "filename": "Magician_of_Faith",
+    "card_text": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK LEGENDS",
+        "CHAMPION PACK GAME TWO",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "DARK BEGINNING 1",
+        "METAL RAIDERS",
+        "STRUCTURE DECK : CYBERSE LINK",
+        "STARTER DECK 2006",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "RETRO PACK",
+        "STARTER DECK JOEY",
+        "2-PLAYER STARTER SET",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STRUCTURE DECK: ORDER OF THE SPELLCASTERS",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Magician of Faithfulness"
+    ],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

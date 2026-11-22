@@ -1,0 +1,33 @@
+{
+    "name": "Krawler Soma",
+    "filename": "Krawler_Soma",
+    "card_text": "You can target 1 face-up monster you control; Special Summon this card from your hand, and if you do, change the targeted monster to face-down Defense Position, also it cannot change its battle position for the rest of this turn. During your Main Phase: You can reduce this card's Level by 2 or 4, and if you do, Special Summon \"Krawler\" monster(s) with different names from your hand, Deck, or GY whose total Levels equal the amount reduced, in face-up and/or face-down Defense Position. You can only use each effect of \"Krawler Soma\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Crusadia Krawler",
+        "Deus X-Krawler",
+        "Krawler Axon",
+        "Krawler Dendrite",
+        "Krawler Glial",
+        "Krawler Ranvier",
+        "Krawler Receptor",
+        "Krawler Spine",
+        "World Legacy in Shadow",
+        "World Legacy Pawns",
+        "World Legacy Survivor",
+        "World Legacy's Mind Meld",
+        "X-Krawler Neurogos",
+        "X-Krawler Qualiark",
+        "X-Krawler Synaphysis"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 2500,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

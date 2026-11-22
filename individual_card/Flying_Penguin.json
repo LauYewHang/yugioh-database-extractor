@@ -1,0 +1,27 @@
+{
+    "name": "Flying Penguin",
+    "filename": "Flying_Penguin",
+    "card_text": "A very rare penguin that takes to the air with ears shaped like wings.",
+    "release_date": "2002-12-20",
+    "available_set": [
+        "Promotional Cards 1"
+    ],
+    "related_card": [
+        "Nopenguin",
+        "Penguin Brave",
+        "Penguin Cleric",
+        "Penguin Ninja",
+        "Penguin Squire",
+        "Penguin Sword",
+        "Puny Penguin",
+        "Royal Penguins Garden",
+        "The Great Emperor Penguin"
+    ],
+    "attribute": "WATER",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

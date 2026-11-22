@@ -1,0 +1,25 @@
+{
+    "name": "Reptilianne Medusa",
+    "filename": "Reptilianne_Medusa",
+    "card_text": "Send 1 card from your hand to the Graveyard and select 1 face-up monster your opponent controls. The ATK of the selected monster becomes 0, and it cannot change its battle position.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Gardna",
+        "Reptilianne Hydra",
+        "Reptilianne Poison",
+        "Reptilianne Ramifications",
+        "Reptilianne Spawn",
+        "Serpent Suppression"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 800,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

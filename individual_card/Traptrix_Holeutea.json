@@ -1,0 +1,30 @@
+{
+    "name": "Traptrix Holeutea",
+    "filename": "Traptrix_Holeutea",
+    "card_text": "You can activate this card the turn it was Set, by discarding 1 Normal Trap. Special Summon this card in Defense Position as a Normal Monster (Plant/EARTH/Level 4/ATK 400/DEF 2400). (This card is NOT treated as a Trap.) You can banish this card from your GY, then target 1 \"Traptrix\" monster in your GY; Special Summon it. You can only use 1 \"Traptrix Holeutea\" effect per turn, and only once that turn.",
+    "release_date": "2023-02-24",
+    "available_set": [
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX"
+    ],
+    "related_card": [
+        "Terrifying Trap Hole Nightmare",
+        "Traptrip Garden",
+        "Traptrix Allomerus",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Atypus",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pinguicula",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

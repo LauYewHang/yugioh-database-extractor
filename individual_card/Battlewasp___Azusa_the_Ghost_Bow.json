@@ -1,0 +1,33 @@
+{
+    "name": "Battlewasp - Azusa the Ghost Bow",
+    "filename": "Battlewasp___Azusa_the_Ghost_Bow",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nWhen your opponent takes effect damage from another \"Battlewasp\" monster: You can inflict damage to your opponent equal to the original ATK of that monster. You can only use this effect of \"Battlewasp - Azusa the Ghost Bow\" once per turn. When a monster is destroyed by battle with your \"Battlewasp\" monster, while this card is in your GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Ballista the Armageddon",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Grand Partisan the Revolution",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Nest",
+        "Battlewasp - Pin the Bullseye",
+        "Battlewasp - Rapier the Onslaught",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp - Twinbow the Attacker",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 2200,
+    "defense": 1600,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

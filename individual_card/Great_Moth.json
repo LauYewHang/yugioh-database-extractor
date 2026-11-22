@@ -1,0 +1,22 @@
+{
+    "name": "Great Moth",
+    "filename": "Great_Moth",
+    "card_text": "This monster cannot be Normal Summoned or Set. This card can only be Special Summoned by Tributing \"Petit Moth\" on the 4th of your turns after \"Petit Moth\" has been equipped with \"Cocoon of Evolution\".",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Cocoon of Evolution",
+        "Petit Moth"
+    ],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": 2500,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

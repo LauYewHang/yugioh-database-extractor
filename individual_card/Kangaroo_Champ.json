@@ -1,0 +1,18 @@
+{
+    "name": "Kangaroo Champ",
+    "filename": "Kangaroo_Champ",
+    "card_text": "A monster that battles with this card is changed to Defense Position after damage calculation.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 700,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

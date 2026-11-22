@@ -1,0 +1,19 @@
+{
+    "name": "Baby Spider",
+    "filename": "Baby_Spider",
+    "card_text": "You can Tribute 1 DARK monster; increase the Levels of all \"Baby Spiders\" you currently control by the Level of that Tributed monster. You can pay half your LP, banish this card from your GY, and detach 1 material from your DARK Xyz Monster, then target 1 DARK monster in your GY; Special Summon it. You can only use each effect of \"Baby Spider\" once per turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Mother Spider Splitter"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

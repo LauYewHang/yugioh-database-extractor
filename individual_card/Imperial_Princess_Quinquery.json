@@ -1,0 +1,19 @@
+{
+    "name": "Imperial Princess Quinquery",
+    "filename": "Imperial_Princess_Quinquery",
+    "card_text": "2 Level 5 monsters\nYou can detach 1 material from this card, then target 1 Level 5 monster in either GY; Special Summon it to either field. If a face-up Level 5 monster you control is destroyed by battle, or leaves the field by an opponent's card effect, while you control this monster: You can add to your hand or Special Summon, 1 Level 5 monster from your Deck. You can only use each effect of \"Imperial Princess Quinquery\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "Justice Hunters",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 2800,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Bottom Dweller",
+    "filename": "Bottom_Dweller",
+    "card_text": "This is one sea creature whose wrath is something monsters fear to face.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Deepsea Shark"
+    ],
+    "attribute": "WATER",
+    "attack": 1650,
+    "defense": 1700,
+    "monster_type": "Fish",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

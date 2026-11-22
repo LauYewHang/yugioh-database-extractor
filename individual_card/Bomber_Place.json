@@ -1,0 +1,17 @@
+{
+    "name": "Bomber Place",
+    "filename": "Bomber_Place",
+    "card_text": "Once per Chain (Quick Effect): You can pay 600 LP, then activate 1 of these effects;\n\u25cfIf you control 6 monsters with different Levels (1, 2, 3, 4, 5, and 6): Choose 1 face-up monster your opponent controls with a Level, and destroy all other monsters your opponent controls with the same Level/Rank/Link Rating as that monster.\n\u25cfChoose 1 face-up monster you control with a Level, and destroy all of your opponent's monsters in the same column with the same Level/Rank/Link Rating as that monster.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1350,
+    "defense": 2400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Two Thousand Needles",
+    "filename": "Two_Thousand_Needles",
+    "card_text": "When this Defense Position card is attacked and the ATK of the attacking monster is lower than the DEF of this card, destroy the attacking monster at the end of the Damage Step.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 1800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

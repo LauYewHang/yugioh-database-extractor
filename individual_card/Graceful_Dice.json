@@ -1,0 +1,16 @@
+{
+    "name": "Graceful Dice",
+    "filename": "Graceful_Dice",
+    "card_text": "Roll a six-sided die. All monsters you currently control gain ATK/DEF equal to the result x 100, until the end of this turn.",
+    "release_date": "2002-10-15",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "Yu-Gi-Oh! THE ETERNAL DUELIST SOUL Bundles",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

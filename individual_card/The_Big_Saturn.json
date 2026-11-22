@@ -1,0 +1,18 @@
+{
+    "name": "The Big Saturn",
+    "filename": "The_Big_Saturn",
+    "card_text": "Cannot be Special Summoned from the hand or Deck. Once per turn: You can discard 1 card and pay 1000 LP; this card gains 1000 ATK until the end of this turn. When this card in your possession is destroyed by your opponent's card effect and sent to your GY: Both players take damage equal to this card's ATK in the GY.",
+    "release_date": "2010-02-23",
+    "available_set": [
+        "MAGNIFICENT MAESTROS",
+        "MACHINA MAYHEM STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

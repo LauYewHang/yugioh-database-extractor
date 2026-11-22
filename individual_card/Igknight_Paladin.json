@@ -1,0 +1,35 @@
+{
+    "name": "Igknight Paladin",
+    "filename": "Igknight_Paladin",
+    "card_text": "This Igknight has a reputation as a thinker with a cool head. But the truth is that his emotions just take longer to heat up.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [
+        "Igknight Burst",
+        "Igknight Cavalier",
+        "Igknight Champion",
+        "Igknight Crusader",
+        "Igknight Gallant",
+        "Igknight Lancer",
+        "Igknight Margrave",
+        "Igknight Reload",
+        "Igknight Squire",
+        "Igknight Templar",
+        "Igknight Veteran",
+        "Igknights Unite",
+        "Ignis Phoenix, the Dracoslayer",
+        "Ignition Phoenix"
+    ],
+    "attribute": "FIRE",
+    "attack": 1400,
+    "defense": 1900,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.",
+    "pendulum_scale": 2
+}

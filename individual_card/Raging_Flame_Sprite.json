@@ -1,0 +1,22 @@
+{
+    "name": "Raging Flame Sprite",
+    "filename": "Raging_Flame_Sprite",
+    "card_text": "This card can attack directly. If this card inflicts battle damage to your opponent by a direct attack: It gains 1000 ATK.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DARK REVELATION Volume 3",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "RISE OF DESTINY",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 100,
+    "defense": 200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

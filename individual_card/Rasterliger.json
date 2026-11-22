@@ -1,0 +1,17 @@
+{
+    "name": "Rasterliger",
+    "filename": "Rasterliger",
+    "card_text": "2+ monsters, except Tokens\nYou can target 1 Link Monster in either GY; this card gains ATK equal to that target's ATK until the end of this turn. You can Tribute any number of your monsters this card points to; destroy an equal number of cards on the field. You can only use each effect of \"Rasterliger\" once per turn.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 340
+}

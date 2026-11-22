@@ -1,0 +1,25 @@
+{
+    "name": "Chrysalis Pinny",
+    "filename": "Chrysalis_Pinny",
+    "card_text": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Glow Moss\" from your hand or Deck.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Cocoon Party",
+        "Cocoon Rebirth",
+        "Cocoon Veil",
+        "Contact",
+        "Neo Space",
+        "Neo-Spacian Glow Moss",
+        "Neo-Spacian Twinkle Moss"
+    ],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 700,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Black Illusion",
+    "filename": "Black_Illusion",
+    "card_text": "Until the end of this turn, all DARK Spellcaster-Type monsters with 2000 or more ATK you currently control cannot be destroyed by battle, their effects are negated, also they are unaffected by your opponent's card effects.",
+    "release_date": "2015-11-13",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

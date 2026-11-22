@@ -1,0 +1,18 @@
+{
+    "name": "Laughing Puffin",
+    "filename": "Laughing_Puffin",
+    "card_text": "If a face-up Spell/Trap is on the field: You can Special Summon this card from your hand. You can Tribute 1 Winged Beast monster, then target 1 face-up Spell/Trap on the field; return that face-up card to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name that card had once it returned to the hand. This is a Quick Effect if all monsters you control are Winged Beast monsters (min. 1). You can only use each effect of \"Laughing Puffin\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1700,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

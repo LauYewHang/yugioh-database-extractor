@@ -1,0 +1,41 @@
+{
+    "name": "Witchcrafter Walpurgis",
+    "filename": "Witchcrafter_Walpurgis",
+    "card_text": "During your Main Phase: You can add 1 \"Witchcrafter\" monster from your Deck to your hand, then discard 1 card. You can only use this effect of \"Witchcrafter Walpurgis\" once per turn. During your turn, if a \"Witchcrafter\" monster you control would discard to activate an effect, you can send 1 \"Witchcrafter\" Spell/Trap from your Deck to the GY instead, except \"Witchcrafter Walpurgis\".",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Genni, the Maid of Endymion",
+        "Verre Magic - Lacrima of Light",
+        "Verre, the Maid of Endymion",
+        "Witchcrafter Bystreet",
+        "Witchcrafter Celebration",
+        "Witchcrafter Collaboration",
+        "Witchcrafter Confusion Confession",
+        "Witchcrafter Creation",
+        "Witchcrafter Distortion",
+        "Witchcrafter Draping",
+        "Witchcrafter Edel",
+        "Witchcrafter Genni",
+        "Witchcrafter Golem Aruru",
+        "Witchcrafter Haine",
+        "Witchcrafter Holiday",
+        "Witchcrafter Madame Rilliona",
+        "Witchcrafter Madame Verre",
+        "Witchcrafter Marka",
+        "Witchcrafter Masterpiece",
+        "Witchcrafter Patronus",
+        "Witchcrafter Pittore",
+        "Witchcrafter Potterie",
+        "Witchcrafter Pupils",
+        "Witchcrafter Schmietta",
+        "Witchcrafter Scroll",
+        "Witchcrafter Terracottan",
+        "Witchcrafter Unveiling",
+        "Witchcrafter Vice-Madame"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

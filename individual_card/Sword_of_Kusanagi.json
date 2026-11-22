@@ -1,0 +1,15 @@
+{
+    "name": "Sword of Kusanagi",
+    "filename": "Sword_of_Kusanagi",
+    "card_text": "Equip only to a Spirit monster. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. When the equipped monster you control is returned to the hand and this card is sent to the GY: Return this card to your hand.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [
+        "Shinobaroness Shade Peacock"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

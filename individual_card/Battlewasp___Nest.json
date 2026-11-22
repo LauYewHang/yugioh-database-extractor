@@ -1,0 +1,26 @@
+{
+    "name": "Battlewasp - Nest",
+    "filename": "Battlewasp___Nest",
+    "card_text": "When your \"Battlewasp\" monster is targeted for an attack: Special Summon 1 \"Battlewasp\" monster from your hand or Deck, and if you do, place 1 counter on this card, then end the Battle Phase. You can only use this effect of \"Battlewasp - Nest\" once per turn. If this card has 2 or more counters during the End Phase, send it to the GY.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Ballista the Armageddon",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Grand Partisan the Revolution",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Pin the Bullseye",
+        "Battlewasp - Rapier the Onslaught",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp - Twinbow the Attacker",
+        "Battlewasp Wind"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

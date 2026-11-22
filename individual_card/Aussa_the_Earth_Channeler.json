@@ -1,0 +1,42 @@
+{
+    "name": "Aussa the Earth Channeler",
+    "filename": "Aussa_the_Earth_Channeler",
+    "card_text": "(This card is always treated as a \"Charmer\" card.)\nYou can discard this card and 1 other EARTH monster; add 1 EARTH monster from your Deck to your hand with 1850 or less ATK, whose original Type is the same as one of the discarded monsters, also you cannot activate non-EARTH monster effects for the rest of this turn. When your EARTH monster is destroyed by battle: You can Special Summon this card from your hand. You can only use each effect of \"Aussa the Earth Channeler\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "POWER OF THE ELEMENTS",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+    ],
+    "related_card": [
+        "Aussa the Earth Charmer",
+        "Aussa the Earth Charmer, Immovable",
+        "Awakening of the Possessed",
+        "Charmer Quartet in Bloom",
+        "Charmers of the Grand Circle",
+        "Dharc the Dark Charmer",
+        "Dharc the Dark Charmer, Gloomy",
+        "Eria the Water Channeler",
+        "Eria the Water Charmer",
+        "Eria the Water Charmer, Gentle",
+        "Hiita the Fire Channeler",
+        "Hiita the Fire Charmer",
+        "Hiita the Fire Charmer, Ablaze",
+        "Lyna the Light Charmer",
+        "Lyna the Light Charmer, Lustrous",
+        "Possessed Destiny",
+        "Spellbook of the Grand Circle",
+        "Spirit Charmers",
+        "Unpossessed",
+        "Wynn the Wind Channeler",
+        "Wynn the Wind Charmer",
+        "Wynn the Wind Charmer, Verdant"
+    ],
+    "attribute": "EARTH",
+    "attack": 1850,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

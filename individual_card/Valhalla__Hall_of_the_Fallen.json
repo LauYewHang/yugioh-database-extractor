@@ -1,0 +1,21 @@
+{
+    "name": "Valhalla, Hall of the Fallen",
+    "filename": "Valhalla__Hall_of_the_Fallen",
+    "card_text": "Once per turn: You can Special Summon 1 Fairy monster from your hand. You must control no monsters to activate and to resolve this effect.",
+    "release_date": "2008-07-31",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "VALIANT SMASHERS",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "Speed Duel: Battle City Box",
+        "DESTINY SOLDIERS",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "PREMIUM PACK 2"
+    ],
+    "related_card": [
+        "Hecatrice"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

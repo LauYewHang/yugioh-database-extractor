@@ -1,0 +1,22 @@
+{
+    "name": "Snatch Steal",
+    "filename": "Snatch_Steal",
+    "card_text": "Equip only to an opponent's monster. Take control of the equipped monster. Once per turn, during your opponent's Standby Phase: They gain 1000 LP.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "Phantom Revenge",
+        "DARK BEGINNING 1",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "BATTLE PACK EPIC DAWN",
+        "SPELL RULER",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

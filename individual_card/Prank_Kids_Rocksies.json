@@ -1,0 +1,34 @@
+{
+    "name": "Prank-Kids Rocksies",
+    "filename": "Prank_Kids_Rocksies",
+    "card_text": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can banish 1 card from your hand, and if you do, draw 1 card, then, you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Rocksies\". You can only use this effect of \"Prank-Kids Rocksies\" once per turn.",
+    "release_date": "2018-12-07",
+    "available_set": [
+        "SOUL FUSION SPECIAL EDITION",
+        "SAVAGE STRIKE",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Prank-Kids Battle Butler",
+        "Prank-Kids Bow-Wow-Bark",
+        "Prank-Kids Dodo-Doodle-Doo",
+        "Prank-Kids Dropsies",
+        "Prank-Kids Fansies",
+        "Prank-Kids Lampsies",
+        "Prank-Kids Meow-Meow-Mu",
+        "Prank-Kids Pandemonium",
+        "Prank-Kids Place",
+        "Prank-Kids Plan",
+        "Prank-Kids Pranks",
+        "Prank-Kids Rip-Roarin-Roaster",
+        "Prank-Kids Rocket Ride",
+        "Prank-Kids Weather Washer"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

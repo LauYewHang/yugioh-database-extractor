@@ -1,0 +1,21 @@
+{
+    "name": "Lilith, Lady of Lament",
+    "filename": "Lilith__Lady_of_Lament",
+    "card_text": "If this card is Normal Summoned, its original ATK becomes 1000. (Quick Effect): You can Tribute 1 DARK monster; reveal 3 Normal Traps from your Deck, your opponent randomly chooses 1 for you to Set on your field, and you shuffle the rest back into your Deck. You can only use this effect of \"Lilith, Lady of Lament\" once per turn.",
+    "release_date": "2018-04-20",
+    "available_set": [
+        "STRUCTURE DECK: DARK WORLD",
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "TACTICAL MASTERS"
+    ],
+    "related_card": [
+        "Alice, Lady of Lament"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

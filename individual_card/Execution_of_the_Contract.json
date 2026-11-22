@@ -1,0 +1,13 @@
+{
+    "name": "Execution of the Contract",
+    "filename": "Execution_of_the_Contract",
+    "card_text": "You can reveal 1 Ritual Monster in your hand; the equipped monster becomes the revealed monster's Level, until the end of this turn (even if this card leaves the field). If this card is sent to the GY because the equipped monster is Tributed: You can target 1 monster your opponent controls; destroy it. You can only use each effect of \"Execution of the Contract\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

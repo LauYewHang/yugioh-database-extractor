@@ -1,0 +1,13 @@
+{
+    "name": "Intimidating Ore - Summonite",
+    "filename": "Intimidating_Ore___Summonite",
+    "card_text": "Target 3 monsters in your GY; you choose 1 of the 3, then your opponent chooses 1 of the following effects, and you apply that effect.\n\u25cfSpecial Summon the chosen monster.\n\u25cfSpecial Summon as many of the other monsters as possible.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

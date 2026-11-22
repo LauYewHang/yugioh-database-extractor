@@ -1,0 +1,26 @@
+{
+    "name": "GMX Lab #5",
+    "filename": "GMX_Lab__5",
+    "card_text": "Your opponent cannot activate cards or effects when you Normal or Special Summon a \"GMX\" monster(s). During your Main Phase: You can Set 1 \"GMX\" Spell/Trap from your Deck, except \"GMX Lab #5\", then place 1 card from your hand on top of the Deck. You can only use this effect of \"GMX Lab #5\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Anti-GMX Final Experiment",
+        "Evolved Daneen",
+        "GMX - ALLOS",
+        "GMX - COMPREX",
+        "GMX - VELOX",
+        "GMX 55th Experiment Report",
+        "GMX Applied Experiment #55",
+        "GMX Associate Noma",
+        "GMX Chairman Kimridge",
+        "GMX Partner Selandea",
+        "GMX Researcher Selande",
+        "GMX Suppression Squad",
+        "Returned Dino Daneen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

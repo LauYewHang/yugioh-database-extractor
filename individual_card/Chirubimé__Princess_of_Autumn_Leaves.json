@@ -1,0 +1,19 @@
+{
+    "name": "Chirubim\u00e9, Princess of Autumn Leaves",
+    "filename": "Chirubim\u00e9__Princess_of_Autumn_Leaves",
+    "card_text": "Your opponent cannot target face-up Plant monsters for attacks, except this one. If this card in your possession is sent to your GY by your opponent's card: You can Special Summon 1 Plant monster from your Deck, except \"Chirubim\u00e9, Princess of Autumn Leaves\".",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "SECRET SLAYERS",
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 2800,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

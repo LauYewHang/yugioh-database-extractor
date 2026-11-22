@@ -1,0 +1,19 @@
+{
+    "name": "The Gross Ghost of Fled Dreams",
+    "filename": "The_Gross_Ghost_of_Fled_Dreams",
+    "card_text": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 1800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

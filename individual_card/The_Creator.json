@@ -1,0 +1,23 @@
+{
+    "name": "The Creator",
+    "filename": "The_Creator",
+    "card_text": "Cannot be Special Summoned from the Graveyard. Once per turn: You can target 1 monster in your Graveyard; send 1 card from your hand to the Graveyard, and if you do, Special Summon that target.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "ELEMENTAL ENERGY SPECIAL EDITION",
+        "DARK REVELATION Volume 3",
+        "RISE OF DESTINY",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "The Creator Incarnate"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 3000,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

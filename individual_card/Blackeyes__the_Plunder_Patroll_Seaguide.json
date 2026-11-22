@@ -1,0 +1,34 @@
+{
+    "name": "Blackeyes, the Plunder Patroll Seaguide",
+    "filename": "Blackeyes__the_Plunder_Patroll_Seaguide",
+    "card_text": "You can target 1 \"Plunder Patroll\" monster in your GY, except \"Blackeyes, the Plunder Patroll Seaguide\"; Special Summon this card from your hand, and if you do, add that monster to your hand, also you cannot Special Summon for the rest of this turn, except \"Plunder Patroll\" monsters. If this card is sent from the hand or Monster Zone to the GY: You can target 1 \"Plunder Patroll\" Monster Card in your Spell & Trap Zone; Special Summon it in Defense Position. You can only use each effect of \"Blackeyes, the Plunder Patroll Seaguide\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "Blackbeard, the Plunder Patroll Captain",
+        "Bluebeard, the Plunder Patroll Shipwright",
+        "Emblem of the Plunder Patroll",
+        "Goldenhair, the Newest Plunder Patroll",
+        "Plunder Patroll Booty",
+        "Plunder Patroll Parrrty",
+        "Plunder Patroll Shipshape Ships Shipping",
+        "Plunder Patroll Shipyarrrd",
+        "Plunder Patrollship Brann",
+        "Plunder Patrollship Jord",
+        "Plunder Patrollship Lys",
+        "Plunder Patrollship Moerk",
+        "Pride of the Plunder Patroll",
+        "Redbeard, the Plunder Patroll Matey",
+        "Whitebeard, the Plunder Patroll Helm"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

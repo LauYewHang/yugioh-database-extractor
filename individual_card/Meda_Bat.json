@@ -1,0 +1,18 @@
+{
+    "name": "Meda Bat",
+    "filename": "Meda_Bat",
+    "card_text": "An eyeball fiend created by a servant of the wicked, it uses \"Dark Blasts\" to blow away its enemies.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

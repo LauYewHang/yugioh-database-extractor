@@ -1,0 +1,22 @@
+{
+    "name": "Xyz Block",
+    "filename": "Xyz_Block",
+    "card_text": "When your opponent activates a monster effect: Detach 1 Xyz Material from a monster you control; negate the activation, and if you do, destroy that monster.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

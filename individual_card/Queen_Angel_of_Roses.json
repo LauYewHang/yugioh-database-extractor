@@ -1,0 +1,19 @@
+{
+    "name": "Queen Angel of Roses",
+    "filename": "Queen_Angel_of_Roses",
+    "card_text": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Plant monster. Once per turn, during your Standby Phase: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied).",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 1300,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

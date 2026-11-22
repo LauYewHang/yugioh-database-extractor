@@ -1,0 +1,13 @@
+{
+    "name": "Pinpoint Landing",
+    "filename": "Pinpoint_Landing",
+    "card_text": "If exactly 1 monster is Special Summoned, from the hand to your field (except during the Damage Step): You can draw 1 card. You can only use this effect of \"Pinpoint Landing\" once per turn. During your End Phase, if you have not drawn a card by this effect this turn, send this card to the GY.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "Phantom Revenge",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

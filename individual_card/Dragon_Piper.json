@@ -1,0 +1,21 @@
+{
+    "name": "Dragon Piper",
+    "filename": "Dragon_Piper",
+    "card_text": "FLIP: Destroy all face-up \"Dragon Capture Jar\"(s) on the field. If you destroy any, change all face-up Dragon-Type monsters on the field to Attack Position.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Dragon Capture Jar"
+    ],
+    "attribute": "FIRE",
+    "attack": 200,
+    "defense": 1800,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Darksea Float",
+    "filename": "Darksea_Float",
+    "card_text": "When this card on the field is destroyed by a card effect and sent to the Graveyard, the owner of this card draws 1 card.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 300,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

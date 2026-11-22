@@ -1,0 +1,13 @@
+{
+    "name": "Soul of the Pure",
+    "filename": "Soul_of_the_Pure",
+    "card_text": "Increase your Life Points by 800 points.",
+    "release_date": "2002-10-01",
+    "available_set": [
+        "DARK BEGINNING 2",
+        "TOURNAMENT PACK 2ND SEASON"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

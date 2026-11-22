@@ -1,0 +1,42 @@
+{
+    "name": "Archfiend's Ghastly Glitch",
+    "filename": "Archfiend_s_Ghastly_Glitch",
+    "card_text": "If you control a Fiend monster: Target 1 card on the field; destroy it, then, you can send 1 Fiend monster from your Deck to the GY.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "TACTICAL MASTERS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Archfiend Black Skull Dragon",
+        "Archfiend Cavalry",
+        "Archfiend Commander",
+        "Archfiend Emperor, the First Lord of Horror",
+        "Archfiend Giant",
+        "Archfiend Heiress",
+        "Archfiend Matriarch",
+        "Archfiend Palabyrinth",
+        "Archfiend Playtime",
+        "Archfiend Strategy",
+        "Archfiend's Fervor",
+        "Archfiend's Roar",
+        "Archfiend's Usurpation",
+        "Battle-Scarred",
+        "Checkmate",
+        "Darkbishop Archfiend",
+        "Duke Archfiend",
+        "Falling Down",
+        "Highness Archfiend",
+        "Infernalqueen Archfiend",
+        "Matador Archfiend",
+        "Pandemonium",
+        "Ritual of the Matador",
+        "Royal Archfiend",
+        "Skilled Red Magician",
+        "Terrorking Archfiend",
+        "Throne of the Archfiends",
+        "Vilepawn Archfiend"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

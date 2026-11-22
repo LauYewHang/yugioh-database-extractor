@@ -1,0 +1,21 @@
+{
+    "name": "Phantasm Emperor Trilojig",
+    "filename": "Phantasm_Emperor_Trilojig",
+    "card_text": "3 Level 10 monsters\nIf this card is Special Summoned, or if another monster is Special Summoned from the GY to your field while you control this monster: You can target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half its original ATK. You can only use this effect of \"Phantasm Emperor Trilojig\" once per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD",
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [
+        "Dimension Fusion Destruction",
+        "Sacred Beasts Combined Assault"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

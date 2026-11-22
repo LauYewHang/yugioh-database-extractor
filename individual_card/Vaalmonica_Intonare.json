@@ -1,0 +1,28 @@
+{
+    "name": "Vaalmonica Intonare",
+    "filename": "Vaalmonica_Intonare",
+    "card_text": "Apply 1 of these effects. Unless you have a \"Vaalmonica\" card in your Pendulum Zone, your opponent chooses the effect.\n\u25cfGain 500 LP, then if you have any monsters in your GY that can be Special Summoned, your opponent chooses 1 for you to Special Summon to your field.\n\u25cfTake 500 damage, then you can add 1 Level 4 monster from your GY to your hand.\nYou can only activate 1 \"Vaalmonica Intonare\" per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Dimonno Vaalmonica",
+        "Duralume, Vaalmonican Heathen Hallow",
+        "Selettrice Vaalmonica",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Disarmonia",
+        "Vaalmonica Ereditare",
+        "Vaalmonica Followed Rhythm",
+        "Vaalmonica Invitare",
+        "Vaalmonica Scelta",
+        "Vaalmonica Versare",
+        "Vaalmonica, the Agathokakological Voice",
+        "Varar, Vaalmonican Concord",
+        "Zebufera, Vaalmonican Hallow Heathen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

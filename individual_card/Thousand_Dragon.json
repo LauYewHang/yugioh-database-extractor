@@ -1,0 +1,29 @@
+{
+    "name": "Thousand Dragon",
+    "filename": "Thousand_Dragon",
+    "card_text": "\"Time Wizard\" + \"Baby Dragon\"",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "DARK LEGENDS",
+        "METAL RAIDERS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "RETRO PACK",
+        "STARTER DECK JOEY",
+        "DARK BEGINNING 2",
+        "MILLENNIUM PACK",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [
+        "Baby Dragon",
+        "Time Wizard"
+    ],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

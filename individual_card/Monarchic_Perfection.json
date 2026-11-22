@@ -1,0 +1,34 @@
+{
+    "name": "Monarchic Perfection",
+    "filename": "Monarchic_Perfection",
+    "card_text": "Once per Chain, if your opponent Special Summons a monster(s), and you control a Tribute Summoned monster (except during the Damage Step): You can banish 1 \"Monarch\" Spell/Trap from your GY, then activate 1 of these effects (but you can only use each effect of \"Monarchic Perfection\" once per turn);\n\u25cfDestroy 1 monster on the field.\n\u25cfDestroy up to 2 Spells/Traps on the field.\n\u25cfDiscard 1 random card from your opponent's hand.\n\u25cfDestroy 1 face-down card on the field.\n\u25cfPlace 1 card from the field on top of the Deck.\n\u25cfBanish 1 card on the field.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Domain of the True Monarchs",
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Escalation of the Monarchs",
+        "Frost Blast of the Monarchs",
+        "March of the Monarchs",
+        "Pantheism of the Monarchs",
+        "Restoration of the Monarchs",
+        "Return of the Monarchs",
+        "Strike of the Monarchs",
+        "Tenacity of the Monarchs",
+        "Tessera the Primal Squire",
+        "The First Monarch",
+        "The Monarchs Awaken",
+        "The Monarchs Erupt",
+        "The Monarchs Masterplan",
+        "The Monarchs Revolt",
+        "The Monarchs Stormforth",
+        "The Prime Monarch"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

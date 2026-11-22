@@ -1,0 +1,40 @@
+{
+    "name": "Resonator Engine",
+    "filename": "Resonator_Engine",
+    "card_text": "Target 2 \"Resonator\" monsters in your GY; add 1 Level 4 monster from your Deck to your hand, and if you do, return those targets to the Deck.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "GHOSTS FROM THE PAST",
+        "STORM OF RAGNAROK",
+        "LEGENDARY COLLECTION 5D's MEGA PACK"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Chain Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Blade Dragon",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Power Vice Dragon",
+        "Red Carpet",
+        "Red Resonator",
+        "Red Rising Dragon",
+        "Red Warg",
+        "Resonant Destruction",
+        "Resonator Call",
+        "Resonator Command",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Time to Stand Up",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Cloudcastle",
+    "filename": "Cloudcastle",
+    "card_text": "1 Tuner + 1+ non-Tuners\nWhen this card is Synchro Summoned: You can target 1 Level 9 monster in your GY; Special Summon that target. Level 8 or lower monsters cannot attack the turn they are Normal or Special Summoned.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "KING'S COURT",
+        "DUELIST ALLIANCE",
+        "LEGENDARY MODERN DECKS 2026"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 3000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

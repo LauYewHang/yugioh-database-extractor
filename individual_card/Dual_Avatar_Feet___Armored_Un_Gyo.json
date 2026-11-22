@@ -1,0 +1,30 @@
+{
+    "name": "Dual Avatar Feet - Armored Un-Gyo",
+    "filename": "Dual_Avatar_Feet___Armored_Un_Gyo",
+    "card_text": "2 \"Dual Avatar\" monsters\nIf a \"Dual Avatar\" Fusion Monster(s) you control would be destroyed by card effect, you can destroy 1 \"Dual Avatar\" monster you control instead. During the Main Phase, if you control a \"Dual Avatar\" Fusion Monster that was Fusion Summoned using an Effect Monster as material (Quick Effect): You can target 1 face-up monster Special Summoned from the Extra Deck; negate its effects until the end of this turn. You can only use this effect of \"Dual Avatar Feet - Armored Un-Gyo\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Dual Avatar - Empowered Kon-Gyo",
+        "Dual Avatar - Empowered Mitsu-Jaku",
+        "Dual Avatar - Manifested A-Un",
+        "Dual Avatar Ascendance",
+        "Dual Avatar Compact",
+        "Dual Avatar Defeating Evil",
+        "Dual Avatar Feet - Kokoku",
+        "Dual Avatar Fists - Armored Ah-Gyo",
+        "Dual Avatar Fists - Yuhi",
+        "Dual Avatar Invitation",
+        "Dual Avatar Return",
+        "Perfect Sync - A-Un"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

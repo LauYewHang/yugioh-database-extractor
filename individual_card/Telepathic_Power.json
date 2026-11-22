@@ -1,0 +1,13 @@
+{
+    "name": "Telepathic Power",
+    "filename": "Telepathic_Power",
+    "card_text": "When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster: Target the opponent's monster; destroy that target, and if you do, gain LP equal to the destroyed monster's ATK on the field.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

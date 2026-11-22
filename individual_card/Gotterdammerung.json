@@ -1,0 +1,17 @@
+{
+    "name": "Gotterdammerung",
+    "filename": "Gotterdammerung",
+    "card_text": "Target 1 \"Aesir\" monster you control; give control of that monster to your opponent. During your opponent's next End Phase, destroy that monster, and if you do, banish all cards your opponent controls.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Loki, Lord of the Aesir",
+        "Odin, Father of the Aesir",
+        "Thor, Lord of the Aesir"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

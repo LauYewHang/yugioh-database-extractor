@@ -1,0 +1,20 @@
+{
+    "name": "Blade Bounzer",
+    "filename": "Blade_Bounzer",
+    "card_text": "Once per turn, if this card attacks and your opponent controls a monster at the end of the Damage Step: You can discard 1 card; this card can attack an opponent's monster once again during this Battle Phase.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Bounzer Guard",
+        "Phantom Bounzer"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1400,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

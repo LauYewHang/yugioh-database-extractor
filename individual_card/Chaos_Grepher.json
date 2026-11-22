@@ -1,0 +1,17 @@
+{
+    "name": "Chaos Grepher",
+    "filename": "Chaos_Grepher",
+    "card_text": "While face-up on the field, this card is also DARK-Attribute. You can discard 1 LIGHT or DARK monster; send 1 LIGHT or DARK monster with a different Attribute than the discarded monster from your Deck to the GY, but for the rest of this turn, you cannot Special Summon monsters with the same name as the one sent to the GY by this effect. You can only use this effect of \"Chaos Grepher\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

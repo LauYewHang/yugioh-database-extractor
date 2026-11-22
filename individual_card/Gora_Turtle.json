@@ -1,0 +1,18 @@
+{
+    "name": "Gora Turtle",
+    "filename": "Gora_Turtle",
+    "card_text": "As long as this card remains face-up on the field, monsters with an ATK equal to 1900 or more cannot declare an attack.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK BEGINNING 2",
+        "PHARAONIC GUARDIAN"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1100,
+    "defense": 1100,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

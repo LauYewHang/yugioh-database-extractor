@@ -1,0 +1,22 @@
+{
+    "name": "Cynet Ritual",
+    "filename": "Cynet_Ritual",
+    "card_text": "This card can be used to Ritual Summon any Cyberse Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If you control no monsters: You can banish this card and 1 Ritual Monster from the GY; Special Summon 2 \"Cynet Tokens\" (Cyberse/LIGHT/Level 4/ATK 0/DEF 0). You cannot activate this effect the turn this card is sent to the GY.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Cyberse Code Magician",
+        "Cyberse Magician",
+        "Cyberse Reminder",
+        "Cyberse Sage",
+        "Cyberse Witch",
+        "Firewall Phantom",
+        "Micro Coder",
+        "Paladin of Storm Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

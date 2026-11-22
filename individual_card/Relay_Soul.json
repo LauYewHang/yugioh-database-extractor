@@ -1,0 +1,14 @@
+{
+    "name": "Relay Soul",
+    "filename": "Relay_Soul",
+    "card_text": "Special Summon 1 monster from your hand. While it is face-up on your field, you take no damage. When it leaves the field, your opponent wins the Duel.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "DRAGONS OF LEGEND"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

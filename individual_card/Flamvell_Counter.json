@@ -1,0 +1,21 @@
+{
+    "name": "Flamvell Counter",
+    "filename": "Flamvell_Counter",
+    "card_text": "When a Spell/Trap Card is activated: Banish 1 FIRE monster with 200 DEF from your GY; negate the activation, and if you do, destroy it.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "STRUCTURE DECK: FIRE KINGS",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Battlin' Boxer Uppercutter",
+        "Flamvell Archer",
+        "Flamvell Commando",
+        "Neo Flamvell Garuda",
+        "Neo Flamvell Origin",
+        "Neo Flamvell Shaman"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

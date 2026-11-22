@@ -1,0 +1,22 @@
+{
+    "name": "Battleguard King",
+    "filename": "Battleguard_King",
+    "card_text": "Once per turn: You can Tribute any number of Warrior-Type monsters, except this card; for each Tributed monster, this card gains 1 additional attack during each Battle Phase this turn.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "STAR PACK ARC-V",
+        "DEMO DECK 2016 (UK)",
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [
+        "Battleguard Cadet"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 1100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

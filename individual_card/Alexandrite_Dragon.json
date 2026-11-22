@@ -1,0 +1,26 @@
+{
+    "name": "Alexandrite Dragon",
+    "filename": "Alexandrite_Dragon",
+    "card_text": "Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
+    "release_date": "2011-11-06",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "STARTER DECK SABER FORCE (US)",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "PHOTON SHOCKWAVE",
+        "REALM OF LIGHT STRUCTURE DECK",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "STARTER DECK XYZ SYMPHONY",
+        "PHOTON SHOCKWAVE Sneak Peek",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STARTER DECK KAIBA RELOADED"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

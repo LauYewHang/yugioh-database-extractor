@@ -1,0 +1,28 @@
+{
+    "name": "Magikey Maftea",
+    "filename": "Magikey_Maftea",
+    "card_text": "Fusion Summon 1 \"Magikey\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, OR Ritual Summon 1 \"Magikey\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. If you control a Normal Monster, you can also send 1 Normal Monster from your Deck to the GY as material or Tribute.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Clavkiys, the Magikey Skyblaster",
+        "Magikey Battle",
+        "Magikey Beast - Ansyalabolas",
+        "Magikey Deity - Ashtartu",
+        "Magikey Dragon - Andrabime",
+        "Magikey Duo",
+        "Magikey Fiend - Transfurlmine",
+        "Magikey Locking",
+        "Magikey Mechmortar - Garesglasser",
+        "Magikey Mechmusket - Batosbuster",
+        "Magikey Spirit - Vepartu",
+        "Magikey Unlocking",
+        "Magikey World",
+        "Maginificent Magikey Mafteal"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

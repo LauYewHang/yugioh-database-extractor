@@ -1,0 +1,24 @@
+{
+    "name": "Max Metalmorph",
+    "filename": "Max_Metalmorph",
+    "card_text": "Tribute 1 face-up monster; Special Summon 1 monster that cannot be Normal Summoned/Set and mentions \"Max Metalmorph\" from your hand, Deck, or GY, then you can equip this card to it with the following effect.\n\u25cfThe equipped monster gains 400 ATK/DEF, it cannot be destroyed by Spell or monster effects, also your opponent cannot target it with monster effects or Spell Cards or effects.\nYou can only activate 1 \"Max Metalmorph\" per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "OTS TOURNAMENT PACK 28",
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Flame Coating Metalmorph",
+        "Incoming Machine!",
+        "Metal Illusionist",
+        "Metalflame Swordsman",
+        "Metalzoa X",
+        "Red-Eyes Black Fullmetal Dragon",
+        "Red-Eyes Metal Claws Dragon",
+        "Time Engine",
+        "Zoa the Fiendish Beast"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

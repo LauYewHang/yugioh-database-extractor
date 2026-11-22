@@ -1,0 +1,19 @@
+{
+    "name": "Obsessive Uvualoop",
+    "filename": "Obsessive_Uvualoop",
+    "card_text": "If this card is in your hand: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, Special Summon this card. If this card is in your GY: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, add this card to your hand. You can only use each effect of \"Obsessive Uvualoop\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "2-PLAYER STARTER SET",
+        "IGNITION ASSAULT",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

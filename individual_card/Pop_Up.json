@@ -1,0 +1,12 @@
+{
+    "name": "Pop-Up",
+    "filename": "Pop_Up",
+    "card_text": "If your opponent controls a card in their Field Zone and you do not: Activate 1 Field Spell Card from your Deck. You can only activate 1 \"Pop-Up\" per turn.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

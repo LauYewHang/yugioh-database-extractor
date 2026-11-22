@@ -1,0 +1,16 @@
+{
+    "name": "Ectoplasmer",
+    "filename": "Ectoplasmer",
+    "card_text": "Once per turn, during each player's End Phase: The turn player must Tribute 1 face-up monster, and if they do, inflict damage to their opponent equal to half the original ATK of the Tributed monster.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 3",
+        "STRUCTURE DECK INVINCIBLE FORTRESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Madolche Nights",
+    "filename": "Madolche_Nights",
+    "card_text": "When a monster effect is activated, if you have no monsters in your GY: Negate the activation, then if you control \"Madolche Puddingcess\", shuffle 1 random card from your opponent's hand into the Deck.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "2014 MEGA-TINS MEGA PACK",
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [
+        "Madolche Anjelly",
+        "Madolche Baaple",
+        "Madolche Butlerusk",
+        "Madolche Chateau",
+        "Madolche Chickolates",
+        "Madolche Chouxvalier",
+        "Madolche Cruffssant",
+        "Madolche Dessert",
+        "Madolche Fresh Sistart",
+        "Madolche Hootcake",
+        "Madolche Lesson",
+        "Madolche Magileine",
+        "Madolche Marmalmaide",
+        "Madolche Messengelato",
+        "Madolche Mewfeuille",
+        "Madolche Mini Meowcaroons",
+        "Madolche Petingcessoeur",
+        "Madolche Promenade",
+        "Madolche Puddingcess",
+        "Madolche Puddingcess Chocolat-a-la-Mode",
+        "Madolche Queen Tiarafraise",
+        "Madolche Queen Tiaramisu",
+        "Madolche Salon",
+        "Madolche Teacher Glassouffle",
+        "Madolche Ticket",
+        "Madolche Waltz",
+        "Madolchepalooza"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

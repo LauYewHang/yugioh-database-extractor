@@ -1,0 +1,14 @@
+{
+    "name": "Soul Drain",
+    "filename": "Soul_Drain",
+    "card_text": "Activate by paying 1000 LP. Monsters that are banished, as well as monsters in the GY, cannot activate their effects.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST",
+        "ASTRAL PACK FOUR",
+        "The Lost Art Promotion"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

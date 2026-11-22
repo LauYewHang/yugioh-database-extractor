@@ -1,0 +1,18 @@
+{
+    "name": "Eidos the Underworld Squire",
+    "filename": "Eidos_the_Underworld_Squire",
+    "card_text": "If this card is Normal or Special Summoned: During your Main Phase this turn, you can Tribute Summon 1 monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can banish this card from your GY, then target 1 monster with 800 ATK/1000 DEF in your GY, except \"Eidos the Underworld Squire\"; Special Summon it in Defense Position, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. You can only use this effect of \"Eidos the Underworld Squire\" once per turn.",
+    "release_date": "2016-01-29",
+    "available_set": [
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

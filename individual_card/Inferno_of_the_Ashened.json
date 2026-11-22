@@ -1,0 +1,21 @@
+{
+    "name": "Inferno of the Ashened",
+    "filename": "Inferno_of_the_Ashened",
+    "card_text": "When this card is activated: You can place 1 \"Obsidim, the Ashened City\" from your Deck, face-up in either Field Zone. You can target 1 face-up card your opponent controls and 1 Level 8 or higher DARK Pyro monster in your GY; send that card on the field to the GY, and if you do, Special Summon that other monster from your GY to your opponent's field in Defense Position. You can only use this effect of \"Inferno of the Ashened\" once per turn. You can only activate 1 \"Inferno of the Ashened\" per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Ashened for Eternity",
+        "King of the Ashened City",
+        "Obsidim, the Ashened City",
+        "Priestess of the Ashened City",
+        "Rekindling the Ashened",
+        "Shaman of the Ashened City",
+        "Veidos the Dragon of Endless Darkness",
+        "Veidos the Eruption Dragon of Extinction"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

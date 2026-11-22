@@ -1,0 +1,35 @@
+{
+    "name": "Hysteric Party",
+    "filename": "Hysteric_Party",
+    "card_text": "Activate this card by discarding 1 card; Special Summon as many copies of \"Harpie Lady\" as possible from your GY. When this face-up card leaves the field, destroy those monsters.",
+    "release_date": "2006-07-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "ASTRAL PACK TWO",
+        "DUELIST PACK - BATTLE CITY -",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY DUELISTS: SEASON 2"
+    ],
+    "related_card": [
+        "Cyber Harpie Lady",
+        "Cyber Slash Harpie Lady",
+        "Harpie Channeler",
+        "Harpie Conductor",
+        "Harpie Dancer",
+        "Harpie Harpist",
+        "Harpie Lady",
+        "Harpie Lady 1",
+        "Harpie Lady 2",
+        "Harpie Lady 3",
+        "Harpie Lady Elegance",
+        "Harpie Lady Phoenix Formation",
+        "Harpie Lady Sisters",
+        "Harpie Oracle",
+        "Harpie Perfumer",
+        "Harpie Queen",
+        "Toon Harpie Lady"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

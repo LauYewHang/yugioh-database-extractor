@@ -1,0 +1,30 @@
+{
+    "name": "Arcana Force XVIII - The Moon",
+    "filename": "Arcana_Force_XVIII___The_Moon",
+    "card_text": "If this card is Summoned: Toss a coin.\n\u25cfHeads: Once per turn, during your Standby Phase: You can Special Summon 1 \"Moon Token\" (Fairy/LIGHT/Level 1/ATK 0/DEF 0).\n\u25cfTails: Once per turn, during your End Phase: Target 1 monster you control; give control of it to your opponent.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Arcana Call",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Reading",
+        "Arcana Spread",
+        "Light Barrier",
+        "Light Force",
+        "Reversal of Fate"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

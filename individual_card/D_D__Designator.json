@@ -1,0 +1,15 @@
+{
+    "name": "D.D. Designator",
+    "filename": "D_D__Designator",
+    "card_text": "Declare 1 card name. Look at your opponent's hand, and if they have the declared card in their hand, banish that 1 card. If they do not have the declared card in their hand, banish 1 random card in your hand.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "2025 MEGA-PACK TIN",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

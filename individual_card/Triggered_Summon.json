@@ -1,0 +1,13 @@
+{
+    "name": "Triggered Summon",
+    "filename": "Triggered_Summon",
+    "card_text": "Activate only when a monster is Special Summoned to your opponent's side of the field. Each player can Special Summon 1 Level 4 or lower monster from their hand.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER",
+        "DUELIST PACK - JESSE ANDERSON -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

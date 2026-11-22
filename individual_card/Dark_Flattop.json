@@ -1,0 +1,25 @@
+{
+    "name": "Dark Flattop",
+    "filename": "Dark_Flattop",
+    "card_text": "1 DARK Tuner + 1 or more non-Tuner Machine-Type monsters\nOnce per turn: You can target 1 \"Reactor\" monster or \"Flying Fortress SKY FIRE\" in your Graveyard; Special Summon that target, ignoring its Summoning conditions. If this card is destroyed and sent to the Graveyard: You can Special Summon 1 Level 5 or lower Machine-Type monster from your hand.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Ancient Gear Reactor Dragon",
+        "Flying Fortress SKY FIRE",
+        "Psychic Reactor",
+        "Reactor Slime",
+        "Spell Reactor \u30fbRE",
+        "Summon Reactor \u30fbSK",
+        "Trap Reactor \u30fbY FI"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 3000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

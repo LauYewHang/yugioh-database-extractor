@@ -1,0 +1,13 @@
+{
+    "name": "That Grass Looks Greener",
+    "filename": "That_Grass_Looks_Greener",
+    "card_text": "If you have more cards in your Deck than your opponent does: Send cards from the top of your Deck to the GY so you have the same number of cards in the Deck as your opponent.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

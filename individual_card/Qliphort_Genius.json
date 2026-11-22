@@ -1,0 +1,35 @@
+{
+    "name": "Qliphort Genius",
+    "filename": "Qliphort_Genius",
+    "card_text": "2 Machine monsters\nThis Link Summoned card is unaffected by Spell/Trap effects and the activated effects of other Link Monsters. Once per turn: You can target 1 face-up card on each player's field, except this card; both those cards have their effects negated until the end of this turn. When 2 monsters are Special Summoned at the same time to the zones this card points to: You can add 1 Level 5 or higher Machine monster from your Deck to your hand.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "DUEL POWER",
+        "EXTREME FORCE"
+    ],
+    "related_card": [
+        "Apoqliphort Skybase",
+        "Apoqliphort Towers",
+        "Laser Qlip",
+        "Qlife's End",
+        "Qlimate Change",
+        "Qliphort Carrier",
+        "Qliphort Cephalopod",
+        "Qliphort Disk",
+        "Qliphort Helix",
+        "Qliphort Monolith",
+        "Qliphort Scout",
+        "Qliphort Shell",
+        "Qliphort Stealth",
+        "Qlipper Launch",
+        "Re-qliate",
+        "Saqlifice"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

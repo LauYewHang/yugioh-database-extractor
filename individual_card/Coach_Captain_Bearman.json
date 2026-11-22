@@ -1,0 +1,20 @@
+{
+    "name": "Coach Captain Bearman",
+    "filename": "Coach_Captain_Bearman",
+    "card_text": "Cannot be used as material for an Xyz Summon, except for the Xyz Summon of a FIRE Warrior monster. You can Normal Summon this card without Tributing, but its original ATK becomes 1300. Once per turn: You can make all Level 4 Beast-Warrior monsters you currently control become Level 8 until the end of this turn.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: FIRE KINGS",
+        "JUDGMENT OF THE LIGHT",
+        "OTS TOURNAMENT PACK 4"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2600,
+    "defense": 2700,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

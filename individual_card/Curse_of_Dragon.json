@@ -1,0 +1,29 @@
+{
+    "name": "Curse of Dragon",
+    "filename": "Curse_of_Dragon",
+    "card_text": "A wicked dragon that taps into dark forces to execute a powerful attack.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "DARK LEGENDS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK BEGINNING 1",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "RETRO PACK",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight of Dragons",
+        "Sky Galloping Gaia the Dragon Champion"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

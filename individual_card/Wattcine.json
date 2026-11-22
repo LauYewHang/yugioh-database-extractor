@@ -1,0 +1,27 @@
+{
+    "name": "Wattcine",
+    "filename": "Wattcine",
+    "card_text": "When a Thunder-Type monster you control inflicts Battle Damage to your opponent, gain Life Points equal to the damage inflicted.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [
+        "Wattcancel",
+        "Wattcastle",
+        "Wattchimera",
+        "Wattcobra",
+        "Wattdragonfly",
+        "Watthopper",
+        "Watthydra",
+        "Wattkeeper",
+        "Wattkey",
+        "Wattkingdom",
+        "Wattkiwi",
+        "Wattkyuki",
+        "Wattrain",
+        "Wattuna"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

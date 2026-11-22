@@ -1,0 +1,19 @@
+{
+    "name": "Gnomaterial",
+    "filename": "Gnomaterial",
+    "card_text": "If your opponent Special Summons a monster(s) while you control no cards: You can discard this card, then target 1 face-up monster your opponent controls; this turn, that monster cannot be Tributed, or used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use this effect of \"Gnomaterial\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES",
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

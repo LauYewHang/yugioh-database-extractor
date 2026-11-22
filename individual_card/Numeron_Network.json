@@ -1,0 +1,27 @@
+{
+    "name": "Numeron Network",
+    "filename": "Numeron_Network",
+    "card_text": "During your Main Phase, send 1 \"Numeron\" Normal Spell Card that meets its activation conditions from your Deck to the GY; this effect becomes that Spell's effect when that card is activated. You can only use this effect of \"Numeron Network\" once per turn. \"Numeron\" Xyz Monsters you control can activate effects without detaching material(s).",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Number 100: Numeron Dragon",
+        "Number 1: Numeron Gate Ekam",
+        "Number 2: Numeron Gate Dve",
+        "Number 3: Numeron Gate Trini",
+        "Number 4: Numeron Gate Catvari",
+        "Number C1: Numeron Chaos Gate Sunya",
+        "Numeron Calling",
+        "Numeron Chaos Ritual",
+        "Numeron Creation",
+        "Numeron Storm",
+        "Numeron Wall",
+        "Rank-Down-Magic Numeron Fall",
+        "Rank-Up-Magic Numeron Force"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Phantasm Spiral Crash",
+    "filename": "Phantasm_Spiral_Crash",
+    "card_text": "Equip only to a Normal Monster. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. When the equipped monster inflicts battle damage to your opponent: You can Special Summon 1 \"Phantasm Spiral Dragon\" from your hand, Deck, or Graveyard, and equip it with this card, then you can change 1 Attack Position monster your opponent controls to Defense Position. You can only use this effect of \"Phantasm Spiral Crash\" once per turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Pacifis, the Phantasm City",
+        "Phantasm Spiral Assault",
+        "Phantasm Spiral Battle",
+        "Phantasm Spiral Dragon",
+        "Phantasm Spiral Power"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

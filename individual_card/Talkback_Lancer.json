@@ -1,0 +1,32 @@
+{
+    "name": "Talkback Lancer",
+    "filename": "Talkback_Lancer",
+    "card_text": "1 Level 2 or lower Cyberse monster\nYou can Tribute 1 other Cyberse monster, then target 1 \"Code Talker\" monster in your GY with a different original name from that monster; Special Summon it to your zone this card points to. You can only use this effect of \"Talkback Lancer\" once per turn.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Accesscode Talker",
+        "Allied Code Talker @Ignister",
+        "Code Talker",
+        "Code Talker Inverted",
+        "Decode Talker",
+        "Decode Talker Extended",
+        "Decode Talker Heatsoul",
+        "Decode Talker Integration",
+        "Encode Talker",
+        "Excode Talker",
+        "Powercode Talker",
+        "Protectcode Talker",
+        "Shootingcode Talker",
+        "Transcode Talker"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 4
+}

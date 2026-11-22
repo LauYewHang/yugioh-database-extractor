@@ -1,0 +1,24 @@
+{
+    "name": "Flamvell Fiend",
+    "filename": "Flamvell_Fiend",
+    "card_text": "When this card inflicts Battle Damage to your opponent, inflict 200 damage to your opponent for each Pyro-Type monster in your Graveyard.",
+    "release_date": "2010-01-29",
+    "available_set": [
+        "DUEL TERMINAL 1",
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [
+        "Flamvell Archer",
+        "Flamvell Commando",
+        "Neo Flamvell Garuda",
+        "Neo Flamvell Origin",
+        "Neo Flamvell Shaman"
+    ],
+    "attribute": "FIRE",
+    "attack": 2100,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

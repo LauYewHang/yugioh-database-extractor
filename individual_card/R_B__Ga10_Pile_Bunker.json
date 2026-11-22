@@ -1,0 +1,31 @@
+{
+    "name": "R.B. Ga10 Pile Bunker",
+    "filename": "R_B__Ga10_Pile_Bunker",
+    "card_text": "If you control no face-up monsters, or the only face-up monsters you control are \"R.B.\" monsters, you can Special Summon this card (from your hand). You can only Special Summon \"R.B. Ga10 Pile Bunker\" once per turn this way. When an attack is declared involving an opponent's monster and \"R.B. The Brute Blues\" that points to this card: You can pay 1500 LP; destroy all cards your opponent controls and this card. You can only use this effect of \"R.B. Ga10 Pile Bunker\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "R.B. Funk Dock",
+        "R.B. Ga10 Cutter",
+        "R.B. Ga10 Driller",
+        "R.B. Lambda Blade",
+        "R.B. Lambda Cannon",
+        "R.B. Last Stand",
+        "R.B. Next Phase",
+        "R.B. Operation Test",
+        "R.B. Shepherd's Crook",
+        "R.B. Stage Landing",
+        "R.B. The Brute Blues",
+        "R.B. VALCan Booster",
+        "R.B. VALCan Rocket"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

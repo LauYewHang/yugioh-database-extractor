@@ -1,0 +1,18 @@
+{
+    "name": "Psychic Rover",
+    "filename": "Psychic_Rover",
+    "card_text": "If this card is Special Summoned: You can roll a six-sided die, and if you roll a 1 or 6, destroy up to 2 cards on the field. If this card is sent to the GY: You can roll a six-sided die, and if you roll a 2, 3, 4, or 5, Special Summon this card. The player who Summoned it cannot Special Summon from the Extra Deck, while it is face-up in the Monster Zone.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 700,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Oily Cicada",
+    "filename": "Oily_Cicada",
+    "card_text": "If this card is Normal or Special Summoned: You can reduce the Levels of all Insect monsters you currently control by 1. If the battle position of this card is changed: You can Special Summon 1 \"Oily Cicada\" from your hand, Deck, or GY. You can only use each effect of \"Oily Cicada\" once per turn.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

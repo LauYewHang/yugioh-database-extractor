@@ -1,0 +1,19 @@
+{
+    "name": "The Unhappy Maiden",
+    "filename": "The_Unhappy_Maiden",
+    "card_text": "When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

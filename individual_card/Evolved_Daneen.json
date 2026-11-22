@@ -1,0 +1,31 @@
+{
+    "name": "Evolved Daneen",
+    "filename": "Evolved_Daneen",
+    "card_text": "\"Returned Dino Daneen\" + 1 Dinosaur monster\nIf this card is Special Summoned: You can add 1 \"GMX\" card from your Deck to your hand. You can only use this effect of \"Evolved Daneen\" once per turn. If you excavate a card(s) by a \"GMX\" card effect: You can activate the following effect, based on where this card is at activation (but you can only use each effect of \"Evolved Daneen\" once per turn);\n\u25cfField: Gain 1500 LP.\n\u25cfGY: Special Summon this card.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Anti-GMX Final Experiment",
+        "GMX - ALLOS",
+        "GMX - COMPREX",
+        "GMX - VELOX",
+        "GMX 55th Experiment Report",
+        "GMX Applied Experiment #55",
+        "GMX Associate Noma",
+        "GMX Chairman Kimridge",
+        "GMX Lab #5",
+        "GMX Partner Selandea",
+        "GMX Researcher Selande",
+        "GMX Suppression Squad",
+        "Returned Dino Daneen"
+    ],
+    "attribute": "WATER",
+    "attack": 2400,
+    "defense": 1200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Sloppy Stasher Squirrel",
+    "filename": "Sloppy_Stasher_Squirrel",
+    "card_text": "During the Main Phase (Quick Effect): You can target up to 3 Spells/Traps in your GY; banish them, and if you do, shuffle them into the Deck during the End Phase of the next turn. During your Standby Phase: You can target 1 of your banished Spells/Traps; Set it. You can only use each effect of \"Sloppy Stasher Squirrel\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 200,
+    "defense": 100,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

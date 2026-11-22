@@ -1,0 +1,29 @@
+{
+    "name": "The Weather Rainbowed Canvas",
+    "filename": "The_Weather_Rainbowed_Canvas",
+    "card_text": "You can only control 1 \"The Weather Rainbowed Canvas\". \"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\n\u25cfIf your opponent controls a monster (Quick Effect): You can banish this card; Special Summon 1 \"The Weather\" monster with a different name from your Deck, also you cannot Special Summon other monsters from the Deck for the rest of this turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "The Weather Auroral Canvas",
+        "The Weather Cloudy Canvas",
+        "The Weather Forecast",
+        "The Weather Painter Aurora",
+        "The Weather Painter Cloud",
+        "The Weather Painter Moonbow",
+        "The Weather Painter Rain",
+        "The Weather Painter Rainbow",
+        "The Weather Painter Snow",
+        "The Weather Painter Sun",
+        "The Weather Painter Thunder",
+        "The Weather Rainy Canvas",
+        "The Weather Snowy Canvas",
+        "The Weather Sunny Canvas",
+        "The Weather Thundery Canvas"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

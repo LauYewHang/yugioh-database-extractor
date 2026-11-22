@@ -1,0 +1,12 @@
+{
+    "name": "Enma's Judgment",
+    "filename": "Enma_s_Judgment",
+    "card_text": "When your opponent Special Summons a monster(s): Destroy it, then you can banish 5 Zombie monsters from your GY, and if you do, Special Summon 1 Level 7 or higher Zombie monster from your hand or Deck.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

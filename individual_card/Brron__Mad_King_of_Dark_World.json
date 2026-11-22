@@ -1,0 +1,37 @@
+{
+    "name": "Brron, Mad King of Dark World",
+    "filename": "Brron__Mad_King_of_Dark_World",
+    "card_text": "When this card inflicts battle damage to your opponent: You can discard 1 card.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "ELEMENTAL ENERGY",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STRUCTURE DECK: DARK WORLD",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "Ceruli, Guru of Dark World",
+        "Dark Corridor",
+        "Dark World Accession",
+        "Dark World Archives",
+        "Dark World Brainwashing",
+        "Dark World Punishment",
+        "Gateway to Dark World",
+        "Genta, Gateman of Dark World",
+        "Grapha, Dragon Lord of Dark World",
+        "Parl, Hermit of Dark World",
+        "Reign-Beaux, Overking of Dark World",
+        "Scarr, Scout of Dark World",
+        "Snoww, Unlight of Dark World",
+        "The Forces of Darkness"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

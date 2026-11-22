@@ -1,0 +1,12 @@
+{
+    "name": "Space Cyclone",
+    "filename": "Space_Cyclone",
+    "card_text": "Detach 1 Xyz Material from a monster.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

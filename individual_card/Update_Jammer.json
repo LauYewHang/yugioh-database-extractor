@@ -1,0 +1,18 @@
+{
+    "name": "Update Jammer",
+    "filename": "Update_Jammer",
+    "card_text": "2 Level 2 or higher Cyberse monsters\nOnce per battle, during damage calculation, if your Cyberse monster battles (Quick Effect): You can activate this effect; negate all other card effects on the field until the end of the Damage Step, damage calculation for this battle uses each monster's original ATK/DEF, also if an opponent's monster is destroyed by this battle and sent to the GY, inflict 1000 damage to your opponent. If this card is sent to the GY as Link Material: That Link Monster can make a second attack during each Battle Phase this turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "GHOSTS FROM THE PAST",
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 272
+}

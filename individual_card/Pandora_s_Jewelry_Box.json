@@ -1,0 +1,20 @@
+{
+    "name": "Pandora's Jewelry Box",
+    "filename": "Pandora_s_Jewelry_Box",
+    "card_text": "While you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "While you have no cards in your Extra Deck: You can target 1 card in your opponent's Pendulum Zone; destroy it, and if you do, place this card in your opponent's Pendulum Zone.",
+    "pendulum_scale": 4
+}

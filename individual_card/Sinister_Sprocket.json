@@ -1,0 +1,17 @@
+{
+    "name": "Sinister Sprocket",
+    "filename": "Sinister_Sprocket",
+    "card_text": "If this card is sent to the Graveyard for the Synchro Summon of a DARK Synchro Monster, you can destroy 1 face-up Spell or Trap Card.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 400,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

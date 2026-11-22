@@ -1,0 +1,24 @@
+{
+    "name": "Ice Master",
+    "filename": "Ice_Master",
+    "card_text": "You can Special Summon this card (from your hand) by Tributing 2 WATER monsters. Once per turn: You can target 1 face-up monster on the field; place an Ice Counter on that target. You can Tribute this card; destroy all monsters with an Ice Counter(s).",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Cold Enchanter",
+        "Snow Dragon",
+        "Snowdust Dragon",
+        "Snowdust Giant",
+        "Snowman Creator"
+    ],
+    "attribute": "WATER",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

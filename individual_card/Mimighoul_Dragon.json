@@ -1,0 +1,33 @@
+{
+    "name": "Mimighoul Dragon",
+    "filename": "Mimighoul_Dragon",
+    "card_text": "FLIP: If it is the Main Phase: Apply these effects in sequence.\n\u25cfDestroy all face-up monsters you control, except \"Mimighoul\" monsters.\n\u25cfGive control of this card to your opponent.\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position. If this card is Normal or Special Summoned: You can add 1 \"Mimighoul\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Mimighoul Dragon\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Giant Mimighoul",
+        "Mimighoul Archfiend",
+        "Mimighoul Armor",
+        "Mimighoul Cerberus",
+        "Mimighoul Charm",
+        "Mimighoul Dungeon",
+        "Mimighoul Fairy",
+        "Mimighoul Flower",
+        "Mimighoul Fork",
+        "Mimighoul Maker",
+        "Mimighoul Master",
+        "Mimighoul Room",
+        "Mimighoul Slime",
+        "Mimighoul Throne"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

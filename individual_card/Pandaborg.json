@@ -1,0 +1,17 @@
+{
+    "name": "Pandaborg",
+    "filename": "Pandaborg",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard, you can pay 800 Life Points to Special Summon 1 Level 4 Psychic-Type monster from your Deck.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1700,
+    "defense": 1400,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

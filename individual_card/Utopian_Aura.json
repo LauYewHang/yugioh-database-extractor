@@ -1,0 +1,14 @@
+{
+    "name": "Utopian Aura",
+    "filename": "Utopian_Aura",
+    "card_text": "Detach 1 material from a monster you control; face-up Xyz Monsters you currently control cannot be destroyed by card effects until the end of this turn.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "OTS TOURNAMENT PACK 17",
+        "SUPER STARTER V FOR VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

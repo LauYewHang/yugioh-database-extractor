@@ -1,0 +1,29 @@
+{
+    "name": "Gunkan Suship Ikura-class Dreadnought",
+    "filename": "Gunkan_Suship_Ikura_class_Dreadnought",
+    "card_text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can apply these effects, in sequence, based on the materials used. You can only use this effect of \"Gunkan Suship Ikura-class Dreadnought\" once per turn.\n\u25cf\"Gunkan Suship Shari\": Draw 1 card.\n\u25cf\"Gunkan Suship Ikura\": This card can make a second attack during each Battle Phase.\nOnce per turn, when your \"Gunkan\" monster Special Summoned from the Extra Deck inflicts battle damage to your opponent: You can target 1 card your opponent controls; destroy it.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Gunkan Suship Catch-of-the-Day",
+        "Gunkan Suship Daily Special",
+        "Gunkan Suship Ikura",
+        "Gunkan Suship Shari",
+        "Gunkan Suship Shari Red",
+        "Gunkan Suship Shirauo",
+        "Gunkan Suship Shirauo-class Carrier",
+        "Gunkan Suship Uni",
+        "Gunkan Suship Uni-class Super-Dreadnought",
+        "Gunkan Sushipyard Seaside Supper Spot"
+    ],
+    "attribute": "FIRE",
+    "attack": 2200,
+    "defense": 300,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

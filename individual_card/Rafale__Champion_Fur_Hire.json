@@ -1,0 +1,41 @@
+{
+    "name": "Rafale, Champion Fur Hire",
+    "filename": "Rafale__Champion_Fur_Hire",
+    "card_text": "If this card is Special Summoned: You can excavate the top cards of your Deck equal to the number of monsters \"Fur Hire\" you control with different names, except \"Rafale, Champion Fur Hire\", and if you do, add 1 of them to your hand, also shuffle the rest back into your Deck. When your opponent activates a monster effect (Quick Effect): You can discard 1 card \"Fur Hire\"; negate the activation. You can only use each effect of \"Rafale, Champion Fur Hire\" once per turn.",
+    "release_date": "2018-05-25",
+    "available_set": [
+        "DARK SAVIORS",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Beat, Bladesman Fur Hire",
+        "Bravo, Fighter Fur Hire",
+        "Donner, Dagger Fur Hire",
+        "Donpa, Marksman Fur Hire",
+        "Dyna, Hero Fur Hire",
+        "Fandora, the Flying Fighting Furtress",
+        "Fandora, the Flying Furtress",
+        "Filo, Messenger Fur Hire",
+        "Folgo, Justice Fur Hire",
+        "Furtive Techniques Fur Hire, Fur All Your Ultimate Moves",
+        "Helmer, Helmsman Fur Hire",
+        "Keel, Shipwright Fur Hire",
+        "Mayhem Fur Hire",
+        "Recon, Scout Fur Hire",
+        "Rex, Freight Fur Hire",
+        "Rex, Ride Fur Hire",
+        "Rookie Fur Hire",
+        "Sagitta, Maverick Fur Hire",
+        "Seal, Strategist Fur Hire",
+        "Training Fur Hire, Fur All Your Training Needs",
+        "Whirlwind Fur Hire",
+        "Wiz, Sage Fur Hire"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

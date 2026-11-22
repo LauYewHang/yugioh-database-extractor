@@ -1,0 +1,12 @@
+{
+    "name": "Magic Gate of Miracles",
+    "filename": "Magic_Gate_of_Miracles",
+    "card_text": "If you control 2 or more Spellcaster monsters: Change 1 Attack Position monster your opponent controls to Defense Position, then take control of it, and if you do, it cannot be destroyed by battle.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

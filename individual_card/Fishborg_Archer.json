@@ -1,0 +1,20 @@
+{
+    "name": "Fishborg Archer",
+    "filename": "Fishborg_Archer",
+    "card_text": "If this card is in your Graveyard and you control no monsters during either of your Main Phases: You can discard 1 WATER monster; Special Summon this card from your Graveyard, but destroy all monsters you control at the beginning of this turn's Battle Phase, except for WATER monsters. You can only use the effect of \"Fishborg Archer\" once per turn.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Fishborg Doctor"
+    ],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 300,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

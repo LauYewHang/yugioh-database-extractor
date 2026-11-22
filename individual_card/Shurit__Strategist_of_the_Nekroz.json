@@ -1,0 +1,43 @@
+{
+    "name": "Shurit, Strategist of the Nekroz",
+    "filename": "Shurit__Strategist_of_the_Nekroz",
+    "card_text": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. If this card is Tributed by a card effect: You can add 1 Warrior \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "DUEL POWER",
+        "QUARTER CENTURY BONANZA",
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Divinemirror",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Brionac",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

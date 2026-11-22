@@ -1,0 +1,33 @@
+{
+    "name": "Reptilianne Spawn",
+    "filename": "Reptilianne_Spawn",
+    "card_text": "Banish 1 \"Reptilianne\" monster from your GY; Special Summon 2 \"Reptilianne Tokens\" (Reptile/EARTH/Level 1/ATK 0/DEF 0).",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Echidna",
+        "Reptilianne Gardna",
+        "Reptilianne Gorgon",
+        "Reptilianne Hydra",
+        "Reptilianne Lamia",
+        "Reptilianne Medusa",
+        "Reptilianne Melusine",
+        "Reptilianne Naga",
+        "Reptilianne Nyami",
+        "Reptilianne Poison",
+        "Reptilianne Rage",
+        "Reptilianne Ramifications",
+        "Reptilianne Recoil",
+        "Reptilianne Scylla",
+        "Reptilianne Servant",
+        "Reptilianne Vaskii",
+        "Reptilianne Viper",
+        "Serpent Suppression"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

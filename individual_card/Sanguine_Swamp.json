@@ -1,0 +1,12 @@
+{
+    "name": "Sanguine Swamp",
+    "filename": "Sanguine_Swamp",
+    "card_text": "If you control any other Spell or Trap Cards, destroy this card. Face-down Spell and Trap Cards cannot be activated. Destroy this card during your 2nd Standby Phase after activation.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

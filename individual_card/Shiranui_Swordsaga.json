@@ -1,0 +1,28 @@
+{
+    "name": "Shiranui Swordsaga",
+    "filename": "Shiranui_Swordsaga",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nYou can only Special Summon \"Shiranui Swordsaga(s)\" once per turn. If this card is Special Summoned: You can target 1 monster on the field; change its battle position. If this card is banished: You can Special Summon 1 \"Shiranui Token\" (Zombie/FIRE/Level 1/ATK 0/DEF 0). You can only use this effect of \"Shiranui Swordsaga\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster"
+    ],
+    "attribute": "FIRE",
+    "attack": 1900,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

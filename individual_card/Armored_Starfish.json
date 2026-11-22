@@ -1,0 +1,18 @@
+{
+    "name": "Armored Starfish",
+    "filename": "Armored_Starfish",
+    "card_text": "A bluish starfish with a solid hide capable of fending off attacks.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 850,
+    "defense": 1400,
+    "monster_type": "Aqua",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

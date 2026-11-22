@@ -1,0 +1,36 @@
+{
+    "name": "Subterror Behemoth Fiendess",
+    "filename": "Subterror_Behemoth_Fiendess",
+    "card_text": "2 Flip monsters\nGains ATK equal to the combined original Levels of the \"Subterror\" monsters used for its Link Summon x 100. During your Main Phase: You can send 1 Flip monster from your Deck to the GY, and if you do, Special Summon 1 monster from your hand in face-down Defense Position to your zone this card points to. You can only use this effect of \"Subterror Behemoth Fiendess\" once per turn. Once per turn, if a monster this card points to is flipped face-up: Add 1 Flip monster from your Deck or GY to your hand.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [
+        "Subterror Behemoth Burrowing",
+        "Subterror Behemoth Dragossuary",
+        "Subterror Behemoth Phospheroglacier",
+        "Subterror Behemoth Speleogeist",
+        "Subterror Behemoth Stalagmo",
+        "Subterror Behemoth Stygokraken",
+        "Subterror Behemoth Ultramafus",
+        "Subterror Behemoth Umastryx",
+        "Subterror Behemoth Voltelluric",
+        "Subterror Cave Clash",
+        "Subterror Fiendess",
+        "Subterror Final Battle",
+        "Subterror Guru",
+        "Subterror Nemesis Archer",
+        "Subterror Nemesis Defender",
+        "Subterror Nemesis Warrior",
+        "Subterror Succession",
+        "The Hidden City"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": null,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Cloudian Aerosol",
+    "filename": "Cloudian_Aerosol",
+    "card_text": "Discard 1 \"Cloudian\" monster, then target 1 face-up monster on the field; place Fog Counters on that target equal to its Level. You can banish this card and 1 \"Cloudian\" monster from your GY; Special Summon 1 \"Cloudian\" monster from your Deck. You can only use 1 \"Cloudian Aerosol\" effect per turn, and only once that turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+    ],
+    "related_card": [
+        "Cloudian - Acid Cloud",
+        "Cloudian - Altus",
+        "Cloudian - Cirrostratus",
+        "Cloudian - Eye of the Typhoon",
+        "Cloudian - Ghost Fog",
+        "Cloudian - Nimbusman",
+        "Cloudian - Poison Cloud",
+        "Cloudian - Sheep Cloud",
+        "Cloudian - Smoke Ball",
+        "Cloudian - Storm Dragon",
+        "Cloudian - Turbulence",
+        "Cloudian Squall",
+        "Diamond-Dust Cyclone",
+        "Fog Control",
+        "Raging Cloudian",
+        "Updraft"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

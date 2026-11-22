@@ -1,0 +1,23 @@
+{
+    "name": "Power Tool Braver Dragon",
+    "filename": "Power_Tool_Braver_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can equip up to 3 Equip Spells with different names from your Deck and/or GY to this card. During the Main Phase (Quick Effect): You can send 1 of your Equip Spells equipped to this card to the GY, then target 1 Effect Monster on the field; either change its battle position, or until the end of this turn, negate its effects. You can only use each effect of \"Power Tool Braver Dragon\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Duel Link Dragon, the Duel Dragon",
+        "Gathering Light",
+        "Life Extreme",
+        "Revolution Synchron",
+        "Ultimaya Tzolkin"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2300,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

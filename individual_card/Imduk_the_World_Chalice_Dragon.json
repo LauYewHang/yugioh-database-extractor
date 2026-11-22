@@ -1,0 +1,33 @@
+{
+    "name": "Imduk the World Chalice Dragon",
+    "filename": "Imduk_the_World_Chalice_Dragon",
+    "card_text": "1 Normal Monster, except a Token\nDuring your Main Phase, you can Normal Summon 1 \"World Chalice\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) At the start of the Damage Step, if this card battles an opponent's monster this card points to: You can destroy that opponent's monster. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "CODE OF THE DUELIST",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Auram the World Chalice Blademaster",
+        "Beckoned by the World Chalice",
+        "Chosen by the World Chalice",
+        "Crowned by the World Chalice",
+        "Ib the World Chalice Justiciar",
+        "Ib the World Chalice Priestess",
+        "Lee the World Chalice Fairy",
+        "Ningirsu the World Chalice Warrior",
+        "World Chalice Guardragon",
+        "World Chalice Guardragon Almarduke",
+        "World Legacy - \"World Chalice\"",
+        "World Legacy Discovery",
+        "World Legacy's Heart"
+    ],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 256
+}

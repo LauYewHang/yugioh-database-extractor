@@ -1,0 +1,39 @@
+{
+    "name": "Ninaruru, the Magistus Glass Goddess",
+    "filename": "Ninaruru__the_Magistus_Glass_Goddess",
+    "card_text": "2 Level 4 Spellcaster monsters\nWhile this card is an Equip Card, the equipped monster can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of \"Ninaruru, the Magistus Glass Goddess\" once per turn. You can detach 1 material from this card, then target 1 Level 4 or higher Spellcaster monster in your GY; add it to your hand. While this card is equipped to a monster: You can target 1 \"Magistus\" card in your Spell & Trap Zone and 1 Spell/Trap your opponent controls; destroy them.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 2400,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

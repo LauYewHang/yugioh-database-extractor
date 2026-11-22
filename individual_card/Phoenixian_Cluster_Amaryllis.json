@@ -1,0 +1,20 @@
+{
+    "name": "Phoenixian Cluster Amaryllis",
+    "filename": "Phoenixian_Cluster_Amaryllis",
+    "card_text": "This card cannot be Special Summoned except with its own effect or with \"Phoenixian Seed\". If this card attacks, it is destroyed after damage calculation. If this card you control is destroyed and sent to the GY, inflict 800 damage to your opponent. During your End Phase, you can remove from play 1 Plant monster from your GY to Special Summon this card from your GY in Defense Position.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "RAGING BATTLE"
+    ],
+    "related_card": [
+        "Phoenixian Seed"
+    ],
+    "attribute": "FIRE",
+    "attack": 2200,
+    "defense": 0,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Melffy of the Forest",
+    "filename": "Melffy_of_the_Forest",
+    "card_text": "2 Level 2 monsters\nYou can detach 1 material from this card; add 1 \"Melffy\" card from your Deck to your hand. If another face-up \"Melffy\" monster you control returns to your hand (except during the Damage Step): You can target 1 face-up monster your opponent controls; it cannot attack, also its effects are negated while it is face-up on the field. You can only use each effect of \"Melffy of the Forest\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Joyous Melffys",
+        "Melffy Catty",
+        "Melffy Fenny",
+        "Melffy Footsteps",
+        "Melffy Godmommy",
+        "Melffy Hide-and-Seek",
+        "Melffy Mommy",
+        "Melffy Pinny",
+        "Melffy Playhouse",
+        "Melffy Playtime Surprise",
+        "Melffy Pony",
+        "Melffy Puppy",
+        "Melffy Rabby",
+        "Melffy Rabbys",
+        "Melffy Staring Contest",
+        "Melffy Tag",
+        "Melffy Wally",
+        "Melffys' Joyful Surprise",
+        "Merry Melffys"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 2000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 2
+}

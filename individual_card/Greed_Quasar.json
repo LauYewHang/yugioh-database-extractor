@@ -1,0 +1,17 @@
+{
+    "name": "Greed Quasar",
+    "filename": "Greed_Quasar",
+    "card_text": "This card's original ATK and DEF are each equal to its Level x 300. This monster's Level is increased by the Level of monsters it destroys by battle.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

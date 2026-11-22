@@ -1,0 +1,24 @@
+{
+    "name": "Pain Painter",
+    "filename": "Pain_Painter",
+    "card_text": "This card's name becomes \"Plaguespreader Zombie\" while on the field. Once per turn: You can target up to 2 Zombie monsters you control, except this card; they become Level 2 (until the end of this turn), and if they do, they cannot be used as Synchro Material, except for the Synchro Summon of a Zombie monster.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "OTS TOURNAMENT PACK 19"
+    ],
+    "related_card": [
+        "Archfiend Zombie-Skull",
+        "Doomkaiser Dragon",
+        "Mad Mauler",
+        "Plaguespreader Zombie",
+        "Revived King Ha Des"
+    ],
+    "attribute": "DARK",
+    "attack": 400,
+    "defense": 200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

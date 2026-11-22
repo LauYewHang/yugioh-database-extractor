@@ -1,0 +1,35 @@
+{
+    "name": "Limiter Removal",
+    "filename": "Limiter_Removal",
+    "card_text": "Double the ATK of all Machine monsters you currently control, until the end of this turn. During the End Phase of this turn, destroy those monsters.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "GEARGIA RAMPAGE STRUCTURE DECK",
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "PHARAOH'S SERVANT",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "STRUCTURE DECK MACHINE RE-VOLT",
+        "CHAMPION PACK GAME ONE",
+        "AMAZING DEFENDERS",
+        "LEGENDARY DRAGON DECKS",
+        "DUEL TERMINAL 4",
+        "STRUCTURE DECK: CYBER STRIKE",
+        "DUELIST LEAGUE 16",
+        "RETRO PACK 2",
+        "OTS TOURNAMENT PACK 11",
+        "DARK BEGINNING 1",
+        "STRUCTURE DECK : SETO KAIBA",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "HOBBY LEAGUE 6",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "MACHINE REACTOR STRUCTURE DECK",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Cyber End Dragon, the Final Strike Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

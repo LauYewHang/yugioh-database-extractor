@@ -1,0 +1,18 @@
+{
+    "name": "Three-Eyed Ghost",
+    "filename": "Three_Eyed_Ghost",
+    "card_text": "You can send this card from the field to the GY; add 1 Level 10 DARK monster from your Deck to your hand. You can only use this effect of \"Three-Eyed Ghost\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 900,
+    "defense": 800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

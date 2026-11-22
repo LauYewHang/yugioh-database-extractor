@@ -1,0 +1,21 @@
+{
+    "name": "Triamid Fortress",
+    "filename": "Triamid_Fortress",
+    "card_text": "All Rock-Type monsters on the field gain 500 DEF. \"Triamid\" monsters on the field cannot be destroyed by card effects. If this face-up card in the Field Zone is sent to the Graveyard: You can target 1 \"Triamid\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Triamid Fortress\" once per turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Triamid Cruiser",
+        "Triamid Dancer",
+        "Triamid Hunter",
+        "Triamid Kingolem",
+        "Triamid Loading",
+        "Triamid Master",
+        "Triamid Pulse",
+        "Triamid Sphinx"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

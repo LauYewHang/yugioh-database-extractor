@@ -1,0 +1,31 @@
+{
+    "name": "Deskbot 006",
+    "filename": "Deskbot_006",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 monster on the field; change its battle position. This card gain 500 ATK for each face-up \"Deskbot\" monster in your Extra Deck. If this card in the Pendulum Zone is destroyed: You can target 1 \"Deskbot\" card in your Graveyard; add that target to your hand. You can only use this effect of \"Deskbot 006\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Deskbot 001",
+        "Deskbot 002",
+        "Deskbot 003",
+        "Deskbot 004",
+        "Deskbot 005",
+        "Deskbot 007",
+        "Deskbot 008",
+        "Deskbot 009",
+        "Deskbot Base",
+        "Deskbot Jet"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6,
+    "pendulum_effect": "You cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.",
+    "pendulum_scale": 1
+}

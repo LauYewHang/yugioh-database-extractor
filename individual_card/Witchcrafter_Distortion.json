@@ -1,0 +1,41 @@
+{
+    "name": "Witchcrafter Distortion",
+    "filename": "Witchcrafter_Distortion",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated while you control a Level 5 or higher \"Witchcrafter\" monster: Negate the activation, and if you do, destroy that card. If this card is in your GY, except the turn it was sent there: You can banish it; add 1 Level 5 or higher Spellcaster monster from your Deck to your hand, then discard 1 card. You can only use each effect of \"Witchcrafter Distortion\" once per turn.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Genni, the Maid of Endymion",
+        "Verre Magic - Lacrima of Light",
+        "Verre, the Maid of Endymion",
+        "Witchcrafter Bystreet",
+        "Witchcrafter Celebration",
+        "Witchcrafter Collaboration",
+        "Witchcrafter Confusion Confession",
+        "Witchcrafter Creation",
+        "Witchcrafter Draping",
+        "Witchcrafter Edel",
+        "Witchcrafter Genni",
+        "Witchcrafter Golem Aruru",
+        "Witchcrafter Haine",
+        "Witchcrafter Holiday",
+        "Witchcrafter Madame Rilliona",
+        "Witchcrafter Madame Verre",
+        "Witchcrafter Marka",
+        "Witchcrafter Masterpiece",
+        "Witchcrafter Patronus",
+        "Witchcrafter Pittore",
+        "Witchcrafter Potterie",
+        "Witchcrafter Pupils",
+        "Witchcrafter Schmietta",
+        "Witchcrafter Scroll",
+        "Witchcrafter Terracottan",
+        "Witchcrafter Unveiling",
+        "Witchcrafter Vice-Madame",
+        "Witchcrafter Walpurgis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

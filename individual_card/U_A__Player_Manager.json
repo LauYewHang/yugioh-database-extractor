@@ -1,0 +1,35 @@
+{
+    "name": "U.A. Player Manager",
+    "filename": "U_A__Player_Manager",
+    "card_text": "If you Normal or Special Summon a \"U.A.\" monster(s) (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can activate 1 of these effects.\n\u25cfTarget 1 card on the field; destroy it.\n\u25cfNegate the effects of all face-up monsters on the field until the end of this turn, except \"U.A.\" monsters.\nYou can only use each effect of \"U.A. Player Manager\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "U.A. Blockbacker",
+        "U.A. Dreadnought Dunker",
+        "U.A. Goalkeeper",
+        "U.A. Hyper Stadium",
+        "U.A. Libero Spiker",
+        "U.A. Locker Room",
+        "U.A. Man of the Match",
+        "U.A. Midfielder",
+        "U.A. Mighty Slugger",
+        "U.A. Penalty Box",
+        "U.A. Perfect Ace",
+        "U.A. Playmaker",
+        "U.A. Powered Jersey",
+        "U.A. Rival Rebounder",
+        "U.A. Signing Deal",
+        "U.A. Stadium",
+        "U.A. Turnover Tactics"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 2600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

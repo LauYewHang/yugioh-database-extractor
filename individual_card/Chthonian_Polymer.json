@@ -1,0 +1,14 @@
+{
+    "name": "Chthonian Polymer",
+    "filename": "Chthonian_Polymer",
+    "card_text": "Activate only when your opponent Fusion Summons a Fusion Monster. Tribute 1 monster to take control of that Fusion Monster.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4",
+        "DUELIST PACK - CHAZZ PRINCETON -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

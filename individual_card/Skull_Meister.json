@@ -1,0 +1,22 @@
+{
+    "name": "Skull Meister",
+    "filename": "Skull_Meister",
+    "card_text": "When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "CODE OF THE DUELIST SPECIAL EDITION",
+        "STARSTRIKE BLAST",
+        "OTS TOURNAMENT PACK 30",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "ANCIENT\u3000GUARDIANS",
+        "STRUCTURE DECK: POWERCODE LINK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

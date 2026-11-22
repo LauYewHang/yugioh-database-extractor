@@ -1,0 +1,13 @@
+{
+    "name": "Heartless Drop Off",
+    "filename": "Heartless_Drop_Off",
+    "card_text": "When a face-up card(s) on the field and/or in the GY is added to your opponent's hand by an effect: Look at their hand, also banish the added card(s) and all cards with the same name, if any.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

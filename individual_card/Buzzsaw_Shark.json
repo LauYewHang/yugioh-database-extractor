@@ -1,0 +1,24 @@
+{
+    "name": "Buzzsaw Shark",
+    "filename": "Buzzsaw_Shark",
+    "card_text": "You can target 1 WATER monster you control; Special Summon from your Deck in Defense Position, 1 Fish monster with the same Level as that monster, but with a different name, and if you do, it cannot activate its effects this turn, also, you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Buzzsaw Shark\" once per turn. If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 3 or 5 monster.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
+        "2021 TIN OF ANCIENT BATTLES",
+        "OTS TOURNAMENT PACK 26"
+    ],
+    "related_card": [
+        "Hydrojet Shark",
+        "Surfacing Big Jaws",
+        "Veiss Shark"
+    ],
+    "attribute": "WATER",
+    "attack": 1600,
+    "defense": 500,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

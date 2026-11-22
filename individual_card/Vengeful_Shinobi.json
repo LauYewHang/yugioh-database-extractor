@@ -1,0 +1,18 @@
+{
+    "name": "Vengeful Shinobi",
+    "filename": "Vengeful_Shinobi",
+    "card_text": "When this face-up Attack Position card is targeted for an attack: Draw 1 card.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "STARTER DECK DAWN OF THE XYZ"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 400,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Omega Goggles",
+    "filename": "Omega_Goggles",
+    "card_text": "Equip only to a monster you control. Once per turn, you can look at 1 random card in your opponent's hand. The equipped monster cannot attack the turn you activate this effect.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

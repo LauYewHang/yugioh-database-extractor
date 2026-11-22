@@ -1,0 +1,13 @@
+{
+    "name": "Half Unbreak",
+    "filename": "Half_Unbreak",
+    "card_text": "Target 1 monster on the field; this turn, that monster cannot be destroyed by battle, also any battle damage you take from attacks involving that monster is halved.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Gogogo Golem - Golden Form",
+    "filename": "Gogogo_Golem___Golden_Form",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Gogogo\" monster, and cannot be Special Summoned by other ways. This card's ATK becomes double the original ATK of the Tributed monster. Any battle damage your opponent takes from attacks involving this card is halved. Once per turn, during either player's turn, if a monster effect is activated on your opponent's side of the field: This card loses exactly 1500 ATK, and if it does, negate that effect.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "Dodododwarf Gogogoglove",
+        "Gagaga Ganbara Knight",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Gogogo Aristera & Dexia",
+        "Gogogo Ghost",
+        "Gogogo Giant",
+        "Gogogo Gigas",
+        "Gogogo Goblindbergh",
+        "Gogogo Golem",
+        "Gogogo Goram",
+        "Gogogo Talisman",
+        "Guard Go!",
+        "Number 55: Gogogo Goliath",
+        "Onomatokage",
+        "Onomatopaira",
+        "Onomatopia",
+        "Onomatopickup",
+        "Utopic Onomatopoeia",
+        "Zubababancho Gagagacoat"
+    ],
+    "attribute": "EARTH",
+    "attack": "?",
+    "defense": 1500,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

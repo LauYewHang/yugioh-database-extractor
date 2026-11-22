@@ -1,0 +1,21 @@
+{
+    "name": "Maryokutai",
+    "filename": "Maryokutai",
+    "card_text": "During your opponent's turn, when your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "The Last Warrior from Another Planet"
+    ],
+    "attribute": "WATER",
+    "attack": 900,
+    "defense": 900,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

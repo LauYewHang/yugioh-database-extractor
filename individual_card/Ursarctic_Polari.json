@@ -1,0 +1,35 @@
+{
+    "name": "Ursarctic Polari",
+    "filename": "Ursarctic_Polari",
+    "card_text": "Cannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 monsters you control with a Level difference of 1 to the GY (1 Tuner and 1 non-Tuner). If this card is Special Summoned: You can activate 1 \"Ursarctic Big Dipper\" directly from your Deck. You can Tribute 1 Level 7 or higher monster; add to your hand, or Special Summon, 1 \"Ursarctic\" monster from your GY. You can only use each effect of \"Ursarctic Polari\" once per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Big Dipper",
+        "Ursarctic Departure",
+        "Ursarctic Drytron",
+        "Ursarctic Grand Chariot",
+        "Ursarctic Megabilis",
+        "Ursarctic Megapolar",
+        "Ursarctic Megatanus",
+        "Ursarctic Mikbilis",
+        "Ursarctic Mikpolar",
+        "Ursarctic Miktanus",
+        "Ursarctic Polar Star",
+        "Ursarctic Quint Charge",
+        "Ursarctic Radiation",
+        "Ursarctic Septentrion",
+        "Ursarctic Slider"
+    ],
+    "attribute": "WATER",
+    "attack": 700,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

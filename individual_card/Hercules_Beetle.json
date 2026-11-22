@@ -1,0 +1,20 @@
+{
+    "name": "Hercules Beetle",
+    "filename": "Hercules_Beetle",
+    "card_text": "A massive beetle with a tough carapace and a dangerous horn.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "TOURNAMENT PACK 1ST SEASON",
+        "OTS TOURNAMENT PACK 19"
+    ],
+    "related_card": [
+        "Kwagar Hercules"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 2000,
+    "monster_type": "Insect",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Crimson Blade Dragon",
+    "filename": "Crimson_Blade_Dragon",
+    "card_text": "1 \"Resonator\" Tuner + 1+ non-Tuners\n(This card is always treated as \"Crimson Blader\".)\nIf this card is Synchro Summoned: You can take 1 Level 8 or higher monster that cannot be Normal Summoned/Set from your Deck or GY, and either add it to your hand or Special Summon it, but negate its effects. You can only use this effect of \"Crimson Blade Dragon\" once per turn. At the start of the Damage Step, if this card battles a Level 5 or higher monster: You can destroy that monster.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Chain Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Blader",
+        "Crimson Blader/Assault Mode",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Red Resonator",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Vision Resonator"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 2600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

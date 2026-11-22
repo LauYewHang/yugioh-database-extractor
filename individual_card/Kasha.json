@@ -1,0 +1,21 @@
+{
+    "name": "Kasha",
+    "filename": "Kasha",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more Zombie monsters. If this card is Special Summoned: Shuffle as many other monsters on the field as possible into the Deck, and if you do, this card's ATK becomes 1000 x the number of face-up monsters shuffled into the Deck this way, whose original Type was Zombie.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "RA YELLOW MEGA PACK",
+        "DUELIST LEAGUE 16",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "ANCIENT PROPHECY",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": "?",
+    "defense": 1000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

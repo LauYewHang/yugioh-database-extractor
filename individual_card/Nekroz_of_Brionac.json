@@ -1,0 +1,43 @@
+{
+    "name": "Nekroz of Brionac",
+    "filename": "Nekroz_of_Brionac",
+    "card_text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, without using \"Nekroz of Brionac\". You can only use each of these effects of \"Nekroz of Brionac\" once per turn.\n\u25cfYou can discard this card; add 1 \"Nekroz\" monster from your Deck to your hand, except \"Nekroz of Brionac\".\n\u25cfYou can target up to 2 face-up monsters on the field that were Special Summoned from the Extra Deck; shuffle them into the Deck.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "DUEL POWER",
+        "QUARTER CENTURY BONANZA",
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Divinemirror",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "attribute": "WATER",
+    "attack": 2300,
+    "defense": 1400,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

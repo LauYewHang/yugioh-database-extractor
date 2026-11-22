@@ -1,0 +1,17 @@
+{
+    "name": "Loop of Destruction",
+    "filename": "Loop_of_Destruction",
+    "card_text": "This card's name becomes \"Ring of Destruction\" while on the field. Once per turn, if a monster(s) on the field is destroyed by card effect (except during the Damage Step): You can target 1 monster on the field; destroy it, and if you do, each player takes 500 damage.",
+    "release_date": "2018-03-09",
+    "available_set": [
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY COLLECTION KAIBA"
+    ],
+    "related_card": [
+        "Destruction Dragon",
+        "Ring of Destruction"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

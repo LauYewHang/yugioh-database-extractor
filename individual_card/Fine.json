@@ -1,0 +1,12 @@
+{
+    "name": "Fine",
+    "filename": "Fine",
+    "card_text": "Discard 2 cards.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

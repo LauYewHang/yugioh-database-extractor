@@ -1,0 +1,26 @@
+{
+    "name": "Ib'al-Hecahands",
+    "filename": "Ib_al_Hecahands",
+    "card_text": "When your opponent activates a monster effect, while you control a \"Hecahands\" monster: Negate the activation, and if you do, destroy that monster, then you can Special Summon the destroyed monster to your field. You can only activate 1 \"Ib'al-Hecahands\" per turn.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "Hecahands Bait",
+        "Hecahands Breus",
+        "Hecahands Dandalos",
+        "Hecahands Gaigas",
+        "Hecahands Godos",
+        "Hecahands Ibtel",
+        "Hecahands Jauzah",
+        "Hecahands Mankibuel",
+        "Hecahands Tartaros",
+        "Hecahands Xeno",
+        "Hecahands Yadel",
+        "The Hidden Hecahands",
+        "Yad'al-Hecahands"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

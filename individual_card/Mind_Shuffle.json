@@ -1,0 +1,24 @@
+{
+    "name": "Mind Shuffle",
+    "filename": "Mind_Shuffle",
+    "card_text": "During either player's turn: You can add 1 monster that mentions \"Light and Darkness Ritual\" from your Deck to your hand, then discard 1 card. You can only use this effect of \"Mind Shuffle\" once per turn. When your opponent activates a card or effect: You can return 1 Level 7 or higher monster you control to the hand; Special Summon 1 monster that mentions \"Light and Darkness Ritual\" from your hand, with a different name than the returned monster, ignoring its Summoning conditions. You cannot activate these effects of \"Mind Shuffle\" in the same Chain.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Black Chaos",
+        "Black Luster Soldier - Soldier of Light and Darkness",
+        "Black Skull Dragon, the Archfiend of Unity",
+        "Celtic Mystic",
+        "Chaos Magical Hats",
+        "Chaos Mystic Box",
+        "Griffoh",
+        "Light and Darkness Ritual",
+        "Magician of Dark Chaos - Black Chaos",
+        "Skull Archfiend of Chaos",
+        "Spell Shattering Sword"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

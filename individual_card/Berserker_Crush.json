@@ -1,0 +1,17 @@
+{
+    "name": "Berserker Crush",
+    "filename": "Berserker_Crush",
+    "card_text": "Banish 1 monster from your GY, then target 1 \"Winged Kuriboh\" you control; that target's ATK/DEF become equal to the ATK/DEF of the monster that was banished, until the end of this turn.",
+    "release_date": "2009-11-10",
+    "available_set": [
+        "HIDDEN ARSENAL",
+        "ADVENT CALENDAR 2019",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "DUEL TERMINAL 1"
+    ],
+    "related_card": [
+        "Winged Kuriboh"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

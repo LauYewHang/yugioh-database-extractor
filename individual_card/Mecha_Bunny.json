@@ -1,0 +1,17 @@
+{
+    "name": "Mecha Bunny",
+    "filename": "Mecha_Bunny",
+    "card_text": "When this card is flipped face-up, select 1 card on the field and inflict 500 damage to its controller. When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \"Mecha Bunny\" from your Deck in face-down Defense Position.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

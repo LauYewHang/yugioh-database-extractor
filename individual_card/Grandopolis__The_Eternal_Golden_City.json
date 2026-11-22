@@ -1,0 +1,18 @@
+{
+    "name": "Grandopolis, The Eternal Golden City",
+    "filename": "Grandopolis__The_Eternal_Golden_City",
+    "card_text": "3 Level 8 monsters\nMust be Xyz Summoned and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their Life Points to 0, while it has an Xyz Material attached that was originally Machine-Type, you win the Match.",
+    "release_date": "2013-08-11",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2014",
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2013"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 3500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 8
+}

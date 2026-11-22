@@ -1,0 +1,35 @@
+{
+    "name": "Cyber Angel Dakini",
+    "filename": "Cyber_Angel_Dakini",
+    "card_text": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can make your opponent send 1 monster they control to the GY (their choice). If a Ritual Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during your End Phase: You can target 1 Ritual Monster or 1 \"Machine Angel Ritual\" in your GY; add it to your hand.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Angel Izana",
+        "Cyber Angel Natasha",
+        "Cyber Eternal",
+        "Cyber Petit Angel",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Incarnated Machine Angel",
+        "Machine Angel Absolute Ritual",
+        "Machine Angel Ritual",
+        "Magnificent Machine Angel",
+        "Merciful Machine Angel",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2700,
+    "defense": 2400,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

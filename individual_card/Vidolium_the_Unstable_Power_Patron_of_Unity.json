@@ -1,0 +1,42 @@
+{
+    "name": "Vidolium the Unstable Power Patron of Unity",
+    "filename": "Vidolium_the_Unstable_Power_Patron_of_Unity",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your Extra Deck or GY) by returning 3 monsters (1 Fusion, 1 Synchro, and 1 Xyz) from your face-up field and/or GY to the Extra Deck. Unaffected by monster effects, except \"Power Patron\" monsters. If this card is added to your Extra Deck face-up: You can add 1 \"Power Patron\" card from your Deck to your hand. You can only use this effect of \"Vidolium the Unstable Power Patron of Unity\" once per turn. If this card is Special Summoned: Banish (face-down) all cards in the GYs.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Ars Magna \"Philosophorum\"",
+        "Ars Magna the Corruption and the Purification",
+        "Ars Magna the Division and the Union",
+        "Ars Magna the Finite and the Infinite",
+        "Artmage Power Patron",
+        "Elfnote Power Patron",
+        "Junoldo the Shadespirit Power Patron",
+        "Junora the Power Patron of Tuning",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Mediclius the Extraordinary Power Patron",
+        "Medius the Pure",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Plundered Power Patron Plane - Vidolia",
+        "Power Patron DoomZ",
+        "Power Patron Shade of the Final Hour",
+        "Prohibited Power Patron Portal - Terminus",
+        "Prohibitive Power Patron Purview - Vilaea",
+        "Purification Power Patron",
+        "Theorealized Medius"
+    ],
+    "attribute": "DARK",
+    "attack": 5000,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12,
+    "pendulum_effect": "You can activate 1 of these effects;\n\u25cfDestroy this card, and if you do, Special Summon 1 \"Power Patron\" monster from your hand or GY.\n\u25cfDestroy this card, also for the rest of this turn, \"Power Patron\" monsters you control whose original Level is 12 gain 5000 ATK.\nYou can only use this effect of \"Vidolium the Unstable Power Patron of Unity\" once per turn.",
+    "pendulum_scale": 11
+}

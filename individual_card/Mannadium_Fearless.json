@@ -1,0 +1,32 @@
+{
+    "name": "Mannadium Fearless",
+    "filename": "Mannadium_Fearless",
+    "card_text": "If you control \"Visas Starfrost\" or a monster with 1500 ATK/2100 DEF, you can Special Summon this card (from your hand). You can only Special Summon \"Mannadium Fearless\" once per turn this way. If this card is destroyed by battle or card effect: You can Special Summon 1 \"Mannadium Fearless\" from your Deck, also during the Battle Phase this turn, Synchro Monsters you control gain 500 ATK.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "2-PLAYER STARTER SET",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Mannadium Abscission",
+        "Mannadium Imaginings",
+        "Mannadium Prime-Heart",
+        "Mannadium Reframing",
+        "Mannadium Riumheart",
+        "Mannadium Torrid",
+        "New World Formation",
+        "Peaceful Planet Calarium",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

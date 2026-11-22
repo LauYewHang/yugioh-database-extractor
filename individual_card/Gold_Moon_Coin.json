@@ -1,0 +1,13 @@
+{
+    "name": "Gold Moon Coin",
+    "filename": "Gold_Moon_Coin",
+    "card_text": "Add 2 cards from your hand to your opponent's hand, then draw 2 cards. You can only activate 1 \"Gold Moon Coin\" per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Hibernation Dragon",
+    "filename": "Hibernation_Dragon",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 Level 4 or lower Dragon monster in your GY; add it to your hand. While you control no Link Monsters, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 DARK Dragon Link Monster in your GY; Special Summon it. You can only use each effect of \"Hibernation Dragon\" once per turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

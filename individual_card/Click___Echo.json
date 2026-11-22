@@ -1,0 +1,18 @@
+{
+    "name": "Click & Echo",
+    "filename": "Click___Echo",
+    "card_text": "Cannot be used as material for a Fusion, Synchro, or Xyz Summon. Cannot be Tributed while face-up in the Monster Zone. If this card is sent to the GY as material for a Link Summon: Special Summon this card in Defense Position, to the opponent's field of the player that Link Summoned. You can only use this effect of \"Click & Echo\" twice per turn. While this card, that was Summoned by its effect, is in the Monster Zone, you must keep your hand revealed.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 2100,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

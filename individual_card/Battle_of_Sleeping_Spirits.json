@@ -1,0 +1,18 @@
+{
+    "name": "Battle of Sleeping Spirits",
+    "filename": "Battle_of_Sleeping_Spirits",
+    "card_text": "Each player can Special Summon 1 monster from their GY that was destroyed by battle this turn, in Attack Position, and if you Special Summoned \"Elemental HERO Neos\" by this effect, if it battles your opponent's monster this turn, its ATK becomes doubled during the Damage Step only. You can only activate 1 \"Battle of Sleeping Spirits\" per turn.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Elemental HERO Brave Neos",
+        "Elemental HERO Neos",
+        "Elemental HERO Neos Alius",
+        "Elemental HERO Spirit of Neos",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

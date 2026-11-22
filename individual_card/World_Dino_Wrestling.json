@@ -1,0 +1,30 @@
+{
+    "name": "World Dino Wrestling",
+    "filename": "World_Dino_Wrestling",
+    "card_text": "While you control a \"Dinowrestler\" monster, each player can attack with only 1 monster during each Battle Phase. If your \"Dinowrestler\" monster attacks an opponent's monster, it gains 200 ATK during damage calculation only. If your opponent controls more monsters than you do: You can banish this card from the GY; Special Summon 1 \"Dinowrestler\" monster from your Deck. You can only use this effect of \"World Dino Wrestling\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Dinowrestler Capaptera",
+        "Dinowrestler Capoeiraptor",
+        "Dinowrestler Chimera T Wrextle",
+        "Dinowrestler Coelasilat",
+        "Dinowrestler Eskrimamenchi",
+        "Dinowrestler Giga Spinosavate",
+        "Dinowrestler Iguanodraka",
+        "Dinowrestler King T Wrextle",
+        "Dinowrestler Martial Ampelo",
+        "Dinowrestler Martial Anga",
+        "Dinowrestler Martial Ankylo",
+        "Dinowrestler Pankratops",
+        "Dinowrestler Rambrachio",
+        "Dinowrestler Systegosaur",
+        "Dinowrestler Terra Parkourio",
+        "Dinowrestler Valeonyx"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

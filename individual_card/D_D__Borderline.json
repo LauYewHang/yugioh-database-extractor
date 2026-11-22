@@ -1,0 +1,15 @@
+{
+    "name": "D.D. Borderline",
+    "filename": "D_D__Borderline",
+    "card_text": "While there are no Spells in your GY, neither player can conduct their Battle Phase.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "SECRET SLAYERS",
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

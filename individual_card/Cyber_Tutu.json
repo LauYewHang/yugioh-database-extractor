@@ -1,0 +1,26 @@
+{
+    "name": "Cyber Tutu",
+    "filename": "Cyber_Tutu",
+    "card_text": "If the ATK of each monster your opponent controls is higher than this card's, this card can attack directly.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Retaliating \"C\"",
+    "filename": "Retaliating__C_",
+    "card_text": "When your opponent activates a Spell Card that includes an effect that Special Summons a monster(s) (Quick Effect): You can Special Summon this card from your hand. If Summoned this way, while this card is face-up on the field, any card sent to the GY is banished instead. If this card is sent from the field to the GY: You can add 1 EARTH Insect monster with 1500 or less ATK from your Deck to your hand, except \"Retaliating \"C\"\".",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX",
+        "OTS TOURNAMENT PACK 4",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "CLASH OF REBELLIONS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1400,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

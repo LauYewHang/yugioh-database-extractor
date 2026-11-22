@@ -1,0 +1,33 @@
+{
+    "name": "Magikey Fiend - Transfurlmine",
+    "filename": "Magikey_Fiend___Transfurlmine",
+    "card_text": "1 \"Magikey\" Tuner + 1+ non-Tuner Normal Monsters\nThis card can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of \"Magikey Fiend - Transfurlmine\" once per turn. If you control this card that was Synchro Summoned using at least 2 Attributes of monsters: You can Set 1 \"Magikey\" Spell/Trap directly from your Deck to your Spell & Trap Zone. If your opponent Normal or Special Summons a monster(s) with the same Attribute as a monster in your GY (except during the Damage Step): You can destroy that monster(s).",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Clavkiys, the Magikey Skyblaster",
+        "Magikey Battle",
+        "Magikey Beast - Ansyalabolas",
+        "Magikey Deity - Ashtartu",
+        "Magikey Dragon - Andrabime",
+        "Magikey Duo",
+        "Magikey Locking",
+        "Magikey Maftea",
+        "Magikey Mechmortar - Garesglasser",
+        "Magikey Mechmusket - Batosbuster",
+        "Magikey Spirit - Vepartu",
+        "Magikey Unlocking",
+        "Magikey World",
+        "Maginificent Magikey Mafteal"
+    ],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 2800,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

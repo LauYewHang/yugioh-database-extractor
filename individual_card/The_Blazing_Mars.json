@@ -1,0 +1,19 @@
+{
+    "name": "The Blazing Mars",
+    "filename": "The_Blazing_Mars",
+    "card_text": "While this card is in your hand or GY: You can banish 3 other monsters from your GY; Special Summon this card, also you cannot Special Summon other monsters for the rest of this turn. During your Main Phase 1: You can send all other monsters you control to the GY; inflict 500 damage to your opponent for each monster sent to the GY. You can only use this effect of \"The Blazing Mars\" once per turn.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "STRUCTURE DECK: FIRE KINGS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2600,
+    "defense": 2200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Radiant Typhoon Varuroon, the Vibrant Vortex",
+    "filename": "Radiant_Typhoon_Varuroon__the_Vibrant_Vortex",
+    "card_text": "If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. When your opponent activates a monster effect and you have \"Mystical Space Typhoon\" in your GY (Quick Effect): You can negate that effect, then if you have 2 or more \"Mystical Space Typhoon\" in your GY, you can destroy that monster. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Radiant Typhoon Varuroon, the Vibrant Vortex\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Mystical Space Typhoon",
+        "Radiant Typhoon Ascendance",
+        "Radiant Typhoon Chant",
+        "Radiant Typhoon Eldam",
+        "Radiant Typhoon Krosea",
+        "Radiant Typhoon Mandate",
+        "Radiant Typhoon Manifestation",
+        "Radiant Typhoon Meghala",
+        "Radiant Typhoon Swen",
+        "Radiant Typhoon Varuroon, the Marine Eidolon",
+        "Radiant Typhoon Vision"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 3000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

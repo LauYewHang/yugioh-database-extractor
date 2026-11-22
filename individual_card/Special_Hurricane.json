@@ -1,0 +1,13 @@
+{
+    "name": "Special Hurricane",
+    "filename": "Special_Hurricane",
+    "card_text": "Discard 1 card from your hand. Destroy all Special Summoned monsters on the field.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

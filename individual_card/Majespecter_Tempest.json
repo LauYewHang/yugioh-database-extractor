@@ -1,0 +1,29 @@
+{
+    "name": "Majespecter Tempest",
+    "filename": "Majespecter_Tempest",
+    "card_text": "When a monster(s) would be Special Summoned, or a monster effect is activated: Tribute 1 WIND Spellcaster monster; negate the Summon or activation, and if you do, destroy that card.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 24",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Majespecter Cat - Nekomata",
+        "Majespecter Crow - Yata",
+        "Majespecter Draco - Ryu",
+        "Majespecter Fox - Kyubi",
+        "Majespecter Gust",
+        "Majespecter Orthrus - Nue",
+        "Majespecter Porcupine - Yamarashi",
+        "Majespecter Raccoon - Bunbuku",
+        "Majespecter Sonics",
+        "Majespecter Supercell",
+        "Majespecter Toad - Ogama",
+        "Majespecter Wind",
+        "Majesty Pegasus, the Dracoslayer",
+        "Majesty's Pegasus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

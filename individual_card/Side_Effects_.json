@@ -1,0 +1,13 @@
+{
+    "name": "Side Effects?",
+    "filename": "Side_Effects_",
+    "card_text": "Your opponent draws 1 to 3 cards, then you gain 2000 LP for each card they drew with this effect.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

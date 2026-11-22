@@ -1,0 +1,34 @@
+{
+    "name": "Geomathmech Final Sigma",
+    "filename": "Geomathmech_Final_Sigma",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nUnaffected by card effects, except \"Mathmech\" cards, while in the Extra Monster Zone. If this card in the Extra Monster Zone battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 \"Mathmech\" card from your Deck to your hand. You can only use this effect of \"Geomathmech Final Sigma\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Geomathmech Magma",
+        "Mathmech Addition",
+        "Mathmech Billionblade Nayuta",
+        "Mathmech Circular",
+        "Mathmech Diameter",
+        "Mathmech Division",
+        "Mathmech Equation",
+        "Mathmech Induction",
+        "Mathmech Multiplication",
+        "Mathmech Nabla",
+        "Mathmech Sigma",
+        "Mathmech Subtraction",
+        "Mathmech Superfactorial",
+        "Primathmech Alembertian",
+        "Primathmech Laplacian"
+    ],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

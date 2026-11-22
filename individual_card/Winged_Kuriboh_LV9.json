@@ -1,0 +1,31 @@
+{
+    "name": "Winged Kuriboh LV9",
+    "filename": "Winged_Kuriboh_LV9",
+    "card_text": "Activate only as Chain Link 3 or higher (Quick Effect): You can Special Summon this card from your hand. Spell Cards that have been activated are banished instead of being sent to the GY. The ATK/DEF of this card are each equal to the number of Spells in your opponent's GY x 500. You can only control 1 \"Winged Kuriboh LV9\".",
+    "release_date": "2009-06-02",
+    "available_set": [
+        "ADVENT CALENDAR 2019",
+        "RA YELLOW MEGA PACK",
+        "Yu-Gi-Oh! GX volume 3 Promotional Card",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Generation Next",
+        "Kuribee",
+        "Kuribohrn",
+        "Level Down!?",
+        "Level Modulation",
+        "Level Up!",
+        "Sabatiel - The Philosopher's Stone",
+        "Silent Paladin",
+        "Skilled Brown Magician",
+        "The Graveyard in the Fourth Dimension"
+    ],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Made to Order Mermaid Outfit Outfitter",
+    "filename": "Made_to_Order_Mermaid_Outfit_Outfitter",
+    "card_text": "Target 1 card in your opponent's GY; banish it, then you can add 1 card from your Deck to your hand with the same name as that banished card. You can only activate 1 \"Made to Order Mermaid Outfit Outfitter\" per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Ojama Country",
+    "filename": "Ojama_Country",
+    "card_text": "Once per turn: You can send 1 \"Ojama\" card from your hand to the GY; Special Summon 1 \"Ojama\" monster from your GY. While you control an \"Ojama\" monster, switch the original ATK/DEF of all monsters on the field.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "GHOSTS FROM THE PAST",
+        "RAGING BATTLE",
+        "SPEED DUEL GX: DUEL ACADEMY BOX"
+    ],
+    "related_card": [
+        "Ojama Black",
+        "Ojama Blue",
+        "Ojama Delta Hurricane!!",
+        "Ojama Duo",
+        "Ojama Emperor",
+        "Ojama Green",
+        "Ojama King",
+        "Ojama Knight",
+        "Ojama Pajama",
+        "Ojama Pink",
+        "Ojama Red",
+        "Ojama Trio",
+        "Ojama Yellow",
+        "Ojamagic",
+        "Ojamassimilation",
+        "Ojamatch",
+        "Ojamuscle"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

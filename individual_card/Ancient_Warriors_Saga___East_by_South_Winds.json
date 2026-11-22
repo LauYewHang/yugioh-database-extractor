@@ -1,0 +1,32 @@
+{
+    "name": "Ancient Warriors Saga - East-by-South Winds",
+    "filename": "Ancient_Warriors_Saga___East_by_South_Winds",
+    "card_text": "You must send this card to the GY during your 2nd Standby Phase after activation. Once per turn, during your Main Phase: Toss a coin and if the result is heads, send this card to the GY. If this card is sent from the Spell & Trap Zone to the GY: You can activate this effect; this turn, your opponent cannot activate cards or effects in response to the activation of your \"Ancient Warriors\" cards and effects, also until the end of the turn, all \"Ancient Warriors\" Effect Monsters you currently control gain this effect.\n\u25cfWhen this card declares an attack: You can destroy 1 card your opponent controls.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Ancient Warriors - Ambitious Cao De",
+        "Ancient Warriors - Deceptive Jia Wen",
+        "Ancient Warriors - Eccentric Lu Jing",
+        "Ancient Warriors - Fearsome Zhang Yuan",
+        "Ancient Warriors - Graceful Zhou Gong",
+        "Ancient Warriors - Ingenious Zhuge Kong",
+        "Ancient Warriors - Loyal Guan Yun",
+        "Ancient Warriors - Masterful Sun Mou",
+        "Ancient Warriors - Rebellious Lu Feng",
+        "Ancient Warriors - Savage Don Ying",
+        "Ancient Warriors - Valiant Zhang De",
+        "Ancient Warriors - Virtuous Liu Xuan",
+        "Ancient Warriors Oath - Double Dragon Lords",
+        "Ancient Warriors Saga - Borrowing of Arrows",
+        "Ancient Warriors Saga - Chivalrous Path",
+        "Ancient Warriors Saga - Deception and Betrayal",
+        "Ancient Warriors Saga - Defense of Changban",
+        "Ancient Warriors Saga - Sun-Liu Alliance",
+        "Ancient Warriors Saga - Three Visits"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

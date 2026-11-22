@@ -1,0 +1,17 @@
+{
+    "name": "Orphebull the Harmonious Bullfighter Bard",
+    "filename": "Orphebull_the_Harmonious_Bullfighter_Bard",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 LIGHT and 2 DARK monsters from your hand and/or GY, except this card. If Summoned this way, this card gains 1000 ATK for each monster banished from your hand for its Summon, and can attack monsters a number of times each Battle Phase up to the number of monsters banished from the GY for its Summon. If this card destroys an opponent's monster by battle, after damage calculation: You can banish that opponent's monster.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2400,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

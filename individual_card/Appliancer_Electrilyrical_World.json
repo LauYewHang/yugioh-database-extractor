@@ -1,0 +1,25 @@
+{
+    "name": "Appliancer Electrilyrical World",
+    "filename": "Appliancer_Electrilyrical_World",
+    "card_text": "When this card is activated: You can add 1 \"Appliancer\" card from your Deck to your hand, except a Field Spell. Once per turn, if you Link Summon an \"Appliancer\" Link Monster(s): You can add 1 \"Appliancer\" monster from your GY to your hand. Once per turn, when a monster declares an attack: You can move 1 \"Appliancer\" monster you control to another of your Main Monster Zones. You can only activate 1 \"Appliancer Electrilyrical World\" per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Appliancer Breakerbuncle",
+        "Appliancer Celtopus",
+        "Appliancer Conversion",
+        "Appliancer Copybokkle",
+        "Appliancer Dryer Drake",
+        "Appliancer Kappa Scale",
+        "Appliancer Laundry Dragon",
+        "Appliancer Propelion",
+        "Appliancer Reuse",
+        "Appliancer Socketroll",
+        "Appliancer Test",
+        "Appliancer Vacculephant"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Abyss Script - Dramatic Story",
+    "filename": "Abyss_Script___Dramatic_Story",
+    "card_text": "Target 1 \"Abyss Actor\" Pendulum Monster you control; Special Summon 1 \"Abyss Actor\" monster from your Deck with a different name, then place the targeted monster in your Pendulum Zone or destroy it. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can return up to 2 cards on the field to the hand. You can only activate 1 \"Abyss Script - Dramatic Story\" per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Abyss Actor - Comic Relief",
+        "Abyss Actor - Curtain Raiser",
+        "Abyss Actor - Evil Heel",
+        "Abyss Actor - Extras",
+        "Abyss Actor - Funky Comedian",
+        "Abyss Actor - Hyper Director",
+        "Abyss Actor - Leading Lady",
+        "Abyss Actor - Liberty Dramatist",
+        "Abyss Actor - Mellow Madonna",
+        "Abyss Actor - Sassy Rookie",
+        "Abyss Actor - Super Producer",
+        "Abyss Actor - Superstar",
+        "Abyss Actor - Trendy Understudy",
+        "Abyss Actor - Twinkle Little Star",
+        "Abyss Actor - Wild Hope",
+        "Abyss Actors Back Stage",
+        "Abyss Actors' Curtain Call",
+        "Abyss Actors' Dress Rehearsal",
+        "Abyss Playhouse - Fantastic Theater",
+        "Abyss Script - Abysstainment",
+        "Abyss Script - Rise of the Abyss King",
+        "Abyss Script - Romantic Terror"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

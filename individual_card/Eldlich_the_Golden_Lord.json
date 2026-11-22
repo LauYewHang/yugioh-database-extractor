@@ -1,0 +1,36 @@
+{
+    "name": "Eldlich the Golden Lord",
+    "filename": "Eldlich_the_Golden_Lord",
+    "card_text": "You can send this card and 1 Spell/Trap from your hand to the GY, then target 1 card on the field; send it to the GY. If this card is in your GY: You can send 1 Spell/Trap you control to the GY; add this card to your hand, then you can Special Summon 1 Zombie monster from your hand, and if you do, until the end of your opponent's turn, it gains 1000 ATK/DEF and cannot be destroyed by card effects. You can only use each effect of \"Eldlich the Golden Lord\" once per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "The Lost Art Promotion 9",
+        "Gold Series: Maximum Gold",
+        "2-PLAYER STARTER SET",
+        "RARITY COLLECTION 5",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Conquistador of the Golden Land",
+        "Cursed Eldland",
+        "El Dorado Adelantado",
+        "Eldlich the Mad Golden Lord",
+        "Eldlixir of Black Awakening",
+        "Eldlixir of Scarlet Sanguine",
+        "Eldlixir of the Glorious Golden Land",
+        "Eldlixir of White Destiny",
+        "Fallen Angel of the Golden Land",
+        "Golden Land Forever!",
+        "Guardian of the Golden Land",
+        "Huaquero of the Golden Land"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2800,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

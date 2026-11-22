@@ -1,0 +1,30 @@
+{
+    "name": "Tengu, the Winged Mayakashi",
+    "filename": "Tengu__the_Winged_Mayakashi",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 \"Tengu, the Winged Mayakashi\". You can only use each of these effects of \"Tengu, the Winged Mayakashi\" once per turn.\n\u25cfIf a Synchro Monster in your possession whose original Level is 9 is destroyed by battle or an opponent's card effect while this card is in the GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card.\n\u25cfIf this card is Special Summoned from the GY: You can destroy 1 Spell/Trap your opponent controls.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS"
+    ],
+    "related_card": [
+        "Dakki, the Graceful Mayakashi",
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Hajun, the Winged Mayakashi",
+        "Mayakashi Mayhem",
+        "Mayakashi Metamorphosis",
+        "Mayakashi Return",
+        "Mayakashi Winter",
+        "Shafu, the Wheeled Mayakashi",
+        "Tsukahagi, the Poisonous Mayakashi",
+        "Yasha, the Skeletal Mayakashi",
+        "Yuki-Musume, the Ice Mayakashi",
+        "Yuki-Onna, the Ice Mayakashi"
+    ],
+    "attribute": "WIND",
+    "attack": 2600,
+    "defense": 1500,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

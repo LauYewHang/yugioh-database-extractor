@@ -1,0 +1,30 @@
+{
+    "name": "Arcana Force VII - The Chariot",
+    "filename": "Arcana_Force_VII___The_Chariot",
+    "card_text": "If this card is Summoned: Toss a coin.\n\u25cfHeads: When this card destroys an opponent's monster by battle: You can Special Summon that monster to your field.\n\u25cfTails: Give control of this card to your opponent.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Arcana Call",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Reading",
+        "Arcana Spread",
+        "Light Barrier",
+        "Light Force",
+        "Reversal of Fate"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1700,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

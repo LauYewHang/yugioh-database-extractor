@@ -1,0 +1,17 @@
+{
+    "name": "Triple-Headed Behemoth",
+    "filename": "Triple_Headed_Behemoth",
+    "card_text": "If a face-up card(s) you control is destroyed by card effect, even during the Damage Step: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can Special Summon 1 WIND monster from your GY during the End Phase of this turn, but its ATK/DEF become 1000. You can only use this effect of \"Triple-Headed Behemoth\" once per Duel, and its previous effect only once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

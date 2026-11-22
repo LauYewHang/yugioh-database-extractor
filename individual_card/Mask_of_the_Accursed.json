@@ -1,0 +1,15 @@
+{
+    "name": "Mask of the Accursed",
+    "filename": "Mask_of_the_Accursed",
+    "card_text": "The equipped monster cannot attack. Once per turn, during your Standby Phase: Inflict 500 damage to the controller of the equipped monster.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "2-PLAYER STARTER SET",
+        "LABYRINTH OF NIGHTMARE",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "DARK BEGINNING 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

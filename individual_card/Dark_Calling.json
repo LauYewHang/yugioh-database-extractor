@@ -1,0 +1,23 @@
+{
+    "name": "Dark Calling",
+    "filename": "Dark_Calling",
+    "card_text": "Fusion Summon 1 Fusion Monster from your Extra Deck, that must be Special Summoned with \"Dark Fusion\", by banishing the Fusion Materials mentioned on it from your hand and/or GY. (This is treated as a Fusion Summon with \"Dark Fusion\".)",
+    "release_date": "2008-01-26",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "DUELIST PACK - JADEN YUKI 3 -",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "SPEED DUEL TOURNAMENT PACK 6"
+    ],
+    "related_card": [
+        "Dark Fusion",
+        "Evil HERO Adusted Gold",
+        "Evil HERO Vicious Claws",
+        "Supreme King's Castle"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

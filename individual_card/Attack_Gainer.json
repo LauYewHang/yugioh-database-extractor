@@ -1,0 +1,17 @@
+{
+    "name": "Attack Gainer",
+    "filename": "Attack_Gainer",
+    "card_text": "If this card is sent to the Graveyard as a Synchro Material Monster, select 1 face-up monster your opponent controls. The selected opponent's monster loses 1000 ATK until the End Phase.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Mormolith",
+    "filename": "Mormolith",
+    "card_text": "You can Tribute 1 face-up EARTH monster to destroy all face-up monsters with DEF equal to or less than the ATK of the Tributed card.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 900,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

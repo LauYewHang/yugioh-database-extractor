@@ -1,0 +1,32 @@
+{
+    "name": "Magical Musketeer Wild",
+    "filename": "Magical_Musketeer_Wild",
+    "card_text": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can target 3 \"Magical Musket\" cards in your GY; shuffle all 3 into the Deck, then draw 1 card. You can only use this effect of \"Magical Musketeer Wild\" once per turn.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Desperado",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Starfire"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 900,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

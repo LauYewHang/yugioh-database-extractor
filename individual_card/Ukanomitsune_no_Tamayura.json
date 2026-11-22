@@ -1,0 +1,17 @@
+{
+    "name": "Ukanomitsune-no-Tamayura",
+    "filename": "Ukanomitsune_no_Tamayura",
+    "card_text": "If you control a Level 4 or lower LIGHT Beast, Plant, or Fairy monster: You can Special Summon this card from your hand. A monster that was Synchro Summoned using this card as material gains these effects.\n\u25cfGains 500 DEF.\n\u25cfYour opponent cannot target this Defense Position card with card effects.\nYou can only use each effect of \"Ukanomitsune-no-Tamayura\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 300,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

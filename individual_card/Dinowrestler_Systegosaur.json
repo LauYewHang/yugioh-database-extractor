@@ -1,0 +1,37 @@
+{
+    "name": "Dinowrestler Systegosaur",
+    "filename": "Dinowrestler_Systegosaur",
+    "card_text": "If this card is Special Summoned: You can add 1 \"Dinowrestler\" monster or 1 \"World Dino Wrestling\" from your Deck to your hand. During the End Phase, if this card is in the GY because it was sent there this turn, and your opponent controls more monsters than you do: You can target 1 \"Dinowrestler\" monster in your GY, except \"Dinowrestler Systegosaur\"; Special Summon it. You can only use each effect of \"Dinowrestler Systegosaur\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Dinowrestler Capaptera",
+        "Dinowrestler Capoeiraptor",
+        "Dinowrestler Chimera T Wrextle",
+        "Dinowrestler Coelasilat",
+        "Dinowrestler Eskrimamenchi",
+        "Dinowrestler Giga Spinosavate",
+        "Dinowrestler Iguanodraka",
+        "Dinowrestler King T Wrextle",
+        "Dinowrestler Martial Ampelo",
+        "Dinowrestler Martial Anga",
+        "Dinowrestler Martial Ankylo",
+        "Dinowrestler Pankratops",
+        "Dinowrestler Rambrachio",
+        "Dinowrestler Terra Parkourio",
+        "Dinowrestler Valeonyx",
+        "Gouki Gameface",
+        "Tyrant Dino Fusion",
+        "World Dino Wrestling"
+    ],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

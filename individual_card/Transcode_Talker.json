@@ -1,0 +1,31 @@
+{
+    "name": "Transcode Talker",
+    "filename": "Transcode_Talker",
+    "card_text": "2+ Effect Monsters\nWhile this card is co-linked, it and its co-linked monsters gain 500 ATK, also your opponent cannot target any of them with card effects. You can target 1 Link-3 or lower Cyberse Link Monster in your GY, except \"Transcode Talker\"; Special Summon it to your zone this card points to. You cannot Special Summon monsters the turn you activate this effect, except Cyberse monsters. You can only use this effect of \"Transcode Talker\" once per turn.",
+    "release_date": "2018-07-13",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "STARTER DECK CODEBREAKER"
+    ],
+    "related_card": [
+        "Code Exporter",
+        "Code Generator",
+        "Code Hack",
+        "Code Radiator",
+        "Cynet Codec",
+        "Cynet Conflict",
+        "Cynet Optimization",
+        "Limit Code",
+        "Micro Coder",
+        "Recoded Alive",
+        "Rokket Coder",
+        "Talkback Lancer"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 324
+}

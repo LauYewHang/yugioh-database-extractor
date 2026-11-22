@@ -1,0 +1,17 @@
+{
+    "name": "Winged Cleaver",
+    "filename": "Winged_Cleaver",
+    "card_text": "Few can withstand the scythe-like arms of this dangerous creature.",
+    "release_date": "2019-08-02",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 700,
+    "defense": 700,
+    "monster_type": "Insect",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

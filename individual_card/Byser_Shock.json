@@ -1,0 +1,20 @@
+{
+    "name": "Byser Shock",
+    "filename": "Byser_Shock",
+    "card_text": "If this card is Summoned: Return all Set cards on the field to the hand.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "OTS TOURNAMENT PACK 24",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 600,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

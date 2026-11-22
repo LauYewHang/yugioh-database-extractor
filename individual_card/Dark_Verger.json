@@ -1,0 +1,18 @@
+{
+    "name": "Dark Verger",
+    "filename": "Dark_Verger",
+    "card_text": "When a Plant-Type Tuner monster is Normal Summoned to your side of the field: You can Special Summon this card from your Graveyard in Attack Position.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 1000,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

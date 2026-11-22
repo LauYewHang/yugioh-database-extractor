@@ -1,0 +1,17 @@
+{
+    "name": "Big One Warrior",
+    "filename": "Big_One_Warrior",
+    "card_text": "During your Main Phase, you can send 1 Level 1 monster, except this card, from your hand to the Graveyard to Special Summon this card from your hand.",
+    "release_date": "2011-01-25",
+    "available_set": [
+        "DUELIST PACK - YUSEI 3 -"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

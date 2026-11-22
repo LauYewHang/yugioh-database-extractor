@@ -1,0 +1,13 @@
+{
+    "name": "Next to be Lost",
+    "filename": "Next_to_be_Lost",
+    "card_text": "Select 1 face-up monster you control. Send 1 card from your Deck to the Graveyard with the same name as the selected card.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Starving Venom Fusion Dragon",
+    "filename": "Starving_Venom_Fusion_Dragon",
+    "card_text": "2 DARK monsters on the field, except Tokens\nIf this card is Fusion Summoned: You can make this card gain ATK equal to 1 opponent's Special Summoned monster, until the end of this turn. Once per turn: You can target 1 Level 5 or higher monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. If this Fusion Summoned card is destroyed: You can destroy all your opponent's Special Summoned monsters.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "INVASION: VENGEANCE",
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "LEGENDARY DRAGON DECKS",
+        "QUARTER CENTURY STAMPEDE",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Ambush Fangs",
+        "Astrograph Sorcerer",
+        "Chronograph Sorcerer",
+        "Odd-Eyes Venom Dragon",
+        "Predaplant Bal Teah",
+        "Predaplant Lilizard",
+        "Purple Poison Magician",
+        "Snake Deity's Command",
+        "Soul of the Supreme Celestial King",
+        "Soul of the Supreme King",
+        "Supreme King Gate Magician",
+        "Thorns of Violet Poison",
+        "Venom Shot",
+        "Venom Swamp"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

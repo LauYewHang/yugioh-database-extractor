@@ -1,0 +1,19 @@
+{
+    "name": "Rhaimundos of the Red Sword",
+    "filename": "Rhaimundos_of_the_Red_Sword",
+    "card_text": "Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.",
+    "release_date": "2015-10-23",
+    "available_set": [
+        "ASTRAL PACK EIGHT"
+    ],
+    "related_card": [
+        "Vermillion Sparrow"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

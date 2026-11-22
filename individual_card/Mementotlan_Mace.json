@@ -1,0 +1,35 @@
+{
+    "name": "Mementotlan Mace",
+    "filename": "Mementotlan_Mace",
+    "card_text": "During your opponent's Main Phase, if you control \"Mementoal Tecuhtlica - Combined Creation\" (Quick Effect): You can discard this card, then target 1 face-up monster your opponent controls; take control of it until the End Phase. During your Main Phase: You can destroy 1 \"Memento\" monster you control, and if you do, add 1 \"Memento\" card from your Deck to your hand, except \"Mementotlan Mace\". You can only use each effect of \"Mementotlan Mace\" once per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Mementoal Tecuhtlica - Combined Creation",
+        "Mementomictlan",
+        "Mementomictlan Tecuhtlica - Creation King",
+        "Mementotlan Akihiron",
+        "Mementotlan Angwitch",
+        "Mementotlan Bone Back",
+        "Mementotlan Bone Party",
+        "Mementotlan Cranium Burst",
+        "Mementotlan Dark Blade",
+        "Mementotlan Fracture Dance",
+        "Mementotlan Fusion",
+        "Mementotlan Ghattic",
+        "Mementotlan Goblin",
+        "Mementotlan Shleepy",
+        "Mementotlan Tatsunootoshigo",
+        "Mementotlan Twin Dragon",
+        "Mementotlan-Horned Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 400,
+    "defense": 300,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

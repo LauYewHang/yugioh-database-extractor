@@ -1,0 +1,17 @@
+{
+    "name": "Protron",
+    "filename": "Protron",
+    "card_text": "Ancestral species found in electronic space. No one knows how much information it holds.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

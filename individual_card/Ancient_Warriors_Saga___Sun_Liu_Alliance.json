@@ -1,0 +1,32 @@
+{
+    "name": "Ancient Warriors Saga - Sun-Liu Alliance",
+    "filename": "Ancient_Warriors_Saga___Sun_Liu_Alliance",
+    "card_text": "If you control \"Ancient Warriors\" monsters with 2 or more different Attributes: You can declare 1 Attribute; your opponent cannot activate the effects of monsters they currently control with that Attribute, until the end of this turn (even if this card leaves the field). If your opponent Special Summons a monster(s), or you activate an \"Ancient Warriors\" monster's effect (except during the Damage Step): You can make all \"Ancient Warriors\" monsters you control gain 300 ATK for each \"Ancient Warriors\" monster you control until the end of this turn (even if this card leaves the field). You can only use each effect of \"Ancient Warriors Saga - Sun-Liu Alliance\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Ancient Warriors - Ambitious Cao De",
+        "Ancient Warriors - Deceptive Jia Wen",
+        "Ancient Warriors - Eccentric Lu Jing",
+        "Ancient Warriors - Fearsome Zhang Yuan",
+        "Ancient Warriors - Graceful Zhou Gong",
+        "Ancient Warriors - Ingenious Zhuge Kong",
+        "Ancient Warriors - Loyal Guan Yun",
+        "Ancient Warriors - Masterful Sun Mou",
+        "Ancient Warriors - Rebellious Lu Feng",
+        "Ancient Warriors - Savage Don Ying",
+        "Ancient Warriors - Valiant Zhang De",
+        "Ancient Warriors - Virtuous Liu Xuan",
+        "Ancient Warriors Oath - Double Dragon Lords",
+        "Ancient Warriors Saga - Borrowing of Arrows",
+        "Ancient Warriors Saga - Chivalrous Path",
+        "Ancient Warriors Saga - Deception and Betrayal",
+        "Ancient Warriors Saga - Defense of Changban",
+        "Ancient Warriors Saga - East-by-South Winds",
+        "Ancient Warriors Saga - Three Visits"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ivy Shackles",
+    "filename": "Ivy_Shackles",
+    "card_text": "All face-up monsters your opponent controls become Plant-Type during your turns only. If this face-up card you control is destroyed and sent to your Graveyard by an opponent's card effect: Draw 1 card.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "CRIMSON CRISIS",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

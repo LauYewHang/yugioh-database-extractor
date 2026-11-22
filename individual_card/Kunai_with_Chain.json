@@ -1,0 +1,27 @@
+{
+    "name": "Kunai with Chain",
+    "filename": "Kunai_with_Chain",
+    "card_text": "Activate 1 or both of these effects (simultaneously);\n\u25cfWhen an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position.\n\u25cfTarget 1 face-up monster you control; equip this card to that target. It gains 500 ATK.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "QUARTER CENTURY BONANZA",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "DUEL TERMINAL 5A",
+        "THE DUELIST GENESIS",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "MILLENNIUM PACK",
+        "2-PLAYER STARTER SET",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "WARRIORS' STRIKE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

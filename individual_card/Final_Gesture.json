@@ -1,0 +1,12 @@
+{
+    "name": "Final Gesture",
+    "filename": "Final_Gesture",
+    "card_text": "Target 1 face-up Level 3 monster you control; Special Summon 1 monster with the same name as that monster from your hand or Graveyard. Its effects are negated. During the End Phase of this turn, destroy the face-up monster that was targeted by this card.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

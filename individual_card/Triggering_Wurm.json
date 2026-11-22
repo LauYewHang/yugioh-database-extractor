@@ -1,0 +1,17 @@
+{
+    "name": "Triggering Wurm",
+    "filename": "Triggering_Wurm",
+    "card_text": "If this card is sent to the GY as Link Material for the Link Summon of a DARK monster: You can Special Summon this card from your GY in Attack Position, to your zone that Link Monster points to, but it cannot be used as Link Material. If this card is destroyed or banished by an effect activated by a Link Monster: Draw 1 card. You can only use each effect of \"Triggering Wurm\" once per turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Dark Armed Dragon",
+    "filename": "Dark_Armed_Dragon",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your GY. You can banish 1 DARK monster from your GY, then target 1 card on the field; destroy that target.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "COLLECTIBLE TIN 2010 WAVE 1",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "PREMIUM GOLD",
+        "GOLD SERIES 2009",
+        "PHANTOM DARKNESS",
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "TURBO PACK BOOSTER SIX",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Flash",
+        "Armed Dragon Lightning",
+        "Armed Dragon LV10 White",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon Thunderbolt",
+        "Armed Neos",
+        "Ojama Pajama",
+        "Ojamatch",
+        "Pile Armed Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

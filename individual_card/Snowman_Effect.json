@@ -1,0 +1,12 @@
+{
+    "name": "Snowman Effect",
+    "filename": "Snowman_Effect",
+    "card_text": "Target 1 face-up monster you control; it gains ATK equal to the combined original ATK of the other monsters you control, until the end of this turn. It cannot attack directly during the turn you activate this card. You can only activate 1 \"Snowman Effect\" per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

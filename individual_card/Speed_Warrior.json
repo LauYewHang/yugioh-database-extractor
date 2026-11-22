@@ -1,0 +1,25 @@
+{
+    "name": "Speed Warrior",
+    "filename": "Speed_Warrior",
+    "card_text": "Once per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.",
+    "release_date": "2008-08-05",
+    "available_set": [
+        "SYNCHRON EXTREME STRUCTURE DECK",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "5D's STARTER DECK 2009",
+        "5D's STARTER DECK 2008",
+        "DUELIST PACK - YUSEI -",
+        "DUELIST PACK COLLECTION TIN 2010 PROMO PACK",
+        "5D's STARTER DECK DUELIST TOOLBOX"
+    ],
+    "related_card": [
+        "Limiter Overload"
+    ],
+    "attribute": "WIND",
+    "attack": 900,
+    "defense": 400,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

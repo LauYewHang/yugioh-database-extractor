@@ -1,0 +1,17 @@
+{
+    "name": "Shiba-Warrior Taro",
+    "filename": "Shiba_Warrior_Taro",
+    "card_text": "This card cannot be destroyed by battle. When a card on the field is destroyed by battle or by a card effect, return this face-up card to its owner's hand.",
+    "release_date": "2008-12-08",
+    "available_set": [
+        "ANNIVERSARY PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 600,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

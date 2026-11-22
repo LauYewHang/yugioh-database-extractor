@@ -1,0 +1,21 @@
+{
+    "name": "Bokoichi the Freightening Car",
+    "filename": "Bokoichi_the_Freightening_Car",
+    "card_text": "A freight car that is exclusively for Dekoichi. It can transport anything, but most cargo arrives broken.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "RISE OF DESTINY",
+        "SPEED DUEL: SCARS OF BATTLE",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Dekoichi the Battlechanted Locomotive"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

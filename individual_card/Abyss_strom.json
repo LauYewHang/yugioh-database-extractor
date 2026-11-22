@@ -1,0 +1,33 @@
+{
+    "name": "Abyss-strom",
+    "filename": "Abyss_strom",
+    "card_text": "Send 1 face-up \"Umi\" you control to the Graveyard; send all Spell and Trap Cards on the field to the Graveyard.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Abysstrite, the Atlantean Spirit",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Mermail Abyssleed",
+        "Mermail Abyssmegalo",
+        "Mermail King - Neptabyss",
+        "Monster Arms of Atlantis",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

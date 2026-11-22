@@ -1,0 +1,18 @@
+{
+    "name": "Element Doom",
+    "filename": "Element_Doom",
+    "card_text": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field:\n\u25cfEARTH: Negate the effect of an Effect Monster that this card destroyed by battle.\n\u25cfWIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

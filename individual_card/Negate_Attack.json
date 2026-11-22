@@ -1,0 +1,28 @@
+{
+    "name": "Negate Attack",
+    "filename": "Negate_Attack",
+    "card_text": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.",
+    "release_date": "2003-11-04",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DUEL TERMINAL 1",
+        "STARTER DECK SABER FORCE (US)",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "DUEL TERMINAL - PREVIEW WAVE 1",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "STRUCTURE DECK : SETO KAIBA",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STARTER DECK SYRUS TRUESDALE",
+        "Yu-Gi-Oh! The Sacred Cards Bundles",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK DARK LEGION (US)",
+        "STARTER DECK JADEN YUKI",
+        "DUELIST PACK - JADEN YUKI -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

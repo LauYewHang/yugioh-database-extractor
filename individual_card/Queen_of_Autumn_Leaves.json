@@ -1,0 +1,17 @@
+{
+    "name": "Queen of Autumn Leaves",
+    "filename": "Queen_of_Autumn_Leaves",
+    "card_text": "Queen of the Emerald Forest and wife of the Spirit King, she lives surrounded by vivid red leaves.",
+    "release_date": "2002-10-01",
+    "available_set": [
+        "TOURNAMENT PACK 2ND SEASON"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Plant",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

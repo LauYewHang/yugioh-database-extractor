@@ -1,0 +1,22 @@
+{
+    "name": "Five-Headed Dragon",
+    "filename": "Five_Headed_Dragon",
+    "card_text": "5 Dragon monsters\nMust be Fusion Summoned. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.",
+    "release_date": "2006-10-25",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "MILLENNIUM PACK",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "STRUCTURE DECK DINOSAUR'S RAGE SPECIAL EDITION"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 5000,
+    "defense": 5000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

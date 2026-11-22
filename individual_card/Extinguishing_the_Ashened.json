@@ -1,0 +1,22 @@
+{
+    "name": "Extinguishing the Ashened",
+    "filename": "Extinguishing_the_Ashened",
+    "card_text": "Send 1 DARK Pyro monster from your Deck to the GY, then you can add 1 Level 5 or higher Pyro monster from your GY to your hand. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except Pyro monsters. You can banish this card from your GY; Fusion Summon 1 Pyro Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Extinguishing the Ashened\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ashened for Eternity",
+        "King of the Ashened City",
+        "Obsidim, the Ashened City",
+        "Priestess of the Ashened City",
+        "Rekindling the Ashened",
+        "Shaman of the Ashened City",
+        "Veidos the Dragon of Endless Darkness",
+        "Veidos the Eruption Dragon of Extinction"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Creation Resonator",
+    "filename": "Creation_Resonator",
+    "card_text": "If you control a Level 8 or higher Synchro Monster, you can Special Summon this card (from your hand).",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "STARSTRIKE BLAST",
+        "LEGENDARY COLLECTION 5D's MEGA PACK"
+    ],
+    "related_card": [
+        "Chain Resonator",
+        "Crimson Blade Dragon",
+        "Crimson Resonator",
+        "Darkness Resonator",
+        "Power Vice Dragon",
+        "Red Carpet",
+        "Red Rising Dragon",
+        "Red Warg",
+        "Resonant Destruction",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Synkron Resonator",
+        "Time to Stand Up"
+    ],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": 600,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

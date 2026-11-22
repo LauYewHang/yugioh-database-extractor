@@ -1,0 +1,26 @@
+{
+    "name": "Clown Crew Matinee Operatics",
+    "filename": "Clown_Crew_Matinee_Operatics",
+    "card_text": "During your Main Phase: You can Special Summon 1 \"Clown Crew\" monster from your Deck or Extra Deck, ignoring its Summoning conditions, also until the end of the next turn after this effect resolves, you cannot activate the effect of monsters Special Summoned from the Deck or Extra Deck. During the End Phase: You can draw cards equal to the number of different card types of monsters Tributed this turn (Ritual, Fusion, Synchro, Xyz, Pendulum, Link), then you can Set 1 Spell/Trap from your hand. You can only use each effect of \"Clown Crew Matinee Operatics\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Clown Crew Biancaviso",
+        "Clown Crew Cappello",
+        "Clown Crew Diabolo",
+        "Clown Crew Dristy",
+        "Clown Crew Fiends",
+        "Clown Crew Finale",
+        "Clown Crew Flair",
+        "Clown Crew Malabarisme",
+        "Clown Crew Meteor",
+        "Clown Crew New Face",
+        "Clown Crew Rehearsal",
+        "Clown Crew Soiree Operations"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

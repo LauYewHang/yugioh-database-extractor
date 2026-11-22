@@ -1,0 +1,29 @@
+{
+    "name": "Aromaseraphy Sweet Marjoram",
+    "filename": "Aromaseraphy_Sweet_Marjoram",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nWhile your LP are higher than your opponent's, your opponent cannot target Plant monsters you control with card effects. You can only use each of the following effects of \"Aromaseraphy Sweet Marjoram\" once per turn.\n\u25cfIf this card is Synchro Summoned: You can add 1 \"Humid Winds\", \"Dried Winds\", or \"Blessed Winds\" from your Deck to your hand.\n\u25cfIf you gain LP: Target 1 card your opponent controls; destroy it.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aromage Marjoram",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Blessed Winds",
+        "Dried Winds",
+        "Humid Winds"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2200,
+    "defense": 2000,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

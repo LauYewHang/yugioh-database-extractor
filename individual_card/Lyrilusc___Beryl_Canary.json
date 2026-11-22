@@ -1,0 +1,31 @@
+{
+    "name": "Lyrilusc - Beryl Canary",
+    "filename": "Lyrilusc___Beryl_Canary",
+    "card_text": "If this card is in your hand: You can target 1 \"Lyrilusc\" monster in your GY; Special Summon both this card and that monster, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Lyrilusc - Beryl Canary\" once per turn. A WIND Xyz Monster that was Summoned using this card on the field as material gains this effect.\n\u25cfThis card gains 200 ATK, also its control cannot switch.",
+    "release_date": "2021-10-29",
+    "available_set": [
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
+    ],
+    "related_card": [
+        "Lyrilusc - Assembled Nightingale",
+        "Lyrilusc - Bird Call",
+        "Lyrilusc - Bird Sanctuary",
+        "Lyrilusc - Bird Strike",
+        "Lyrilusc - Celestine Wagtail",
+        "Lyrilusc - Cobalt Sparrow",
+        "Lyrilusc - Ensemblue Robin",
+        "Lyrilusc - Independent Nightingale",
+        "Lyrilusc - Phantom Feathers",
+        "Lyrilusc - Promenade Thrush",
+        "Lyrilusc - Recital Starling",
+        "Lyrilusc - Sapphire Swallow",
+        "Lyrilusc - Turquoise Warbler"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

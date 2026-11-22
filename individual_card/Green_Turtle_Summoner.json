@@ -1,0 +1,17 @@
+{
+    "name": "Green Turtle Summoner",
+    "filename": "Green_Turtle_Summoner",
+    "card_text": "FLIP: Target 1 monster your opponent controls; destroy it.",
+    "release_date": "2014-07-11",
+    "available_set": [
+        "SUPER STARTER SPACE-TIME SHOWDOWN"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 400,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

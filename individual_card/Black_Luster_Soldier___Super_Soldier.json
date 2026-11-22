@@ -1,0 +1,41 @@
+{
+    "name": "Black Luster Soldier - Super Soldier",
+    "filename": "Black_Luster_Soldier___Super_Soldier",
+    "card_text": "You can Ritual Summon this card with \"Super Soldier Ritual\". If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to its ATK in the Graveyard. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 \"Gaia The Fierce Knight\" monster from your hand, Deck, or Graveyard. You can only Special Summon \"Black Luster Soldier - Super Soldier(s)\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Beginning Knight",
+        "Beginning of Heaven and Earth",
+        "Chaos Form",
+        "Charging Gaia the Fierce Knight",
+        "Envoy of Chaos",
+        "Evening Twilight Knight",
+        "Gaia The Fierce Knight",
+        "Gaia the Fierce Knight Origin",
+        "Gaia the Magical Knight",
+        "Gateway to Chaos",
+        "Heart of Gaia",
+        "Lord Gaia the Fierce Knight",
+        "Magician of Chaos",
+        "Master of Chaos",
+        "Soldier Gaia The Fierce Knight",
+        "Super Soldier Rebirth",
+        "Super Soldier Ritual",
+        "Super Soldier Shield",
+        "Super Soldier Soul",
+        "Super Soldier Synthesis",
+        "Swift Gaia the Fierce Knight"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

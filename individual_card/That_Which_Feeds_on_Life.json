@@ -1,0 +1,17 @@
+{
+    "name": "That Which Feeds on Life",
+    "filename": "That_Which_Feeds_on_Life",
+    "card_text": "A monster that feeds on the energy of other creatures.",
+    "release_date": "2020-05-15",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

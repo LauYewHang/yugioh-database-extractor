@@ -1,0 +1,16 @@
+{
+    "name": "Mountain",
+    "filename": "Mountain",
+    "card_text": "All Dragon, Winged Beast, and Thunder monsters on the field gain 200 ATK/DEF.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "STARTER DECK JOEY",
+        "STARTER DECK KAIBA Evolution",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

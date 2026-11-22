@@ -1,0 +1,18 @@
+{
+    "name": "Doomking Balerdroch",
+    "filename": "Doomking_Balerdroch",
+    "card_text": "During the Standby Phase, if a face-up card is in a Field Zone and this card is in your GY: You can Special Summon this card in Defense Position. You can only use this effect of \"Doomking Balerdroch\" once per turn. Once per Chain, when a Zombie monster, except \"Doomking Balerdroch\", activates its effect (except during the Damage Step) (Quick Effect): You can apply 1 of these effects (but you cannot apply that same effect of \"Doomking Balerdroch\" again this turn).\n\u25cfNegate that effect.\n\u25cfBanish 1 monster from the field or GY.",
+    "release_date": "2018-11-02",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "STRUCTURE DECK: ZOMBIE HORDE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

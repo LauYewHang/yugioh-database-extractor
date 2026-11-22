@@ -1,0 +1,22 @@
+{
+    "name": "Vice Dragon",
+    "filename": "Vice_Dragon",
+    "card_text": "If only your opponent controls a monster, you can Special Summon this card (from your hand), but its original ATK/DEF become halved.",
+    "release_date": "2010-06-23",
+    "available_set": [
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "GOLD SERIES 3",
+        "HIGH-SPEED RIDERS",
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "DRAGONS COLLIDE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 2400,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Welcome Labrynth",
+    "filename": "Welcome_Labrynth",
+    "card_text": "Special Summon 1 \"Labrynth\" monster from your Deck, also until the end of the next turn after this card resolves, you cannot Special Summon from the Deck or Extra Deck, except Fiend monsters. If a monster leaves the field by your Normal Trap effect, while this card is in your GY, except the turn it was sent there: You can Set this card. You can only use each effect of \"Welcome Labrynth\" once per turn.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "WINNER'S PACK 2026-2027",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "TACTICAL MASTERS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Ariane the Labrynth Servant",
+        "Arianna the Labrynth Servant",
+        "Arias the Labrynth Butler",
+        "Big Welcome Labrynth",
+        "Farewelcome Labrynth",
+        "Labrynth Archfiend",
+        "Labrynth Barrage",
+        "Labrynth Chandraglier",
+        "Labrynth Cooclock",
+        "Labrynth Labyrinth",
+        "Labrynth Set-Up",
+        "Labrynth Stovie Torbie",
+        "Lady Labrynth of the Silver Castle",
+        "Lovely Labrynth of the Silver Castle"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

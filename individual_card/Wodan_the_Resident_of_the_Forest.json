@@ -1,0 +1,17 @@
+{
+    "name": "Wodan the Resident of the Forest",
+    "filename": "Wodan_the_Resident_of_the_Forest",
+    "card_text": "Increase this card's ATK by 100 points for every Plant-Type monster that is face-up on the field.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "TOURNAMENT PACK 1ST SEASON"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 900,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

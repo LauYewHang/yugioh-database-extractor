@@ -1,0 +1,12 @@
+{
+    "name": "Seal of the Ancients",
+    "filename": "Seal_of_the_Ancients",
+    "card_text": "Pay 1000 Life Points. Pick up and see all face-down cards on your opponent's side of the field, then return them to their original positions. (The effects of the face-down cards are not activated.)",
+    "release_date": "2004-04-06",
+    "available_set": [
+        "Yu-Gi-Oh! POWER OF CHAOS KAIBA THE REVENGE Bundles"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

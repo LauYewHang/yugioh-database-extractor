@@ -1,0 +1,38 @@
+{
+    "name": "Yosenju Tsujik",
+    "filename": "Yosenju_Tsujik",
+    "card_text": "During the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of these effects of \"Yosenju Tsujik\" once per turn.\n\u25cfDuring either player's Damage Step, when a \"Yosenju\" monster you control battles an opponent's monster: You can discard this card; that monster you control gains 1000 ATK until the end of this turn.\n\u25cfYou can target 1 \"Yosenju\" monster on the field; it gains 1000 ATK until the end of this turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "Dizzying Winds of Yosen Village",
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosen Training Grounds",
+        "Yosen Whirlwind",
+        "Yosenju Izna",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Kodam",
+        "Yosenju Magat",
+        "Yosenju Misak",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Shinchu R",
+        "Yosenju Wind Worship",
+        "Yosenjus' Secret Move",
+        "Yosenjus' Sword Sting"
+    ],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 0,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

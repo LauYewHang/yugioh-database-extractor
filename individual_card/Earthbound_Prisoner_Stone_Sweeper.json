@@ -1,0 +1,30 @@
+{
+    "name": "Earthbound Prisoner Stone Sweeper",
+    "filename": "Earthbound_Prisoner_Stone_Sweeper",
+    "card_text": "If there is a card in a Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Earthbound Prisoner Stone Sweeper\" once per turn this way. You can discard this card; add 1 Level 3 or lower Fiend Tuner from your Deck to your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion or Synchro Monsters. You can only use this effect of \"Earthbound Prisoner Stone Sweeper\" once per turn.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA",
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "Earthbound Fusion",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Prison",
+        "Earthbound Prisoner Ground Keeper",
+        "Earthbound Prisoner Line Walker",
+        "Earthbound Release",
+        "Earthbound Servant Geo Grasha",
+        "Earthbound Servant Geo Gremlin",
+        "Earthbound Servant Geo Gremlina",
+        "Earthbound Servant Geo Gryphon",
+        "Earthbound Servant Geo Kraken"
+    ],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1600,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

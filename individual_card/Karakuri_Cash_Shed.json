@@ -1,0 +1,40 @@
+{
+    "name": "Karakuri Cash Shed",
+    "filename": "Karakuri_Cash_Shed",
+    "card_text": "Activate only if you control a \"Karakuri\" monster in face-up Defense Position. Negate the activation of an opponent's Spell/Trap Card and destroy it.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Golden Gearbox",
+        "Karakuri Anatomy",
+        "Karakuri Barrel mdl 96 \"Shinkuro\"",
+        "Karakuri Bonze mdl 9763 \"Kunamzan\"",
+        "Karakuri Bushi mdl 6318 \"Muzanichiha\"",
+        "Karakuri Cash Cache",
+        "Karakuri Cash Inn",
+        "Karakuri Gama mdl 4624 \"Shirokunishi\"",
+        "Karakuri Gama Oil",
+        "Karakuri Gold Dust",
+        "Karakuri Klock",
+        "Karakuri Komachi mdl 224 \"Ninishi\"",
+        "Karakuri Merchant mdl 177 \"Inashichi\"",
+        "Karakuri Muso mdl 818 \"Haipa\"",
+        "Karakuri Ninja mdl 339 \"Sazank\"",
+        "Karakuri Ninja mdl 7749 \"Nanashick\"",
+        "Karakuri Ninja mdl 919 \"Kuick\"",
+        "Karakuri Shogun mdl 00 \"Burei\"",
+        "Karakuri Showdown Castle",
+        "Karakuri Soldier mdl 236 \"Nisamu\"",
+        "Karakuri Spider",
+        "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+        "Karakuri Strategist mdl 248 \"Nishipachi\"",
+        "Karakuri Super Shogun mdl 00N \"Bureibu\"",
+        "Karakuri Trick House",
+        "Karakuri Watchdog mdl 313 \"Saizan\"",
+        "Runaway Karakuri"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

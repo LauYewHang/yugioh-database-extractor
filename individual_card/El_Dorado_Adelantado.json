@@ -1,0 +1,26 @@
+{
+    "name": "El Dorado Adelantado",
+    "filename": "El_Dorado_Adelantado",
+    "card_text": "If you control an \"Eldlich\" monster: Activate 1 of these effects;\n\u25cfShuffle 3 of your banished \"Eldlixir\" Spells/Traps with different names into your Deck, and if you do, destroy all cards on the field.\n\u25cfShuffle 3 of your banished \"Golden Land\" Spells/Traps with different names into your Deck, and if you do, halve your opponent's LP, then you gain LP equal to their LP.\nYou can only activate 1 \"El Dorado Adelantado\" per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Conquistador of the Golden Land",
+        "Eldlich the Golden Lord",
+        "Eldlich the Mad Golden Lord",
+        "Eldlixir of Black Awakening",
+        "Eldlixir of Scarlet Sanguine",
+        "Eldlixir of the Glorious Golden Land",
+        "Eldlixir of White Destiny",
+        "Fallen Angel of the Golden Land",
+        "Golden Land Forever!",
+        "Guardian of the Golden Land",
+        "Huaquero of the Golden Land",
+        "Seven Cities of the Golden Land"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

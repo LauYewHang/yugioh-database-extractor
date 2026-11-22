@@ -1,0 +1,13 @@
+{
+    "name": "Continuous Destruction Punch",
+    "filename": "Continuous_Destruction_Punch",
+    "card_text": "If the DEF of the attacked Defense Position monster on your side of the field is higher than the ATK of the attacking monster on your opponent's side of the field, destroy the attacking monster. Damage calculation is applied normally.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

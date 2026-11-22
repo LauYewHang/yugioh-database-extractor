@@ -1,0 +1,16 @@
+{
+    "name": "Eternal Rest",
+    "filename": "Eternal_Rest",
+    "card_text": "Destroy all monsters equipped with Equip Cards.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "STARTER DECK JOEY",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

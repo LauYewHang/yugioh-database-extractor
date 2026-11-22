@@ -1,0 +1,24 @@
+{
+    "name": "Vision Release",
+    "filename": "Vision_Release",
+    "card_text": "Target 1 \"Vision HERO\" Monster Card in your Spell & Trap Zone; Special Summon it. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Vision HERO\" monster in your GY; add it to your hand.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [
+        "Vision HERO Adoration",
+        "Vision HERO Faris",
+        "Vision HERO Gravito",
+        "Vision HERO Increase",
+        "Vision HERO Minimum Ray",
+        "Vision HERO Multiply Guy",
+        "Vision HERO Poisoner",
+        "Vision HERO Trinity",
+        "Vision HERO Vyon",
+        "Vision HERO Witch Raider"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Theia, the Primal Being",
+    "filename": "Theia__the_Primal_Being",
+    "card_text": "During the Main Phase (Quick Effect): You can Tribute monsters whose total Levels equal 11 or more; Special Summon this card from your hand, then if you control no other monsters, you can destroy 1 monster on the field with the highest ATK (your choice, if tied). You can only use this effect of \"Theia, the Primal Being\" once per turn. Neither player can Normal and/or Special Summon more than 4 times per turn while this card is face-up in the Monster Zone.",
+    "release_date": "2024-09-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 600,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

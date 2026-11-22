@@ -1,0 +1,32 @@
+{
+    "name": "Hundred Eyes Dragon",
+    "filename": "Hundred_Eyes_Dragon",
+    "card_text": "1 DARK Tuner + 1+ non-Tuner Fiend monsters\nOnce per turn: You can banish 1 Level 6 or lower DARK Effect Monster from your GY; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. If this card is destroyed and sent to the GY: Add 1 \"Earthbound Immortal\" monster from your Deck to your hand.",
+    "release_date": "2011-04-05",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK COLLECTION TIN 2011",
+        "MAZE OF MILLENNIA",
+        "SHONEN JUMP Promotional Card - May 2010 -"
+    ],
+    "related_card": [
+        "Earthbound Immortal Aslla piscu",
+        "Earthbound Immortal Ccapac Apu",
+        "Earthbound Immortal Ccarayhua",
+        "Earthbound Immortal Chacu Challhua",
+        "Earthbound Immortal Cusillu",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Immortal Revival",
+        "Earthbound Immortal Uru",
+        "Earthbound Immortal Wiraqocha Rasca",
+        "Roar of the Earthbound Immortal",
+        "Ultimate Earthbound Immortal"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

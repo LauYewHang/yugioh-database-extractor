@@ -1,0 +1,30 @@
+{
+    "name": "Blade Knight",
+    "filename": "Blade_Knight",
+    "card_text": "Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
+    "release_date": "2004-09-01",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STARTER DECK DAWN OF THE XYZ",
+        "DUELIST LEAGUE 2010",
+        "STARTER DECK SABER FORCE (US)",
+        "CHAMPION PACK GAME SIX",
+        "COLLECTIBLE TIN SERIES 1",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DARK BEGINNING 2",
+        "DUEL TERMINAL 4",
+        "STARTER DECK KAIBA RELOADED",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Thor, Lord of the Aesir",
+    "filename": "Thor__Lord_of_the_Aesir",
+    "card_text": "1 \"Nordic Beast\" Tuner + 2+ non-Tuner monsters\nOnce per turn: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent's card and sent to your GY this turn: You can banish 1 \"Nordic Beast\" Tuner from your GY; Special Summon this card. When Summoned this way: You can inflict 800 damage to your opponent.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STAR PACK 2014",
+        "OTS TOURNAMENT PACK 26",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Alviss of the Nordic Alfar",
+        "Divine Relic Mjollnir",
+        "Fenrir the Nordic Wolf",
+        "Garmr of the Nordic Beasts",
+        "Gotterdammerung",
+        "Guldfaxe of the Nordic Beasts",
+        "Gullveig of the Nordic Ascendant",
+        "Jormungardr the Nordic Serpent",
+        "March Towards Ragnarok",
+        "Nordic Beast Gullinbursti",
+        "Nordic Relic Draupnir",
+        "Nordic Relic Gungnir",
+        "Nordic Relic Hlidskjalf",
+        "Nordic Relic Megingjord",
+        "Nordic Relic Svalinn",
+        "Nordic Smith Ivaldi",
+        "Odin's Eye",
+        "Solemn Authority",
+        "Tanngnjostr of the Nordic Beasts",
+        "Tanngrisnir of the Nordic Beasts"
+    ],
+    "attribute": "EARTH",
+    "attack": 3500,
+    "defense": 2800,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,23 @@
+{
+    "name": "YZ-Tank Dragon",
+    "filename": "YZ_Tank_Dragon",
+    "card_text": "\"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 face-down monster your opponent controls; destroy that target.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Y-Dragon Head",
+        "Z-Metal Tank"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 2200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

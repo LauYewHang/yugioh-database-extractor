@@ -1,0 +1,17 @@
+{
+    "name": "Radius, the Half-Moon Dragon",
+    "filename": "Radius__the_Half_Moon_Dragon",
+    "card_text": "If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). If you do, this card's Level becomes 8.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

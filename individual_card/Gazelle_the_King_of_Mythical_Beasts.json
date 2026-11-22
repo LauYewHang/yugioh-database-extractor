@@ -1,0 +1,38 @@
+{
+    "name": "Gazelle the King of Mythical Beasts",
+    "filename": "Gazelle_the_King_of_Mythical_Beasts",
+    "card_text": "This monster moves so fast that it looks like an illusion to mortal eyes.\n\n(This card is always treated as a \"Phantom Beast\" card.)",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK LEGENDS",
+        "METAL RAIDERS",
+        "STARTER DECK YUGI Evolution",
+        "RETRO PACK",
+        "MAZE OF MILLENNIA",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK 2006",
+        "STRUCTURE DECK : YUGI MUTO"
+    ],
+    "related_card": [
+        "Berfomet",
+        "Berfomet the Mythical King of Phantom Beasts",
+        "Chimera Fusion",
+        "Chimera the Flying Mythical Beast",
+        "Chimera the Illusion Beast",
+        "Chimera the King of Phantom Beasts",
+        "Phantom Beast Cross-Wing",
+        "Phantom Beast Rock-Lizard",
+        "Phantom Beast Thunder-Pegasus"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

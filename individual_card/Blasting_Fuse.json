@@ -1,0 +1,13 @@
+{
+    "name": "Blasting Fuse",
+    "filename": "Blasting_Fuse",
+    "card_text": "If all zones of this card's column are occupied, while this card is Set: Destroy all cards in this column.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

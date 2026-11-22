@@ -1,0 +1,19 @@
+{
+    "name": "Dokuroyaiba",
+    "filename": "Dokuroyaiba",
+    "card_text": "A boomerang with brains that will pursue a target to the ends of the earth.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

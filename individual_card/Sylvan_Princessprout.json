@@ -1,0 +1,27 @@
+{
+    "name": "Sylvan Princessprout",
+    "filename": "Sylvan_Princessprout",
+    "card_text": "You can only activate each effect of \"Sylvan Princessprout\" once per turn.\n\u25cfYou can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.\n\u25cfIf this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Mount Sylvania",
+        "Sylvan Blessing",
+        "Sylvan Charity",
+        "Sylvan Cherubsprout",
+        "Sylvan Flowerknight",
+        "Sylvan Lotuswain",
+        "Sylvan Princessprite",
+        "Sylvan Sagequoia"
+    ],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

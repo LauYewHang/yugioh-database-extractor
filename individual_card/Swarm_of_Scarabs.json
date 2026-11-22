@@ -1,0 +1,22 @@
+{
+    "name": "Swarm of Scarabs",
+    "filename": "Swarm_of_Scarabs",
+    "card_text": "Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: Target 1 monster your opponent controls; destroy that target.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "GOLD SERIES",
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box",
+        "ASTRAL PACK THREE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 1000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

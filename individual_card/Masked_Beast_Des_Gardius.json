@@ -1,0 +1,23 @@
+{
+    "name": "Masked Beast Des Gardius",
+    "filename": "Masked_Beast_Des_Gardius",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 2 monsters, including at least 1 \"Grand Tiki Elder\" or \"Melchid the Four-Face Beast\". If this card is sent from the field to your GY: Target 1 face-up monster your opponent controls; equip 1 \"The Mask of Remnants\" from your Deck to it.",
+    "release_date": "2007-09-12",
+    "available_set": [
+        "TACTICAL EVOLUTION SPECIAL EDITION",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Grand Tiki Elder",
+        "Melchid the Four-Face Beast",
+        "The Mask of Remnants"
+    ],
+    "attribute": "DARK",
+    "attack": 3300,
+    "defense": 2500,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

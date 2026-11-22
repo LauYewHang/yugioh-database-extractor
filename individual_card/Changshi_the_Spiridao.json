@@ -1,0 +1,18 @@
+{
+    "name": "Changshi the Spiridao",
+    "filename": "Changshi_the_Spiridao",
+    "card_text": "During your Main Phase: You can send 1 Zombie monster from your hand or Deck to the GY. If this card is banished: You can banish 1 Zombie monster in your GY; Special Summon this card, but place it on the bottom of the Deck when it leaves the field. You can only use each effect of \"Changshi the Spiridao\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE",
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Orcustrated Babel",
+    "filename": "Orcustrated_Babel",
+    "card_text": "You can activate the effects of \"Orcust\" monsters in your GY, or of Link Monsters you control with \"Orcust\" in their original names, as Quick Effects. During your Main Phase, if this card is in your GY, except the turn it was sent to the GY: You can send 1 card from your hand to the GY; add this card to your hand.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "OTS TOURNAMENT PACK 10"
+    ],
+    "related_card": [
+        "Dingirsu, the Orcust of the Evening Star",
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Galatea, the Orcust Automaton",
+        "Galatea-I, the Orcust Automaton",
+        "Girsu, the Orcust Mekk-Knight",
+        "Longirsu, the Orcust Orchestrator",
+        "Orcust Brass Bombard",
+        "Orcust Crescendo",
+        "Orcust Cymbal Skeleton",
+        "Orcust Harp Horror",
+        "Orcust Knightmare",
+        "Orcustrated Attack",
+        "Orcustrated Core",
+        "Orcustrated Einsatz",
+        "Orcustrated Release",
+        "Orcustrated Return",
+        "Orcustrion",
+        "World Legacy - \"World Wand\""
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

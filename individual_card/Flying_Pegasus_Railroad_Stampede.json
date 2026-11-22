@@ -1,0 +1,18 @@
+{
+    "name": "Flying Pegasus Railroad Stampede",
+    "filename": "Flying_Pegasus_Railroad_Stampede",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 EARTH Machine monster in your GY, except \"Flying Pegasus Railroad Stampede\"; Special Summon it in Defense Position, but negate its effects. You can target 1 other face-up monster you control; the Level of that monster or this card becomes the Level of the other. You cannot declare attacks the turn you activate this effect, except with Xyz Monsters. You can only use each effect of \"Flying Pegasus Railroad Stampede\" once per turn.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

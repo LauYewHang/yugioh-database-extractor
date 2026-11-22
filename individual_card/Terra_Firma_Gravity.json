@@ -1,0 +1,17 @@
+{
+    "name": "Terra Firma Gravity",
+    "filename": "Terra_Firma_Gravity",
+    "card_text": "During your opponent's Battle Phase, if you control \"Elemental HERO Terra Firma\": This turn, all Level 4 or lower monsters your opponent controls that can attack a face-up \"Elemental HERO Terra Firma\" you control must attack it, and cannot otherwise attack.",
+    "release_date": "2008-07-31",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "PREMIUM PACK 2"
+    ],
+    "related_card": [
+        "Elemental HERO Spirit of Neos",
+        "Elemental HERO Terra Firma",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "The Hunter with 7 Weapons",
+    "filename": "The_Hunter_with_7_Weapons",
+    "card_text": "When this card is Normal Summoned, declare 1 Type of monster. When battling that Type of monster, increase the ATK of this card by 1000 points during Damage Calculation.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

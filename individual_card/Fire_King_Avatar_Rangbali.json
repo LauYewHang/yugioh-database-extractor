@@ -1,0 +1,36 @@
+{
+    "name": "Fire King Avatar Rangbali",
+    "filename": "Fire_King_Avatar_Rangbali",
+    "card_text": "If a face-up \"Fire King\" monster(s) you control is destroyed by card effect (except during the Damage Step): You can Special Summon this card from your hand. When a Spell/Trap Card or effect is activated, while this card is on the field (Quick Effect): You can negate the activation, and if you do, destroy 1 other FIRE monster in your hand or face-up field. You can only use each effect of \"Fire King Avatar Rangbali\" once per turn.",
+    "release_date": "2023-12-08",
+    "available_set": [
+        "STRUCTURE DECK: FIRE KINGS"
+    ],
+    "related_card": [
+        "Circle of the Fire Kings",
+        "Cursed Fire King Doom Burst",
+        "Echelon of the Fire Kings",
+        "Fire King Avatar Arvata",
+        "Fire King Avatar Barong",
+        "Fire King Avatar Garunix",
+        "Fire King Avatar Kirin",
+        "Fire King Avatar Yaksha",
+        "Fire King Courtier Ulcanix",
+        "Fire King High Avatar Garunix",
+        "Fire King High Avatar Kirin",
+        "Fire King Island",
+        "Fire King Sanctuary",
+        "Fire King Sky Burn",
+        "Garunix Eternity, Hyang of the Fire Kings",
+        "Legendary Fire King Ponix",
+        "Onslaught of the Fire Kings",
+        "Sacred Fire King Garunix"
+    ],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Dice Try!",
+    "filename": "Dice_Try_",
+    "card_text": "When your opponent activates a Spell/Trap Card, or monster effect, that requires a dice roll: Negate the activation, and if you do, destroy it.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

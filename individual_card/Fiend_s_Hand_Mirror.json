@@ -1,0 +1,14 @@
+{
+    "name": "Fiend's Hand Mirror",
+    "filename": "Fiend_s_Hand_Mirror",
+    "card_text": "Switch the opponent's Spell Card effect that targets 1 Spell or Trap Card to another correct target.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "XYZ Combine",
+    "filename": "XYZ_Combine",
+    "card_text": "If your LIGHT Machine Union Monster Card is banished (except during the Damage Step): You can Special Summon 1 \"X-Head Cannon\", \"Y-Dragon Head\", or \"Z-Metal Tank\" from your Deck. You can return 1 Fusion Monster you control to the Extra Deck; Special Summon up to 2 of your banished monsters with different names, from among \"X-Head Cannon\", \"Y-Dragon Head\", and \"Z-Metal Tank\". You can only use each effect of \"XYZ Combine\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Union Controller",
+        "X-Head Cannon",
+        "Y-Dragon Head",
+        "Z-Metal Tank"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

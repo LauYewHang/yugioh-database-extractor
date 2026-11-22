@@ -1,0 +1,40 @@
+{
+    "name": "Infernity Queen",
+    "filename": "Infernity_Queen",
+    "card_text": "If you have no cards in your hand and this card is in your GY: You can banish 1 DARK monster from your GY, then target 1 DARK monster you control; it can attack directly this turn. You can only use this effect of \"Infernity Queen\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Contract with the Void",
+        "Infernity Archfiend",
+        "Infernity Barrier",
+        "Infernity Break",
+        "Infernity Force",
+        "Infernity General",
+        "Infernity Inferno",
+        "Infernity Launcher",
+        "Infernity Mirage",
+        "Infernity Necromancer",
+        "Infernity Paranoia",
+        "Infernity Patriarch",
+        "Infernity Pawn",
+        "Infernity Reflector",
+        "Infernity Sage",
+        "Infernity Suppression",
+        "Infernity Wildcat",
+        "Phantom Hand",
+        "This Creepy Little Punk",
+        "Void Cauldron",
+        "Wave-Motion Inferno",
+        "ZERO-MAX"
+    ],
+    "attribute": "DARK",
+    "attack": 300,
+    "defense": 900,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

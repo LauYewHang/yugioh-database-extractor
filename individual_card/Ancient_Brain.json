@@ -1,0 +1,21 @@
+{
+    "name": "Ancient Brain",
+    "filename": "Ancient_Brain",
+    "card_text": "A fallen fairy that is powerful in the dark.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Skull Knight"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 700,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

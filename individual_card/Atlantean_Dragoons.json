@@ -1,0 +1,29 @@
+{
+    "name": "Atlantean Dragoons",
+    "filename": "Atlantean_Dragoons",
+    "card_text": "All your Level 3 or lower Sea Serpent monsters can attack directly. If this card is sent to the GY to activate a WATER monster's effect: Add 1 Sea Serpent monster from your Deck to your hand, except \"Atlantean Dragoons\".",
+    "release_date": "2012-10-16",
+    "available_set": [
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "QUARTER CENTURY BONANZA",
+        "ASTRAL PACK TWO",
+        "OTS TOURNAMENT PACK 14"
+    ],
+    "related_card": [
+        "Abyss-sting Triaina",
+        "Abyssrhine, the Atlantean Spirit",
+        "Atlantean Marksman",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad",
+        "Neptabyss, the Atlantean Prince",
+        "Poseidra Abyss, the Atlantean Dragon Lord",
+        "Poseidra, the Storming Atlantean"
+    ],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

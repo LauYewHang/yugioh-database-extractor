@@ -1,0 +1,35 @@
+{
+    "name": "Abyss-scale of Cetus",
+    "filename": "Abyss_scale_of_Cetus",
+    "card_text": "Equip only to a \"Mermail\" monster. It gains 800 ATK. When a Trap effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the Graveyard.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Abyssrhine, the Atlantean Spirit",
+        "Abysstrite, the Atlantean Spirit",
+        "Mermail Abyssalacia",
+        "Mermail Abyssbalaen",
+        "Mermail Abyssdine",
+        "Mermail Abyssgaios",
+        "Mermail Abyssgunde",
+        "Mermail Abysshilde",
+        "Mermail Abyssleed",
+        "Mermail Abysslinde",
+        "Mermail Abysslung",
+        "Mermail Abyssmander",
+        "Mermail Abyssmegalo",
+        "Mermail Abyssnerei",
+        "Mermail Abyssnose",
+        "Mermail Abyssocea",
+        "Mermail Abysspike",
+        "Mermail Abyssteus",
+        "Mermail Abysstrite",
+        "Mermail Abyssturge",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

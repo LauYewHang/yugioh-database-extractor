@@ -1,0 +1,32 @@
+{
+    "name": "Megalith Phul",
+    "filename": "Megalith_Phul",
+    "card_text": "You can Ritual Summon this card with a \"Megalith\" card. If this card is Ritual Summoned: You can target 1 Ritual Monster in your GY; this card's Level becomes the Level of that target, then add that target to your hand. During the Main Phase (Quick Effect): You can activate this effect; Ritual Summon 1 \"Megalith\" Ritual Monster from your hand or Deck by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. You can only use each effect of \"Megalith Phul\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "OTS Tournament Pack 29",
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Megalith Anastasis",
+        "Megalith Aratron",
+        "Megalith Bethor",
+        "Megalith Emergence",
+        "Megalith Hagith",
+        "Megalith Notrah Plura",
+        "Megalith Och",
+        "Megalith Ophiel",
+        "Megalith Phaleg",
+        "Megalith Phuloch",
+        "Megalith Portal",
+        "Megalith Promotion",
+        "Megalith Unformed"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 2000,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

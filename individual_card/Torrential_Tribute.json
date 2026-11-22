@@ -1,0 +1,42 @@
+{
+    "name": "Torrential Tribute",
+    "filename": "Torrential_Tribute",
+    "card_text": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "MASTER OF PENDULUM STRUCTURE DECK",
+        "NOBLE KNIGHTS OF THE ROUND TABLE BOX SET Power-Up Pack",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "PREMIUM GOLD",
+        "STRUCTURE DECK: FIRE KINGS",
+        "STARTER DECK CODEBREAKER",
+        "THE GRAND CREATORS",
+        "DEMO PROGRESSION SET 2026",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
+        "RETRO PACK 2",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "BATTLE PACK EPIC DAWN",
+        "MAZE OF MUERTOS",
+        "GOLD SERIES",
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "STARTER DECK - LINK STRIKE -",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "DUELIST LEAGUE 18",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "TURBO PACK BOOSTER FIVE",
+        "HOBBY LEAGUE 4",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Fury of Kairyu-Shin"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

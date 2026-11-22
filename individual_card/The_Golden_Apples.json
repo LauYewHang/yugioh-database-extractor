@@ -1,0 +1,18 @@
+{
+    "name": "The Golden Apples",
+    "filename": "The_Golden_Apples",
+    "card_text": "When you take battle damage while you control no monsters: Gain LP equal to the battle damage you took, and if you do, Special Summon 1 \"Malus Token\" (Fiend/DARK/Level 1/ATK ?/DEF ?). Its ATK/DEF are each equal to the amount of LP you gained by this effect.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STORM OF RAGNAROK",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "LEGENDARY DUELISTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

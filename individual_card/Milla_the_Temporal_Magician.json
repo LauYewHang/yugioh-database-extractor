@@ -1,0 +1,18 @@
+{
+    "name": "Milla the Temporal Magician",
+    "filename": "Milla_the_Temporal_Magician",
+    "card_text": "When this card is Normal Summoned: Target 1 Set card your opponent controls; look at it. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

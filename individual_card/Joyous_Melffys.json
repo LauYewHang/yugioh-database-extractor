@@ -1,0 +1,38 @@
+{
+    "name": "Joyous Melffys",
+    "filename": "Joyous_Melffys",
+    "card_text": "2+ Level 2 Beast monsters\nYou can detach 1 material from this card; your \"Melffy\" monsters can attack directly this turn. During your opponent's turn (Quick Effect): You can target 1 Beast Xyz Monster you control; return that monster to the Extra Deck, then you can Special Summon Level 2 or lower Beast monsters from your GY, up to the number of materials that monster had. You can only use this effect of \"Joyous Melffys\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Melffy Catty",
+        "Melffy Fenny",
+        "Melffy Footsteps",
+        "Melffy Godmommy",
+        "Melffy Hide-and-Seek",
+        "Melffy Mommy",
+        "Melffy of the Forest",
+        "Melffy Pinny",
+        "Melffy Playhouse",
+        "Melffy Playtime Surprise",
+        "Melffy Pony",
+        "Melffy Puppy",
+        "Melffy Rabby",
+        "Melffy Rabbys",
+        "Melffy Staring Contest",
+        "Melffy Tag",
+        "Melffy Wally",
+        "Melffys' Joyful Surprise",
+        "Merry Melffys"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 500,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 2
+}

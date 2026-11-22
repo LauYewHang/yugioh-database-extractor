@@ -1,0 +1,19 @@
+{
+    "name": "King of the Beasts",
+    "filename": "King_of_the_Beasts",
+    "card_text": "You can Tribute 1 face-up \"Moja\" you control to Special Summon this card from your hand or Graveyard. There can only be 1 face-up \"King of the Beasts\" on the field.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [
+        "Moja"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

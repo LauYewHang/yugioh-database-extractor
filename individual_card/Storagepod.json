@@ -1,0 +1,21 @@
+{
+    "name": "Storagepod",
+    "filename": "Storagepod",
+    "card_text": "\"Trifortressops\" or \"Stegocyber\" + 1 Machine or Dinosaur monster\nCannot be destroyed by battle while a monster Special Summoned from the GY is on the field. If a monster(s) is Special Summoned from the hand while this monster is on the field (except during the Damage Step): You can target 1 card you control and 1 card your opponent controls; destroy them. You can only use this effect of \"Storagepod\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Stegocyber",
+        "Trifortressops"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

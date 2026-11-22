@@ -1,0 +1,30 @@
+{
+    "name": "Dual Avatar - Manifested A-Un",
+    "filename": "Dual_Avatar___Manifested_A_Un",
+    "card_text": "2 \"Dual Avatar\" monsters\nThis card gains the following effect(s), based on the original names of the materials used for its Fusion Summon. \u25cf\"Dual Avatar - Empowered Kon-Gyo\": The ATK of your battling \"Dual Avatar\" monsters become 3000 during damage calculation only. \u25cf\"Dual Avatar - Empowered Mitsu-Jaku\": Once per opponent's turn (Quick Effect): You can target 1 card on the field; banish it.\nIf this Fusion Summoned card is destroyed: You can Special Summon 1 \"Dual Avatar Fists - Yuhi\" and 1 \"Dual Avatar Feet - Kokoku\" from your Deck, and if you do, they cannot be destroyed by battle or card effects this turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Dual Avatar - Empowered Kon-Gyo",
+        "Dual Avatar - Empowered Mitsu-Jaku",
+        "Dual Avatar Ascendance",
+        "Dual Avatar Compact",
+        "Dual Avatar Defeating Evil",
+        "Dual Avatar Feet - Armored Un-Gyo",
+        "Dual Avatar Feet - Kokoku",
+        "Dual Avatar Fists - Armored Ah-Gyo",
+        "Dual Avatar Fists - Yuhi",
+        "Dual Avatar Invitation",
+        "Dual Avatar Return",
+        "Perfect Sync - A-Un"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Just Flip a Coin",
+    "filename": "Just_Flip_a_Coin",
+    "card_text": "If a face-up card(s) you control is destroyed by an opponent's card effect: You can toss a coin and call it. If you call it right, Special Summon 1 monster from your GY. If you call it wrong, Set 1 Trap from your GY. If this card in your possession is destroyed by an opponent's card effect: You can activate 1 of these effects;\n\u25cfSpecial Summon 1 monster from your GY.\n\u25cfSet 1 Trap from your GY.\nYou can only use each effect of \"Just Flip a Coin\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

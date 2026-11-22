@@ -1,0 +1,26 @@
+{
+    "name": "Rahu Dracotail",
+    "filename": "Rahu_Dracotail",
+    "card_text": "Fusion Summon 1 \"Dracotail\" monster from your Extra Deck, using monsters from your hand, Deck, or field, also for the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except Fusion Monsters. You can only activate 1 \"Rahu Dracotail\" per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Dracotail Arthalion",
+        "Dracotail Faimena",
+        "Dracotail Flame",
+        "Dracotail Gulamel",
+        "Dracotail Horn",
+        "Dracotail Lukias",
+        "Dracotail Mululu",
+        "Dracotail Pan",
+        "Dracotail Phryxul",
+        "Dracotail Shaulas",
+        "Dracotail Sting",
+        "Dracotail Urgula",
+        "Ketu Dracotail"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

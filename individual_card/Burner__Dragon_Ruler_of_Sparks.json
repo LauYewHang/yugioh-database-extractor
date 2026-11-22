@@ -1,0 +1,28 @@
+{
+    "name": "Burner, Dragon Ruler of Sparks",
+    "filename": "Burner__Dragon_Ruler_of_Sparks",
+    "card_text": "You can discard this card and 1 Dragon or FIRE monster; Special Summon 1 \"Blaster, Dragon Ruler of Infernos\" from your Deck, but it cannot attack this turn. You can only use this effect of \"Burner, Dragon Ruler of Sparks\" once per turn.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "QUARTER CENTURY BONANZA",
+        "STRUCTURE DECK: FIRE KINGS",
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [
+        "Blaster, Dragon Ruler of Infernos",
+        "Chasma, Dragon Ruler of Auroras",
+        "Disaster, Dragon Ruler of All Apocalypses",
+        "Eclipse, Dragon Ruler of Catastrophes",
+        "Here There Be Dragons",
+        "Nebulus, Dragon Ruler of Mishaps",
+        "Spectral, Dragon Ruler of Flickers"
+    ],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

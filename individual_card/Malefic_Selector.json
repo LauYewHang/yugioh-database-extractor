@@ -1,0 +1,30 @@
+{
+    "name": "Malefic Selector",
+    "filename": "Malefic_Selector",
+    "card_text": "Banish 2 \"Malefic\" cards from your GY; add 2 \"Malefic\" cards from your Deck to your hand, except \"Malefic Selector\", with different names from each other and from the banished cards. You can only activate 1 \"Malefic Selector\" per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Malefic Blue-Eyes White Dragon",
+        "Malefic Claw Stream",
+        "Malefic Cyber End Dragon",
+        "Malefic Divide",
+        "Malefic Force",
+        "Malefic Paradigm Dragon",
+        "Malefic Paradigm Shift",
+        "Malefic Paradox Dragon",
+        "Malefic Paradox Gear",
+        "Malefic Parallel Gear",
+        "Malefic Rainbow Dragon",
+        "Malefic Red-Eyes Black Dragon (Updated from: Malefic Red-Eyes B. Dragon)",
+        "Malefic Stardust Dragon",
+        "Malefic Territory",
+        "Malefic Truth Dragon",
+        "Malefic Tune",
+        "Malefic World"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

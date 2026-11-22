@@ -1,0 +1,17 @@
+{
+    "name": "Spawn Alligator",
+    "filename": "Spawn_Alligator",
+    "card_text": "During the End Phase of the turn this card was Tribute Summoned by Tributing a Reptile-Type monster: Target 1 monster that was used for the Tribute Summon of this card; Special Summon it from the Graveyard.",
+    "release_date": "2011-10-04",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2200,
+    "defense": 1000,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

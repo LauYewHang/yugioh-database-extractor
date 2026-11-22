@@ -1,0 +1,19 @@
+{
+    "name": "Garuda the Wind Spirit",
+    "filename": "Garuda_the_Wind_Spirit",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 WIND monster from your GY. Once per turn, during your opponent's End Phase: You can target 1 face-up monster your opponent controls; change that target's battle position.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

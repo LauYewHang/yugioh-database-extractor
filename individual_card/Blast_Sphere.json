@@ -1,0 +1,25 @@
+{
+    "name": "Blast Sphere",
+    "filename": "Blast_Sphere",
+    "card_text": "If this face-down Defense Position card was attacked by an opponent's monster, before damage calculation: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase: Destroy the monster this card is equipped to, and if you do, inflict damage to your opponent equal to the ATK the destroyed monster had on the field.",
+    "release_date": "2008-01-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DARK LEGENDS",
+        "DUELIST PACK - BATTLE CITY -",
+        "SHONEN JUMP 4-CARD PACK",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "RETRO PACK",
+        "MACHINA MAYHEM STRUCTURE DECK",
+        "BATTLE PACK EPIC DAWN",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Gaia the Magical Knight of Dragons",
+    "filename": "Gaia_the_Magical_Knight_of_Dragons",
+    "card_text": "1 \"Gaia The Fierce Knight\" monster + 1 Level 5 Dragon monster\nThis card's name becomes \"Gaia the Dragon Champion\" while on the field. You can only use each of the following effects of \"Gaia the Magical Knight of Dragons\" once per turn. During the Main Phase (Quick Effect): You can target 1 other card on the field; this card loses exactly 2600 ATK, and if it does, destroy that card. When this card destroys an opponent's monster by battle: You can make this card gain 2600 ATK.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Charging Gaia the Fierce Knight",
+        "Curse of Dragon",
+        "Curse of Dragon, the Magical Knight Dragon",
+        "Dark Magician the Knight of Dragon Magic",
+        "Gaia the Dragon Champion",
+        "Gaia The Fierce Knight",
+        "Gaia the Fierce Knight Origin",
+        "Gaia the Magical Knight",
+        "Galloping Gaia",
+        "Heart of Gaia",
+        "Lord Gaia the Fierce Knight",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Soldier Gaia The Fierce Knight",
+        "Spiral Discharge",
+        "Spiral Fusion",
+        "Spiral Reborn",
+        "Spiral Spear Strike",
+        "Swift Gaia the Fierce Knight"
+    ],
+    "attribute": "WIND",
+    "attack": 2600,
+    "defense": 2100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

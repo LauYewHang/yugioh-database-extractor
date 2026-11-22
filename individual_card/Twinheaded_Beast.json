@@ -1,0 +1,17 @@
+{
+    "name": "Twinheaded Beast",
+    "filename": "Twinheaded_Beast",
+    "card_text": "This card can attack twice during the same Battle Phase.",
+    "release_date": "2004-10-26",
+    "available_set": [
+        "Yu-Gi-Oh! Destiny Board Traveler Bundles"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 1900,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

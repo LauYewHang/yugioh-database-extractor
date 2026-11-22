@@ -1,0 +1,14 @@
+{
+    "name": "Shien's Spy",
+    "filename": "Shien_s_Spy",
+    "card_text": "Target 1 face-up monster you control; give control of it to your opponent until the End Phase of this turn.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "OTS TOURNAMENT PACK 14",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

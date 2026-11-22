@@ -1,0 +1,27 @@
+{
+    "name": "Sunvine Gardna",
+    "filename": "Sunvine_Gardna",
+    "card_text": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. When an attack is declared involving this card, linked to a \"Sunavalon\" Link Monster, and an opponent's monster: You can activate this effect; the damage you take from that battle is halved. When this card is destroyed by battle: End the Battle Phase after the Damage Step.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Sunavalon Bloom",
+        "Sunavalon Daphne",
+        "Sunavalon Dryades",
+        "Sunavalon Dryanome",
+        "Sunavalon Dryas",
+        "Sunavalon Dryatrentiay",
+        "Sunavalon Melias",
+        "Sunseed Shadow",
+        "Sunvine Maiden"
+    ],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": null,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 256
+}

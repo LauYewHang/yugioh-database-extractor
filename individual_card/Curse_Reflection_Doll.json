@@ -1,0 +1,12 @@
+{
+    "name": "Curse Reflection Doll",
+    "filename": "Curse_Reflection_Doll",
+    "card_text": "When a monster effect is activated that would inflict damage to you: Your opponent takes that damage instead. When you take battle damage, while this card is in your GY: You can Set this card. You can only use this effect of \"Curse Reflection Doll\" once per turn.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

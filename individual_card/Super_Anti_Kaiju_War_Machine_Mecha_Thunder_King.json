@@ -1,0 +1,31 @@
+{
+    "name": "Super Anti-Kaiju War Machine Mecha-Thunder-King",
+    "filename": "Super_Anti_Kaiju_War_Machine_Mecha_Thunder_King",
+    "card_text": "During the Main Phase (Quick Effect): You can discard this card; banish 1 \"Kaiju\" monster you control that is owned by your opponent, then, you can Special Summon 1 monster from your GY. You can only control 1 \"Kaiju\" monster. This card is unaffected by other \"Kaiju\" cards' effects, also it cannot be destroyed by battle with a \"Kaiju\" monster. During your End Phase, if this card is in your GY: You can Special Summon this card. You can only use this effect of \"Super Anti-Kaiju War Machine Mecha-Thunder-King\" once per Duel.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Dogoran, the Mad Flame Kaiju",
+        "Gadarla, the Mystery Dust Kaiju",
+        "Gameciel, the Sea Turtle Kaiju",
+        "Interrupted Kaiju Slumber",
+        "Jizukiru, the Star Destroying Kaiju",
+        "Kaiju Capture Mission",
+        "Kumongous, the Sticky String Kaiju",
+        "Kyoutou Waterfront",
+        "Radian, the Multidimensional Kaiju",
+        "Super Anti-Kaiju War Machine Mecha-Dogoran",
+        "The Kaiju Files",
+        "Thunder King, the Lightningstrike Kaiju"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2200,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

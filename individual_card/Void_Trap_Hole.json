@@ -1,0 +1,37 @@
+{
+    "name": "Void Trap Hole",
+    "filename": "Void_Trap_Hole",
+    "card_text": "When your opponent Special Summons a monster(s) with 2000 or more ATK: Negate the effects of 1 of those monsters with 2000 or more ATK, and if you do, destroy it.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "RETURN OF THE DUELIST",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX"
+    ],
+    "related_card": [
+        "El Shaddoll Meshachrer",
+        "Goblin Pothole Squad",
+        "Infernity Pawn",
+        "Infernoid Devyaty",
+        "Infernoid Evil",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo",
+        "Void Feast",
+        "Void Reignition",
+        "Void Vanishment"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

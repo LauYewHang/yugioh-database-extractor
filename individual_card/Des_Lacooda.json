@@ -1,0 +1,22 @@
+{
+    "name": "Des Lacooda",
+    "filename": "Des_Lacooda",
+    "card_text": "Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: Draw 1 card.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "GOLD SERIES",
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "Speed Duel: Battle City Box",
+        "ASTRAL PACK THREE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 600,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

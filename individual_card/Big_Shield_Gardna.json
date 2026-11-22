@@ -1,0 +1,28 @@
+{
+    "name": "Big Shield Gardna",
+    "filename": "Big_Shield_Gardna",
+    "card_text": "When a Spell Card is activated that targets this face-down card (and no other cards) (Quick Effect): Change this card to face-up Defense Position, and if you do, negate the activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
+    "release_date": "2004-10-12",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "YUGI'S LEGENDARY DECKS",
+        "DUELIST LEAGUE 2010",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK BEGINNING 1",
+        "DUELIST PACK - YUGI -",
+        "TOURNAMENT PACK 5",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "CHAMPION PACK GAME ONE",
+        "LEGENDARY DRAGON DECKS",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 2600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

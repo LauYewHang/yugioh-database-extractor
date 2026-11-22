@@ -1,0 +1,20 @@
+{
+    "name": "Fishborg Launcher",
+    "filename": "Fishborg_Launcher",
+    "card_text": "Cannot be used as Synchro Material, except for the Synchro Summon of a WATER Synchro Monster. If you have a monster(s) in your GY other than \"Fishborg Launcher\", and all of them are WATER: You can Special Summon this card from your GY, but banish it when it leaves the field. You can only use this effect of \"Fishborg Launcher\" once per turn.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Fishborg Doctor"
+    ],
+    "attribute": "WATER",
+    "attack": 200,
+    "defense": 100,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

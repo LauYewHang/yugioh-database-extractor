@@ -1,0 +1,12 @@
+{
+    "name": "Puzzle Reborn",
+    "filename": "Puzzle_Reborn",
+    "card_text": "If exactly 1 monster you control (and no other cards) is destroyed by a card effect: Target that monster; Special Summon that target.",
+    "release_date": "2013-06-14",
+    "available_set": [
+        "SUPER STARTER V FOR VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

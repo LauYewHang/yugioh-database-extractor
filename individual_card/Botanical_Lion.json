@@ -1,0 +1,20 @@
+{
+    "name": "Botanical Lion",
+    "filename": "Botanical_Lion",
+    "card_text": "This card gains 300 ATK for each Plant-Type monster you control. Control of this face-up card on the field cannot switch.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "DUEL TERMINAL 4",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 2000,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Astellar of the White Forest",
+    "filename": "Astellar_of_the_White_Forest",
+    "card_text": "You can send 1 Spell/Trap from your hand or field to the GY; Special Summon 1 LIGHT Spellcaster Tuner from your Deck. If a Spell/Trap(s) is sent to your GY to activate a monster's effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Astellar of the White Forest\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "RARITY COLLECTION 5",
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Azamina Aphes",
+        "Diabellze the White Witch",
+        "Elzette of the White Forest",
+        "Elzette, Azamina of the White Forest",
+        "Poplar of the White Forest",
+        "Queen Azamina",
+        "Rciela, Sinister Soul of the White Forest",
+        "Rucia of the White Forest",
+        "Scourge of the White Forest",
+        "Silvy of the White Forest",
+        "Tales of the White Forest",
+        "Witch of the White Forest",
+        "Woes of the White Forest"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

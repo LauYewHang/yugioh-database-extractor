@@ -1,0 +1,30 @@
+{
+    "name": "Venom Shot",
+    "filename": "Venom_Shot",
+    "card_text": "Activate only while you control a face-up \"Venom\" monster, \"Vennominaga the Deity of Poisonous Snakes\", or \"Vennominon the King of Poisonous Snakes\". Send 1 Reptile-Type monster from your Deck to the Graveyard and place 2 Venom Counters on 1 face-up monster your opponent controls.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Ambush Fangs",
+        "Greedy Venom Fusion Dragon",
+        "Odd-Eyes Venom Dragon",
+        "Snake Deity's Command",
+        "Starving Venom Fusion Dragon",
+        "Starving Venom Fusion Dragon, Four Heavenly Dragons",
+        "Starving Venom Predapower Fusion Dragon",
+        "Starving Venom Wing Dragon",
+        "Supreme King Dragon Starving Venom",
+        "Vennominaga the Deity of Poisonous Snakes",
+        "Vennominon the King of Poisonous Snakes",
+        "Venom Boa",
+        "Venom Burn",
+        "Venom Cobra",
+        "Venom Serpent",
+        "Venom Snake",
+        "Venom Swamp"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

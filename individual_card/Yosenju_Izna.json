@@ -1,0 +1,38 @@
+{
+    "name": "Yosenju Izna",
+    "filename": "Yosenju_Izna",
+    "card_text": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Izna\" once per turn.\n\u25cfYou can discard this card; this turn, your opponent cannot activate cards or effects when a \"Yosenju\" monster(s) is Normal or Special Summoned.\n\u25cfIf you control another \"Yosenju\" monster: You can draw 1 card.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Dizzying Winds of Yosen Village",
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosen Training Grounds",
+        "Yosen Whirlwind",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Kodam",
+        "Yosenju Magat",
+        "Yosenju Misak",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Shinchu R",
+        "Yosenju Tsujik",
+        "Yosenju Wind Worship",
+        "Yosenjus' Secret Move",
+        "Yosenjus' Sword Sting"
+    ],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": 1200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

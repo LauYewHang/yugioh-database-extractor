@@ -1,0 +1,24 @@
+{
+    "name": "Reactor Slime",
+    "filename": "Reactor_Slime",
+    "card_text": "During your Main Phase: You can activate this effect; Special Summon 2 \"Slime Tokens\" (Aqua/WATER/Level 1/ATK 500/DEF 500), also you cannot Normal or Special Summon for the rest of this turn, except Divine-Beast monsters. During the Battle Phase (Quick Effect): You can Tribute this card; Set 1 \"Metal Reflect Slime\" from your hand, Deck, or GY. It can be activated this turn. You can only use each effect of \"Reactor Slime\" once per turn.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [
+        "Dark Flattop",
+        "Jam Breeding Machine",
+        "Metal Reflect Slime"
+    ],
+    "attribute": "WATER",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

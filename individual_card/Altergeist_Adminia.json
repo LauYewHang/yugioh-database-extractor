@@ -1,0 +1,42 @@
+{
+    "name": "Altergeist Adminia",
+    "filename": "Altergeist_Adminia",
+    "card_text": "2+ \"Altergeist\" monsters\nIf this card is Link Summoned: You can Set 1 \"Altergeist\" Trap directly from your Deck. Once while this card is face-up on the field, during the Main Phase (Quick Effect): You can send 1 card you control to the GY, then target 1 Effect Monster your opponent controls; take control of that target, and if you do, it is also treated as an \"Altergeist\" monster. You can only use each effect of \"Altergeist Adminia\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Altergeist Camouflage",
+        "Altergeist Dragvirion",
+        "Altergeist Emulatelf",
+        "Altergeist Failover",
+        "Altergeist Fifinellag",
+        "Altergeist Fijialert",
+        "Altergeist Haunted Rock",
+        "Altergeist Hexstia",
+        "Altergeist Kidolga",
+        "Altergeist Kunquery",
+        "Altergeist Malwisp",
+        "Altergeist Manifestation",
+        "Altergeist Marionetter",
+        "Altergeist Meluseek",
+        "Altergeist Memorygant",
+        "Altergeist Multifaker",
+        "Altergeist Peritrator",
+        "Altergeist Pixiel",
+        "Altergeist Pookuery",
+        "Altergeist Primebanshee",
+        "Altergeist Protocol",
+        "Altergeist Revitalization",
+        "Altergeist Silquitous",
+        "Personal Spoofing"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 340
+}

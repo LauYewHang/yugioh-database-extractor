@@ -1,0 +1,26 @@
+{
+    "name": "Time Thief Power Reserve",
+    "filename": "Time_Thief_Power_Reserve",
+    "card_text": "Special Summon this card as a Normal Monster (Psychic/DARK/Level 4/ATK 1900/DEF 2500) (this card is also still a Trap), then you can Special Summon 1 Machine \"Time Thief\" monster from your hand, Deck, or GY. If you control an Xyz Monster(s) that has both a Spell and a Trap as material: You can banish this card from your GY; banish 1 card on the field. You can only use each effect of \"Time Thief Power Reserve\" once per turn.",
+    "release_date": "2023-09-08",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Time Thief Adjuster",
+        "Time Thief Bezel Ship",
+        "Time Thief Chronocorder",
+        "Time Thief Double Barrel",
+        "Time Thief Flyback",
+        "Time Thief Hack",
+        "Time Thief Perpetua",
+        "Time Thief Redoer",
+        "Time Thief Regulator",
+        "Time Thief Retrograde",
+        "Time Thief Startup",
+        "Time Thief Temporwhal",
+        "Time Thief Winder"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

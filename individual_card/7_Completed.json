@@ -1,0 +1,16 @@
+{
+    "name": "7 Completed",
+    "filename": "7_Completed",
+    "card_text": "Activate this card by choosing ATK or DEF; equip only to a Machine monster. It gains 700 ATK or DEF, depending on the choice.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "DUEL TERMINAL 2",
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

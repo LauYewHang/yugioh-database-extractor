@@ -1,0 +1,30 @@
+{
+    "name": "Radiant Typhoon Eldam",
+    "filename": "Radiant_Typhoon_Eldam",
+    "card_text": "If you have \"Mystical Space Typhoon\" in your GY, or your opponent controls no Spells/Traps, you can Special Summon this card (from your hand). You can only Special Summon \"Radiant Typhoon Eldam\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Radiant Typhoon\" monster (except \"Radiant Typhoon Eldam\") or 1 \"Mystical Space Typhoon\" from your Deck to your hand. You can only use this effect of \"Radiant Typhoon Eldam\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Mystical Space Typhoon",
+        "Radiant Typhoon Ascendance",
+        "Radiant Typhoon Chant",
+        "Radiant Typhoon Fonix, the Great Flame",
+        "Radiant Typhoon Krosea",
+        "Radiant Typhoon Mandate",
+        "Radiant Typhoon Manifestation",
+        "Radiant Typhoon Meghala",
+        "Radiant Typhoon Swen",
+        "Radiant Typhoon Varuroon, the Marine Eidolon",
+        "Radiant Typhoon Varuroon, the Vibrant Vortex",
+        "Radiant Typhoon Vision"
+    ],
+    "attribute": "WIND",
+    "attack": 1300,
+    "defense": 800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

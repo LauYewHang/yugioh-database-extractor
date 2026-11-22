@@ -1,0 +1,33 @@
+{
+    "name": "Code Talker Inverted",
+    "filename": "Code_Talker_Inverted",
+    "card_text": "2 Cyberse monsters\nIf this card is Link Summoned: You can Special Summon 1 Cyberse monster from your hand to your zone this card points to. You can only use this effect of \"Code Talker Inverted\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "MAXIMUM GOLD: EL DORADO",
+        "IGNITION ASSAULT",
+        "2021 TIN OF ANCIENT BATTLES",
+        "25TH ANNIVERSARY RARITY COLLECTION"
+    ],
+    "related_card": [
+        "Code Exporter",
+        "Code Generator",
+        "Code Hack",
+        "Code Radiator",
+        "Cynet Codec",
+        "Cynet Conflict",
+        "Cynet Optimization",
+        "Limit Code",
+        "Micro Coder",
+        "Recoded Alive",
+        "Rokket Coder",
+        "Talkback Lancer"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1300,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 80
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Spy-C-Spy",
+    "filename": "Spy_C_Spy",
+    "card_text": "If this card is Normal Summoned: Look at 1 random card in your opponent's Extra Deck, and if it has 2000 or more ATK, this card gains 1000 ATK. If it has less than 2000 ATK, you gain LP equal to that monster's ATK.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": 1300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

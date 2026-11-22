@@ -1,0 +1,34 @@
+{
+    "name": "Worm Illidan",
+    "filename": "Worm_Illidan",
+    "card_text": "Each time a card is Set on your side of the field, place 1 Worm Counter on this card. You can remove 2 Worm Counters from this card to select 1 card your opponent controls, and destroy it.",
+    "release_date": "2010-01-29",
+    "available_set": [
+        "DUEL TERMINAL 1",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm Gulse",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 1800,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

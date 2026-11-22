@@ -1,0 +1,13 @@
+{
+    "name": "Mind Over Matter",
+    "filename": "Mind_Over_Matter",
+    "card_text": "When a monster would be Normal or Special Summoned, OR a Spell/Trap Card is activated: Tribute 1 Psychic-Type monster; negate the Summon or activation, and if you do, destroy that card.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

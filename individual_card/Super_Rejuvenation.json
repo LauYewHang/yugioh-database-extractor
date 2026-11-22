@@ -1,0 +1,16 @@
+{
+    "name": "Super Rejuvenation",
+    "filename": "Super_Rejuvenation",
+    "card_text": "During the End Phase of the turn this card was activated, draw a number of cards equal to the combined number of Dragon monsters you discarded or Tributed from your hand or field this turn.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LEGACY OF DARKNESS",
+        "MYSTIC FIGHTERS",
+        "DARK BEGINNING 2",
+        "The Lost Art Promotion"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Expendable Dai",
+    "filename": "Expendable_Dai",
+    "card_text": "Tribute 1 Warrior monster, then target 1 card on the field; destroy it, and if you do, draw 1 card.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

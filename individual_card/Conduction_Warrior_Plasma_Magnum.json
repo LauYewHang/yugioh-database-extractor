@@ -1,0 +1,37 @@
+{
+    "name": "Conduction Warrior Plasma Magnum",
+    "filename": "Conduction_Warrior_Plasma_Magnum",
+    "card_text": "2 EARTH Rock monsters\nFace-up monsters on the field become EARTH. You can only use each of the following effects of \"Conduction Warrior Plasma Magnum\" once per turn. If this card is Fusion Summoned: You can add 1 \"Magnet\" Normal, Quick-Play, or Field Spell from your Deck to your hand. You can send 1 Level 8 \"Magna Warrior\" monster from your Deck to the GY; immediately after this effect resolves, Normal Summon 1 Level 4 or lower \"Magnet Warrior\" monster.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Alpha The Magnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Beta The Magnet Warrior",
+        "Delta The Magnet Warrior",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Gamma The Magnet Warrior",
+        "Magnet Bonding",
+        "Magnet Circle LV2",
+        "Magnet Induction",
+        "Magnet Reverse",
+        "Magnet Warrior Omega Plus",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Magnetic Field",
+        "Tellusion the Magna Warrior",
+        "Valkyrion the Magna Warrior"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 2800,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

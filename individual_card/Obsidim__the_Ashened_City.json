@@ -1,0 +1,28 @@
+{
+    "name": "Obsidim, the Ashened City",
+    "filename": "Obsidim__the_Ashened_City",
+    "card_text": "Face-up Special Summoned monsters your opponent controls become Pyro during your turn only. You can only use each of the following effects of \"Obsidim, the Ashened City\" once per turn. During your End Phase: You can target 1 \"Obsidim, the Ashened City\" in your GY; place it on the bottom of your Deck, then draw 1 card. If this card in the Field Zone is destroyed or banished: You can Special Summon 1 \"Ashened\" monster from your Deck.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Ashened for Eternity",
+        "Ashened to Endlessness",
+        "Awakening of Veidos",
+        "Embers of the Ashened",
+        "Extinguishing the Ashened",
+        "Hero of the Ashened City",
+        "Inferno of the Ashened",
+        "King of the Ashened City",
+        "Priestess of the Ashened City",
+        "Rekindling the Ashened",
+        "Shaman of the Ashened City",
+        "Spearhead of the Ashened City",
+        "Veidos the Dragon of Endless Darkness",
+        "Veidos the Eruption Dragon of Extinction"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

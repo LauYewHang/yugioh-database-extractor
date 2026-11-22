@@ -1,0 +1,22 @@
+{
+    "name": "Raigeki Break",
+    "filename": "Raigeki_Break",
+    "card_text": "Discard 1 card, then target 1 card on the field; destroy it.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STARTER DECK DAWN OF THE XYZ",
+        "STARTER DECK YUGI Evolution",
+        "5D's STARTER DECK 2009",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "DARK REVELATION Volume 1",
+        "PHARAONIC GUARDIAN",
+        "STARTER DECK XYZ SYMPHONY",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "STARTER DECK YUYA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

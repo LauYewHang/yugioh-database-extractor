@@ -1,0 +1,17 @@
+{
+    "name": "Megalosmasher X",
+    "filename": "Megalosmasher_X",
+    "card_text": "With its sound-baffling armor and gargantuan jaws, this primeval predator's phosphorescence was the only possible pardon for its primitive prey.",
+    "release_date": "2017-04-14",
+    "available_set": [
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

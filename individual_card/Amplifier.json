@@ -1,0 +1,23 @@
+{
+    "name": "Amplifier",
+    "filename": "Amplifier",
+    "card_text": "Equip only to \"Jinzo\". This card's activation and effect cannot be negated. The equipped monster's effect, \"Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.\" becomes \"Your opponent cannot activate Trap Cards, or their effects on the field. Negate all Trap effects your opponent controls.\" When this card leaves the field, destroy the equipped monster.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "CHAMPION PACK GAME SIX",
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "ANCIENT SANCTUARY",
+        "Speed Duel: Battle City Box",
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Jinzo",
+        "Jinzo - Energy Shocker",
+        "Jinzo - Jector",
+        "Law of the Cosmos",
+        "Psychic Bounder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Legendary Wind-Up Key",
+    "filename": "Legendary_Wind_Up_Key",
+    "card_text": "Change all face-up \"Wind-Up\" monsters you control to face-down Defense Position.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [
+        "Overwind",
+        "Weights & Zenmaisures",
+        "Wind-Up Arsenal Zenmaioh",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Dog",
+        "Wind-Up Factory",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Juggler",
+        "Wind-Up Kitten",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Snail",
+        "Wind-Up Soldier",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaines",
+        "Wind-Up Zenmaintenance",
+        "Wind-Up Zenmaister",
+        "Zenmaiday",
+        "Zenmailfunction",
+        "Zenmailstrom",
+        "Zenmairch"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

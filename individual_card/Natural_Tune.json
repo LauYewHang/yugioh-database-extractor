@@ -1,0 +1,12 @@
+{
+    "name": "Natural Tune",
+    "filename": "Natural_Tune",
+    "card_text": "Select 1 face-up Level 4 or lower Normal Monster you control. It is treated as a Tuner monster while it is face-up on the field.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

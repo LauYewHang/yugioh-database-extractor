@@ -1,0 +1,30 @@
+{
+    "name": "Dream Mirror Recap",
+    "filename": "Dream_Mirror_Recap",
+    "card_text": "If a \"Dream Mirror\" monster you control would be Tributed to activate its own effect, shuffle it into the Deck instead of sending it to the GY. During the Main Phase: You can send this face-up card to the GY; place 1 of your \"Dream Mirror of Joy\" or \"Dream Mirror of Terror\" that is banished or in your GY, face-up in your Field Zone, then you can Special Summon 1 monster from your hand that specifically lists that card you placed in its text.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "Dream Mirror Fantasy",
+        "Dream Mirror Hypnagogia",
+        "Dream Mirror of Chaos",
+        "Dream Mirror of Joy",
+        "Dream Mirror of Terror",
+        "Dream Mirror Oneiromancy",
+        "Dream Mirror Phantasms",
+        "Ikelos, the Dream Mirror Mara",
+        "Ikelos, the Dream Mirror Sprite",
+        "Morpheus, the Dream Mirror Black Knight",
+        "Morpheus, the Dream Mirror White Knight",
+        "Neiroy, the Dream Mirror Disciple",
+        "Neiroy, the Dream Mirror Traitor",
+        "Oneiros, the Dream Mirror Erlking",
+        "Oneiros, the Dream Mirror Tormentor",
+        "Phantasos, the Dream Mirror Foe",
+        "Phantasos, the Dream Mirror Friend"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

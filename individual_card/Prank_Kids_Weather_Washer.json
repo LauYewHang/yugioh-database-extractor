@@ -1,0 +1,33 @@
+{
+    "name": "Prank-Kids Weather Washer",
+    "filename": "Prank_Kids_Weather_Washer",
+    "card_text": "2 \"Prank-Kids\" monsters\nIf your \"Prank-Kids\" monster attacks, your opponent cannot activate cards or effects until the end of the Damage Step. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 \"Prank-Kids\" non-Fusion Monsters with different names in your GY; Special Summon them. They cannot be destroyed by battle this turn. You can only use this effect of \"Prank-Kids Weather Washer\" once per turn.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Prank-Kids Battle Butler",
+        "Prank-Kids Bow-Wow-Bark",
+        "Prank-Kids Dodo-Doodle-Doo",
+        "Prank-Kids Dropsies",
+        "Prank-Kids Fansies",
+        "Prank-Kids Lampsies",
+        "Prank-Kids Meow-Meow-Mu",
+        "Prank-Kids Pandemonium",
+        "Prank-Kids Place",
+        "Prank-Kids Plan",
+        "Prank-Kids Pranks",
+        "Prank-Kids Rip-Roarin-Roaster",
+        "Prank-Kids Rocket Ride",
+        "Prank-Kids Rocksies"
+    ],
+    "attribute": "WATER",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

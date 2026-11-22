@@ -1,0 +1,14 @@
+{
+    "name": "Debunk",
+    "filename": "Debunk",
+    "card_text": "When a monster effect is activated in the hand or GY: Negate the activation, and if you do, banish it.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

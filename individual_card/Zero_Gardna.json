@@ -1,0 +1,18 @@
+{
+    "name": "Zero Gardna",
+    "filename": "Zero_Gardna",
+    "card_text": "You can Tribute this card to activate its effect. If you do, monsters you control cannot be destroyed by battle, and you take no Battle Damage during this turn. This effect can be activated during either player's turn.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "DUELIST PACK - YUSEI 2 -",
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

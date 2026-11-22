@@ -1,0 +1,34 @@
+{
+    "name": "Thunder King, the Lightningstrike Kaiju",
+    "filename": "Thunder_King__the_Lightningstrike_Kaiju",
+    "card_text": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 3 Kaiju Counters from anywhere on the field; your opponent cannot activate cards or effects for the rest of this turn, also this card can make up to 3 attacks on monsters during each Battle Phase this turn.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "MAGNIFICENT MONSTERS",
+        "SHINING VICTORIES",
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Dogoran, the Mad Flame Kaiju",
+        "Gadarla, the Mystery Dust Kaiju",
+        "Gameciel, the Sea Turtle Kaiju",
+        "Interrupted Kaiju Slumber",
+        "Jizukiru, the Star Destroying Kaiju",
+        "Kaiju Capture Mission",
+        "Kumongous, the Sticky String Kaiju",
+        "Kyoutou Waterfront",
+        "Radian, the Multidimensional Kaiju",
+        "Super Anti-Kaiju War Machine Mecha-Dogoran",
+        "Super Anti-Kaiju War Machine Mecha-Thunder-King",
+        "The Kaiju Files"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3300,
+    "defense": 2100,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

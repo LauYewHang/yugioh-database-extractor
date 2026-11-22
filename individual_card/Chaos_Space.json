@@ -1,0 +1,14 @@
+{
+    "name": "Chaos Space",
+    "filename": "Chaos_Space",
+    "card_text": "Send 1 LIGHT or DARK monster from your hand to the GY; add 1 LIGHT or DARK monster that cannot be Normal Summoned/Set from your Deck to your hand, with a Level from 4 to 8, and with a different Attribute than that monster. You can banish this card from your GY, then target 1 of your banished LIGHT or DARK monsters that cannot be Normal Summoned/Set; place that monster on the bottom of the Deck, then draw 1 card. You can only use each effect of \"Chaos Space\" once per turn.",
+    "release_date": "2020-06-19",
+    "available_set": [
+        "TOON CHAOS",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

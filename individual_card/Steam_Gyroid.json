@@ -1,0 +1,35 @@
+{
+    "name": "Steam Gyroid",
+    "filename": "Steam_Gyroid",
+    "card_text": "\"Gyroid\" + \"Steamroid\"",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Ambulanceroid",
+        "Armoroid",
+        "Barbaroid, the Ultimate Battle Machine",
+        "Dragonroid",
+        "Emergeroid Call",
+        "Expressroid",
+        "Gyroid",
+        "Megaroid City",
+        "Mixeroid",
+        "Rescueroid",
+        "Stealthroid",
+        "Steamroid",
+        "Super Vehicroid - Mobile Base",
+        "Supercharge",
+        "Wonder Garage"
+    ],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

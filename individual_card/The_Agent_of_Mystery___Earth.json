@@ -1,0 +1,39 @@
+{
+    "name": "The Agent of Mystery - Earth",
+    "filename": "The_Agent_of_Mystery___Earth",
+    "card_text": "When this card is Normal Summoned: You can add 1 \"The Agent\" monster from your Deck to your hand, except \"The Agent of Mystery - Earth\" or, if \"The Sanctuary in the Sky\" is on the field, you can add 1 \"Master Hyperion\" from your Deck to your hand instead.",
+    "release_date": "2011-06-14",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "LOST SANCTUARY STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Majesty Hyperion",
+        "Master Hyperion",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "The Agent of Creation - Venus",
+        "The Agent of Destruction - Venus",
+        "The Agent of Entropy - Uranus",
+        "The Agent of Force - Mars",
+        "The Agent of Judgment - Saturn",
+        "The Agent of Life - Neptune",
+        "The Agent of Miracles - Jupiter",
+        "The Agent of Wisdom - Mercury",
+        "The Chorus in the Sky",
+        "The Executor of the Underworld - Pluto",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

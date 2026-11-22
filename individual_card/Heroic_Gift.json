@@ -1,0 +1,24 @@
+{
+    "name": "Heroic Gift",
+    "filename": "Heroic_Gift",
+    "card_text": "If your opponent's Life Points are 2000 or less: Make their Life Points 8000, and if you do, draw 2 cards. You can only activate 1 \"Heroic Gift\" per turn.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Retribution Sword"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

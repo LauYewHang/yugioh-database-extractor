@@ -1,0 +1,30 @@
+{
+    "name": "Yuki-Onna, the Icicle Mayakashi",
+    "filename": "Yuki_Onna__the_Icicle_Mayakashi",
+    "card_text": "2+ Zombie monsters\nYou can only control 1 \"Yuki-Onna, the Icicle Mayakashi\". You can only use each of the following effects of \"Yuki-Onna, the Icicle Mayakashi\" once per turn. If this card is Special Summoned: You can target 1 Effect Monster your opponent controls; negate its effects. (Quick Effect): You can banish this card from your GY; Special Summon 1 of your Zombie Synchro Monsters that is banished or in your GY.",
+    "release_date": "2022-11-04",
+    "available_set": [
+        "MAGNIFICENT MAVENS"
+    ],
+    "related_card": [
+        "Dakki, the Graceful Mayakashi",
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Hajun, the Winged Mayakashi",
+        "Mayakashi Mayhem",
+        "Mayakashi Metamorphosis",
+        "Mayakashi Return",
+        "Mayakashi Winter",
+        "Shafu, the Wheeled Mayakashi",
+        "Tsukahagi, the Poisonous Mayakashi",
+        "Yasha, the Skeletal Mayakashi",
+        "Yuki-Musume, the Ice Mayakashi",
+        "Yuki-Onna, the Ice Mayakashi"
+    ],
+    "attribute": "WATER",
+    "attack": 2400,
+    "defense": null,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Gemini Elf",
+    "filename": "Gemini_Elf",
+    "card_text": "Elf twins that alternate their attacks.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "LABYRINTH OF NIGHTMARE",
+        "RETRO PACK 2",
+        "The Lost Art Promotion 6",
+        "STARTER DECK YUGI RELOADED",
+        "DARK BEGINNING 2",
+        "DEMO DECK 2026",
+        "STARTER DECK JADEN YUKI"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

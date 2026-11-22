@@ -1,0 +1,13 @@
+{
+    "name": "Materialization",
+    "filename": "Materialization",
+    "card_text": "Target 1 face-up Monster Card in any Spell & Trap Zone, then activate 1 of these effects;\n\u25cfSpecial Summon it to its owner's field.\n\u25cfReturn it to the hand.\n\u25cfDestroy it, then you can destroy 1 monster on the field with an equal or lower Level.\nYou can only activate 1 \"Materialization\" per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

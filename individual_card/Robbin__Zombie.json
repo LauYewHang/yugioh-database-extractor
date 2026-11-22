@@ -1,0 +1,15 @@
+{
+    "name": "Robbin' Zombie",
+    "filename": "Robbin__Zombie",
+    "card_text": "If your monster inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

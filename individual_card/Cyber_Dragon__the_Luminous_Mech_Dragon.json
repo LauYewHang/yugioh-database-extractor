@@ -1,0 +1,30 @@
+{
+    "name": "Cyber Dragon, the Luminous Mech Dragon",
+    "filename": "Cyber_Dragon__the_Luminous_Mech_Dragon",
+    "card_text": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Cyber Dragon, the Luminous Mech Dragon\" once per turn. If this card is Special Summoned: You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn. During your Main Phase: You can Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using this card you control and monsters from your hand or field.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Chimeratech Megafleet Dragon",
+        "Chimeratech Rampage Dragon",
+        "Cyber Dragon Core",
+        "Cyber Emergency",
+        "Cyber Eternal",
+        "Cyber Eternity Dragon",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light",
+        "Super Strident Blaze"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

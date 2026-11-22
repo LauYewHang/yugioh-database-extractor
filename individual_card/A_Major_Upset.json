@@ -1,0 +1,14 @@
+{
+    "name": "A Major Upset",
+    "filename": "A_Major_Upset",
+    "card_text": "Tribute 1 face-up Attack Position Level 2 or lower monster; return all Level 7 or higher Special Summoned monsters to the hand.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "SPEED DUEL: SCARS OF BATTLE",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

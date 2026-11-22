@@ -1,0 +1,18 @@
+{
+    "name": "Ancient Lizard Warrior",
+    "filename": "Ancient_Lizard_Warrior",
+    "card_text": "Before the dawn of man, this lizard warrior ruled supreme.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1100,
+    "monster_type": "Reptile",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

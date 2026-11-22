@@ -1,0 +1,17 @@
+{
+    "name": "Blast Asmodian",
+    "filename": "Blast_Asmodian",
+    "card_text": "If any Spell or Trap Card(s) are Chained, inflict 500 damage to your opponent.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 300,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

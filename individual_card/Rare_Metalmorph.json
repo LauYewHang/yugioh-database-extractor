@@ -1,0 +1,27 @@
+{
+    "name": "Rare Metalmorph",
+    "filename": "Rare_Metalmorph",
+    "card_text": "Activate this card by targeting 1 Machine monster on the field; while this card is face-up on the field, that Machine monster gains 500 ATK, also negate the first Spell effect that targets that monster. When that monster leaves the field, destroy this card.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "OTS TOURNAMENT PACK 27",
+        "GEARGIA RAMPAGE STRUCTURE DECK",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "DARK REVELATION Volume 3",
+        "RISE OF DESTINY",
+        "STRUCTURE DECK MACHINE RE-VOLT",
+        "Speed Duel: Battle City Box",
+        "MACHINA MAYHEM STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Incoming Machine!",
+        "Metal Illusionist",
+        "Metalzoa X",
+        "Red-Eyes Black Fullmetal Dragon",
+        "Red-Eyes Metal Claws Dragon",
+        "Time Engine",
+        "Zoa the Fiendish Beast"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

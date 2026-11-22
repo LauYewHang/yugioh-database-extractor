@@ -1,0 +1,33 @@
+{
+    "name": "Therion Irregular",
+    "filename": "Therion_Irregular",
+    "card_text": "You can target up to 3 \"Therion\" monsters in your GY; Special Summon this card from your hand, and if you do, equip them to this card. You can discard 1 \"Endless Engine Argyro System\"; destroy all cards your opponent controls. While this card is equipped to a monster: You can Special Summon this card, then equip the monster this card was equipped to, to this card. You can only use each effect of \"Therion Irregular\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Endless Engine Argyro System",
+        "Gigantic \"Champion\" Sargas",
+        "Gung-Ho! Springans!",
+        "Spright Smashers",
+        "Therion \"Bull\" Ain",
+        "Therion \"Duke\" Yul",
+        "Therion \"Empress\" Alasia",
+        "Therion \"King\" Regulus",
+        "Therion \"Lily\" Borea",
+        "Therion \"Reaper\" Fum",
+        "Therion Charge",
+        "Therion Cross",
+        "Therion Discolosseum",
+        "Therion Stand Up!"
+    ],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

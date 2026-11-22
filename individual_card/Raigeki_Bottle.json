@@ -1,0 +1,15 @@
+{
+    "name": "Raigeki Bottle",
+    "filename": "Raigeki_Bottle",
+    "card_text": "Each time a monster you control declares an attack, place 1 Thunder Counter on this card. You can send this card with 4 or more Thunder Counters to the Graveyard; destroy all monsters your opponent controls.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Hammer Shot",
+    "filename": "Hammer_Shot",
+    "card_text": "Destroy the 1 Attack Position monster on the field with the highest ATK (your choice, if tied).",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "CHAMPION PACK GAME FIVE",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DUEL TERMINAL 2",
+        "DARK REVELATION Volume 3",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "Speed Duel: Battle City Box",
+        "DEMO DECK 2026",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

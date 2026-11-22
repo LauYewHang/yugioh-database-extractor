@@ -1,0 +1,29 @@
+{
+    "name": "King of the Swamp",
+    "filename": "King_of_the_Swamp",
+    "card_text": "This card in your hand, field, or GY can be used as a substitute for any 1 Fusion Material whose name is mentioned on the Fusion Monster Card, but the other materials must be correct. You can discard this card to the GY; add 1 \"Polymerization\" from your Deck to your hand.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "FUSION ENFORCERS",
+        "LEGENDARY DECKS II",
+        "DARK REVELATION Volume 2",
+        "Justice Hunters",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "OTS TOURNAMENT PACK 20",
+        "HOBBY LEAGUE 1",
+        "ANCIENT SANCTUARY",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUEL TERMINAL 4"
+    ],
+    "related_card": [
+        "Fusion Substitute",
+        "Polymerization"
+    ],
+    "attribute": "WATER",
+    "attack": 500,
+    "defense": 1100,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

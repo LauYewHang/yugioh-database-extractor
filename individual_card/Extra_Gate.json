@@ -1,0 +1,12 @@
+{
+    "name": "Extra Gate",
+    "filename": "Extra_Gate",
+    "card_text": "Declare a Level between 1 and 12; your opponent banishes 1 monster of that Level from their Extra Deck. If your opponent does not have a monster of that Level in their Extra Deck, you discard 1 card.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

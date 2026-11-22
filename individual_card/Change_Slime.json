@@ -1,0 +1,17 @@
+{
+    "name": "Change Slime",
+    "filename": "Change_Slime",
+    "card_text": "A slime that can morph and adopt the shape and size of any monster it chooses.",
+    "release_date": "2019-12-06",
+    "available_set": [
+        "SPEED DUEL: TRIALS OF THE KINGDOM"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 400,
+    "defense": 300,
+    "monster_type": "Aqua",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

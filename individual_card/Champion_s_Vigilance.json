@@ -1,0 +1,16 @@
+{
+    "name": "Champion's Vigilance",
+    "filename": "Champion_s_Vigilance",
+    "card_text": "If you control a Level 7 or higher Normal Monster, when a monster(s) would be Summoned OR a Spell/Trap Card is activated: Negate the Summon or activation, and if you do, destroy that card.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "PHOTON SHOCKWAVE",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

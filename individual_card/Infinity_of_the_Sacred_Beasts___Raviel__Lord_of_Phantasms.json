@@ -1,0 +1,30 @@
+{
+    "name": "Infinity of the Sacred Beasts - Raviel, Lord of Phantasms",
+    "filename": "Infinity_of_the_Sacred_Beasts___Raviel__Lord_of_Phantasms",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Sacred Beast\" card. You can reveal this card in your hand; add 1 \"Sacred Beast\" monster from your Deck to your hand except \"Infinity of the Sacred Beasts - Raviel, Lord of Phantasms\", then discard 1 card. You can only use this effect of \"Infinity of the Sacred Beasts - Raviel, Lord of Phantasms\" once per turn. Once per turn (Quick Effect): You can Tribute 2 other \"Sacred Beast\" monsters; destroy as many monsters your opponent controls as possible, and if you do, this card gains 1000 ATK for each card destroyed.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Abyss of the Sacred Beasts",
+        "Awakening of the Sacred Beasts",
+        "Calamity of the Sacred Beasts - Hamon, Lord of Striking Thunder",
+        "Fallen Paradise of the Sacred Beasts",
+        "Inferno of the Sacred Beasts - Uria, Lord of Searing Flames",
+        "Martyr of the Sacred Beasts",
+        "Sacred Beasts Combined Assault",
+        "Sacred Beasts Released",
+        "Sacred Beasts Skyfall",
+        "Sacred Beasts Thunderclap",
+        "Summoner of the Sacred Beasts",
+        "The Chaotic Phantasmal Sacred Beasts"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

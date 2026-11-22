@@ -1,0 +1,17 @@
+{
+    "name": "Skull Stalker",
+    "filename": "Skull_Stalker",
+    "card_text": "Foist he's gonna grab yer monstah wit' his claws, den attack again wit' his poizin stingah!",
+    "release_date": "2013-10-11",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 900,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

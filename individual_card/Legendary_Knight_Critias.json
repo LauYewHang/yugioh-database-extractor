@@ -1,0 +1,23 @@
+{
+    "name": "Legendary Knight Critias",
+    "filename": "Legendary_Knight_Critias",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Legend of Heart\". When this card is Special Summoned: You can target 1 face-up Spell/Trap on the field; banish that target. When this card is targeted for an attack: You can target 1 Trap in your GY; Set that target. It can be activated this turn.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND 2",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "LEGENDARY DRAGON DECKS"
+    ],
+    "related_card": [
+        "Legend of Heart",
+        "Timaeus the Knight of Destiny"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

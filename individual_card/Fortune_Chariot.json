@@ -1,0 +1,38 @@
+{
+    "name": "Fortune Chariot",
+    "filename": "Fortune_Chariot",
+    "card_text": "(This card is also always treated as a \"Valkyrie\" card.)\nOnce per turn, you can either: Target 1 Fairy monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead. The equipped monster can attack directly, but when it does so using this effect, the battle damage inflicted to your opponent is halved.",
+    "release_date": "2018-08-17",
+    "available_set": [
+        "SHADOWS IN VALHALLA"
+    ],
+    "related_card": [
+        "Apple of Enlightenment",
+        "Final Light",
+        "Goddess Skuld's Oracle",
+        "Goddess Urd's Verdict",
+        "Goddess Verdande's Guidance",
+        "Loge's Flame",
+        "Mischief of the Time Goddess",
+        "Pegasus Wing",
+        "Ride of the Valkyries",
+        "Valkyrie Brunhilde",
+        "Valkyrie Chariot",
+        "Valkyrie Dritte",
+        "Valkyrie Erda",
+        "Valkyrie Erste",
+        "Valkyrie Funfte",
+        "Valkyrie Sechste",
+        "Valkyrie Sigrun",
+        "Valkyrie Vierte",
+        "Valkyrie Zweite",
+        "Valkyrie's Embrace"
+    ],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

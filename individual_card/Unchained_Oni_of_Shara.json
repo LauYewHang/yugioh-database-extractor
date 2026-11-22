@@ -1,0 +1,32 @@
+{
+    "name": "Unchained Oni of Shara",
+    "filename": "Unchained_Oni_of_Shara",
+    "card_text": "During the Main Phase (Quick Effect): You can discard this card; Special Summon 1 Fiend monster from your hand, then destroy 1 card you control. If a card(s) on the field is destroyed by card effect (except the effect of \"Unchained Oni of Shara\") or by battle, while this card is in your GY: You can add this card to your hand or Special Summon it, but place it on the bottom of the Deck when it leaves the field. You can only use each effect of \"Unchained Oni of Shara\" once per turn.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Hunger",
+        "Unchained Oni of Shyma",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Sharvara",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Wailing of the Unchained Souls"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

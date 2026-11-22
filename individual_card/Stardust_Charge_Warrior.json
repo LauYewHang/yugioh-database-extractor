@@ -1,0 +1,43 @@
+{
+    "name": "Stardust Charge Warrior",
+    "filename": "Stardust_Charge_Warrior",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can draw 1 card. You can only use this effect of \"Stardust Charge Warrior\" once per turn. Can attack all Special Summoned monsters your opponent controls, once each.",
+    "release_date": "2016-03-18",
+    "available_set": [
+        "LEGENDARY ARC-V DECKS  - bonus card",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "LEGENDARY ARC-V DECKS",
+        "Gold Series: Maximum Gold"
+    ],
+    "related_card": [
+        "Cosmic Flare",
+        "Final Cross",
+        "Full-Speed Warrior",
+        "Junk Armor",
+        "Junk Mail",
+        "Junk Meister",
+        "Necroid Synchro",
+        "Rush Warrior",
+        "Satellite Synchron",
+        "Satellite Warrior",
+        "Scrap Synchron",
+        "Scrap Warrior",
+        "Shooting Star",
+        "Stardust Dragon - Victim Sanctuary",
+        "Stardust Flash",
+        "Stardust Illumination",
+        "Stardust Re-Spark",
+        "Stardust Sifr Divine Dragon",
+        "Stardust Trail",
+        "Stardust Warrior",
+        "Stardust Wish",
+        "Synchro Chase"
+    ],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 1300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

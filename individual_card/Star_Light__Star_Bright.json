@@ -1,0 +1,13 @@
+{
+    "name": "Star Light, Star Bright",
+    "filename": "Star_Light__Star_Bright",
+    "card_text": "Target 1 face-up monster you control; all face-up monsters you currently control with an ATK or DEF equal to that monster's become the same Level as that monster, until the End Phase.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "STAR PACK 2014",
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

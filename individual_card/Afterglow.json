@@ -1,0 +1,12 @@
+{
+    "name": "Afterglow",
+    "filename": "Afterglow",
+    "card_text": "Banish this card, and as many \"Afterglow\" from your hand, Deck, GY, and face-up field as possible, then shuffle 1 of your banished \"Afterglow\" into the Deck. During your next Draw Phase, reveal the card you draw for your normal draw, and inflict 4000 damage to your opponent if it is \"Afterglow\". You can only activate 1 \"Afterglow\" per Duel.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

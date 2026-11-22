@@ -1,0 +1,34 @@
+{
+    "name": "Unchained Hunger",
+    "filename": "Unchained_Hunger",
+    "card_text": "Target 2 face-up monsters anywhere on the field, including an \"Unchained Soul\" Link Monster you control; immediately after this effect resolves, Link Summon 1 Fiend Link Monster using only those 2 monsters. If this Set card is destroyed by card effect: You can Special Summon 1 \"Unchained\" monster from your Deck. You can only use each effect of \"Unchained Hunger\" once per turn.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abominable Unchained Soul",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Abomination",
+        "Unchained Firelord of Yama",
+        "Unchained Oni of Shara",
+        "Unchained Oni of Shyma",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Anguish",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Rage",
+        "Unchained Soul of Sharvara",
+        "Unchained Soul of Shyama",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Unchained Zealot - Kamra",
+        "Wailing of the Unchained Souls"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

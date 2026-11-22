@@ -1,0 +1,19 @@
+{
+    "name": "Beast of the Pharaoh",
+    "filename": "Beast_of_the_Pharaoh",
+    "card_text": "If this card is sent to the GY for a Synchro Summon: You can target 1 Level 4 or lower Zombie monster in your GY; Special Summon that target.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "OTS TOURNAMENT PACK 3",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 400,
+    "defense": 600,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

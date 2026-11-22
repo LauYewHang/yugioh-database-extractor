@@ -1,0 +1,23 @@
+{
+    "name": "Ironhammer the Giant",
+    "filename": "Ironhammer_the_Giant",
+    "card_text": "If you control \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\" and \"Phoenix Beast Gairuda\", you can Special Summon this card (from your hand). While this card is face-up on the field, it cannot change its battle position. Once per turn: You can target 1 monster you control; it can attack your opponent directly this turn.",
+    "release_date": "2013-02-01",
+    "available_set": [
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS",
+        "DUEL TERMINAL 7B"
+    ],
+    "related_card": [
+        "Beast-Warrior Puma",
+        "D.D. Esper Star Sparrow",
+        "D.D. Jet Iron",
+        "Phoenix Beast Gairuda"
+    ],
+    "attribute": "EARTH",
+    "attack": 900,
+    "defense": 3500,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

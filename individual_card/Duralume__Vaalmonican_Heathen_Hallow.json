@@ -1,0 +1,33 @@
+{
+    "name": "Duralume, Vaalmonican Heathen Hallow",
+    "filename": "Duralume__Vaalmonican_Heathen_Hallow",
+    "card_text": "1 Effect Monster\nCannot be Link Summoned unless you have 3 or more Resonance Counters on Fairy Monster Card(s) in your Pendulum Zone. You can only Special Summon \"Duralume, Vaalmonican Heathen Hallow\" once per turn. If this card is Link Summoned: You can target monsters your opponent controls, up to the number of Resonance Counters in your Pendulum Zone; destroy them. You can remove 3 Resonance Counters from your Pendulum Zone; this card can make up to 3 attacks during each Battle Phase this turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Dimonno Vaalmonica",
+        "Selettrice Vaalmonica",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Disarmonia",
+        "Vaalmonica Ereditare",
+        "Vaalmonica Followed Rhythm",
+        "Vaalmonica Intonare",
+        "Vaalmonica Invitare",
+        "Vaalmonica Scelta",
+        "Vaalmonica Versare",
+        "Vaalmonica, the Agathokakological Voice",
+        "Varar, Vaalmonican Concord",
+        "Zebufera, Vaalmonican Hallow Heathen"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 2
+}

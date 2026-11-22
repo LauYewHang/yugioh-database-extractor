@@ -1,0 +1,27 @@
+{
+    "name": "Cyber Pharos",
+    "filename": "Cyber_Pharos",
+    "card_text": "You can Special Summon this card (from your hand) by Tributing 1 Machine monster. Once per turn, during your Main Phase: You can Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand and/or field as material. When a Fusion Monster you control is destroyed by battle: You can banish this card from your GY; add 1 \"Power Bond\" from your Deck to your hand. You can only use this effect of \"Cyber Pharos\" once per turn.",
+    "release_date": "2018-09-28",
+    "available_set": [
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "STRUCTURE DECK: CYBER STRIKE"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Power Bond",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

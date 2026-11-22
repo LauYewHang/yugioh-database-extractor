@@ -1,0 +1,26 @@
+{
+    "name": "Guardian Sphinx",
+    "filename": "Guardian_Sphinx",
+    "card_text": "Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: Return all monsters your opponent controls to the hand.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "RETRO PACK 2",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Exxod, Master of The Guard",
+        "Principug"
+    ],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 2400,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Brotherhood of the Fire Fist - Spirit",
+    "filename": "Brotherhood_of_the_Fire_Fist___Spirit",
+    "card_text": "Cannot be used as Synchro Material, except for the Synchro Summon of a Beast-Warrior monster. When this card is Normal Summoned: You can target 1 Level 3 FIRE monster with 200 or less DEF in your GY; Special Summon that target in Defense Position, and if you do, monsters you control cannot attack for the rest of this turn, except Beast-Warrior monsters. You can only use this effect of \"Brotherhood of the Fire Fist - Spirit\" once per turn.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "ASTRAL PACK SEVEN",
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Brotherhood of the Fire Fist - Boar",
+        "Brotherhood of the Fire Fist - Buffalo",
+        "Brotherhood of the Fire Fist - Cardinal",
+        "Brotherhood of the Fire Fist - Caribou",
+        "Brotherhood of the Fire Fist - Dragon",
+        "Brotherhood of the Fire Fist - Eagle",
+        "Brotherhood of the Fire Fist - Eland",
+        "Brotherhood of the Fire Fist - Elephant",
+        "Brotherhood of the Fire Fist - Hawk",
+        "Brotherhood of the Fire Fist - Kirin",
+        "Brotherhood of the Fire Fist - Leopard",
+        "Brotherhood of the Fire Fist - Panda",
+        "Brotherhood of the Fire Fist - Peacock",
+        "Brotherhood of the Fire Fist - Ram",
+        "Brotherhood of the Fire Fist - Rhino",
+        "Brotherhood of the Fire Fist - Rooster",
+        "Fire Formation - Domei",
+        "Fire Formation - Ingen",
+        "Fire Fortress atop Liang Peak",
+        "Ultimate Fire Formation - Seito",
+        "Ultimate Fire Formation - Sinto"
+    ],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": 200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

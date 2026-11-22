@@ -1,0 +1,36 @@
+{
+    "name": "The Prime Monarch",
+    "filename": "The_Prime_Monarch",
+    "card_text": "Once per turn: You can target 2 \"Monarch\" Spells/Traps in your GY; shuffle them into the Deck, then draw 1 card. If this card is in your GY: You can banish 1 other \"Monarch\" Spell/Trap from your GY; Special Summon this card in Defense Position as a Normal Monster (Fairy/LIGHT/Level 5/ATK 1000/DEF 2400). (This card is NOT treated as a Trap.) You can only use this effect of \"The Prime Monarch\" once per turn.",
+    "release_date": "2016-01-29",
+    "available_set": [
+        "OTS TOURNAMENT PACK 2",
+        "Gold Series: Maximum Gold",
+        "EMPEROR OF DARKNESS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Domain of the True Monarchs",
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Escalation of the Monarchs",
+        "Frost Blast of the Monarchs",
+        "March of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Restoration of the Monarchs",
+        "Return of the Monarchs",
+        "Strike of the Monarchs",
+        "Tenacity of the Monarchs",
+        "Tessera the Primal Squire",
+        "The First Monarch",
+        "The Monarchs Awaken",
+        "The Monarchs Erupt",
+        "The Monarchs Masterplan",
+        "The Monarchs Revolt",
+        "The Monarchs Stormforth"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Ally of Justice Unknown Crusher",
+    "filename": "Ally_of_Justice_Unknown_Crusher",
+    "card_text": "When this card battles a LIGHT monster, remove that monster from play after damage calculation.",
+    "release_date": "2010-01-29",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "DUEL TERMINAL 1"
+    ],
+    "related_card": [
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unlimiter",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

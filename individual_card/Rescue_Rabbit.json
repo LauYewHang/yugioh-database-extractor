@@ -1,0 +1,22 @@
+{
+    "name": "Rescue Rabbit",
+    "filename": "Rescue_Rabbit",
+    "card_text": "Cannot be Special Summoned from the Deck. You can banish this card you control; Special Summon 2 Level 4 or lower Normal Monsters with the same name from your Deck, but destroy them during the End Phase. You can only use this effect of \"Rescue Rabbit\" once per turn.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "Yu-Gi-Oh! \u00d7 eFootball\u2122 Series Collab",
+        "COLLECTIBLE TIN 2012 WAVE 2",
+        "PHOTON SHOCKWAVE",
+        "KING'S COURT",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 100,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

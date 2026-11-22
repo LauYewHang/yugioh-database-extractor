@@ -1,0 +1,26 @@
+{
+    "name": "Dark Summoning Beast",
+    "filename": "Dark_Summoning_Beast",
+    "card_text": "You can Tribute this card; Special Summon 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your hand or Deck, ignoring its Summoning conditions, also monsters you control cannot attack for the rest of this turn. You can only use this effect of \"Dark Summoning Beast\" once per turn. You can banish this card from your GY; add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your Deck to your hand.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STRUCTURE DECK: SACRED BEASTS",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Dark Beckoning Beast",
+        "Hamon, Lord of Striking Thunder",
+        "Opening of the Spirit Gates",
+        "Raviel, Lord of Phantasms",
+        "Uria, Lord of Searing Flames"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

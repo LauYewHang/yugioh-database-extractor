@@ -1,0 +1,31 @@
+{
+    "name": "REINFORCE!",
+    "filename": "REINFORCE_",
+    "card_text": "(This card is always treated as a \"Rescue-ACE\" card.)\nTarget 1 \"Rescue-ACE\" monster you control; for the rest of this turn, that monster you control gains 1500 ATK/DEF, is unaffected by your opponent's monster effects, and the next time it would be destroyed by battle, it is not destroyed. You can banish this card from your GY, then target 1 \"Rescue-ACE\" Spell in your GY; Set that card. You can only use this effect of \"REINFORCE!\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "MAZE OF MILLENNIA",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "ALERT!",
+        "CONTAIN!",
+        "EMERGENCY!",
+        "EXTINGUISH!",
+        "RESCUE!",
+        "Rescue-ACE Air Lifter",
+        "Rescue-ACE Arbitrator",
+        "Rescue-ACE Fire Attacker",
+        "Rescue-ACE Fire Engine",
+        "Rescue-ACE HQ",
+        "Rescue-ACE Hydrant",
+        "Rescue-ACE Impulse",
+        "Rescue-ACE Monitor",
+        "Rescue-ACE Preventer",
+        "Rescue-ACE Quick Attacker",
+        "Rescue-ACE Turbulence"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

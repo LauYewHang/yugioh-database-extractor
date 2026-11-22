@@ -1,0 +1,17 @@
+{
+    "name": "Hippo Carnival",
+    "filename": "Hippo_Carnival",
+    "card_text": "Special Summon 3 \"Hippo Tokens\" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0), but they cannot be Tributed. You cannot Special Summon monsters from the Extra Deck while a \"Hippo Token\" is in a Monster Zone. For the rest of this turn after this card resolves, monsters your opponent controls cannot target monsters for attacks, except \"Hippo Tokens\".",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "STAR PACK ARC-V",
+        "DUELIST ALLIANCE",
+        "STARTER DECK YUYA"
+    ],
+    "related_card": [
+        "Super Hippo Carnival"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

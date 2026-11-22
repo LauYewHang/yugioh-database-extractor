@@ -1,0 +1,42 @@
+{
+    "name": "The Winged Dragon of Ra",
+    "filename": "The_Winged_Dragon_of_Ra",
+    "card_text": "Cannot be Special Summoned. Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, other cards and effects cannot be activated. When this card is Normal Summoned: You can pay LP so that you only have 100 left; this card gains ATK/DEF equal to the amount of LP paid. You can pay 1000 LP, then target 1 monster on the field; destroy that target.",
+    "release_date": "2012-03-06",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "QUARTER CENTURY BONANZA",
+        "SHONEN JUMP Promotional Card - January 2011 -",
+        "KING'S COURT",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "ORDER OF CHAOS SPECIAL EDITION",
+        "2019 GOLD SARCOPHAGUS TIN",
+        "PREMIUM GOLD",
+        "SHONEN JUMP Scholastic Edition Promotional Card",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "Speed Duel: Battle City Box",
+        "QUARTER CENTURY STAMPEDE",
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [
+        "Ancient Chant",
+        "Blaze Cannon",
+        "Dangers of the Divine",
+        "Dark Spell Regeneration",
+        "Guardian Slime",
+        "Millennium Revelation",
+        "Ra's Disciple",
+        "Sun God Unification",
+        "The True Sun God",
+        "The Winged Dragon of Ra - Immortal Phoenix",
+        "The Winged Dragon of Ra - Sphere Mode"
+    ],
+    "attribute": "DIVINE",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Divine-Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

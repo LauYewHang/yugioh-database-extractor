@@ -1,0 +1,17 @@
+{
+    "name": "Golden Dragon Summoner",
+    "filename": "Golden_Dragon_Summoner",
+    "card_text": "You can Tribute 1 monster, then target 1 monster on the field; return it to the hand. You can only use this effect of \"Golden Dragon Summoner\" once per turn.",
+    "release_date": "2014-07-11",
+    "available_set": [
+        "SUPER STARTER SPACE-TIME SHOWDOWN"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

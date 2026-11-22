@@ -1,0 +1,21 @@
+{
+    "name": "Night Beam",
+    "filename": "Night_Beam",
+    "card_text": "Target 1 Set Spell/Trap your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card's activation.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SYNCHRON EXTREME STRUCTURE DECK",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "Gold Series: Maximum Gold",
+        "2-PLAYER STARTER SET",
+        "QUARTER CENTURY STAMPEDE",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

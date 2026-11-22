@@ -1,0 +1,18 @@
+{
+    "name": "Gauntlet Warrior",
+    "filename": "Gauntlet_Warrior",
+    "card_text": "During either player's turn: You can Tribute this card; each Warrior-Type monster you currently control gains 500 ATK and DEF, until the end of the next Damage Step that monster attacks or is attacked.",
+    "release_date": "2010-01-26",
+    "available_set": [
+        "DUELIST PACK - YUSEI 2 -",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 400,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

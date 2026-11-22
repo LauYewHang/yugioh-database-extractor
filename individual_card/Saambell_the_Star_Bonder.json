@@ -1,0 +1,19 @@
+{
+    "name": "Saambell the Star Bonder",
+    "filename": "Saambell_the_Star_Bonder",
+    "card_text": "If a monster is Special Summoned to your field while you control this monster (except during the Damage Step): You can Special Summon 1 monster from your hand with the same Level as this card. You can only use this effect of \"Saambell the Star Bonder\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1400,
+    "defense": 1300,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3,
+    "pendulum_effect": "If you have a Pendulum Monster Card with the same Level as this card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card. You can only use this effect of \"Saambell the Star Bonder\" once per turn.",
+    "pendulum_scale": 7
+}

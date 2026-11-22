@@ -1,0 +1,21 @@
+{
+    "name": "Glow-Up Bulb",
+    "filename": "Glow_Up_Bulb",
+    "card_text": "If this card is in your GY: You can send the top card of your Deck to the GY, and if you do, Special Summon this card. You can only use this effect of \"Glow-Up Bulb\" once per Duel.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STARSTRIKE BLAST",
+        "STRUCTURE DECK : CYBERSE LINK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

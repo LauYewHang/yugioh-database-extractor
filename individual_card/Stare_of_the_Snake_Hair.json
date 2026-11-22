@@ -1,0 +1,27 @@
+{
+    "name": "Stare of the Snake Hair",
+    "filename": "Stare_of_the_Snake_Hair",
+    "card_text": "You can discard this card; add 1 \"Call of the Haunted\" or 1 Spell/Trap that mentions it from your Deck to your hand. If this card is Special Summoned: You can target 1 Attack Position monster your opponent controls; that face-up monster cannot attack, its effects are negated, also it cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use each effect of \"Stare of the Snake Hair\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Army of the Haunted",
+        "Call of the Forgotten",
+        "Call of the Haunted",
+        "Deadly Zombie Breath",
+        "Ectoplasmic Fortification",
+        "Great Mammoth of the Netherworld",
+        "Pumpking the Great Ghost King",
+        "Pumpking the King of Grave Ghosts",
+        "Vortex of Time"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

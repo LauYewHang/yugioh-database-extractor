@@ -1,0 +1,22 @@
+{
+    "name": "Great Mammoth of Goldfine",
+    "filename": "Great_Mammoth_of_Goldfine",
+    "card_text": "\"The Snake Hair\" + \"Dragon Zombie\"",
+    "release_date": "2013-10-11",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "SPEED DUEL: ARENA OF LOST SOULS"
+    ],
+    "related_card": [
+        "Dragon Zombie",
+        "The Snake Hair"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1800,
+    "monster_type": "Zombie",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

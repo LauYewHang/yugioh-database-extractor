@@ -1,0 +1,13 @@
+{
+    "name": "Scrap-Iron Signal",
+    "filename": "Scrap_Iron_Signal",
+    "card_text": "When your opponent activates a monster effect, while you control a Synchro Monster that mentions a Synchro Monster as material: Negate the activation, also, after that, Set this card face-down instead of sending it to the GY. You can only activate 1 \"Scrap-Iron Signal\" per turn.",
+    "release_date": "2020-01-17",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: MAGICAL HERO"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

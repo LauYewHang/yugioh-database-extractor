@@ -1,0 +1,18 @@
+{
+    "name": "Thron the Disciplined Angel",
+    "filename": "Thron_the_Disciplined_Angel",
+    "card_text": "If a monster(s) that was originally an EARTH Fairy is sent from your hand or field to the GY (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Thron the Disciplined Angel\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 600,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

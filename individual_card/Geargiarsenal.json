@@ -1,0 +1,32 @@
+{
+    "name": "Geargiarsenal",
+    "filename": "Geargiarsenal",
+    "card_text": "This card gains 200 ATK for each \"Geargia\" monster you control. You can Tribute this card; Special Summon 1 \"Geargia\" monster from your Deck in Defense Position, except \"Geargiarsenal\".",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "ASTRAL PACK FIVE",
+        "RETURN OF THE DUELIST",
+        "GEARGIA RAMPAGE STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Gear Gigant X",
+        "Geargia Change",
+        "Geargiaccelerator",
+        "Geargiagear",
+        "Geargiagear Gigant XG",
+        "Geargianchor",
+        "Geargiano",
+        "Geargiano Mk-II",
+        "Geargiano Mk-III",
+        "Geargiarmor",
+        "Geargiattacker",
+        "Geargiauger"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

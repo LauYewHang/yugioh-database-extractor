@@ -1,0 +1,24 @@
+{
+    "name": "Regulus the Fairy Beast",
+    "filename": "Regulus_the_Fairy_Beast",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 Spell/Trap that mentions \"Ancient Fairy Dragon\" from your Deck to your hand. During your Main Phase: You can Special Summon 1 Level 4 or lower LIGHT monster (Beast, Plant, or Fairy) from your hand in Defense Position. You can banish this card from your GY, then target 1 Field Spell in your GY; place it on the bottom of the Deck, then draw 1 card. You can only use each effect of \"Regulus the Fairy Beast\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Ancient Fairy Dragon",
+        "Ancient Fairy Life Dragon",
+        "Eternal Sunshine",
+        "Kuribon the Fairy Spirit",
+        "Spore the Fairy Seed",
+        "World of Spirits"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

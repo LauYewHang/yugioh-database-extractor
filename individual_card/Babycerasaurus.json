@@ -1,0 +1,26 @@
+{
+    "name": "Babycerasaurus",
+    "filename": "Babycerasaurus",
+    "card_text": "If this card is destroyed by card effect and sent to the GY: Special Summon 1 Level 4 or lower Dinosaur monster from your Deck.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "DUELIST LEAGUE 13",
+        "POWER OF THE DUELIST",
+        "WILD SURVIVORS",
+        "OTS TOURNAMENT PACK 18",
+        "QUARTER CENTURY STAMPEDE",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

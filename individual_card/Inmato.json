@@ -1,0 +1,20 @@
+{
+    "name": "Inmato",
+    "filename": "Inmato",
+    "card_text": "When 1 other face-up Plant-Type monster is targeted by the effect of a Spell or Trap Card your opponent controls, you can Tribute this card to draw 2 cards.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "DUELIST LEAGUE 2",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Cherry Inmato"
+    ],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 800,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

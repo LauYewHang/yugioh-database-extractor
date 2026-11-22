@@ -1,0 +1,17 @@
+{
+    "name": "Battleguard Rage",
+    "filename": "Battleguard_Rage",
+    "card_text": "Activate this card by targeting 1 Warrior monster you control; it gains 1000 ATK. Monsters destroyed by battle with it are returned to the hand instead of going to the GY. When that monster leaves the field, destroy this card.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "DUELIST ALLIANCE",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Battleguard Cadet",
+        "Battleguard Echoes"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

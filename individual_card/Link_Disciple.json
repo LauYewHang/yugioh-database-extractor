@@ -1,0 +1,18 @@
+{
+    "name": "Link Disciple",
+    "filename": "Link_Disciple",
+    "card_text": "1 Level 4 or lower Cyberse monster\nYou can Tribute 1 monster this card points to; draw 1 card, then place 1 card from your hand on the bottom of the Deck. You can only use this effect of \"Link Disciple\" once per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "DUEL POWER",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 4
+}

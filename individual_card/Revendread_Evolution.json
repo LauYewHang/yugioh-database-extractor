@@ -1,0 +1,35 @@
+{
+    "name": "Revendread Evolution",
+    "filename": "Revendread_Evolution",
+    "card_text": "This card can be used to Ritual Summon any \"Vendread\" Ritual Monster from your hand or GY. You must also Tribute monsters from your hand or field, and/or send 1 \"Vendread\" monster from your Deck to the GY, whose total Levels equal the Level of the Ritual Monster you Ritual Summon. The Ritual Summoned monster is destroyed during the End Phase of the next turn. You can only activate 1 \"Revendread Evolution\" per turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Avendread Savior",
+        "Ravenous Vendread",
+        "Revendread Executor",
+        "Revendread Origin",
+        "Revendread Slayer",
+        "Scar of the Vendread",
+        "Vendread Anima",
+        "Vendread Battlelord",
+        "Vendread Charge",
+        "Vendread Chimera",
+        "Vendread Core",
+        "Vendread Daybreak",
+        "Vendread Houndhorde",
+        "Vendread Nightmare",
+        "Vendread Nights",
+        "Vendread Reorigin",
+        "Vendread Reunion",
+        "Vendread Revenants",
+        "Vendread Revolution",
+        "Vendread Scavenger",
+        "Vendread Striges"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

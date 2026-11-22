@@ -1,0 +1,19 @@
+{
+    "name": "Xeno Meteorus",
+    "filename": "Xeno_Meteorus",
+    "card_text": "If a card(s) is destroyed by battle or card effect: You can Special Summon this card from your hand. During your Main Phase: You can destroy 1 Dinosaur monster in your hand or field, then Special Summon 1 Dinosaur Normal Monster from your hand or Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dragon, Dinosaur, Sea Serpent, or Wyrm monsters. You can only use each effect of \"Xeno Meteorus\" once per turn.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2000,
+    "defense": 200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

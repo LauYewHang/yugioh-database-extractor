@@ -1,0 +1,17 @@
+{
+    "name": "Angmarl the Fiendish Monarch",
+    "filename": "Angmarl_the_Fiendish_Monarch",
+    "card_text": "When this card is Tribute Summoned: You can banish 1 Spell Card from your Graveyard; add 1 card with the same name as the banished Spell Card from your Deck to your hand.",
+    "release_date": "2016-03-18",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

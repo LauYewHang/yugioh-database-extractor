@@ -1,0 +1,19 @@
+{
+    "name": "Curtain of the Dark Ones",
+    "filename": "Curtain_of_the_Dark_Ones",
+    "card_text": "A curtain that a spellcaster made, it is said to raise a dark power.",
+    "release_date": "2013-09-13",
+    "available_set": [
+        "ASTRAL PACK THREE"
+    ],
+    "related_card": [
+        "Kamionwizard"
+    ],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

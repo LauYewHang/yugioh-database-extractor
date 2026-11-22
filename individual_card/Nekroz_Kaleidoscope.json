@@ -1,0 +1,38 @@
+{
+    "name": "Nekroz Kaleidoscope",
+    "filename": "Nekroz_Kaleidoscope",
+    "card_text": "This card can be used to Ritual Summon any number of \"Nekroz\" Ritual Monsters. Tribute 1 monster from your hand or field, or send 1 monster from your Extra Deck to the GY, also after that, Ritual Summon any number of \"Nekroz\" monsters whose total Levels equal the Level of that monster. You can only use this effect of \"Nekroz Kaleidoscope\" once per turn. If you control no monsters: You can banish this card and 1 \"Nekroz\" monster from your GY; add 1 \"Nekroz\" Spell from your Deck to your hand.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "DUEL POWER",
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Divinemirror",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Brionac",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

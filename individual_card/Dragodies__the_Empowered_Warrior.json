@@ -1,0 +1,23 @@
+{
+    "name": "Dragodies, the Empowered Warrior",
+    "filename": "Dragodies__the_Empowered_Warrior",
+    "card_text": "If this card in its owner's Monster Zone is destroyed by your opponent's attack or card effect: You can add 1 Warrior or Spellcaster-Type monster with 2000 or less ATK from your Deck to your hand, except \"Dragodies, the Empowered Warrior\", during the End Phase of this turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Aether, the Evil Empowering Dragon",
+        "Empowerment"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "At the start of the Damage Step, if a monster you control battles an opponent's face-up monster: You can discard 1 card; the opponent's battling monster's ATK and DEF become half its current ATK and DEF (even if this card leaves the field).",
+    "pendulum_scale": 2
+}

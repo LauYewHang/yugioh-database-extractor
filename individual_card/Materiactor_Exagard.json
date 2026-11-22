@@ -1,0 +1,27 @@
+{
+    "name": "Materiactor Exagard",
+    "filename": "Materiactor_Exagard",
+    "card_text": "2+ Level 3 monsters\nYou can detach 1 material from this card; either Special Summon 1 \"Materiactor\" monster from your Deck, or add 1 \"Materiactor\" Spell/Trap from your Deck to your hand. If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can add up to 2 materials from this card to your hand, including a \"Materiactor\" card, then if a Normal Monster is in your GY, you can return 1 card on the field to the hand. You can only use each effect of \"Materiactor Exagard\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Materiactor Annulus",
+        "Materiactor Critical",
+        "Materiactor Exareptor",
+        "Materiactor Gigaboros",
+        "Materiactor Gigadra",
+        "Materiactor Meltdown",
+        "Materiactor Meltthrough",
+        "Materiactor Zeptwing",
+        "Prima Materiactor"
+    ],
+    "attribute": "WATER",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

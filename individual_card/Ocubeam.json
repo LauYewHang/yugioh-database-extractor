@@ -1,0 +1,20 @@
+{
+    "name": "Ocubeam",
+    "filename": "Ocubeam",
+    "card_text": "Frightening in appearance, this creature uses its large eyes and ears to keep track of any movement.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Kaminari Attack"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1550,
+    "defense": 1650,
+    "monster_type": "Fairy",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

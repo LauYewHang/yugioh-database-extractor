@@ -1,0 +1,17 @@
+{
+    "name": "Overlay Owl",
+    "filename": "Overlay_Owl",
+    "card_text": "Once per turn: You can pay 600 Life Points; detach 1 Xyz Material from a monster on the field.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": 1600,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

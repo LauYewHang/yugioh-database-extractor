@@ -1,0 +1,21 @@
+{
+    "name": "Anchamoufrite",
+    "filename": "Anchamoufrite",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck except \"Anchamoufrite\". You can only Special Summon \"Anchamoufrite\" once per turn this way. If this face-up card in the Monster Zone leaves the field, banish it.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "OTS TOURNAMENT PACK 20",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "If you have no cards in your Extra Deck except \"Anchamoufrite\": You can destroy this card, then draw 1 card. You can only use this effect of \"Anchamoufrite\" once per turn.",
+    "pendulum_scale": 4
+}

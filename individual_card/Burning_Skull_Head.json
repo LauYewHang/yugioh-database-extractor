@@ -1,0 +1,20 @@
+{
+    "name": "Burning Skull Head",
+    "filename": "Burning_Skull_Head",
+    "card_text": "When this card is Special Summoned from your hand, inflict 1000 damage to your opponent. You can remove from play this face-up card you control to return 1 removed from play \"Skull Flame\" to its owner's Graveyard.",
+    "release_date": "2009-05-19",
+    "available_set": [
+        "Yu-Gi-Oh! 5D's Wheelie Breakers Bundles"
+    ],
+    "related_card": [
+        "Skull Flame",
+        "Supersonic Skull Flame"
+    ],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 800,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

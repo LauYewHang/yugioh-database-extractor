@@ -1,0 +1,12 @@
+{
+    "name": "Baneshade",
+    "filename": "Baneshade",
+    "card_text": "Target 1 face-up card your opponent controls; apply this effect based on the number of cards in their GY with that face-up card's name.\n\u25cf1: Destroy it.\n\u25cf2: Banish it.\n\u25cf3+: Banish it, also all cards with that name from your opponent's field and GY (face-down).",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "The Masked Beast",
+    "filename": "The_Masked_Beast",
+    "card_text": "You can Ritual Summon this card with \"Curse of the Masked Beast\".",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "DUELIST PACK - BATTLE CITY -",
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE",
+        "RETRO PACK 2",
+        "DUELIST LEAGUE SERIES 2",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Curse of the Masked Beast"
+    ],
+    "attribute": "DARK",
+    "attack": 3200,
+    "defense": 1800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Ritual",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

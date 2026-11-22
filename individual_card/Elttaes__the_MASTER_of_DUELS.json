@@ -1,0 +1,17 @@
+{
+    "name": "Elttaes, the MASTER of DUELS",
+    "filename": "Elttaes__the_MASTER_of_DUELS",
+    "card_text": "Cannot be Special Summoned. Requires 3 Cyberse Tributes to Normal Summon (cannot be Normal Set). If this card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+    "release_date": "2024-09-08",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2024"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 2200,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

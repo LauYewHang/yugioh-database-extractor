@@ -1,0 +1,27 @@
+{
+    "name": "Destruction Sword Flash",
+    "filename": "Destruction_Sword_Flash",
+    "card_text": "If you control a Fusion Monster that lists \"Buster Blader\" as Material: Banish all monsters your opponent controls. When a card or effect is activated that targets a \"Buster Blader\" monster(s) you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect, and if you do, destroy that card.",
+    "release_date": "2015-12-10",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS SPECIAL EDITION (UK)",
+        "BREAKERS OF SHADOW",
+        "CLASH OF REBELLIONS SPECIAL EDITION (US)"
+    ],
+    "related_card": [
+        "Buster Blader",
+        "Buster Blader, the Destruction Swordmaster",
+        "Buster Blader, the Dragon Destroyer Swordsman",
+        "Buster Dragon",
+        "Buster Whelp of the Destruction Swordsman",
+        "Destruction Sword Memories",
+        "Karma of the Destruction Swordsman",
+        "Prologue of the Destruction Swordsman",
+        "Protector Whelp of the Destruction Swordsman",
+        "Toon Buster Blader",
+        "Wizard Buster Destruction Sword"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

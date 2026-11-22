@@ -1,0 +1,26 @@
+{
+    "name": "Revival Swarm",
+    "filename": "Revival_Swarm",
+    "card_text": "Target 1 \"Battlewasp\" monster in your GY; Special Summon it. You can banish this card from your GY, then target 1 Insect monster you control; it cannot be destroyed by battle or card effects, until the end of the next turn. You can only use this effect of \"Revival Swarm\" once per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Ballista the Armageddon",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Grand Partisan the Revolution",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Pin the Bullseye",
+        "Battlewasp - Rapier the Onslaught",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp - Twinbow the Attacker",
+        "Battlewasp Wind"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

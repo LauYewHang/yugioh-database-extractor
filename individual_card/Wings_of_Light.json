@@ -1,0 +1,25 @@
+{
+    "name": "Wings of Light",
+    "filename": "Wings_of_Light",
+    "card_text": "During the Main Phase: Add 1 \"Supreme King Dragon\" or \"Supreme King Gate\" Pendulum Monster from your Deck to your hand, or if you control \"Supreme King Z-ARC\", you can Special Summon it instead. You can only activate 1 \"Wings of Light\" per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Odd-Eyes Arcray Dragon",
+        "Supreme King Dragon Clear Wing",
+        "Supreme King Dragon Dark Rebellion",
+        "Supreme King Dragon Darkwurm",
+        "Supreme King Dragon Lightwurm",
+        "Supreme King Dragon Odd-Eyes",
+        "Supreme King Dragon Starving Venom",
+        "Supreme King Gate Infinity",
+        "Supreme King Gate Magician",
+        "Supreme King Gate Zero",
+        "Supreme King Z-ARC",
+        "Supreme King Z-ARC - Synchro Universe"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

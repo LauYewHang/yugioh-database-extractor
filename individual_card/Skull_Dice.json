@@ -1,0 +1,17 @@
+{
+    "name": "Skull Dice",
+    "filename": "Skull_Dice",
+    "card_text": "Roll a six-sided die. All monsters your opponent currently controls lose ATK/DEF equal to the result x 100, until the end of this turn.",
+    "release_date": "2002-10-15",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "Yu-Gi-Oh! THE ETERNAL DUELIST SOUL Bundles",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "Event Pack Speed Duel",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

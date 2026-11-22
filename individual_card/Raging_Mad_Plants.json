@@ -1,0 +1,13 @@
+{
+    "name": "Raging Mad Plants",
+    "filename": "Raging_Mad_Plants",
+    "card_text": "All Plant-Type monsters you currently control gain 300 ATK for each Plant-Type monster currently in your Graveyard, until the end of this turn. During the End Phase, destroy all Plant-Type monsters you control.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

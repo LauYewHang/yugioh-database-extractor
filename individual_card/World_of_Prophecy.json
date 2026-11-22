@@ -1,0 +1,37 @@
+{
+    "name": "World of Prophecy",
+    "filename": "World_of_Prophecy",
+    "card_text": "When this card is Special Summoned by the effect of a Spellcaster-Type monster or a \"Spellbook\" Spell Card: You can target 2 \"Spellbook\" Spell Cards in your Graveyard; add those targets to your hand. You cannot Special Summon other monsters during the turn you activate this effect. When you add card(s) to your hand by this effect: You can reveal 4 \"Spellbook\" Spell Cards with different names in your hand; destroy all other cards on the field.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Hidden Spellbook (Updated from: Hidden Book of Spell)",
+        "Spellbook Library of the Crescent",
+        "Spellbook Library of the Heliosphere",
+        "Spellbook Magician of Prophecy",
+        "Spellbook of Eternity",
+        "Spellbook of Fate",
+        "Spellbook of Judgment",
+        "Spellbook of Knowledge",
+        "Spellbook of Life",
+        "Spellbook of Miracles",
+        "Spellbook of Power",
+        "Spellbook of Secrets",
+        "Spellbook of the Grand Circle",
+        "Spellbook of the Master",
+        "Spellbook of Wisdom",
+        "Spellbook Organization (Updated from: Pigeonholing Books of Spell)",
+        "Spellbook Star Hall",
+        "The Grand Spellbook Tower"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2900,
+    "defense": 2400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Psychic Megacyber",
+    "filename": "Psychic_Megacyber",
+    "card_text": "If your opponent controls more Spells/Traps than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Psychic Megacyber\" once per turn this way. When this card declares an attack on an opponent's Effect Monster while you control \"Jinzo\": You can Tribute this card; place that opponent's monster face-up in their Spell & Trap Zone as a Continuous Trap. You can only use this effect of \"Psychic Megacyber\" once per turn.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Jinzo",
+        "Jinzo - Energy Shocker",
+        "Jinzo - Jector",
+        "Law of the Cosmos",
+        "Prima Light",
+        "Psychic Bounder"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

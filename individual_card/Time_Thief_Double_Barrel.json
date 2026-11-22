@@ -1,0 +1,28 @@
+{
+    "name": "Time Thief Double Barrel",
+    "filename": "Time_Thief_Double_Barrel",
+    "card_text": "2 Level 4 monsters\nWhen your opponent activates a card or effect: You can detach up to 3 different types of materials from this card (Monster, Spell, and Trap), then apply the following effect(s) depending on what was detached, in sequence.\n\u25cfMonster: This card gains 400 ATK.\n\u25cfSpell: Take control of 1 face-up monster your opponent controls until the End Phase, but it cannot declare an attack nor activate its effects this turn.\n\u25cfTrap: Negate the effects of 1 Effect Monster on the field until the end of this turn.\nYou can only use this effect of \"Time Thief Double Barrel\" once per turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Time Thief Adjuster",
+        "Time Thief Bezel Ship",
+        "Time Thief Flyback",
+        "Time Thief Perpetua",
+        "Time Thief Power Reserve",
+        "Time Thief Regulator",
+        "Time Thief Retrograde",
+        "Time Thief Startup",
+        "Time Thief Temporwhal",
+        "Time Thief Winder"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 2200,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

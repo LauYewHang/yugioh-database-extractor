@@ -1,0 +1,35 @@
+{
+    "name": "Igknight Cavalier",
+    "filename": "Igknight_Cavalier",
+    "card_text": "The vaunted weapons of this pink Igknight have inflicted as much damage to her enemies as to her own troops, but she gets results so very few complain.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Igknight Burst",
+        "Igknight Champion",
+        "Igknight Crusader",
+        "Igknight Gallant",
+        "Igknight Lancer",
+        "Igknight Margrave",
+        "Igknight Paladin",
+        "Igknight Reload",
+        "Igknight Squire",
+        "Igknight Templar",
+        "Igknight Veteran",
+        "Igknights Unite",
+        "Ignis Phoenix, the Dracoslayer",
+        "Ignition Phoenix"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.",
+    "pendulum_scale": 2
+}

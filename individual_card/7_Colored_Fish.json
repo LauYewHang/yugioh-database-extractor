@@ -1,0 +1,22 @@
+{
+    "name": "7 Colored Fish",
+    "filename": "7_Colored_Fish",
+    "card_text": "A rare rainbow fish that has never been caught by mortal man.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "GOLD SERIES",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "STARTER DECK JOEY"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 800,
+    "monster_type": "Fish",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

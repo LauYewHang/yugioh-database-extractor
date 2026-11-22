@@ -1,0 +1,12 @@
+{
+    "name": "Pride of the Weak",
+    "filename": "Pride_of_the_Weak",
+    "card_text": "When a Level 2 or lower monster you control destroys an opponent's monster by battle and sends it to the Graveyard, if you have no cards in your hand, draw 2 cards.",
+    "release_date": "2009-06-09",
+    "available_set": [
+        "5D's STARTER DECK 2009"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

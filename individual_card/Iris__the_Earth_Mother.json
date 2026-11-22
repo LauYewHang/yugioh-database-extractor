@@ -1,0 +1,17 @@
+{
+    "name": "Iris, the Earth Mother",
+    "filename": "Iris__the_Earth_Mother",
+    "card_text": "After a Chain with 3 or more Links resolves, draw 1 card. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 1200,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

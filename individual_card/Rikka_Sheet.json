@@ -1,0 +1,22 @@
+{
+    "name": "Rikka Sheet",
+    "filename": "Rikka_Sheet",
+    "card_text": "Target 1 face-up monster your opponent controls, also, you can Tribute 1 Plant monster; players cannot activate that face-up monster's effects on the field this turn, then, if you Tributed a monster when you activated this card, take control of that monster until the End Phase, and if you do, it becomes a Plant monster until the End Phase. You can only activate 1 \"Rikka Sheet\" per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS"
+    ],
+    "related_card": [
+        "Hellebore the Rikka Fairy",
+        "Mudan the Rikka Fairy",
+        "Rikka Flurries",
+        "Rikka Glamour",
+        "Rikka Konkon",
+        "Rikka Petal",
+        "Rikka Princess",
+        "Rikka Queen Strenna",
+        "Rikka Tranquility"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

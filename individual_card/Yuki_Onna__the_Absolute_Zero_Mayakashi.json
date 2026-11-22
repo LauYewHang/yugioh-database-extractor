@@ -1,0 +1,31 @@
+{
+    "name": "Yuki-Onna, the Absolute Zero Mayakashi",
+    "filename": "Yuki_Onna__the_Absolute_Zero_Mayakashi",
+    "card_text": "2+ Zombie monsters\nYou can only control 1 \"Yuki-Onna, the Absolute Zero Mayakashi\". Negate any activated effects of your opponent's banished monsters. If a monster is Special Summoned from the GY, or a monster effect is activated in the GY (except during the Damage Step): You can target 1 other face-up monster on the field; change its ATK to 0, and if you do, negate its effects. You can use this effect of \"Yuki-Onna, the Absolute Zero Mayakashi\" up to twice per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "RARITY COLLECTION 5",
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Dakki, the Graceful Mayakashi",
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Hajun, the Winged Mayakashi",
+        "Mayakashi Mayhem",
+        "Mayakashi Metamorphosis",
+        "Mayakashi Return",
+        "Mayakashi Winter",
+        "Shafu, the Wheeled Mayakashi",
+        "Tsukahagi, the Poisonous Mayakashi",
+        "Yasha, the Skeletal Mayakashi",
+        "Yuki-Musume, the Ice Mayakashi",
+        "Yuki-Onna, the Ice Mayakashi"
+    ],
+    "attribute": "WATER",
+    "attack": 2900,
+    "defense": null,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 90
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bark of Dark Ruler",
+    "filename": "Bark_of_Dark_Ruler",
+    "card_text": "If a Fiend monster you control battles, during the Damage Step: Pay LP in multiples of 100, then target the opponent's battling monster; that opponent's monster loses that much ATK and DEF, until the end of this turn.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "LEGACY OF DARKNESS",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "Speed Duel: Battle City Box",
+        "DARK BEGINNING 2",
+        "TURBO PACK BOOSTER FOUR"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

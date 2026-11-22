@@ -1,0 +1,29 @@
+{
+    "name": "The Iris Swordsoul",
+    "filename": "The_Iris_Swordsoul",
+    "card_text": "During the Main Phase, if a monster, whose effects are negated, is on the field (Quick Effect): You can Special Summon this card from your hand. If your opponent Special Summons a monster(s) (except during the Damage Step): You can activate 1 of these effects based on where it was Special Summoned from;\n\u25cfHand: Special Summon 1 monster from your hand.\n\u25cfDeck: Draw 2 cards.\n\u25cfExtra Deck: Destroy 1 of those monsters Special Summoned from the Extra Deck.\nYou can only use each effect of \"The Iris Swordsoul\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "DAWN OF MAJESTY",
+        "25TH ANNIVERSARY RARITY COLLECTION"
+    ],
+    "related_card": [
+        "Incredible Ecclesia, the Virtuous",
+        "Swordsoul Assessment",
+        "Swordsoul Emergence",
+        "Swordsoul Grandmaster - Chixiao",
+        "Swordsoul of Mo Ye",
+        "Swordsoul of Taia",
+        "Swordsoul Sacred Summit",
+        "Swordsoul Strategist Longyuan",
+        "Swordsoul Strife"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

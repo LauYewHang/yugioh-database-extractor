@@ -1,0 +1,35 @@
+{
+    "name": "Evil\u2605Twin Ki-sikil Deal",
+    "filename": "Evil_Twin_Ki_sikil_Deal",
+    "card_text": "1 \"Ki-sikil\" monster\nYou can only Link Summon \"Evil\u2605Twin Ki-sikil Deal\" once per turn. You can send 1 \"Lil-la\" monster from your Deck or Extra Deck to the GY; apply this effect this turn.\n\u25cfEach time your opponent activates a card or effect in response to your \"Ki-sikil\" or \"Lil-la\" monster effect activation, draw 1 card when that card/effect resolves.\nYou can only use this effect of \"Evil\u2605Twin Ki-sikil Deal\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Evil\u2605Twin Challenge",
+        "Evil\u2605Twin GG EZ",
+        "Evil\u2605Twin Ki-sikil",
+        "Evil\u2605Twin Lil-la",
+        "Evil\u2605Twin Present",
+        "Evil\u2605Twin's Trouble Sunny",
+        "Evil\u2605Twins Ki-sikil & Lil-la",
+        "Lil-la Rap",
+        "Live\u2606Twin Channel",
+        "Live\u2606Twin Home",
+        "Live\u2606Twin Ki-sikil",
+        "Live\u2606Twin Ki-sikil Frost",
+        "Live\u2606Twin Lil-la",
+        "Live\u2606Twin Lil-la Sweet",
+        "Live\u2606Twin Lil-la Treat",
+        "Live\u2606Twin Sunny's Snitch",
+        "Secret Password"
+    ],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 64
+}

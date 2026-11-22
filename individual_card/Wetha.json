@@ -1,0 +1,17 @@
+{
+    "name": "Wetha",
+    "filename": "Wetha",
+    "card_text": "A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.",
+    "release_date": "2019-12-06",
+    "available_set": [
+        "SPEED DUEL: TRIALS OF THE KINGDOM"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 900,
+    "monster_type": "Aqua",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

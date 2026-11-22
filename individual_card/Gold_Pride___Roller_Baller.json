@@ -1,0 +1,34 @@
+{
+    "name": "Gold Pride - Roller Baller",
+    "filename": "Gold_Pride___Roller_Baller",
+    "card_text": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Gold Pride\" Fusion Monster from your Extra Deck, using monsters from your hand or field as material. You can only use each effect of \"Gold Pride - Roller Baller\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Gold Pride - Better Luck Next Time!",
+        "Gold Pride - Captain Carrie",
+        "Gold Pride - Chariot Carrie",
+        "Gold Pride - Eliminator",
+        "Gold Pride - Eradicator",
+        "Gold Pride - It's Neck and Neck!",
+        "Gold Pride - Leon",
+        "Gold Pride - Nytro Blaster",
+        "Gold Pride - Nytro Head",
+        "Gold Pride - Pedal to the Metal!",
+        "Gold Pride - Pin Baller",
+        "Gold Pride - Star Leon",
+        "Gold Pride - Start Your Engines!",
+        "Gold Pride - That Came Out of Nowhere!",
+        "Gold Pride - The Crowd Goes Wild!"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1600,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Scarlet Security",
+    "filename": "Scarlet_Security",
+    "card_text": "If you control a \"Red Dragon Archfiend\": Destroy all Spell and Trap Cards your opponent controls.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Crimson Call",
+        "Crimson Gaia",
+        "Fiend Piece Golem",
+        "Fiendish Golem",
+        "Red Dragon Archfiend",
+        "Red Zone",
+        "Scarlight Red Dragon Archfiend",
+        "Scarred Dragon Archfiend",
+        "Soul Resonator",
+        "The Crimson King",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

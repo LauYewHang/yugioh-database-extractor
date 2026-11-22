@@ -1,0 +1,37 @@
+{
+    "name": "Ha-Re the Sword Mikanko",
+    "filename": "Ha_Re_the_Sword_Mikanko",
+    "card_text": "If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. If an Equip Card becomes equipped to this card: You can add 1 \"Mikanko\" Equip Spell from your Deck to your hand. You can only use this effect of \"Ha-Re the Sword Mikanko\" once per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Arahime the Manifested Mikanko",
+        "Heavenly Gate of the Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Fire Dance",
+        "Mikanko Kagura",
+        "Mikanko Promise",
+        "Mikanko Purification Dance",
+        "Mikanko Reflection Rondo",
+        "Mikanko Rivalry",
+        "Mikanko Shinbu - Noble Twins",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Ohime the Manifested Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "attribute": "FIRE",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

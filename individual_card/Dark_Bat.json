@@ -1,0 +1,18 @@
+{
+    "name": "Dark Bat",
+    "filename": "Dark_Bat",
+    "card_text": "Bats from the netherworld that use their hyper senses to detect their enemies.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

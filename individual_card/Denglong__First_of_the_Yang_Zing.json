@@ -1,0 +1,37 @@
+{
+    "name": "Denglong, First of the Yang Zing",
+    "filename": "Denglong__First_of_the_Yang_Zing",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can add 1 \"Yang Zing\" card from your Deck to your hand. Once per turn: You can send 1 Wyrm monster from your Deck to the GY; this card's Level becomes the sent monster's. If this face-up card leaves the field: You can Special Summon 1 \"Yang Zing\" monster from your Deck. You can only Special Summon \"Denglong, First of the Yang Zing(s)\" once per turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Baxia, Brightness of the Yang Zing",
+        "Bi'an, Earth of the Yang Zing",
+        "Bixi, Water of the Yang Zing",
+        "Chaofeng, Phantom of the Yang Zing",
+        "Chiwen, Light of the Yang Zing",
+        "Jiaotu, Darkness of the Yang Zing",
+        "Nine Pillars of Yang Zing",
+        "Pulao, Wind of the Yang Zing",
+        "Suanni, Fire of the Yang Zing",
+        "Taotie, Shadow of the Yang Zing",
+        "Yang Zing Brutality",
+        "Yang Zing Creation",
+        "Yang Zing Path",
+        "Yang Zing Prana",
+        "Yang Zing Unleashed",
+        "Yazi, Evil of the Yang Zing",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 2800,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

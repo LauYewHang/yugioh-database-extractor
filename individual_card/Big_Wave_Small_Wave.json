@@ -1,0 +1,17 @@
+{
+    "name": "Big Wave Small Wave",
+    "filename": "Big_Wave_Small_Wave",
+    "card_text": "Destroy as many WATER monsters you control as possible, then you can Special Summon WATER monsters from your hand, up to the number of monsters destroyed by this effect.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK REVELATION Volume 3",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

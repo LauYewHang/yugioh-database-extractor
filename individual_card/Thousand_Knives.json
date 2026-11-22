@@ -1,0 +1,38 @@
+{
+    "name": "Thousand Knives",
+    "filename": "Thousand_Knives",
+    "card_text": "If you control \"Dark Magician\": Target 1 monster your opponent controls; destroy that target.",
+    "release_date": "2003-11-18",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "YUGI'S LEGENDARY DECKS",
+        "CHAMPION PACK GAME FIVE",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "STARTER DECK YUGI RELOADED",
+        "LEGENDARY DRAGON DECKS",
+        "2-PLAYER STARTER SET",
+        "Yu-Gi-Oh! POWER OF CHAOS YUGI THE DESTINY Bundles"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Eternal Soul",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

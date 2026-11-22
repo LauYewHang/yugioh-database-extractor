@@ -1,0 +1,33 @@
+{
+    "name": "Invoked Purgatrio",
+    "filename": "Invoked_Purgatrio",
+    "card_text": "\"Aleister the Invoker\" + 1 FIRE monster\nGains 200 ATK for each card your opponent controls. Can attack all monsters your opponent controls, once each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2017-02-24",
+    "available_set": [
+        "FUSION ENFORCERS",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Aiwass, Divine Spirit of the Law",
+        "Aleister the Invoker",
+        "Aleister the Invoker of Madness",
+        "Aleister the Reminiscent",
+        "Crowley, the Gifted Magistus",
+        "Gamma Summon",
+        "Invocation",
+        "Invocation - \"Grail\"",
+        "Invocation - \"Sword\"",
+        "Invoked Elysium",
+        "Invoked Sorath",
+        "Omega Summon",
+        "The Book of the Law"
+    ],
+    "attribute": "FIRE",
+    "attack": 2300,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

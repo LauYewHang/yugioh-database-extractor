@@ -1,0 +1,18 @@
+{
+    "name": "Paleozoic Olenoides",
+    "filename": "Paleozoic_Olenoides",
+    "card_text": "Target 1 Spell/Trap on the field; destroy it. Once per Chain, when a Trap Card is activated while this card is in your GY: Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0) (this card is NOT treated as a Trap). If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Paleozoic Cambroraster",
+        "Paleozoic Opabinia",
+        "Paleozoic Pikaia"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

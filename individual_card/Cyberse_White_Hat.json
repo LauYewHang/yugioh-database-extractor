@@ -1,0 +1,24 @@
+{
+    "name": "Cyberse White Hat",
+    "filename": "Cyberse_White_Hat",
+    "card_text": "If you control 2 or more monsters with the same Type, you can Special Summon this card (from your hand). You can only Special Summon \"Cyberse White Hat\" once per turn this way. If this card is sent to the GY as Link Material: You can make all monsters your opponent currently controls lose 1000 ATK until the end of this turn.",
+    "release_date": "2018-07-13",
+    "available_set": [
+        "STARTER DECK CODEBREAKER"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 2400,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

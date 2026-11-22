@@ -1,0 +1,36 @@
+{
+    "name": "Medusa, Watcher of the Evil Eye",
+    "filename": "Medusa__Watcher_of_the_Evil_Eye",
+    "card_text": "When this card is Normal Summoned: You can target 1 \"Evil Eye\" card in your GY, except \"Medusa, Watcher of the Evil Eye\"; add it to your hand. If this card is equipped with \"Evil Eye of Selene\" (Quick Effect): You can target 1 monster in your opponent's GY; banish it. You can only use this effect of \"Medusa, Watcher of the Evil Eye\" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Banish 1 card in your GY.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Basilius, Familiar of the Evil Eye",
+        "Basiltrice, Familiar of the Evil Eye",
+        "Catoblepas, Familiar of the Evil Eye",
+        "Evil Eye Awakening",
+        "Evil Eye Confrontation",
+        "Evil Eye Defeat",
+        "Evil Eye Domain - Pareidolia",
+        "Evil Eye Mesmerism",
+        "Evil Eye of Gorgoneio",
+        "Evil Eye of Selene",
+        "Evil Eye Reemergence",
+        "Evil Eye Repose",
+        "Evil Eye Retribution",
+        "Evil Eyes Unleashed",
+        "Gorgon, Empress of the Evil Eyed",
+        "Serziel, Watcher of the Evil Eye",
+        "Zerrziel, Ruler of the Evil Eyed"
+    ],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 1600,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

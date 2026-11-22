@@ -1,0 +1,26 @@
+{
+    "name": "Mulcharmy Fuwalos",
+    "filename": "Mulcharmy_Fuwalos",
+    "card_text": "If you control no cards (Quick Effect): You can discard this card; apply these effects this turn.\n\u25cfEach time your opponent Special Summons a monster(s) from the Deck and/or Extra Deck, immediately draw 1 card.\n\u25cfOnce, during this End Phase, if the number of cards in your hand is more than the number of cards your opponent controls +6, you must randomly shuffle cards from your hand into the Deck so the number in your hand equals the number your opponent controls +6.\nYou can only activate 1 other \"Mulcharmy\" monster effect, the turn you activate this effect.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "RAGE OF THE ABYSS",
+        "Legendary 5D's Decks",
+        "LEGENDARY ARC-V DECKS",
+        "WINNER'S PACK 2026-2027",
+        "QUARTER CENTURY STAMPEDE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Mulcharmy Meowls",
+        "Mulcharmy Purulia"
+    ],
+    "attribute": "WIND",
+    "attack": 100,
+    "defense": 600,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

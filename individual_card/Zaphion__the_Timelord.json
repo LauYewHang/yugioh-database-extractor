@@ -1,0 +1,22 @@
+{
+    "name": "Zaphion, the Timelord",
+    "filename": "Zaphion__the_Timelord",
+    "card_text": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Shuffle all Spells and Traps your opponent controls into the Deck. If this card is sent from the field to the GY: You can draw 1 card. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+    "release_date": "2017-07-07",
+    "available_set": [
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-"
+    ],
+    "related_card": [
+        "Empty Machine",
+        "Infinite Light",
+        "Infinite Machine",
+        "Time Maiden"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

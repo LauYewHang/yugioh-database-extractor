@@ -1,0 +1,35 @@
+{
+    "name": "Artmage Finmel",
+    "filename": "Artmage_Finmel",
+    "card_text": "Your opponent cannot target Level 6 or lower \"Artmage\" monsters you control with card effects. You can only use each of the following effects of \"Artmage Finmel\" once per turn. If you control an \"Artmage\" card: You can Special Summon this card from your hand, then you can draw 1 card. During the Main Phase, if you have 3 or more different Monster Types on your field (Quick Effect): You can negate the effects of all face-up monsters your opponent currently controls, also until the end of this turn, their ATK's become halved.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Artmage Academic Arcane Arts Acropolis",
+        "Artmage Diactorus",
+        "Artmage Graflare",
+        "Artmage Impasto -Recapture-",
+        "Artmage Litera",
+        "Artmage Masterwork -Succession-",
+        "Artmage Movement -Pedigree-",
+        "Artmage Non-Finito",
+        "Artmage Pact -Awakening-",
+        "Artmage Peripeteia -Turmoil-",
+        "Artmage Power Patron",
+        "Artmage Vandalism -Assault-",
+        "Artmage Varnish -Alteration-",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Theorealize Past Lull"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Phantom Fortress Enterblathnir",
+    "filename": "Phantom_Fortress_Enterblathnir",
+    "card_text": "2 Level 9 monsters\nOnce per turn: You can detach 1 material from this card, then activate 1 of these effects;\n\u25cfBanish 1 card your opponent controls.\n\u25cfBanish 1 random card from your opponent's hand.\n\u25cfBanish 1 card from your opponent's GY.\n\u25cfBanish the top card of your opponent's Deck, face-up.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2900,
+    "defense": 2500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 9
+}

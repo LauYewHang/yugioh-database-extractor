@@ -1,0 +1,34 @@
+{
+    "name": "Primathmech Alembertian",
+    "filename": "Primathmech_Alembertian",
+    "card_text": "2+ Level 4 monsters\nYou can Tribute 1 monster; Special Summon 1 Level 4 \"Mathmech\" monster from your hand or GY. If this card is Xyz Summoned: You can detach 2 to 4 materials from this card, then activate the appropriate effect;\n\u25cf2: Add 1 \"Mathmech\" card from your Deck to your hand.\n\u25cf3: Add 1 Level 4 monster from your Deck to your hand.\n\u25cf4: Add 1 Spell/Trap from your Deck to your hand.\nYou can only use each effect of \"Primathmech Alembertian\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Geomathmech Final Sigma",
+        "Geomathmech Magma",
+        "Mathmech Addition",
+        "Mathmech Billionblade Nayuta",
+        "Mathmech Circular",
+        "Mathmech Diameter",
+        "Mathmech Division",
+        "Mathmech Equation",
+        "Mathmech Induction",
+        "Mathmech Multiplication",
+        "Mathmech Nabla",
+        "Mathmech Sigma",
+        "Mathmech Subtraction",
+        "Mathmech Superfactorial",
+        "Primathmech Laplacian"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Big Whale",
+    "filename": "Big_Whale",
+    "card_text": "When this card is Tribute Summoned: You can Tribute this card; Special Summon 3 Level 3 WATER monsters from your Deck. Their effects are negated.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 3000,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

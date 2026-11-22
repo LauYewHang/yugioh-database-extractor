@@ -1,0 +1,36 @@
+{
+    "name": "Dark Magician the Knight of Dragon Magic",
+    "filename": "Dark_Magician_the_Knight_of_Dragon_Magic",
+    "card_text": "\"Dark Magician\" + 1 Level 7 or higher Dragon or Warrior monster\nIf your monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, when your monster destroys an opponent's monster by battle: You can inflict damage to your opponent equal to the destroyed monster's original ATK. If this card is destroyed: You can Special Summon both 1 \"Dark Magician\" and 1 \"Gaia the Dragon Champion\" from your hand, Deck, Extra Deck, and/or GY.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight of Dragons",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 2900,
+    "defense": 2400,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

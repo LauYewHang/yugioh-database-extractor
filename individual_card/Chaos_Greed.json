@@ -1,0 +1,14 @@
+{
+    "name": "Chaos Greed",
+    "filename": "Chaos_Greed",
+    "card_text": "You can only activate this card if 4 or more of your cards are currently removed from play and there are no cards in your Graveyard. Draw 2 cards from your Deck.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

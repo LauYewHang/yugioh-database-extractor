@@ -1,0 +1,16 @@
+{
+    "name": "Blustering Winds",
+    "filename": "Blustering_Winds",
+    "card_text": "Target 1 face-up monster you control; it gains 1000 ATK and DEF until your next Standby Phase.",
+    "release_date": "2011-07-12",
+    "available_set": [
+        "DEMO DECK 2015",
+        "STARTER DECK DAWN OF THE XYZ",
+        "SUPER STARTER V FOR VICTORY",
+        "STARTER DECK XYZ SYMPHONY",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

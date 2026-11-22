@@ -1,0 +1,43 @@
+{
+    "name": "Symphonic Warrior Rockks",
+    "filename": "Symphonic_Warrior_Rockks",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. You can only use each of the following effects of \"Symphonic Warrior Rockks\" once per turn. If this card is Special Summoned: You can add 1 face-up Pendulum Monster from your Extra Deck to your hand. If \"Symph Amplifire\" is in your Field Zone: You can destroy 1 card on the field.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Final Cross",
+        "Full-Speed Warrior",
+        "Generalprobe",
+        "Junk Armor",
+        "Junk Mail",
+        "Junk Meister",
+        "Rush Warrior",
+        "Satellite Synchron",
+        "Satellite Warrior",
+        "Scrap Synchron",
+        "Scrap Warrior",
+        "Stardust Trail",
+        "Stardust Warrior",
+        "Symph Amplifire",
+        "Symphonic Warrior Basses",
+        "Symphonic Warrior DJJ",
+        "Symphonic Warrior Drumss",
+        "Symphonic Warrior Guitaar",
+        "Symphonic Warrior Guitariss",
+        "Symphonic Warrior Miccs",
+        "Symphonic Warrior Piaano",
+        "Symphonic Warrior Synthess",
+        "Synchro Chase"
+    ],
+    "attribute": "WIND",
+    "attack": 2500,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7,
+    "pendulum_effect": "During each Standby Phase: You can add 1 face-up Pendulum Monster from your Extra Deck to your hand. You can only use this effect of \"Symphonic Warrior Rockks\" once per turn. When an opponent's monster declares an attack: You can destroy both that monster and this card.",
+    "pendulum_scale": 10
+}

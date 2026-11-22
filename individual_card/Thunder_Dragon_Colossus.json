@@ -1,0 +1,34 @@
+{
+    "name": "Thunder Dragon Colossus",
+    "filename": "Thunder_Dragon_Colossus",
+    "card_text": "\"Thunder Dragon\" + 1 Thunder monster\nMust be either Fusion Summoned, or Special Summoned during the turn a Thunder monster's effect was activated in the hand, by Tributing 1 Thunder Effect non-Fusion Monster (in which case you do not use \"Polymerization\"). Cards cannot be added from the Main Deck to your opponent's hand except by drawing them. If this card would be destroyed by battle or card effect, you can banish 1 Thunder monster from your GY instead.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "QUARTER CENTURY BONANZA",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "OTS TOURNAMENT PACK 10"
+    ],
+    "related_card": [
+        "Thunder Dragon",
+        "Thunder Dragon Discharge",
+        "Thunder Dragon Fusion",
+        "Thunder Dragon Thunderstormech",
+        "Thunder Dragon Titan",
+        "Thunder Dragondark",
+        "Thunder Dragonduo",
+        "Thunder Dragonhawk",
+        "Thunder Dragonlord",
+        "Thunder Dragonmatrix",
+        "Thunder Dragonroar",
+        "Thunder Dragons' Hundred Thunders",
+        "Twin-Headed Thunder Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 2400,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

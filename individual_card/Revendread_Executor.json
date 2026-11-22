@@ -1,0 +1,40 @@
+{
+    "name": "Revendread Executor",
+    "filename": "Revendread_Executor",
+    "card_text": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. This card's name becomes \"Revendread Slayer\" while on the field. While this Ritual Summoned card is on the field, your opponent cannot target cards you control with card effects, except this card. If this Ritual Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 \"Vendread\" card from your Deck to your hand. You can only use this effect of \"Revendread Executor\" once per turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Avendread Savior",
+        "Ravenous Vendread",
+        "Revendread Evolution",
+        "Revendread Origin",
+        "Revendread Slayer",
+        "Scar of the Vendread",
+        "Vendread Anima",
+        "Vendread Battlelord",
+        "Vendread Charge",
+        "Vendread Chimera",
+        "Vendread Core",
+        "Vendread Daybreak",
+        "Vendread Houndhorde",
+        "Vendread Nightmare",
+        "Vendread Nights",
+        "Vendread Reorigin",
+        "Vendread Reunion",
+        "Vendread Revenants",
+        "Vendread Revolution",
+        "Vendread Scavenger",
+        "Vendread Striges"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

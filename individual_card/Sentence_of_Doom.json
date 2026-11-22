@@ -1,0 +1,20 @@
+{
+    "name": "Sentence of Doom",
+    "filename": "Sentence_of_Doom",
+    "card_text": "You can target any number of your Fiend monsters that are banished or in your GY, up to the number of \"Destiny Board\" and/or \"Spirit Message\" cards you control; add them to your hand. You can send this card from your Spell & Trap Zone to the GY; place 1 \"Spirit Message\" card from your hand, Deck, or GY in your Spell & Trap Zone. (This is treated as being placed by the effect of \"Destiny Board\".) You can only use 1 \"Sentence of Doom\" effect per turn, and only once that turn.",
+    "release_date": "2019-09-27",
+    "available_set": [
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY DUELISTS: SEASON 3"
+    ],
+    "related_card": [
+        "Destiny Board",
+        "Spirit Message \"A\"",
+        "Spirit Message \"I\"",
+        "Spirit Message \"L\"",
+        "Spirit Message \"N\""
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

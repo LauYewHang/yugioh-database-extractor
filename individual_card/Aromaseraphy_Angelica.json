@@ -1,0 +1,38 @@
+{
+    "name": "Aromaseraphy Angelica",
+    "filename": "Aromaseraphy_Angelica",
+    "card_text": "During either player's turn: You can discard this card, then target 1 \"Aroma\" monster in your Graveyard; gain LP equal to that target's ATK. While your LP is higher than your opponent's, you control an \"Aroma\" monster, and this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Aromaseraphy Angelica\" once per turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Aroma Blend",
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aroma Jar",
+        "Aromage Bergamot",
+        "Aromage Cananga",
+        "Aromage Jasmine",
+        "Aromage Laurel",
+        "Aromage Marjoram",
+        "Aromage Rosemary",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Jasmine",
+        "Aromaseraphy Rosemary",
+        "Aromaseraphy Sweet Marjoram",
+        "Blessed Winds",
+        "Dried Winds",
+        "Humid Winds"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

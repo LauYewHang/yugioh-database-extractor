@@ -1,0 +1,15 @@
+{
+    "name": "Graverobber",
+    "filename": "Graverobber",
+    "card_text": "Target 1 Spell in your opponent's GY; add it to your hand. If you activate that Spell Card, immediately after it resolves, take 2000 damage. If you do not activate it, send it from your hand or field to the GY during the End Phase.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "PHARAOH'S SERVANT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

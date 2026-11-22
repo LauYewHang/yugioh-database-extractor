@@ -1,0 +1,19 @@
+{
+    "name": "Clear Wall",
+    "filename": "Clear_Wall",
+    "card_text": "If \"Clear World\" is on the field: You can add 1 monster that mentions \"Clear World\" from your Deck to your hand. You can only use this effect of \"Clear Wall\" once per turn. Monsters that mention \"Clear World\" cannot be destroyed by battle, also you take no battle damage from that battle. While you control a Level 7 or higher monster that mentions \"Clear World\", your opponent receives all effects of \"Clear World\", regardless of the monster Attributes they control.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Clear Cube",
+        "Clear Phantom",
+        "Clear Rage Golem",
+        "Clear Vice Dragon",
+        "Clear Vicious Knight",
+        "Clear World"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

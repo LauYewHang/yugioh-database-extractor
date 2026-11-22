@@ -1,0 +1,17 @@
+{
+    "name": "Flying Fish",
+    "filename": "Flying_Fish",
+    "card_text": "Three wishes are granted to those fortunate enough to see this monster in flight.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": 500,
+    "monster_type": "Fish",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

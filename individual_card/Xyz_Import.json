@@ -1,0 +1,24 @@
+{
+    "name": "Xyz Import",
+    "filename": "Xyz_Import",
+    "card_text": "Target 1 Xyz Monster you control and 1 monster your opponent controls with ATK less than or equal to it; attach that opponent's monster to your monster as material. You can only activate 1 \"Xyz Import\" per turn.",
+    "release_date": "2020-09-11",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

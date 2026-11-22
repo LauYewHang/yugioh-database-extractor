@@ -1,0 +1,20 @@
+{
+    "name": "Mysterion the Dragon Crown",
+    "filename": "Mysterion_the_Dragon_Crown",
+    "card_text": "1 Spellcaster monster + 1 Dragon monster\nCannot be used as Fusion Material. Loses 100 ATK for each of your banished cards. If a monster uses its activated effect to Special Summon itself, or a monster(s) with its same original Type (except during the Damage Step): You can target 1 of those Special Summoned monsters; banish that monster, also banish all monsters from the field with its same original Type. You can only use this effect of \"Mysterion the Dragon Crown\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "LIGHTNING OVERDRIVE",
+        "Justice Hunters",
+        "DEMO PROGRESSION SET 2026"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

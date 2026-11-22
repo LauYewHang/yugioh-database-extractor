@@ -1,0 +1,20 @@
+{
+    "name": "Fenrir",
+    "filename": "Fenrir",
+    "card_text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing 2 WATER monsters in your Graveyard from play. When this card destroys an opponent's monster as a result of battle, your opponent skips his/her next Draw Phase.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

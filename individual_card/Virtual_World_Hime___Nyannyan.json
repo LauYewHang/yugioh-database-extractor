@@ -1,0 +1,30 @@
+{
+    "name": "Virtual World Hime - Nyannyan",
+    "filename": "Virtual_World_Hime___Nyannyan",
+    "card_text": "If a Level 3 monster(s) is Normal or Special Summoned to your field while this card is in your GY (except during the Damage Step): You can Special Summon this card as a Tuner, but banish it when it leaves the field, also for the rest of this turn, you can only Special Summon Level/Rank 3 or higher monsters. If this card is banished: You can target 1 of your other banished cards; shuffle it into the Deck. You can only use each effect of \"Virtual World Hime - Nyannyan\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "THE GRAND CREATORS",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Virtual World City - Kauwloon",
+        "Virtual World Gate - Chuche",
+        "Virtual World Gate - Qinglong",
+        "Virtual World Gate - Xuanwu",
+        "Virtual World Kirin - Lili",
+        "Virtual World Mai-Hime - Lulu",
+        "Virtual World Phoenix - Fanfan",
+        "Virtual World Roshi - Laolao",
+        "Virtual World Tiger - Fufu",
+        "Virtual World Xiezhi - Jiji"
+    ],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

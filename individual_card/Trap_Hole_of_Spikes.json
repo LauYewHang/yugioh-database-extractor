@@ -1,0 +1,29 @@
+{
+    "name": "Trap Hole of Spikes",
+    "filename": "Trap_Hole_of_Spikes",
+    "card_text": "When an opponent's monster that was Normal or Special Summoned this turn declares an attack: Destroy that attacking monster, and if you do, inflict damage to your opponent equal to half the original ATK of that monster.",
+    "release_date": "2016-04-15",
+    "available_set": [
+        "OTS TOURNAMENT PACK 21",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "MILLENNIUM PACK"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

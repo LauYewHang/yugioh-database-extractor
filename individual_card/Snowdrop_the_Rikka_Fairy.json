@@ -1,0 +1,27 @@
+{
+    "name": "Snowdrop the Rikka Fairy",
+    "filename": "Snowdrop_the_Rikka_Fairy",
+    "card_text": "You can Tribute 1 Plant monster; Special Summon both this card and 1 other Plant monster from your hand, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can target 1 Plant monster you control; all Plant monsters you currently control become that monster's Level until the end of this turn. You can only use each effect of \"Snowdrop the Rikka Fairy\" once per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS"
+    ],
+    "related_card": [
+        "Hellebore the Rikka Fairy",
+        "Mudan the Rikka Fairy",
+        "Rikka Flurries",
+        "Rikka Glamour",
+        "Rikka Konkon",
+        "Rikka Petal",
+        "Rikka Princess",
+        "Rikka Queen Strenna",
+        "Rikka Tranquility"
+    ],
+    "attribute": "WATER",
+    "attack": 1200,
+    "defense": 2600,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

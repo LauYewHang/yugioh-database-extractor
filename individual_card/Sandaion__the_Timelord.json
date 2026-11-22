@@ -1,0 +1,22 @@
+{
+    "name": "Sandaion, the Timelord",
+    "filename": "Sandaion__the_Timelord",
+    "card_text": "Cannot be Special Summoned from the Deck. You can only control 1 \"Sandaion, the Timelord\". If only your opponent controls a monster, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. Neither player takes battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Inflict 2000 damage to your opponent. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Empty Machine",
+        "Infinite Light",
+        "Infinite Machine",
+        "Time Maiden"
+    ],
+    "attribute": "LIGHT",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

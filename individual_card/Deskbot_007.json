@@ -1,0 +1,31 @@
+{
+    "name": "Deskbot 007",
+    "filename": "Deskbot_007",
+    "card_text": "This card gains 500 ATK for each \"Deskbot\" card in your Graveyard. Monsters your opponent controls cannot target face-up \"Deskbot\" monsters for attacks, except this one. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Deskbot 001",
+        "Deskbot 002",
+        "Deskbot 003",
+        "Deskbot 004",
+        "Deskbot 005",
+        "Deskbot 006",
+        "Deskbot 008",
+        "Deskbot 009",
+        "Deskbot Base",
+        "Deskbot Jet"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7,
+    "pendulum_effect": "You cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.",
+    "pendulum_scale": 10
+}

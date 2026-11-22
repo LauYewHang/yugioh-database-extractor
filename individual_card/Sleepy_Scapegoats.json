@@ -1,0 +1,22 @@
+{
+    "name": "Sleepy Scapegoats",
+    "filename": "Sleepy_Scapegoats",
+    "card_text": "Special Summon up to 4 \"Sacrificial Sheep Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position (they cannot be Tributed for a Tribute Summon this turn), then if your opponent controls a monster, you can Special Summon 1 \"Swiftwind Panther Warrior\" from your Deck, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Fusion Monsters. If a card(s) you control that mentions \"Dark Time Wizard\" would be destroyed by battle or card effect, you can destroy 1 Token you control that was Special Summoned by this effect instead.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Alligator's Dragon Knight",
+        "Dark Time Wizard",
+        "Fisherman of Legend",
+        "Foolish Graverobber",
+        "Graceful & Skull Dice",
+        "Jinzo - Energy Shocker",
+        "Red-Eyes Black Dragon Exceed",
+        "Reversal Box",
+        "Swiftwind Panther Warrior"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Invigoration",
+    "filename": "Invigoration",
+    "card_text": "An EARTH monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK KAIBA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

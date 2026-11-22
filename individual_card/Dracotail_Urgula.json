@@ -1,0 +1,31 @@
+{
+    "name": "Dracotail Urgula",
+    "filename": "Dracotail_Urgula",
+    "card_text": "If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck, then you can destroy 1 Spell/Trap on the field. If this card is in your GY: You can target 1 Spellcaster \"Dracotail\" monster in your GY; place this card on the bottom of your Deck, and if you do, add that monster to your hand. You can only use each effect of \"Dracotail Urgula\" once per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Dracotail Arthalion",
+        "Dracotail Faimena",
+        "Dracotail Flame",
+        "Dracotail Gulamel",
+        "Dracotail Horn",
+        "Dracotail Lukias",
+        "Dracotail Mululu",
+        "Dracotail Pan",
+        "Dracotail Phryxul",
+        "Dracotail Shaulas",
+        "Dracotail Sting",
+        "Ketu Dracotail",
+        "Rahu Dracotail"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

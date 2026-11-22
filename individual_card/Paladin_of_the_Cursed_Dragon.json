@@ -1,0 +1,19 @@
+{
+    "name": "Paladin of the Cursed Dragon",
+    "filename": "Paladin_of_the_Cursed_Dragon",
+    "card_text": "Once per turn: You can target 1 Level 4 or lower Zombie monster in your opponent's GY, that was destroyed by battle; Special Summon that target.",
+    "release_date": "2008-10-21",
+    "available_set": [
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STRUCTURE DECK: ZOMBIE HORDE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": 1200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Crystal God Tistina",
+    "filename": "Crystal_God_Tistina",
+    "card_text": "During your Main Phase: You can change as many monsters your opponent controls as possible to face-down Defense Position, then you can send all face-up cards your opponent controls to the GY. If this card in its owner's possession is destroyed by an opponent's card: You can change as many monsters your opponent controls as possible to face-down Defense Position, then you can send all face-up cards your opponent controls to the GY. You can only use each effect of \"Crystal God Tistina\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Breath of the Tistina",
+        "Demigod of the Tistina",
+        "Discordance of the Tistina",
+        "Divine Domain Baatistina",
+        "Embrace of the Tistina",
+        "Fallen of the Tistina",
+        "Hound of the Tistina",
+        "Miasma Dragon Tistina",
+        "Play of the Tistina",
+        "Returned of the Tistina",
+        "Sentinel of the Tistina",
+        "Tainted of the Tistina",
+        "Tistina, the Divinity that Defies Darkness"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 3000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

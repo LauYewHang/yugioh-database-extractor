@@ -1,0 +1,29 @@
+{
+    "name": "Cyber Prima",
+    "filename": "Cyber_Prima",
+    "card_text": "If this card is Tribute Summoned: Destroy all face-up Spells on the field.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DARK REVELATION Volume 4",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
+        "ENEMY OF JUSTICE",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Epurrely Happiness",
+    "filename": "Epurrely_Happiness",
+    "card_text": "2 Level 2 monsters\nAt the end of the Damage Step, if this card battled: You can add 1 \"Purrely\" card from your Deck to your hand, also, if this card has \"Purrely Happy Memory\" as material, you can halve the ATK of 1 face-up monster on the field. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can return 1 Spell/Trap your opponent controls to the hand.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "OTS TOURNAMENT PACK 21",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Epurrely Beauty",
+        "Epurrely Noir",
+        "Epurrely Plump",
+        "Expurrely Happiness",
+        "Expurrely Noir",
+        "My Friend Purrely",
+        "Purrely",
+        "Purrely Delicious Memory",
+        "Purrely Happy Memory",
+        "Purrely Pretty Memory",
+        "Purrely Sharely!?",
+        "Purrely Sleepy Memory",
+        "Purrelyeap!?",
+        "Purrelyly",
+        "Stray Purrely Street"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 100,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 2
+}

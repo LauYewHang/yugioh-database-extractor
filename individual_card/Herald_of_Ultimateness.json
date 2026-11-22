@@ -1,0 +1,21 @@
+{
+    "name": "Herald of Ultimateness",
+    "filename": "Herald_of_Ultimateness",
+    "card_text": "You can Ritual Summon this card with \"Oracle of the Herald\". Must be Ritual Summoned. When your opponent would Special Summon a monster(s), OR activates a Spell/Trap Card, or a monster effect (Quick Effect): You can send 1 Fairy monster from your hand to the GY; negate the Special Summon or activation, and if you do, destroy that card.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "THE NEW CHALLENGERS",
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Oracle of the Herald"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 3000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

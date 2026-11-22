@@ -1,0 +1,14 @@
+{
+    "name": "Hallowed Life Barrier",
+    "filename": "Hallowed_Life_Barrier",
+    "card_text": "Discard 1 card; you take no damage from your opponent's cards this turn, also your monsters cannot be destroyed by battle this turn.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

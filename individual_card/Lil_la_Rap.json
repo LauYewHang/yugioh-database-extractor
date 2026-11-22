@@ -1,0 +1,27 @@
+{
+    "name": "Lil-la Rap",
+    "filename": "Lil_la_Rap",
+    "card_text": "Once per turn, if you Special Summon a monster(s) from the GY (except during the Damage Step): You can make your opponent lose 1000 LP, and if they do, you gain 500 LP. You can only activate this effect of \"Lil-la Rap\" once per Chain.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Evil\u2605Twin Challenge",
+        "Evil\u2605Twin GG EZ",
+        "Evil\u2605Twin Ki-sikil",
+        "Evil\u2605Twin Ki-sikil Deal",
+        "Evil\u2605Twin Lil-la",
+        "Evil\u2605Twin Present",
+        "Evil\u2605Twin's Trouble Sunny",
+        "Evil\u2605Twins Ki-sikil & Lil-la",
+        "Live\u2606Twin Channel",
+        "Live\u2606Twin Home",
+        "Live\u2606Twin Ki-sikil",
+        "Live\u2606Twin Ki-sikil Frost",
+        "Secret Password"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

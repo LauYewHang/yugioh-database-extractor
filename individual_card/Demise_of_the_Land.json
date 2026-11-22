@@ -1,0 +1,13 @@
+{
+    "name": "Demise of the Land",
+    "filename": "Demise_of_the_Land",
+    "card_text": "When your opponent Special Summons a monster(s): Activate 1 Field Spell Card directly from your Deck.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "OTS TOURNAMENT PACK 14",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

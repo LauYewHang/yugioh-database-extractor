@@ -1,0 +1,17 @@
+{
+    "name": "Shrine of Mist Valley",
+    "filename": "Shrine_of_Mist_Valley",
+    "card_text": "Once per turn, when a WIND monster(s) is destroyed by a card effect and sent to your Graveyard (except during the Damage Step): You can Special Summon 1 Level 3 or lower WIND monster from your hand or Deck. Its effects are negated.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS",
+        "ASTRAL PACK ONE"
+    ],
+    "related_card": [
+        "Mist Condor",
+        "Mist Valley Apex Avian",
+        "Mist Valley Thunder Lord"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

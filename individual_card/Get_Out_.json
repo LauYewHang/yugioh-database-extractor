@@ -1,0 +1,13 @@
+{
+    "name": "Get Out!",
+    "filename": "Get_Out_",
+    "card_text": "Target 2 monsters your opponent controls that were Special Summoned from the Extra Deck; shuffle them into the Deck. You can only activate 1 \"Get Out!\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

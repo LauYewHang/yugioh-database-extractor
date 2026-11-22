@@ -1,0 +1,33 @@
+{
+    "name": "Kozmojo",
+    "filename": "Kozmojo",
+    "card_text": "Target 1 \"Kozmo\" monster you control; destroy it, and if you do, banish 1 card your opponent controls or in their GY. You can only activate 1 \"Kozmojo\" per turn.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "GHOSTS FROM THE PAST",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Kozmo Dark Destroyer",
+        "Kozmo Dark Eclipser",
+        "Kozmo Dark Planet",
+        "Kozmo Delta Shuttle",
+        "Kozmo DOG Fighter",
+        "Kozmo Farmgirl",
+        "Kozmo Forerunner",
+        "Kozmo Goodwitch",
+        "Kozmo Landwalker",
+        "Kozmo Lightsword",
+        "Kozmo Scaredy Lion",
+        "Kozmo Sliprider",
+        "Kozmo Soartroopers",
+        "Kozmo Strawman",
+        "Kozmo Tincan",
+        "Kozmoll Dark Lady",
+        "Kozmoll Wickedwitch",
+        "Kozmotown",
+        "Kozmourning"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

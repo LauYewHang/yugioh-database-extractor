@@ -1,0 +1,38 @@
+{
+    "name": "Armed Dragon Flash",
+    "filename": "Armed_Dragon_Flash",
+    "card_text": "Special Summon 1 Level 3 \"Armed Dragon\" monster from your Deck in Defense Position. You can only activate 1 \"Armed Dragon Flash\" per turn.",
+    "release_date": "2021-01-30",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BLAZING VORTEX Core Booster Premiere!",
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Catapult Cannon",
+        "Armed Dragon Lightning",
+        "Armed Dragon LV10",
+        "Armed Dragon LV10 White",
+        "Armed Dragon LV3",
+        "Armed Dragon LV5",
+        "Armed Dragon LV7",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon Thunderbolt",
+        "Armed Dragon, the Armored Dragon",
+        "Armed Neos",
+        "Dark Armed Dragon",
+        "Drill Armed Dragon",
+        "Fist Armed Dragon",
+        "Knight Armed Dragon, the Armored Knight Dragon",
+        "Metaphys Armed Dragon",
+        "Ojama Pajama",
+        "Ojamatch",
+        "Pile Armed Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

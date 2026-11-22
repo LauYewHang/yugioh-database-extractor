@@ -1,0 +1,17 @@
+{
+    "name": "Silent Abyss",
+    "filename": "Silent_Abyss",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WATER monsters.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "STRIKE OF NEOS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2000,
+    "defense": 1500,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

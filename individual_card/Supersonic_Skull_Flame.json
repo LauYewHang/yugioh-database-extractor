@@ -1,0 +1,20 @@
+{
+    "name": "Supersonic Skull Flame",
+    "filename": "Supersonic_Skull_Flame",
+    "card_text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 \"Skull Flame\" from your Graveyard. Once per turn, you can inflict 400 damage to your opponent for each \"Burning Skull Head\" in your Graveyard. When this card is sent from the field to the Graveyard, you can Special Summon 1 \"Skull Flame\" from your Graveyard.",
+    "release_date": "2009-05-19",
+    "available_set": [
+        "Yu-Gi-Oh! 5D's Wheelie Breakers Bundles"
+    ],
+    "related_card": [
+        "Burning Skull Head",
+        "Skull Flame"
+    ],
+    "attribute": "WIND",
+    "attack": 2600,
+    "defense": 2000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

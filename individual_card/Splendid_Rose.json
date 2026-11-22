@@ -1,0 +1,22 @@
+{
+    "name": "Splendid Rose",
+    "filename": "Splendid_Rose",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can banish 1 Plant monster from your GY, then target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn. During the Battle Phase, if this card attacked: You can banish 1 Plant monster from your GY; halve this card's ATK until the end of this turn, and if you do, this card can make a second attack during this Battle Phase.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "Legendary 5D's Decks",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Crossrose Dragon"
+    ],
+    "attribute": "WIND",
+    "attack": 2200,
+    "defense": 2000,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

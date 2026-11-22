@@ -1,0 +1,29 @@
+{
+    "name": "Shiranui Samuraisaga",
+    "filename": "Shiranui_Samuraisaga",
+    "card_text": "1 Zombie-Type Tuner + 1 or more non-Tuner Zombie-Type monsters\nOnce per turn, during either player's turn: You can target 1 of your banished Zombie-Type monsters; shuffle it into the Deck, and if you do, change to Defense Position all monsters your opponent controls with ATK less than or equal to that monster's. If this card is banished: You can target 1 face-up monster your opponent controls; it loses 500 ATK. You can only Special Summon \"Shiranui Samuraisaga(s)\" once per turn.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Hamon, Lord of Striking Thunder",
+    "filename": "Hamon__Lord_of_Striking_Thunder",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Continuous Spells you control to the GY. If this card destroys an opponent's monster by battle and sends it to the GY: Inflict 1000 damage to your opponent. While this card is in face-up Defense Position, monsters your opponent controls cannot target monsters for attacks, except this one.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STRUCTURE DECK: SACRED BEASTS",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "COLLECTIBLE TIN SERIES 3 WAVE 2",
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY",
+        "2021 TIN OF ANCIENT BATTLES",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Armityle the Chaos Phantasm (Updated from: Armityle the Chaos Phantom)",
+        "Armityle the Chaos Phantasm - Phantom of Fury",
+        "Awakening of the Sacred Beasts",
+        "Cerulean Skyfire",
+        "Chaos Core",
+        "Chaos Summoning Beast",
+        "Dark Beckoning Beast",
+        "Dark Summoning Beast",
+        "Dimension Fusion Destruction",
+        "Fallen Paradise",
+        "Hyper Blaze",
+        "Opening of the Spirit Gates",
+        "Phantasmal Martyrs",
+        "Phantasmal Summoning Beast"
+    ],
+    "attribute": "LIGHT",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

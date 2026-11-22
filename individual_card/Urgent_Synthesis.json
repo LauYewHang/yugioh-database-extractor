@@ -1,0 +1,42 @@
+{
+    "name": "Urgent Synthesis",
+    "filename": "Urgent_Synthesis",
+    "card_text": "Return 1 \"Iron Core of Koa'ki Meiru\" from your Graveyard to the Deck. Special Summon 1 Level 4 or lower \"Koa'ki Meiru\" monster from your hand or your Graveyard.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [
+        "Diamond Core of Koa'ki Meiru",
+        "Iron Core of Koa'ki Meiru",
+        "Koa'ki Meiru Beetle",
+        "Koa'ki Meiru Bergzak",
+        "Koa'ki Meiru Boulder",
+        "Koa'ki Meiru Crusader",
+        "Koa'ki Meiru Doom",
+        "Koa'ki Meiru Drago",
+        "Koa'ki Meiru Ghoulungulate",
+        "Koa'ki Meiru Gravirose",
+        "Koa'ki Meiru Guardian",
+        "Koa'ki Meiru Hydro Barrier",
+        "Koa'ki Meiru Ice",
+        "Koa'ki Meiru Initialize!",
+        "Koa'ki Meiru Maximus",
+        "Koa'ki Meiru Overload",
+        "Koa'ki Meiru Powerhand",
+        "Koa'ki Meiru Prototype",
+        "Koa'ki Meiru Rooklord",
+        "Koa'ki Meiru Sandman",
+        "Koa'ki Meiru Sea Panther",
+        "Koa'ki Meiru Shield",
+        "Koa'ki Meiru Speeder",
+        "Koa'ki Meiru Supplier",
+        "Koa'ki Meiru Tornado",
+        "Koa'ki Meiru Urnight",
+        "Koa'ki Meiru Valafar",
+        "Koa'ki Meiru Wall",
+        "Koa'ki Meiru War Arms"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

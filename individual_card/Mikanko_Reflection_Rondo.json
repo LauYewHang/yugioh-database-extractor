@@ -1,0 +1,31 @@
+{
+    "name": "Mikanko Reflection Rondo",
+    "filename": "Mikanko_Reflection_Rondo",
+    "card_text": "Equip only to an opponent's monster. While you control a \"Mikanko\" monster, take control of that equipped monster. Neither player can activate the effects of the equipped monster while you control it. When this card leaves the field, send the equipped monster to the GY. You can only control 1 \"Mikanko Reflection Rondo\". You can only activate 1 \"Mikanko Reflection Rondo\" per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Arahime the Manifested Mikanko",
+        "Ha-Re the Sword Mikanko",
+        "Heavenly Gate of the Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Fire Dance",
+        "Mikanko Kagura",
+        "Mikanko Promise",
+        "Mikanko Purification Dance",
+        "Mikanko Rivalry",
+        "Mikanko Shinbu - Noble Twins",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Ohime the Manifested Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

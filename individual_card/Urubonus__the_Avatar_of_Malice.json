@@ -1,0 +1,17 @@
+{
+    "name": "Urubonus, the Avatar of Malice",
+    "filename": "Urubonus__the_Avatar_of_Malice",
+    "card_text": "Monsters your opponent controls lose 300 ATK/DEF. You can only use each of the following effects of \"Urubonus, the Avatar of Malice\" once per turn. You can Tribute 1 Reptile monster; Special Summon this card from your hand. You can Tribute 1 monster; all monsters your opponent currently controls lose ATK/DEF equal to the original ATK of the Tributed monster, until the end of this turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 800,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

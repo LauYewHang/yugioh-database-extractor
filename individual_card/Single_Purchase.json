@@ -1,0 +1,12 @@
+{
+    "name": "Single Purchase",
+    "filename": "Single_Purchase",
+    "card_text": "If you have 3 or more cards in your hand (other than this card), and none of them are monsters: Banish your entire hand face-up; add 1 monster from your Deck to your hand. If you do, you cannot Normal or Special Summon any monsters for the rest of this turn, except monsters with that name.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

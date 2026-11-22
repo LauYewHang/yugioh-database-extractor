@@ -1,0 +1,29 @@
+{
+    "name": "Dream Mirror Hypnagogia",
+    "filename": "Dream_Mirror_Hypnagogia",
+    "card_text": "Choose 1 \"Dream Mirror of Joy\" and 1 \"Dream Mirror of Terror\" from your hand and/or Deck, and place 1 in your Field Zone and the other in your opponent's Field Zone, face-up. You can only activate 1 \"Dream Mirror Hypnagogia\" per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Dream Mirror Fantasy",
+        "Dream Mirror of Chaos",
+        "Dream Mirror of Joy",
+        "Dream Mirror of Terror",
+        "Dream Mirror Phantasms",
+        "Dream Mirror Recap",
+        "Ikelos, the Dream Mirror Mara",
+        "Ikelos, the Dream Mirror Sprite",
+        "Morpheus, the Dream Mirror Black Knight",
+        "Morpheus, the Dream Mirror White Knight",
+        "Neiroy, the Dream Mirror Disciple",
+        "Neiroy, the Dream Mirror Traitor",
+        "Oneiros, the Dream Mirror Erlking",
+        "Oneiros, the Dream Mirror Tormentor",
+        "Phantasos, the Dream Mirror Foe",
+        "Phantasos, the Dream Mirror Friend"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

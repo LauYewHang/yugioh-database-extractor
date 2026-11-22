@@ -1,0 +1,37 @@
+{
+    "name": "Reptilianne Gardna",
+    "filename": "Reptilianne_Gardna",
+    "card_text": "When this card you control is destroyed and sent to the Graveyard, add 1 \"Reptilianne\" monster from your Deck to your hand.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Echidna",
+        "Reptilianne Gorgon",
+        "Reptilianne Hydra",
+        "Reptilianne Lamia",
+        "Reptilianne Medusa",
+        "Reptilianne Melusine",
+        "Reptilianne Naga",
+        "Reptilianne Nyami",
+        "Reptilianne Poison",
+        "Reptilianne Rage",
+        "Reptilianne Ramifications",
+        "Reptilianne Recoil",
+        "Reptilianne Scylla",
+        "Reptilianne Servant",
+        "Reptilianne Spawn",
+        "Reptilianne Vaskii",
+        "Reptilianne Viper",
+        "Serpent Suppression"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

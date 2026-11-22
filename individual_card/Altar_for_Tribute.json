@@ -1,0 +1,15 @@
+{
+    "name": "Altar for Tribute",
+    "filename": "Altar_for_Tribute",
+    "card_text": "Select 1 monster on your side of the field and send it to the Graveyard. Increase your Life Points by an amount equal to the original ATK of the monster.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Armory Call",
+    "filename": "Armory_Call",
+    "card_text": "Add 1 Equip Spell from your Deck to your hand, then you can equip it to 1 appropriate monster you control. You can only activate 1 \"Armory Call\" per turn.",
+    "release_date": "2019-12-06",
+    "available_set": [
+        "CHAOS IMPACT SPECIAL EDITION",
+        "IGNITION ASSAULT",
+        "THE GRAND CREATORS",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

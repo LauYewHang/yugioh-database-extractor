@@ -1,0 +1,43 @@
+{
+    "name": "Trickstar Magical Laurel",
+    "filename": "Trickstar_Magical_Laurel",
+    "card_text": "Activate this card by targeting 1 \"Trickstar\" monster in your GY; Special Summon it and equip it with this card. When this card leaves the field, destroy that monster. Once per turn, if the equipped monster inflicts battle or effect damage to your opponent: You can Special Summon 1 \"Trickstar\" monster from your hand. You can only activate 1 \"Trickstar Magical Laurel\" per turn.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Trickstar Aqua Angel",
+        "Trickstar Band Drumatis",
+        "Trickstar Band Sweet Guitar",
+        "Trickstar Bella Madonna",
+        "Trickstar Black Catbat",
+        "Trickstar Bloom",
+        "Trickstar Bouquet",
+        "Trickstar Candina",
+        "Trickstar Colchica",
+        "Trickstar Corobane",
+        "Trickstar Crimson Heart",
+        "Trickstar Delfiendium",
+        "Trickstar Diffusion",
+        "Trickstar Divaridis",
+        "Trickstar Festival",
+        "Trickstar Foxglove Witch",
+        "Trickstar Fusion",
+        "Trickstar Holly Angel",
+        "Trickstar Hoody",
+        "Trickstar Light Arena",
+        "Trickstar Light Stage",
+        "Trickstar Lilybell",
+        "Trickstar Live Stage",
+        "Trickstar Lycoris",
+        "Trickstar Mandrake",
+        "Trickstar Narkissus",
+        "Trickstar Nightshade",
+        "Trickstar Noble Angel",
+        "Trickstar Reincarnation",
+        "Trickstar Rhodode"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

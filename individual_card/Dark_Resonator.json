@@ -1,0 +1,41 @@
+{
+    "name": "Dark Resonator",
+    "filename": "Dark_Resonator",
+    "card_text": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "DUEL TERMINAL 1",
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "HIGH-SPEED RIDERS",
+        "THE DUELIST GENESIS",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "2-PLAYER STARTER SET",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [
+        "Chain Resonator",
+        "Crimson Blade Dragon",
+        "Crimson Resonator",
+        "Darkness Resonator",
+        "Power Vice Dragon",
+        "Red Carpet",
+        "Red Rising Dragon",
+        "Red Warg",
+        "Resonant Destruction",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Synkron Resonator",
+        "Time to Stand Up"
+    ],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 300,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

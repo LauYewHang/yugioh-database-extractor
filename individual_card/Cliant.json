@@ -1,0 +1,18 @@
+{
+    "name": "Cliant",
+    "filename": "Cliant",
+    "card_text": "While this Normal Summoned/Set card is face-up on the field, all Cyberse monsters you control gain 500 ATK/DEF during your turn only. If this card on the field would be destroyed by battle or card effect, you can destroy 1 Cyberse monster in your hand or face-up field instead.",
+    "release_date": "2017-11-03",
+    "available_set": [
+        "STARTER DECK CODEBREAKER",
+        "STRUCTURE DECK : CYBERSE LINK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

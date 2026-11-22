@@ -1,0 +1,20 @@
+{
+    "name": "Parallel eXceed",
+    "filename": "Parallel_eXceed",
+    "card_text": "If this card is Special Summoned by the effect of \"Parallel eXceed\", its Level becomes 4 and its original ATK/DEF become halved. You can only use each of the following effects of \"Parallel eXceed\" once per turn.\n\u25cfIf you Link Summon: You can Special Summon this card from your hand to your zone that Link Monster points to.\n\u25cfIf this card is Normal or Special Summoned: You can Special Summon 1 \"Parallel eXceed\" from your Deck.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "OTS TOURNAMENT PACK 14",
+        "ETERNITY CODE",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

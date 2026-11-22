@@ -1,0 +1,20 @@
+{
+    "name": "Reborn Tengu",
+    "filename": "Reborn_Tengu",
+    "card_text": "If this face-up card leaves the field: Special Summon 1 \"Reborn Tengu\" from your Deck.",
+    "release_date": "2011-04-30",
+    "available_set": [
+        "EXTREME VICTORY Sneak Peek",
+        "QUARTER CENTURY BONANZA",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1700,
+    "defense": 600,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

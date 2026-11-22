@@ -1,0 +1,17 @@
+{
+    "name": "Magical Labyrinth",
+    "filename": "Magical_Labyrinth",
+    "card_text": "Equip only to \"Labyrinth Wall\". You can Tribute the equipped monster; Special Summon \"Wall Shadow\" from your Deck.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Labyrinth Wall",
+        "Wall Shadow"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

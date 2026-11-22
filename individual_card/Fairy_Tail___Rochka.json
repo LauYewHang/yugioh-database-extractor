@@ -1,0 +1,26 @@
+{
+    "name": "Fairy Tail - Rochka",
+    "filename": "Fairy_Tail___Rochka",
+    "card_text": "When this card is Normal Summoned: You can make your opponent gain 500 LP, then your opponent looks at the top 3 cards in your Deck, and chooses 1 of them for you to add to your hand, also shuffle the rest back into the Deck. You can only use this effect of \"Fairy Tail - Rochka\" once per turn. Once per battle, if this card battles, before damage calculation: You can send this card to the GY.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Fairy Tail - Matchgiru",
+        "Fairy Tail - Wiccat",
+        "Fairy Tail Ball",
+        "Once Upon a Fairy Tail",
+        "Tails of the Fairy Tails",
+        "Teller of Fairy Tails",
+        "Weaver of Fairy Tails"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1850,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

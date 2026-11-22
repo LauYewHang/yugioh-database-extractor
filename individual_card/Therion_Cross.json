@@ -1,0 +1,28 @@
+{
+    "name": "Therion Cross",
+    "filename": "Therion_Cross",
+    "card_text": "When your opponent activates a monster effect, while you control a \"Therion\" monster: You can activate 1 of these effects;\n\u25cfNegate that effect.\n\u25cfBanish that monster.\nIf you have \"Endless Engine Argyro System\" in your GY at activation, you can activate both effects (at resolution, negate, then banish). You can only activate 1 \"Therion Cross\" per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Endless Engine Argyro System",
+        "Gigantic \"Champion\" Sargas",
+        "Gung-Ho! Springans!",
+        "Spright Smashers",
+        "Therion \"Bull\" Ain",
+        "Therion \"Duke\" Yul",
+        "Therion \"Empress\" Alasia",
+        "Therion \"King\" Regulus",
+        "Therion \"Lily\" Borea",
+        "Therion \"Reaper\" Fum",
+        "Therion Charge",
+        "Therion Discolosseum",
+        "Therion Irregular",
+        "Therion Stand Up!"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

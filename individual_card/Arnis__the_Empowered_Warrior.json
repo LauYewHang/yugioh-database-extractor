@@ -1,0 +1,20 @@
+{
+    "name": "Arnis, the Empowered Warrior",
+    "filename": "Arnis__the_Empowered_Warrior",
+    "card_text": "When this card you control is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 Spellcaster-Type monster with 1500 or less ATK from your Deck in Attack Position.",
+    "release_date": "2014-07-11",
+    "available_set": [
+        "SUPER STARTER SPACE-TIME SHOWDOWN"
+    ],
+    "related_card": [
+        "Aether, the Evil Empowering Dragon",
+        "Empowerment"
+    ],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

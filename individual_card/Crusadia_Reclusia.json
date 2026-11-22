@@ -1,0 +1,33 @@
+{
+    "name": "Crusadia Reclusia",
+    "filename": "Crusadia_Reclusia",
+    "card_text": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Reclusia\" once per turn this way. If this card is Normal or Special Summoned to a zone a Link Monster points to: You can target 1 \"Crusadia\" card you control and 1 card your opponent controls; destroy them. You can only use this effect of \"Crusadia Reclusia\" once per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Crusadia Arboria",
+        "Crusadia Draco",
+        "Crusadia Equimax",
+        "Crusadia Krawler",
+        "Crusadia Leonis",
+        "Crusadia Magius",
+        "Crusadia Maximus",
+        "Crusadia Power",
+        "Crusadia Regulex",
+        "Crusadia Revival",
+        "Crusadia Spatha",
+        "Crusadia Testament",
+        "Crusadia Vanguard",
+        "Mekk-Knight Crusadia Avramax"
+    ],
+    "attribute": "FIRE",
+    "attack": 400,
+    "defense": 2000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

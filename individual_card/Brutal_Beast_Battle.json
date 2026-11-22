@@ -1,0 +1,12 @@
+{
+    "name": "Brutal Beast Battle",
+    "filename": "Brutal_Beast_Battle",
+    "card_text": "If a player controls 2 or more monsters of the same card type (Ritual, Fusion, Synchro, Xyz, or Link), they must send some to the GY so they control no more than 1 monster of that card type. Then, each player that sent a monster to the GY for this effect draws cards equal to the number of different card types (Ritual, Fusion, Synchro, Xyz, or Link) they control. You can only activate 1 \"Brutal Beast Battle\" per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

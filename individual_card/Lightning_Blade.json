@@ -1,0 +1,18 @@
+{
+    "name": "Lightning Blade",
+    "filename": "Lightning_Blade",
+    "card_text": "Equip only to a Warrior monster. It gains 800 ATK. All WATER monsters on the field lose 500 ATK.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE",
+        "RETRO PACK 2",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK JADEN YUKI"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

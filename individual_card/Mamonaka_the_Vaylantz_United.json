@@ -1,0 +1,35 @@
+{
+    "name": "Mamonaka the Vaylantz United",
+    "filename": "Mamonaka_the_Vaylantz_United",
+    "card_text": "3 \"Vaylantz\" monsters\nDuring the Main Phase (Quick Effect): You can target 1 Effect Monster in your opponent's Main Monster Zone; place that opponent's monster face-up as a Continuous Spell in their Spell & Trap Zone in its same column. (If the zone is occupied, destroy the occupying card, and if it is a Monster Card, your opponent loses LP equal to its ATK). You can only use this effect of \"Mamonaka the Vaylantz United\" once per turn. If this Special Summoned card you control is destroyed by your opponent's card effect: You can place this card in your Pendulum Zone.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "TACTICAL MASTERS"
+    ],
+    "related_card": [
+        "Arktos XII - Chronochasm Vaylantz",
+        "Hojo the Vaylantz Warrior",
+        "Nazuki the Vaylantz Ninja",
+        "Saion the Vaylantz Archer",
+        "Shinonome the Vaylantz Priestess",
+        "Vaylantz Buster Baron",
+        "Vaylantz Dominator Duke",
+        "Vaylantz Genesis Grand Duke",
+        "Vaylantz Mad Marquess",
+        "Vaylantz Voltage Viscount",
+        "Vaylantz Wakening - Solo Activation",
+        "Vaylantz Wars - The Place of Beginning",
+        "Vaylantz Wave - Master Phase",
+        "Vaylantz World - Konig Wissen",
+        "Vaylantz World - Shinra Bansho"
+    ],
+    "attribute": "WATER",
+    "attack": 2800,
+    "defense": 2800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10,
+    "pendulum_effect": "You can activate 1 of these effects;\n\u25cfSpecial Summon this card to your Main Monster Zone in its same column.\n\u25cfMove 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.\nYou can only use this effect of \"Mamonaka the Vaylantz United\" once per turn.",
+    "pendulum_scale": 10
+}

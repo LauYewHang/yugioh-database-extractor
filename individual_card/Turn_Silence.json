@@ -1,0 +1,27 @@
+{
+    "name": "Turn Silence",
+    "filename": "Turn_Silence",
+    "card_text": "Target 1 face-up monster you control; increase its Level by 3, also if you activated this card in response to your opponent's monster effect activation, while you control \"Shining Sarcophagus\" and a monster that mentions it, negate that opponent's effect. During damage calculation, if your monster that mentions \"Shining Sarcophagus\" battles: You can banish this card from your GY; end the Battle Phase. You can only activate 1 \"Turn Silence\" per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Archfiend's Advent",
+        "Dark Magic Mirror Force",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician the Magician of Black Magic",
+        "Future Silence",
+        "Gadget Trio",
+        "Gandora-G the Dragon of Destruction",
+        "Moremarshmallon",
+        "Shining Sarcophagus",
+        "Silent Magician Zero",
+        "Silent Swordsman Zero",
+        "Stronghold the Hidden Fortress",
+        "Ties That Bind"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

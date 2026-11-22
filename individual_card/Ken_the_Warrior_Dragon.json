@@ -1,0 +1,20 @@
+{
+    "name": "Ken the Warrior Dragon",
+    "filename": "Ken_the_Warrior_Dragon",
+    "card_text": "Once per turn, at the end of the Battle Phase: Return this card from the field to the hand. You can only use each of the following effects of \"Ken the Warrior Dragon\" once per turn. During your Main Phase: You can Special Summon 1 \"Gen the Diamond Tiger\" from your hand or Deck to your opponent's field in Defense Position. If this card is Special Summoned by the effect of \"Gen the Diamond Tiger\": Your opponent draws 2 cards, then they discard 1 card.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Gen the Diamond Tiger"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1300,
+    "defense": 1550,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

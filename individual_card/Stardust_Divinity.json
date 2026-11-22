@@ -1,0 +1,36 @@
+{
+    "name": "Stardust Divinity",
+    "filename": "Stardust_Divinity",
+    "card_text": "1 LIGHT Tuner + 2 or more non-Tuner Fairy-Type monsters\nThis card cannot be Special Summoned except by Synchro Summon. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
+    "release_date": "2010-08-15",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2010",
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2011"
+    ],
+    "related_card": [
+        "Cosmic Flare",
+        "Final Cross",
+        "Junk Armor",
+        "Junk Mail",
+        "Junk Meister",
+        "Necroid Synchro",
+        "Satellite Synchron",
+        "Satellite Warrior",
+        "Shooting Star",
+        "Stardust Dragon - Victim Sanctuary",
+        "Stardust Flash",
+        "Stardust Illumination",
+        "Stardust Re-Spark",
+        "Stardust Sifr Divine Dragon",
+        "Stardust Trail",
+        "Stardust Wish",
+        "Synchro Chase"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

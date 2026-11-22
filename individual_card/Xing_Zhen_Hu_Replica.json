@@ -1,0 +1,12 @@
+{
+    "name": "Xing Zhen Hu Replica",
+    "filename": "Xing_Zhen_Hu_Replica",
+    "card_text": "Select 1 Set Spell/Trap Card on the field. It cannot be activated. Cards and effects cannot be activated in response to this card's activation.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

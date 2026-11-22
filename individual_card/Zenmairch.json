@@ -1,0 +1,34 @@
+{
+    "name": "Zenmairch",
+    "filename": "Zenmairch",
+    "card_text": "Target 1 face-up Level 4 or lower \"Wind-Up\" monster you control: Return that target to the hand (no matter its Level), then Special Summon 1 \"Wind-Up\" monster from the hand with the same Level as the returned monster's.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Legendary Wind-Up Key",
+        "Wind-Up Arsenal Zenmaioh",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Dog",
+        "Wind-Up Factory",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Juggler",
+        "Wind-Up Kitten",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Snail",
+        "Wind-Up Soldier",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaines",
+        "Wind-Up Zenmaintenance",
+        "Wind-Up Zenmaister"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Igknight Crusader",
+    "filename": "Igknight_Crusader",
+    "card_text": "This impulsive Igknight warrior is fanatical about the causes he fights for. Because of this passion, his comrades try to keep him at arm's length.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [
+        "Igknight Burst",
+        "Igknight Cavalier",
+        "Igknight Champion",
+        "Igknight Gallant",
+        "Igknight Lancer",
+        "Igknight Margrave",
+        "Igknight Paladin",
+        "Igknight Reload",
+        "Igknight Squire",
+        "Igknight Templar",
+        "Igknight Veteran",
+        "Igknights Unite",
+        "Ignis Phoenix, the Dracoslayer",
+        "Ignition Phoenix"
+    ],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3,
+    "pendulum_effect": "If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.",
+    "pendulum_scale": 2
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Nauya, the Ogdoadic Remnant",
+    "filename": "Nauya__the_Ogdoadic_Remnant",
+    "card_text": "You can send this card from your hand to the GY; send 1 LIGHT Reptile monster from your Deck to the GY. If this card is Normal or Special Summoned: You can add 1 \"Ogdoadic\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Nauya, the Ogdoadic Remnant\" once per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "OTS TOURNAMENT PACK 23",
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Aleirtt, the Ogdoadic Dark",
+        "Amunessia, the Ogdoadic Queen",
+        "Aron, the Ogdoadic King",
+        "Flogos, the Ogdoadic Boundless",
+        "Keurse, the Ogdoadic Light",
+        "Nephilabyss, the Ogdoadic Overlord",
+        "Nunu, the Ogdoadic Remnant",
+        "Ogdoabyss, the Ogdoadic Overlord",
+        "Ogdoadic Calling",
+        "Ogdoadic Daybreak",
+        "Ogdoadic Hollow",
+        "Ogdoadic Origin",
+        "Ogdoadic Serpent Strike",
+        "Ogdoadic Water Lily",
+        "Zohah, the Ogdoadic Boundless"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

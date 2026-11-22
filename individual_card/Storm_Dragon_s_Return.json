@@ -1,0 +1,13 @@
+{
+    "name": "Storm Dragon's Return",
+    "filename": "Storm_Dragon_s_Return",
+    "card_text": "Target 1 banished monster; Special Summon it to your field, but return it to the hand during the End Phase. You can only activate 1 \"Storm Dragon's Return\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

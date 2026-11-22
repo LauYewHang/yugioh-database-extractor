@@ -1,0 +1,20 @@
+{
+    "name": "Vallon, the Super Psy Skyblaster",
+    "filename": "Vallon__the_Super_Psy_Skyblaster",
+    "card_text": "2 Level 5 monsters\nDuring the Main Phase (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; change it to face-down Defense Position. If this card is sent to the GY: You can target 1 face-down card on the field; destroy it. You can only use each effect of \"Vallon, the Super Psy Skyblaster\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE",
+        "OTS ULTIMATE TOURNAMENT PACK 1"
+    ],
+    "related_card": [
+        "Phantom Skyblaster"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2200,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 5
+}

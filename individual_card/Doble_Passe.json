@@ -1,0 +1,14 @@
+{
+    "name": "Doble Passe",
+    "filename": "Doble_Passe",
+    "card_text": "When an opponent's monster declares an attack on a face-up Attack Position monster you control: Make your opponent's attack a direct attack instead and inflict damage to your opponent equal to the ATK of the attack target you control. Also, that monster you control can attack your opponent directly during your next turn.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND",
+        "SPEED DUEL GX: DUEL ACADEMY BOX"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

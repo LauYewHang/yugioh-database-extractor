@@ -1,0 +1,37 @@
+{
+    "name": "Dark Beckoning Beast",
+    "filename": "Dark_Beckoning_Beast",
+    "card_text": "When this card is Normal Summoned: You can add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\", OR 1 card that mentions any of those cards, from your Deck to your hand, except \"Dark Beckoning Beast\". You can only use this effect of \"Dark Beckoning Beast\" once per turn. During your Main Phase, you can Normal Summon 1 Fiend monster with 0 ATK/DEF in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+    "release_date": "2020-07-10",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "2021 TIN OF ANCIENT BATTLES",
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [
+        "Armityle the Chaos Phantasm (Updated from: Armityle the Chaos Phantom)",
+        "Armityle the Chaos Phantasm - Phantom of Fury",
+        "Awakening of the Sacred Beasts",
+        "Cerulean Skyfire",
+        "Chaos Core",
+        "Chaos Summoning Beast",
+        "Dark Summoning Beast",
+        "Dimension Fusion Destruction",
+        "Fallen Paradise",
+        "Hamon, Lord of Striking Thunder",
+        "Hyper Blaze",
+        "Opening of the Spirit Gates",
+        "Phantasmal Martyrs",
+        "Phantasmal Summoning Beast",
+        "Raviel, Lord of Phantasms",
+        "Raviel, Lord of Phantasms - Shimmering Scraper",
+        "Uria, Lord of Searing Flames"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

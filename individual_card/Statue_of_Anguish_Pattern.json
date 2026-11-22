@@ -1,0 +1,14 @@
+{
+    "name": "Statue of Anguish Pattern",
+    "filename": "Statue_of_Anguish_Pattern",
+    "card_text": "Special Summon this card as an Effect Monster (Rock/EARTH/Level 7/ATK 0/DEF 2500) (this card is also still a Trap). If Summoned this way, your opponent cannot target this card with card effects while another Trap Card that is a monster is in the Monster Zone. If a card(s) is Special Summoned from your Spell & Trap Zone to the Monster Zone, while you control this card Summoned this way (except during the Damage Step): You can target 1 card on the field; destroy it.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

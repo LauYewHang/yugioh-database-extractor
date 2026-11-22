@@ -1,0 +1,30 @@
+{
+    "name": "PSY-Framegear Alpha",
+    "filename": "PSY_Framegear_Alpha",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect, and cannot be Special Summoned by other ways. When your opponent Normal or Special Summons a monster(s) while you control no monsters (except during the Damage Step): You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or Graveyard, and if you do, add 1 \"PSY-Frame\" card from your Deck to your hand, except \"PSY-Framegear Alpha\". During the End Phase, banish the face-up monsters Special Summoned by this effect.",
+    "release_date": "2015-10-02",
+    "available_set": [
+        "HIGH-SPEED RIDERS"
+    ],
+    "related_card": [
+        "PSY-Frame Accelerator",
+        "PSY-Frame Circuit",
+        "PSY-Frame Driver",
+        "PSY-Frame Multi-Threader",
+        "PSY-Frame Overload",
+        "PSY-Framegear Beta",
+        "PSY-Framegear Delta",
+        "PSY-Framegear Epsilon",
+        "PSY-Framegear Gamma",
+        "PSY-Framelord Lambda",
+        "PSY-Framelord Omega",
+        "PSY-Framelord Zeta"
+    ],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 0,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

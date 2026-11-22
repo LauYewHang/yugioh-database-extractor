@@ -1,0 +1,18 @@
+{
+    "name": "Dragonic Knight",
+    "filename": "Dragonic_Knight",
+    "card_text": "When the effect of an opponent's monster is activated that targets and destroys a card(s) you control, you can send the targeted card(s) to the Graveyard to Special Summon this card from your hand.",
+    "release_date": "2010-08-31",
+    "available_set": [
+        "COLLECTIBLE TIN 2010 WAVE 1",
+        "SHONEN JUMP Promotional Card - September 2008 -"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 2300,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

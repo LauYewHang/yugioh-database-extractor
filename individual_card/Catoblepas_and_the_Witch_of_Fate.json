@@ -1,0 +1,17 @@
+{
+    "name": "Catoblepas and the Witch of Fate",
+    "filename": "Catoblepas_and_the_Witch_of_Fate",
+    "card_text": "When your opponent Special Summons a monster(s), you can remove from play 1 monster with ? ATK from your Graveyard to destroy that Special Summoned monster(s).",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

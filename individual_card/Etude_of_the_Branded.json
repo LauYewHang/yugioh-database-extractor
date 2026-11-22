@@ -1,0 +1,30 @@
+{
+    "name": "Etude of the Branded",
+    "filename": "Etude_of_the_Branded",
+    "card_text": "During either player's turn, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Dragon monster. You can only use this effect of \"Etude of the Branded\" once per turn. While you control a \"Bystial\" monster, banish any monsters that would be sent to your opponent's GY as Tributes for their Ritual Summon, or as material for their Fusion, Synchro, or Link Summon.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Albion the Branded Dragon",
+        "Albion the Shrouded Dragon",
+        "Aluber the Jester of Despia",
+        "Branded Beast",
+        "Branded Retribution",
+        "Branded Sword",
+        "Bystial Baldrake",
+        "Bystial Dis Pater",
+        "Bystial Druiswurm",
+        "Bystial Magnamhut",
+        "Bystial Saronir",
+        "Despian Tragedy",
+        "Springans Kitt",
+        "The Bystial Alba Los",
+        "The Bystial Aluber",
+        "The Bystial Lubellion"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

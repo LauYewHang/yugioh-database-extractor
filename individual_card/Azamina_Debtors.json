@@ -1,0 +1,40 @@
+{
+    "name": "Azamina Debtors",
+    "filename": "Azamina_Debtors",
+    "card_text": "During the Main Phase: Reveal 1 \"Azamina\" Fusion Monster in your Extra Deck, and for every 4 Levels it has (round down), send 1 \"Sinful Spoils\" card from your hand and/or field to the GY (if face-down, reveal it), then Special Summon that revealed monster. (This is treated as a Fusion Summon.) During your Main Phase: You can banish this card from your GY, then target 1 \"Azamina\" monster in your GY; Special Summon it. You can only use 1 \"Azamina Debtors\" effect per turn, and only once that turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Azamina",
+        "Azamina Aphes",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Deception of the Sinful Spoils",
+        "Diabellstar Vengeance",
+        "Elzette, Azamina of the White Forest",
+        "Guilt of the Sinful Spoils",
+        "Original Sinful Spoils - Snake-Eye",
+        "Queen Azamina",
+        "Saint Azamina",
+        "Sinful Spoils Awakening",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils of Doom - Rciela",
+        "Sinful Spoils of Slumber - Morrian",
+        "Sinful Spoils of Subversion - Snake-Eye",
+        "Sinful Spoils of the White Forest",
+        "Sinful Spoils Sanctification",
+        "Sinful Spoils Struggle",
+        "Sinful Spoils Subdual",
+        "Susurrus of the Sinful Spoils",
+        "The Hallowed Azamina",
+        "WANTED: Seeker of Sinful Spoils"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Backlinker",
+    "filename": "Backlinker",
+    "card_text": "If only your opponent controls a monster in the Extra Monster Zone, you can Special Summon this card (from your hand). You can Tribute this card; shuffle all monsters from the Extra Monster Zones into the Deck, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn.",
+    "release_date": "2017-11-03",
+    "available_set": [
+        "STRUCTURE DECK : CYBERSE LINK",
+        "STAR PACK: VRAINS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

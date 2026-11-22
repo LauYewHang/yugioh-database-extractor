@@ -1,0 +1,29 @@
+{
+    "name": "B.E.S. Derringer Core",
+    "filename": "B_E_S__Derringer_Core",
+    "card_text": "You can reveal 1 other \"B.E.S.\" monster in your hand; Special Summon this card from your hand, then place 3 counters on this card. During the Main Phase (Quick Effect): You can remove 1 counter from this card and activate 1 of these effects;\n\u25cfAdd 1 \"Boss Rush\" or 1 Spell/Trap that mentions it, from your Deck to your hand.\n\u25cfSpecial Summon 1 Level 9 or lower \"B.E.S.\" monster from your GY.\nYou can only use each effect of \"B.E.S. Derringer Core\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "B.E.F. Zelos",
+        "B.E.S. Big Core (Updated from: Big Core)",
+        "B.E.S. Big Core MK-2",
+        "B.E.S. Big Core MK-3",
+        "B.E.S. Blaster Cannon Core",
+        "B.E.S. Covered Core",
+        "B.E.S. Crystal Core",
+        "B.E.S. Tetran",
+        "Boss on Parade",
+        "Boss Rush",
+        "Super B.E.S. Metal Slave"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": 3000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

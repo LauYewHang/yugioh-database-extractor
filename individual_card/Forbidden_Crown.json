@@ -1,0 +1,17 @@
+{
+    "name": "Forbidden Crown",
+    "filename": "Forbidden_Crown",
+    "card_text": "Apply these effects to 1 face-up monster on the field, until the end of this turn.\n\u25cfNegate its effects.\n\u25cfCannot attack.\n\u25cfCannot be destroyed by battle or card effects.\n\u25cfUnaffected by activated card effects, except its own.\n\u25cfCannot be Tributed.\n\u25cfCannot be used as material for a Fusion, Synchro, Xyz, or Link Summon.\nNeither player can activate monster effects in response to this card's activation. You can only activate 1 \"Forbidden Crown\" per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "WINNER'S PACK 2026-2027",
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Condemned Witch",
+        "Darklord Djehuty",
+        "Darklord Gulgolet"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

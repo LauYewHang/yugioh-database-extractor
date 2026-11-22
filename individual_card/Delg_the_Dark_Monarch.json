@@ -1,0 +1,18 @@
+{
+    "name": "Delg the Dark Monarch",
+    "filename": "Delg_the_Dark_Monarch",
+    "card_text": "When this card is Normal or Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish that target(s), then send the same number of cards from the top of their Deck to the Graveyard. This card cannot attack during the turn it is Normal or Special Summoned.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "DUELIST LEAGUE 17"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

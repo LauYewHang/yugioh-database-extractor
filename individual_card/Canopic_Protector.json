@@ -1,0 +1,25 @@
+{
+    "name": "Canopic Protector",
+    "filename": "Canopic_Protector",
+    "card_text": "Once per Chain, when your opponent activates a card or effect: You can Special Summon 1 \"Horus\" monster from your hand or GY, but for the rest of this turn, you cannot Special Summon monsters with the same original name by the effect of \"Canopic Protector\". If this card is sent from the hand or field to the GY: You can Set this card, but banish it when it leaves the field. You can only use this effect of \"Canopic Protector\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Dark Horus",
+        "Duamutef, Blessing of Horus",
+        "Hapi, Guidance of Horus",
+        "Horus the Black Flame Deity",
+        "Horus the Black Flame Dragon LV4",
+        "Horus the Black Flame Dragon LV6",
+        "Horus the Black Flame Dragon LV8",
+        "Horus' Servant",
+        "Imsety, Glory of Horus",
+        "Metaphys Horus",
+        "Qebehsenuef, Protection of Horus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

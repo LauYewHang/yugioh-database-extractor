@@ -1,0 +1,30 @@
+{
+    "name": "U.A. Powered Jersey",
+    "filename": "U_A__Powered_Jersey",
+    "card_text": "Equip only to a \"U.A.\" monster. It gains 1000 ATK and DEF, also if it battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. If the equipped monster destroys a monster by its attack: It can make a second attack during this Battle Phase. During your Standby Phase: Banish the equipped monster. If this card is sent to the Graveyard because the equipped monster returned to the hand: You can return this card to the hand.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "U.A. Blockbacker",
+        "U.A. Dreadnought Dunker",
+        "U.A. Goalkeeper",
+        "U.A. Hyper Stadium",
+        "U.A. Libero Spiker",
+        "U.A. Locker Room",
+        "U.A. Man of the Match",
+        "U.A. Midfielder",
+        "U.A. Mighty Slugger",
+        "U.A. Penalty Box",
+        "U.A. Perfect Ace",
+        "U.A. Player Manager",
+        "U.A. Playmaker",
+        "U.A. Rival Rebounder",
+        "U.A. Signing Deal",
+        "U.A. Stadium",
+        "U.A. Turnover Tactics"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

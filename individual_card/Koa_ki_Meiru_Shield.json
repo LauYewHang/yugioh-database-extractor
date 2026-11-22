@@ -1,0 +1,35 @@
+{
+    "name": "Koa'ki Meiru Shield",
+    "filename": "Koa_ki_Meiru_Shield",
+    "card_text": "Activate only when your opponent's monster declares an attack if you have 2 or more \"Iron Core of Koa'ki Meiru\" in your Graveyard. Destroy all face-up Attack Position monsters your opponent controls.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Core Blast",
+        "Core Blaster",
+        "Core Compression",
+        "Core Overclock",
+        "Core Reinforcement",
+        "Diamond Core of Koa'ki Meiru",
+        "Iron Core Armor",
+        "Iron Core of Koa'ki Meiru",
+        "Iron Core Specimen Lab",
+        "Koa'ki Meiru Boulder",
+        "Koa'ki Meiru Crusader",
+        "Koa'ki Meiru Ghoulungulate",
+        "Koa'ki Meiru Hydro Barrier",
+        "Koa'ki Meiru Initialize!",
+        "Koa'ki Meiru Maximus",
+        "Koa'ki Meiru Prototype",
+        "Koa'ki Meiru Rooklord",
+        "Koa'ki Meiru Supplier",
+        "Koa'ki Meiru Urnight",
+        "Koa'ki Meiru Valafar",
+        "Nega-Ton Corepanel",
+        "Urgent Synthesis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

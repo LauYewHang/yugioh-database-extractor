@@ -1,0 +1,19 @@
+{
+    "name": "Terra the Terrible",
+    "filename": "Terra_the_Terrible",
+    "card_text": "Known as a swamp dweller, this creature is a minion of the dark forces.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "STARTER DECK KAIBA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1300,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

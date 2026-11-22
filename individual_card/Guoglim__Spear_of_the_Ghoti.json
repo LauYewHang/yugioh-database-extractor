@@ -1,0 +1,22 @@
+{
+    "name": "Guoglim, Spear of the Ghoti",
+    "filename": "Guoglim__Spear_of_the_Ghoti",
+    "card_text": "1 Fish Tuner + 1+ non-Tuner monsters\nAt the start of the Damage Step, if this card battles an opponent's monster: You can banish that opponent's monster. During your opponent's Standby Phase: You can banish this card, then, if the monsters used as material for this card's Synchro Summon are all in your GY, you can Special Summon all of them, but banish them when they leave the field. You can only use each effect of \"Guoglim, Spear of the Ghoti\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST"
+    ],
+    "related_card": [
+        "Eanoc, Sentry of the Ghoti",
+        "Ghoti Chain",
+        "Ixeep, Omen of the Ghoti",
+        "The Most Distant, Deepest Depths"
+    ],
+    "attribute": "WATER",
+    "attack": 2700,
+    "defense": 0,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Reinforce Truth",
+    "filename": "Reinforce_Truth",
+    "card_text": "Special Summon 1 Level 2 or lower Warrior-Type monster from your Deck. You cannot conduct your Battle Phase the turn you activate this card.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "DUELIST PACK - YUSEI 2 -",
+        "STARTER DECK DAWN OF THE XYZ"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

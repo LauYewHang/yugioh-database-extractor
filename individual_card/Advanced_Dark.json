@@ -1,0 +1,37 @@
+{
+    "name": "Advanced Dark",
+    "filename": "Advanced_Dark",
+    "card_text": "All \"Crystal Beast\" monsters on the field and in the GY become DARK. If an \"Ultimate Crystal\" monster attacks, negate the effects of the attack target during that Battle Phase. During damage calculation, if a \"Crystal Beast\" monster you control battles and you would take damage: You can send 1 \"Crystal Beast\" monster from your Deck to the GY; you take no battle damage from that battle.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "RETURN OF THE DUELIST",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "SHADOWS IN VALHALLA",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Rainbow Dark Dragon",
+        "Rainbow Dragon",
+        "Rainbow Overdragon",
+        "Ultimate Crystal Rainbow Dragon Overdrive"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

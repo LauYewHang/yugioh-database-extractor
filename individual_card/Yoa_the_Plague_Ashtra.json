@@ -1,0 +1,27 @@
+{
+    "name": "Yoa the Plague Ashtra",
+    "filename": "Yoa_the_Plague_Ashtra",
+    "card_text": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand or Extra Deck. You can only Special Summon \"Yoa the Plague Ashtra\" once per turn this way. You can only use each of the following effects of \"Yoa the Plague Ashtra\" once per turn. During your Main Phase: You can Set 1 \"Ashtra\" Spell/Trap from your Deck. During your opponent's turn (Quick Effect): You can target 1 face-up monster on the field; increase or decrease its Level by 1.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Akasuna the Battle Ashtra",
+        "Ashtra's Domain",
+        "Ashtra's Howl",
+        "Ashtra's Web",
+        "Ashtraja Susanoo",
+        "Ashtrashen - Gate to the Worlds Beyond",
+        "Ashtraya Mikumari-no-Mikoto",
+        "Kuzuha the Hex Ashtra",
+        "Mikumari the Banisher Ashtra"
+    ],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Radiant Typhoon Fonix, the Great Flame",
+    "filename": "Radiant_Typhoon_Fonix__the_Great_Flame",
+    "card_text": "If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If a Quick-Play Spell Card is activated (except during the Damage Step): You can target up to 2 cards your opponent controls; shuffle them into the Deck. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Radiant Typhoon Fonix, the Great Flame\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "LIMITED PACK WORLD CHAMPIONSHIP 2026",
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Mystical Space Typhoon",
+        "Radiant Typhoon Ascendance",
+        "Radiant Typhoon Chant",
+        "Radiant Typhoon Eldam",
+        "Radiant Typhoon Krosea",
+        "Radiant Typhoon Mandate",
+        "Radiant Typhoon Manifestation",
+        "Radiant Typhoon Meghala",
+        "Radiant Typhoon Swen",
+        "Radiant Typhoon Varuroon, the Marine Eidolon",
+        "Radiant Typhoon Vision"
+    ],
+    "attribute": "WIND",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

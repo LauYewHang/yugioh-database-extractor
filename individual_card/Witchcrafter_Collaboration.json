@@ -1,0 +1,42 @@
+{
+    "name": "Witchcrafter Collaboration",
+    "filename": "Witchcrafter_Collaboration",
+    "card_text": "Target 1 \"Witchcrafter\" monster you control; it can make a second attack during each Battle Phase this turn, also, if it attacks this turn, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. During your End Phase, if you control a \"Witchcrafter\" monster, while this card is in your GY: You can add this card to your hand. You can only use 1 \"Witchcrafter Collaboration\" effect per turn, and only once that turn.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Genni, the Maid of Endymion",
+        "Verre Magic - Lacrima of Light",
+        "Verre, the Maid of Endymion",
+        "Witchcrafter Bystreet",
+        "Witchcrafter Celebration",
+        "Witchcrafter Confusion Confession",
+        "Witchcrafter Creation",
+        "Witchcrafter Distortion",
+        "Witchcrafter Draping",
+        "Witchcrafter Edel",
+        "Witchcrafter Genni",
+        "Witchcrafter Golem Aruru",
+        "Witchcrafter Haine",
+        "Witchcrafter Holiday",
+        "Witchcrafter Madame Rilliona",
+        "Witchcrafter Madame Verre",
+        "Witchcrafter Marka",
+        "Witchcrafter Masterpiece",
+        "Witchcrafter Patronus",
+        "Witchcrafter Pittore",
+        "Witchcrafter Potterie",
+        "Witchcrafter Pupils",
+        "Witchcrafter Schmietta",
+        "Witchcrafter Scroll",
+        "Witchcrafter Terracottan",
+        "Witchcrafter Unveiling",
+        "Witchcrafter Vice-Madame",
+        "Witchcrafter Walpurgis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Samurai Sword Baron",
+    "filename": "Samurai_Sword_Baron",
+    "card_text": "Once per turn, you can select 1 Defense Position monster your opponent controls. Change it to face-up Attack Position.",
+    "release_date": "2010-02-23",
+    "available_set": [
+        "Yu-Gi-Oh! 5D's WORLD CHAMPIONSHIP 2010 \uff0d Reverse of Arcadia \uff0d Bundles"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

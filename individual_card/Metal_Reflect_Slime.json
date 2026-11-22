@@ -1,0 +1,26 @@
+{
+    "name": "Metal Reflect Slime",
+    "filename": "Metal_Reflect_Slime",
+    "card_text": "Special Summon this card in Defense Position as an Effect Monster (Aqua/WATER/Level 10/ATK 0/DEF 3000) (this card is also still a Trap). If Summoned this way, this card cannot attack.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "MAGNIFICENT MAVENS",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "STRUCTURE DECK - MARIK -",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "PHANTOM DARKNESS",
+        "BATTLE PACK EPIC DAWN",
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Reactor Slime"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

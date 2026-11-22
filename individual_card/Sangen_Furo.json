@@ -1,0 +1,20 @@
+{
+    "name": "Sangen Furo",
+    "filename": "Sangen_Furo",
+    "card_text": "Once per turn, when a monster is destroyed by battle involving your FIRE Dragon monster: You can target 1 of those destroyed monsters; Special Summon it to your field in Defense Position. During your opponent's End Phase: You can pay 1000 LP, then target 1 \"Sangen\" Spell/Trap in your GY; Set it, but banish it when it leaves the field. You can only use this effect of \"Sangen Furo\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Sangen Kaiho",
+        "Sangen Kaimen",
+        "Sangen Summoning",
+        "Sangenpai Bident Dragion",
+        "Sangenpai Transcendent Dragion",
+        "Tenpai Dragon Paidra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

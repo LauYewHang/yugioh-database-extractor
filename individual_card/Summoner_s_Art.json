@@ -1,0 +1,19 @@
+{
+    "name": "Summoner's Art",
+    "filename": "Summoner_s_Art",
+    "card_text": "Add 1 Level 5 or higher Normal Monster from your Deck to your hand.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "MASTER OF PENDULUM STRUCTURE DECK",
+        "ASTRAL PACK SIX",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "PENDULUM EVOLUTION",
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

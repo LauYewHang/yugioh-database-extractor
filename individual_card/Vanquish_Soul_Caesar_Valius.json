@@ -1,0 +1,36 @@
+{
+    "name": "Vanquish Soul Caesar Valius",
+    "filename": "Vanquish_Soul_Caesar_Valius",
+    "card_text": "During the Main Phase (Quick Effect): You can target 1 non-Dragon \"Vanquish Soul\" monster you control; return it to the hand, and if you do, Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n\u25cfEARTH: This face-up card is unaffected by your opponent's activated effects this turn.\n\u25cfEARTH, FIRE, & DARK: Destroy 1 other card on the field.\nYou can only use each effect of \"Vanquish Soul Caesar Valius\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "LIMITED PACK WORLD CHAMPIONSHIP 2026",
+        "QUARTER CENTURY STAMPEDE",
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Rock of the Vanquisher",
+        "Stake your Soul!",
+        "Vanquish Soul - Continue?",
+        "Vanquish Soul Calamity Caesar",
+        "Vanquish Soul Dr. Mad Love",
+        "Vanquish Soul Dust Devil",
+        "Vanquish Soul Heavy Borger",
+        "Vanquish Soul Hollie Sue",
+        "Vanquish Soul Jiaolong",
+        "Vanquish Soul Pantera",
+        "Vanquish Soul Pluton HG",
+        "Vanquish Soul Razen",
+        "Vanquish Soul Rocks",
+        "Vanquish Soul Snow Devil",
+        "Vanquish Soul Trinity Burst",
+        "Vanquish Soul, Start!"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

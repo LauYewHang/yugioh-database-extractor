@@ -1,0 +1,13 @@
+{
+    "name": "Kaiser Colosseum",
+    "filename": "Kaiser_Colosseum",
+    "card_text": "If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card's controller. The cards that are already on the field before this card's activation are unaffected by this effect.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

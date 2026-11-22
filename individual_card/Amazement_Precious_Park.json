@@ -1,0 +1,26 @@
+{
+    "name": "Amazement Precious Park",
+    "filename": "Amazement_Precious_Park",
+    "card_text": "During your Main Phase, you can activate 1 \"Attraction\" Trap the turn it was Set. During the End Phase: You can send 1 \"Attraction\" Trap you control equipped to a monster to the GY, then target 1 of your \"Attraction\" Traps, with a different name, that is banished or in your GY; Set that card. You can only use each effect of \"Amazement Precious Park\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "Amaze Attraction Cyclo-Coaster",
+        "Amaze Attraction Horror House",
+        "Amaze Attraction Majestic Merry-Go-Round",
+        "Amaze Attraction Rapid Racing",
+        "Amaze Attraction Thrill Train",
+        "Amaze Attraction Viking Vortex",
+        "Amaze Attraction Wonder Wheel",
+        "Amazement Abomination Arlekino",
+        "Amazement Ambassador Bufo",
+        "Amazement Attendant Comica",
+        "Amazement Family Faces",
+        "Amazement Special Show",
+        "Amazing Time Ticket"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

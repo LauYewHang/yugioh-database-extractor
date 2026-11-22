@@ -1,0 +1,17 @@
+{
+    "name": "D. Human",
+    "filename": "D__Human",
+    "card_text": "Gifted with the power of dragons, this warrior wields a sword created from a dragon's fang.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK KAIBA"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 1100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

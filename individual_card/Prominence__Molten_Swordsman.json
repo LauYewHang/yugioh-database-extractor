@@ -1,0 +1,42 @@
+{
+    "name": "Prominence, Molten Swordsman",
+    "filename": "Prominence__Molten_Swordsman",
+    "card_text": "Once per turn, during either player's turn: You can banish 1 \"Laval\" monster from your Graveyard; this card gains 300 ATK until the End Phase.",
+    "release_date": "2011-05-29",
+    "available_set": [
+        "DUEL TERMINAL 5A",
+        "HIDDEN ARSENAL 5 STEELSWARM INVASION"
+    ],
+    "related_card": [
+        "Laval Archer",
+        "Laval Blaster",
+        "Laval Burner",
+        "Laval Cannon",
+        "Laval Coatl",
+        "Laval Dual Slasher",
+        "Laval Forest Sprite",
+        "Laval Judgment Lord",
+        "Laval Lakeside Lady",
+        "Laval Lancelord",
+        "Laval Magma Cannoneer",
+        "Laval Miller",
+        "Laval Phlogis",
+        "Laval Stennon",
+        "Laval the Greater",
+        "Laval Volcano Handmaiden",
+        "Laval Warrior",
+        "Lavalval Chain",
+        "Lavalval Dragon",
+        "Lavalval Dragun",
+        "Lavalval Exlord",
+        "Lavalval Ignis",
+        "Lavalval Salamander"
+    ],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 600,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

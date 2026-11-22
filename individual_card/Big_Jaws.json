@@ -1,0 +1,20 @@
+{
+    "name": "Big Jaws",
+    "filename": "Big_Jaws",
+    "card_text": "At the end of the Battle Phase, if this card attacked: Banish it.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "DUEL TERMINAL 7A",
+        "BATTLE PACK EPIC DAWN",
+        "STAR PACK 2013"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 300,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

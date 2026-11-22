@@ -1,0 +1,18 @@
+{
+    "name": "Loud Cloud the Storm Serpent",
+    "filename": "Loud_Cloud_the_Storm_Serpent",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE and 1 WIND monster from your GY. You can only use each of the following effects of \"Loud Cloud the Storm Serpent\" once per turn.\n\u25cfYou can banish 1 FIRE monster from your GY, then target 1 monster your opponent controls; destroy that monster, and if you do, this card gains ATK equal to the destroyed monster's original ATK.\n\u25cfYou can banish 1 WIND monster from your GY, then target 1 card in your opponent's Spell & Trap Zone; destroy it.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "DARK NEOSTORM"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

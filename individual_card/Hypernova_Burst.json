@@ -1,0 +1,12 @@
+{
+    "name": "Hypernova Burst",
+    "filename": "Hypernova_Burst",
+    "card_text": "Banish, face-down, from your hand and/or face-up field, 2 monsters that cannot be Normal Summoned; draw 2 cards. You can only activate 1 \"Hypernova Burst\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

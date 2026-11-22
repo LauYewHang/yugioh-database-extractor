@@ -1,0 +1,20 @@
+{
+    "name": "Contact \"C\"",
+    "filename": "Contact__C_",
+    "card_text": "When your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can Special Summon this card from your hand to the opponent's field in Defense Position. This card's controller cannot Fusion, Synchro, Xyz, or Link Summon unless they use this card as material.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "OTS TOURNAMENT PACK 18",
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 2200,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

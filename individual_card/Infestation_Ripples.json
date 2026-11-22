@@ -1,0 +1,30 @@
+{
+    "name": "Infestation Ripples",
+    "filename": "Infestation_Ripples",
+    "card_text": "Pay 500 Life Points to target 1 Level 4 or lower \"Steelswarm\" monster in your Graveyard; Special Summon it from the Graveyard.",
+    "release_date": "2012-02-03",
+    "available_set": [
+        "HIDDEN ARSENAL 6 OMEGA XYZ",
+        "DUEL TERMINAL 6A"
+    ],
+    "related_card": [
+        "Evilswarm Ophion",
+        "Steelswarm Caller",
+        "Steelswarm Caucastag",
+        "Steelswarm Cell",
+        "Steelswarm Gatekeeper",
+        "Steelswarm Genome",
+        "Steelswarm Girastag",
+        "Steelswarm Hercules",
+        "Steelswarm Longhorn",
+        "Steelswarm Mantis",
+        "Steelswarm Moth",
+        "Steelswarm Origin",
+        "Steelswarm Roach",
+        "Steelswarm Scout",
+        "Steelswarm Sentinel",
+        "Steelswarm Sting"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

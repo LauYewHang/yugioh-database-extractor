@@ -1,0 +1,17 @@
+{
+    "name": "Masterful Magician, Servant of the Sanctuary",
+    "filename": "Masterful_Magician__Servant_of_the_Sanctuary",
+    "card_text": "Cannot be Special Summoned. Requires 3 Spellcaster Tributes to Normal Summon (cannot be Normal Set). If this card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+    "release_date": "2023-08-06",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2023"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

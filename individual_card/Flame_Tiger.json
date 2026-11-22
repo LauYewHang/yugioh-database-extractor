@@ -1,0 +1,20 @@
+{
+    "name": "Flame Tiger",
+    "filename": "Flame_Tiger",
+    "card_text": "During your Draw Phase, if this card is in your Graveyard and you control no monsters, instead of conducting your normal draw: You can Special Summon this card, and if you do, banish it when it leaves the field.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Brain Golem",
+    "filename": "Brain_Golem",
+    "card_text": "Effects of face-up LIGHT monsters are negated. If this card destroys a LIGHT monster by battle, it can attack once again in a row.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 1800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

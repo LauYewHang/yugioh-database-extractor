@@ -1,0 +1,33 @@
+{
+    "name": "Yang Zing Prana",
+    "filename": "Yang_Zing_Prana",
+    "card_text": "This card gains these effects, based on the number of different Attributes the \"Yang Zing\" monsters in your GY have.\n\u25cf2+: \"Yang Zing\" monsters you control gain 500 ATK.\n\u25cf3+: If a \"Yang Zing\" monster(s) you control would be destroyed by battle or card effect, you can send this card to the GY instead.\n\u25cf4+: Your opponent cannot Set monsters. Change all face-up monsters your opponent controls to Attack Position.\n\u25cf5+: You can send this card to the GY; destroy all cards on the field.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [
+        "Baxia, Brightness of the Yang Zing",
+        "Bi'an, Earth of the Yang Zing",
+        "Bixi, Water of the Yang Zing",
+        "Chaofeng, Phantom of the Yang Zing",
+        "Chiwen, Light of the Yang Zing",
+        "Denglong, First of the Yang Zing",
+        "Jiaotu, Darkness of the Yang Zing",
+        "Nine Pillars of Yang Zing",
+        "Pulao, Wind of the Yang Zing",
+        "Suanni, Fire of the Yang Zing",
+        "Taotie, Shadow of the Yang Zing",
+        "Yang Zing Brutality",
+        "Yang Zing Creation",
+        "Yang Zing Path",
+        "Yang Zing Unleashed",
+        "Yazi, Evil of the Yang Zing",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

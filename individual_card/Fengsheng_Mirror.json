@@ -1,0 +1,14 @@
+{
+    "name": "Fengsheng Mirror",
+    "filename": "Fengsheng_Mirror",
+    "card_text": "Look at your opponent's hand. Select and discard 1 Spirit monster to the Graveyard if Spirit monsters exist in his/her hand.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS"
+    ],
+    "related_card": [
+        "Shinobaroness Shade Peacock"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

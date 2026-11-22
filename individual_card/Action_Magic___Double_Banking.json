@@ -1,0 +1,12 @@
+{
+    "name": "Action Magic - Double Banking",
+    "filename": "Action_Magic___Double_Banking",
+    "card_text": "Discard 1 card; this turn, if a monster you currently control destroys an opponent's monster by battle, it can make a second attack in a row. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can discard 1 Spell; Set this card.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

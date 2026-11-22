@@ -1,0 +1,27 @@
+{
+    "name": "Paladin of White Dragon",
+    "filename": "Paladin_of_White_Dragon",
+    "card_text": "You can Ritual Summon this card with \"White Dragon Ritual\". At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster. You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand or Deck, but \"Blue-Eyes White Dragon\" cannot attack for the rest of this turn.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK KAIBA Evolution",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [
+        "Blue-Eyes Alternative White Dragon",
+        "Blue-Eyes White Dragon",
+        "Chronicle Sorceress",
+        "Dictator of D.",
+        "White Dragon Ritual"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

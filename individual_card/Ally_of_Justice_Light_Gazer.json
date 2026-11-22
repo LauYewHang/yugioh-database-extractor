@@ -1,0 +1,22 @@
+{
+    "name": "Ally of Justice Light Gazer",
+    "filename": "Ally_of_Justice_Light_Gazer",
+    "card_text": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 200 ATK for each LIGHT monster in your opponent's Graveyard.",
+    "release_date": "2010-01-29",
+    "available_set": [
+        "THE SHINING DARKNESS",
+        "DUEL TERMINAL 1"
+    ],
+    "related_card": [
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unlimiter",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

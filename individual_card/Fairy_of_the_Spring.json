@@ -1,0 +1,17 @@
+{
+    "name": "Fairy of the Spring",
+    "filename": "Fairy_of_the_Spring",
+    "card_text": "Target 1 Equip Spell Card in your Graveyard; add that target to your hand. That Equip Spell Card cannot be activated this turn.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DUELIST LEAGUE 17",
+        "DARK CRISIS (Reprint)",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

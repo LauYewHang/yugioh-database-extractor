@@ -1,0 +1,34 @@
+{
+    "name": "Live\u2606Twin Lil-la Sweet",
+    "filename": "Live_Twin_Lil_la_Sweet",
+    "card_text": "When your opponent activates a card or effect in response to your \"Live\u2606Twin\" card or effect activation (Quick Effect): You can discard this card; negate that opponent's effect. If you control a \"Ki-sikil\" monster and this card is in your GY: You can Special Summon this card, but while it is face-up in the Monster Zone, you cannot Special Summon from the Extra Deck, except Fiend monsters. You can only use each effect of \"Live\u2606Twin Lil-la Sweet\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Evil\u2605Twin Challenge",
+        "Evil\u2605Twin GG EZ",
+        "Evil\u2605Twin Ki-sikil",
+        "Evil\u2605Twin Ki-sikil Deal",
+        "Evil\u2605Twin Lil-la",
+        "Evil\u2605Twin Present",
+        "Evil\u2605Twin's Trouble Sunny",
+        "Evil\u2605Twins Ki-sikil & Lil-la",
+        "Live\u2606Twin Channel",
+        "Live\u2606Twin Home",
+        "Live\u2606Twin Ki-sikil",
+        "Live\u2606Twin Ki-sikil Frost",
+        "Live\u2606Twin Lil-la",
+        "Live\u2606Twin Lil-la Treat",
+        "Live\u2606Twin Sunny's Snitch",
+        "Secret Password"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

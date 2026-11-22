@@ -1,0 +1,22 @@
+{
+    "name": "Motor Shell",
+    "filename": "Motor_Shell",
+    "card_text": "If this card is sent from the field to the GY: You can Special Summon 1 \"Engine Token\" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use this effect of \"Motor Shell\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Fiendish Engine \u03a9",
+        "Motor Frenzy",
+        "Motor Kaiser",
+        "Two-for-One Repair Job"
+    ],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

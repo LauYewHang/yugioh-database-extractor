@@ -1,0 +1,21 @@
+{
+    "name": "Morgana the Witch of Eyes",
+    "filename": "Morgana_the_Witch_of_Eyes",
+    "card_text": "(This card is always treated as a \"Morganite\" card.)\nWhen an opponent's monster declares an attack: You can banish 1 \"Morganite\" Spell from your GY; negate that attack. You can only use each of the following effects of \"Morgana the Witch of Eyes\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Morganite\" Spell from your Deck to your hand. If you have 3 or more \"Morganite\" Spells with different names in your GY and/or banishment: You can change the ATK of all face-up monsters your opponent controls to 0.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Guilt-Gripping Morganite",
+        "Succumbing-Song Morganite",
+        "Time-Tearing Morganite"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 2100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

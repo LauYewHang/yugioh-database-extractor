@@ -1,0 +1,37 @@
+{
+    "name": "Inzektor Axe - Zektahawk",
+    "filename": "Inzektor_Axe___Zektahawk",
+    "card_text": "Equip only to an \"Inzektor\" monster. It gains 1000 ATK. When the equipped monster declares an attack, your opponent cannot activate Spell/Trap Cards.",
+    "release_date": "2012-01-14",
+    "available_set": [
+        "ORDER OF CHAOS",
+        "ORDER OF CHAOS Sneak Peek"
+    ],
+    "related_card": [
+        "Armor Blast",
+        "Final Inzektion",
+        "Inzektor Ant",
+        "Inzektor Centipede",
+        "Inzektor Crossbow - Zektarrow",
+        "Inzektor Dragonfly",
+        "Inzektor Earwig",
+        "Inzektor Exa-Beetle",
+        "Inzektor Exa-Stag",
+        "Inzektor Firefly",
+        "Inzektor Gauntlet",
+        "Inzektor Giga-Cricket",
+        "Inzektor Giga-Mantis",
+        "Inzektor Giga-Weevil",
+        "Inzektor Hopper",
+        "Inzektor Hornet",
+        "Inzektor Ladybug",
+        "Inzektor Orb",
+        "Inzektor Picofalena",
+        "Inzektor Sword - Zektkaliber",
+        "Variable Form",
+        "Zekt Conversion",
+        "Zektrike Kou-ou"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

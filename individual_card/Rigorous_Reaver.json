@@ -1,0 +1,20 @@
+{
+    "name": "Rigorous Reaver",
+    "filename": "Rigorous_Reaver",
+    "card_text": "FLIP: Each player discards 1 card.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+    "release_date": "2008-05-12",
+    "available_set": [
+        "DUEL TERMINAL 4",
+        "CHAMPION PACK GAME SIX",
+        "GOLD SERIES 2009",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 100,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

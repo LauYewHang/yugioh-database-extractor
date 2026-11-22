@@ -1,0 +1,29 @@
+{
+    "name": "Break Off Trap Hole",
+    "filename": "Break_Off_Trap_Hole",
+    "card_text": "When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "STRUCTURE DECK: SOULBURNER",
+        "CODE OF THE DUELIST",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

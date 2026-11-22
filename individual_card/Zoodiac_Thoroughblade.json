@@ -1,0 +1,34 @@
+{
+    "name": "Zoodiac Thoroughblade",
+    "filename": "Zoodiac_Thoroughblade",
+    "card_text": "If this card is Normal or Special Summoned: You can discard 1 \"Zoodiac\" card, and if you do, draw 1 card. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\n\u25cfIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Zodiac Sign",
+        "Zoodiac Barrage",
+        "Zoodiac Boarbow",
+        "Zoodiac Broadbull",
+        "Zoodiac Bunnyblast",
+        "Zoodiac Chakanine",
+        "Zoodiac Combo",
+        "Zoodiac Drident",
+        "Zoodiac Gathering",
+        "Zoodiac Hammerkong",
+        "Zoodiac Kataroost",
+        "Zoodiac Ramram",
+        "Zoodiac Ratpier",
+        "Zoodiac Tigermortar",
+        "Zoodiac Whiptail"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

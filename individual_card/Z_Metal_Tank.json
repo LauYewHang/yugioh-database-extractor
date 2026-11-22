@@ -1,0 +1,32 @@
+{
+    "name": "Z-Metal Tank",
+    "filename": "Z_Metal_Tank",
+    "card_text": "Once per turn, you can either: Target 1 \"X-Head Cannon\" or \"Y-Dragon Head\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 600 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DUELIST PACK - CHAZZ PRINCETON -",
+        "MAGICIAN'S FORCE",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STRUCTURE DECK : SETO KAIBA",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DARK REVELATION Volume 1",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "Speed Duel: Battle City Box",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [
+        "X-Head Cannon",
+        "XYZ Combine",
+        "XYZ-Dragon Cannon",
+        "XZ-Tank Cannon",
+        "Y-Dragon Head",
+        "YZ-Tank Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1300,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

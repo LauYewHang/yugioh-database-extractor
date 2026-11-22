@@ -1,0 +1,17 @@
+{
+    "name": "Miracle Fertilizer",
+    "filename": "Miracle_Fertilizer",
+    "card_text": "Once per turn: You can target 1 Plant monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you Special Summon with this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "SECRET SLAYERS",
+        "FUSION ENFORCERS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "Legendary 5D's Decks",
+        "CROSSROADS OF CHAOS",
+        "ASTRAL PACK THREE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Tyranno Infinity",
+    "filename": "Tyranno_Infinity",
+    "card_text": "The original ATK of this card becomes the number of your banished Dinosaur monsters x 1000.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "CYBERNETIC REVOLUTION",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": "?",
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

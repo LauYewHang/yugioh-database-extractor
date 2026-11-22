@@ -1,0 +1,12 @@
+{
+    "name": "Mischief of the Yokai",
+    "filename": "Mischief_of_the_Yokai",
+    "card_text": "Each face-up monster on the field loses 2 Levels, until the End Phase. You can remove from play this card from your Graveyard to select 1 face-up monster, and reduce its Level by 1, until the End Phase. This effect cannot be activated the turn this card is sent to the Graveyard.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Tour of Doom",
+    "filename": "Tour_of_Doom",
+    "card_text": "During your opponent's Standby Phase, toss a coin:\n\u25cfHeads: Your opponent cannot Normal or Flip Summon until the End Phase.\n\u25cfTails: You cannot Normal or Flip Summon during your next turn.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

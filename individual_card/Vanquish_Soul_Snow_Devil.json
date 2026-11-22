@@ -1,0 +1,30 @@
+{
+    "name": "Vanquish Soul Snow Devil",
+    "filename": "Vanquish_Soul_Snow_Devil",
+    "card_text": "Reveal up to 1 each of DARK, EARTH, and FIRE monsters in your hand; apply the following effect(s) in sequence, based on the number revealed.\n\u25cf1+: Inflict 400 damage to your opponent, then you can Special Summon 1 \"Vanquish Soul\" monster from your hand.\n\u25cf2+: Inflict 600 damage to your opponent, also this turn, \"Vanquish Soul\" monsters you control cannot be destroyed by card effects.\n\u25cf3: Inflict 800 damage to your opponent, then you can destroy all monsters on the field.\nYou can only activate 1 \"Vanquish Soul Snow Devil\" per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Rock of the Vanquisher",
+        "Stake your Soul!",
+        "Vanquish Soul - Continue?",
+        "Vanquish Soul Caesar Valius",
+        "Vanquish Soul Calamity Caesar",
+        "Vanquish Soul Dr. Mad Love",
+        "Vanquish Soul Dust Devil",
+        "Vanquish Soul Heavy Borger",
+        "Vanquish Soul Hollie Sue",
+        "Vanquish Soul Jiaolong",
+        "Vanquish Soul Pantera",
+        "Vanquish Soul Pluton HG",
+        "Vanquish Soul Razen",
+        "Vanquish Soul Rocks",
+        "Vanquish Soul Trinity Burst",
+        "Vanquish Soul, Start!"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

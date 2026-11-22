@@ -1,0 +1,40 @@
+{
+    "name": "Rilliona, the Magistus of Verre",
+    "filename": "Rilliona__the_Magistus_of_Verre",
+    "card_text": "If this card is Normal or Special Summoned: You can activate 1 of these effects;\n\u25cfAdd 1 \"Magistus\" Spell/Trap from your Deck to your hand.\n\u25cfReturn 1 of your banished Level 4 or lower Spellcaster monsters to your GY.\nYou can banish this card from your GY, then target 1 \"Magistus\" monster you control; equip it with 1 \"Magistus\" monster from your GY, except a Level 4 monster.\nYou can only use each effect of \"Rilliona, the Magistus of Verre\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

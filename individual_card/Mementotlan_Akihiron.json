@@ -1,0 +1,36 @@
+{
+    "name": "Mementotlan Akihiron",
+    "filename": "Mementotlan_Akihiron",
+    "card_text": "If this card is Normal or Special Summoned: You can activate this effect; this turn, Level 9 or higher \"Memento\" monsters can attack directly. If this card is destroyed by card effect: You can target 1 of your other \"Memento\" cards that is banished or in your GY; add it to your hand. If a \"Memento\" monster(s) in your hand and/or face-up field is destroyed by battle or card effect, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Mementotlan Akihiron\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Mementoal Tecuhtlica - Combined Creation",
+        "Mementomictlan",
+        "Mementomictlan Tecuhtlica - Creation King",
+        "Mementotlan Angwitch",
+        "Mementotlan Bone Back",
+        "Mementotlan Bone Party",
+        "Mementotlan Cranium Burst",
+        "Mementotlan Dark Blade",
+        "Mementotlan Fracture Dance",
+        "Mementotlan Fusion",
+        "Mementotlan Ghattic",
+        "Mementotlan Goblin",
+        "Mementotlan Mace",
+        "Mementotlan Shleepy",
+        "Mementotlan Tatsunootoshigo",
+        "Mementotlan Twin Dragon",
+        "Mementotlan-Horned Dragon"
+    ],
+    "attribute": "WATER",
+    "attack": 1700,
+    "defense": 1400,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bean Soldier",
+    "filename": "Bean_Soldier",
+    "card_text": "A plant-warrior that attacks with seeds and sword.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "TOURNAMENT PACK 1ST SEASON"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1300,
+    "monster_type": "Plant",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

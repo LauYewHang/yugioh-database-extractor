@@ -1,0 +1,19 @@
+{
+    "name": "Gate Blocker",
+    "filename": "Gate_Blocker",
+    "card_text": "Negate the effects of your opponent's Field Spells. Your opponent cannot place counters on cards on the field. Your opponent cannot target other monsters you control with card effects.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND",
+        "Duel Devastator"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 2000,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

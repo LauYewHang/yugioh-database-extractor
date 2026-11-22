@@ -1,0 +1,33 @@
+{
+    "name": "Zekt Conversion",
+    "filename": "Zekt_Conversion",
+    "card_text": "When a face-up \"Inzektor\" monster you control is targeted for an attack: Target the attacking monster; equip the attack target to that attacking monster. Take control of the equipped monster while it is equipped with an \"Inzektor\" monster by this effect.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Inzektor Ant",
+        "Inzektor Axe - Zektahawk",
+        "Inzektor Centipede",
+        "Inzektor Crossbow - Zektarrow",
+        "Inzektor Dragonfly",
+        "Inzektor Earwig",
+        "Inzektor Exa-Beetle",
+        "Inzektor Exa-Stag",
+        "Inzektor Firefly",
+        "Inzektor Gauntlet",
+        "Inzektor Giga-Cricket",
+        "Inzektor Giga-Mantis",
+        "Inzektor Giga-Weevil",
+        "Inzektor Hopper",
+        "Inzektor Hornet",
+        "Inzektor Ladybug",
+        "Inzektor Orb",
+        "Inzektor Picofalena",
+        "Inzektor Sword - Zektkaliber",
+        "Zektrike Kou-ou"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

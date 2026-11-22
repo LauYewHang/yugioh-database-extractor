@@ -1,0 +1,21 @@
+{
+    "name": "Swordstalker",
+    "filename": "Swordstalker",
+    "card_text": "A monster formed by the vengeful souls of those who passed away in battle.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STARTER DECK KAIBA",
+        "Speed Duel: Battle City Box",
+        "2-PLAYER STARTER SET",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Urgent Ritual Art",
+    "filename": "Urgent_Ritual_Art",
+    "card_text": "If you control no Ritual Monsters: Banish 1 Ritual Spell from your hand or GY; this card's effect becomes that card's effect that Ritual Summons a monster when the card is activated.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "SHADOWS IN VALHALLA",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

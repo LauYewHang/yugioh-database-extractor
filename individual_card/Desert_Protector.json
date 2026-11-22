@@ -1,0 +1,17 @@
+{
+    "name": "Desert Protector",
+    "filename": "Desert_Protector",
+    "card_text": "This card gains 300 DEF for each Spell and Trap Card on the field. If an Insect-Type monster you control would be destroyed, you can destroy this card instead.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

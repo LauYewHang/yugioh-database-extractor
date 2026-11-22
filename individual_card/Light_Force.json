@@ -1,0 +1,29 @@
+{
+    "name": "Light Force",
+    "filename": "Light_Force",
+    "card_text": "Once per turn, during your Standby Phase, if \"Light Barrier\" is not in your Field Zone: Toss a coin. If tails, the following effects are negated until your next Standby Phase.\n\u25cfFairy monsters you control gain 300 ATK/DEF.\n\u25cfYou can discard 1 card; add 2 \"Arcana Force\" monsters with different names from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except \"Arcana Force\" monsters. You can only use this effect of \"Light Force\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Arcana Force 0 - The Fool",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force EX - The Dark Ruler",
+        "Arcana Force EX - The Light Ruler",
+        "Arcana Force I - The Magician",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Force VII - The Chariot",
+        "Arcana Force XIV - Temperance",
+        "Arcana Force XIX - The Sun",
+        "Arcana Force XV - The Fiend",
+        "Arcana Force XVIII - The Moon",
+        "Arcana Force XXI - The World",
+        "Light Barrier"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

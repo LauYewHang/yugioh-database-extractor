@@ -1,0 +1,21 @@
+{
+    "name": "Mausoleum of White",
+    "filename": "Mausoleum_of_White",
+    "card_text": "During your Main Phase, you can Normal Summon 1 Level 1 LIGHT Tuner in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 1 face-up monster you control; send 1 Normal Monster from your hand or Deck to the GY, and if you do, the targeted monster gains ATK/DEF equal to the Level of the monster sent to the GY x 100, until the end of this turn (even if this card leaves the field). You can banish this card from your GY; add 1 \"Burst Stream of Destruction\" from your Deck to your hand.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "2017 MEGA-TINS MEGA PACK",
+        "DEMO PROGRESSION SET 2026",
+        "SHINING VICTORIES",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 2"
+    ],
+    "related_card": [
+        "Burst Stream of Destruction",
+        "Spirit with Eyes of Blue"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

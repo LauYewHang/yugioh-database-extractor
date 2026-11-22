@@ -1,0 +1,33 @@
+{
+    "name": "Yang Zing Brutality",
+    "filename": "Yang_Zing_Brutality",
+    "card_text": "If a \"Yang Zing\" monster you control battles an opponent's monster, during damage calculation: Your battling monster's ATK/DEF become double its original ATK/DEF during that damage calculation only, but destroy it at the end of the Damage Step.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "THE NEW CHALLENGERS",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Baxia, Brightness of the Yang Zing",
+        "Bi'an, Earth of the Yang Zing",
+        "Bixi, Water of the Yang Zing",
+        "Chaofeng, Phantom of the Yang Zing",
+        "Chiwen, Light of the Yang Zing",
+        "Denglong, First of the Yang Zing",
+        "Jiaotu, Darkness of the Yang Zing",
+        "Nine Pillars of Yang Zing",
+        "Pulao, Wind of the Yang Zing",
+        "Suanni, Fire of the Yang Zing",
+        "Taotie, Shadow of the Yang Zing",
+        "Yang Zing Creation",
+        "Yang Zing Path",
+        "Yang Zing Prana",
+        "Yang Zing Unleashed",
+        "Yazi, Evil of the Yang Zing",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

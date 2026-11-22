@@ -1,0 +1,20 @@
+{
+    "name": "Hyosube",
+    "filename": "Hyosube",
+    "card_text": "This amphibian is strong on the attack, but leaves much to be desired when defending.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Roaring Ocean Snake"
+    ],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": 900,
+    "monster_type": "Aqua",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

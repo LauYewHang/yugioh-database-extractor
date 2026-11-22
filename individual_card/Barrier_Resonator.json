@@ -1,0 +1,34 @@
+{
+    "name": "Barrier Resonator",
+    "filename": "Barrier_Resonator",
+    "card_text": "(Quick Effect): You can send this card from your hand to the GY, then target 1 Tuner you control; this turn, it cannot be destroyed by battle, also you take no battle damage from attacks involving it.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "2-PLAYER STARTER SET",
+        "STORM OF RAGNAROK",
+        "LEGENDARY COLLECTION 5D's MEGA PACK"
+    ],
+    "related_card": [
+        "Chain Resonator",
+        "Crimson Blade Dragon",
+        "Crimson Resonator",
+        "Darkness Resonator",
+        "Power Vice Dragon",
+        "Red Carpet",
+        "Red Rising Dragon",
+        "Red Warg",
+        "Resonant Destruction",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Synkron Resonator",
+        "Time to Stand Up"
+    ],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

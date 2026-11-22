@@ -1,0 +1,33 @@
+{
+    "name": "Familiar-Possessed - Dharc",
+    "filename": "Familiar_Possessed___Dharc",
+    "card_text": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Dharc the Dark Charmer\" you control and 1 face-up DARK monster you control to the Graveyard. When you do: You can add 1 Level 3 or 4 LIGHT Spellcaster-Type monster from your Deck to your hand. If this card was Special Summoned by this effect and attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Aussa the Earth Charmer, Immovable",
+        "Awakening of the Possessed",
+        "Charmers of the Grand Circle",
+        "Dharc the Dark Charmer",
+        "Dharc the Dark Charmer, Gloomy",
+        "Eria the Water Charmer, Gentle",
+        "Hiita the Fire Charmer, Ablaze",
+        "Lyna the Light Charmer, Lustrous",
+        "Possessed Destiny",
+        "Possessed Destiny - Wynn",
+        "Spellbook of the Grand Circle",
+        "Spirit Charmers",
+        "Spiritual Art Familiars",
+        "Unpossessed",
+        "Wynn the Wind Charmer, Verdant"
+    ],
+    "attribute": "DARK",
+    "attack": 1850,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

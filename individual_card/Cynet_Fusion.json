@@ -1,0 +1,38 @@
+{
+    "name": "Cynet Fusion",
+    "filename": "Cynet_Fusion",
+    "card_text": "Fusion Summon 1 Cyberse Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you control no monsters in the Extra Monster Zone, you can also banish up to 1 Cyberse Link Monster from your GY as Fusion Material.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Clock Spartoi",
+        "Cyberdark Inferno",
+        "Cyberse Reminder",
+        "Diplexer Chimera",
+        "Evil Mind",
+        "Firewall Phantom",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Micro Coder",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

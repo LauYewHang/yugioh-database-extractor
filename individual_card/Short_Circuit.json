@@ -1,0 +1,23 @@
+{
+    "name": "Short Circuit",
+    "filename": "Short_Circuit",
+    "card_text": "Activate only if you control 3 or more \"Batteryman\" monsters. Destroy all cards your opponent controls.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Batteryman 9-Volt",
+        "Batteryman AA",
+        "Batteryman AAA",
+        "Batteryman C",
+        "Batteryman Charger",
+        "Batteryman D",
+        "Batteryman Fuel Cell",
+        "Batteryman Industrial Strength",
+        "Batteryman Micro-Cell",
+        "Batteryman Solar"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

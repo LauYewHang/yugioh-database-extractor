@@ -1,0 +1,19 @@
+{
+    "name": "Roc from the Valley of Haze",
+    "filename": "Roc_from_the_Valley_of_Haze",
+    "card_text": "When this card is sent directly from your hand to the Graveyard, add this card to the Deck and shuffle it.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "RISE OF DESTINY",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1400,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

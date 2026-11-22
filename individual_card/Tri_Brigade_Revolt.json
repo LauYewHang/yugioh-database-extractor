@@ -1,0 +1,36 @@
+{
+    "name": "Tri-Brigade Revolt",
+    "filename": "Tri_Brigade_Revolt",
+    "card_text": "Special Summon a number of your Beast, Beast-Warrior, and/or Winged Beast monsters, that are banished and/or in your GY, but negate their effects, then, immediately after this effect resolves, Link Summon 1 \"Tri-Brigade\" Link Monster using only those monsters. You can only activate 1 \"Tri-Brigade Revolt\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES",
+        "25TH ANNIVERSARY RARITY COLLECTION"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Airborne Assault",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Ferrijit the Barren Blossom",
+        "Tri-Brigade Fraktall",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kerass",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Oath",
+        "Tri-Brigade Rendezvous",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Rugal the Silver Sheller",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Shuraig the Ominous Omen",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

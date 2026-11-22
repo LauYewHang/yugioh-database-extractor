@@ -1,0 +1,17 @@
+{
+    "name": "Emes the Infinity",
+    "filename": "Emes_the_Infinity",
+    "card_text": "Each time this card destroys an opponent's monster and sends it to the Graveyard as a result of battle, increase the ATK of this card by 700 points.",
+    "release_date": "2004-10-26",
+    "available_set": [
+        "Yu-Gi-Oh! Destiny Board Traveler Bundles"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

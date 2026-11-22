@@ -1,0 +1,17 @@
+{
+    "name": "Frontline Observer",
+    "filename": "Frontline_Observer",
+    "card_text": "During the End Phase, if this card was Normal Summoned this turn: You can add 1 EARTH Pendulum Monster from your Deck to your hand. If this card was Normal Summoned, during the End Phase of the Summoning player's next turn: You can Tribute this card; add 1 EARTH monster from your Deck to your hand.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

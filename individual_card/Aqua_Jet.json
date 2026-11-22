@@ -1,0 +1,15 @@
+{
+    "name": "Aqua Jet",
+    "filename": "Aqua_Jet",
+    "card_text": "Target 1 face-up Fish, Sea Serpent, or Aqua-Type monster you control; it gains 1000 ATK.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Hydrojet Shark"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

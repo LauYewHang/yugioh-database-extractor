@@ -1,0 +1,21 @@
+{
+    "name": "Triamid Cruiser",
+    "filename": "Triamid_Cruiser",
+    "card_text": "Each time a Rock-Type monster is Normal Summoned, gain 500 LP. If a \"Triamid\" monster is Normal Summoned: You can draw 1 card, then discard 1 card. If this face-up card in the Field Zone is sent to the Graveyard: You can add 1 \"Triamid\" monster from your Deck to your hand. You can only use this effect of \"Triamid Cruiser\" once per turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Triamid Dancer",
+        "Triamid Fortress",
+        "Triamid Hunter",
+        "Triamid Kingolem",
+        "Triamid Loading",
+        "Triamid Master",
+        "Triamid Pulse",
+        "Triamid Sphinx"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

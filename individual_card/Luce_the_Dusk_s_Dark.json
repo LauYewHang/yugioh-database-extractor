@@ -1,0 +1,17 @@
+{
+    "name": "Luce the Dusk's Dark",
+    "filename": "Luce_the_Dusk_s_Dark",
+    "card_text": "3 Fiend and/or Fairy monsters in your GY\nMonsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects. You can only use each of the following effects of \"Luce the Dusk's Dark\" once per turn. You can target 1 card your opponent controls; send 1 Fiend or Fairy monster from your Deck to the GY, and if you do, destroy that card. If another card(s) you control is destroyed by card effect (except during the Damage Step): You can target 1 card on the field; destroy it.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3500,
+    "defense": 3000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

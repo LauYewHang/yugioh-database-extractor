@@ -1,0 +1,13 @@
+{
+    "name": "Ascending Soul",
+    "filename": "Ascending_Soul",
+    "card_text": "Once per turn, when a Ritual Monster(s) is Ritual Summoned: You can target 1 monster in your Graveyard that was Tributed for the Ritual Summon; add that target to your hand.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "THE SECRET FORCES",
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

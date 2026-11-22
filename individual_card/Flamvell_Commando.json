@@ -1,0 +1,36 @@
+{
+    "name": "Flamvell Commando",
+    "filename": "Flamvell_Commando",
+    "card_text": "This card cannot be Special Summoned. This card can only be Normal Summoned by Tributing 1 \"Flamvell\" monster you control. Once per turn, you can remove from play 1 monster in your Graveyard with 200 DEF to inflict damage to your opponent equal to that monster's ATK.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [
+        "Ancient Flamvell Deity",
+        "Flamvell Archer",
+        "Flamvell Baby",
+        "Flamvell Counter",
+        "Flamvell Dragnov",
+        "Flamvell Fiend",
+        "Flamvell Firedog",
+        "Flamvell Grunika",
+        "Flamvell Guard",
+        "Flamvell Magician",
+        "Flamvell Poun",
+        "Flamvell Uruquizas",
+        "Neo Flamvell Garuda",
+        "Neo Flamvell Hedgehog",
+        "Neo Flamvell Lady",
+        "Neo Flamvell Origin",
+        "Neo Flamvell Sabre",
+        "Neo Flamvell Shaman"
+    ],
+    "attribute": "FIRE",
+    "attack": 2200,
+    "defense": 200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

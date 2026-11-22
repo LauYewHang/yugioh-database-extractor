@@ -1,0 +1,13 @@
+{
+    "name": "Birth of the Prominence Flame",
+    "filename": "Birth_of_the_Prominence_Flame",
+    "card_text": "Target 2 FIRE monsters (1 Tuner and 1 non-Tuner) with 200 DEF in your GY; banish both monsters, and if you do, Special Summon 1 FIRE Synchro Monster from your Extra Deck whose Level equals the total Levels of those monsters. You can only activate 1 \"Birth of the Prominence Flame\" per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

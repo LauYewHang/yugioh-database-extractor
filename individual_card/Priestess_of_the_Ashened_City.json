@@ -1,0 +1,32 @@
+{
+    "name": "Priestess of the Ashened City",
+    "filename": "Priestess_of_the_Ashened_City",
+    "card_text": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Priestess of the Ashened City\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Ashened\" card from your Deck to your hand, except \"Priestess of the Ashened City\". You can only use this effect of \"Priestess of the Ashened City\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Ashened for Eternity",
+        "Ashened to Endlessness",
+        "Embers of the Ashened",
+        "Extinguishing the Ashened",
+        "Hero of the Ashened City",
+        "Inferno of the Ashened",
+        "King of the Ashened City",
+        "Obsidim, the Ashened City",
+        "Rekindling the Ashened",
+        "Shaman of the Ashened City",
+        "Spearhead of the Ashened City",
+        "Veidos the Dragon of Endless Darkness",
+        "Veidos the Eruption Dragon of Extinction"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1300,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

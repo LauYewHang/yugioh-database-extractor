@@ -1,0 +1,30 @@
+{
+    "name": "Clown Crew Meteor",
+    "filename": "Clown_Crew_Meteor",
+    "card_text": "1 Tuner + 1+ non-Tuners\nYour opponent cannot activate cards or effects when you Tribute Summon a monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each effect of \"Clown Crew Meteor\" once per turn);\n\u25cfReturn all Synchro Monsters from the field and the GYs to the Extra Deck.\n\u25cfYou can target 1 \"Clown Crew\" card in your GY, except \"Clown Crew Meteor\"; add it to your hand.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Clown Crew Biancaviso",
+        "Clown Crew Cappello",
+        "Clown Crew Diabolo",
+        "Clown Crew Dristy",
+        "Clown Crew Fiends",
+        "Clown Crew Finale",
+        "Clown Crew Flair",
+        "Clown Crew Malabarisme",
+        "Clown Crew Matinee Operatics",
+        "Clown Crew New Face",
+        "Clown Crew Rehearsal",
+        "Clown Crew Soiree Operations"
+    ],
+    "attribute": "LIGHT",
+    "attack": 600,
+    "defense": 1300,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

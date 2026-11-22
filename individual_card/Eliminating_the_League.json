@@ -1,0 +1,14 @@
+{
+    "name": "Eliminating the League",
+    "filename": "Eliminating_the_League",
+    "card_text": "Discard 1 Spell, then target 1 face-up monster your opponent controls; destroy that target, then look at your opponent's hand and send all cards in their hand with the same name as that destroyed card to the GY.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "STRIKE OF NEOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

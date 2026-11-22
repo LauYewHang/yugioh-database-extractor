@@ -1,0 +1,27 @@
+{
+    "name": "The Winged Dragon of Ra - Sphere Mode",
+    "filename": "The_Winged_Dragon_of_Ra___Sphere_Mode",
+    "card_text": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card for attacks or by card effects. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
+    "release_date": "2015-06-19",
+    "available_set": [
+        "CIRCUIT BREAK SPECIAL EDITION",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "DUELIST PACK - BATTLE CITY -",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "DUEL POWER",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [
+        "Guardian Slime",
+        "The True Sun God",
+        "The Winged Dragon of Ra",
+        "The Winged Dragon of Ra - Immortal Phoenix"
+    ],
+    "attribute": "DIVINE",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Divine-Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

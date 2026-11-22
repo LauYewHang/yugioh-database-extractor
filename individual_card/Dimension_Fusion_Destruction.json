@@ -1,0 +1,42 @@
+{
+    "name": "Dimension Fusion Destruction",
+    "filename": "Dimension_Fusion_Destruction",
+    "card_text": "Banish from your hand, field, and/or GY, the Fusion Materials that are listed on a \"Phantasm\" Fusion Monster, then Special Summon that Fusion Monster from your Extra Deck, ignoring its Summoning conditions. You take no battle damage from attacks involving the monster Special Summoned by this effect. If you control \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\", your opponent cannot activate cards or effects in response to this card's activation.",
+    "release_date": "2020-07-10",
+    "available_set": [
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Armityle the Chaos Phantasm (Updated from: Armityle the Chaos Phantom)",
+        "Armityle the Chaos Phantasm - Phantom of Fury",
+        "Cyberdark Inferno",
+        "Dark Beckoning Beast",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Hamon, Lord of Striking Thunder",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Opening of the Spirit Gates",
+        "Phantasm Emperor Trilojig",
+        "Phantasmal Summoning Beast",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Raviel, Lord of Phantasms",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "The Chaotic Phantasmal Sacred Beasts",
+        "Uria, Lord of Searing Flames",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

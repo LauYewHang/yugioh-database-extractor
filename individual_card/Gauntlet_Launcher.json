@@ -1,0 +1,18 @@
+{
+    "name": "Gauntlet Launcher",
+    "filename": "Gauntlet_Launcher",
+    "card_text": "2 Level 6 monsters\nYou can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 2800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

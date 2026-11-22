@@ -1,0 +1,15 @@
+{
+    "name": "Scramble Egg",
+    "filename": "Scramble_Egg",
+    "card_text": "If a monster you control is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 \"Sonic Chick\" from your hand, Deck or GY.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Sonic Chick"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

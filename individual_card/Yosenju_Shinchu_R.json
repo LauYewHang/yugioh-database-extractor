@@ -1,0 +1,41 @@
+{
+    "name": "Yosenju Shinchu R",
+    "filename": "Yosenju_Shinchu_R",
+    "card_text": "If this card is Normal Summoned: Change it to Defense Position. Monsters your opponent controls cannot target face-up \"Yosenju\" monsters for attacks, except this one.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "THE SECRET FORCES",
+        "STAR PACK BATTLE ROYAL"
+    ],
+    "related_card": [
+        "Dizzying Winds of Yosen Village",
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosen Training Grounds",
+        "Yosen Whirlwind",
+        "Yosenju Izna",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Kodam",
+        "Yosenju Magat",
+        "Yosenju Misak",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Tsujik",
+        "Yosenju Wind Worship",
+        "Yosenjus' Secret Move",
+        "Yosenjus' Sword Sting"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 2100,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Once per turn, if you have a \"Yosenju\" card in your other Pendulum Zone: You can make this card's Pendulum Scale become 11 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Yosenju\" monsters (even if this card leaves the field).",
+    "pendulum_scale": 5
+}

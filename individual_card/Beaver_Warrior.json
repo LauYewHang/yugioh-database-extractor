@@ -1,0 +1,23 @@
+{
+    "name": "Beaver Warrior",
+    "filename": "Beaver_Warrior",
+    "card_text": "What this creature lacks in size it makes up for in defense when battling in the prairie.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "DARK BEGINNING 1",
+        "STARTER DECK YUGI Evolution",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1500,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

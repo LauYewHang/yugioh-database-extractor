@@ -1,0 +1,24 @@
+{
+    "name": "Spright Red",
+    "filename": "Spright_Red",
+    "card_text": "If you control a Level/Link 2 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Spright Red\" once per turn this way. When your opponent activates a monster effect (Quick Effect): You can Tribute 1 other Level/Rank/Link 2 monster; negate that effect, then if you Tributed a Rank/Link 2 monster to activate this effect, you can destroy that monster. You can only use this effect of \"Spright Red\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "OTS TOURNAMENT PACK 21",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Spright Blue",
+        "Spright Jet",
+        "Spright Smashers",
+        "Spright Starter"
+    ],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": 1800,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

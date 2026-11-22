@@ -1,0 +1,36 @@
+{
+    "name": "Exosister Martha",
+    "filename": "Exosister_Martha",
+    "card_text": "If you control no monsters, or only Xyz Monsters: You can Special Summon this card from your hand, and if you do, Special Summon 1 \"Exosister Elis\" from your Deck. You cannot Special Summon the turn you activate this effect, except \"Exosister\" monsters. If a card(s) moves out of either GY (except during the Damage Step): You can Special Summon from your Extra Deck, 1 \"Exosister\" Xyz Monster, using this face-up card you control as material (this is treated as an Xyz Summon). You can only use each effect of \"Exosister Martha\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Exosister Arment",
+        "Exosister Asophiel",
+        "Exosister Betrayal",
+        "Exosister Carpedivem",
+        "Exosister Elis",
+        "Exosister Gibrine",
+        "Exosister Irene",
+        "Exosister Karmael",
+        "Exosister Kaspitell",
+        "Exosister Mikailis",
+        "Exosister Pax",
+        "Exosister Returnia",
+        "Exosister Sophia",
+        "Exosister Stella",
+        "Exosister Vadis",
+        "Exosisters Magnifica"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

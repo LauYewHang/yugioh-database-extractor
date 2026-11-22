@@ -1,0 +1,40 @@
+{
+    "name": "Evolsaur Vulcano",
+    "filename": "Evolsaur_Vulcano",
+    "card_text": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: You can target 1 \"Evolsaur\" monster in your Graveyard; Special Summon that target. It cannot declare an attack.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Evo-Diversity",
+        "Evo-Force",
+        "Evo-Instant",
+        "Evo-Singularity",
+        "Evolsaur Cerato",
+        "Evolsaur Darwino",
+        "Evolsaur Diplo",
+        "Evolsaur Elias",
+        "Evolsaur Lios",
+        "Evolsaur Pelta",
+        "Evolsaur Terias",
+        "Evoltile Casinerio",
+        "Evoltile Elginero",
+        "Evoltile Gephyro",
+        "Evoltile Lagosucho",
+        "Evoltile Megachirella",
+        "Evoltile Najasho",
+        "Evoltile Odonto",
+        "Evoltile Pholis",
+        "Evoltile Pleuro",
+        "Evoltile Westlo",
+        "Primordial Soup"
+    ],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Nekroz of Metaltron",
+    "filename": "Nekroz_of_Metaltron",
+    "card_text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, using monsters, and you cannot use Level 9 monsters. During the Main Phase (Quick Effect): You can target 1 face-up monster your opponent controls; banish this card (until the End Phase), and if you do, banish that monster. You can only use this effect of \"Nekroz of Metaltron\" once per turn. Any monster destroyed by battle with your \"Nekroz\" monster is banished.",
+    "release_date": "2025-06-13",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Divinemirror",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Brionac",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 3000,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9,
+    "pendulum_effect": "If your \"Nekroz\" card(s) is banished face-up (except during the Damage Step): You can target 1 Spell/Trap on the field; banish it. You can only use this effect of \"Nekroz of Metaltron\" once per turn.",
+    "pendulum_scale": 5
+}

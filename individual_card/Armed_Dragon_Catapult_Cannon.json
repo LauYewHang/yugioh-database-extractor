@@ -1,0 +1,33 @@
+{
+    "name": "Armed Dragon Catapult Cannon",
+    "filename": "Armed_Dragon_Catapult_Cannon",
+    "card_text": "\"VWXYZ-Dragon Catapult Cannon\" + \"Armed Dragon LV7\"\nMust first be Special Summoned (from your Extra Deck) during a Duel you Special Summoned both the above cards, by banishing the above cards from your field and/or GY. (You do not use \"Polymerization\".) Your opponent cannot activate cards or effects with the same name as any banished card. Once per turn, during your opponent's turn (Quick Effect): You can banish 1 card from your Deck or Extra Deck, face-up; banish all cards your opponent controls and in their GY.",
+    "release_date": "2018-02-23",
+    "available_set": [
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Flash",
+        "Armed Dragon Lightning",
+        "Armed Dragon LV10 White",
+        "Armed Dragon LV7",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon Thunderbolt",
+        "Armed Neos",
+        "Ojama Pajama",
+        "Ojamatch",
+        "Pile Armed Dragon",
+        "VWXYZ-Dragon Catapult Cannon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3500,
+    "defense": 3000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

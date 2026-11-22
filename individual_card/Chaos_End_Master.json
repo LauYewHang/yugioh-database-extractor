@@ -1,0 +1,17 @@
+{
+    "name": "Chaos-End Master",
+    "filename": "Chaos_End_Master",
+    "card_text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 Level 5 or higher monster with 1600 or less ATK from your Deck.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

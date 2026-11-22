@@ -1,0 +1,17 @@
+{
+    "name": "Goyo Emperor",
+    "filename": "Goyo_Emperor",
+    "card_text": "2 EARTH Warrior-Type Synchro Monsters\nWhen this card, or a monster you control that is owned by your opponent, destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field. When your opponent Special Summons a monster(s), except during the Damage Step: You can Tribute 1 EARTH Warrior-Type Synchro Monster; take control of that monster(s). If this face-up card leaves the field: Return control of all monsters you control to the owner.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 3300,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

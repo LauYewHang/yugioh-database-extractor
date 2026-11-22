@@ -1,0 +1,17 @@
+{
+    "name": "Psychic Omnibuster",
+    "filename": "Psychic_Omnibuster",
+    "card_text": "1 Tuner + 1+ non-Tuner Psychic monsters\nEach time your opponent activates a card or effect on the field (except during the Damage Step): You can pay 2000 LP and declare 1 card type (Monster, Spell, or Trap) (but you can only declare each card type once per turn to activate this effect of \"Psychic Omnibuster\"); look at 1 random card in your opponent's hand, and if it is the declared card type, apply these effects in sequence (skip over any that do not apply).\n\u25cfThis card cannot be destroyed by the effects of the declared card type this turn.\n\u25cfBanish the card you looked at, face-up, until the End Phase.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

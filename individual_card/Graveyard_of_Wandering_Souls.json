@@ -1,0 +1,14 @@
+{
+    "name": "Graveyard of Wandering Souls",
+    "filename": "Graveyard_of_Wandering_Souls",
+    "card_text": "If this card is already face-up on the field:\n\u25cfIf a monster you control is destroyed by battle and sent to the GY: Special Summon 1 \"Fireball Token\" (Pyro/FIRE/Level 1/ATK 100/DEF 100).\n\u25cfIf a monster(s) in your hand and/or field is sent to the GY by an opponent's card effect: Special Summon as many \"Fireball Tokens\" as possible, up to the number of sent monsters. You can only use this effect of \"Graveyard of Wandering Souls\" once per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Goka, the Pyre of Malice"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

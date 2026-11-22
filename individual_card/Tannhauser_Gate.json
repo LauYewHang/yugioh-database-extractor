@@ -1,0 +1,13 @@
+{
+    "name": "Tannhauser Gate",
+    "filename": "Tannhauser_Gate",
+    "card_text": "Target 2 monsters you control of the same Type with 1000 or less ATK; both monsters' Levels become the combined Levels of those 2 monsters.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "THE INFINITY CHASERS",
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

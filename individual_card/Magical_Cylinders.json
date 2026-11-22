@@ -1,0 +1,15 @@
+{
+    "name": "Magical Cylinders",
+    "filename": "Magical_Cylinders",
+    "card_text": "Set 1 \"Magic Cylinder\" directly from your Deck or GY. If Set from the Deck, it can be activated this turn. When you activate \"Magic Cylinder\": You can banish this card from your GY; double that damage inflicted to your opponent. You can only use this effect of \"Magical Cylinders\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Magic Cylinder"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

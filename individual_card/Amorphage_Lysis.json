@@ -1,0 +1,23 @@
+{
+    "name": "Amorphage Lysis",
+    "filename": "Amorphage_Lysis",
+    "card_text": "All monsters on the field, except \"Amorphage\" monsters, lose 100 ATK and DEF for each \"Amorphage\" card on the field. If a card(s) in your Pendulum Zone is destroyed (except during the Damage Step): You can place 1 \"Amorphage\" Pendulum Monster from your Deck in your Pendulum Zone. You can only use this effect of \"Amorphage Lysis\" once per turn.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES"
+    ],
+    "related_card": [
+        "Amorphage Envy",
+        "Amorphage Gluttony",
+        "Amorphage Goliath",
+        "Amorphage Greed",
+        "Amorphage Infection",
+        "Amorphage Lechery",
+        "Amorphage Pride",
+        "Amorphage Sloth",
+        "Amorphage Wrath",
+        "Amorphous Persona"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Gravity Balance",
+    "filename": "Gravity_Balance",
+    "card_text": "(This card is always treated as a \"G Golem\" card.)\nTarget 2 of your EARTH monsters with the same name that are banished or in your GY; Special Summon both in Defense Position, but negate their effects, change their ATK/DEF to 0, also destroy them during the End Phase. If a \"G Golem\" monster(s) you control would be destroyed by battle or an opponent's card effect, you can banish this card from your GY instead. You can only use each effect of \"Gravity Balance\" once per turn.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "G Golem Crystal Heart",
+        "G Golem Dignified Trilithon",
+        "G Golem Invalid Dolmen",
+        "G Golem Pebble Dog",
+        "G Golem Rock Hammer",
+        "G Golem Stubborn Menhir",
+        "Gouki Gameface"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

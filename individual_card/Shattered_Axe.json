@@ -1,0 +1,15 @@
+{
+    "name": "Shattered Axe",
+    "filename": "Shattered_Axe",
+    "card_text": "Activate this card by targeting 1 face-up monster on the field. During each of your Standby Phases: It loses 500 ATK. When that target is destroyed, destroy this card.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DARK REVELATION Volume 4",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

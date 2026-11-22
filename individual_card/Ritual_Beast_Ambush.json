@@ -1,0 +1,36 @@
+{
+    "name": "Ritual Beast Ambush",
+    "filename": "Ritual_Beast_Ambush",
+    "card_text": "Target 1 of your \"Ritual Beast Tamer\" monsters and 1 of your \"Spiritual Beast\" monsters that are banished and/or in your GY; Special Summon them in Defense Position. For the rest of this turn after this card resolves, you cannot Special Summon, except \"Ritual Beast\" monsters. You can only activate 1 \"Ritual Beast Ambush\" per turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Ritual Beast Inheritance",
+        "Ritual Beast Return",
+        "Ritual Beast Steeds",
+        "Ritual Beast Tamer Elder",
+        "Ritual Beast Tamer Lara",
+        "Ritual Beast Tamer Wen",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Ritual Beast Ulti-Apelio",
+        "Ritual Beast Ulti-Cannahawk",
+        "Ritual Beast Ulti-Gaiapelio",
+        "Ritual Beast Ulti-Kimunfalcos",
+        "Ritual Beast Ulti-Nochiudrago",
+        "Ritual Beast Ulti-Pettlephin",
+        "Ritual Beast Ulti-Reirautari",
+        "Ritual Beast's Bond",
+        "Spiritual Beast Apelio",
+        "Spiritual Beast Cannahawk",
+        "Spiritual Beast Pettlephin",
+        "Spiritual Beast Rampengu",
+        "Spiritual Beast Tamer Lara",
+        "Spiritual Beast Tamer Winda"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

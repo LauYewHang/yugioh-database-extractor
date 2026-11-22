@@ -1,0 +1,37 @@
+{
+    "name": "Steamroid",
+    "filename": "Steamroid",
+    "card_text": "If this card attacks an opponent's monster, this card gains 500 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "STARTER DECK SYRUS TRUESDALE",
+        "CYBERNETIC REVOLUTION",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "Ambulanceroid",
+        "Armoroid",
+        "Barbaroid, the Ultimate Battle Machine",
+        "Dragonroid",
+        "Emergeroid Call",
+        "Expressroid",
+        "Megaroid City",
+        "Mixeroid",
+        "Rescueroid",
+        "Stealthroid",
+        "Steam Gyroid",
+        "Super Vehicroid - Mobile Base",
+        "Super Vehicroid Jumbo Drill",
+        "Supercharge",
+        "Wonder Garage"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

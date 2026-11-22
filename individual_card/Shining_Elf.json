@@ -1,0 +1,18 @@
+{
+    "name": "Shining Elf",
+    "filename": "Shining_Elf",
+    "card_text": "2 Level 2 monsters\nWhen your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can detach 1 Xyz Material from this card; that monster(s) loses 500 ATK.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD",
+        "SUPER STARTER Power-Up Pack"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1600,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 2
+}

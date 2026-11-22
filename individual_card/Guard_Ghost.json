@@ -1,0 +1,17 @@
+{
+    "name": "Guard Ghost",
+    "filename": "Guard_Ghost",
+    "card_text": "If this card is Special Summoned from the GY: You can target 1 monster you control; it cannot be destroyed by battle or card effects this turn. During the End Phase, if this card is currently banished, and was banished this turn: You can add this card to your hand. You can only use each effect of \"Guard Ghost\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 100,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Grand Knight of the Red Lotus",
+    "filename": "Grand_Knight_of_the_Red_Lotus",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by shuffling up to 3 non-Effect Monsters from your GY into the Deck/Extra Deck. You can only Special Summon \"Grand Knight of the Red Lotus\" once per turn this way. If Summoned this way, this card gains 800 ATK for each Normal Monster shuffled into the Deck for its Summon. Once per turn, you can target 1 monster on the field and 1 non-Effect Monster in your GY; destroy that monster on the field, and if you do, Special Summon that other monster from your GY.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2100,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Fire King Avatar Kirin",
+    "filename": "Fire_King_Avatar_Kirin",
+    "card_text": "If a face-up \"Fire King\" monster(s) you control is destroyed by card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card is destroyed and sent to the GY: You can send 1 FIRE monster from your Deck to the GY.",
+    "release_date": "2013-02-08",
+    "available_set": [
+        "STRUCTURE DECK: FIRE KINGS",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Circle of the Fire Kings",
+        "Cursed Fire King Doom Burst",
+        "Echelon of the Fire Kings",
+        "Fire King Avatar Arvata",
+        "Fire King Avatar Barong",
+        "Fire King Avatar Garunix",
+        "Fire King Avatar Rangbali",
+        "Fire King Avatar Yaksha",
+        "Fire King Courtier Ulcanix",
+        "Fire King High Avatar Garunix",
+        "Fire King High Avatar Kirin",
+        "Fire King Island",
+        "Fire King Sanctuary",
+        "Fire King Sky Burn",
+        "Garunix Eternity, Hyang of the Fire Kings",
+        "Legendary Fire King Ponix",
+        "Onslaught of the Fire Kings",
+        "Sacred Fire King Garunix"
+    ],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 200,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,39 @@
+{
+    "name": "House Dragonmaid",
+    "filename": "House_Dragonmaid",
+    "card_text": "1 \"Dragonmaid\" monster + 1 Dragon monster\nOnce per turn, during the Standby Phase: You can target 1 other \"Dragonmaid\" monster you control; Special Summon 1 \"Dragonmaid\" monster from your hand or GY in Defense Position, whose Level is 1 higher or 1 lower than it. When another face-up Dragon monster(s) you control returns to your hand (except during the Damage Step): You can target 1 monster your opponent controls; destroy it.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "QUARTER CENTURY BONANZA",
+        "MYSTIC FIGHTERS",
+        "Gold Series: Maximum Gold"
+    ],
+    "related_card": [
+        "Chamber Dragonmaid",
+        "Dragonmaid Cehrmba",
+        "Dragonmaid Changeover",
+        "Dragonmaid Downtime",
+        "Dragonmaid Ernus",
+        "Dragonmaid Hospitality",
+        "Dragonmaid Lorpar",
+        "Dragonmaid Nudyarl",
+        "Dragonmaid Send-Off",
+        "Dragonmaid Sheou",
+        "Dragonmaid Tidying",
+        "Dragonmaid Tinkhec",
+        "Dragonmaid Welcome",
+        "Kitchen Dragonmaid",
+        "Lady's Dragonmaid",
+        "Laundry Dragonmaid",
+        "Nurse Dragonmaid",
+        "Parlor Dragonmaid"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

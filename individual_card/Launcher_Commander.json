@@ -1,0 +1,21 @@
+{
+    "name": "Launcher Commander",
+    "filename": "Launcher_Commander",
+    "card_text": "All other Cyberse monsters you control gain 300 ATK/DEF. Once per turn: You can Tribute 1 Cyberse monster, then target 1 face-up monster your opponent controls; destroy it.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "STARTER DECK CODEBREAKER",
+        "STRUCTURE DECK : CYBERSE LINK",
+        "CODE OF THE DUELIST",
+        "2018 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: POWERCODE LINK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

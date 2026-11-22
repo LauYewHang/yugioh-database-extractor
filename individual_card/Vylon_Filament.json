@@ -1,0 +1,38 @@
+{
+    "name": "Vylon Filament",
+    "filename": "Vylon_Filament",
+    "card_text": "Equip only to a \"Vylon\" monster. If the equipped monster attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this face-up card on the field is sent to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [
+        "Vylon Alpha",
+        "Vylon Charger",
+        "Vylon Component",
+        "Vylon Cube",
+        "Vylon Delta",
+        "Vylon Disigma",
+        "Vylon Element",
+        "Vylon Epsilon",
+        "Vylon Hept",
+        "Vylon Material",
+        "Vylon Matter",
+        "Vylon Ohm",
+        "Vylon Omega",
+        "Vylon Pentachloro",
+        "Vylon Polytope",
+        "Vylon Prism",
+        "Vylon Segment",
+        "Vylon Sigma",
+        "Vylon Soldier",
+        "Vylon Sphere",
+        "Vylon Stella",
+        "Vylon Stigma",
+        "Vylon Tesseract",
+        "Vylon Tetra",
+        "Vylon Vanguard"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

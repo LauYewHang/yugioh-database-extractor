@@ -1,0 +1,13 @@
+{
+    "name": "The Big Cattle Drive",
+    "filename": "The_Big_Cattle_Drive",
+    "card_text": "If you control a Beast, Beast-Warrior, or Winged Beast monster: Draw 1 card for each of those Monster Types you control. You cannot activate other Spell/Trap Cards or effects during the turn you activate this card.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Dark Assailant",
+    "filename": "Dark_Assailant",
+    "card_text": "Armed with the Psycho Sword, this sinister assassin rules the bad land.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK KAIBA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

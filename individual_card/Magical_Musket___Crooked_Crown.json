@@ -1,0 +1,27 @@
+{
+    "name": "Magical Musket - Crooked Crown",
+    "filename": "Magical_Musket___Crooked_Crown",
+    "card_text": "You can only control 1 \"Magical Musket - Crooked Crown\". During the Main Phase: You can Special Summon 1 \"Magical Musket\" monster from your hand, and if you do, if your opponent's Main Monster Zone in that monster's current column is unused, that zone cannot be used until the end of this turn (even if this card leaves the field). You can only use this effect of \"Magical Musket - Crooked Crown\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Desperado",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Starfire",
+        "Magical Musketeer Wild"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

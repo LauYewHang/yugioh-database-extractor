@@ -1,0 +1,33 @@
+{
+    "name": "Tearlaments Metanoise",
+    "filename": "Tearlaments_Metanoise",
+    "card_text": "If you control a \"Tearlaments\" monster or \"Visas Starfrost\": Target 1 face-up monster your opponent controls; change it to face-down Defense Position, then send 1 \"Tearlaments\" monster from your Deck to the GY. If this card is sent to the GY by card effect: You can target 1 \"Tearlaments\" monster in your GY; add it to your hand. You can only use 1 \"Tearlaments Metanoise\" effect per turn, and only once that turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Primeval Planet Perlereino",
+        "Tearlaments Cryme",
+        "Tearlaments Grief",
+        "Tearlaments Havnis",
+        "Tearlaments Heartbeat",
+        "Tearlaments Kaleido-Heart",
+        "Tearlaments Kashtira",
+        "Tearlaments Kitkallos",
+        "Tearlaments Merrli",
+        "Tearlaments Perlegia",
+        "Tearlaments Reinoheart",
+        "Tearlaments Rulkallos",
+        "Tearlaments Scheiren",
+        "Tearlaments Scream",
+        "Tearlaments Sulliek",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

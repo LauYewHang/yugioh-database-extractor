@@ -1,0 +1,22 @@
+{
+    "name": "Jinzo #7",
+    "filename": "Jinzo__7",
+    "card_text": "This monster can attack your opponent's Life Points directly.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Jinzo - Jector",
+        "Psychic Wave"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 400,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

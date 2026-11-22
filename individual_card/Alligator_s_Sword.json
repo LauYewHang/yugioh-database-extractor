@@ -1,0 +1,24 @@
+{
+    "name": "Alligator's Sword",
+    "filename": "Alligator_s_Sword",
+    "card_text": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+    "release_date": "2010-08-14",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "TURBO PACK BOOSTER EIGHT",
+        "WORLD CHAMPIONSHIP 2010 CARD PACK",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [
+        "Alligator's Sword Dragon"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

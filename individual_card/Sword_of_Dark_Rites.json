@@ -1,0 +1,13 @@
+{
+    "name": "Sword of Dark Rites",
+    "filename": "Sword_of_Dark_Rites",
+    "card_text": "Equip only to a DARK monster. It gains 400 ATK. When the equipped monster is Tributed and this card is sent to the Graveyard, return this card to your hand.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

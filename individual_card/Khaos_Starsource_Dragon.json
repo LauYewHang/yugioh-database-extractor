@@ -1,0 +1,19 @@
+{
+    "name": "Khaos Starsource Dragon",
+    "filename": "Khaos_Starsource_Dragon",
+    "card_text": "1 LIGHT or DARK Dragon monster + 1 Dragon monster\nIf this card is Fusion Summoned: You can target cards your opponent controls, up to the number of your LIGHT and DARK monsters used as this card's material; destroy them. If this card is banished: You can target 1 Level 4 LIGHT or DARK Dragon monster you control; its Level becomes 8. You can only use each effect of \"Khaos Starsource Dragon\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "OTS TOURNAMENT PACK 28",
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

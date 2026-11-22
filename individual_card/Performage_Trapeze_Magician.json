@@ -1,0 +1,36 @@
+{
+    "name": "Performage Trapeze Magician",
+    "filename": "Performage_Trapeze_Magician",
+    "card_text": "2 Level 4 Spellcaster-Type monsters\nYou never take damage if the amount is less than or equal to this card's ATK. Once per turn, during either player's Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster the turn player controls (other than this card); it can make a second attack during each Battle Phase this turn, also destroy it at the end of the Battle Phase. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 \"Performage\" monster from the Deck.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [
+        "Bubble Barrier",
+        "Performage Ball Balancer",
+        "Performage Cup Tricker",
+        "Performage Damage Juggler",
+        "Performage Fire Dancer",
+        "Performage Flame Eater",
+        "Performage Hat Tricker",
+        "Performage Mirror Conductor",
+        "Performage Plushfire",
+        "Performage Shadow Maker",
+        "Performage Stilts Launcher",
+        "Performage Trapeze High Magician",
+        "Performage Trapeze Witch",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Performage Wind Drainer",
+        "Trick Box"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

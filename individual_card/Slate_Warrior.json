@@ -1,0 +1,23 @@
+{
+    "name": "Slate Warrior",
+    "filename": "Slate_Warrior",
+    "card_text": "FLIP: This card gains 500 ATK and DEF.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+    "release_date": "2004-02-10",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "Yu-Gi-Oh! World Championship Tournament 2004 Bundles",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "TOURNAMENT PACK 8",
+        "DUEL TERMINAL 5A"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1900,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

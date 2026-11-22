@@ -1,0 +1,26 @@
+{
+    "name": "Injection Fairy Lily",
+    "filename": "Injection_Fairy_Lily",
+    "card_text": "Once per battle, during damage calculation, if this card battles (Quick Effect): You can pay 2000 LP; this card gains 3000 ATK during that damage calculation only.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "RETRO PACK 2",
+        "LEGACY OF DARKNESS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "BATTLE PACK EPIC DAWN",
+        "SUPER STARTER SPACE-TIME SHOWDOWN Power-Up Pack"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 400,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

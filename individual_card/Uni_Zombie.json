@@ -1,0 +1,22 @@
+{
+    "name": "Uni-Zombie",
+    "filename": "Uni_Zombie",
+    "card_text": "You can target 1 face-up monster on the field; discard 1 card, and if you do, increase that target's Level by 1. You can target 1 face-up monster on the field; monsters you control cannot attack for the rest of this turn, except Zombie monsters, also send 1 Zombie monster from your Deck to the GY, and if you do, increase that target's Level by 1. You can only use each effect of \"Uni-Zombie\" once per turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRET SLAYERS",
+        "SECRETS OF ETERNITY",
+        "OTS TOURNAMENT PACK 3",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "2015 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

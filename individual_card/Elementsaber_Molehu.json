@@ -1,0 +1,34 @@
+{
+    "name": "Elementsaber Molehu",
+    "filename": "Elementsaber_Molehu",
+    "card_text": "Once per turn (Quick Effect): You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 face-up monster on the field; change it to face-down Defense Position. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Commander Gottoms, Swordmaster",
+        "Commander Souza, Swordmaster",
+        "Elemental Training",
+        "Elementsaber Aina",
+        "Elementsaber Lapauila",
+        "Elementsaber Lapauila Mana",
+        "Elementsaber Makani",
+        "Elementsaber Malo",
+        "Elementsaber Nalu",
+        "Palace of the Elemental Lords",
+        "Saber Reflection",
+        "X-Saber Axel",
+        "X-Saber Bruno",
+        "X-Saber Galahad",
+        "X-Saber Gottoms",
+        "X-Saber Palomuro"
+    ],
+    "attribute": "DARK",
+    "attack": 1900,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

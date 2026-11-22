@@ -1,0 +1,17 @@
+{
+    "name": "Long-Tailed Black Horse",
+    "filename": "Long_Tailed_Black_Horse",
+    "card_text": "If this card is Normal or Special Summoned: You can reveal 1 Zombie monster in your hand and send 1 EARTH Zombie monster from your Deck to the GY; send the revealed monster to the GY, and if you do, this card gains 500 ATK until the end of this turn. You can only use this effect of \"Long-Tailed Black Horse\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 800,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

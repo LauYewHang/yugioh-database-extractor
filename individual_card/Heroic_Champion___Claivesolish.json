@@ -1,0 +1,30 @@
+{
+    "name": "Heroic Champion - Claivesolish",
+    "filename": "Heroic_Champion___Claivesolish",
+    "card_text": "2 Level 4 Warrior monsters\nYour opponent cannot target monsters for attacks, except this one. You can only use each of the following effects of \"Heroic Champion - Claivesolish\" once per turn. You can pay LP so that you only have 500 left; at the start of the Battle Phase this turn, double the ATK of 1 monster you control. When an attack is declared involving your opponent's monster: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; this card gains ATK equal to that monster's ATK until the end of this turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Gagaga Magician - Gagaga Magic",
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Retribution Sword"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

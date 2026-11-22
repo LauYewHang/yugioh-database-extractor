@@ -1,0 +1,19 @@
+{
+    "name": "Ibicella Lutea",
+    "filename": "Ibicella_Lutea",
+    "card_text": "Cannot be destroyed by battle while you control another monster. Neither player can target face-up Spells/Traps you control with card effects.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT",
+        "2021 TIN OF ANCIENT BATTLES",
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 100,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

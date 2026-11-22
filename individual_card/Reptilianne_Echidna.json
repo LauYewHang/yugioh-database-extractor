@@ -1,0 +1,25 @@
+{
+    "name": "Reptilianne Echidna",
+    "filename": "Reptilianne_Echidna",
+    "card_text": "2 monsters, including a Reptile monster\nIf this card is Link Summoned: You can target 1 face-up monster your opponent controls; change its ATK to 0. During your Main Phase, if your opponent controls a monster(s) with 0 ATK: You can add Reptile monsters with different names from your Deck to your hand, up to the number of monsters your opponent controls with 0 ATK, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Reptile monsters. You can only use each effect of \"Reptilianne Echidna\" once per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Gardna",
+        "Reptilianne Hydra",
+        "Reptilianne Poison",
+        "Reptilianne Ramifications",
+        "Reptilianne Spawn",
+        "Serpent Suppression"
+    ],
+    "attribute": "DARK",
+    "attack": 200,
+    "defense": null,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 24
+}

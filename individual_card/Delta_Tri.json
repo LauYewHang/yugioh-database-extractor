@@ -1,0 +1,20 @@
+{
+    "name": "Delta Tri",
+    "filename": "Delta_Tri",
+    "card_text": "If this card destroys an opponent's monster by battle: Activate 1 of these effects.\n\u25cfTarget 1 appropriate Union monster in your GY; equip that target to this card.\n\u25cfTarget 1 face-up LIGHT Machine monster you control; shuffle that target into the Deck, then draw 1 card.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Dragon Laser"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

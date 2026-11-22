@@ -1,0 +1,31 @@
+{
+    "name": "Batteryman Charger",
+    "filename": "Batteryman_Charger",
+    "card_text": "When this card is Normal Summoned, you can Special Summon 1 \"Batteryman\" monster, except \"Batteryman Charger\", from your hand or Deck. This card gains 300 ATK and DEF for each Thunder-Type monster you control.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Battery Charger",
+        "Batteryman 9-Volt",
+        "Batteryman AA",
+        "Batteryman AAA",
+        "Batteryman C",
+        "Batteryman D",
+        "Batteryman Fuel Cell",
+        "Batteryman Industrial Strength",
+        "Batteryman Micro-Cell",
+        "Batteryman Solar",
+        "Portable Battery Pack",
+        "Quick Charger",
+        "Short Circuit"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

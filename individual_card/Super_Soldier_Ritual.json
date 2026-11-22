@@ -1,0 +1,25 @@
+{
+    "name": "Super Soldier Ritual",
+    "filename": "Super_Soldier_Ritual",
+    "card_text": "This card can be used to Ritual Summon any \"Black Luster Soldier\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal 8. During your Main Phase, except the turn this card was sent to the GY: You can banish this card, 1 LIGHT monster, and 1 DARK monster from your GY; Special Summon 1 \"Black Luster Soldier\" Ritual Monster from your hand, ignoring its Summoning conditions. You can only use this effect of \"Super Soldier Ritual\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "MAZE OF MEMORIES",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Black Luster Soldier",
+        "Black Luster Soldier - Envoy of the Beginning",
+        "Black Luster Soldier - Envoy of the Evening Twilight",
+        "Black Luster Soldier - Legendary Swordsman",
+        "Black Luster Soldier - Sacred Soldier",
+        "Black Luster Soldier - Soldier of Chaos",
+        "Black Luster Soldier - Soldier of Light and Darkness",
+        "Black Luster Soldier - Super Soldier",
+        "Super Soldier Soul",
+        "Toon Black Luster Soldier"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

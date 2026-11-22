@@ -1,0 +1,20 @@
+{
+    "name": "Turret Warrior",
+    "filename": "Turret_Warrior",
+    "card_text": "You can Special Summon this card (from your hand) by Tributing 1 Warrior-Type monster, and if you do, it gains ATK equal to the Tributed monster's original ATK.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI 2 -",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

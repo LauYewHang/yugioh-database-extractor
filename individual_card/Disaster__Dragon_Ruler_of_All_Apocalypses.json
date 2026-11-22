@@ -1,0 +1,31 @@
+{
+    "name": "Disaster, Dragon Ruler of All Apocalypses",
+    "filename": "Disaster__Dragon_Ruler_of_All_Apocalypses",
+    "card_text": "2 Rank 7 monsters\nIf this card is Xyz Summoned: You can target up to 4 Level 7 \"Dragon Ruler\" monsters in your GY and/or banishment; attach them to this card, then you can banish all monsters from your opponent's field and GY with a same Attribute as this card's materials. You can only use this effect of \"Disaster, Dragon Ruler of All Apocalypses\" once per turn. While this card has LIGHT, DARK, EARTH, WATER, FIRE, and WIND \"Dragon Ruler\" monsters as material, it gains 4600 ATK/DEF, also it is unaffected by other cards' effects.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Blaster, Dragon Ruler of Infernos",
+        "Burner, Dragon Ruler of Sparks",
+        "Chasma, Dragon Ruler of Auroras",
+        "Eclipse, Dragon Ruler of Catastrophes",
+        "Here There Be Dragons",
+        "Lightning, Dragon Ruler of Drafts",
+        "Nebulus, Dragon Ruler of Mishaps",
+        "Reactan, Dragon Ruler of Pebbles",
+        "Redox, Dragon Ruler of Boulders",
+        "Spectral, Dragon Ruler of Flickers",
+        "Stream, Dragon Ruler of Droplets",
+        "Tempest, Dragon Ruler of Storms",
+        "Tidal, Dragon Ruler of Waterfalls"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 7
+}

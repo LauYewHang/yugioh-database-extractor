@@ -1,0 +1,13 @@
+{
+    "name": "Level Lifter",
+    "filename": "Level_Lifter",
+    "card_text": "Send 1 monster from your hand to the Graveyard, then target up to 2 face-up monsters you control; until the end of this turn, their Levels become the original Level of the monster sent to the Graveyard to activate this card.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

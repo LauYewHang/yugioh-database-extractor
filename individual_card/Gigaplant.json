@@ -1,0 +1,18 @@
+{
+    "name": "Gigaplant",
+    "filename": "Gigaplant",
+    "card_text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cfOnce per turn: You can Special Summon 1 Insect or Plant monster from your hand or GY.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 1200,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

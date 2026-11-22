@@ -1,0 +1,38 @@
+{
+    "name": "Kozmo DOG Fighter",
+    "filename": "Kozmo_DOG_Fighter",
+    "card_text": "Once per turn, during the Standby Phase: You can Special Summon 1 \"DOG Fighter Token\" (Machine-Type/DARK/Level 6/ATK 2000/DEF 2400). If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 5 or lower \"Kozmo\" monster from your Deck.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Kozmo Dark Destroyer",
+        "Kozmo Dark Eclipser",
+        "Kozmo Dark Planet",
+        "Kozmo Delta Shuttle",
+        "Kozmo Farmgirl",
+        "Kozmo Forerunner",
+        "Kozmo Goodwitch",
+        "Kozmo Landwalker",
+        "Kozmo Lightsword",
+        "Kozmo Scaredy Lion",
+        "Kozmo Sliprider",
+        "Kozmo Soartroopers",
+        "Kozmo Strawman",
+        "Kozmo Tincan",
+        "Kozmojo",
+        "Kozmoll Dark Lady",
+        "Kozmoll Wickedwitch",
+        "Kozmotown",
+        "Kozmourning"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 2400,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

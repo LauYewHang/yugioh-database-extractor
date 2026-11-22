@@ -1,0 +1,31 @@
+{
+    "name": "Lyrilusc - Independent Nightingale",
+    "filename": "Lyrilusc___Independent_Nightingale",
+    "card_text": "\"Lyrilusc - Assembled Nightingale\" + 1 \"Lyrilusc\" monster\nIf this card is Fusion Summoned using an Xyz Monster on the field as Fusion Material whose original name includes \"Lyrilusc\": You can increase this card's Level by the number of Xyz Materials that monster(s) had. This card gains ATK equal to its Level x 500. Unaffected by other cards' effects. Once per turn: You can inflict damage to your opponent equal to this card's Level x 500.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Lyrilusc - Assembled Nightingale",
+        "Lyrilusc - Beryl Canary",
+        "Lyrilusc - Bird Call",
+        "Lyrilusc - Bird Sanctuary",
+        "Lyrilusc - Bird Strike",
+        "Lyrilusc - Celestine Wagtail",
+        "Lyrilusc - Cobalt Sparrow",
+        "Lyrilusc - Ensemblue Robin",
+        "Lyrilusc - Phantom Feathers",
+        "Lyrilusc - Promenade Thrush",
+        "Lyrilusc - Recital Starling",
+        "Lyrilusc - Sapphire Swallow",
+        "Lyrilusc - Turquoise Warbler"
+    ],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 0,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

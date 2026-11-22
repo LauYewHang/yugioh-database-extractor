@@ -1,0 +1,20 @@
+{
+    "name": "Evolzar Solda",
+    "filename": "Evolzar_Solda",
+    "card_text": "2 Level 6 Dinosaur monsters\nCannot be destroyed by card effects while it has material. When your opponent Special Summons a monster(s) (except during the Damage Step): You can detach 1 material from this card; destroy that monster(s).",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "WILD SURVIVORS",
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Evo-Singularity"
+    ],
+    "attribute": "FIRE",
+    "attack": 2600,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

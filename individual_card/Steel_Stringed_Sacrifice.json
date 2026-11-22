@@ -1,0 +1,17 @@
+{
+    "name": "Steel-Stringed Sacrifice",
+    "filename": "Steel_Stringed_Sacrifice",
+    "card_text": "If this card is in your hand or GY: You can reveal 1 Level 5 or higher monster in your hand, then activate 1 of these effects (but you can only use each effect of \"Steel-Stringed Sacrifice\" once per turn); during the End Phase of this turn, lose 1000 LP if you did not Normal Summon the revealed monster, or a monster with the same original name, after activating this effect.\n\u25cfSpecial Summon this card from your hand.\n\u25cfAdd this card from your GY to your hand.\n\u25cfBanish this card from your GY, and if you do, add 1 Level 5 or higher monster from your GY to your hand.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

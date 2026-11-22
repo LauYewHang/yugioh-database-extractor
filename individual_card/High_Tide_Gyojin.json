@@ -1,0 +1,19 @@
+{
+    "name": "High Tide Gyojin",
+    "filename": "High_Tide_Gyojin",
+    "card_text": "A very agile half-fish warrior known for its relentless attacks.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1650,
+    "defense": 1300,
+    "monster_type": "Aqua",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

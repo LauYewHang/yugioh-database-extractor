@@ -1,0 +1,21 @@
+{
+    "name": "Dragoons of Draconia",
+    "filename": "Dragoons_of_Draconia",
+    "card_text": "Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.",
+    "release_date": "2015-01-10",
+    "available_set": [
+        "SECRETS OF ETERNITY Sneak Peek",
+        "SECRETS OF ETERNITY",
+        "DEMO DECK 2016 (UK)"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Once per turn, if a Normal Monster you control destroys an opponent's monster by battle, after damage calculation: You can add 1 Level 4 or higher Normal Monster from your Deck to your hand.",
+    "pendulum_scale": 2
+}

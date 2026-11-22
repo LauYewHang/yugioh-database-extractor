@@ -1,0 +1,23 @@
+{
+    "name": "Archnemeses Eschatos",
+    "filename": "Archnemeses_Eschatos",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 monsters with different Types from your GY and/or face-up field. Cannot be destroyed by card effects. You can declare 1 Monster Type on the field; destroy all monsters on the field with that Type, also until the end of the next turn, neither player can Special Summon monsters with that Type. You can only use this effect of \"Archnemeses Eschatos\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE",
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Nemeses Adrastea",
+        "Nemeses Corridor",
+        "Nemeses Flag",
+        "Nemeses Umbrella"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

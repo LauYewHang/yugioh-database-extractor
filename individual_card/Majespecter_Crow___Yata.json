@@ -1,0 +1,40 @@
+{
+    "name": "Majespecter Crow - Yata",
+    "filename": "Majespecter_Crow___Yata",
+    "card_text": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" Spell from your Deck to your hand. You can only use this effect of \"Majespecter Crow - Yata\" once per turn. While this card is in your Monster Zone, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "MAZE OF MILLENNIA",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Majespecter Cat - Nekomata",
+        "Majespecter Cyclone",
+        "Majespecter Draco - Ryu",
+        "Majespecter Fox - Kyubi",
+        "Majespecter Gust",
+        "Majespecter Orthrus - Nue",
+        "Majespecter Porcupine - Yamarashi",
+        "Majespecter Raccoon - Bunbuku",
+        "Majespecter Sonics",
+        "Majespecter Storm",
+        "Majespecter Supercell",
+        "Majespecter Tempest",
+        "Majespecter Toad - Ogama",
+        "Majespecter Tornado",
+        "Majespecter Unicorn - Kirin",
+        "Majespecter Wind",
+        "Majesty Pegasus, the Dracoslayer",
+        "Majesty's Pegasus"
+    ],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "",
+    "pendulum_scale": 5
+}

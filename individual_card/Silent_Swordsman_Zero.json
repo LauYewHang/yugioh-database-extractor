@@ -1,0 +1,34 @@
+{
+    "name": "Silent Swordsman Zero",
+    "filename": "Silent_Swordsman_Zero",
+    "card_text": "Once per turn, during the Standby Phase: Increase this card's Level by 1. While this card's Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a card or effect that targets \"Shining Sarcophagus\", or a monster(s) that mentions it, that you control (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of \"Silent Swordsman Zero\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Archfiend's Advent",
+        "Dark Magic Mirror Force",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician the Magician of Black Magic",
+        "Future Silence",
+        "Gadget Trio",
+        "Gandora-G the Dragon of Destruction",
+        "Moremarshmallon",
+        "Shining Sarcophagus",
+        "Silent Magician Zero",
+        "Silent Sword Slash",
+        "Silent Swordsman",
+        "Stronghold the Hidden Fortress",
+        "Ties That Bind",
+        "Turn Silence"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

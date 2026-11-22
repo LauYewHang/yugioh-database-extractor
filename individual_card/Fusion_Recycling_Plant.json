@@ -1,0 +1,39 @@
+{
+    "name": "Fusion Recycling Plant",
+    "filename": "Fusion_Recycling_Plant",
+    "card_text": "Once per turn: You can discard 1 card; add 1 \"Polymerization\" from your Deck or GY to your hand. Once per turn, during the End Phase: You can target 1 monster in your GY that was used as Fusion Material for a Fusion Summon this turn; add it to your hand.",
+    "release_date": "2017-02-04",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "HIDDEN SUMMONERS",
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "RAGING TEMPEST",
+        "Speed Duel: Battle City Box",
+        "RAGING TEMPEST Sneak Peek"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Fusion Substitute",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Polymerization",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

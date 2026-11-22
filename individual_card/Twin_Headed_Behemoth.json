@@ -1,0 +1,30 @@
+{
+    "name": "Twin-Headed Behemoth",
+    "filename": "Twin_Headed_Behemoth",
+    "card_text": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "CHAMPION PACK GAME TWO",
+        "LEGACY OF DARKNESS",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "ASTRAL PACK EIGHT",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "DARK BEGINNING 2",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "STARTER DECK KAIBA RELOADED",
+        "STRUCTURE DECK : YUGI MUTO",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

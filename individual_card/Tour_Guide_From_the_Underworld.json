@@ -1,0 +1,28 @@
+{
+    "name": "Tour Guide From the Underworld",
+    "filename": "Tour_Guide_From_the_Underworld",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend monster from your hand or Deck, but negate its effects, also it cannot be used as Synchro Material.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "COLLECTIBLE TIN 2012 WAVE 2",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "ASTRAL PACK SIX",
+        "EXTREME VICTORY",
+        "BATTLE PACK EPIC DAWN",
+        "Gold Series: Maximum Gold",
+        "QUARTER CENTURY STAMPEDE",
+        "RARITY COLLECTION 5",
+        "DUEL OVERLOAD",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 600,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

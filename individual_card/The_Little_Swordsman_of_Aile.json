@@ -1,0 +1,18 @@
+{
+    "name": "The Little Swordsman of Aile",
+    "filename": "The_Little_Swordsman_of_Aile",
+    "card_text": "Offer 1 monster on your side of the field as a Tribute to increase this monster's ATK by 700 points until the end of the turn.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 1300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

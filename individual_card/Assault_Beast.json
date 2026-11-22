@@ -1,0 +1,29 @@
+{
+    "name": "Assault Beast",
+    "filename": "Assault_Beast",
+    "card_text": "You can discard this card to the GY; add 1 \"Assault Mode Activate\" from your Deck to your hand.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "OTS TOURNAMENT PACK 10",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Assault Lich",
+        "Assault Mode Activate",
+        "Assault Reboot",
+        "Assault Sentinel",
+        "Assault Sonic Warrior",
+        "Crimson Blader/Assault Mode",
+        "Duel Evolution - Assault Zone",
+        "Nightwinged Cleric",
+        "Psi-Reflector"
+    ],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 1200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

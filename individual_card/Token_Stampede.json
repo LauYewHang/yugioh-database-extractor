@@ -1,0 +1,17 @@
+{
+    "name": "Token Stampede",
+    "filename": "Token_Stampede",
+    "card_text": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "ASTRAL PACK TWO",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "STORM OF RAGNAROK",
+        "OTS TOURNAMENT PACK 16",
+        "QUARTER CENTURY STAMPEDE",
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

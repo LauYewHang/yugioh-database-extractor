@@ -1,0 +1,28 @@
+{
+    "name": "Fiendsmith's Sequence",
+    "filename": "Fiendsmith_s_Sequence",
+    "card_text": "2 monsters, including a LIGHT Fiend monster\nDuring your Main Phase: You can Fusion Summon 1 Fiend Fusion Monster from your Extra Deck, by shuffling its materials from your GY into the Deck. You can target 1 LIGHT non-Link Fiend monster you control; equip this card from your field or GY to that monster you control as an Equip Spell with the following effect.\n\u25cfYour opponent cannot target the equipped monster with card effects.\nYou can only use each effect of \"Fiendsmith's Sequence\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "OTS TOURNAMENT PACK 27",
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Fiendsmith Engraver",
+        "Fiendsmith in Paradise",
+        "Fiendsmith Kyrie",
+        "Fiendsmith's Requiem",
+        "Fiendsmith's Rextremende",
+        "Fiendsmith's Sanct",
+        "Fiendsmith's Tract",
+        "Lacrima the Crimson Tears"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

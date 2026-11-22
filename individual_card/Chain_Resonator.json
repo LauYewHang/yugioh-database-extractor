@@ -1,0 +1,43 @@
+{
+    "name": "Chain Resonator",
+    "filename": "Chain_Resonator",
+    "card_text": "When this card is Normal Summoned while a Synchro Monster is on the field: You can Special Summon 1 \"Resonator\" monster from your Deck, except \"Chain Resonator\".",
+    "release_date": "2015-10-02",
+    "available_set": [
+        "HIGH-SPEED RIDERS",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Blade Dragon",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Power Vice Dragon",
+        "Red Carpet",
+        "Red Resonator",
+        "Red Rising Dragon",
+        "Red Warg",
+        "Resonant Destruction",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Time to Stand Up",
+        "Vision Resonator"
+    ],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

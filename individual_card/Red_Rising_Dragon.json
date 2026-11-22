@@ -1,0 +1,37 @@
+{
+    "name": "Red Rising Dragon",
+    "filename": "Red_Rising_Dragon",
+    "card_text": "1 Fiend Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can target 1 \"Resonator\" monster in your GY; Special Summon it. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except DARK Dragon Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 2 Level 1 \"Resonator\" monsters in your GY; Special Summon both.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Chain Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Red Resonator",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Vision Resonator"
+    ],
+    "attribute": "DARK",
+    "attack": 2100,
+    "defense": 1600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

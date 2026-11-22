@@ -1,0 +1,18 @@
+{
+    "name": "Max Warrior",
+    "filename": "Max_Warrior",
+    "card_text": "If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card destroys an opponent's monster by battle, until your next Standby Phase: this card becomes Level 2 and its original ATK and DEF are halved.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "DUELIST PACK - YUSEI 2 -",
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Blood Mefist",
+    "filename": "Blood_Mefist",
+    "card_text": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during your opponent's Standby Phase: You can inflict 300 damage to your opponent for each card your opponent controls. Each time your opponent Sets a Spell or Trap Card(s): Inflict 300 damage to your opponent.",
+    "release_date": "2011-08-06",
+    "available_set": [
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2011"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 1300,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

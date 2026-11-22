@@ -1,0 +1,33 @@
+{
+    "name": "Aroma Healing",
+    "filename": "Aroma_Healing",
+    "card_text": "Gain 1000 LP for each \"Aroma\" monster you control with a different name. You can banish this card from your GY, then target 1 \"Aroma\" monster in your GY; Special Summon it (but banish it when it leaves the field), then gain 500 LP. You can only use 1 \"Aroma Healing\" effect per turn, and only once that turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Aroma Blend",
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Jar",
+        "Aromage Bergamot",
+        "Aromage Cananga",
+        "Aromage Jasmine",
+        "Aromage Laurel",
+        "Aromage Marjoram",
+        "Aromage Rosemary",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Aromaseraphy Jasmine",
+        "Aromaseraphy Rosemary",
+        "Aromaseraphy Sweet Marjoram",
+        "Blessed Winds",
+        "Dried Winds",
+        "Humid Winds"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

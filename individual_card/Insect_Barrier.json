@@ -1,0 +1,16 @@
+{
+    "name": "Insect Barrier",
+    "filename": "Insect_Barrier",
+    "card_text": "Insect monsters your opponent controls cannot declare an attack.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DUELIST LEAGUE 13",
+        "DARK BEGINNING 1",
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

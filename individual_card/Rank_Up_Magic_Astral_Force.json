@@ -1,0 +1,40 @@
+{
+    "name": "Rank-Up-Magic Astral Force",
+    "filename": "Rank_Up_Magic_Astral_Force",
+    "card_text": "Target the 1 Xyz Monster you control with the highest Rank (your choice, if tied); Special Summon from your Extra Deck, 1 monster with the same Type and Attribute as that monster you control but 2 Ranks higher, by using it as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) During your Draw Phase, if this card is in your GY, instead of conducting your normal draw: You can add this card from your GY to your hand. You cannot Special Summon during the turn you activate this effect, except by the effect of \"Rank-Up-Magic Astral Force\".",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "2014 MEGA-TINS MEGA PACK",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "LEGACY OF THE VALIANT",
+        "THE INFINITY CHASERS",
+        "WING RAIDERS"
+    ],
+    "related_card": [
+        "Barian Untopia",
+        "Gimmick Puppet Fantasix Machinix",
+        "Number 71: Rebarian Shark",
+        "Number 99: Utopic Dragon",
+        "Number C88: Gimmick Puppet Disaster Leo",
+        "Number S0: Utopic ZEXAL",
+        "Performage Shadow Maker",
+        "Puppet Parade",
+        "Raider's Unbreakable Mind",
+        "Raidraptor - Brave Strix",
+        "Raidraptor - Necro Vulture",
+        "Raidraptor - Revolution Falcon - Air Raid",
+        "Raidraptor - Tribute Lanius",
+        "Raidraptor - Wise Strix",
+        "Rank-Up-Magic Raid Force",
+        "Raptor's Ultimate Mace",
+        "Resurgam Xyz",
+        "Seventh Ascension",
+        "Seventh Force",
+        "The Phantom Knights of Malevolent Scythe",
+        "Zexal Construction",
+        "ZS - Ascended Sage"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

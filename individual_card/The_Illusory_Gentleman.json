@@ -1,0 +1,17 @@
+{
+    "name": "The Illusory Gentleman",
+    "filename": "The_Illusory_Gentleman",
+    "card_text": "Wearing odd fashions, this gentleman is very fickle. He sometimes saves people and at other times commits crimes.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

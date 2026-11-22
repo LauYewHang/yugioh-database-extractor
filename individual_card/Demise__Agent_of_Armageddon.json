@@ -1,0 +1,25 @@
+{
+    "name": "Demise, Agent of Armageddon",
+    "filename": "Demise__Agent_of_Armageddon",
+    "card_text": "You can Ritual Summon this card with \"Cycle of the World\". This card's name becomes \"Demise, King of Armageddon\" while in the hand or on the field. If this card is Ritual Summoned: Destroy 1 face-up monster on the field. If this card is sent to the GY: You can target 1 Ritual Monster you control; while it is face-up on your field, your opponent cannot activate cards or effects in response to the activation of your Ritual Monsters' effects.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Breaking of the World",
+        "Cycle of the World",
+        "Demise, King of Armageddon",
+        "Demise, Supreme King of Armageddon",
+        "End of the World",
+        "Ruler of the End of the World",
+        "Turning of the World"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

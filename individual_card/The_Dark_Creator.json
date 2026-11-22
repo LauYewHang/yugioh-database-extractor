@@ -1,0 +1,19 @@
+{
+    "name": "The Dark Creator",
+    "filename": "The_Dark_Creator",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more DARK monsters in your Graveyard while you control no monsters. Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 DARK monster in your Graveyard; Special Summon that target.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "RAGING BATTLE SPECIAL EDITION"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": 3000,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

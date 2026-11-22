@@ -1,0 +1,37 @@
+{
+    "name": "Altergeist Failover",
+    "filename": "Altergeist_Failover",
+    "card_text": "If another card(s) you control is destroyed by an opponent's card effect (except during the Damage Step): You can Special Summon 1 \"Altergeist\" monster from your hand. You can banish this card from your GY, then target 1 \"Altergeist\" monster in your GY; add it to your hand. You can only use each effect of \"Altergeist Failover\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Altergeist Adminia",
+        "Altergeist Camouflage",
+        "Altergeist Dragvirion",
+        "Altergeist Emulatelf",
+        "Altergeist Fifinellag",
+        "Altergeist Fijialert",
+        "Altergeist Haunted Rock",
+        "Altergeist Hexstia",
+        "Altergeist Kidolga",
+        "Altergeist Kunquery",
+        "Altergeist Malwisp",
+        "Altergeist Manifestation",
+        "Altergeist Marionetter",
+        "Altergeist Meluseek",
+        "Altergeist Memorygant",
+        "Altergeist Multifaker",
+        "Altergeist Peritrator",
+        "Altergeist Pixiel",
+        "Altergeist Pookuery",
+        "Altergeist Primebanshee",
+        "Altergeist Protocol",
+        "Altergeist Revitalization",
+        "Altergeist Silquitous",
+        "Personal Spoofing"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

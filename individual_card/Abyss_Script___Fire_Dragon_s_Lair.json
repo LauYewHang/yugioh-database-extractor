@@ -1,0 +1,35 @@
+{
+    "name": "Abyss Script - Fire Dragon's Lair",
+    "filename": "Abyss_Script___Fire_Dragon_s_Lair",
+    "card_text": "Target 1 \"Abyss Actor\" monster you control; if it destroys your opponent's monster by battle this turn, your opponent banishes 3 monsters from their Extra Deck (their choice). If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can look at your opponent's Extra Deck, also banish 1 monster from their Extra Deck. You can only use this effect of \"Abyss Script - Fire Dragon's Lair\" once per turn.",
+    "release_date": "2016-11-18",
+    "available_set": [
+        "DESTINY SOLDIERS"
+    ],
+    "related_card": [
+        "Abyss Actor - Comic Relief",
+        "Abyss Actor - Curtain Raiser",
+        "Abyss Actor - Evil Heel",
+        "Abyss Actor - Extras",
+        "Abyss Actor - Funky Comedian",
+        "Abyss Actor - Hyper Director",
+        "Abyss Actor - Leading Lady",
+        "Abyss Actor - Liberty Dramatist",
+        "Abyss Actor - Mellow Madonna",
+        "Abyss Actor - Sassy Rookie",
+        "Abyss Actor - Super Producer",
+        "Abyss Actor - Superstar",
+        "Abyss Actor - Trendy Understudy",
+        "Abyss Actor - Twinkle Little Star",
+        "Abyss Actor - Wild Hope",
+        "Abyss Actors Back Stage",
+        "Abyss Actors' Curtain Call",
+        "Abyss Actors' Dress Rehearsal",
+        "Abyss Playhouse - Fantastic Theater",
+        "Abyss Script - Abysstainment",
+        "Abyss Script - Rise of the Abyss King",
+        "Abyss Script - Romantic Terror"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "The Flute of Summoning Dragon",
+    "filename": "The_Flute_of_Summoning_Dragon",
+    "card_text": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DUELIST LEAGUE 17",
+        "DARK LEGENDS",
+        "STARTER DECK KAIBA",
+        "SPEED DUEL TOURNAMENT PACK 01",
+        "DUELIST PACK - BATTLE CITY -",
+        "STRUCTURE DECK : SETO KAIBA",
+        "DUELIST PACK - KAIBA -",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "RETRO PACK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "STARTER DECK KAIBA Evolution",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "DRAGONS COLLIDE STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Lord of D.",
+        "The King of D."
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

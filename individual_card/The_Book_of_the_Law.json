@@ -1,0 +1,29 @@
+{
+    "name": "The Book of the Law",
+    "filename": "The_Book_of_the_Law",
+    "card_text": "Tribute 1 \"Invoked\" monster; Special Summon 1 \"Invoked\" monster from your Extra Deck with a different original Attribute from that monster's. (This is treated as a Fusion Summon.) You can only activate 1 \"The Book of the Law\" per turn.",
+    "release_date": "2017-02-24",
+    "available_set": [
+        "FUSION ENFORCERS",
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Aleister the Invoker of Madness",
+        "Hyperinvoked Aeon",
+        "Invoked Augoeides",
+        "Invoked Baybarron",
+        "Invoked Caliga",
+        "Invoked Cocytus",
+        "Invoked De Anima",
+        "Invoked Elysium",
+        "Invoked Magellanica",
+        "Invoked Magistus Omega",
+        "Invoked Mechaba",
+        "Invoked Oceanus",
+        "Invoked Purgatrio",
+        "Invoked Raidjin",
+        "Invoked Sorath"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

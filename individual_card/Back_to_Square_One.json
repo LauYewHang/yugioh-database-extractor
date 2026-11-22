@@ -1,0 +1,16 @@
+{
+    "name": "Back to Square One",
+    "filename": "Back_to_Square_One",
+    "card_text": "Discard 1 card, then target 1 monster on the field; place that target on the top of the Deck.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 3",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "RISE OF DESTINY",
+        "DEMO DECK 2026",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

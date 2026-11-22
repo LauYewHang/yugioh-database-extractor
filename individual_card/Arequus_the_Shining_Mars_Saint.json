@@ -1,0 +1,17 @@
+{
+    "name": "Arequus the Shining Mars Saint",
+    "filename": "Arequus_the_Shining_Mars_Saint",
+    "card_text": "If you control a face-up card in your Spell & Trap Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Arequus the Shining Mars Saint\" once per turn this way. You can only use each of the following effects of \"Arequus the Shining Mars Saint\" once per turn. You can target 1 face-up Spell/Trap you control; destroy both it and this card, then draw 1 card. If this card is destroyed: You can target 1 Xyz Monster you control; attach this card to it.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 1800,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

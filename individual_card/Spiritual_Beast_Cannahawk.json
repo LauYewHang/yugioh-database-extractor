@@ -1,0 +1,40 @@
+{
+    "name": "Spiritual Beast Cannahawk",
+    "filename": "Spiritual_Beast_Cannahawk",
+    "card_text": "Once per turn: You can banish 1 \"Ritual Beast\" card from your Deck, face-up. During your second Standby Phase after this effect's activation, add the card banished by this effect to your hand. You can only Special Summon \"Spiritual Beast Cannahawk(s)\" once per turn.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Ritual Beast Ambush",
+        "Ritual Beast Inheritance",
+        "Ritual Beast Return",
+        "Ritual Beast Steeds",
+        "Ritual Beast Tamer Elder",
+        "Ritual Beast Tamer Lara",
+        "Ritual Beast Tamer Wen",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Ritual Beast Ulti-Apelio",
+        "Ritual Beast Ulti-Cannahawk",
+        "Ritual Beast Ulti-Gaiapelio",
+        "Ritual Beast Ulti-Kimunfalcos",
+        "Ritual Beast Ulti-Nochiudrago",
+        "Ritual Beast Ulti-Pettlephin",
+        "Ritual Beast Ulti-Reirautari",
+        "Ritual Beast's Bond",
+        "Spiritual Beast Apelio",
+        "Spiritual Beast Pettlephin",
+        "Spiritual Beast Rampengu",
+        "Spiritual Beast Tamer Lara",
+        "Spiritual Beast Tamer Winda"
+    ],
+    "attribute": "WIND",
+    "attack": 1400,
+    "defense": 600,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

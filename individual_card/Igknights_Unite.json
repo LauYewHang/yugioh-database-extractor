@@ -1,0 +1,28 @@
+{
+    "name": "Igknights Unite",
+    "filename": "Igknights_Unite",
+    "card_text": "Target 1 \"Igknight\" card you control; destroy it, and if you do, Special Summon 1 \"Igknight\" monster from your Deck. You can only activate 1 \"Igknights Unite\" per turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Igknight Burst",
+        "Igknight Cavalier",
+        "Igknight Champion",
+        "Igknight Crusader",
+        "Igknight Gallant",
+        "Igknight Lancer",
+        "Igknight Margrave",
+        "Igknight Paladin",
+        "Igknight Reload",
+        "Igknight Squire",
+        "Igknight Templar",
+        "Igknight Veteran",
+        "Ignis Phoenix, the Dracoslayer",
+        "Ignition Phoenix"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

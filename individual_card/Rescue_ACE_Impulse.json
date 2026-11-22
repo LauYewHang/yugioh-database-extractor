@@ -1,0 +1,36 @@
+{
+    "name": "Rescue-ACE Impulse",
+    "filename": "Rescue_ACE_Impulse",
+    "card_text": "During your Main Phase: You can choose the 1 Effect Monster your opponent controls with the highest ATK (your choice, if tied), and neither player can activate that monster's effects on the field this turn. When your opponent activates a monster effect on the field (Quick Effect): You can Tribute this card from your hand or face-up field; Special Summon 1 Machine \"Rescue-ACE\" monster from your Deck. You can only use each effect of \"Rescue-ACE Impulse\" once per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "MAZE OF MUERTOS",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "ALERT!",
+        "CONTAIN!",
+        "EMERGENCY!",
+        "EXTINGUISH!",
+        "REINFORCE!",
+        "RESCUE!",
+        "Rescue-ACE Air Lifter",
+        "Rescue-ACE Arbitrator",
+        "Rescue-ACE Fire Attacker",
+        "Rescue-ACE Fire Engine",
+        "Rescue-ACE HQ",
+        "Rescue-ACE Hydrant",
+        "Rescue-ACE Monitor",
+        "Rescue-ACE Preventer",
+        "Rescue-ACE Quick Attacker",
+        "Rescue-ACE Turbulence"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

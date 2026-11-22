@@ -1,0 +1,20 @@
+{
+    "name": "Necroface",
+    "filename": "Necroface",
+    "card_text": "If this card is Normal Summoned: Shuffle all banished cards into the Deck. This card gains 100 ATK for each card shuffled into the Main Deck by this effect. If this card is banished: Each player banishes 5 cards from the top of their Deck (or their entire Deck, if less than 5).",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "GLADIATOR'S ASSAULT",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "CRIMSON CRISIS SPECIAL EDITION"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1800,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

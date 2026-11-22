@@ -1,0 +1,34 @@
+{
+    "name": "Sylvan Blessing",
+    "filename": "Sylvan_Blessing",
+    "card_text": "Place 1 card from your hand on either the top or bottom of the Deck, and if you do, Special Summon 1 \"Sylvan\" monster from your hand or Graveyard. It is unaffected by other card effects this turn. Place it on either the top or bottom of the Deck during the End Phase.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [
+        "Alsei, the Sylvan High Protector",
+        "Mount Sylvania",
+        "Orea, the Sylvan High Arbiter",
+        "Sylvan Bladefender",
+        "Sylvan Charity",
+        "Sylvan Cherubsprout",
+        "Sylvan Dancepione",
+        "Sylvan Flowerknight",
+        "Sylvan Guardioak",
+        "Sylvan Hermitree",
+        "Sylvan Komushroomo",
+        "Sylvan Lotuswain",
+        "Sylvan Marshalleaf",
+        "Sylvan Mikorange",
+        "Sylvan Peaskeeper",
+        "Sylvan Princessprite",
+        "Sylvan Princessprout",
+        "Sylvan Sagequoia",
+        "Sylvan Snapdrassinagon",
+        "Sylvan Waterslide"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

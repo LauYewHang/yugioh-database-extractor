@@ -1,0 +1,23 @@
+{
+    "name": "King Dragun",
+    "filename": "King_Dragun",
+    "card_text": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"\nYour opponent cannot target Dragon monsters with card effects. Once per turn: You can Special Summon 1 Dragon monster from your hand.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DUEL OVERLOAD",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Divine Dragon Ragnarok",
+        "Lord of D.",
+        "The King of D."
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

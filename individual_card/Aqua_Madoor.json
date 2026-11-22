@@ -1,0 +1,23 @@
+{
+    "name": "Aqua Madoor",
+    "filename": "Aqua_Madoor",
+    "card_text": "A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK BEGINNING 1",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "STARTER DECK PEGASUS",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK KAIBA RELOADED"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1200,
+    "defense": 2000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

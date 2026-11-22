@@ -1,0 +1,28 @@
+{
+    "name": "Windwitch - Glass Bell",
+    "filename": "Windwitch___Glass_Bell",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Windwitch\" monster from your Deck to your hand, except \"Windwitch - Glass Bell\", also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Windwitch - Glass Bell\" once per turn.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "OTS TOURNAMENT PACK 8",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Icy Breeze Refrain",
+        "Windwitch - Blizzard Bell",
+        "Windwitch - Crystal Bell",
+        "Windwitch - Diamond Bell",
+        "Windwitch - Freeze Bell",
+        "Windwitch - Ice Bell",
+        "Windwitch - Snow Bell",
+        "Windwitch - Winter Bell",
+        "Windwitch Chimes"
+    ],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

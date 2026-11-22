@@ -1,0 +1,33 @@
+{
+    "name": "Armored Shark",
+    "filename": "Armored_Shark",
+    "card_text": "(This card is always treated as an \"Armored Xyz\" card.)\nYou can send 1 WATER Xyz Monster from your Extra Deck to the GY, then target 1 Fish monster in your GY with the same Level as the Rank of that monster; Special Summon it. During your opponent's turn, if this card is in your GY (Quick Effect): You can target 1 WATER Xyz Monster you control; equip this card to that monster as an Equip Spell that gives it 500 ATK. You can only use each effect of \"Armored Shark\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Armored Xyz",
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Full-Armored Xyz",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Reincarnation Unveiling Mail",
+        "Surfacing Big Jaws",
+        "Veiss Shark",
+        "Xyz Armor Fortress",
+        "Xyz Entrust",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "attribute": "WATER",
+    "attack": 500,
+    "defense": 2000,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

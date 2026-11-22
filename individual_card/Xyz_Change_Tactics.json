@@ -1,0 +1,37 @@
+{
+    "name": "Xyz Change Tactics",
+    "filename": "Xyz_Change_Tactics",
+    "card_text": "When a \"Utopia\" monster is Xyz Summoned to your field: You can pay 500 LP; draw 1 card. You can only control 1 \"Xyz Change Tactics\".",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "THE NEW CHALLENGERS",
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

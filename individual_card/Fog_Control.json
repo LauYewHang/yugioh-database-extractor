@@ -1,0 +1,30 @@
+{
+    "name": "Fog Control",
+    "filename": "Fog_Control",
+    "card_text": "Tribute 1 face-up \"Cloudian\" monster, then target 1 face-up monster on the field; place 3 Fog Counters on that target.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "GLADIATOR'S ASSAULT",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+    ],
+    "related_card": [
+        "Cloudian - Acid Cloud",
+        "Cloudian - Altus",
+        "Cloudian - Cirrostratus",
+        "Cloudian - Eye of the Typhoon",
+        "Cloudian - Ghost Fog",
+        "Cloudian - Nimbusman",
+        "Cloudian - Poison Cloud",
+        "Cloudian - Sheep Cloud",
+        "Cloudian - Smoke Ball",
+        "Cloudian - Storm Dragon",
+        "Cloudian - Turbulence",
+        "Cloudian Aerosol",
+        "Cloudian Squall",
+        "Diamond-Dust Cyclone",
+        "Raging Cloudian",
+        "Updraft"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

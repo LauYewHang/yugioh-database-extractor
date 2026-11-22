@@ -1,0 +1,21 @@
+{
+    "name": "Gazer Shark",
+    "filename": "Gazer_Shark",
+    "card_text": "You can banish this card from your Graveyard, then target 2 Level 5 WATER monsters in your Graveyard, except \"Gazer Shark\"; Special Summon both those monsters, but their effects are negated. Immediately after this effect resolves, Xyz Summon 1 WATER Xyz Monster using only those 2 monsters. You can only use this effect of \"Gazer Shark\" once per turn.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Hydrojet Shark",
+        "Surfacing Big Jaws",
+        "Veiss Shark"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 1900,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

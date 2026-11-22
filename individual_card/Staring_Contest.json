@@ -1,0 +1,13 @@
+{
+    "name": "Staring Contest",
+    "filename": "Staring_Contest",
+    "card_text": "When you Special Summon a monster to the Extra Monster Zone: You can target 1 monster in your opponent's Main Monster Zone; move that target to their zone in the same column as that Extra Monster Zone monster. When your opponent Special Summons a monster to the Extra Monster Zone: You can target 1 monster in your Main Monster Zone; move that target to your zone in the same column as that Extra Monster Zone monster. These effects cannot be activated in the Damage Step.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

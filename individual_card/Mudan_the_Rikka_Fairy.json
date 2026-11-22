@@ -1,0 +1,34 @@
+{
+    "name": "Mudan the Rikka Fairy",
+    "filename": "Mudan_the_Rikka_Fairy",
+    "card_text": "You can Tribute 1 Plant monster; Special Summon this card from your hand. If this card is Normal Summoned, or Special Summoned by the effect of a Plant monster: You can add 1 \"Rikka\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Mudan the Rikka Fairy\" once per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "MAZE OF MEMORIES"
+    ],
+    "related_card": [
+        "Cyclamen the Rikka Fairy",
+        "Erica the Rikka Fairy",
+        "Hellebore the Rikka Fairy",
+        "Kanzashi the Rikka Queen",
+        "Primula the Rikka Fairy",
+        "Rikka Flurries",
+        "Rikka Glamour",
+        "Rikka Konkon",
+        "Rikka Petal",
+        "Rikka Princess",
+        "Rikka Queen Strenna",
+        "Rikka Sheet",
+        "Rikka Tranquility",
+        "Snowdrop the Rikka Fairy",
+        "Teardrop the Rikka Queen"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 2400,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

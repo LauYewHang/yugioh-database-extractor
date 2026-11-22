@@ -1,0 +1,21 @@
+{
+    "name": "Beetrooper Landing",
+    "filename": "Beetrooper_Landing",
+    "card_text": "Fusion Summon 1 Insect Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If this card is in your GY, except the turn it was sent there: You can banish 2 Insect monsters from your GY; add this card to your hand. You can only use this effect of \"Beetrooper Landing\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Beetrooper Assault Roller",
+        "Beetrooper Cruel Saturnas",
+        "Beetrooper Fly & Sting",
+        "Beetrooper Formation",
+        "Beetrooper Light Flapper",
+        "Beetrooper Sting Lancer",
+        "Giant Beetrooper Invincible Atlas"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

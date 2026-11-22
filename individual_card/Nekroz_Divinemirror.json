@@ -1,0 +1,36 @@
+{
+    "name": "Nekroz Divinemirror",
+    "filename": "Nekroz_Divinemirror",
+    "card_text": "During the Main Phase: Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand or banishment, by Tributing monsters from your hand/field, and/or sending \"Nekroz\" monsters from your Extra Deck to the GY, whose total Levels equal or exceed its Level. During your Main Phase: You can banish this card and 1 \"Nekroz\" monster from your GY; add 1 \"Nekroz\" Spell from your Deck to your hand. You can only use each effect of \"Nekroz Divinemirror\" once per turn.",
+    "release_date": "2025-06-13",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Brionac",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Puppet Ritual",
+    "filename": "Puppet_Ritual",
+    "card_text": "If your opponent's Life Points are at least 2000 higher than yours: You can target 2 Level 8 \"Gimmick Puppet\" monsters in your Graveyard; Special Summon those targets. You can only activate 1 \"Puppet Ritual\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [
+        "CXyz Gimmick Puppet Fanatix Machinix",
+        "Gimmick Puppet Bisque Doll",
+        "Gimmick Puppet Cattle Scream",
+        "Gimmick Puppet Chimera Doll",
+        "Gimmick Puppet Des Troy",
+        "Gimmick Puppet Dreary Doll",
+        "Gimmick Puppet Egg Head",
+        "Gimmick Puppet Fantasix Machinix",
+        "Gimmick Puppet Fiendish Knight",
+        "Gimmick Puppet Gear Changer",
+        "Gimmick Puppet Gigantes Doll",
+        "Gimmick Puppet Humpty Dumpty",
+        "Gimmick Puppet Little Soldiers",
+        "Gimmick Puppet Magnet Doll",
+        "Gimmick Puppet Nightmare",
+        "Gimmick Puppet Rouge Doll",
+        "Gimmick Puppet Scissor Arms",
+        "Gimmick Puppet Shadow Feeler",
+        "Gimmick Puppet Terror Baby",
+        "Gimmick Puppet Twilight Joker",
+        "Number 15: Gimmick Puppet Giant Grinder",
+        "Number 40: Gimmick Puppet of Strings",
+        "Number 88: Gimmick Puppet of Leo",
+        "Number C15: Gimmick Puppet Giant Hunter",
+        "Number C40: Gimmick Puppet of Dark Strings",
+        "Number C88: Gimmick Puppet Disaster Leo"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

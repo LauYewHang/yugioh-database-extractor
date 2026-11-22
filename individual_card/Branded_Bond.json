@@ -1,0 +1,39 @@
+{
+    "name": "Branded Bond",
+    "filename": "Branded_Bond",
+    "card_text": "Special Summon 1 \"Fallen of Albaz\" from your hand, GY, or banishment. During the End Phase, if this card is in the GY because it was sent there to activate the effect of \"Fallen of Albaz\" this turn: You can Set this card. You can only use each effect of \"Branded Bond\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Albaz the Ashen",
+        "Albion the Branded Dragon",
+        "Albion the Shrouded Dragon",
+        "Aluber the Jester of Despia",
+        "Branded Beast",
+        "Branded in High Spirits",
+        "Branded Lost",
+        "Branded Retribution",
+        "Branded Sword",
+        "Bystial Saronir",
+        "Despian Tragedy",
+        "Ecclesia and the Dark Dragon",
+        "Fallen of Albaz",
+        "Fallen of the White Dragon",
+        "Guiding Quem, the Virtuous",
+        "Gung-Ho! Springans!",
+        "New Frontier",
+        "Springans Kitt",
+        "The Bystial Aluber",
+        "The Bystial Lubellion",
+        "The Fallen & The Virtuous",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

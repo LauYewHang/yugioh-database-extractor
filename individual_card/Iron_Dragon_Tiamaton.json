@@ -1,0 +1,18 @@
+{
+    "name": "Iron Dragon Tiamaton",
+    "filename": "Iron_Dragon_Tiamaton",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by the following effect. If 3 or more cards are in the same column (Quick Effect): You can Special Summon this card from your hand. You can only use this effect of \"Iron Dragon Tiamaton\" once per turn. If this card is Special Summoned: Destroy all other cards in this card's column. Neither player can use the unused zones in this card's column.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

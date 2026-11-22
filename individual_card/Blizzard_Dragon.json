@@ -1,0 +1,22 @@
+{
+    "name": "Blizzard Dragon",
+    "filename": "Blizzard_Dragon",
+    "card_text": "Once per turn: You can target 1 monster your opponent controls; it cannot change its battle position or declare an attack until the end of your opponent's next turn.",
+    "release_date": "2008-11-21",
+    "available_set": [
+        "DARK LEGENDS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "STRUCTURE DECK : SETO KAIBA",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DUEL TERMINAL 7A"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

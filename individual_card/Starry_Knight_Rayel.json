@@ -1,0 +1,27 @@
+{
+    "name": "Starry Knight Rayel",
+    "filename": "Starry_Knight_Rayel",
+    "card_text": "When this card is Normal Summoned: You can add 1 \"Starry Knight\" Spell/Trap from your Deck to your hand. You can banish this card from your GY, then target 1 \"Starry Knight\" monster in your GY, except \"Starry Knight Rayel\"; Special Summon it. You can only use each effect of \"Starry Knight Rayel\" once per turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Starry Knight Arrival",
+        "Starry Knight Astel",
+        "Starry Knight Balefire",
+        "Starry Knight Blast",
+        "Starry Knight Ceremony",
+        "Starry Knight Ciel",
+        "Starry Knight Flamel",
+        "Starry Knight Orbitael",
+        "Starry Knight Sky"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 700,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

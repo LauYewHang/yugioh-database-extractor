@@ -1,0 +1,17 @@
+{
+    "name": "Mother Spider",
+    "filename": "Mother_Spider",
+    "card_text": "If you have only Insect-Type monsters in your Graveyard, you can send 2 face-up Defense Position monsters your opponent controls to the Graveyard and Special Summon this card from your hand.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": 1200,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

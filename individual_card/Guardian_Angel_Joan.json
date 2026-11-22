@@ -1,0 +1,26 @@
+{
+    "name": "Guardian Angel Joan",
+    "filename": "Guardian_Angel_Joan",
+    "card_text": "When this card destroys a monster by battle and sends it to the GY: Gain LP equal to that monster's original ATK in the GY.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "Speed Duel: Battle City Box",
+        "DUEL TERMINAL 6A",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

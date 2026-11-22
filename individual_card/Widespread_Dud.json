@@ -1,0 +1,12 @@
+{
+    "name": "Widespread Dud",
+    "filename": "Widespread_Dud",
+    "card_text": "Select 2 face-up Attack Position monsters on the field. When any of the selected monsters are removed from the field, destroy this card. When this card is destroyed, destroy the selected monster(s).",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

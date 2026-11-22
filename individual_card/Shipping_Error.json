@@ -1,0 +1,12 @@
+{
+    "name": "Shipping Error",
+    "filename": "Shipping_Error",
+    "card_text": "When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: The activated effect becomes \"Your opponent takes 1 card from their Deck for you to add to your hand, and you must keep that card revealed. During the End Phase of this turn, shuffle it into the Deck, and if you do, draw 1 card\".",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

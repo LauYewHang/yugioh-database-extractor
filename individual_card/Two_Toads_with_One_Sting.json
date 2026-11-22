@@ -1,0 +1,12 @@
+{
+    "name": "Two Toads with One Sting",
+    "filename": "Two_Toads_with_One_Sting",
+    "card_text": "Activate this card by targeting 1 monster in your opponent's GY; Special Summon it to your opponent's field, but negate its effects, also equip it with this card. When this card leaves the field, destroy that monster. The equipped monster cannot attack or be targeted for an attack. If this card is sent to the GY because the equipped monster was used as material for a Fusion, Synchro, Xyz, or Link Summon: You can take control of that Summoned monster. You can only activate 1 \"Two Toads with One Sting\" per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

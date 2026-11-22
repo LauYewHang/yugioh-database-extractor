@@ -1,0 +1,32 @@
+{
+    "name": "Knight Armed Dragon, the Armored Knight Dragon",
+    "filename": "Knight_Armed_Dragon__the_Armored_Knight_Dragon",
+    "card_text": "If you Special Summon a Level 5 or higher Dragon monster(s): You can Special Summon this card from your hand. If this card is Special Summoned: You can make this card's Attribute and Level become the same as 1 of your banished Dragon monsters'. If this card is sent to the GY: You can target 1 Dragon monster you control; it gains 1000 ATK. Neither player can activate cards or effects in response to this effect's activation. You can only use each effect of \"Knight Armed Dragon, the Armored Knight Dragon\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Flash",
+        "Armed Dragon Lightning",
+        "Armed Dragon LV10 White",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon Thunderbolt",
+        "Armed Neos",
+        "Ojama Pajama",
+        "Ojamatch",
+        "Pile Armed Dragon"
+    ],
+    "attribute": "WIND",
+    "attack": 1400,
+    "defense": 1900,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

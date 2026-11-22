@@ -1,0 +1,15 @@
+{
+    "name": "Koa'ki Ring",
+    "filename": "Koa_ki_Ring",
+    "card_text": "Reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand to select 1 face-up monster on the field. Destroy that monster, and both players take 1000 damage.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [
+        "Iron Core of Koa'ki Meiru",
+        "Koa'ki Meiru Supplier"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

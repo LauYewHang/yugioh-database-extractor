@@ -1,0 +1,22 @@
+{
+    "name": "Xyz Poseidon Splash",
+    "filename": "Xyz_Poseidon_Splash",
+    "card_text": "If you control an Xyz Monster that has an Xyz Monster as material: Declare 1 monster Attribute on the field; destroy all monsters on the field with that Attribute, except monsters equipped with an Equip Spell. You can banish this card from your GY and detach 1 material from a monster you control; Special Summon 1 Fish, Sea Serpent, or Aqua monster from your GY to either field. You can only use 1 \"Xyz Poseidon Splash\" effect per turn, and only once that turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

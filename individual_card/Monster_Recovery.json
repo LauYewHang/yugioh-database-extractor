@@ -1,0 +1,15 @@
+{
+    "name": "Monster Recovery",
+    "filename": "Monster_Recovery",
+    "card_text": "Target 1 monster you control that is owned by you; if that monster is still on the field, shuffle it and your entire hand into the Deck, also, after that, draw cards equal to the number of cards you shuffled from your hand into the Deck by this effect. (You cannot activate this card if you have a card in your hand that is owned by your opponent.)",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "YUGI'S LEGENDARY DECKS",
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

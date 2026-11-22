@@ -1,0 +1,31 @@
+{
+    "name": "Deskbot 008",
+    "filename": "Deskbot_008",
+    "card_text": "This card gains 500 ATK for each \"Deskbot\" card in your Graveyard. Your opponent cannot target face-up \"Deskbot\" cards with card effects, except this one. This card can make up to 2 attacks on monsters during each Battle Phase.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Deskbot 001",
+        "Deskbot 002",
+        "Deskbot 003",
+        "Deskbot 004",
+        "Deskbot 005",
+        "Deskbot 006",
+        "Deskbot 007",
+        "Deskbot 009",
+        "Deskbot Base",
+        "Deskbot Jet"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8,
+    "pendulum_effect": "You cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.",
+    "pendulum_scale": 1
+}

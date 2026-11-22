@@ -1,0 +1,37 @@
+{
+    "name": "Cyber Angel Idaten",
+    "filename": "Cyber_Angel_Idaten",
+    "card_text": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can add 1 Ritual Spell from your Deck or GY to your hand. If this card is Tributed: You can make all Ritual Monsters you control gain 1000 ATK/DEF.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "The Lost Art Promotion 7",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Angel Izana",
+        "Cyber Angel Natasha",
+        "Cyber Eternal",
+        "Cyber Petit Angel",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Incarnated Machine Angel",
+        "Machine Angel Absolute Ritual",
+        "Machine Angel Ritual",
+        "Magnificent Machine Angel",
+        "Merciful Machine Angel",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

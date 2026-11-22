@@ -1,0 +1,18 @@
+{
+    "name": "Dark Rabbit",
+    "filename": "Dark_Rabbit",
+    "card_text": "He leaps up, down, and all around! Nobody can lay a hand on this funny bunny.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1100,
+    "defense": 1500,
+    "monster_type": "Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

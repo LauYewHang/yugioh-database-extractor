@@ -1,0 +1,40 @@
+{
+    "name": "Gravekeeper's Spiritualist",
+    "filename": "Gravekeeper_s_Spiritualist",
+    "card_text": "During your Main Phase, if \"Necrovalley\" is on the field: You can Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, using this card you control and other monsters from your hand or field as Fusion Material. You can only use this effect of \"Gravekeeper's Spiritualist\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Charm of Shabti",
+        "Gravekeeper's Cannonholder",
+        "Gravekeeper's Chief",
+        "Gravekeeper's Descendant",
+        "Gravekeeper's Headman",
+        "Gravekeeper's Nobleman",
+        "Gravekeeper's Oracle",
+        "Gravekeeper's Priestess",
+        "Gravekeeper's Recruiter",
+        "Gravekeeper's Shaman",
+        "Gravekeeper's Spy",
+        "Gravekeeper's Stele",
+        "Gravekeeper's Supernaturalist",
+        "Gravekeeper's Trap",
+        "Gravekeeper's Visionary",
+        "Hidden Temples of Necrovalley",
+        "Imperial Tombs of Necrovalley",
+        "Necrovalley",
+        "Necrovalley Temple",
+        "Necrovalley Throne",
+        "Rite of Spirit"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

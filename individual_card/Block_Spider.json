@@ -1,0 +1,17 @@
+{
+    "name": "Block Spider",
+    "filename": "Block_Spider",
+    "card_text": "Your opponent cannot target Insect-Type monsters for attacks, except this one. If this card is Special Summoned: You can Special Summon 1 \"Block Spider\" from your Deck. You can only use this effect of \"Block Spider\" once per turn.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 100,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

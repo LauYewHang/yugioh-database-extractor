@@ -1,0 +1,19 @@
+{
+    "name": "Unicycular",
+    "filename": "Unicycular",
+    "card_text": "The third of the brothers, following Tricular and Bicular.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Bicular"
+    ],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

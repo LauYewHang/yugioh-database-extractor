@@ -1,0 +1,39 @@
+{
+    "name": "Mariamne Paradox, the True Dracophoenix Knight",
+    "filename": "Mariamne_Paradox__the_True_Dracophoenix_Knight",
+    "card_text": "To Tribute Summon this card face-up, you can Tribute Continuous Spells/Traps you control, as well as monsters. You can only use each of the following effects of \"Mariamne Paradox, the True Dracophoenix Knight\" once per turn. If this card is in your hand: You can destroy 1 other \"True Draco\" or \"True King\" card in your hand or face-up field, and if you do, Special Summon this card to either field. If this card is Normal or Special Summoned from the hand: Banish the top 4 cards from your Deck.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "OTS TOURNAMENT PACK 30",
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Dinomight Knight, the True Dracofighter",
+        "Disciples of the True Dracophoenix",
+        "Draco Awakening",
+        "Dragonic Diagram",
+        "Dreiath III, the True Dracocavalry General",
+        "Forge of the True Dracos",
+        "Ignis Heat, the True Dracowarrior",
+        "Majesty Maiden, the True Dracocaster",
+        "Mariamne, the True Dracophoenix",
+        "Master Peace, the True Dracoslayer",
+        "Master Peace, the True Dracoslaying King",
+        "Master Peace, the True Dracoverlord",
+        "Metaltron XII, the True Dracombatant",
+        "True Draco Apocalypse",
+        "True Draco Heritage",
+        "True King Agnimazud, the Vanisher",
+        "True King Bahrastos, the Fathomer",
+        "True King Lithosagym, the Disaster",
+        "True King of All Calamities",
+        "True King's Return"
+    ],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": 1400,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

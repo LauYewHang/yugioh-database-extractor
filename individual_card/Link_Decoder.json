@@ -1,0 +1,17 @@
+{
+    "name": "Link Decoder",
+    "filename": "Link_Decoder",
+    "card_text": "1 Level 4 or lower Cyberse monster\nIf this card is sent to the GY as material for a Cyberse Link Monster with 2300 or more original ATK: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Link Decoder\" once per turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 300,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 4
+}

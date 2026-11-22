@@ -1,0 +1,32 @@
+{
+    "name": "Traptrix Allomerus",
+    "filename": "Traptrix_Allomerus",
+    "card_text": "2+ Level 4 monsters\nUnaffected by Trap effects while it has material. You can only use each of the following effects of \"Traptrix Allomerus\" once per turn.\n\u25cfYou can detach 2 materials from this card; Special Summon 1 Level 4 Insect or Plant monster from your GY.\n\u25cfIf an opponent's monster(s) leaves the field because of your card effect, and is now in the GY or banished (except during the Damage Step): You can detach 1 material from this card, then target 1 of them; Special Summon it to your field.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE",
+        "The Lost Art Promotion 8",
+        "2021 TIN OF ANCIENT BATTLES",
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX"
+    ],
+    "related_card": [
+        "Traptrip Garden",
+        "Traptrix Arachnocampa",
+        "Traptrix Atypus",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Holeutea",
+        "Traptrix Mantis",
+        "Traptrix Nepenthes",
+        "Traptrix Pinguicula",
+        "Traptrix Rafflesia",
+        "Traptrix Sera"
+    ],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 600,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

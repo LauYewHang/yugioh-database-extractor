@@ -1,0 +1,22 @@
+{
+    "name": "Spell Shattering Sword",
+    "filename": "Spell_Shattering_Sword",
+    "card_text": "Activate 1 of these effects;\n\u25cfDestroy all face-up Spells your opponent controls.\n\u25cfTarget 1 face-up monster your opponent controls; show 1 \"Light and Darkness Ritual\" in your hand or GY, then that monster's ATK becomes 0, also its effects are negated.\nIf this card in its owner's possession is destroyed by an opponent's card: You can destroy 1 card in your opponent's hand (at random) or their field. You can only activate 1 \"Spell Shattering Sword\" per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Black Chaos",
+        "Black Skull Dragon, the Archfiend of Unity",
+        "Celtic Mystic",
+        "Chaos Magical Hats",
+        "Chaos Mystic Box",
+        "Griffoh",
+        "Light and Darkness Ritual",
+        "Mind Shuffle",
+        "Skull Archfiend of Chaos"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

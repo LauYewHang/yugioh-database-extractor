@@ -1,0 +1,12 @@
+{
+    "name": "Treasure Map",
+    "filename": "Treasure_Map",
+    "card_text": "You can only activate this card in response to the activation of an effect that would return this card from the field to the hand. Draw 2 cards from your Deck and discard 1 card from your hand.",
+    "release_date": "2007-03-09",
+    "available_set": [
+        "DUELIST PACK SPECIAL EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

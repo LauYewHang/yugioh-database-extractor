@@ -1,0 +1,26 @@
+{
+    "name": "Walls of the Imperial Tomb",
+    "filename": "Walls_of_the_Imperial_Tomb",
+    "card_text": "This card's name becomes \"King's Sarcophagus\" while in the Field Zone. During your Main Phase: You can add 1 \"Horus\" monster from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck. You can only use this effect of \"Walls of the Imperial Tomb\" once per turn. If you activate the effect of \"Horus the Black Flame Deity\": You can draw 1 card.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Dark Horus",
+        "Duamutef, Blessing of Horus",
+        "Hapi, Guidance of Horus",
+        "Horus the Black Flame Deity",
+        "Horus the Black Flame Dragon LV4",
+        "Horus the Black Flame Dragon LV6",
+        "Horus the Black Flame Dragon LV8",
+        "Horus' Servant",
+        "Imsety, Glory of Horus",
+        "King's Sarcophagus",
+        "Metaphys Horus",
+        "Qebehsenuef, Protection of Horus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

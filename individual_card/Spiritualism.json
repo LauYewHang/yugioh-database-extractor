@@ -1,0 +1,15 @@
+{
+    "name": "Spiritualism",
+    "filename": "Spiritualism",
+    "card_text": "Target 1 Spell/Trap your opponent controls; return that target to the hand. This card's activation and effect cannot be negated.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Fire Trooper",
+    "filename": "Fire_Trooper",
+    "card_text": "When this card is Summoned, you can send it to the Graveyard to inflict 1000 damage to your opponent.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

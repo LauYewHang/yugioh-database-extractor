@@ -1,0 +1,19 @@
+{
+    "name": "Leng Ling",
+    "filename": "Leng_Ling",
+    "card_text": "Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. The original ATK of a monster equipped with this card becomes 1000, it can make a second attack during each Battle Phase, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK",
+        "STRUCTURE DECK: CYBER STRIKE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

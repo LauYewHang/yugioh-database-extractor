@@ -1,0 +1,17 @@
+{
+    "name": "Doctor Cranium",
+    "filename": "Doctor_Cranium",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard, you can pay 800 Life Points to add 1 Psychic-Type monster from your Deck to your hand.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

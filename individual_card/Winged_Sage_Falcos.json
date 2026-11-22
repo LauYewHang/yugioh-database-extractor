@@ -1,0 +1,21 @@
+{
+    "name": "Winged Sage Falcos",
+    "filename": "Winged_Sage_Falcos",
+    "card_text": "When this card destroys an opponent's face-up Attack Position monster by battle and sends it to their Graveyard: You can place that monster on top of their Deck.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "PHARAONIC GUARDIAN",
+        "DARK REVELATION Volume 1",
+        "TOURNAMENT PACK 5",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

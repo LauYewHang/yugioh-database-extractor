@@ -1,0 +1,35 @@
+{
+    "name": "Performage Trapeze Witch",
+    "filename": "Performage_Trapeze_Witch",
+    "card_text": "2 \"Performage\" monsters\n\"Performage\" monsters you control cannot be destroyed by your card effects, also your opponent cannot target them with card effects. While you control a \"Performage\" monster, except \"Performage Trapeze Witch\", your opponent's monsters cannot target this card for attacks. When an attack is declared involving your \"Performage\" monster and an opponent's monster: You can make that opponent's monster lose 600 ATK.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Bubble Barrier",
+        "Performage Ball Balancer",
+        "Performage Cup Tricker",
+        "Performage Damage Juggler",
+        "Performage Fire Dancer",
+        "Performage Flame Eater",
+        "Performage Hat Tricker",
+        "Performage Mirror Conductor",
+        "Performage Plushfire",
+        "Performage Shadow Maker",
+        "Performage Stilts Launcher",
+        "Performage Trapeze High Magician",
+        "Performage Trapeze Magician",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Performage Wind Drainer",
+        "Trick Box"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

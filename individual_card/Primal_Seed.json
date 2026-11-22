@@ -1,0 +1,18 @@
+{
+    "name": "Primal Seed",
+    "filename": "Primal_Seed",
+    "card_text": "If there is a \"Black Luster Soldier - Envoy of the Beginning\" or \"Chaos Emperor Dragon - Envoy of the End\" on the field: Target 2 of your banished cards; add both those targets to your hand.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "TURBO PACK BOOSTER SEVEN",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Black Luster Soldier - Envoy of the Beginning",
+        "Chaos Emperor Dragon - Envoy of the End"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

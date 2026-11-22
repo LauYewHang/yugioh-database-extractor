@@ -1,0 +1,20 @@
+{
+    "name": "Re-Cover",
+    "filename": "Re_Cover",
+    "card_text": "If this card is in the GY and your opponent has 5 or more cards in their Extra Deck than you do: You can pay 2000 LP; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Re-Cover\" once per turn.",
+    "release_date": "2014-06-13",
+    "available_set": [
+        "PRIMAL ORIGIN DELUXE EDITION",
+        "GHOSTS FROM THE PAST",
+        "DUELIST ALLIANCE",
+        "MASTER OF PENDULUM STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 700,
+    "defense": 300,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

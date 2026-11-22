@@ -1,0 +1,23 @@
+{
+    "name": "Masked Dragon",
+    "filename": "Masked_Dragon",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Dragon-Type monster with 1500 or less ATK from your Deck.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "DARK REVELATION Volume 3",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "TURBO PACK BOOSTER SIX",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "DUEL TERMINAL 4"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1400,
+    "defense": 1100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

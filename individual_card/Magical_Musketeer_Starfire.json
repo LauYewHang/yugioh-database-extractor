@@ -1,0 +1,33 @@
+{
+    "name": "Magical Musketeer Starfire",
+    "filename": "Magical_Musketeer_Starfire",
+    "card_text": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column (except during the Damage Step): You can Special Summon 1 Level 4 or lower \"Magical Musket\" monster from your Deck in Defense Position, except \"Magical Musketeer Starfire\". You can only use this effect of \"Magical Musketeer Starfire\" once per turn.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS",
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Desperado",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Wild"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1300,
+    "defense": 1700,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

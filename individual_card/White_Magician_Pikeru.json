@@ -1,0 +1,22 @@
+{
+    "name": "White Magician Pikeru",
+    "filename": "White_Magician_Pikeru",
+    "card_text": "During your Standby Phase, increase your Life Points by 400 points for each monster on your side of the field.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "DARK REVELATION Volume 2",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [
+        "Trial of the Princesses"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

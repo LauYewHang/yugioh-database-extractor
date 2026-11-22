@@ -1,0 +1,35 @@
+{
+    "name": "Hieratic Seal of the Heavenly Spheres",
+    "filename": "Hieratic_Seal_of_the_Heavenly_Spheres",
+    "card_text": "2 Dragon monsters\nOnce per opponent's turn, if this card is in the Extra Monster Zone (Quick Effect): You can Tribute 1 monster from your hand or field; return 1 face-up card on the field to the hand. If this card is Tributed: Special Summon 1 Dragon monster from your hand or Deck, and make its ATK/DEF 0. You can only use this effect of \"Hieratic Seal of the Heavenly Spheres\" once per turn.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "GHOSTS FROM THE PAST",
+        "DUEL POWER",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Hieratic Dragon of Asar",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Su",
+        "Hieratic Seal From the Ashes",
+        "Hieratic Seal of Banishment",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Creation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Ancient Elf",
+    "filename": "Ancient_Elf",
+    "card_text": "This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [
+        "Mystical Sand"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1450,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

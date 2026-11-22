@@ -1,0 +1,25 @@
+{
+    "name": "Curse of Dragon, the Cursed Dragon",
+    "filename": "Curse_of_Dragon__the_Cursed_Dragon",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your Deck to your hand, that specifically lists the card \"Gaia the Dragon Champion\" in its text. If this card is sent to the GY: You can target 1 \"Gaia the Dragon Champion\" in your Monster Zone; negate the effects of face-up monsters your opponent currently controls with ATK less than or equal to it until the end of this turn. You can only use each effect of \"Curse of Dragon, the Cursed Dragon\" once per turn.",
+    "release_date": "2020-07-03",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "RISE OF THE DUELIST",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Galloping Gaia",
+        "Spiral Discharge",
+        "Spiral Fusion",
+        "Spiral Reborn",
+        "Spiral Spear Strike"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

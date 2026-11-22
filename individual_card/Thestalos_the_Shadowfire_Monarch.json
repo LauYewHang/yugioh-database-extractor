@@ -1,0 +1,17 @@
+{
+    "name": "Thestalos the Shadowfire Monarch",
+    "filename": "Thestalos_the_Shadowfire_Monarch",
+    "card_text": "You can Tribute Summon this card by Tributing 1 monster your opponent controls and 1 Tribute Summoned monster you control. If this card is Tribute Summoned: You can banish 1 random card from your opponent's hand, and if you do, inflict 1000 damage to your opponent, then, if this card was Tribute Summoned by Tributing a Level 8 or higher Tribute Summoned monster, you can apply this effect.\n\u25cfBanish 1 card on the field, and if it was a FIRE or DARK Monster Card, inflict damage to your opponent equal to its original Level x 200.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": 1000,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

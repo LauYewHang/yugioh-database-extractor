@@ -1,0 +1,37 @@
+{
+    "name": "Kozmo Scaredy Lion",
+    "filename": "Kozmo_Scaredy_Lion",
+    "card_text": "During either player's turn: You can banish this card; Special Summon 1 Level 3 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmo Scaredy Lion\" once per turn. Once per turn: You can pay 500 LP, then target 3 of your banished \"Kozmo\" monsters; return them to the Graveyard, and if you do, inflict 500 damage to your opponent.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES"
+    ],
+    "related_card": [
+        "Kozmo Dark Destroyer",
+        "Kozmo Dark Eclipser",
+        "Kozmo Dark Planet",
+        "Kozmo Delta Shuttle",
+        "Kozmo DOG Fighter",
+        "Kozmo Farmgirl",
+        "Kozmo Forerunner",
+        "Kozmo Goodwitch",
+        "Kozmo Landwalker",
+        "Kozmo Lightsword",
+        "Kozmo Sliprider",
+        "Kozmo Soartroopers",
+        "Kozmo Strawman",
+        "Kozmo Tincan",
+        "Kozmojo",
+        "Kozmoll Dark Lady",
+        "Kozmoll Wickedwitch",
+        "Kozmotown",
+        "Kozmourning"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 500,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

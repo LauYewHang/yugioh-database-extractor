@@ -1,0 +1,30 @@
+{
+    "name": "Appliancer Propelion",
+    "filename": "Appliancer_Propelion",
+    "card_text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. This card can attack directly. Once per turn, during damage calculation, if your monster battles an opponent's monster, while this card is co-linked (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only. Once per turn, during damage calculation, if this monster that is not co-linked battles an opponent's monster (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Appliancer Breakerbuncle",
+        "Appliancer Celtopus",
+        "Appliancer Conversion",
+        "Appliancer Copybokkle",
+        "Appliancer Dryer Drake",
+        "Appliancer Electrilyrical World",
+        "Appliancer Kappa Scale",
+        "Appliancer Laundry Dragon",
+        "Appliancer Reuse",
+        "Appliancer Socketroll",
+        "Appliancer Test",
+        "Appliancer Vacculephant"
+    ],
+    "attribute": "WIND",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 256
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Altergeist Dragvirion",
+    "filename": "Altergeist_Dragvirion",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nWhen an opponent's Special Summoned monster declares an attack: You can return 1 \"Altergeist\" monster you control to the hand; negate that attack. If this card is Tributed and sent to the GY: You can Special Summon this card. You can only use each effect of \"Altergeist Dragvirion\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Altergeist Adminia",
+        "Altergeist Camouflage",
+        "Altergeist Emulatelf",
+        "Altergeist Failover",
+        "Altergeist Fifinellag",
+        "Altergeist Fijialert",
+        "Altergeist Haunted Rock",
+        "Altergeist Hexstia",
+        "Altergeist Kidolga",
+        "Altergeist Kunquery",
+        "Altergeist Malwisp",
+        "Altergeist Manifestation",
+        "Altergeist Marionetter",
+        "Altergeist Meluseek",
+        "Altergeist Memorygant",
+        "Altergeist Multifaker",
+        "Altergeist Peritrator",
+        "Altergeist Pixiel",
+        "Altergeist Pookuery",
+        "Altergeist Primebanshee",
+        "Altergeist Protocol",
+        "Altergeist Revitalization",
+        "Altergeist Silquitous",
+        "Personal Spoofing"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

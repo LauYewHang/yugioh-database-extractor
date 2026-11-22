@@ -1,0 +1,24 @@
+{
+    "name": "Fossil Warrior Skull Bone",
+    "filename": "Fossil_Warrior_Skull_Bone",
+    "card_text": "1 Rock monster + 1 Level 4 or lower monster\nMust first be Special Summoned with \"Fossil Fusion\". This card can make up to 2 attacks on monsters during each Battle Phase. You can banish this card from your GY; add 1 \"Time Stream\" from your Deck to your hand. You can only use this effect of \"Fossil Warrior Skull Bone\" once per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Flint Cragger",
+        "Fossil Fusion",
+        "Time Stream",
+        "Weathering Soldier"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 800,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

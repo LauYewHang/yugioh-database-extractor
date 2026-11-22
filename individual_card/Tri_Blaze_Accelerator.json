@@ -1,0 +1,25 @@
+{
+    "name": "Tri-Blaze Accelerator",
+    "filename": "Tri_Blaze_Accelerator",
+    "card_text": "Activate this card by sending 1 face-up \"Blaze Accelerator\" you control to the GY. During your Main Phase: You can target 1 monster your opponent controls; send 1 Pyro monster from your hand to the GY, and if you do, destroy that target, and if you do that, inflict 500 damage to your opponent. Your monsters cannot attack the turn you activate this effect.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Blaze Accelerator",
+        "Blaze Accelerator Reload",
+        "Blaze Cannon",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Doomfire",
+        "Volcanic Emperor",
+        "Volcanic Rimfire",
+        "Volcanic Rocket",
+        "Volcanic Scattershot",
+        "Wild Fire"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

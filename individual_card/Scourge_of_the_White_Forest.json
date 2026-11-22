@@ -1,0 +1,31 @@
+{
+    "name": "Scourge of the White Forest",
+    "filename": "Scourge_of_the_White_Forest",
+    "card_text": "Tribute 1 Synchro Monster, then target 1 face-up card on the field; negate its effects (until the end of this turn), then if you Tributed a \"White Forest\" Synchro Monster to activate this effect, you can Special Summon 1 Illusion monster from your GY. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of \"Scourge of the White Forest\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Astellar of the White Forest",
+        "Azamina Aphes",
+        "Beware the White Forest",
+        "Diabell, Queen of the White Forest",
+        "Diabellze the White Witch",
+        "Elzette of the White Forest",
+        "Elzette, Azamina of the White Forest",
+        "Poplar of the White Forest",
+        "Queen Azamina",
+        "Rciela, Sinister Soul of the White Forest",
+        "Rucia of the White Forest",
+        "Silvera, Wolf Tamer of the White Forest",
+        "Silvy of the White Forest",
+        "Sinful Spoils of the White Forest",
+        "Tales of the White Forest",
+        "Witch of the White Forest",
+        "Woes of the White Forest"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

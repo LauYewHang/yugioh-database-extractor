@@ -1,0 +1,13 @@
+{
+    "name": "Sorcerous Spell Wall",
+    "filename": "Sorcerous_Spell_Wall",
+    "card_text": "All monsters you control gain 300 ATK during your turn only. All monsters you control gain 300 DEF during your opponent's turn only.",
+    "release_date": "2014-07-11",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "SUPER STARTER SPACE-TIME SHOWDOWN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

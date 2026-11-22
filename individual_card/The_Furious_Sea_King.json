@@ -1,0 +1,18 @@
+{
+    "name": "The Furious Sea King",
+    "filename": "The_Furious_Sea_King",
+    "card_text": "Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 700,
+    "monster_type": "Aqua",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

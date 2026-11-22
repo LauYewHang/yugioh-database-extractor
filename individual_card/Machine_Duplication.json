@@ -1,0 +1,23 @@
+{
+    "name": "Machine Duplication",
+    "filename": "Machine_Duplication",
+    "card_text": "Target 1 Machine monster you control with 500 or less ATK; Special Summon up to 2 monsters from your Deck with the same name as that face-up monster.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 3",
+        "MACHINE REACTOR STRUCTURE DECK",
+        "ASTRAL PACK EIGHT",
+        "Gold Series: Maximum Gold",
+        "RISE OF DESTINY",
+        "STRUCTURE DECK MACHINE RE-VOLT",
+        "AMAZING DEFENDERS",
+        "MACHINA MAYHEM STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 8",
+        "STRUCTURE DECK: CYBER STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

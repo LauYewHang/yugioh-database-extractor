@@ -1,0 +1,18 @@
+{
+    "name": "Gale Dogra",
+    "filename": "Gale_Dogra",
+    "card_text": "You can pay 3000 LP; send 1 monster from your Extra Deck to the GY.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "STRUCTURE DECK: CYBER STRIKE",
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 650,
+    "defense": 600,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

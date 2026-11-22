@@ -1,0 +1,14 @@
+{
+    "name": "Dominus Spiral",
+    "filename": "Dominus_Spiral",
+    "card_text": "During the turn in which your opponent has activated a monster effect in the hand or GY, you can activate this card from your hand. Target 1 monster your opponent controls; return it to the hand/Extra Deck, then if you have no Traps in your GY, your opponent can Special Summon 1 monster from their GY. If you activated this card from your hand, you cannot activate the effects of LIGHT or DARK monsters for the rest of this Duel. You can only activate 1 \"Dominus Spiral\" per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Songs of the Dominators"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

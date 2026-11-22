@@ -1,0 +1,12 @@
+{
+    "name": "Psychic Path",
+    "filename": "Psychic_Path",
+    "card_text": "Pay 800 Life Points and select up to 2 of your removed from play Psychic-Type monsters. Add them to your hand.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

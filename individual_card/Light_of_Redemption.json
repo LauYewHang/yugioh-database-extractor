@@ -1,0 +1,14 @@
+{
+    "name": "Light of Redemption",
+    "filename": "Light_of_Redemption",
+    "card_text": "Pay 800 Life Points, then target 1 of your banished LIGHT monsters; add that target to your hand.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

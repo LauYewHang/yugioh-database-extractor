@@ -1,0 +1,13 @@
+{
+    "name": "Overdoom Line",
+    "filename": "Overdoom_Line",
+    "card_text": "If a Plant-Type monster(s) is Special Summoned from the Graveyard to your side of the field: It gains 1000 ATK while this card is face-up on the field. Destroy this card during your 2nd End Phase after activation.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

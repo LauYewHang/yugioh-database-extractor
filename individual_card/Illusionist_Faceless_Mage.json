@@ -1,0 +1,21 @@
+{
+    "name": "Illusionist Faceless Mage",
+    "filename": "Illusionist_Faceless_Mage",
+    "card_text": "Manipulates enemy attacks with the power of illusion.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "STARTER DECK PEGASUS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 2200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

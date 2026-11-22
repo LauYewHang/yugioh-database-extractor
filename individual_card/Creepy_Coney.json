@@ -1,0 +1,17 @@
+{
+    "name": "Creepy Coney",
+    "filename": "Creepy_Coney",
+    "card_text": "FLIP: Inflict 1000 damage to your opponent for each face-up Normal Monster you control, except Tokens.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1900,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

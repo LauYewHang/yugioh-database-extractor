@@ -1,0 +1,34 @@
+{
+    "name": "Fortune Lady Water",
+    "filename": "Fortune_Lady_Water",
+    "card_text": "This card's ATK/DEF become its Level x 300. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). If this card is Special Summoned while you control a \"Fortune Lady\" monster except \"Fortune Lady Water\": Draw 2 cards.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "OTS TOURNAMENT PACK 11",
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Bending Destiny",
+        "Fortune Lady Calling",
+        "Fortune Lady Dark",
+        "Fortune Lady Earth",
+        "Fortune Lady Every",
+        "Fortune Lady Fire",
+        "Fortune Lady Light",
+        "Fortune Lady Past",
+        "Fortune Lady Rewind",
+        "Fortune Lady Wind",
+        "Fortune Vision",
+        "Fortune's Future",
+        "Inherited Fortune",
+        "Solitaire Magician",
+        "Time Passage"
+    ],
+    "attribute": "WATER",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

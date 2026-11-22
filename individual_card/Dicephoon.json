@@ -1,0 +1,15 @@
+{
+    "name": "Dicephoon",
+    "filename": "Dicephoon",
+    "card_text": "Roll a six-sided die and apply the result.\n\u25cf2, 3, or 4: Destroy 1 Spell/Trap on the field.\n\u25cf5: Destroy 2 Spells/Traps on the field.\n\u25cf1 or 6: You take 1000 damage.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "ORDER OF CHAOS",
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

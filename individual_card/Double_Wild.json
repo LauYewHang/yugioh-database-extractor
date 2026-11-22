@@ -1,0 +1,12 @@
+{
+    "name": "Double Wild",
+    "filename": "Double_Wild",
+    "card_text": "Target 1 Level 5 or lower monster you control; add 1 Level 10 monster from your Deck to your hand with the same original Type, then you can discard 1 card, and if you do, Special Summon 1 monster from your hand with that same Type, in Defense Position. You cannot Special Summon for the rest of this turn after this card resolves, except monsters with that original Type. You can only activate 1 \"Double Wild\" per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

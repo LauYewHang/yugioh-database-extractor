@@ -1,0 +1,17 @@
+{
+    "name": "Traffic Ghost",
+    "filename": "Traffic_Ghost",
+    "card_text": "3 monsters",
+    "release_date": "2018-08-10",
+    "available_set": [
+        "STRUCTURE DECK: POWERCODE LINK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Link",
+    "link_rating": 3,
+    "link_arrow": 14
+}

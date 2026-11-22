@@ -1,0 +1,19 @@
+{
+    "name": "Time Wizard of Tomorrow",
+    "filename": "Time_Wizard_of_Tomorrow",
+    "card_text": "\"Time Wizard\" + 1 Effect Monster\nOnce per turn, while you control this Fusion Summoned card: You can toss a coin and call it. Destroy as many monsters on the field as possible, and if you do, inflict damage equal to half the total original ATK of the destroyed face-up monsters. If you called the coin toss right, your opponent takes the damage, if you called it wrong, you take the damage.",
+    "release_date": "2020-09-11",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
+    ],
+    "related_card": [
+        "Time Wizard"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 1900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Final Geas",
+    "filename": "Final_Geas",
+    "card_text": "If a monster(s) with an original Level of 7 or higher is sent from each player's field to the Graveyard this turn: Banish as many monsters from the Graveyards as possible, then you can Special Summon the 1 highest-Level Spellcaster-Type monster among those banished monsters to your field (your choice, if tied).",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

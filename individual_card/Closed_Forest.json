@@ -1,0 +1,14 @@
+{
+    "name": "Closed Forest",
+    "filename": "Closed_Forest",
+    "card_text": "All Beast-Type monsters you control gain 100 ATK for each monster in your Graveyard. Field Spell Cards cannot be activated. Field Spell Cards cannot be activated during the turn this card is destroyed.",
+    "release_date": "2010-12-07",
+    "available_set": [
+        "Yu-Gi-Oh! 5D's DuelTranser Bundles",
+        "ASTRAL PACK ONE",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

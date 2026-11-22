@@ -1,0 +1,40 @@
+{
+    "name": "Elementsaber Aina",
+    "filename": "Elementsaber_Aina",
+    "card_text": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 \"Elementsaber\" monster (except \"Elementsaber Aina\") or \"Elemental Lord\" monster (that has been properly Summoned) in your GY; Special Summon it, ignoring its Summoning conditions. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Commander Gottoms, Swordmaster",
+        "Commander Souza, Swordmaster",
+        "Elemental Training",
+        "Elementsaber Lapauila",
+        "Elementsaber Lapauila Mana",
+        "Elementsaber Makani",
+        "Elementsaber Malo",
+        "Elementsaber Molehu",
+        "Elementsaber Nalu",
+        "Grandsoil the Elemental Lord",
+        "Moulinglacia the Elemental Lord",
+        "Palace of the Elemental Lords",
+        "Phosphorage the Elemental Lord",
+        "Pyrorex the Elemental Lord",
+        "Saber Reflection",
+        "Umbramirage the Elemental Lord",
+        "Windrose the Elemental Lord",
+        "X-Saber Axel",
+        "X-Saber Bruno",
+        "X-Saber Galahad",
+        "X-Saber Gottoms",
+        "X-Saber Palomuro"
+    ],
+    "attribute": "EARTH",
+    "attack": 900,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

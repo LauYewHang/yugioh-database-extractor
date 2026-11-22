@@ -1,0 +1,25 @@
+{
+    "name": "Megamorph",
+    "filename": "Megamorph",
+    "card_text": "While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DARK LEGENDS",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "DARK BEGINNING 1",
+        "STARTER DECK KAIBA Evolution",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "STRUCTURE DECK : SETO KAIBA",
+        "RETRO PACK",
+        "DUEL TERMINAL 4",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "TOURNAMENT PACK 4",
+        "SPELL RULER",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

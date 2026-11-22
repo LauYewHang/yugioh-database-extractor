@@ -1,0 +1,31 @@
+{
+    "name": "Heroic Champion - Kusanagi",
+    "filename": "Heroic_Champion___Kusanagi",
+    "card_text": "3 Level 4 Warrior-Type monsters\nOnce per turn, during either player's turn, when a Trap Card is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it, then this card gains 500 ATK.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "Gagaga Magician - Gagaga Magic",
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Retribution Sword"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2400,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Sangan",
+    "filename": "Sangan",
+    "card_text": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "TURBO PACK BOOSTER SIX",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "HOBBY LEAGUE 2",
+        "STARTER DECK JOEY",
+        "GOLD SERIES 2009",
+        "STARTER DECK XYZ SYMPHONY",
+        "DARK LEGENDS",
+        "TOON CHAOS",
+        "STARTER DECK YUGI Evolution",
+        "RETRO PACK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK BEGINNING 2",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "STARTER DECK - LINK STRIKE -",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "QUARTER CENTURY BONANZA",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Sanwitch"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 600,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

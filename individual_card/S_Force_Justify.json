@@ -1,0 +1,38 @@
+{
+    "name": "S-Force Justify",
+    "filename": "S_Force_Justify",
+    "card_text": "3 Effect Monsters, including an \"S-Force\" monster\nYou cannot Summon/Set monsters to a zone(s) this card points to. (Quick Effect): You can target 1 face-up Effect Monster your opponent controls; negate its effects until the end of this turn, then you can move that opponent's monster to their Monster Zone this card points to. You can only use this effect of \"S-Force Justify\" once per turn. At the start of the Damage Step, if this card attacks: You can banish all monsters this card points to.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2600,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 896
+}

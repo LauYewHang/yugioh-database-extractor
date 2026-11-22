@@ -1,0 +1,18 @@
+{
+    "name": "Garoozis",
+    "filename": "Garoozis",
+    "card_text": "An axe-swinging beast-warrior with the head of a dragon.",
+    "release_date": "2002-10-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "TOURNAMENT PACK 2ND SEASON"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Symphonic Warrior Guitariss",
+    "filename": "Symphonic_Warrior_Guitariss",
+    "card_text": "If \"Symph Amplifire\" is in your Field Zone: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 card in your Pendulum Zone; return it to the hand. You can only use each effect of \"Symphonic Warrior Guitariss\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Generalprobe",
+        "Symph Amplifire",
+        "Symphonic Warrior Basses",
+        "Symphonic Warrior DJJ",
+        "Symphonic Warrior Drumss",
+        "Symphonic Warrior Guitaar",
+        "Symphonic Warrior Miccs",
+        "Symphonic Warrior Piaano",
+        "Symphonic Warrior Rockks",
+        "Symphonic Warrior Synthess"
+    ],
+    "attribute": "WIND",
+    "attack": 1100,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3,
+    "pendulum_effect": "You can target 1 other \"Symphonic Warrior\" card you control; return both that card and this card to the hand. You can only use this effect of \"Symphonic Warrior Guitariss\" once per turn.",
+    "pendulum_scale": 0
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Tearlaments Sulliek",
+    "filename": "Tearlaments_Sulliek",
+    "card_text": "If you control a \"Tearlaments\" monster or \"Visas Starfrost\": You can target 1 Effect Monster your opponent controls; negate its effects, then send 1 monster you control to the GY. If this card is sent to the GY by card effect: You can add 1 \"Tearlaments\" monster from your Deck to your hand. You can only use each effect of \"Tearlaments Sulliek\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Primeval Planet Perlereino",
+        "Tearlaments Cryme",
+        "Tearlaments Grief",
+        "Tearlaments Havnis",
+        "Tearlaments Heartbeat",
+        "Tearlaments Kaleido-Heart",
+        "Tearlaments Kashtira",
+        "Tearlaments Kitkallos",
+        "Tearlaments Merrli",
+        "Tearlaments Metanoise",
+        "Tearlaments Perlegia",
+        "Tearlaments Reinoheart",
+        "Tearlaments Rulkallos",
+        "Tearlaments Scheiren",
+        "Tearlaments Scream",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Guerilla Kite",
+    "filename": "Guerilla_Kite",
+    "card_text": "If this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent. You can only use this effect of \"Guerilla Kite\" once per turn.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

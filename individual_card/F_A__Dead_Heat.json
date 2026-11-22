@@ -1,0 +1,34 @@
+{
+    "name": "F.A. Dead Heat",
+    "filename": "F_A__Dead_Heat",
+    "card_text": "When an opponent's monster declares a direct attack: You can Special Summon 1 \"F.A.\" monster from your Deck. You can only use this effect of \"F.A. Dead Heat\" once per turn. Once per battle, if your \"F.A.\" monster battles an opponent's monster, before damage calculation: You can have both players roll a six-sided die. If your result is higher, increase the Level of your battling monster by 4, until the end of this turn (even if this card leaves the field). If your result is lower, destroy your battling monster. If it's a tie, both players roll again.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "F.A. Auto Navigator",
+        "F.A. Circuit Grand Prix",
+        "F.A. City Grand Prix",
+        "F.A. Dark Dragster",
+        "F.A. Dawn Dragster",
+        "F.A. Downforce",
+        "F.A. Hang On Mach",
+        "F.A. Motorhome Transport",
+        "F.A. Off-Road Grand Prix",
+        "F.A. Overheat",
+        "F.A. Pit Stop",
+        "F.A. Shining Star GT",
+        "F.A. Sonic Meister",
+        "F.A. Test Run",
+        "F.A. Turbo Charger",
+        "F.A. Whip Crosser",
+        "F.A. Winners",
+        "U.A. Hyper Stadium",
+        "U.A. Locker Room",
+        "U.A. Man of the Match"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

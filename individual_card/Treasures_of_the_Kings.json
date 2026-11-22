@@ -1,0 +1,24 @@
+{
+    "name": "Treasures of the Kings",
+    "filename": "Treasures_of_the_Kings",
+    "card_text": "When this card is activated: You can Set 1 \"Apophis\" Trap from your Deck. This card's name becomes \"Temple of the Kings\" while in the Field Zone. Once per turn, if you have 2 or more Set cards on your field, or a Trap in your GY: You can add 1 monster that mentions \"Temple of the Kings\" from your Deck to your hand. You can only activate 1 \"Treasures of the Kings\" per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Anubis the Last Judge",
+        "Apophis the Serpent",
+        "Apophis the Swamp Deity",
+        "Defense of the Temple",
+        "Divine Serpent Apophis",
+        "Embodiment of Apophis",
+        "Merciless Scorpion of Serket",
+        "Mystical Beast of Serket",
+        "Temple of the Kings",
+        "The Man with the Mark",
+        "Verdict of Anubis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

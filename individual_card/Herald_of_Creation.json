@@ -1,0 +1,24 @@
+{
+    "name": "Herald of Creation",
+    "filename": "Herald_of_Creation",
+    "card_text": "Once per turn: You can discard 1 card, then target 1 Level 7 or higher monster in your Graveyard; add that target to your hand.",
+    "release_date": "2007-10-24",
+    "available_set": [
+        "CHAMPION PACK GAME EIGHT",
+        "STARTER DECK SABER FORCE (US)",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DRAGONS COLLIDE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

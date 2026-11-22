@@ -1,0 +1,14 @@
+{
+    "name": "Ground Collapse",
+    "filename": "Ground_Collapse",
+    "card_text": "Select 2 Main Monster Zones on the field. Neither player can use the selected zones. You cannot select a zone that is occupied by a Monster Card.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

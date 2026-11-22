@@ -1,0 +1,38 @@
+{
+    "name": "Gaia the Magical Knight",
+    "filename": "Gaia_the_Magical_Knight",
+    "card_text": "(This card is also always treated as a \"Gaia The Fierce Knight\" card.)\nIf you control no monsters, or your opponent controls a monster with 2300 or more ATK, you can Normal Summon this card without Tributing. If this card is Normal or Special Summoned: You can Special Summon 1 Level 5 Dragon monster from your hand or GY in Defense Position. You can only use this effect of \"Gaia the Magical Knight\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Artillery Catapult Turtle",
+        "Beginning of Heaven and Earth",
+        "Black Luster Soldier - Super Soldier",
+        "Charging Gaia the Fierce Knight",
+        "Envoy of Chaos",
+        "Gaia the Dragon Champion",
+        "Gaia The Fierce Knight",
+        "Gaia the Fierce Knight Origin",
+        "Gaia the Magical Knight of Dragons",
+        "Galloping Gaia",
+        "Gateway to Chaos",
+        "Heart of Gaia",
+        "Lord Gaia the Fierce Knight",
+        "Skilled Blue Magician",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Soldier Gaia The Fierce Knight",
+        "Spiral Spear Strike",
+        "Swift Gaia the Fierce Knight"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

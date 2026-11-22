@@ -1,0 +1,26 @@
+{
+    "name": "Divine Temple of the Snake-Eye",
+    "filename": "Divine_Temple_of_the_Snake_Eye",
+    "card_text": "When this card is activated: You can place 1 \"Snake-Eye\" monster from your hand, Deck, or GY face-up in its owner's Spell & Trap Zone as a Continuous Spell. Level 1 FIRE monsters you control gain 1100 ATK. Once per turn, if your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 Monster Card on the field treated as a Continuous Spell; Special Summon it to your field. You can only activate 1 \"Divine Temple of the Snake-Eye\" per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Dramatic Snake-Eye Chase",
+        "Original Sinful Spoils - Snake-Eye",
+        "Sinful Spoils of Subversion - Snake-Eye",
+        "Snake-Eye Ash",
+        "Snake-Eye Birch",
+        "Snake-Eye Oak",
+        "Snake-Eyes Diabellstar",
+        "Snake-Eyes Doomed Dragon",
+        "Snake-Eyes Flamberge Dragon",
+        "Snake-Eyes Poplar",
+        "Snake-Eyes Vengeance Dragon",
+        "Startling Stare of the Snake-Eyes"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

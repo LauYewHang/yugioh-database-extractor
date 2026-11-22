@@ -1,0 +1,14 @@
+{
+    "name": "Curse of Aging",
+    "filename": "Curse_of_Aging",
+    "card_text": "Discard 1 card; all monsters your opponent currently controls lose 500 ATK/DEF until the end of this turn.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

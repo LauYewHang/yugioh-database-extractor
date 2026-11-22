@@ -1,0 +1,12 @@
+{
+    "name": "Tuner Capture",
+    "filename": "Tuner_Capture",
+    "card_text": "Activate only when your opponent Synchro Summons a monster. Special Summon 1 Tuner Monster used for that Synchro Summon from their Graveyard to your side of the field.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

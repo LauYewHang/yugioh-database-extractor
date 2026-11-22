@@ -1,0 +1,39 @@
+{
+    "name": "Marincess Dive",
+    "filename": "Marincess_Dive",
+    "card_text": "Activate 1 of the following effects. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except WATER monsters.\n\u25cfTarget 1 non-Link \"Marincess\" monster in your GY; Special Summon it.\n\u25cfIf \"Marincess Battle Ocean\" is in your Field Zone: Special Summon 1 \"Marincess\" monster from your Deck.\nYou can only activate 1 \"Marincess Dive\" per turn.",
+    "release_date": "2022-06-17",
+    "available_set": [
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
+    ],
+    "related_card": [
+        "Marincess Aqua Argonaut",
+        "Marincess Basilalima",
+        "Marincess Battle Ocean",
+        "Marincess Blue Slug",
+        "Marincess Blue Tang",
+        "Marincess Bubble Ring",
+        "Marincess Cascade",
+        "Marincess Circulation",
+        "Marincess Coral Anemone",
+        "Marincess Coral Triangle",
+        "Marincess Crown Tail",
+        "Marincess Crystal Heart",
+        "Marincess Current",
+        "Marincess Great Bubble Reef",
+        "Marincess Mandarin",
+        "Marincess Marbled Rock",
+        "Marincess Pascalus",
+        "Marincess Sea Angel",
+        "Marincess Sea Horse",
+        "Marincess Sea Star",
+        "Marincess Sleepy Maiden",
+        "Marincess Snow",
+        "Marincess Springirl",
+        "Marincess Wave",
+        "Marincess Wonder Heart",
+        "Trickstar Aqua Angel"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

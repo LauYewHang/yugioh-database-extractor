@@ -1,0 +1,33 @@
+{
+    "name": "Geomathmech Magma",
+    "filename": "Geomathmech_Magma",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nWhen this card destroys a monster by battle: You can target up to 2 cards your opponent controls; destroy them. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 \"Mathmech\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Geomathmech Magma\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Geomathmech Final Sigma",
+        "Mathmech Addition",
+        "Mathmech Billionblade Nayuta",
+        "Mathmech Circular",
+        "Mathmech Diameter",
+        "Mathmech Division",
+        "Mathmech Equation",
+        "Mathmech Induction",
+        "Mathmech Multiplication",
+        "Mathmech Nabla",
+        "Mathmech Sigma",
+        "Mathmech Subtraction",
+        "Mathmech Superfactorial",
+        "Primathmech Alembertian",
+        "Primathmech Laplacian"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

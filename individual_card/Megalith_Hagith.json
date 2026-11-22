@@ -1,0 +1,31 @@
+{
+    "name": "Megalith Hagith",
+    "filename": "Megalith_Hagith",
+    "card_text": "You can Ritual Summon this card with a \"Megalith\" card. If this card is Ritual Summoned: You can add 1 \"Megalith\" Spell/Trap from your Deck to your hand. During your Main Phase: You can activate this effect; Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this effect of \"Megalith Hagith\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Megalith Anastasis",
+        "Megalith Aratron",
+        "Megalith Bethor",
+        "Megalith Emergence",
+        "Megalith Notrah Plura",
+        "Megalith Och",
+        "Megalith Ophiel",
+        "Megalith Phaleg",
+        "Megalith Phul",
+        "Megalith Phuloch",
+        "Megalith Portal",
+        "Megalith Promotion",
+        "Megalith Unformed"
+    ],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 2600,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

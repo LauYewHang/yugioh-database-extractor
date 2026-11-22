@@ -1,0 +1,13 @@
+{
+    "name": "Dora of Fate",
+    "filename": "Dora_of_Fate",
+    "card_text": "You can only activate this card during your opponent's turn. Select 1 face-up monster on your opponent's side of the field. When you Normal Summon a monster that is 1 Level lower than the selected monster during your next turn, inflict damage to your opponent's Life Points equal to the Level of the selected monster x 500 points.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

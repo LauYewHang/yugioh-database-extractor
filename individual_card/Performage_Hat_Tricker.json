@@ -1,0 +1,36 @@
+{
+    "name": "Performage Hat Tricker",
+    "filename": "Performage_Hat_Tricker",
+    "card_text": "If 2 or more monsters are on the field, you can Special Summon this card (from your hand). When a card or effect is activated that would inflict damage to you (Quick Effect): You can place 1 Performage Counter on this card (max. 3), then make that effect damage to you 0. When the 3rd Performage Counter is placed on this card, its ATK/DEF become 3300.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS",
+        "MAGNIFICENT MONSTERS",
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Bubble Barrier",
+        "Performage Ball Balancer",
+        "Performage Cup Tricker",
+        "Performage Damage Juggler",
+        "Performage Fire Dancer",
+        "Performage Flame Eater",
+        "Performage Plushfire",
+        "Performage Shadow Maker",
+        "Performage Stilts Launcher",
+        "Performage Trapeze Magician",
+        "Performage Trapeze Witch",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Performage Wind Drainer",
+        "Trick Box"
+    ],
+    "attribute": "EARTH",
+    "attack": 1100,
+    "defense": 1100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

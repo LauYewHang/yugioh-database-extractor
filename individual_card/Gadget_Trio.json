@@ -1,0 +1,43 @@
+{
+    "name": "Gadget Trio",
+    "filename": "Gadget_Trio",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Shining Sarcophagus\" or 1 Spell/Trap that mentions it from your Deck to your hand. If this card is destroyed by battle or card effect: You can Set 1 \"Stronghold the Hidden Fortress\" from your Deck. You can only use each effect of \"Gadget Trio\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ancient Gear Gadget",
+        "Ancient Gear Hydra",
+        "Ancient Gear Reactor Dragon",
+        "Archfiend's Advent",
+        "Boot-Up Admiral - Destroyer Dynamo",
+        "Boot-Up Corporal - Command Dynamo",
+        "Boot-Up Order - Gear Charge",
+        "Boot-Up Soldier - Dread Dynamo",
+        "Dark Magic Mirror Force",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician the Magician of Black Magic",
+        "Future Silence",
+        "Gandora-G the Dragon of Destruction",
+        "Gold Gadget",
+        "Moremarshmallon",
+        "Platinum Gadget",
+        "Powerhold the Moving Battery",
+        "Shining Sarcophagus",
+        "Silent Magician Zero",
+        "Silent Swordsman Zero",
+        "Silver Gadget",
+        "Stronghold the Hidden Fortress",
+        "Ties That Bind",
+        "Turn Silence"
+    ],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 1100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

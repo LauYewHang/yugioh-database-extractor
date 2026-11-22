@@ -1,0 +1,14 @@
+{
+    "name": "Unbreakable Spirit",
+    "filename": "Unbreakable_Spirit",
+    "card_text": "If you control only 1 face-up monster: Target that monster; until the end of this turn, it gains ATK equal to the ATK of the monster your opponent currently controls with the lowest ATK (your choice, if tied).",
+    "release_date": "2014-08-01",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

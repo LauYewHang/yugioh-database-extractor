@@ -1,0 +1,18 @@
+{
+    "name": "Nowru Aries the Vernal Dragon",
+    "filename": "Nowru_Aries_the_Vernal_Dragon",
+    "card_text": "If this card is in your GY: You can send 1 Level 5 or higher monster from your hand to the GY; Special Summon this card, but banish it when it leaves the field. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 card your opponent controls; banish it. You can only use each effect of \"Nowru Aries the Vernal Dragon\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

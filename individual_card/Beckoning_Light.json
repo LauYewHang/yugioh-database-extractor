@@ -1,0 +1,19 @@
+{
+    "name": "Beckoning Light",
+    "filename": "Beckoning_Light",
+    "card_text": "Discard your entire hand, then for each card you discarded to the GY by this effect, add 1 LIGHT monster from your GY to your hand.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPIRIT WARRIORS",
+        "REALM OF LIGHT STRUCTURE DECK",
+        "ANCIENT SANCTUARY",
+        "TURBO PACK BOOSTER TWO",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "CHAMPION PACK GAME EIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

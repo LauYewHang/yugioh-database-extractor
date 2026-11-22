@@ -1,0 +1,12 @@
+{
+    "name": "Damage Diet",
+    "filename": "Damage_Diet",
+    "card_text": "Halve all damage you take this turn. You can banish this card from your Graveyard; halve all effect damage you take this turn. (You cannot halve the same damage twice with this effect.)",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

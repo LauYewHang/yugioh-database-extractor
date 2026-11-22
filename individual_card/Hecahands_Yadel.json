@@ -1,0 +1,31 @@
+{
+    "name": "Hecahands Yadel",
+    "filename": "Hecahands_Yadel",
+    "card_text": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Hecahands Yadel\" once per turn. You can reveal this card in your hand; shuffle this card into the Deck, then add 1 \"Hecahands\" Spell/Trap from your Deck to your hand. If this card is sent to the GY: You can target 1 \"Hecahands\" Spell/Trap in your GY; Set it.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "Hecahands Bait",
+        "Hecahands Breus",
+        "Hecahands Dandalos",
+        "Hecahands Gaigas",
+        "Hecahands Godos",
+        "Hecahands Ibtel",
+        "Hecahands Jauzah",
+        "Hecahands Mankibuel",
+        "Hecahands Tartaros",
+        "Hecahands Xeno",
+        "Ib'al-Hecahands",
+        "The Hidden Hecahands",
+        "Yad'al-Hecahands"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 1600,
+    "monster_type": "Illusion",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

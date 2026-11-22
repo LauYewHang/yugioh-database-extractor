@@ -1,0 +1,39 @@
+{
+    "name": "Wind-Up Zenmaines",
+    "filename": "Wind_Up_Zenmaines",
+    "card_text": "2 Level 3 monsters\nIf this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "COLLECTIBLE TIN 2012 WAVE 1",
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Legendary Wind-Up Key",
+        "Overwind",
+        "Weights & Zenmaisures",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Factory",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaintenance",
+        "Zenmaiday",
+        "Zenmailfunction",
+        "Zenmailstrom",
+        "Zenmairch"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

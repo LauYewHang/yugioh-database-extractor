@@ -1,0 +1,26 @@
+{
+    "name": "Assault Counter",
+    "filename": "Assault_Counter",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated while you control an \"/Assault Mode\" monster: Negate the activation, and if you do, destroy that card.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "OTS TOURNAMENT PACK 30",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Arcanite Magician/Assault Mode",
+        "Assault Lich",
+        "Battlin' Boxer Uppercutter",
+        "Colossal Fighter/Assault Mode",
+        "Crimson Blader/Assault Mode",
+        "Doomkaiser Dragon/Assault Mode",
+        "Hyper Psychic Blaster/Assault Mode",
+        "Junk Warrior/Assault Mode",
+        "Red Dragon Archfiend/Assault Mode",
+        "Red Nova Dragon/Assault Mode",
+        "Stardust Dragon/Assault Mode",
+        "T.G. Halberd Cannon/Assault Mode"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

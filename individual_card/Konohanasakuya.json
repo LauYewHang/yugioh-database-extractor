@@ -1,0 +1,17 @@
+{
+    "name": "Konohanasakuya",
+    "filename": "Konohanasakuya",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling a Spirit monster. You can only Special Summon \"Konohanasakuya\" once per turn this way. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand. Once per turn, during the End Phase: You can banish this card from your GY, then target 1 Spirit monster you control; neither player can activate that face-up monster's effects on the field for the rest of this turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 1300,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

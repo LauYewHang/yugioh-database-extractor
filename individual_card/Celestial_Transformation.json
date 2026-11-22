@@ -1,0 +1,15 @@
+{
+    "name": "Celestial Transformation",
+    "filename": "Celestial_Transformation",
+    "card_text": "Special Summon 1 Fairy monster from your hand. That monster's ATK is halved, also it is destroyed during the End Phase.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

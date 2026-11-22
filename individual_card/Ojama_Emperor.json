@@ -1,0 +1,35 @@
+{
+    "name": "Ojama Emperor",
+    "filename": "Ojama_Emperor",
+    "card_text": "3 Beast monsters, including an \"Ojama\" monster\nWhile \"Ojama Country\" is in a Field Zone, this card gains 3000 ATK, also it cannot be destroyed by card effects. Your opponent takes any battle damage you would have taken from attacks on this card, instead. You can target 1 non-Link \"Ojama\" monster in your GY; Special Summon it, also for the rest of this turn, you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters. You can only use this effect of \"Ojama Emperor\" once per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Ojama Black",
+        "Ojama Blue",
+        "Ojama Country",
+        "Ojama Delta Hurricane!!",
+        "Ojama Duo",
+        "Ojama Green",
+        "Ojama King",
+        "Ojama Knight",
+        "Ojama Pajama",
+        "Ojama Pink",
+        "Ojama Red",
+        "Ojama Trio",
+        "Ojama Yellow",
+        "Ojamagic",
+        "Ojamassimilation",
+        "Ojamatch",
+        "Ojamuscle"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": null,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

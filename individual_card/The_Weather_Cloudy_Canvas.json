@@ -1,0 +1,29 @@
+{
+    "name": "The Weather Cloudy Canvas",
+    "filename": "The_Weather_Cloudy_Canvas",
+    "card_text": "\"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\n\u25cfYou can banish this card, then target 1 face-up monster on the field (except during the Damage Step) (Quick Effect); halve its current ATK for the rest of this turn, but it can attack directly this turn.\nYou can only control 1 \"The Weather Cloudy Canvas\".",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "The Weather Auroral Canvas",
+        "The Weather Forecast",
+        "The Weather Painter Aurora",
+        "The Weather Painter Cloud",
+        "The Weather Painter Moonbow",
+        "The Weather Painter Rain",
+        "The Weather Painter Rainbow",
+        "The Weather Painter Snow",
+        "The Weather Painter Sun",
+        "The Weather Painter Thunder",
+        "The Weather Rainbowed Canvas",
+        "The Weather Rainy Canvas",
+        "The Weather Snowy Canvas",
+        "The Weather Sunny Canvas",
+        "The Weather Thundery Canvas"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Charged-Up Heraldry",
+    "filename": "Charged_Up_Heraldry",
+    "card_text": "Tribute 1 monster; Special Summon 2 \"Heraldic Beast\" monsters from your Deck in Defense Position, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn after this card resolves, except Psychic or Machine monsters. You can only activate 1 \"Charged-Up Heraldry\" per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Augmented Heraldry",
+        "Heraldic Beast Aberconway",
+        "Heraldic Beast Amphisbaena",
+        "Heraldic Beast Basilisk",
+        "Heraldic Beast Berners Falcon",
+        "Heraldic Beast Eale",
+        "Heraldic Beast Gryphon",
+        "Heraldic Beast Leo",
+        "Heraldic Beast Stad Whale",
+        "Heraldic Beast Twin-Headed Eagle",
+        "Heraldic Beast Unicorn"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Spell Shield Type-8",
+    "filename": "Spell_Shield_Type_8",
+    "card_text": "Activate 1 of these effects.\n\u25cfWhen a Spell Card is activated that targets exactly 1 monster on the field: Negate the activation, and if you do, destroy it.\n\u25cfWhen a Spell Card is activated: Send 1 Spell Card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "GOLD SERIES",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "DARK REVELATION Volume 1",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

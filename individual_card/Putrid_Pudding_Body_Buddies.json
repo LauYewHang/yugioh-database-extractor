@@ -1,0 +1,18 @@
+{
+    "name": "Putrid Pudding Body Buddies",
+    "filename": "Putrid_Pudding_Body_Buddies",
+    "card_text": "Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. During your End Phase: You can target 1 card in your Pendulum Zone; destroy it, and if you do, give control of this card to your opponent. During each of your Standby Phases: Take 300 damage.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 300,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

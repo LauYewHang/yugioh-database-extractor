@@ -1,0 +1,17 @@
+{
+    "name": "Fairy King Albverdich",
+    "filename": "Fairy_King_Albverdich",
+    "card_text": "2 Level 4 EARTH monsters\nOnce per turn: You can detach 1 Xyz Material from this card; all non-EARTH monsters currently on the field lose 500 ATK and DEF.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 1400,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

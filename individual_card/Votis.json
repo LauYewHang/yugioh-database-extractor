@@ -1,0 +1,17 @@
+{
+    "name": "Votis",
+    "filename": "Votis",
+    "card_text": "When this card is Normal Summoned: You can excavate the top 3 cards of your Deck, and if you do, you can banish 1 excavated monster to add 1 monster with its same name to your hand, from either your Deck or the other excavated cards, also shuffle the rest into the Deck. Once per turn, during the End Phase, if this card is in your GY because it was sent there this turn after being Normal Summoned/Set: You can excavate the top 3 cards of your Deck, and if you do, place them on top of the Deck in any order.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 1900,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

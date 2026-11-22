@@ -1,0 +1,16 @@
+{
+    "name": "Level Limit - Area B",
+    "filename": "Level_Limit___Area_B",
+    "card_text": "Change all face-up Level 4 or higher monsters to Defense Position.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "ASTRAL PACK SEVEN",
+        "ANCIENT SANCTUARY",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

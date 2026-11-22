@@ -1,0 +1,19 @@
+{
+    "name": "Numeron Calling",
+    "filename": "Numeron_Calling",
+    "card_text": "If \"Numeron Network\" is in your Field Zone and you control no monsters: Special Summon up to 4 \"Numeron Gate\" Xyz Monsters with different names from your Extra Deck, but banish them during the End Phase, also you can only Normal or Special Summon once for the rest of this turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Number 1: Numeron Gate Ekam",
+        "Number 2: Numeron Gate Dve",
+        "Number 3: Numeron Gate Trini",
+        "Number 4: Numeron Gate Catvari",
+        "Numeron Network"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

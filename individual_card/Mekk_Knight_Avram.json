@@ -1,0 +1,33 @@
+{
+    "name": "Mekk-Knight Avram",
+    "filename": "Mekk_Knight_Avram",
+    "card_text": "\"Check THIS out!\"",
+    "release_date": "2018-03-23",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "EXTREME FORCE SPECIAL EDITION"
+    ],
+    "related_card": [
+        "Mekk-Knight Blue Sky",
+        "Mekk-Knight Green Horizon",
+        "Mekk-Knight Indigo Eclipse",
+        "Mekk-Knight of the Morning Star",
+        "Mekk-Knight Orange Sunset",
+        "Mekk-Knight Purple Nightfall",
+        "Mekk-Knight Red Moon",
+        "Mekk-Knight Spectrum Supreme",
+        "Mekk-Knight Yellow Star",
+        "World Legacy Key",
+        "World Legacy Scars",
+        "World Legacy Whispers",
+        "World Legacy's Memory",
+        "World Legacy's Secret"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Psychic",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

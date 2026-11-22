@@ -1,0 +1,13 @@
+{
+    "name": "Court of Justice",
+    "filename": "Court_of_Justice",
+    "card_text": "During your Main Phase: You can Special Summon 1 Fairy monster from your hand. You must control a Level 1 Fairy monster to activate and to resolve this effect. You can only use this effect of \"Court of Justice\" once per turn.",
+    "release_date": "2011-10-04",
+    "available_set": [
+        "MAZE OF MEMORIES",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

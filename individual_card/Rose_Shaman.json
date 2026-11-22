@@ -1,0 +1,17 @@
+{
+    "name": "Rose Shaman",
+    "filename": "Rose_Shaman",
+    "card_text": "You can Tribute this card; draw 1 card. You can banish this card from your GY, then target 1 Plant monster in your GY; add it to your hand, then, if you added a Plant monster whose original Level is 7 or higher, you can send 1 Plant monster from your Deck to the GY. You can only use 1 \"Rose Shaman\" effect per turn, and only once that turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

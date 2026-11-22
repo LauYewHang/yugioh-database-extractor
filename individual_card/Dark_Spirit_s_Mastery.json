@@ -1,0 +1,20 @@
+{
+    "name": "Dark Spirit's Mastery",
+    "filename": "Dark_Spirit_s_Mastery",
+    "card_text": "Discard 1 card; add 1 \"Destiny Board\" or 1 Level 8 Fiend monster from your Deck or GY to your hand. You can banish this card from your GY, except the turn this card was sent to the GY; place any number of \"Destiny Board\" and/or \"Spirit Message\" cards with different names from your hand or GY on the bottom of the Deck in any order, then draw the same number of cards. You can only use each effect of \"Dark Spirit's Mastery\" once per turn.",
+    "release_date": "2019-09-27",
+    "available_set": [
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY DUELISTS: SEASON 3"
+    ],
+    "related_card": [
+        "Destiny Board",
+        "Spirit Message \"A\"",
+        "Spirit Message \"I\"",
+        "Spirit Message \"L\"",
+        "Spirit Message \"N\""
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

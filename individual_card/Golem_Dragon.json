@@ -1,0 +1,18 @@
+{
+    "name": "Golem Dragon",
+    "filename": "Golem_Dragon",
+    "card_text": "Your opponent cannot target face-up Dragon-Type monsters for attacks, except this one.",
+    "release_date": "2011-08-04",
+    "available_set": [
+        "SHONEN JUMP Promotional Card - July 2010 -",
+        "TURBO PACK BOOSTER SIX"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 200,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

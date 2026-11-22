@@ -1,0 +1,34 @@
+{
+    "name": "Rikka Petal",
+    "filename": "Rikka_Petal",
+    "card_text": "During your Main Phase: You can take 1 \"Rikka\" monster from your Deck, except \"Rikka Petal\", and either add it to your hand or send it to the GY, also you cannot Special Summon for the rest of this turn, except Plant monsters. During your opponent's End Phase, while this card is in your GY, if you control no monsters or all monsters you control are Plant monsters: You can Special Summon this card. You can only use each effect of \"Rikka Petal\" once per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "MAZE OF MEMORIES"
+    ],
+    "related_card": [
+        "Cyclamen the Rikka Fairy",
+        "Erica the Rikka Fairy",
+        "Hellebore the Rikka Fairy",
+        "Kanzashi the Rikka Queen",
+        "Mudan the Rikka Fairy",
+        "Primula the Rikka Fairy",
+        "Rikka Flurries",
+        "Rikka Glamour",
+        "Rikka Konkon",
+        "Rikka Princess",
+        "Rikka Queen Strenna",
+        "Rikka Sheet",
+        "Rikka Tranquility",
+        "Snowdrop the Rikka Fairy",
+        "Teardrop the Rikka Queen"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

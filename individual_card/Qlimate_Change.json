@@ -1,0 +1,30 @@
+{
+    "name": "Qlimate Change",
+    "filename": "Qlimate_Change",
+    "card_text": "Add up to 3 face-up \"Qli\" Pendulum Monster Cards from your Extra Deck to your hand. You can only activate 1 \"Qlimate Change\" per turn.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "Apoqliphort Skybase",
+        "Apoqliphort Towers",
+        "Laser Qlip",
+        "Qlife's End",
+        "Qliphort Carrier",
+        "Qliphort Cephalopod",
+        "Qliphort Disk",
+        "Qliphort Genius",
+        "Qliphort Helix",
+        "Qliphort Monolith",
+        "Qliphort Scout",
+        "Qliphort Shell",
+        "Qliphort Stealth",
+        "Qlipper Launch",
+        "Re-qliate",
+        "Saqlifice"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

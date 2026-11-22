@@ -1,0 +1,38 @@
+{
+    "name": "Ojama Blue",
+    "filename": "Ojama_Blue",
+    "card_text": "When this card is destroyed by battle and sent to the GY: You can add 2 \"Ojama\" cards from your Deck to your hand.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "OTS TOURNAMENT PACK 6",
+        "RAGING BATTLE",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [
+        "Ojama Black",
+        "Ojama Country",
+        "Ojama Delta Hurricane!!",
+        "Ojama Duo",
+        "Ojama Emperor",
+        "Ojama Green",
+        "Ojama King",
+        "Ojama Knight",
+        "Ojama Pajama",
+        "Ojama Pink",
+        "Ojama Red",
+        "Ojama Trio",
+        "Ojama Yellow",
+        "Ojamagic",
+        "Ojamassimilation",
+        "Ojamatch",
+        "Ojamuscle"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

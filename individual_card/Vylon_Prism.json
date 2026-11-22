@@ -1,0 +1,33 @@
+{
+    "name": "Vylon Prism",
+    "filename": "Vylon_Prism",
+    "card_text": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster attacks or is attacked: It gains 1000 ATK during the Damage Step only.",
+    "release_date": "2012-02-03",
+    "available_set": [
+        "HIDDEN ARSENAL 6 OMEGA XYZ",
+        "DUEL TERMINAL 6A",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "REALM OF LIGHT STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Vylon Alpha",
+        "Vylon Component",
+        "Vylon Element",
+        "Vylon Filament",
+        "Vylon Hept",
+        "Vylon Material",
+        "Vylon Omega",
+        "Vylon Pentachloro",
+        "Vylon Polytope",
+        "Vylon Segment",
+        "Vylon Stigma",
+        "Vylon Tesseract"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

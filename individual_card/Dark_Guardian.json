@@ -1,0 +1,31 @@
+{
+    "name": "Dark Guardian",
+    "filename": "Dark_Guardian",
+    "card_text": "(This card is always treated as a \"Gate Guardian\" card.)\nCannot be Normal Summoned/Set. Must be either Special Summoned by \"Dark Element\", or Special Summoned (from your hand or GY) by shuffling into the Deck, 1 each of your \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\" that is in your hand, face-up field, GY, and/or banished. Cannot be destroyed by battle. If this card is Special Summoned by the effect of \"Dark Element\", it is unaffected by other monsters' effects or your opponent's activated Spell Cards or effects.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Dark Element",
+        "Double Attack! Wind and Thunder!!",
+        "Gate Guardian",
+        "Gate Guardian of Thunder and Wind",
+        "Gate Guardian of Water and Thunder",
+        "Gate Guardian of Wind and Water",
+        "Gate Guardians Combined",
+        "Kazejin",
+        "Principug",
+        "Riryoku Guardian",
+        "Sanga of the Thunder",
+        "Suijin"
+    ],
+    "attribute": "DARK",
+    "attack": 3800,
+    "defense": 3800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

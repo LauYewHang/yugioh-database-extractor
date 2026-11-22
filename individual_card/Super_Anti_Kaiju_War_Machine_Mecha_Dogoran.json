@@ -1,0 +1,32 @@
+{
+    "name": "Super Anti-Kaiju War Machine Mecha-Dogoran",
+    "filename": "Super_Anti_Kaiju_War_Machine_Mecha_Dogoran",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while your opponent controls a \"Kaiju\" monster. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 2 Kaiju Counters from anywhere on the field; equip 1 \"Kaiju\" monster from your hand or Graveyard to this card. This card gains ATK equal to the combined original ATK of the \"Kaiju\" monsters equipped to it by this effect.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "SHINING VICTORIES",
+        "OTS TOURNAMENT PACK 4"
+    ],
+    "related_card": [
+        "Dogoran, the Mad Flame Kaiju",
+        "Gadarla, the Mystery Dust Kaiju",
+        "Gameciel, the Sea Turtle Kaiju",
+        "Interrupted Kaiju Slumber",
+        "Jizukiru, the Star Destroying Kaiju",
+        "Kaiju Capture Mission",
+        "Kumongous, the Sticky String Kaiju",
+        "Kyoutou Waterfront",
+        "Radian, the Multidimensional Kaiju",
+        "Super Anti-Kaiju War Machine Mecha-Thunder-King",
+        "The Kaiju Files",
+        "Thunder King, the Lightningstrike Kaiju"
+    ],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

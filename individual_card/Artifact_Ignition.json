@@ -1,0 +1,31 @@
+{
+    "name": "Artifact Ignition",
+    "filename": "Artifact_Ignition",
+    "card_text": "If you have an \"Artifact\" monster in your Deck: Target 1 Spell/Trap on the field; destroy that target, and if you do, Set 1 \"Artifact\" monster from your Deck to your Spell & Trap Zone as a Spell. If this card in its owner's possession is destroyed by an opponent's card: Your opponent skips their next Battle Phase.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Artifact Achilleshield",
+        "Artifact Aegis",
+        "Artifact Beagalltach",
+        "Artifact Caduceus",
+        "Artifact Chakram",
+        "Artifact Dagda",
+        "Artifact Durendal",
+        "Artifact Failnaught",
+        "Artifact Labrys",
+        "Artifact Lancea",
+        "Artifact Mjollnir",
+        "Artifact Moralltach",
+        "Artifact Sanctum",
+        "Artifact Scythe",
+        "Artifact Vajra",
+        "Artifacts Unleashed"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

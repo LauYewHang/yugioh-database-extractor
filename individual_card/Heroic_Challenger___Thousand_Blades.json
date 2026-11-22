@@ -1,0 +1,43 @@
+{
+    "name": "Heroic Challenger - Thousand Blades",
+    "filename": "Heroic_Challenger___Thousand_Blades",
+    "card_text": "Once per turn, if this card is in Attack Position: You can discard 1 \"Heroic\" card; Special Summon 1 \"Heroic\" monster from your Deck, and if you do, change this card to Defense Position, also you cannot Special Summon monsters for the rest of this turn, except \"Heroic\" monsters. When you take damage while this card is in your GY: You can Special Summon this card in Attack Position. You can only use this effect of \"Heroic Challenger - Thousand Blades\" once per turn.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS",
+        "OTS TOURNAMENT PACK 19"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Ambush Soldier",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Clasp Sword",
+        "Heroic Challenger - Double Lance",
+        "Heroic Challenger - Extra Sword",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Night Watchman",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - War Hammer",
+        "Heroic Champion - Claivesolish",
+        "Heroic Champion - Excalibur",
+        "Heroic Champion - Gandiva",
+        "Heroic Champion - Jarngreipr",
+        "Heroic Champion - Kusanagi",
+        "Heroic Champion - Magnum Excalibur",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Gift",
+        "Heroic Retribution Sword",
+        "Number 86: Heroic Champion - Rhongomyniad"
+    ],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 1100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

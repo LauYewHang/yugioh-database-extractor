@@ -1,0 +1,29 @@
+{
+    "name": "Clown Crew Dristy",
+    "filename": "Clown_Crew_Dristy",
+    "card_text": "2 Ritual, Fusion, Synchro, Xyz, and/or Pendulum Monsters\nYour Tribute Summoned monsters can make a second attack during each Battle Phase. If this card is Tributed: You can activate 1 of these effects (but you can only use each effect of \"Clown Crew Dristy\" once per turn);\n\u25cfReturn all Link Monsters from the field and the GYs to the Extra Deck.\n\u25cfEach player with a hand shuffles their entire hand into the Deck, then draws the same number of cards they shuffled into the Deck.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Clown Crew Cappello",
+        "Clown Crew Diabolo",
+        "Clown Crew Fiends",
+        "Clown Crew Finale",
+        "Clown Crew Flair",
+        "Clown Crew Malabarisme",
+        "Clown Crew Matinee Operatics",
+        "Clown Crew Meteor",
+        "Clown Crew New Face",
+        "Clown Crew Rehearsal",
+        "Clown Crew Soiree Operations"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 20
+}

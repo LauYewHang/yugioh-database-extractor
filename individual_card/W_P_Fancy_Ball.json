@@ -1,0 +1,17 @@
+{
+    "name": "W:P Fancy Ball",
+    "filename": "W_P_Fancy_Ball",
+    "card_text": "2+ Effect Monsters\nWhen your opponent activates a monster effect on the field or GY (Quick Effect): You can banish this card that was Special Summoned this turn until the End Phase; negate that effect, and if you do, banish it. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Link Monster, and if this card you control would be used as material for that Link Summon, you can also use 1 Link-2 or lower monster your opponent controls. Neither player can activate the effects of Link Monsters in response to this effect's activation. You can only use each effect of \"W:P Fancy Ball\" once per turn.",
+    "release_date": "2026-09-04",
+    "available_set": [
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 266
+}

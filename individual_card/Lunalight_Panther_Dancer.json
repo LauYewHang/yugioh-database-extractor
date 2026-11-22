@@ -1,0 +1,43 @@
+{
+    "name": "Lunalight Panther Dancer",
+    "filename": "Lunalight_Panther_Dancer",
+    "card_text": "\"Lunalight Cat Dancer\" + 1 \"Lunalight\" monster\nMust first be Fusion Summoned with the above Fusion Materials. Cannot be destroyed by your opponent's card effects. Once per turn, during your Main Phase 1: You can activate this effect; for the rest of this turn, the first time each monster your opponent controls would be destroyed by battle, it is not destroyed, also this card can attack all monsters your opponent controls, twice each, this turn. If this card destroys an opponent's monster by battle: This card gains 200 ATK until the end of the Battle Phase.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "LEGENDARY ARC-V DECKS",
+        "SHINING VICTORIES"
+    ],
+    "related_card": [
+        "Luna Light Perfume",
+        "Lunalight Black Sheep",
+        "Lunalight Blue Cat",
+        "Lunalight Cat Dancer",
+        "Lunalight Crimson Fox",
+        "Lunalight Emerald Bird",
+        "Lunalight Fusion",
+        "Lunalight Gold Leo",
+        "Lunalight Kaleido Chick",
+        "Lunalight Leo Dancer",
+        "Lunalight Liger Dancer",
+        "Lunalight Masquerade",
+        "Lunalight Perfume Dancer",
+        "Lunalight Purple Butterfly",
+        "Lunalight Reincarnation Dance",
+        "Lunalight Sabre Dancer",
+        "Lunalight Scarlet Tiger",
+        "Lunalight Serenade Dance",
+        "Lunalight Silver Hound",
+        "Lunalight Tiger",
+        "Lunalight White Rabbit",
+        "Lunalight Wolf",
+        "Lunalight Yellow Marten"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2500,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

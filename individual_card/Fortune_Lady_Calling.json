@@ -1,0 +1,28 @@
+{
+    "name": "Fortune Lady Calling",
+    "filename": "Fortune_Lady_Calling",
+    "card_text": "If you control a \"Fortune Lady\" monster: Special Summon 1 \"Fortune Lady\" monster from your Deck with a different name from the cards you control, also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters. You can only activate 1 \"Fortune Lady Calling\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Bending Destiny",
+        "Fortune Lady Dark",
+        "Fortune Lady Earth",
+        "Fortune Lady Every",
+        "Fortune Lady Fire",
+        "Fortune Lady Light",
+        "Fortune Lady Past",
+        "Fortune Lady Rewind",
+        "Fortune Lady Water",
+        "Fortune Lady Wind",
+        "Fortune Vision",
+        "Fortune's Future",
+        "Inherited Fortune",
+        "Solitaire Magician",
+        "Time Passage"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

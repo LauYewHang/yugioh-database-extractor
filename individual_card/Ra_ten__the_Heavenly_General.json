@@ -1,0 +1,17 @@
+{
+    "name": "Ra'ten, the Heavenly General",
+    "filename": "Ra_ten__the_Heavenly_General",
+    "card_text": "2+ monsters with the same Type\nOnce per turn, during the Standby Phase: You can target 1 face-up monster this card points to; Special Summon 1 Level 4 or lower monster with the same Type as that monster from your hand to your zone this card points to. At the start of the Battle Phase: You can target 1 card your opponent controls; destroy it. You can only use this effect of \"Ra'ten, the Heavenly General\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": null,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 138
+}

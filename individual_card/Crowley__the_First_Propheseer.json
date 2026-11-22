@@ -1,0 +1,36 @@
+{
+    "name": "Crowley, the First Propheseer",
+    "filename": "Crowley__the_First_Propheseer",
+    "card_text": "2 Spellcaster monsters\nIf this card is Link Summoned: You can reveal 3 \"Spellbook\" cards with different names from your Deck, and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. You can only use this effect of \"Crowley, the First Propheseer\" once per turn. Each turn, 1 Level 5 or higher Spellcaster monster you Normal Summon can be Summoned without Tributing.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Hidden Spellbook (Updated from: Hidden Book of Spell)",
+        "Spellbook Library of the Crescent",
+        "Spellbook Library of the Heliosphere",
+        "Spellbook Magician of Prophecy",
+        "Spellbook of Eternity",
+        "Spellbook of Fate",
+        "Spellbook of Judgment",
+        "Spellbook of Knowledge",
+        "Spellbook of Life",
+        "Spellbook of Miracles",
+        "Spellbook of Power",
+        "Spellbook of Secrets",
+        "Spellbook of the Grand Circle",
+        "Spellbook of the Master",
+        "Spellbook of Wisdom",
+        "Spellbook Organization (Updated from: Pigeonholing Books of Spell)",
+        "Spellbook Star Hall",
+        "The Grand Spellbook Tower"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

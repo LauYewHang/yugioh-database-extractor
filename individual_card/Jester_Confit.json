@@ -1,0 +1,18 @@
+{
+    "name": "Jester Confit",
+    "filename": "Jester_Confit",
+    "card_text": "You can only control 1 \"Jester Confit\". You can Special Summon this card (from your hand) in Attack Position. If Summoned this way, during your opponent's next End Phase: Target 1 face-up monster your opponent controls; return both that target and this face-up card to the hand.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "STRUCTURE DECK : CYBERSE LINK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,24 @@
+{
+    "name": "W-Wing Catapult",
+    "filename": "W_Wing_Catapult",
+    "card_text": "Once per turn, you can either: Target 1 \"V-Tiger Jet\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead. The equipped monster gains 400 ATK/DEF.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DARK REVELATION Volume 4",
+        "DUELIST PACK - CHAZZ PRINCETON -",
+        "ELEMENTAL ENERGY"
+    ],
+    "related_card": [
+        "V-Tiger Jet",
+        "VW-Tiger Catapult"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1300,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

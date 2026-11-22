@@ -1,0 +1,21 @@
+{
+    "name": "Barox",
+    "filename": "Barox",
+    "card_text": "\"Frenzied Panda\" + \"Ryu-Kishin\"",
+    "release_date": "2013-04-19",
+    "available_set": [
+        "ASTRAL PACK TWO",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Frenzied Panda",
+        "Ryu-Kishin"
+    ],
+    "attribute": "DARK",
+    "attack": 1380,
+    "defense": 1530,
+    "monster_type": "Fiend",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

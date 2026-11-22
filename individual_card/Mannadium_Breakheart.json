@@ -1,0 +1,26 @@
+{
+    "name": "Mannadium Breakheart",
+    "filename": "Mannadium_Breakheart",
+    "card_text": "Target 1 Tuner or 1 Synchro Monster in your GY; Special Summon it, then if you Special Summoned a LIGHT monster, you can destroy 1 monster your opponent controls with ATK less than or equal to the Special Summoned monster's. If \"Visas Starfrost\", or a monster with 1500 ATK/2100 DEF, you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Mannadium Breakheart\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Mannadium Abscission",
+        "Mannadium Imaginings",
+        "Mannadium Prime-Heart",
+        "Mannadium Reframing",
+        "Mannadium Riumheart",
+        "Mannadium Torrid",
+        "New World Formation",
+        "Peaceful Planet Calarium",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

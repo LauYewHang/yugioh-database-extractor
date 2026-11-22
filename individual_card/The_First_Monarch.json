@@ -1,0 +1,27 @@
+{
+    "name": "The First Monarch",
+    "filename": "The_First_Monarch",
+    "card_text": "Special Summon this card as an Effect Monster (Fiend/DARK/Level 6/ATK 1000/DEF 2400). (This card is also still a Trap.) If Summoned this way: You can discard 1 card, then declare 1 Attribute; this card becomes that Attribute, and can be treated as 2 Tributes for the Tribute Summon of a monster with the same Attribute as this card. If this card was Summoned this way, you cannot Special Summon monsters, except monsters with this card's Attribute.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT",
+        "EMPEROR OF DARKNESS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Frost Blast of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Tenacity of the Monarchs",
+        "Tessera the Primal Squire",
+        "The Monarchs Masterplan",
+        "The Prime Monarch"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

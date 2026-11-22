@@ -1,0 +1,28 @@
+{
+    "name": "Surge Blitzclique",
+    "filename": "Surge_Blitzclique",
+    "card_text": "You can reveal this card in your hand, then target 1 monster on the field; destroy it, and if you do, Special Summon 1 Thunder monster from your hand, also for the rest of this turn, you cannot Special Summon Effect Monsters, except from the hand. If another card(s) is destroyed by card effect, while this card is in the Monster Zone (except during the Damage Step): You can add 1 \"Blitzclique\" monster from your Deck to your hand, except \"Surge Blitzclique\". You can only use each effect of \"Surge Blitzclique\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Blitzclique - Breakaway",
+        "Blitzclique - Steppleader",
+        "Blitzclique Alternator",
+        "Blitzclique Overvolt",
+        "Blitzclique Return Stroke",
+        "Crackle Blitzclique",
+        "Emi Blitzclique",
+        "Grain Blitzclique",
+        "Hideout in the Sky, Coulomb",
+        "Whisker Blitzclique"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

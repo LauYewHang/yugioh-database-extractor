@@ -1,0 +1,39 @@
+{
+    "name": "Chronomaly Aztec Mask Golem",
+    "filename": "Chronomaly_Aztec_Mask_Golem",
+    "card_text": "During your turn, if you have activated a \"Chronomaly\" Spell Card previously this turn, you can Special Summon this card (from your hand). You can only control 1 \"Chronomaly Aztec Mask Golem\".",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [
+        "Chronomaly Acambaro Figures",
+        "Chronomaly Cabrera Trebuchet",
+        "Chronomaly City Babylon",
+        "Chronomaly Crystal Bones",
+        "Chronomaly Crystal Skull",
+        "Chronomaly Esperanza Glyph",
+        "Chronomaly Golden Jet",
+        "Chronomaly Gordian Knot",
+        "Chronomaly Magella Globe",
+        "Chronomaly Moai",
+        "Chronomaly Mud Golem",
+        "Chronomaly Nebra Disk",
+        "Chronomaly Pyramid Eye Tablet",
+        "Chronomaly Sol Monolith",
+        "Chronomaly Technology",
+        "Chronomaly Temple - Trilithon",
+        "Chronomaly Tuspa Rocket",
+        "Chronomaly Vimana",
+        "Chronomaly Winged Sphinx",
+        "Number 36: Chronomaly Chateau Huyuk",
+        "Stonehenge Methods"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

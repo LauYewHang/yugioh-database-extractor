@@ -1,0 +1,27 @@
+{
+    "name": "Droll & Lock Bird",
+    "filename": "Droll___Lock_Bird",
+    "card_text": "If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "Legendary 5D's Decks",
+        "TACTICAL MASTERS",
+        "LEGENDARY ARC-V DECKS",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "Gold Series: Maximum Gold",
+        "OTS TOURNAMENT PACK 1",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "OTS TOURNAMENT PACK 8",
+        "STRUCTURE DECK: FIRE KINGS",
+        "STRUCTURE DECK: ORDER OF THE SPELLCASTERS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

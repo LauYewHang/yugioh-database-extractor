@@ -1,0 +1,41 @@
+{
+    "name": "Gravekeeper's Ambusher",
+    "filename": "Gravekeeper_s_Ambusher",
+    "card_text": "When this card is flipped face-up: You can target 1 card in your opponent's GY; place that target on the bottom of their Deck. If this card is sent from the field to the GY after being flipped face-up: You can target 1 \"Necrovalley\" card in your GY; add that target to your hand. These effects are unaffected by \"Necrovalley\".",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT",
+        "SPEED DUEL: ARENA OF LOST SOULS"
+    ],
+    "related_card": [
+        "Charm of Shabti",
+        "Gravekeeper's Cannonholder",
+        "Gravekeeper's Chief",
+        "Gravekeeper's Descendant",
+        "Gravekeeper's Headman",
+        "Gravekeeper's Nobleman",
+        "Gravekeeper's Oracle",
+        "Gravekeeper's Priestess",
+        "Gravekeeper's Recruiter",
+        "Gravekeeper's Shaman",
+        "Gravekeeper's Spy",
+        "Gravekeeper's Stele",
+        "Gravekeeper's Supernaturalist",
+        "Gravekeeper's Trap",
+        "Gravekeeper's Visionary",
+        "Hidden Temples of Necrovalley",
+        "Imperial Tombs of Necrovalley",
+        "Necrovalley",
+        "Necrovalley Temple",
+        "Necrovalley Throne",
+        "Rite of Spirit"
+    ],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

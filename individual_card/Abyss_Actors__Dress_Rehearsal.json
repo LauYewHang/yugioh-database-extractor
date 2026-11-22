@@ -1,0 +1,39 @@
+{
+    "name": "Abyss Actors' Dress Rehearsal",
+    "filename": "Abyss_Actors__Dress_Rehearsal",
+    "card_text": "At the start of your Main Phase 1: Add 1 \"Abyss Actor\" card and 1 \"Abyss Script\" Spell from your Deck to your hand. For the rest of this turn after this card resolves, you cannot Pendulum Summon monsters, except \"Abyss Actor\" monsters.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Abyss Actor - Comic Relief",
+        "Abyss Actor - Curtain Raiser",
+        "Abyss Actor - Evil Heel",
+        "Abyss Actor - Extras",
+        "Abyss Actor - Funky Comedian",
+        "Abyss Actor - Hyper Director",
+        "Abyss Actor - Leading Lady",
+        "Abyss Actor - Liberty Dramatist",
+        "Abyss Actor - Mellow Madonna",
+        "Abyss Actor - Sassy Rookie",
+        "Abyss Actor - Super Producer",
+        "Abyss Actor - Superstar",
+        "Abyss Actor - Trendy Understudy",
+        "Abyss Actor - Twinkle Little Star",
+        "Abyss Actor - Wild Hope",
+        "Abyss Actors Back Stage",
+        "Abyss Actors' Curtain Call",
+        "Abyss Playhouse - Fantastic Theater",
+        "Abyss Prop - Wild Wagon",
+        "Abyss Script - Abysstainment",
+        "Abyss Script - Dramatic Story",
+        "Abyss Script - Fantasy Magic",
+        "Abyss Script - Fire Dragon's Lair",
+        "Abyss Script - Opening Ceremony",
+        "Abyss Script - Rise of the Abyss King",
+        "Abyss Script - Romantic Terror"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

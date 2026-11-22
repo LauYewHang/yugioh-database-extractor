@@ -1,0 +1,22 @@
+{
+    "name": "Destruction Dragon",
+    "filename": "Destruction_Dragon",
+    "card_text": "Must be Special Summoned with \"The Fang of Critias\", using \"Ring of Destruction\". Once per turn: You can target 1 card your opponent controls; destroy it. Then, if it was a Monster Card, inflict damage to your opponent equal to its original ATK.",
+    "release_date": "2018-03-09",
+    "available_set": [
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "LEGENDARY COLLECTION KAIBA"
+    ],
+    "related_card": [
+        "Loop of Destruction",
+        "Ring of Destruction",
+        "The Fang of Critias"
+    ],
+    "attribute": "FIRE",
+    "attack": 2000,
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

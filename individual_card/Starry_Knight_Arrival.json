@@ -1,0 +1,18 @@
+{
+    "name": "Starry Knight Arrival",
+    "filename": "Starry_Knight_Arrival",
+    "card_text": "During the Main Phase: You can activate 1 of these effects;\n\u25cfTarget 1 Level 7 LIGHT Dragon monster you control; return it to the hand.\n\u25cfSpecial Summon 1 Level 7 LIGHT Dragon monster from your hand.\nYou can only use this effect of \"Starry Knight Arrival\" once per turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Starry Knight Balefire",
+        "Starry Knight Ciel",
+        "Starry Knight Orbitael",
+        "Starry Knight Rayel",
+        "Starry Knight Sky"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Emissary from the House of Wax",
+    "filename": "Emissary_from_the_House_of_Wax",
+    "card_text": "When an opponent's monster declares an attack: You can Special Summon this card from your hand. You can only use this effect of \"Emissary from the House of Wax\" once per turn. If this card battles a monster, neither can be destroyed by that battle. At the end of your opponent's Battle Phase: You can activate this effect; until the start of your opponent's next Battle Phase, all Attack Position monsters your opponent currently controls cannot change their battle positions, nor be used as material for a Fusion, Synchro, Xyz, or Link Summon, also their effects are negated.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 800,
+    "defense": 1800,
+    "monster_type": "Illusion",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Soul Resurrection",
+    "filename": "Soul_Resurrection",
+    "card_text": "Activate this card by targeting 1 Normal Monster in your Graveyard; Special Summon it in Defense Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY",
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "SUPER STARTER SPACE-TIME SHOWDOWN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

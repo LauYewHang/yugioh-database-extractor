@@ -1,0 +1,22 @@
+{
+    "name": "Underworld Ritual of Prediction",
+    "filename": "Underworld_Ritual_of_Prediction",
+    "card_text": "This card is used to Ritual Summon any \"Prediction Princess\" Ritual Monster from your hand or GY in face-up Attack Position or face-down Defense Position. You must also Tribute monsters from your hand or field, whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. During the Standby Phase, if you control a \"Prediction Princess\" Ritual Monster: You can banish this card from your GY; Special Summon 1 non-Ritual \"Prediction Princess\" monster from your Deck in face-down Defense Position.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Prediction Princess Arrowsylph",
+        "Prediction Princess Astromorrigan",
+        "Prediction Princess Bibliomuse",
+        "Prediction Princess Coinorma",
+        "Prediction Princess Crystaldine",
+        "Prediction Princess Petalelf",
+        "Prediction Princess Tarotrei",
+        "Prediction Princess Tarotreith"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

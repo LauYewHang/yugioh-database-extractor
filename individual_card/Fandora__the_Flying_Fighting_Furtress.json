@@ -1,0 +1,36 @@
+{
+    "name": "Fandora, the Flying Fighting Furtress",
+    "filename": "Fandora__the_Flying_Fighting_Furtress",
+    "card_text": "(This card is always treated as a card \"Fur Hire\".)\nMonsters \"Fur Hire\" you control gain 300 ATK for each monster \"Fur Hire\" you control with a different name. You can only use each of the following effects of \"Fandora, the Flying Fighting Furtress\" once per turn. During your Main Phase: You can add 1 monster \"Fur Hire\" from your Deck to your hand, then discard 1 card. If a face-up monster(s) \"Fur Hire\" you control is destroyed by an opponent's card effect (except during the Damage Step): You can Special Summon 1 monster \"Fur Hire\" from your Deck.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Beat, Bladesman Fur Hire",
+        "Bravo, Fighter Fur Hire",
+        "Donner, Dagger Fur Hire",
+        "Donpa, Marksman Fur Hire",
+        "Dyna, Hero Fur Hire",
+        "Fandora, the Flying Furtress",
+        "Filo, Messenger Fur Hire",
+        "Folgo, Justice Fur Hire",
+        "Furtive Techniques Fur Hire, Fur All Your Ultimate Moves",
+        "Helmer, Helmsman Fur Hire",
+        "Keel, Shipwright Fur Hire",
+        "Mayhem Fur Hire",
+        "Rafale, Champion Fur Hire",
+        "Recon, Scout Fur Hire",
+        "Rex, Freight Fur Hire",
+        "Rex, Ride Fur Hire",
+        "Rookie Fur Hire",
+        "Sagitta, Maverick Fur Hire",
+        "Seal, Strategist Fur Hire",
+        "Training Fur Hire, Fur All Your Training Needs",
+        "Whirlwind Fur Hire",
+        "Wiz, Sage Fur Hire"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

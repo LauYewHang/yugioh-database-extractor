@@ -1,0 +1,12 @@
+{
+    "name": "Dragoncarnation",
+    "filename": "Dragoncarnation",
+    "card_text": "Target 1 of your banished Dragon-Type monsters; add that target to your hand.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

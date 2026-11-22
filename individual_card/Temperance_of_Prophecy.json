@@ -1,0 +1,37 @@
+{
+    "name": "Temperance of Prophecy",
+    "filename": "Temperance_of_Prophecy",
+    "card_text": "During your Main Phase, if you have activated a \"Spellbook\" Spell Card previously this turn: You can Tribute this card; Special Summon 1 Level 5 or higher LIGHT or DARK Spellcaster-Type monster from your Deck. You cannot Special Summon another Level 5 or higher monster during the turn you activate this effect.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Hidden Spellbook (Updated from: Hidden Book of Spell)",
+        "Spellbook Library of the Crescent",
+        "Spellbook Library of the Heliosphere",
+        "Spellbook Magician of Prophecy",
+        "Spellbook of Eternity",
+        "Spellbook of Fate",
+        "Spellbook of Judgment",
+        "Spellbook of Knowledge",
+        "Spellbook of Life",
+        "Spellbook of Miracles",
+        "Spellbook of Power",
+        "Spellbook of Secrets",
+        "Spellbook of the Grand Circle",
+        "Spellbook of the Master",
+        "Spellbook of Wisdom",
+        "Spellbook Organization (Updated from: Pigeonholing Books of Spell)",
+        "Spellbook Star Hall",
+        "Stoic of Prophecy",
+        "The Grand Spellbook Tower"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

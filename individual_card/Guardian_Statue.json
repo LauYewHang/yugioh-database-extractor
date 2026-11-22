@@ -1,0 +1,22 @@
+{
+    "name": "Guardian Statue",
+    "filename": "Guardian_Statue",
+    "card_text": "Once per turn, you can flip this card into face-down Defense Position. When this card is Flip Summoned, return 1 monster on your opponent's side of the field to its owner's hand.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "THE LOST MILLENNIUM",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug"
+    ],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 1400,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

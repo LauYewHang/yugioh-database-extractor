@@ -1,0 +1,12 @@
+{
+    "name": "Damage Polarizer",
+    "filename": "Damage_Polarizer",
+    "card_text": "Activate only when an effect that inflicts damage is activated. Negate its activation and effect, and each player draws 1 card.",
+    "release_date": "2007-03-07",
+    "available_set": [
+        "DUELIST PACK - ZANE TRUESDALE -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

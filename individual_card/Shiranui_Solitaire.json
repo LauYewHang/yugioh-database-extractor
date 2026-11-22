@@ -1,0 +1,41 @@
+{
+    "name": "Shiranui Solitaire",
+    "filename": "Shiranui_Solitaire",
+    "card_text": "You can Tribute 1 Zombie monster; Special Summon 1 Zombie Tuner with 0 DEF from your Deck. If this card is banished: You can target 1 of your banished \"Shiranui\" monsters, except \"Shiranui Solitaire\", or up to 2 instead if \"Shiranui Style Synthesis\" is on the field; Special Summon them. You can only use each effect of \"Shiranui Solitaire\" once per turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "THE DARK ILLUSION",
+        "2017 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: ZOMBIE HORDE"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Samuraisaga",
+        "Shiranui Shogunsaga",
+        "Shiranui Skillsaga Supremacy",
+        "Shiranui Smith",
+        "Shiranui Spectralsword",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Squire",
+        "Shiranui Squiresaga",
+        "Shiranui Style Samsara",
+        "Shiranui Style Solemnity",
+        "Shiranui Style Success",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Style Synthesis",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster",
+        "Shiranui Swordsaga"
+    ],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

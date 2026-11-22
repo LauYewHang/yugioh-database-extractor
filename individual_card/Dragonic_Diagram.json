@@ -1,0 +1,36 @@
+{
+    "name": "Dragonic Diagram",
+    "filename": "Dragonic_Diagram",
+    "card_text": "All \"True Draco\" and \"True King\" monsters on the field gain 300 ATK/DEF. The first time each Tribute Summoned \"True Draco\" or \"True King\" monster would be destroyed by battle each turn, it is not destroyed. Once per turn: You can destroy 1 other card you control or in your hand, and if you do, add 1 \"True Draco\" or \"True King\" card from your Deck to your hand.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "2018 MEGA-TINS MEGA PACK",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Dinomight Knight, the True Dracofighter",
+        "Disciples of the True Dracophoenix",
+        "Dreiath III, the True Dracocavalry General",
+        "Forge of the True Dracos",
+        "Ignis Heat, the True Dracowarrior",
+        "Majesty Maiden, the True Dracocaster",
+        "Mariamne Paradox, the True Dracophoenix Knight",
+        "Mariamne, the True Dracophoenix",
+        "Master Peace, the True Dracoslayer",
+        "Master Peace, the True Dracoslaying King",
+        "Master Peace, the True Dracoverlord",
+        "Metaltron XII, the True Dracombatant",
+        "True Draco Apocalypse",
+        "True Draco Heritage",
+        "True King Agnimazud, the Vanisher",
+        "True King Bahrastos, the Fathomer",
+        "True King Lithosagym, the Disaster",
+        "True King of All Calamities",
+        "True King's Return"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

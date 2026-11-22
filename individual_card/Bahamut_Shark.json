@@ -1,0 +1,21 @@
+{
+    "name": "Bahamut Shark",
+    "filename": "Bahamut_Shark",
+    "card_text": "2 Level 4 WATER monsters\nOnce per turn: You can detach 1 material from this card; Special Summon 1 Rank 3 or lower WATER Xyz Monster from your Extra Deck. This card cannot attack for the rest of this turn.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "ABYSS RISING",
+        "OTS TOURNAMENT PACK 13",
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2600,
+    "defense": 2100,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

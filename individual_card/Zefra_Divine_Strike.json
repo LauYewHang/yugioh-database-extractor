@@ -1,0 +1,31 @@
+{
+    "name": "Zefra Divine Strike",
+    "filename": "Zefra_Divine_Strike",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated: Banish 1 face-up \"Zefra\" monster in your Extra Deck; negate the activation, and if you do, destroy it.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "PENDULUM EVOLUTION",
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "Chosen of Zefra",
+        "Oracle of Zefra",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Satellarknight Zefrathuban",
+        "Shaddoll Zefracore",
+        "Shaddoll Zefranaga",
+        "Stellarknight Zefraxciton",
+        "Zefra Metaltron",
+        "Zefra Path",
+        "Zefra Providence",
+        "Zefra War",
+        "Zefraath",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

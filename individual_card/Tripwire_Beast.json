@@ -1,0 +1,18 @@
+{
+    "name": "Tripwire Beast",
+    "filename": "Tripwire_Beast",
+    "card_text": "This creature attacks with electromagnetic waves.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1300,
+    "monster_type": "Thunder",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

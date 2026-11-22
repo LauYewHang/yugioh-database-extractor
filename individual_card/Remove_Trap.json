@@ -1,0 +1,19 @@
+{
+    "name": "Remove Trap",
+    "filename": "Remove_Trap",
+    "card_text": "Target 1 face-up Trap on the field; destroy it.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "STARTER DECK KAIBA",
+        "STARTER DECK YUGI Evolution",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "STARTER DECK JOEY",
+        "STARTER DECK PEGASUS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

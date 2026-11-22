@@ -1,0 +1,27 @@
+{
+    "name": "Doomcaliber Knight",
+    "filename": "Doomcaliber_Knight",
+    "card_text": "Cannot be Special Summoned. When a monster effect is activated (Quick Effect): Tribute this face-up card; negate the activation, and if you do, destroy that monster.",
+    "release_date": "2008-03-08",
+    "available_set": [
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "SHONEN JUMP Championship 2008",
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2024 Celebration Event",
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "BATTLE PACK EPIC DAWN",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "TURBO PACK BOOSTER ONE",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1900,
+    "defense": 1800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

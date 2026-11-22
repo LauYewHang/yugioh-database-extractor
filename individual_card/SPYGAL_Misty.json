@@ -1,0 +1,21 @@
+{
+    "name": "SPYGAL Misty",
+    "filename": "SPYGAL_Misty",
+    "card_text": "If this card is Normal or Special Summoned: You can declare 1 card type (Monster, Spell, or Trap); reveal the top card of your opponent's Deck, and if you do, draw 1 card if it is a card of that type. Once per turn, during either player's turn: You can target 1 \"SPYRAL Super Agent\" you control and 1 monster your opponent controls; return both monsters to the hand.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "SPYRAL Double Helix",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

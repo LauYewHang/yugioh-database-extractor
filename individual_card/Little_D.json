@@ -1,0 +1,17 @@
+{
+    "name": "Little D",
+    "filename": "Little_D",
+    "card_text": "Yo, this tyrannosaurus tot's got a terrible temper.",
+    "release_date": "2013-10-11",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1100,
+    "defense": 700,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

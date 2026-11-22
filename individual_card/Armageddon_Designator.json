@@ -1,0 +1,13 @@
+{
+    "name": "Armageddon Designator",
+    "filename": "Armageddon_Designator",
+    "card_text": "Banish 1 card from your hand; neither player can activate cards, or the effects of cards, with that name for the rest of this Duel.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

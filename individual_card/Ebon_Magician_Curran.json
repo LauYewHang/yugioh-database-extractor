@@ -1,0 +1,21 @@
+{
+    "name": "Ebon Magician Curran",
+    "filename": "Ebon_Magician_Curran",
+    "card_text": "During your Standby Phase, inflict 300 damage to your opponent for each monster they control.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Trial of the Princesses"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

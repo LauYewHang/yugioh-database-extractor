@@ -1,0 +1,30 @@
+{
+    "name": "You're in Danger!",
+    "filename": "You_re_in_Danger_",
+    "card_text": "Reveal 3 \"Danger!\" monsters with different names from your Deck, your opponent randomly picks 1 for you to Special Summon, and you shuffle the rest into the Deck. During the End Phase, destroy that Special Summoned monster. You can only activate 1 \"You're in Danger!\" per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Danger! Bigfoot!",
+        "Danger! Chupacabra!",
+        "Danger! Disturbance! Disorder!",
+        "Danger! Dogman!",
+        "Danger! Excitement! Mystery!",
+        "Danger! Feets of Strength!",
+        "Danger! Mothman!",
+        "Danger! Nessie!",
+        "Danger! Ogopogo!",
+        "Danger! Response Team",
+        "Danger! Thunderbird!",
+        "Danger! Zone",
+        "Danger!? Jackalope?",
+        "Danger!? Tsuchinoko?",
+        "Realm of Danger!",
+        "Second Expedition into Danger!"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

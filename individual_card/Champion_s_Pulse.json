@@ -1,0 +1,25 @@
+{
+    "name": "Champion's Pulse",
+    "filename": "Champion_s_Pulse",
+    "card_text": "Activate 1 of these effects;\n\u25cfDuring your opponent's Battle Phase: Your opponent gains 1000 LP, then end the Battle Phase.\n\u25cfWhen your opponent activates a monster effect, while they control more cards than you do: Special Summon 1 \"Red Dragon Archfiend\" or \"Hot Red Dragon Archfiend\" from your Extra Deck or GY, and if you do, negate that effect, and if you do that, destroy that card.\nYou can only activate 1 \"Champion's Pulse\" per turn.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [
+        "Crimson Call",
+        "Crimson Gaia",
+        "Fiend Piece Golem",
+        "Fiendish Golem",
+        "Hot Red Dragon Archfiend",
+        "Red Dragon Archfiend",
+        "Red Zone",
+        "Scarlight Red Dragon Archfiend",
+        "Scarred Dragon Archfiend",
+        "Soul Resonator",
+        "The Crimson King",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

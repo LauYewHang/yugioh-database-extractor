@@ -1,0 +1,33 @@
+{
+    "name": "Springans Watch",
+    "filename": "Springans_Watch",
+    "card_text": "Add 1 \"Great Sand Sea - Gold Golgonda\" from your Deck to your hand. If \"Great Sand Sea - Gold Golgonda\" is in your Field Zone, you can apply this effect instead.\n\u25cfAdd 1 \"Springans\" monster from your Deck to your hand, and if you do, send 1 \"Springans\" monster from your Deck to the GY.\nYou can only activate 1 \"Springans Watch\" per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "Decisive Battle of Golgonda",
+        "Gigantic \"Champion\" Sargas",
+        "Great Sand Sea - Gold Golgonda",
+        "Gung-Ho! Springans!",
+        "Spright Smashers",
+        "Sprind the Irondash Dragon",
+        "Springans Blast!",
+        "Springans Booty",
+        "Springans Branga",
+        "Springans Brothers",
+        "Springans Call!",
+        "Springans Captain Sargas",
+        "Springans Interluder",
+        "Springans Kitt",
+        "Springans Merrymaker",
+        "Springans Pedor",
+        "Springans Rockey",
+        "Springans Ship - Exblowrer",
+        "Tally-ho! Springans",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

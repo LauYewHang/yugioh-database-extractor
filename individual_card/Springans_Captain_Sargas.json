@@ -1,0 +1,38 @@
+{
+    "name": "Springans Captain Sargas",
+    "filename": "Springans_Captain_Sargas",
+    "card_text": "If this card is in your hand, field, or GY: You can target 1 \"Springans\" Xyz Monster you control; attach this card to it as material. During your opponent's turn (Quick Effect): You can detach 1 material from an Xyz Monster you control, then target 1 face-up card on the field; destroy it. You can only use each of the previous effects of \"Springans Captain Sargas\" once per turn. A \"Springans\" Xyz Monster that has this card as material gains this effect.\n\u25cfThis card gains 500 ATK.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "Decisive Battle of Golgonda",
+        "Gigantic \"Champion\" Sargas",
+        "Great Sand Sea - Gold Golgonda",
+        "Gung-Ho! Springans!",
+        "Spright Smashers",
+        "Sprind the Irondash Dragon",
+        "Springans Blast!",
+        "Springans Booty",
+        "Springans Branga",
+        "Springans Brothers",
+        "Springans Call!",
+        "Springans Interluder",
+        "Springans Kitt",
+        "Springans Merrymaker",
+        "Springans Pedor",
+        "Springans Rockey",
+        "Springans Ship - Exblowrer",
+        "Springans Watch",
+        "Tally-ho! Springans",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

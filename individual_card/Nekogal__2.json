@@ -1,0 +1,17 @@
+{
+    "name": "Nekogal #2",
+    "filename": "Nekogal__2",
+    "card_text": "A fast and lethal creature with very dangerous claws.",
+    "release_date": "2005-11-01",
+    "available_set": [
+        "TOURNAMENT PACK 7"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 2000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

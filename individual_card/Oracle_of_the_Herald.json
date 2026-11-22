@@ -1,0 +1,15 @@
+{
+    "name": "Oracle of the Herald",
+    "filename": "Oracle_of_the_Herald",
+    "card_text": "This card is used to Ritual Summon \"Herald of Ultimateness\". You must also Tribute monsters from your hand or field whose total Levels equal 12 or more. Your opponent cannot activate cards or effects in response to this card's activation.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "Herald of Ultimateness"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Hazy Flame Hyppogrif",
+    "filename": "Hazy_Flame_Hyppogrif",
+    "card_text": "Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.",
+    "release_date": "2013-02-08",
+    "available_set": [
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Hazy Flame Cerbereus",
+        "Hazy Flame Hydra",
+        "Hazy Flame Peryton",
+        "Hazy Glory",
+        "Hazy Pillar"
+    ],
+    "attribute": "FIRE",
+    "attack": 2100,
+    "defense": 200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

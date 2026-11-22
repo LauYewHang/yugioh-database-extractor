@@ -1,0 +1,41 @@
+{
+    "name": "Chronomaly Tula Guardian",
+    "filename": "Chronomaly_Tula_Guardian",
+    "card_text": "If there is a face-up Field Spell Card on the field, you can Special Summon this card (from your hand). You can only control 1 \"Chronomaly Tula Guardian\".",
+    "release_date": "2014-03-28",
+    "available_set": [
+        "PREMIUM GOLD"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Chronomaly Acambaro Figures",
+        "Chronomaly Cabrera Trebuchet",
+        "Chronomaly City Babylon",
+        "Chronomaly Crystal Bones",
+        "Chronomaly Crystal Skull",
+        "Chronomaly Esperanza Glyph",
+        "Chronomaly Golden Jet",
+        "Chronomaly Gordian Knot",
+        "Chronomaly Magella Globe",
+        "Chronomaly Moai",
+        "Chronomaly Mud Golem",
+        "Chronomaly Nebra Disk",
+        "Chronomaly Pyramid Eye Tablet",
+        "Chronomaly Sol Monolith",
+        "Chronomaly Technology",
+        "Chronomaly Temple - Trilithon",
+        "Chronomaly Tuspa Rocket",
+        "Chronomaly Vimana",
+        "Chronomaly Winged Sphinx",
+        "Number 36: Chronomaly Chateau Huyuk",
+        "Principug",
+        "Stonehenge Methods"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 900,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

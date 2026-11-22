@@ -1,0 +1,27 @@
+{
+    "name": "Cyber Barrier Dragon",
+    "filename": "Cyber_Barrier_Dragon",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Attack Reflector Unit\". Once per turn, while this card is in Attack Position, your opponent's next attack is negated.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Attack Reflector Unit",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

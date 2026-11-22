@@ -1,0 +1,30 @@
+{
+    "name": "Super Koi Koi",
+    "filename": "Super_Koi_Koi",
+    "card_text": "Excavate the top 3 cards of your Deck and Special Summon as many \"Flower Cardian\" monsters among them as possible, ignoring their Summoning conditions, but their Levels become 2 and they have their effects negated. Banish the remaining cards, face-down, and if you do, lose 1000 LP for each. You can banish this card from your Graveyard and Tribute 1 monster; Special Summon 1 \"Flower Cardian\" monster from your hand, ignoring its Summoning conditions. You can only activate 1 \"Super Koi Koi\" per turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Flower Cardian Boardefly",
+        "Flower Cardian Cherry Blossom",
+        "Flower Cardian Cherry Blossom with Curtain",
+        "Flower Cardian Clover with Boar",
+        "Flower Cardian Lightflare",
+        "Flower Cardian Lightshower",
+        "Flower Cardian Maple with Deer",
+        "Flower Cardian Moonflowerviewing",
+        "Flower Cardian Paulownia",
+        "Flower Cardian Paulownia with Phoenix",
+        "Flower Cardian Peony with Butterfly",
+        "Flower Cardian Pine",
+        "Flower Cardian Pine with Crane",
+        "Flower Cardian Willow",
+        "Flower Cardian Willow with Calligrapher",
+        "Flower Cardian Zebra Grass",
+        "Flower Cardian Zebra Grass with Moon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

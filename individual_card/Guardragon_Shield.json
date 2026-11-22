@@ -1,0 +1,13 @@
+{
+    "name": "Guardragon Shield",
+    "filename": "Guardragon_Shield",
+    "card_text": "You can target 1 Dragon monster you control; it gains ATK/DEF equal to the total Link Rating of the Link Monsters currently on the field x 100, until the end of the opponent's turn. You can only use this effect of \"Guardragon Shield\" once per turn. Once per turn, if exactly 1 Dragon monster you control would be destroyed by battle or card effect, you can send 1 Normal Monster from your hand or Deck to the GY instead.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Mimighoul Charm",
+    "filename": "Mimighoul_Charm",
+    "card_text": "Once per Chain, during the Main Phase, if a \"Mimighoul\" monster your opponent controls is flipped face-up: You can randomly choose 1 face-down card in your opponent's Extra Deck, and if it is a monster that can be Special Summoned, Special Summon it to your field, but it cannot activate its effects this turn. If it wasn't, or couldn't be Special Summoned, banish that card. You can only use this effect of \"Mimighoul Charm\" twice per turn.",
+    "release_date": "2024-10-05",
+    "available_set": [
+        "RAGE OF THE ABYSS Core Booster Premiere!",
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Giant Mimighoul",
+        "Mimighoul Archfiend",
+        "Mimighoul Armor",
+        "Mimighoul Cerberus",
+        "Mimighoul Dragon",
+        "Mimighoul Dungeon",
+        "Mimighoul Fairy",
+        "Mimighoul Flower",
+        "Mimighoul Fork",
+        "Mimighoul Maker",
+        "Mimighoul Master",
+        "Mimighoul Room",
+        "Mimighoul Slime",
+        "Mimighoul Throne"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Good & Evil in the Burning Abyss",
+    "filename": "Good___Evil_in_the_Burning_Abyss",
+    "card_text": "This card is used to Ritual Summon \"Malacoda, Netherlord of the Burning Abyss\". You must also Tribute monsters from your hand or field whose total Levels equal 6 or more. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard and send 1 \"Burning Abyss\" monster from your hand to the Graveyard; add 1 \"Burning Abyss\" card from your Deck to your hand. You can only use this effect of \"Good & Evil in the Burning Abyss\" once per turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY",
+        "SECRETS OF ETERNITY SUPER EDITION"
+    ],
+    "related_card": [
+        "Alich, Malebranche of the Burning Abyss",
+        "Barbar, Malebranche of the Burning Abyss",
+        "Beatrice, Lady of the Eternal",
+        "Cagna, Malebranche of the Burning Abyss",
+        "Calcab, Malebranche of the Burning Abyss",
+        "Cherubini, Ebon Angel of the Burning Abyss",
+        "Cir, Malebranche of the Burning Abyss",
+        "Dante, Pilgrim of the Burning Abyss",
+        "Dante, Traveler of the Burning Abyss",
+        "Draghig, Malebranche of the Burning Abyss",
+        "Farfa, Malebranche of the Burning Abyss",
+        "Fire Lake of the Burning Abyss",
+        "Graff, Malebranche of the Burning Abyss",
+        "Libic, Malebranche of the Burning Abyss",
+        "Malacoda, Netherlord of the Burning Abyss",
+        "Rubic, Malebranche of the Burning Abyss",
+        "Scarm, Malebranche of the Burning Abyss",
+        "The Terminus of the Burning Abyss",
+        "The Traveler and the Burning Abyss",
+        "Virgil, Rock Star of the Burning Abyss"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

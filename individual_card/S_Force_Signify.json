@@ -1,0 +1,37 @@
+{
+    "name": "S-Force Signify",
+    "filename": "S_Force_Signify",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"S-Force\" monster from your Deck to your hand, except \"S-Force Signify\", then if your opponent controls a monster in this card's column, you can draw 1 card. If your opponent activates a monster effect in the same column as a monster you control (except during the Damage Step): You can make all \"S-Force\" monsters you control gain 1000 ATK. You can only use each effect of \"S-Force Signify\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

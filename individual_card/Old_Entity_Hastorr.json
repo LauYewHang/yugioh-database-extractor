@@ -1,0 +1,20 @@
+{
+    "name": "Old Entity Hastorr",
+    "filename": "Old_Entity_Hastorr",
+    "card_text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is sent from the Monster Zone to the Graveyard: You can target 1 face-up monster your opponent controls; equip this card from your Graveyard to that monster. That monster cannot attack, also its effects are negated. If this card leaves the field while equipped to an opponent's monster by this effect: Take control of the monster this card was equipped to.",
+    "release_date": "2015-09-18",
+    "available_set": [
+        "2015 MEGA-TINS"
+    ],
+    "related_card": [
+        "Forbidden Trapezohedron",
+        "Outer Entity Azathot"
+    ],
+    "attribute": "WIND",
+    "attack": 2300,
+    "defense": 1000,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

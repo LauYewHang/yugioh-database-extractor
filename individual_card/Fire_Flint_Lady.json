@@ -1,0 +1,18 @@
+{
+    "name": "Fire Flint Lady",
+    "filename": "Fire_Flint_Lady",
+    "card_text": "If you control a Warrior monster: You can Special Summon this card from your hand. You can send this card from the field to the GY; Special Summon 1 Level 4 or lower Warrior monster from your hand, and if you do, your opponent cannot target it with card effects this turn. You can only use each effect of \"Fire Flint Lady\" once per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "OTS TOURNAMENT PACK 24"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

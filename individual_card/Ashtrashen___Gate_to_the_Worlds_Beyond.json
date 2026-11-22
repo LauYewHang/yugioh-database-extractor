@@ -1,0 +1,22 @@
+{
+    "name": "Ashtrashen - Gate to the Worlds Beyond",
+    "filename": "Ashtrashen___Gate_to_the_Worlds_Beyond",
+    "card_text": "You can target any number of face-down cards you control; add \"Ashtra\" cards from your Deck to your hand, except Field Spells, each with a different name, equal to the number of those face-down cards, then send those face-down cards to the GY. If you control an \"Ashtra\" monster and a face-down card, and either player Sets a card: You can target 1 card on the field; return it to the hand. You can only use each effect of \"Ashtrashen - Gate to the Worlds Beyond\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Akasuna the Battle Ashtra",
+        "Ashtra's Domain",
+        "Ashtra's Howl",
+        "Ashtra's Web",
+        "Ashtraja Susanoo",
+        "Ashtraya Mikumari-no-Mikoto",
+        "Kuzuha the Hex Ashtra",
+        "Mikumari the Banisher Ashtra",
+        "Yoa the Plague Ashtra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

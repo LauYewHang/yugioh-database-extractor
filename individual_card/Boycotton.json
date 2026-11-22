@@ -1,0 +1,18 @@
+{
+    "name": "Boycotton",
+    "filename": "Boycotton",
+    "card_text": "You take any battle damage your opponent would have taken from battles involving this card, instead. If this card battles, is not destroyed, and you took damage from that battle: Return this card to the hand.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 2500,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Tindangle Hound",
+    "filename": "Tindangle_Hound",
+    "card_text": "FLIP: You can target 1 other face-up monster on the field; this card gains ATK equal to that target's original ATK, then change that target to face-down Defense Position.\nEach monster your opponent controls loses 1000 ATK for each monster linked to it. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 face-down monster on the field; change it to face-up Defense Position.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE"
+    ],
+    "related_card": [
+        "Euler's Circuit",
+        "Gergonne's End",
+        "Nagel's Protection",
+        "Stairs of Mail",
+        "Tindangle Acute Cerberus",
+        "Tindangle Base Gardna",
+        "Tindangle Delaunay",
+        "Tindangle Dholes",
+        "Tindangle Intruder",
+        "Tindangle Jhrelth",
+        "Tindangle Protector",
+        "Tindangle Trinity"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Starry Knight Flamel",
+    "filename": "Starry_Knight_Flamel",
+    "card_text": "When an opponent's monster declares an attack: You can send this card from your hand or face-up field to the GY; Special Summon 1 Level 7 LIGHT Dragon monster from your hand. (Quick Effect): You can banish this card from your GY, then target 1 Level 7 LIGHT Dragon monster you control or in your GY; return it to your hand. You can only use 1 \"Starry Knight Flamel\" effect per turn, and only once that turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Starry Knight Balefire",
+        "Starry Knight Ciel",
+        "Starry Knight Orbitael",
+        "Starry Knight Rayel",
+        "Starry Knight Sky"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

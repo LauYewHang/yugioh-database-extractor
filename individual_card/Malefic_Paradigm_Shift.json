@@ -1,0 +1,30 @@
+{
+    "name": "Malefic Paradigm Shift",
+    "filename": "Malefic_Paradigm_Shift",
+    "card_text": "Add to your hand, or place face-up in your Field Zone, 1 \"Malefic World\" from your Deck or GY, then Special Summon 1 \"Malefic\" monster from your Deck or Extra Deck in Defense Position, ignoring its Summoning conditions, then if your opponent controls a monster with 2500 or more ATK, all face-up monsters they currently control lose 2500 ATK until the end of this turn. You can activate this card from your hand by paying half your LP. You can only activate 1 \"Malefic Paradigm Shift\" per turn.",
+    "release_date": "2026-09-04",
+    "available_set": [
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Malefic Blue-Eyes White Dragon",
+        "Malefic Claw Stream",
+        "Malefic Cyber End Dragon",
+        "Malefic Divide",
+        "Malefic Force",
+        "Malefic Paradigm Dragon",
+        "Malefic Paradox Dragon",
+        "Malefic Paradox Gear",
+        "Malefic Parallel Gear",
+        "Malefic Rainbow Dragon",
+        "Malefic Red-Eyes Black Dragon (Updated from: Malefic Red-Eyes B. Dragon)",
+        "Malefic Selector",
+        "Malefic Stardust Dragon",
+        "Malefic Territory",
+        "Malefic Truth Dragon",
+        "Malefic Tune",
+        "Malefic World"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

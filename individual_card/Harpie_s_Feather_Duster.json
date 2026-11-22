@@ -1,0 +1,42 @@
+{
+    "name": "Harpie's Feather Duster",
+    "filename": "Harpie_s_Feather_Duster",
+    "card_text": "Destroy all Spells and Traps your opponent controls.",
+    "release_date": "2003-04-15",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "OTS TOURNAMENT PACK 24",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "LEGENDARY MODERN DECKS 2026",
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX",
+        "Yu-Gi-Oh! Worldwide Edition - Stairway to the Destined Duel - Bundles",
+        "MAGNIFICENT MAVENS",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "YU-GI-OH! EARLY DAYS COLLECTION",
+        "Gold Series: Maximum Gold",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "WINNER'S PACK 2026-2027",
+        "BATTLE PACK EPIC DAWN",
+        "TOURNAMENT PACK 8",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Alluring Mirror Split",
+        "Cyber Slash Harpie Lady",
+        "Gryphon Wing",
+        "Harpie Channeler",
+        "Harpie Conductor",
+        "Harpie Lady Elegance",
+        "Harpie Oracle",
+        "Harpie Perfumer",
+        "Harpie's Feather Rest",
+        "Harpie's Feather Storm",
+        "Harpie's Pet Baby Dragon",
+        "Harpie's Pet Dragon - Fearsome Fire Blast",
+        "Harpie's Pet Phantasmal Dragon",
+        "Hysteric Sign"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

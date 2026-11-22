@@ -1,0 +1,17 @@
+{
+    "name": "Unformed Void",
+    "filename": "Unformed_Void",
+    "card_text": "3 Level 4 monsters\nOnce per turn, during your opponent's Main Phase: You can detach 1 Xyz Material from this card; this card gains ATK and DEF equal to the total ATK of all face-up Xyz Monsters your opponent currently controls (this is a Quick Effect).",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

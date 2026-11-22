@@ -1,0 +1,32 @@
+{
+    "name": "Deus X-Krawler",
+    "filename": "Deus_X_Krawler",
+    "card_text": "When your opponent activates a card or effect that targets this face-down monster (Quick Effect): You can change this card to face-up Defense Position; negate the activation, and if you do, destroy that card. After this card was flipped face-up, while it is in the Monster Zone, negate all monster effects activated on your opponent's field. If this card on the field is destroyed by battle or card effect: You can add, from your Deck to your hand, 1 Level 9 monster with a different original Type and Attribute than this card. You can only use this effect of \"Deus X-Krawler\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Krawler Axon",
+        "Krawler Dendrite",
+        "Krawler Glial",
+        "Krawler Ranvier",
+        "Krawler Receptor",
+        "Krawler Soma",
+        "Krawler Spine",
+        "World Legacy in Shadow",
+        "World Legacy Pawns",
+        "World Legacy Survivor",
+        "World Legacy's Mind Meld",
+        "X-Krawler Neurogos",
+        "X-Krawler Qualiark",
+        "X-Krawler Synaphysis"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 3000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Brain Crusher",
+    "filename": "Brain_Crusher",
+    "card_text": "Once per turn, during the End Phase, if this card destroyed an opponent's monster by battle and sent it to the GY this turn while you controlled it: You can target 1 of those destroyed monsters in the GY; Special Summon that target.",
+    "release_date": "2007-01-02",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "Yu-Gi-Oh! GX SPIRIT CALLER Bundles",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1500,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Cyberdark Realm",
+    "filename": "Cyberdark_Realm",
+    "card_text": "When this card is activated: You can add 1 \"Cyberdark\" monster from your Deck to your hand, with a different name from the cards in your GY. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 \"Cyberdark\" monster. You can only use the previous effect of \"Cyberdark Realm\" once per turn. If you equip a monster from your GY by the effect of a \"Cyberdark\" monster that activated when it was Normal or Special Summoned, you can equip from your opponent's GY instead. You can only activate 1 \"Cyberdark Realm\" per turn.",
+    "release_date": "2021-10-15",
+    "available_set": [
+        "STRUCTURE DECK: CYBER STRIKE"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Dragon Core",
+        "Cyber Eternal",
+        "Cyberdark Cannon",
+        "Cyberdark Chimera",
+        "Cyberdark Claw",
+        "Cyberdark Dragon",
+        "Cyberdark Edge",
+        "Cyberdark End Dragon",
+        "Cyberdark Horn",
+        "Cyberdark Impact!",
+        "Cyberdark Inferno",
+        "Cyberdark Invasion",
+        "Cyberdark Keel",
+        "Cyberdark Wurm",
+        "Cyberdarkness Dragon",
+        "Cybernetic Horizon",
+        "Cybernetic Overflow",
+        "Prima Light"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Mirrorjade the Iceblade Dragon",
+    "filename": "Mirrorjade_the_Iceblade_Dragon",
+    "card_text": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field by an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
+    "release_date": "2022-04-15",
+    "available_set": [
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "RARITY COLLECTION 5",
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Albaz the Ashen",
+        "Albion the Shrouded Dragon",
+        "Branded in High Spirits",
+        "Branded Lost",
+        "Branded Sword",
+        "Ecclesia and the Dark Dragon",
+        "Fallen of Albaz",
+        "Fallen of the White Dragon",
+        "Guiding Quem, the Virtuous",
+        "Gung-Ho! Springans!",
+        "New Frontier",
+        "The Bystial Aluber",
+        "The Fallen & The Virtuous",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

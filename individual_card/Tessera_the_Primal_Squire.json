@@ -1,0 +1,35 @@
+{
+    "name": "Tessera the Primal Squire",
+    "filename": "Tessera_the_Primal_Squire",
+    "card_text": "You can reveal 1 \"Monarch\" Spell/Trap in your hand; Special Summon this card from your hand. During your Main Phase, you can: Immediately after this effect resolves, Tribute Summon 1 monster. If this card is sent to the GY: You can Special Summon 1 monster with 800 ATK/1000 DEF from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn. You can only use each effect of \"Tessera the Primal Squire\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Domain of the True Monarchs",
+        "Escalation of the Monarchs",
+        "Frost Blast of the Monarchs",
+        "March of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Restoration of the Monarchs",
+        "Return of the Monarchs",
+        "Strike of the Monarchs",
+        "Tenacity of the Monarchs",
+        "The First Monarch",
+        "The Monarchs Awaken",
+        "The Monarchs Erupt",
+        "The Monarchs Masterplan",
+        "The Monarchs Revolt",
+        "The Monarchs Stormforth",
+        "The Prime Monarch"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

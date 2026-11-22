@@ -1,0 +1,15 @@
+{
+    "name": "Contact with the Aquamirror",
+    "filename": "Contact_with_the_Aquamirror",
+    "card_text": "If you control a WATER monster: Activate 1 of these effects, or if you control a WATER Ritual Monster, you can activate both of these effects, in sequence;\n\u25cfLook at all Set cards in your opponent's Spell & Trap Zone.\n\u25cfLook at the top 2 cards of either player's Deck, then place them on the top of the Deck in any order.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "OTS TOURNAMENT PACK 21",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Focused Aquamirror"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

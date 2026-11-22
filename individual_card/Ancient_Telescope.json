@@ -1,0 +1,12 @@
+{
+    "name": "Ancient Telescope",
+    "filename": "Ancient_Telescope",
+    "card_text": "See the top 5 cards of your opponent's Deck. Return the cards to the Deck in the same order.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK KAIBA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

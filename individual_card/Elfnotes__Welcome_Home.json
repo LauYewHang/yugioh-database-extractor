@@ -1,0 +1,28 @@
+{
+    "name": "Elfnotes: Welcome Home",
+    "filename": "Elfnotes__Welcome_Home",
+    "card_text": "The monster in your center Main Monster Zone cannot be destroyed by card effects. You can send 1 monster from your hand or field to the GY; Special Summon 1 \"Elfnote\" monster with a different original Attribute from your Deck in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of \"Elfnotes: Welcome Home\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Elfnote Fortuna",
+        "Elfnote June Pride",
+        "Elfnote Lucina",
+        "Elfnote Power Patron",
+        "Elfnote Regina",
+        "Elfnote Seraphim Strelitzia",
+        "Elfnote Tinia",
+        "Elfnotes: A Plea for Help",
+        "Elfnotes: Aristeia of Trust",
+        "Elfnotes: Quatrain of Succession",
+        "Elfnotes: Rhapsodia of Madness",
+        "Junoldo the Shadespirit Power Patron",
+        "Junora the Power Patron of Tuning",
+        "Theorealize Past Lull"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

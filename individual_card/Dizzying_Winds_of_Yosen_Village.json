@@ -1,0 +1,31 @@
+{
+    "name": "Dizzying Winds of Yosen Village",
+    "filename": "Dizzying_Winds_of_Yosen_Village",
+    "card_text": "Activate this card only if you control a Level 6 or higher \"Yosenju\" monster. While you have a \"Yosenju\" card in your Pendulum Zone, if a monster would be returned from the field to the hand by a card effect, shuffle it into the Deck instead, unless it is a \"Yosenju\" monster.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosenju Izna",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Kodam",
+        "Yosenju Magat",
+        "Yosenju Misak",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Shinchu R",
+        "Yosenju Tsujik",
+        "Yosenju Wind Worship",
+        "Yosenjus' Secret Move",
+        "Yosenjus' Sword Sting"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

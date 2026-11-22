@@ -1,0 +1,38 @@
+{
+    "name": "Wind-Up Kitten",
+    "filename": "Wind_Up_Kitten",
+    "card_text": "Once while face-up on the field: You can target 1 monster your opponent controls; return that target to the hand.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "MAZE OF MEMORIES",
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Legendary Wind-Up Key",
+        "Overwind",
+        "Weights & Zenmaisures",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Factory",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaintenance",
+        "Zenmaiday",
+        "Zenmailfunction",
+        "Zenmailstrom",
+        "Zenmairch"
+    ],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 500,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

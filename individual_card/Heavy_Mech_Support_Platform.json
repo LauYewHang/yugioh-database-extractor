@@ -1,0 +1,24 @@
+{
+    "name": "Heavy Mech Support Platform",
+    "filename": "Heavy_Mech_Support_Platform",
+    "card_text": "Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 500 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "GEARGIA RAMPAGE STRUCTURE DECK",
+        "DARK REVELATION Volume 3",
+        "STRUCTURE DECK : SETO KAIBA",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "RISE OF DESTINY",
+        "STRUCTURE DECK MACHINE RE-VOLT",
+        "Speed Duel: Battle City Box",
+        "MACHINA MAYHEM STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Wall of Ivy",
+    "filename": "Wall_of_Ivy",
+    "card_text": "FLIP: Special Summon 1 \"Ivy Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0) in Defense Position to your opponent's side of the field. When this Token is destroyed, its controller takes 300 damage.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 1200,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

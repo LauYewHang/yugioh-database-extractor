@@ -1,0 +1,23 @@
+{
+    "name": "T.A.D.P.O.L.E.",
+    "filename": "T_A_D_P_O_L_E_",
+    "card_text": "When this card you control is destroyed by battle and sent to your Graveyard, you can add any \"T.A.D.P.O.L.E.\"(s) from your Deck to your hand.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Beelze Frog",
+        "Des Frog",
+        "Dupe Frog",
+        "Ronintoadin"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

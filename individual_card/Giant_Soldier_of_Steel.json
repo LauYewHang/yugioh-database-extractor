@@ -1,0 +1,18 @@
+{
+    "name": "Giant Soldier of Steel",
+    "filename": "Giant_Soldier_of_Steel",
+    "card_text": "2 Level 3 Rock-Type monsters\nThis card is unaffected by other monsters' effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; it gains 1000 DEF until the end of this turn, and if it does, you take no effect damage from your opponent's card effects this turn.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 2000,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

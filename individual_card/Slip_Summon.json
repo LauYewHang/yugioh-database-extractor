@@ -1,0 +1,13 @@
+{
+    "name": "Slip Summon",
+    "filename": "Slip_Summon",
+    "card_text": "Activate only when your opponent Summons a monster. Special Summon 1 Level 4 or lower monster from your hand in face-up Defense Position. Return it to the owner's hand during the End Phase.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "DUELIST PACK - YUSEI 2 -",
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

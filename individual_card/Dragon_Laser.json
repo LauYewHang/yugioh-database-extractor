@@ -1,0 +1,15 @@
+{
+    "name": "Dragon Laser",
+    "filename": "Dragon_Laser",
+    "card_text": "Send 1 \"Trigon\" equipped to a face-up \"Delta Tri\" you control to the Graveyard, and destroy all monsters your opponent controls.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Delta Tri",
+        "Trigon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

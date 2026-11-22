@@ -1,0 +1,32 @@
+{
+    "name": "Magical Musketeer Max",
+    "filename": "Magical_Musketeer_Max",
+    "card_text": "1 Level 8 or lower \"Magical Musket\" monster\nIf this card is Link Summoned: You can activate 1 of these effects;\n\u25cfAdd \"Magical Musket\" Spells/Traps with different names from your Deck to your hand, up to the number of monsters your opponent controls.\n\u25cfSpecial Summon \"Magical Musket\" monsters with different names from your Deck, up to the number of Spells/Traps your opponent controls.\nYou can only use this effect of \"Magical Musketeer Max\" once per turn. During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Desperado",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Starfire",
+        "Magical Musketeer Wild"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 4
+}

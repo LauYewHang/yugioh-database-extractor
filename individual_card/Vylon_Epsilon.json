@@ -1,0 +1,31 @@
+{
+    "name": "Vylon Epsilon",
+    "filename": "Vylon_Epsilon",
+    "card_text": "1 LIGHT Tuner + 1 or more non-Tuner monsters\nEquip Cards equipped to this card cannot be targeted by cards or effects. Once per turn: You can send 1 Equip Card equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.",
+    "release_date": "2011-05-29",
+    "available_set": [
+        "DUEL TERMINAL 5A",
+        "HIDDEN ARSENAL 5 STEELSWARM INVASION"
+    ],
+    "related_card": [
+        "Vylon Alpha",
+        "Vylon Component",
+        "Vylon Element",
+        "Vylon Filament",
+        "Vylon Hept",
+        "Vylon Material",
+        "Vylon Omega",
+        "Vylon Pentachloro",
+        "Vylon Polytope",
+        "Vylon Segment",
+        "Vylon Stigma",
+        "Vylon Tesseract"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 1200,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

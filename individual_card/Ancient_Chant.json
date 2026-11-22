@@ -1,0 +1,18 @@
+{
+    "name": "Ancient Chant",
+    "filename": "Ancient_Chant",
+    "card_text": "Add 1 \"The Winged Dragon of Ra\" from your Deck or GY to your hand, and if you do, you can Tribute Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). You can banish this card from your GY: If you Tribute Summon \"The Winged Dragon of Ra\" this turn, its original ATK/DEF become the combined original ATK/DEF of the monsters Tributed for its Summon. You can only activate 1 \"Ancient Chant\" per turn.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "MAZE OF MILLENNIA",
+        "ULTIMATE TOURNAMENT PACK 2"
+    ],
+    "related_card": [
+        "Guardian Slime",
+        "The True Sun God",
+        "The Winged Dragon of Ra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

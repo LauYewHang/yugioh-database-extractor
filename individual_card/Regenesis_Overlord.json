@@ -1,0 +1,25 @@
+{
+    "name": "Regenesis Overlord",
+    "filename": "Regenesis_Overlord",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your GY) by banishing 2 monsters from your GY with 2500 ATK or DEF. You can only Special Summon \"Regenesis Overlord\" once per turn this way. If this card is Special Summoned: You can target cards in your opponent's field and/or GY, up to the number of your banished monsters with 2500 ATK or DEF; return them to the hand. Monsters your opponent controls lose 2500 ATK during the Battle Phase only.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Regenesis",
+        "Regenesis Archfiend",
+        "Regenesis Birth",
+        "Regenesis Code",
+        "Regenesis Commands",
+        "Regenesis Lord",
+        "Regenesis Sage"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Illusion",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

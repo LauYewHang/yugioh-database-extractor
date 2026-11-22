@@ -1,0 +1,32 @@
+{
+    "name": "Gaia the Fierce Knight Origin",
+    "filename": "Gaia_the_Fierce_Knight_Origin",
+    "card_text": "This card can be treated as 2 Tributes for the Tribute Summon of a Warrior monster. You can only use each of the following effects of \"Gaia the Fierce Knight Origin\" once per turn. You can send 1 Level 5 or higher monster from your hand to the GY; Special Summon this card from your hand. During the Battle Phase (Quick Effect): You can banish this card from your GY, then target 1 monster on the field whose current ATK is different from its original ATK; its ATK becomes its original ATK.",
+    "release_date": "2020-08-01",
+    "available_set": [
+        "RISE OF THE DUELIST Core Booster Premiere!",
+        "RISE OF THE DUELIST",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Artillery Catapult Turtle",
+        "Beginning of Heaven and Earth",
+        "Black Luster Soldier - Super Soldier",
+        "Envoy of Chaos",
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight",
+        "Gaia the Magical Knight of Dragons",
+        "Galloping Gaia",
+        "Gateway to Chaos",
+        "Skilled Blue Magician",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Spiral Spear Strike"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

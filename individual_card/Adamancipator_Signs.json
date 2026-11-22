@@ -1,0 +1,32 @@
+{
+    "name": "Adamancipator Signs",
+    "filename": "Adamancipator_Signs",
+    "card_text": "Target 1 Rock monster in your GY; Special Summon it in Defense Position, then, if you Special Summoned an \"Adamancipator\" monster by this effect, you can take 1 Level 4 or lower Rock monster from your Deck and place it on top of your Deck.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Adamancipator Analyzer",
+        "Adamancipator Conductor",
+        "Adamancipator Crystal - Dragite",
+        "Adamancipator Crystal - Leonite",
+        "Adamancipator Crystal - Raptite",
+        "Adamancipator Crystal - Tiamite",
+        "Adamancipator Friends",
+        "Adamancipator Laputite",
+        "Adamancipator Luminous",
+        "Adamancipator Mates",
+        "Adamancipator Relief",
+        "Adamancipator Researcher",
+        "Adamancipator Resonance",
+        "Adamancipator Risen - Dragite",
+        "Adamancipator Risen - Leonite",
+        "Adamancipator Risen - Raptite",
+        "Adamancipator Risen - Tiamite",
+        "Adamancipator Seeker"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

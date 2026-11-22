@@ -1,0 +1,31 @@
+{
+    "name": "Spright Jet",
+    "filename": "Spright_Jet",
+    "card_text": "If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Spright Jet\" once per turn this way. If this card is Special Summoned: You can add 1 \"Spright\" Spell/Trap from your Deck to your hand. You can only use this effect of \"Spright Jet\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "RARITY COLLECTION 5",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Gigantic Spright",
+        "Spright Blue",
+        "Spright Carrot",
+        "Spright Double Cross",
+        "Spright Elf",
+        "Spright Gamma Burst",
+        "Spright Pixies",
+        "Spright Red",
+        "Spright Smashers",
+        "Spright Sprind",
+        "Spright Starter"
+    ],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 700,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

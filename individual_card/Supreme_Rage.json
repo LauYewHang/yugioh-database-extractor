@@ -1,0 +1,24 @@
+{
+    "name": "Supreme Rage",
+    "filename": "Supreme_Rage",
+    "card_text": "If you control \"Supreme King Z-ARC\": Destroy as many monsters you control as possible, except \"Supreme King Z-ARC\", and if you do, Special Summon up to 4 \"Supreme King Dragon\" monsters with different names from your hand, Deck, Extra Deck, and/or GY, ignoring their Summoning conditions. You can banish this card from your GY, then target 1 \"Supreme King Dragon\" Xyz Monster you control; attach 2 \"Supreme King Dragon\" monsters to it as materials, from your GY and/or face-up from your Extra Deck.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "MAZE OF MILLENNIA",
+        "CODE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Odd-Eyes Arcray Dragon",
+        "Supreme King Dragon Clear Wing",
+        "Supreme King Dragon Dark Rebellion",
+        "Supreme King Dragon Darkwurm",
+        "Supreme King Dragon Lightwurm",
+        "Supreme King Dragon Odd-Eyes",
+        "Supreme King Dragon Starving Venom",
+        "Supreme King Gate Magician",
+        "Supreme King Z-ARC",
+        "Supreme King Z-ARC - Synchro Universe"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

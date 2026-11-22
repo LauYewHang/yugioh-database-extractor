@@ -1,0 +1,31 @@
+{
+    "name": "Symphonic Warrior Miccs",
+    "filename": "Symphonic_Warrior_Miccs",
+    "card_text": "You can Special Summon this card (from your hand) by removing 3 Symphonic Counters from your field. After you Normal or Special Summon this card, you can Normal Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Generalprobe",
+        "Symph Amplifire",
+        "Symphonic Warrior Basses",
+        "Symphonic Warrior DJJ",
+        "Symphonic Warrior Drumss",
+        "Symphonic Warrior Guitaar",
+        "Symphonic Warrior Guitariss",
+        "Symphonic Warrior Piaano",
+        "Symphonic Warrior Rockks",
+        "Symphonic Warrior Synthess"
+    ],
+    "attribute": "WIND",
+    "attack": 2300,
+    "defense": 1100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "Unless you have a \"Symphonic Warrior\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. Once per turn, during your End Phase: You can target 1 of your banished \"Symphonic Warrior\" monsters; add it to your hand.",
+    "pendulum_scale": 1
+}

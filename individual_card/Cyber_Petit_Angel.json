@@ -1,0 +1,34 @@
+{
+    "name": "Cyber Petit Angel",
+    "filename": "Cyber_Petit_Angel",
+    "card_text": "If this card is Summoned: You can add 1 \"Cyber Angel\" monster or \"Machine Angel Ritual\" from your Deck to your hand. You can only use this effect of \"Cyber Petit Angel\" once per turn.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Angel Benten",
+        "Cyber Angel Dakini",
+        "Cyber Angel Idaten",
+        "Cyber Angel Izana",
+        "Cyber Angel Natasha",
+        "Cyber Angel Vrash",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Machine Angel Ritual",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

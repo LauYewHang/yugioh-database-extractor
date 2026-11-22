@@ -1,0 +1,26 @@
+{
+    "name": "Clear Vice Dragon",
+    "filename": "Clear_Vice_Dragon",
+    "card_text": "You are unaffected by the effects of \"Clear World\". If this card attacks an opponent's monster, this card's ATK becomes twice the ATK of the attack target, during damage calculation only. If this card would be destroyed by an opponent's card effect, you can discard 1 card instead.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "STARDUST OVERDRIVE",
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Clear Cube",
+        "Clear Phantom",
+        "Clear Rage Golem",
+        "Clear Vicious Knight",
+        "Clear Wall",
+        "Clear World"
+    ],
+    "attribute": "DARK",
+    "attack": "?",
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

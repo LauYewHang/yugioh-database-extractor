@@ -1,0 +1,12 @@
+{
+    "name": "Superconductive Plasma Blast",
+    "filename": "Superconductive_Plasma_Blast",
+    "card_text": "Activate the following effect depending on whose turn it is;\n\u25cfYours: Place 1 Thunder or Rock monster from your Deck on top of your Deck, then if you have a Thunder or Rock monster in your field or GY, you can destroy 1 card on the field.\n\u25cfOpponent's: Add 1 Thunder or Rock monster from your field, GY or banishment to your hand, or if a monster(s) was destroyed by battle or card effect this turn, you can add 1 such monster from your Deck instead.\nYou can only activate 1 \"Superconductive Plasma Blast\" per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

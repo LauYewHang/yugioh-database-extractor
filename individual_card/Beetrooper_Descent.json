@@ -1,0 +1,22 @@
+{
+    "name": "Beetrooper Descent",
+    "filename": "Beetrooper_Descent",
+    "card_text": "Special Summon 1 \"Beetrooper Token\" (Insect/EARTH/Level 3/ATK 1000/DEF 1000), then if you control an Insect monster with 3000 or more ATK, you can destroy 1 other Spell/Trap on the field. You can only activate 1 \"Beetrooper Descent\" per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Beetrooper Assault Roller",
+        "Beetrooper Cruel Saturnas",
+        "Beetrooper Fly & Sting",
+        "Beetrooper Formation",
+        "Beetrooper Light Flapper",
+        "Beetrooper Squad",
+        "Beetrooper Sting Lancer",
+        "Giant Beetrooper Invincible Atlas"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lone Wolf",
+    "filename": "Lone_Wolf",
+    "card_text": "Activate only if the 1 and only monster on your side of the field is \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". That monster cannot be destroyed as a result of battle, and is unaffected by any of your opponent's monster effects.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "THE LOST MILLENNIUM",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Chu-Ske the Mouse Fighter",
+        "Master Monk",
+        "Monk Fighter"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Rising Sun Slash",
+    "filename": "Rising_Sun_Slash",
+    "card_text": "Equip only to a \"Utopia\" monster. It cannot be destroyed by card effects. Each time an attack is negated, place 1 Rising Sun Counter on this card. The equipped monster gains 500 ATK for each Rising Sun Counter on this card. If the equipped monster you control would detach its material to activate its effect, you can treat this card as 1 of the materials.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND"
+    ],
+    "related_card": [
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

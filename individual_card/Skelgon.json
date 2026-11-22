@@ -1,0 +1,21 @@
+{
+    "name": "Skelgon",
+    "filename": "Skelgon",
+    "card_text": "\"The Snake Hair\" + \"Blackland Fire Dragon\"",
+    "release_date": "2014-07-25",
+    "available_set": [
+        "ASTRAL PACK FIVE",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Blackland Fire Dragon",
+        "The Snake Hair"
+    ],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 1900,
+    "monster_type": "Zombie",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

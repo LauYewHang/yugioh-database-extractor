@@ -1,0 +1,19 @@
+{
+    "name": "Jigen Bakudan",
+    "filename": "Jigen_Bakudan",
+    "card_text": "FLIP: After this card is flipped, offer it as a Tribute during your Standby Phase to destroy all monsters on your side of the field and inflict Direct Damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "STARTER DECK PEGASUS",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 200,
+    "defense": 1000,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

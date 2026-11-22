@@ -1,0 +1,21 @@
+{
+    "name": "Mind Control",
+    "filename": "Mind_Control",
+    "card_text": "Target 1 monster your opponent controls; until the End Phase, take control of that target, but it cannot declare an attack or be Tributed.",
+    "release_date": "2005-02-15",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STRUCTURE DECK : CYBERSE LINK",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "PREMIUM GOLD",
+        "Gold Series: Maximum Gold",
+        "GOLD SERIES 2009",
+        "Duel Devastator",
+        "Yu-Gi-Oh! 7 Trials to Glory - World Championship Tournament 2005 - Bundles",
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "WARRIORS' STRIKE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

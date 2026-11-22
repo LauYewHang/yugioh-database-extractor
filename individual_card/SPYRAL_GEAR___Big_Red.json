@@ -1,0 +1,29 @@
+{
+    "name": "SPYRAL GEAR - Big Red",
+    "filename": "SPYRAL_GEAR___Big_Red",
+    "card_text": "Activate this card by targeting 1 \"SPYRAL\" monster in your Graveyard; Special Summon it, and if you do, equip this card to it. It cannot be destroyed by battle. You can only activate 1 \"SPYRAL GEAR - Big Red\" per turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION",
+        "THE DARK ILLUSION SPECIAL EDITION (UK)"
+    ],
+    "related_card": [
+        "SPYRAL Double Agent",
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

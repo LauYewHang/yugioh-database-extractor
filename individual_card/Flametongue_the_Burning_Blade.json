@@ -1,0 +1,17 @@
+{
+    "name": "Flametongue the Burning Blade",
+    "filename": "Flametongue_the_Burning_Blade",
+    "card_text": "2 FIRE monsters\nFace-up Spells/Traps you control cannot be destroyed by your opponent's card effects. You can target 1 of your banished FIRE monsters; add it to your hand, but you cannot activate cards, or the effects of cards, with its name for the rest of this turn. You can only use this effect of \"Flametongue the Burning Blade\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1400,
+    "defense": null,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

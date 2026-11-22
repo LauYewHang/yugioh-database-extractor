@@ -1,0 +1,37 @@
+{
+    "name": "Flamvell Archer",
+    "filename": "Flamvell_Archer",
+    "card_text": "Once per turn, you can Tribute 1 face-up Pyro-Type monster you control to have all \"Flamvell\" monsters on the field gain 800 ATK until the End Phase.",
+    "release_date": "2010-01-29",
+    "available_set": [
+        "DUEL TERMINAL 1",
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [
+        "Ancient Flamvell Deity",
+        "Flamvell Baby",
+        "Flamvell Commando",
+        "Flamvell Counter",
+        "Flamvell Dragnov",
+        "Flamvell Fiend",
+        "Flamvell Firedog",
+        "Flamvell Grunika",
+        "Flamvell Guard",
+        "Flamvell Magician",
+        "Flamvell Poun",
+        "Flamvell Uruquizas",
+        "Neo Flamvell Garuda",
+        "Neo Flamvell Hedgehog",
+        "Neo Flamvell Lady",
+        "Neo Flamvell Origin",
+        "Neo Flamvell Sabre",
+        "Neo Flamvell Shaman"
+    ],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

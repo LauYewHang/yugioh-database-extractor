@@ -1,0 +1,20 @@
+{
+    "name": "Indomitable Fighter Lei Lei",
+    "filename": "Indomitable_Fighter_Lei_Lei",
+    "card_text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Protective Soul Ailin"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 0,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

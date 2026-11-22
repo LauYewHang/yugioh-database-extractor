@@ -1,0 +1,25 @@
+{
+    "name": "Guardian Ceal",
+    "filename": "Guardian_Ceal",
+    "card_text": "Cannot be Summoned unless you control a face-up \"Shooting Star Bow - Ceal\". You can send 1 Equip Spell Card you control that is equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug",
+        "Shooting Star Bow - Ceal"
+    ],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 1400,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

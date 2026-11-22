@@ -1,0 +1,13 @@
+{
+    "name": "The Inexperienced Spy",
+    "filename": "The_Inexperienced_Spy",
+    "card_text": "Select and see 1 card in your opponent's hand.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK KAIBA Evolution",
+        "STARTER DECK KAIBA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

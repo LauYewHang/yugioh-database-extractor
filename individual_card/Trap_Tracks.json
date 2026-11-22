@@ -1,0 +1,13 @@
+{
+    "name": "Trap Tracks",
+    "filename": "Trap_Tracks",
+    "card_text": "Target 1 monster you control; destroy it, and if you do, Set 1 Normal Trap directly from your Deck, except \"Trap Tracks\". It can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 \"Trap Tracks\" per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

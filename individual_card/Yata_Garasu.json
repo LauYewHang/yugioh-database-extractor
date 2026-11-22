@@ -1,0 +1,21 @@
+{
+    "name": "Yata-Garasu",
+    "filename": "Yata_Garasu",
+    "card_text": "Cannot be Special Summoned. During the End Phase of the turn this card was Normal Summoned or flipped face-up: Return it to the hand. If this card inflicts battle damage to your opponent: Skip the Draw Phase of their next turn.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "LEGACY OF DARKNESS",
+        "RETRO PACK 2",
+        "DARK BEGINNING 2",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 200,
+    "defense": 100,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Divine Dragon Aquabizarre",
+    "filename": "Divine_Dragon_Aquabizarre",
+    "card_text": "Once per turn, you can Tribute 1 other face-up WATER monster and select 1 Continuous or Field Spell Card in your Graveyard to return it to the top of your Deck.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2100,
+    "defense": 1500,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

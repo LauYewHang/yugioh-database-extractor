@@ -1,0 +1,39 @@
+{
+    "name": "Vendread Revenants",
+    "filename": "Vendread_Revenants",
+    "card_text": "If this card in your possession is destroyed by an opponent's card (by battle or card effect) and sent to your GY: You can Special Summon this card, but banish it when it leaves the field. A \"Vendread\" monster Ritual Summoned using this card on the field gains this effect. You can only use the preceding effect of \"Vendread Revenants\" once per turn.\n\u25cfOnce per turn (Quick Effect): You can target 1 Special Summoned monster your opponent controls; banish it.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "CODE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Avendread Savior",
+        "Ravenous Vendread",
+        "Revendread Evolution",
+        "Revendread Executor",
+        "Revendread Origin",
+        "Revendread Slayer",
+        "Scar of the Vendread",
+        "Vendread Anima",
+        "Vendread Battlelord",
+        "Vendread Charge",
+        "Vendread Chimera",
+        "Vendread Core",
+        "Vendread Daybreak",
+        "Vendread Houndhorde",
+        "Vendread Nightmare",
+        "Vendread Nights",
+        "Vendread Reorigin",
+        "Vendread Reunion",
+        "Vendread Revolution",
+        "Vendread Scavenger",
+        "Vendread Striges"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

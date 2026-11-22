@@ -1,0 +1,27 @@
+{
+    "name": "Draco Berserker of the Tenyi",
+    "filename": "Draco_Berserker_of_the_Tenyi",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nWhen your opponent activates a monster effect (Quick Effect): You can banish it. If this attacking card destroys an Effect Monster by battle and sends it to the GY: This card gains ATK equal to the destroyed monster's original ATK, also it can make a second attack on a monster during this Battle Phase. You can only use each effect of \"Draco Berserker of the Tenyi\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "2020 TIN OF LOST MEMORIES",
+        "VALIANT SMASHERS",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Heavenly Dragon Circle",
+        "Monk of the Tenyi",
+        "Shaman of the Tenyi",
+        "Tenyi Spirit - Ashuna",
+        "Tenyi Spirit - Suruya",
+        "Vessel for the Dragon Cycle"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

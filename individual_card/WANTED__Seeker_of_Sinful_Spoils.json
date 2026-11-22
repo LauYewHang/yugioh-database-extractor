@@ -1,0 +1,42 @@
+{
+    "name": "WANTED: Seeker of Sinful Spoils",
+    "filename": "WANTED__Seeker_of_Sinful_Spoils",
+    "card_text": "Add 1 \"Diabellstar\" monster from your Deck or GY to your hand. During your Main Phase: You can banish this card from your GY, then target 1 of your \"Sinful Spoils\" Spells/Traps that is banished or in your GY, except \"WANTED: Seeker of Sinful Spoils\"; place it on the bottom of the Deck, then draw 1 card. You can only use each effect of \"WANTED: Seeker of Sinful Spoils\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Azamina Debtors",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Deception of the Sinful Spoils",
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Diabellze the Original Sinkeeper",
+        "Diabellze the White Witch",
+        "Elzette, Azamina of the White Forest",
+        "Guilt of the Sinful Spoils",
+        "Original Sinful Spoils - Snake-Eye",
+        "Queen Azamina",
+        "Sinful Spoils Awakening",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils of Doom - Rciela",
+        "Sinful Spoils of Slumber - Morrian",
+        "Sinful Spoils of Subversion - Snake-Eye",
+        "Sinful Spoils of the White Forest",
+        "Sinful Spoils Sanctification",
+        "Sinful Spoils Struggle",
+        "Sinful Spoils Subdual",
+        "Snake-Eyes Diabellstar",
+        "Susurrus of the Sinful Spoils",
+        "The Hallowed Azamina"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

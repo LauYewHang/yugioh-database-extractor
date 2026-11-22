@@ -1,0 +1,19 @@
+{
+    "name": "Trap Master",
+    "filename": "Trap_Master",
+    "card_text": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK KAIBA Evolution",
+        "STARTER DECK KAIBA",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 1100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

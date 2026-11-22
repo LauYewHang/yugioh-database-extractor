@@ -1,0 +1,30 @@
+{
+    "name": "Forbidden Chalice",
+    "filename": "Forbidden_Chalice",
+    "card_text": "Target 1 face-up monster on the field; until the end of this turn, that target gains 400 ATK, but its effects are negated.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "RARITY COLLECTION 5",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "WING RAIDERS",
+        "Legendary 5D's Decks",
+        "BATTLE PACK EPIC DAWN",
+        "RAGING BATTLE",
+        "PREMIUM GOLD",
+        "Gold Series: Maximum Gold",
+        "OTS TOURNAMENT PACK 19",
+        "QUARTER CENTURY STAMPEDE",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR"
+    ],
+    "related_card": [
+        "Condemned Witch",
+        "Darklord Djehuty",
+        "Darklord Gulgolet"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

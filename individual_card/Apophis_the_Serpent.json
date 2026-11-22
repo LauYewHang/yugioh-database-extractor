@@ -1,0 +1,19 @@
+{
+    "name": "Apophis the Serpent",
+    "filename": "Apophis_the_Serpent",
+    "card_text": "Special Summon this card as a Normal Monster (Reptile/EARTH/Level 4/ATK 1600/DEF 1800) (this card is also still a Trap), then you can Set 1 \"Apophis\" Trap from your Deck, except \"Apophis the Serpent\". It can be activated this turn. If this card is sent to the GY: You can add 1 \"Embodiment of Apophis\" from your Deck to your hand. You can only use each effect of \"Apophis the Serpent\" once per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAGNIFICENT MAESTROS",
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Apophis the Swamp Deity",
+        "Divine Serpent Apophis",
+        "Embodiment of Apophis",
+        "The Man with the Mark",
+        "Treasures of the Kings"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

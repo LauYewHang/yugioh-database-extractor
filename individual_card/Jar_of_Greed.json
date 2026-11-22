@@ -1,0 +1,22 @@
+{
+    "name": "Jar of Greed",
+    "filename": "Jar_of_Greed",
+    "card_text": "Draw 1 card.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "STARTER DECK 2006",
+        "STARTER DECK KAIBA Evolution",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [
+        "Jar Turtle"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

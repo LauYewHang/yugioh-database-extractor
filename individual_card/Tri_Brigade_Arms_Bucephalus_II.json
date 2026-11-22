@@ -1,0 +1,40 @@
+{
+    "name": "Tri-Brigade Arms Bucephalus II",
+    "filename": "Tri_Brigade_Arms_Bucephalus_II",
+    "card_text": "3+ Beast, Beast-Warrior, and/or Winged Beast monsters\nCannot be Special Summoned from the Extra Deck unless you have 3 or more \"Tri-Brigade\" Spells/Traps in your GY. Your opponent cannot activate cards or effects when you Special Summon a monster(s). When a monster declares an attack: You can banish this card, also banish all cards your opponent controls. If this card is sent to the GY: You can send 1 Beast, Beast-Warrior, or Winged Beast monster from your Extra Deck to the GY. You can only use this effect of \"Tri-Brigade Arms Bucephalus II\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Airborne Assault",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Ferrijit the Barren Blossom",
+        "Tri-Brigade Fraktall",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kerass",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Oath",
+        "Tri-Brigade Rendezvous",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Rugal the Silver Sheller",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Shuraig the Ominous Omen",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "attribute": "DARK",
+    "attack": 3500,
+    "defense": null,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "link_rating": 5,
+    "link_arrow": 94
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Mad Reloader",
+    "filename": "Mad_Reloader",
+    "card_text": "If this card is destroyed by battle and sent to the GY: Send 2 cards from your hand to the GY, and if you do, draw 2 cards.",
+    "release_date": "2007-09-18",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STRUCTURE DECK: SACRED BEASTS",
+        "Yu-Gi-Oh! GX TAG FORCE 2 Bundles",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

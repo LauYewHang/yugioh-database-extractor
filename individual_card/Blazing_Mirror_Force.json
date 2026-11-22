@@ -1,0 +1,14 @@
+{
+    "name": "Blazing Mirror Force",
+    "filename": "Blazing_Mirror_Force",
+    "card_text": "When an opponent's monster declares an attack: Destroy as many Attack Position monsters your opponent controls as possible, and if you do, take damage equal to half the combined original ATK of those destroyed monsters, then inflict damage to your opponent equal to the damage you took.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

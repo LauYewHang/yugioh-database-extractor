@@ -1,0 +1,33 @@
+{
+    "name": "Ame no Habakiri no Mitsurugi",
+    "filename": "Ame_no_Habakiri_no_Mitsurugi",
+    "card_text": "You can Ritual Summon this card with \"Mitsurugi Ritual\". Monsters your opponent controls lose 800 ATK. You can reveal this card in your hand; Special Summon 1 \"Mitsurugi\" monster from your Deck, then Tribute 1 monster you control. You can only use this effect of \"Ame no Habakiri no Mitsurugi\" once per Duel. If this card is Tributed: You can add 1 \"Mitsurugi\" card from your Deck to your hand, except \"Ame no Habakiri no Mitsurugi\", then you can Special Summon this card. You can only use this effect of \"Ame no Habakiri no Mitsurugi\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026 - bonus card",
+        "ALLIANCE INSIGHT",
+        "LEGENDARY MODERN DECKS 2026"
+    ],
+    "related_card": [
+        "Ame no Murakumo no Mitsurugi",
+        "Futsu no Mitama no Mitsurugi",
+        "Mitsurugi Great Purification",
+        "Mitsurugi Magatama",
+        "Mitsurugi Mirror",
+        "Mitsurugi no Miko, Wousu",
+        "Mitsurugi no Mikoto, Aramasa",
+        "Mitsurugi no Mikoto, Kusanagi",
+        "Mitsurugi no Mikoto, Saji",
+        "Mitsurugi Prayers",
+        "Mitsurugi Ritual",
+        "Mitsurugi Sacred Boundary",
+        "Mitsurugi Tempest"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1800,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

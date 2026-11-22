@@ -1,0 +1,37 @@
+{
+    "name": "Fissure",
+    "filename": "Fissure",
+    "card_text": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "GEARGIA RAMPAGE STRUCTURE DECK",
+        "STARTER DECK DAWN OF THE XYZ",
+        "STARTER DECK PEGASUS",
+        "STARTER DECK YUGI",
+        "HOBBY LEAGUE 2",
+        "STARTER DECK KAIBA",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "STARTER DECK JOEY",
+        "STARTER DECK XYZ SYMPHONY",
+        "SPELLCASTER'S COMMAND STRUCTURE DECK",
+        "BATTLE PACK EPIC DAWN",
+        "DARK LEGENDS",
+        "DARK BEGINNING 1",
+        "STARTER DECK YUGI Evolution",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "RETRO PACK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "STARTER DECK 2006",
+        "DEMO DECK 2026",
+        "STARTER DECK KAIBA Evolution",
+        "DEMO DECK",
+        "QUARTER CENTURY BONANZA",
+        "2-PLAYER STARTER SET"
+    ],
+    "related_card": [
+        "Manticore of Smashing"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

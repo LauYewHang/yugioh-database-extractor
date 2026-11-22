@@ -1,0 +1,19 @@
+{
+    "name": "Red Supernova Dragon",
+    "filename": "Red_Supernova_Dragon",
+    "card_text": "3 Tuners + 1+ non-Tuner Synchro Monsters\nMust first be Synchro Summoned. Gains 500 ATK for each Tuner in your GY. Cannot be destroyed by an opponent's card effects. Once per turn, when your opponent's monster effect is activated, or when an opponent's monster declares an attack (Quick Effect): You can activate this effect; banish this card, also banish all cards your opponent controls. Once per turn, during your next End Phase after this card was banished by its own effect: Special Summon this banished card.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

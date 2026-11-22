@@ -1,0 +1,31 @@
+{
+    "name": "R.B. VALCan Booster",
+    "filename": "R_B__VALCan_Booster",
+    "card_text": "2 Machine monsters\nIf this card is Link Summoned: You can add 1 \"R.B.\" Spell from your Deck to your hand. If this card is in the Extra Monster Zone: You can Special Summon 1 \"R.B.\" monster from your hand or GY in Defense Position, then you can move this card you control to another of your Main Monster Zones, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters with 1500 or less ATK. You can only use each effect of \"R.B. VALCan Booster\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "R.B. Funk Dock",
+        "R.B. Ga10 Cutter",
+        "R.B. Ga10 Driller",
+        "R.B. Ga10 Pile Bunker",
+        "R.B. Lambda Blade",
+        "R.B. Lambda Cannon",
+        "R.B. Last Stand",
+        "R.B. Next Phase",
+        "R.B. Operation Test",
+        "R.B. Shepherd's Crook",
+        "R.B. Stage Landing",
+        "R.B. The Brute Blues",
+        "R.B. VALCan Rocket"
+    ],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 260
+}

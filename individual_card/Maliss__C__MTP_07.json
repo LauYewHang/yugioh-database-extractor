@@ -1,0 +1,25 @@
+{
+    "name": "Maliss <C> MTP-07",
+    "filename": "Maliss__C__MTP_07",
+    "card_text": "You can activate this card the turn it was Set, by banishing 1 face-up \"Maliss\" monster you control. Add 1 \"Maliss\" monster from your Deck to your hand, then if you control a \"Maliss\" Link Monster, you can banish 1 card on the field. You can only activate 1 \"Maliss <C> MTP-07\" per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Maliss <C> GWC-06",
+        "Maliss <C> TB-11",
+        "Maliss <P> Chessy Cat",
+        "Maliss <P> Dormouse",
+        "Maliss <P> March Hare",
+        "Maliss <P> White Rabbit",
+        "Maliss <Q> Hearts Crypter",
+        "Maliss <Q> Red Ransom",
+        "Maliss <Q> White Binder",
+        "Maliss in the Mirror",
+        "Maliss in Underground"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

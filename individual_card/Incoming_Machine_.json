@@ -1,0 +1,25 @@
+{
+    "name": "Incoming Machine!",
+    "filename": "Incoming_Machine_",
+    "card_text": "Add 1 monster that mentions \"Max Metalmorph\" or 1 \"Metalmorph\" Trap from your Deck or GY to your hand. If you control a \"Metalmorph\" Trap: You can banish this card from your GY, then target 1 Defense Position monster your opponent controls; change it to face-up Attack Position. You can only use this effect of \"Incoming Machine!\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Flame Coating Metalmorph",
+        "Max Metalmorph",
+        "Metal Illusionist",
+        "Metalflame Swordsman",
+        "Metalmorph",
+        "Metalzoa X",
+        "Rare Metalmorph",
+        "Red-Eyes Black Fullmetal Dragon",
+        "Red-Eyes Metal Claws Dragon",
+        "Time Engine",
+        "Zoa the Fiendish Beast"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Veidos the Eruption Dragon of Extinction",
+    "filename": "Veidos_the_Eruption_Dragon_of_Extinction",
+    "card_text": "During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 card in a Field Zone; Special Summon this card to your opponent's field, and if you do, destroy that card, then you can add to your hand or Set 1 \"Ashened\" Continuous Trap from your Deck. If this card is sent from your opponent's field to your GY: You can destroy all monsters on the field. You can only use each effect of \"Veidos the Eruption Dragon of Extinction\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "ULTIMATE TOURNAMENT PACK 2",
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Ashened for Eternity",
+        "Ashened to Endlessness",
+        "Embers of the Ashened",
+        "Extinguishing the Ashened",
+        "Hero of the Ashened City",
+        "Inferno of the Ashened",
+        "King of the Ashened City",
+        "Obsidim, the Ashened City",
+        "Priestess of the Ashened City",
+        "Rekindling the Ashened",
+        "Shaman of the Ashened City",
+        "Spearhead of the Ashened City",
+        "Veidos the Dragon of Endless Darkness"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 1500,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Neptabyss, the Atlantean Prince",
+    "filename": "Neptabyss__the_Atlantean_Prince",
+    "card_text": "You can send 1 \"Atlantean\" monster from your Deck to the GY, except \"Neptabyss, the Atlantean Prince\"; add 1 \"Atlantean\" card from your Deck to your hand, except \"Neptabyss, the Atlantean Prince\". If this card is sent to the GY to activate a WATER monster's effect: Target 1 \"Atlantean\" monster in your GY, except \"Neptabyss, the Atlantean Prince\"; Special Summon it. You can only use each effect of \"Neptabyss, the Atlantean Prince\" once per turn.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Abyss-sting Triaina",
+        "Abyssrhine, the Atlantean Spirit",
+        "Abysstrite, the Atlantean Spirit",
+        "Atlantean Attack Squad",
+        "Atlantean Dragoons",
+        "Atlantean Heavy Infantry",
+        "Atlantean Marksman",
+        "Atlantean Pikeman",
+        "Call of the Atlanteans",
+        "Legendary Atlantean Tridon",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad",
+        "Poseidra Abyss, the Atlantean Dragon Lord",
+        "Poseidra, the Atlantean Dragon",
+        "Poseidra, the Storming Atlantean"
+    ],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 0,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

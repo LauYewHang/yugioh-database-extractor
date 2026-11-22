@@ -1,0 +1,36 @@
+{
+    "name": "Dinowrestler Capoeiraptor",
+    "filename": "Dinowrestler_Capoeiraptor",
+    "card_text": "This Attack Position card cannot be destroyed by battle. If this card is attacked, change it to Defense Position at the end of the Damage Step. During the Standby Phase, if this card is in Defense Position: You can Special Summon 1 \"Dinowrestler Capoeiraptor\" from your Deck. You can only use this effect of \"Dinowrestler Capoeiraptor\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Dinowrestler Capaptera",
+        "Dinowrestler Chimera T Wrextle",
+        "Dinowrestler Coelasilat",
+        "Dinowrestler Eskrimamenchi",
+        "Dinowrestler Iguanodraka",
+        "Dinowrestler King T Wrextle",
+        "Dinowrestler Martial Ampelo",
+        "Dinowrestler Martial Anga",
+        "Dinowrestler Martial Ankylo",
+        "Dinowrestler Pankratops",
+        "Dinowrestler Rambrachio",
+        "Dinowrestler Systegosaur",
+        "Dinowrestler Terra Parkourio",
+        "Dinowrestler Valeonyx",
+        "Gouki Gameface",
+        "Tyrant Dino Fusion",
+        "World Dino Wrestling"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,29 @@
+{
+    "name": "The Chaotic Phantasmal Sacred Beasts",
+    "filename": "The_Chaotic_Phantasmal_Sacred_Beasts",
+    "card_text": "3 Level 10 monsters that cannot be Normal Summoned/Set\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by sending the above cards you control to the GY. You can only Special Summon \"The Chaotic Phantasmal Sacred Beasts\" once per turn this way, no matter which method you use. The first two times this card on the field would be destroyed by card effect each turn, it is not destroyed. Once per Chain, up to thrice per turn (Quick Effect): You can target 1 face-up monster your opponent controls; negate its effects (until the end of this turn), then you can gain LP equal to half that monster's ATK.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Calamity of the Sacred Beasts - Hamon, Lord of Striking Thunder",
+        "Dimension Fusion Destruction",
+        "Fallen Paradise of the Sacred Beasts",
+        "Inferno of the Sacred Beasts - Uria, Lord of Searing Flames",
+        "Infinity of the Sacred Beasts - Raviel, Lord of Phantasms",
+        "Martyr of the Sacred Beasts",
+        "Sacred Beasts Combined Assault",
+        "Sacred Beasts Released",
+        "Sacred Beasts Skyfall",
+        "Sacred Beasts Thunderclap",
+        "Summoner of the Sacred Beasts"
+    ],
+    "attribute": "DARK",
+    "attack": 5000,
+    "defense": 5000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Armageddon Knight",
+    "filename": "Armageddon_Knight",
+    "card_text": "When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "LEGENDARY HERO DECKS",
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN",
+        "DARK SAVIORS",
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "PHANTOM DARKNESS",
+        "THE SECRET FORCES",
+        "TURBO PACK BOOSTER ONE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

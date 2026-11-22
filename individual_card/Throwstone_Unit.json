@@ -1,0 +1,17 @@
+{
+    "name": "Throwstone Unit",
+    "filename": "Throwstone_Unit",
+    "card_text": "Offer 1 Warrior-Type monster on your side of the field as a Tribute to destroy 1 face-up monster on the field whose DEF is equal to or lower than the ATK of this monster.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 900,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,26 @@
+{
+    "name": "The Hidden Hecahands",
+    "filename": "The_Hidden_Hecahands",
+    "card_text": "When you activate this card, you can also send 1 other card you control to the GY; add 1 \"Hecahands\" monster from your Deck to your hand, then if you sent another card to the GY at activation, you can Set 1 \"Hecahands\" Spell/Trap from your Deck, except \"The Hidden Hecahands\". You can banish this card from your GY; your opponent draws 1 card, then they discard 1 card. You can only use each effect of \"The Hidden Hecahands\" once per turn.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "Hecahands Bait",
+        "Hecahands Breus",
+        "Hecahands Dandalos",
+        "Hecahands Gaigas",
+        "Hecahands Godos",
+        "Hecahands Ibtel",
+        "Hecahands Jauzah",
+        "Hecahands Mankibuel",
+        "Hecahands Tartaros",
+        "Hecahands Xeno",
+        "Hecahands Yadel",
+        "Ib'al-Hecahands",
+        "Yad'al-Hecahands"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

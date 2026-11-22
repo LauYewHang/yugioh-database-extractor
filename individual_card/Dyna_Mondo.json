@@ -1,0 +1,20 @@
+{
+    "name": "Dyna Mondo",
+    "filename": "Dyna_Mondo",
+    "card_text": "2 monsters, including a Ritual Monster\nIf this card is Special Summoned: You can target 1 card on the field and 1 Ritual Monster in your GY; shuffle both into the Deck. During your opponent's turn (Quick Effect): You can Tribute this card, then target 1 Ritual Monster in your GY; either add it to your hand or Special Summon it. You can only use each effect of \"Dyna Mondo\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "LEGENDARY MODERN DECKS 2026",
+        "OTS TOURNAMENT PACK 25"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 260
+}

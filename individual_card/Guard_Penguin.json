@@ -1,0 +1,27 @@
+{
+    "name": "Guard Penguin",
+    "filename": "Guard_Penguin",
+    "card_text": "When you take damage from a card effect (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Nopenguin",
+        "Penguin Brave",
+        "Penguin Cleric",
+        "Penguin Ninja",
+        "Penguin Squire",
+        "Penguin Sword",
+        "Puny Penguin",
+        "Royal Penguins Garden",
+        "The Great Emperor Penguin"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 1200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

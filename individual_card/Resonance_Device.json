@@ -1,0 +1,12 @@
+{
+    "name": "Resonance Device",
+    "filename": "Resonance_Device",
+    "card_text": "Target 2 face-up monsters you control with the same Type and Attribute; change one of their Levels to the current Level of the other, until the End Phase.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

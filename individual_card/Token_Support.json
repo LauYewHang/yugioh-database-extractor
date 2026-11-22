@@ -1,0 +1,13 @@
+{
+    "name": "Token Support",
+    "filename": "Token_Support",
+    "card_text": "You can Tribute any number of Tokens, then target 1 monster you control with 0 ATK; it gains ATK equal to the number Tributed x 1000 (until the end of this turn), and if it does, it can attack monsters up to the number Tributed during each Battle Phase this turn. You can only use this effect of \"Token Support\" once per turn. At the end of your opponent's Battle Phase: You can Special Summon \"Support Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) up to the number of Tokens destroyed during this Battle Phase.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

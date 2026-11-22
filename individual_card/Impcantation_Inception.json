@@ -1,0 +1,20 @@
+{
+    "name": "Impcantation Inception",
+    "filename": "Impcantation_Inception",
+    "card_text": "This card can be used to Ritual Summon any Ritual Monster. You must also Tribute \"Impcantation\" monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If this card is in your GY: You can send 1 \"Impcantation\" card from your hand or face-up field to the GY, except \"Impcantation Inception\"; Special Summon 1 \"Impcantation\" monster from your Deck, then add this card from the GY to your hand. You can only use this effect of \"Impcantation Inception\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Crealtar, the Impcantation Originator",
+        "Impcantation Bookstone",
+        "Impcantation Candoll",
+        "Impcantation Chalislime",
+        "Impcantation Penciplume",
+        "Impcantation Talismandra",
+        "Impcantation Thanatosis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

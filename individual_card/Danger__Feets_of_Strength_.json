@@ -1,0 +1,30 @@
+{
+    "name": "Danger! Feets of Strength!",
+    "filename": "Danger__Feets_of_Strength_",
+    "card_text": "Equip only to a \"Danger!\" monster. It gains 800 ATK/DEF. It cannot be destroyed by card effects. It can make up to 2 attacks on monsters during each Battle Phase.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Danger! Bigfoot!",
+        "Danger! Chupacabra!",
+        "Danger! Disturbance! Disorder!",
+        "Danger! Dogman!",
+        "Danger! Excitement! Mystery!",
+        "Danger! Mothman!",
+        "Danger! Nessie!",
+        "Danger! Ogopogo!",
+        "Danger! Response Team",
+        "Danger! Thunderbird!",
+        "Danger! Zone",
+        "Danger!? Jackalope?",
+        "Danger!? Tsuchinoko?",
+        "Realm of Danger!",
+        "Second Expedition into Danger!",
+        "You're in Danger!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

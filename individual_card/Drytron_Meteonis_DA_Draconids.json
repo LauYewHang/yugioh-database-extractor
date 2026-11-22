@@ -1,0 +1,38 @@
+{
+    "name": "Drytron Meteonis DA Draconids",
+    "filename": "Drytron_Meteonis_DA_Draconids",
+    "card_text": "You can Ritual Summon this card with \"Meteonis Drytron\". Other \"Drytron\" monsters you control cannot be destroyed by your opponent's card effects. Twice per turn, when your opponent activates a monster effect (Quick Effect): You can banish \"Drytron\" monsters (min. 1) from your GY whose total ATK equal or exceed the original ATK of that monster; negate the activation, and if you do, destroy it. If this Ritual Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 Ritual Monster with 4000 ATK from your hand or Deck. (This is treated as a Ritual Summon.)",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Drytron Alpha Thuban",
+        "Drytron Asterism",
+        "Drytron Beta Rastaban",
+        "Drytron Delta Altais",
+        "Drytron Eclipse",
+        "Drytron Fafnir",
+        "Drytron Gamma Eltanin",
+        "Drytron Meteonis Draconids",
+        "Drytron Meteonis Quadrantids",
+        "Drytron Meteor Shower",
+        "Drytron Mu Beta Fafnir",
+        "Drytron Nova",
+        "Drytron Nu II",
+        "Drytron Zeta Aldhibah",
+        "Meteonis Drytron",
+        "Meteoroa Drytron",
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Drytron"
+    ],
+    "attribute": "LIGHT",
+    "attack": 5000,
+    "defense": 5000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

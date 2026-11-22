@@ -1,0 +1,21 @@
+{
+    "name": "Citadel Whale",
+    "filename": "Citadel_Whale",
+    "card_text": "If this card is in your hand or GY: You can Tribute 2 WATER monsters; Special Summon this card. You can only use this effect of \"Citadel Whale\" once per turn. If this card is Special Summoned: You can Set 1 \"Sea Stealth Attack\" directly from your Deck. Once per turn, when your opponent activates a card or effect that targets 1 WATER monster you control (and no other cards) (Quick Effect): You can negate the activation, and if you do, destroy that card.",
+    "release_date": "2017-09-08",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
+        "LEGENDARY DUELISTS"
+    ],
+    "related_card": [
+        "Sea Stealth Attack"
+    ],
+    "attribute": "WATER",
+    "attack": 2350,
+    "defense": 2150,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

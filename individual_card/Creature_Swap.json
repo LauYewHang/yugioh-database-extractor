@@ -1,0 +1,33 @@
+{
+    "name": "Creature Swap",
+    "filename": "Creature_Swap",
+    "card_text": "Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "GEARGIA RAMPAGE STRUCTURE DECK",
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "5D's STARTER DECK 2009",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "TURBO PACK BOOSTER SIX",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "RETRO PACK 2",
+        "HOBBY LEAGUE 3",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "STRUCTURE DECK - MARIK -",
+        "Speed Duel: Battle City Box",
+        "BATTLE PACK EPIC DAWN",
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "QUARTER CENTURY BONANZA",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "STRUCTURE DECK DRAGON'S ROAR"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

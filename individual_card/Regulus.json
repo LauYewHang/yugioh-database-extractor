@@ -1,0 +1,17 @@
+{
+    "name": "Regulus",
+    "filename": "Regulus",
+    "card_text": "Once per turn, you can select 1 Field Spell Card in your Graveyard. Return it to the Deck.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

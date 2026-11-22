@@ -1,0 +1,43 @@
+{
+    "name": "Lunalight Liger Dancer",
+    "filename": "Lunalight_Liger_Dancer",
+    "card_text": "\"Lunalight Leo Dancer\" + 3 \"Lunalight\" monsters\nMust be Fusion Summoned with the above Fusion Materials. Unaffected by card effects, except \"Lunalight\" cards. Can make a second attack during each Battle Phase. Once per turn (Quick Effect): You can send 1 \"Lunalight\" monster from your Extra Deck to the GY; destroy all your opponent's Special Summoned monsters.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "LEGENDARY ARC-V DECKS  - bonus card",
+        "DUELIST'S ADVANCE",
+        "LEGENDARY ARC-V DECKS"
+    ],
+    "related_card": [
+        "Luna Light Perfume",
+        "Lunalight Black Sheep",
+        "Lunalight Blue Cat",
+        "Lunalight Cat Dancer",
+        "Lunalight Crimson Fox",
+        "Lunalight Emerald Bird",
+        "Lunalight Fusion",
+        "Lunalight Gold Leo",
+        "Lunalight Kaleido Chick",
+        "Lunalight Leo Dancer",
+        "Lunalight Masquerade",
+        "Lunalight Panther Dancer",
+        "Lunalight Perfume Dancer",
+        "Lunalight Purple Butterfly",
+        "Lunalight Reincarnation Dance",
+        "Lunalight Sabre Dancer",
+        "Lunalight Scarlet Tiger",
+        "Lunalight Serenade Dance",
+        "Lunalight Silver Hound",
+        "Lunalight Tiger",
+        "Lunalight White Rabbit",
+        "Lunalight Wolf",
+        "Lunalight Yellow Marten"
+    ],
+    "attribute": "DARK",
+    "attack": 3800,
+    "defense": 3500,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

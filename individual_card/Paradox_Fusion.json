@@ -1,0 +1,13 @@
+{
+    "name": "Paradox Fusion",
+    "filename": "Paradox_Fusion",
+    "card_text": "When a monster(s) would be Special Summoned, OR a Spell/Trap Card is activated: Banish 1 face-up Fusion Monster you control; negate the Special Summon or activation, and if you do, destroy that card, also during your 2nd End Phase, return the banished Fusion Monster to your field in face-up Attack Position.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "FUSION ENFORCERS",
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

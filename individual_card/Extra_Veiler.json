@@ -1,0 +1,18 @@
+{
+    "name": "Extra Veiler",
+    "filename": "Extra_Veiler",
+    "card_text": "When your opponent Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, your opponent takes any effect damage you would have taken from their card effects this turn, instead.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 600,
+    "defense": 200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

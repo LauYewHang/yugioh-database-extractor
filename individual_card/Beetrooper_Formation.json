@@ -1,0 +1,28 @@
+{
+    "name": "Beetrooper Formation",
+    "filename": "Beetrooper_Formation",
+    "card_text": "You can target 1 \"Beetrooper\" monster in your GY; Special Summon it, but it cannot attack this turn, also you lose LP equal to its original ATK. If a face-up Insect monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Beetrooper Token\" (Insect/EARTH/Level 3/ATK 1000/DEF 1000). You can only use each effect of \"Beetrooper Formation\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Beetrooper Armor Horn",
+        "Beetrooper Assault Roller",
+        "Beetrooper Cruel Saturnas",
+        "Beetrooper Descent",
+        "Beetrooper Fly & Sting",
+        "Beetrooper Landing",
+        "Beetrooper Light Flapper",
+        "Beetrooper Scale Bomber",
+        "Beetrooper Scout Buggy",
+        "Beetrooper Squad",
+        "Beetrooper Sting Lancer",
+        "Giant Beetrooper Invincible Atlas",
+        "Heavy Beetrooper Mighty Neptune",
+        "Ultra Beetrooper Absolute Hercules"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Hibikime",
+    "filename": "Hibikime",
+    "card_text": "Confuses enemy monsters with a noise that is harsh to the ears.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Empress Judge"
+    ],
+    "attribute": "EARTH",
+    "attack": 1450,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

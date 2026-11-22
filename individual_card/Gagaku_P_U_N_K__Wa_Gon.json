@@ -1,0 +1,35 @@
+{
+    "name": "Gagaku-P.U.N.K. Wa Gon",
+    "filename": "Gagaku_P_U_N_K__Wa_Gon",
+    "card_text": "You can pay 600 LP; add 1 \"P.U.N.K.\" Spell from your Deck to your hand. When your opponent activates a card or effect that targets a \"P.U.N.K.\" monster(s) you control, or when your opponent's monster targets one for an attack (Quick Effect): You can draw 1 card. You can only use each effect of \"Gagaku-P.U.N.K. Wa Gon\" once per turn.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "THE GRAND CREATORS"
+    ],
+    "related_card": [
+        "Gagaku-P.U.N.K. Crash Beat",
+        "Gagaku-P.U.N.K. Wild Picking",
+        "Joruri-P.U.N.K. Dangerous Gabu",
+        "Joruri-P.U.N.K. Madame Spider",
+        "Joruri-P.U.N.K. Nashiwari Surprise",
+        "Noh-P.U.N.K. Deer Note",
+        "Noh-P.U.N.K. Foxy Tune",
+        "Noh-P.U.N.K. Ogre Dance",
+        "Noh-P.U.N.K. Rising Scale",
+        "Noh-P.U.N.K. Ze Amin",
+        "P.U.N.K. JAM Dragon Drive",
+        "P.U.N.K. JAM Extreme Session",
+        "P.U.N.K. JAM FEVER!",
+        "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "Ukiyoe-P.U.N.K. Rising Carp",
+        "Ukiyoe-P.U.N.K. Sharakusai"
+    ],
+    "attribute": "EARTH",
+    "attack": 900,
+    "defense": 600,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

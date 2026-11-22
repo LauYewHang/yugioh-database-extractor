@@ -1,0 +1,12 @@
+{
+    "name": "Mind Pollutant",
+    "filename": "Mind_Pollutant",
+    "card_text": "Discard 1 monster to target 1 monster of that Level your opponent controls; take control of that target until the End Phase.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

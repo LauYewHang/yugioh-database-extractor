@@ -1,0 +1,19 @@
+{
+    "name": "Gorgonic Golem",
+    "filename": "Gorgonic_Golem",
+    "card_text": "If this card is destroyed by battle and sent to the Graveyard: The ATK of the monster that destroyed it becomes 0. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that target cannot be activated this turn. Your opponent cannot activate the targeted card in response to this effect's activation.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 600,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

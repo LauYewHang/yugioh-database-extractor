@@ -1,0 +1,21 @@
+{
+    "name": "Preparation of Rites",
+    "filename": "Preparation_of_Rites",
+    "card_text": "Add 1 Level 7 or lower Ritual Monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "STARDUST OVERDRIVE",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "HIDDEN SUMMONERS",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "Gold Series: Maximum Gold",
+        "WILD SURVIVORS",
+        "THE SECRET FORCES",
+        "AMAZING DEFENDERS",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

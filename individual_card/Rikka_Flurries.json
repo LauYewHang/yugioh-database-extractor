@@ -1,0 +1,28 @@
+{
+    "name": "Rikka Flurries",
+    "filename": "Rikka_Flurries",
+    "card_text": "If a \"Rikka\" monster you control is Tributed (except during the Damage Step): You can make your opponent Tribute 1 monster they control (their choice). You can only use this effect of \"Rikka Flurries\" once per turn. Once per turn, during your opponent's End Phase, if you control a face-up non-Plant monster: Destroy this card.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS"
+    ],
+    "related_card": [
+        "Cyclamen the Rikka Fairy",
+        "Erica the Rikka Fairy",
+        "Hellebore the Rikka Fairy",
+        "Kanzashi the Rikka Queen",
+        "Mudan the Rikka Fairy",
+        "Primula the Rikka Fairy",
+        "Rikka Glamour",
+        "Rikka Konkon",
+        "Rikka Petal",
+        "Rikka Princess",
+        "Rikka Queen Strenna",
+        "Rikka Sheet",
+        "Rikka Tranquility",
+        "Snowdrop the Rikka Fairy",
+        "Teardrop the Rikka Queen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

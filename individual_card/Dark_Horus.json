@@ -1,0 +1,26 @@
+{
+    "name": "Dark Horus",
+    "filename": "Dark_Horus",
+    "card_text": "Once per turn, after resolving a Spell Card that was activated during your opponent's Main Phase: You can target 1 Level 4 DARK monster in your Graveyard; Special Summon that target. This card must be face-up on the field to activate and to resolve this effect.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "TURBO PACK BOOSTER SEVEN"
+    ],
+    "related_card": [
+        "Canopic Protector",
+        "Duamutef, Blessing of Horus",
+        "Horus the Black Flame Deity",
+        "King's Sarcophagus",
+        "Qebehsenuef, Protection of Horus",
+        "Walls of the Imperial Tomb"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Mirror Barrier",
+    "filename": "Mirror_Barrier",
+    "card_text": "Target 1 face-up monster you control; equip this card to it with the following effect.\n\u25cfOnce per Battle Step, if the equipped monster battles an opponent's monster: You can destroy that opponent's monster.\nIf this card is destroyed: You can add 1 \"Armament Reincarnation\" from your Deck to your hand. You can only use this effect of \"Mirror Barrier\" once per turn.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [
+        "Armament Reincarnation"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

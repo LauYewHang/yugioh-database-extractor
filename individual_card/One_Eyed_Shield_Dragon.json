@@ -1,0 +1,20 @@
+{
+    "name": "One-Eyed Shield Dragon",
+    "filename": "One_Eyed_Shield_Dragon",
+    "card_text": "This dragon wears a shield not only for its own protection, but also for ramming its enemies.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Dragoness the Wicked Knight"
+    ],
+    "attribute": "WIND",
+    "attack": 700,
+    "defense": 1300,
+    "monster_type": "Dragon",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

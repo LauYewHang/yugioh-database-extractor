@@ -1,0 +1,21 @@
+{
+    "name": "Karate Man",
+    "filename": "Karate_Man",
+    "card_text": "You can double the original ATK of this card once per turn. If you used this effect, destroy this card during the End Phase.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "STARTER DECK JOEY",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
+        "TOURNAMENT PACK 4"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

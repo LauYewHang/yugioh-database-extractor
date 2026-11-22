@@ -1,0 +1,35 @@
+{
+    "name": "Tri-Brigade Stand-Off",
+    "filename": "Tri_Brigade_Stand_Off",
+    "card_text": "You cannot Special Summon monsters from the Extra Deck, except Beast, Beast-Warrior, or Winged Beast monsters. You can send 1 monster from your hand or field to the GY; add 1 \"Tri-Brigade\" monster from your Deck to your hand with a different original Type than that monster sent to the GY. You can only use this effect of \"Tri-Brigade Stand-Off\" once per turn. If this card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can activate this effect; your opponent cannot declare an attack this turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Airborne Assault",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Ferrijit the Barren Blossom",
+        "Tri-Brigade Fraktall",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kerass",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Oath",
+        "Tri-Brigade Rendezvous",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Rugal the Silver Sheller",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Shuraig the Ominous Omen",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

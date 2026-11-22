@@ -1,0 +1,38 @@
+{
+    "name": "Wind-Up Juggler",
+    "filename": "Wind_Up_Juggler",
+    "card_text": "After damage calculation, if this card battled an opponent's monster: You can destroy that opponent's monster. This effect can be used only once while this card is face-up on the field.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "Legendary Wind-Up Key",
+        "Overwind",
+        "Weights & Zenmaisures",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Factory",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaintenance",
+        "Zenmaiday",
+        "Zenmailfunction",
+        "Zenmailstrom",
+        "Zenmairch"
+    ],
+    "attribute": "WIND",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Cloudian - Storm Dragon",
+    "filename": "Cloudian___Storm_Dragon",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Cloudian\" monster from your GY. Cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. Once per turn: You can target 1 face-up monster on the field; place 1 Fog Counter on that target.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Cloudian - Acid Cloud",
+        "Cloudian - Altus",
+        "Cloudian - Cirrostratus",
+        "Cloudian - Eye of the Typhoon",
+        "Cloudian - Ghost Fog",
+        "Cloudian - Nimbusman",
+        "Cloudian - Poison Cloud",
+        "Cloudian - Sheep Cloud",
+        "Cloudian - Smoke Ball",
+        "Cloudian - Turbulence",
+        "Cloudian Aerosol",
+        "Cloudian Squall",
+        "Diamond-Dust Cyclone",
+        "Fog Control",
+        "Lucky Cloud",
+        "Natural Disaster",
+        "Raging Cloudian",
+        "Rain Storm",
+        "Summon Cloud",
+        "Updraft"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

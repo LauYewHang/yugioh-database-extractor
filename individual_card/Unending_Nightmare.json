@@ -1,0 +1,16 @@
+{
+    "name": "Unending Nightmare",
+    "filename": "Unending_Nightmare",
+    "card_text": "You can pay 1000 LP, then target 1 face-up Spell/Trap on the field; destroy it. You can only activate this effect of \"Unending Nightmare\" once per Chain.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN",
+        "MAXIMUM CRISIS",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "SPEED DUEL TOURNAMENT PACK 6"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

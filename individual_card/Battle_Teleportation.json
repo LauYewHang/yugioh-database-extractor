@@ -1,0 +1,12 @@
+{
+    "name": "Battle Teleportation",
+    "filename": "Battle_Teleportation",
+    "card_text": "Activate if you control only 1 face-up Psychic-Type monster, and select that monster. It can attack your opponent directly this turn. At the end of the Battle Phase, give control of that monster to your opponent.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

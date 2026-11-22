@@ -1,0 +1,17 @@
+{
+    "name": "Powered Inzektron",
+    "filename": "Powered_Inzektron",
+    "card_text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: This turn, this card cannot be destroyed by battle or by card effects, also you take no damage.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

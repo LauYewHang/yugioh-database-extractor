@@ -1,0 +1,19 @@
+{
+    "name": "Litmus Doom Swordsman",
+    "filename": "Litmus_Doom_Swordsman",
+    "card_text": "You can Ritual Summon this card with \"Litmus Doom Ritual\". It is unaffected by Trap effects and cannot be destroyed by battle. Gains 3000 ATK/DEF while a Trap is on the field. If this Ritual Summoned card in its owner's control is destroyed by your opponent's card: You can target 1 Trap in either GY; Set it to your Spell & Trap Zone.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Litmus Doom Ritual"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

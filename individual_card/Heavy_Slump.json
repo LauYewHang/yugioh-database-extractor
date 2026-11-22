@@ -1,0 +1,15 @@
+{
+    "name": "Heavy Slump",
+    "filename": "Heavy_Slump",
+    "card_text": "If your opponent has 8 or more cards in their hand: They shuffle their entire hand into the Deck, then draw 2 cards.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "ASTRAL PACK THREE",
+        "MYSTIC FIGHTERS",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

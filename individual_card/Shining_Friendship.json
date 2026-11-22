@@ -1,0 +1,18 @@
+{
+    "name": "Shining Friendship",
+    "filename": "Shining_Friendship",
+    "card_text": "The peacemaker among monsters.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "TOURNAMENT PACK 1ST SEASON",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1300,
+    "defense": 1100,
+    "monster_type": "Fairy",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

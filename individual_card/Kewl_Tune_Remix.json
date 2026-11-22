@@ -1,0 +1,26 @@
+{
+    "name": "Kewl Tune Remix",
+    "filename": "Kewl_Tune_Remix",
+    "card_text": "\"Kewl Tune Mix\" + 1+ Tuners\nGains 1500 ATK while your opponent has a Tuner in their field or GY. During your opponent's turn (Quick Effect): You can Tribute this card; choose 2 non-Synchro Tuners in your GY, add 1 of them to your hand, and if you do, Special Summon the other, then immediately after this effect resolves, you can Synchro Summon 1 Tuner Synchro Monster. You can only use this effect of \"Kewl Tune Remix\" once per turn.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "JJ \"Kewl Tune\"",
+        "Kewl Tune Loudness War",
+        "Kewl Tune Mix",
+        "Kewl Tune Playlist",
+        "Kewl Tune Reco",
+        "Kewl Tune Rotary",
+        "Kewl Tune Synchro",
+        "Kewl Tune Track Maker"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

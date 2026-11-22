@@ -1,0 +1,37 @@
+{
+    "name": "Performage Wind Drainer",
+    "filename": "Performage_Wind_Drainer",
+    "card_text": "If your opponent controls a monster, or a \"Performage\" monster is on the field: You can Special Summon this card from your hand, but while it is face-up in the Monster Zone, you cannot Special Summon, except \"Performage\" monsters. You can only use this effect of \"Performage Wind Drainer\" once per turn. If this card is Special Summoned: You can reduce its Level by 1. Once per turn: You can change the Levels of all Level 4 \"Performage\" monsters you control to Level 5.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Bubble Barrier",
+        "Performage Ball Balancer",
+        "Performage Cup Tricker",
+        "Performage Damage Juggler",
+        "Performage Fire Dancer",
+        "Performage Flame Eater",
+        "Performage Hat Tricker",
+        "Performage Mirror Conductor",
+        "Performage Plushfire",
+        "Performage Shadow Maker",
+        "Performage Stilts Launcher",
+        "Performage Trapeze High Magician",
+        "Performage Trapeze Magician",
+        "Performage Trapeze Witch",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Trick Box"
+    ],
+    "attribute": "WIND",
+    "attack": 2100,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "Once per turn: You can target 1 \"Performage\" Pendulum Monster you control, then activate 1 of these effects;\n\u25cfReduce its Level by 1.\n\u25cfIncrease this card's Pendulum Scale by that monster's.",
+    "pendulum_scale": 4
+}

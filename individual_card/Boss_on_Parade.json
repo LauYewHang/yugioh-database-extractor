@@ -1,0 +1,23 @@
+{
+    "name": "Boss on Parade",
+    "filename": "Boss_on_Parade",
+    "card_text": "When this card is activated: Add 1 \"B.E.S.\" monster from your Deck to your hand. Once per turn, during your Main Phase: You can destroy 1 monster in your hand or field, and if you do, Special Summon 1 LIGHT Machine monster with 1200 ATK and 1000 or less DEF from your Deck to either field. You can banish this card from your GY; place 1 \"Boss Rush\" from your Deck or GY, face-up on your field. You can only activate 1 \"Boss on Parade\" per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "B.E.S. Big Core (Updated from: Big Core)",
+        "B.E.S. Big Core MK-2",
+        "B.E.S. Big Core MK-3",
+        "B.E.S. Blaster Cannon Core",
+        "B.E.S. Covered Core",
+        "B.E.S. Crystal Core",
+        "B.E.S. Derringer Core",
+        "B.E.S. Tetran",
+        "Boss Rush",
+        "Super B.E.S. Metal Slave"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

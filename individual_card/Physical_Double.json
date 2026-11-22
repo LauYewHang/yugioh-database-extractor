@@ -1,0 +1,14 @@
+{
+    "name": "Physical Double",
+    "filename": "Physical_Double",
+    "card_text": "During your opponent's turn: Target 1 face-up monster your opponent controls; Special Summon 1 \"Mirage Token\" with the same Level, Type, Attribute, ATK, and DEF as that target. Destroy this Token during the End Phase.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "GOLD SERIES HAUNTED MINE",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

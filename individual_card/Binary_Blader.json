@@ -1,0 +1,18 @@
+{
+    "name": "Binary Blader",
+    "filename": "Binary_Blader",
+    "card_text": "2 Normal Monsters\nThis card gains these effects based on the number of monsters co-linked to this card.\n\u25cf1+: When this card declares an attack on an opponent's monster: You can activate this effect; this card can make a second attack during each Battle Phase this turn, also if this card battles an opponent's monster this turn, that opponent's monster cannot be destroyed by that battle.\n\u25cf2: After damage calculation, if this card battled an opponent's monster: You can banish that opponent's monster.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 80
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Samsara Dragon",
+    "filename": "Samsara_Dragon",
+    "card_text": "Can be treated as 2 Tributes for the Tribute Summon of a Dragon monster. You can banish this card from your GY, then target 1 Level 5 or higher Dragon monster in your GY; add it to your hand, then immediately after this effect resolves, you can Tribute Summon that monster. You can only use this effect of \"Samsara Dragon\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "OTS ULTIMATE TOURNAMENT PACK 1"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Man-Eater Bug",
+    "filename": "Man_Eater_Bug",
+    "card_text": "FLIP: Target 1 monster on the field; destroy it.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "DARK LEGENDS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "DARK BEGINNING 1",
+        "STARTER DECK YUGI Evolution",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "RETRO PACK",
+        "STARTER DECK PEGASUS",
+        "DUELIST LEAGUE DEMO 2010",
+        "STARTER DECK YUGI",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "DEMO DECK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 450,
+    "defense": 600,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

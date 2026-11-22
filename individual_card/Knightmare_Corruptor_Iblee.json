@@ -1,0 +1,23 @@
+{
+    "name": "Knightmare Corruptor Iblee",
+    "filename": "Knightmare_Corruptor_Iblee",
+    "card_text": "When this card is Normal Summoned: You can target 1 Link Monster in your GY; Special Summon it to your field so it points to this card, but change its ATK to 0, also negate its effects. You cannot Special Summon monsters, except Link Monsters. If this card in its owner's control is sent to the GY: You can Special Summon this card to your opponent's field in Defense Position. You can only use this effect of \"Knightmare Corruptor Iblee\" once per turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Knightmare Mermaid",
+        "Knightmare Unicorn",
+        "World Legacy's Nightmare"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

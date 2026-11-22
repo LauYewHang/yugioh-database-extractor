@@ -1,0 +1,20 @@
+{
+    "name": "Beast Machine King Barbaros \u00dcr",
+    "filename": "Beast_Machine_King_Barbaros_\u00dcr",
+    "card_text": "You can Special Summon this card (from your hand) by banishing 1 Machine-Type monster and 1 Beast-Warrior-Type monster from your hand, field, and/or Graveyard. If this card attacks or is attacked, your opponent takes no battle damage.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "King Beast Barbaros"
+    ],
+    "attribute": "EARTH",
+    "attack": 3800,
+    "defense": 1200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Miracle Locus",
+    "filename": "Miracle_Locus",
+    "card_text": "Target 1 face-up Attack Position monster you control; your opponent draws 1 card, also that monster gains 1000 ATK until the end of this turn, and if it does, it can make up to 2 attacks on monsters during each Battle Phase this turn. If it attacks or is attacked this turn, your opponent takes no battle damage from that attack.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "DUELIST PACK - YUSEI 2 -",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "RAGING BATTLE",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

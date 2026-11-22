@@ -1,0 +1,18 @@
+{
+    "name": "Sonic Shooter",
+    "filename": "Sonic_Shooter",
+    "card_text": "If there are no cards in your opponent's Spell & Trap Zone, this card can attack your opponent directly. If it does, the battle damage inflicted to your opponent is the original ATK of this card.",
+    "release_date": "2006-07-12",
+    "available_set": [
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "STRUCTURE DECK LORD OF THE STORM"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1300,
+    "defense": 600,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

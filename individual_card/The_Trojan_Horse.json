@@ -1,0 +1,20 @@
+{
+    "name": "The Trojan Horse",
+    "filename": "The_Trojan_Horse",
+    "card_text": "This card can be treated as 2 Tributes for the Tribute Summon of an EARTH monster.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "STARTER DECK 2006",
+        "SOUL OF THE DUELIST",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

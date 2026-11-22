@@ -1,0 +1,23 @@
+{
+    "name": "Fossil Dragon Skullgar",
+    "filename": "Fossil_Dragon_Skullgar",
+    "card_text": "1 Rock monster + 1 Level 4 or lower monster in your opponent's GY\nMust first be Special Summoned with \"Fossil Fusion\". If this card attacks a Defense Position monster, inflict piercing battle damage. You can banish this card from your GY; add 1 \"Fossil Fusion\" from your Deck to your hand. You can only use this effect of \"Fossil Dragon Skullgar\" once per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [
+        "Flint Cragger",
+        "Fossil Fusion",
+        "Time Stream",
+        "Weathering Soldier"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 0,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

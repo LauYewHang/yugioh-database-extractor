@@ -1,0 +1,12 @@
+{
+    "name": "Yaminabe Party",
+    "filename": "Yaminabe_Party",
+    "card_text": "At the start of your Battle Phase: You can target 1 face-up monster you control; this turn, your opponent chooses the attack target(s) for that monster, also if that monster you control battles an opponent's monster, it gains ATK equal to its original ATK during damage calculation only. You can only use this effect of \"Yaminabe Party\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

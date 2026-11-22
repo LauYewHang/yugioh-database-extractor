@@ -1,0 +1,32 @@
+{
+    "name": "Demigod of the Tistina",
+    "filename": "Demigod_of_the_Tistina",
+    "card_text": "If you control a \"Tistina\" card: You can Special Summon this card from your hand, then you can add 1 \"Tistina\" Spell/Trap from your Deck to your hand. During your opponent's turn, if you control \"Crystal God Tistina\" (Quick Effect): You can change as many monsters your opponent controls as possible to face-down Defense Position, then you can send all face-up cards your opponent controls to the GY. You can only use each effect of \"Demigod of the Tistina\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Breath of the Tistina",
+        "Crystal God Tistina",
+        "Discordance of the Tistina",
+        "Divine Domain Baatistina",
+        "Embrace of the Tistina",
+        "Fallen of the Tistina",
+        "Hound of the Tistina",
+        "Miasma Dragon Tistina",
+        "Play of the Tistina",
+        "Returned of the Tistina",
+        "Sentinel of the Tistina",
+        "Signs of the Tistina",
+        "Tainted of the Tistina",
+        "Tistina, the Divinity that Defies Darkness"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

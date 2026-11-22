@@ -1,0 +1,38 @@
+{
+    "name": "Shiranui Spectralsword Shade",
+    "filename": "Shiranui_Spectralsword_Shade",
+    "card_text": "You can Tribute this card, then target 2 of your banished Zombie monsters, except \"Shiranui Spectralsword Shade\", including a \"Shiranui\" monster; Special Summon them in Defense Position, but negate their effects, also, you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can only use this effect of \"Shiranui Spectralsword Shade\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Samuraisaga",
+        "Shiranui Shogunsaga",
+        "Shiranui Skillsaga Supremacy",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword",
+        "Shiranui Spiritmaster",
+        "Shiranui Squire",
+        "Shiranui Squiresaga",
+        "Shiranui Style Samsara",
+        "Shiranui Style Solemnity",
+        "Shiranui Style Success",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Style Synthesis",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster",
+        "Shiranui Swordsaga"
+    ],
+    "attribute": "FIRE",
+    "attack": 800,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

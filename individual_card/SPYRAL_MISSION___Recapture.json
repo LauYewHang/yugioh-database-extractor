@@ -1,0 +1,28 @@
+{
+    "name": "SPYRAL MISSION - Recapture",
+    "filename": "SPYRAL_MISSION___Recapture",
+    "card_text": "Destroy this card during your 3rd End Phase after activation. Once per turn, if a \"SPYRAL\" monster is Special Summoned to your field (except during the Damage Step): You can target 1 monster your opponent controls; take control of it until the End Phase, but it cannot attack directly this turn. If a \"SPYRAL\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your Graveyard instead of destroying 1 of those \"SPYRAL\" monsters.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "SPYRAL Double Agent",
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Shield Warrior",
+    "filename": "Shield_Warrior",
+    "card_text": "During damage calculation, in either player's turn: You can banish this card from your Graveyard; monsters you control cannot be destroyed by this battle.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DUELIST PACK - YUSEI -"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

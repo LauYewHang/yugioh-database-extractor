@@ -1,0 +1,24 @@
+{
+    "name": "Maliss in the Mirror",
+    "filename": "Maliss_in_the_Mirror",
+    "card_text": "Target 1 face-up monster your opponent controls; banish 1 \"Maliss\" monster from your hand or face-up field, and if you do, negate that monster's effects until the end of this turn. If this card is banished: You can target 1 \"Maliss\" card in your GY; banish it, and if you do, add 1 \"Maliss\" card of the same type (Monster, Spell, or Trap) from your Deck to your hand. You can only use each effect of \"Maliss in the Mirror\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Maliss <C> GWC-06",
+        "Maliss <C> MTP-07",
+        "Maliss <C> TB-11",
+        "Maliss <P> Chessy Cat",
+        "Maliss <P> Dormouse",
+        "Maliss <P> March Hare",
+        "Maliss <P> White Rabbit",
+        "Maliss <Q> Hearts Crypter",
+        "Maliss <Q> Red Ransom",
+        "Maliss <Q> White Binder",
+        "Maliss in Underground"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

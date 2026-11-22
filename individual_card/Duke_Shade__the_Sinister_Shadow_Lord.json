@@ -1,0 +1,18 @@
+{
+    "name": "Duke Shade, the Sinister Shadow Lord",
+    "filename": "Duke_Shade__the_Sinister_Shadow_Lord",
+    "card_text": "You can Tribute any number of DARK monsters; Special Summon this card from your hand, and if you do, it gains 500 ATK for each monster you Tributed. If this card is Normal or Special Summoned: You can target 1 Level 5 or higher DARK monster in your GY; add it to your hand. You can only use each effect of \"Duke Shade, the Sinister Shadow Lord\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except DARK monsters.",
+    "release_date": "2018-04-20",
+    "available_set": [
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

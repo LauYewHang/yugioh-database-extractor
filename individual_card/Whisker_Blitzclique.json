@@ -1,0 +1,28 @@
+{
+    "name": "Whisker Blitzclique",
+    "filename": "Whisker_Blitzclique",
+    "card_text": "During the turn a card(s) was destroyed by your \"Blitzclique\" card effect (Quick Effect): You can reveal this card in your hand; Special Summon up to 3 Thunder monsters from your hand, then you can destroy up to that many cards on the field, also for the rest of this turn, you cannot Special Summon Effect Monsters, except from the hand. When a monster effect is activated, except in the hand (Quick Effect): You can return 1 other Thunder monster you control to the hand; negate the activation, and if you do, destroy that monster. You can only use each effect of \"Whisker Blitzclique\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Blitzclique - Breakaway",
+        "Blitzclique - Steppleader",
+        "Blitzclique Alternator",
+        "Blitzclique Overvolt",
+        "Blitzclique Return Stroke",
+        "Crackle Blitzclique",
+        "Emi Blitzclique",
+        "Grain Blitzclique",
+        "Hideout in the Sky, Coulomb",
+        "Surge Blitzclique"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 2400,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

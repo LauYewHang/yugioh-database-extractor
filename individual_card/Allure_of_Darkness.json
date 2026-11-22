@@ -1,0 +1,29 @@
+{
+    "name": "Allure of Darkness",
+    "filename": "Allure_of_Darkness",
+    "card_text": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "QUARTER CENTURY BONANZA",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN",
+        "DARK SAVIORS",
+        "CROSSOVER BREAKERS",
+        "BROTHERS OF LEGEND",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "WILD SURVIVORS",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "OTS TOURNAMENT PACK 1",
+        "STRUCTURE DECK - MARIK -",
+        "PHANTOM DARKNESS",
+        "RAGING BATTLE SPECIAL EDITION",
+        "DESTINY SOLDIERS",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "STRUCTURE DECK : LAIR OF DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Jetroid",
+    "filename": "Jetroid",
+    "card_text": "At the time this card is selected as an attack target by an opponent's monster, you can activate Trap Card(s) from your hand.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Ambulanceroid",
+        "Armoroid",
+        "Barbaroid, the Ultimate Battle Machine",
+        "Dragonroid",
+        "Emergeroid Call",
+        "Expressroid",
+        "Megaroid City",
+        "Mixeroid",
+        "Rescueroid",
+        "Stealthroid",
+        "Super Vehicroid - Mobile Base",
+        "Supercharge",
+        "Wonder Garage"
+    ],
+    "attribute": "WIND",
+    "attack": 1200,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

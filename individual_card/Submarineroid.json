@@ -1,0 +1,37 @@
+{
+    "name": "Submarineroid",
+    "filename": "Submarineroid",
+    "card_text": "This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is the original ATK of this card. At the end of the Damage Step, if this card battled: You can change this card to Defense Position.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "POWER OF THE DUELIST",
+        "STARTER DECK SYRUS TRUESDALE",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Ambulanceroid",
+        "Armoroid",
+        "Barbaroid, the Ultimate Battle Machine",
+        "Dragonroid",
+        "Emergeroid Call",
+        "Expressroid",
+        "Megaroid City",
+        "Mixeroid",
+        "Rescueroid",
+        "Stealthroid",
+        "Super Vehicroid - Mobile Base",
+        "Super Vehicroid Jumbo Drill",
+        "Supercharge",
+        "Wonder Garage"
+    ],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

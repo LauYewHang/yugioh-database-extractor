@@ -1,0 +1,13 @@
+{
+    "name": "Psi-Station",
+    "filename": "Psi_Station",
+    "card_text": "When a Psychic-Type monster is Normal Summoned: You can pay 500 LP; increase its Level by 1 and ATK by 300. (This remains even if this card leaves the field.)",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

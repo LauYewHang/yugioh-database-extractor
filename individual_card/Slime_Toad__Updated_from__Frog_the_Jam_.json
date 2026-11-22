@@ -1,0 +1,18 @@
+{
+    "name": "Slime Toad (Updated from: Frog the Jam)",
+    "filename": "Slime_Toad__Updated_from__Frog_the_Jam_",
+    "card_text": "A slime with the head of a frog, it attacks by croaking terribly.",
+    "release_date": "2002-12-20",
+    "available_set": [
+        "OTS TOURNAMENT PACK 3",
+        "Promotional Cards 1"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 700,
+    "defense": 500,
+    "monster_type": "Aqua",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

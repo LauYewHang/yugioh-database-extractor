@@ -1,0 +1,17 @@
+{
+    "name": "Twin-Shield Defender",
+    "filename": "Twin_Shield_Defender",
+    "card_text": "When this card you control is destroyed by battle and sent to your Graveyard, you can halve the current ATK of 1 face-up monster your opponent controls, until the End Phase.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 700,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

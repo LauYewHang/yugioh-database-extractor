@@ -1,0 +1,27 @@
+{
+    "name": "Fiendsmith's Agnumday",
+    "filename": "Fiendsmith_s_Agnumday",
+    "card_text": "2+ monsters, including a LIGHT Fiend monster\nOnce per turn (Quick Effect): You can target 1 LIGHT non-Link Fiend monster in your GY; Special Summon it, and if you do, equip this card you control to that monster as an Equip Spell with the following effects.\n\u25cfThe equipped monster gains ATK equal to the total Link Rating of Link Monsters equipped to it x 600.\n\u25cfIf the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Fiendsmith Engraver",
+        "Fiendsmith in Paradise",
+        "Fiendsmith Kyrie",
+        "Fiendsmith's Requiem",
+        "Fiendsmith's Rextremende",
+        "Fiendsmith's Sanct",
+        "Fiendsmith's Tract",
+        "Lacrima the Crimson Tears"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 266
+}

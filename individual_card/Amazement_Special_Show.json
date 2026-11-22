@@ -1,0 +1,28 @@
+{
+    "name": "Amazement Special Show",
+    "filename": "Amazement_Special_Show",
+    "card_text": "When your opponent activates a card or effect that targets an \"Amazement\" monster(s) you control: Target 1 of those \"Amazement\" monsters you control; return it to the hand, then, you can Special Summon 1 \"Amazement\" monster from your hand.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "Amaze Attraction Cyclo-Coaster",
+        "Amaze Attraction Horror House",
+        "Amaze Attraction Majestic Merry-Go-Round",
+        "Amaze Attraction Rapid Racing",
+        "Amaze Attraction Thrill Train",
+        "Amaze Attraction Viking Vortex",
+        "Amaze Attraction Wonder Wheel",
+        "Amazement Abomination Arlekino",
+        "Amazement Administrator Arlekino",
+        "Amazement Ambassador Bufo",
+        "Amazement Assistant Delia",
+        "Amazement Attendant Comica",
+        "Amazement Family Faces",
+        "Amazement Precious Park",
+        "Amazing Time Ticket"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

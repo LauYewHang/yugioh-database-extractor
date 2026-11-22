@@ -1,0 +1,17 @@
+{
+    "name": "Wild Nature's Release",
+    "filename": "Wild_Nature_s_Release",
+    "card_text": "Target 1 Beast or Beast-Warrior monster; it gains ATK equal to its current DEF (until the End Phase), and if it does, it is destroyed during the End Phase.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "Speed Duel: Battle City Box",
+        "CHAMPION PACK GAME THREE",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

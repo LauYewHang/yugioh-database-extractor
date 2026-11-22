@@ -1,0 +1,31 @@
+{
+    "name": "Tindangle Trinity",
+    "filename": "Tindangle_Trinity",
+    "card_text": "FLIP: You can Special Summon 1 \"Tindangle Base Gardna\" from your Deck.\nIf this card was flipped face-up, your \"Tindangle\" monsters cannot be destroyed by battle. If this card is sent to the GY as Link Material for the Link Summon of a \"Tindangle\" monster: You can add 1 \"Gergonne's End\" from your Deck to your hand, and if you do, send 1 Spell/Trap from your Deck to the GY. You can only use this effect of \"Tindangle Trinity\" once per turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Euler's Circuit",
+        "Gergonne's End",
+        "Nagel's Protection",
+        "Stairs of Mail",
+        "Tindangle Acute Cerberus",
+        "Tindangle Angel",
+        "Tindangle Base Gardna",
+        "Tindangle Delaunay",
+        "Tindangle Dholes",
+        "Tindangle Hound",
+        "Tindangle Intruder",
+        "Tindangle Jhrelth",
+        "Tindangle Protector"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

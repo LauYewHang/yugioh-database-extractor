@@ -1,0 +1,19 @@
+{
+    "name": "Disguise, the Copycat Hero",
+    "filename": "Disguise__the_Copycat_Hero",
+    "card_text": "If you have an Equip Spell in your field or GY: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Cursed Copycat Noble Arms\" from your Deck to your hand. While this card is equipped with an Equip Card: You can target 1 non-Tuner Warrior monster on the field with a Level; this card's Level, also its name, become the same as that monster's until the End Phase. You can only use each effect of \"Disguise, the Copycat Hero\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Cursed Copycat Noble Arms"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

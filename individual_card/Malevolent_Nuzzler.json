@@ -1,0 +1,24 @@
+{
+    "name": "Malevolent Nuzzler",
+    "filename": "Malevolent_Nuzzler",
+    "card_text": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of your Deck.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DUEL TERMINAL 1",
+        "SPELLCASTER'S COMMAND STRUCTURE DECK",
+        "STARTER DECK SABER FORCE (US)",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "DUEL TERMINAL - PREVIEW WAVE 1",
+        "DARK BEGINNING 1",
+        "STARTER DECK YUGI Evolution",
+        "STARTER DECK JOEY",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "STARTER DECK DARK LEGION (US)",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

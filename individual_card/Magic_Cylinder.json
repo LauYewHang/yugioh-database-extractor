@@ -1,0 +1,39 @@
+{
+    "name": "Magic Cylinder",
+    "filename": "Magic_Cylinder",
+    "card_text": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DUELIST LEAGUE 3",
+        "STARTER DECK YUGI RELOADED",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "RETRO PACK 2",
+        "STRUCTURE DECK: ROKKET REVOLT",
+        "STARTER DECK XYZ SYMPHONY",
+        "STARTER DECK DARK LEGION (US)",
+        "SPELLCASTER'S COMMAND STRUCTURE DECK",
+        "BATTLE PACK EPIC DAWN",
+        "SUPER STARTER SPACE-TIME SHOWDOWN Power-Up Pack",
+        "RARITY COLLECTION 5",
+        "STARTER DECK JADEN YUKI",
+        "STARTER DECK SABER FORCE (US)",
+        "LABYRINTH OF NIGHTMARE",
+        "THE INFINITY CHASERS",
+        "STARTER DECK SYRUS TRUESDALE",
+        "SUPER STARTER Power-Up Pack",
+        "DEMO DECK 2026",
+        "STARTER DECK 2006",
+        "QUARTER CENTURY BONANZA",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "2-PLAYER STARTER SET",
+        "STRUCTURE DECK : YUGI MUTO"
+    ],
+    "related_card": [
+        "Magical Cylinders"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

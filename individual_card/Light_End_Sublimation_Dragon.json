@@ -1,0 +1,18 @@
+{
+    "name": "Light End Sublimation Dragon",
+    "filename": "Light_End_Sublimation_Dragon",
+    "card_text": "You can banish 1 Level 8 Dragon monster from your Extra Deck; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except Dragon monsters. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field. When an opponent's monster declares an attack: You can make this card lose exactly 500 ATK/DEF, and if you do, that opponent's monster loses 1500 ATK. You can only use each effect of \"Light End Sublimation Dragon\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2600,
+    "defense": 2100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

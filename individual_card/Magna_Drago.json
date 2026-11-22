@@ -1,0 +1,19 @@
+{
+    "name": "Magna Drago",
+    "filename": "Magna_Drago",
+    "card_text": "If this card inflicts battle damage to your opponent: It gains 200 ATK.",
+    "release_date": "2008-08-05",
+    "available_set": [
+        "5D's STARTER DECK 2009",
+        "5D's STARTER DECK 2008",
+        "MASTER OF PENDULUM STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1400,
+    "defense": 600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

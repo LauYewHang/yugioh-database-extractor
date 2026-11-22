@@ -1,0 +1,18 @@
+{
+    "name": "Triple Burst Dragon",
+    "filename": "Triple_Burst_Dragon",
+    "card_text": "2+ monsters, except Tokens\nOnce per turn, during the Damage Step, when a Spell/Trap Card, or monster effect, is activated (Quick Effect): You can negate the activation. If this card attacks a Defense Position monster, inflict piercing battle damage. During your Main Phase, except the turn this card was Special Summoned: You can Tribute this card, then target 1 Link-2 or lower monster in your GY; Special Summon it, then you can Special Summon 1 Level 4 or lower Dragon monster from your hand.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "STRUCTURE DECK: ROKKET REVOLT",
+        "EXTREME FORCE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 276
+}

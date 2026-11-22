@@ -1,0 +1,17 @@
+{
+    "name": "Wish Dragon",
+    "filename": "Wish_Dragon",
+    "card_text": "You can Tribute this card; Special Summon 2 \"Dragon Tokens\" (Dragon/EARTH/Level 1/ATK 0/DEF 0), also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Level 5 or higher Dragon monsters. You can only use this effect of \"Wish Dragon\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 700,
+    "defense": 100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

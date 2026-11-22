@@ -1,0 +1,21 @@
+{
+    "name": "Fortune Fairy Ann",
+    "filename": "Fortune_Fairy_Ann",
+    "card_text": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can banish 1 Spellcaster monster from your Deck. You can only use each effect of \"Fortune Fairy Ann\" once per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Lucky Loan",
+        "Miracle Stone",
+        "Unacceptable Result"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

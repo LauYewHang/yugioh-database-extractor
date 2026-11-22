@@ -1,0 +1,19 @@
+{
+    "name": "Doma The Angel of Silence",
+    "filename": "Doma_The_Angel_of_Silence",
+    "card_text": "This fairy rules over the end of existence.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1400,
+    "monster_type": "Fairy",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

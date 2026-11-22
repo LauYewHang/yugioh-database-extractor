@@ -1,0 +1,20 @@
+{
+    "name": "Weather Report",
+    "filename": "Weather_Report",
+    "card_text": "FLIP: Destroys all opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during opponent's turn).",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [
+        "Swords of Revealing Light"
+    ],
+    "attribute": "WATER",
+    "attack": 950,
+    "defense": 1500,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

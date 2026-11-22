@@ -1,0 +1,19 @@
+{
+    "name": "Diskblade Rider",
+    "filename": "Diskblade_Rider",
+    "card_text": "Once per turn: You can target 1 Normal Trap in your GY; banish that target, and if you do, this card gains 500 ATK until the end of your opponent's turn.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1700,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,37 @@
+{
+    "name": "S-Force Dog Tag",
+    "filename": "S_Force_Dog_Tag",
+    "card_text": "During your Main Phase, your opponent cannot activate the effects of monsters in the same column as one of your \"S-Force\" monsters. If your opponent Normal or Special Summons a monster(s) while you control an \"S-Force\" monster (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"S-Force Dog Tag\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

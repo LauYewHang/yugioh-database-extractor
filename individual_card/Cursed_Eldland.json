@@ -1,0 +1,23 @@
+{
+    "name": "Cursed Eldland",
+    "filename": "Cursed_Eldland",
+    "card_text": "You cannot declare attacks, except with Zombie monsters. You can only use each of the following effects of \"Cursed Eldland\" once per turn.\n\u25cfYou can pay 800 LP; add 1 \"Eldlich\" monster or 1 \"Golden Land\" Spell/Trap from your Deck to your hand.\n\u25cfIf this card is sent from the Spell & Trap Zone to the GY: You can send 1 \"Eldlich\" monster or 1 \"Golden Land\" Spell/Trap from your Deck to the GY.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Conquistador of the Golden Land",
+        "Eldlich the Golden Lord",
+        "Eldlich the Mad Golden Lord",
+        "Eldlixir of the Glorious Golden Land",
+        "Fallen Angel of the Golden Land",
+        "Golden Land Forever!",
+        "Guardian of the Golden Land",
+        "Huaquero of the Golden Land",
+        "Seven Cities of the Golden Land"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

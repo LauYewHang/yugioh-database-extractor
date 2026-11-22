@@ -1,0 +1,39 @@
+{
+    "name": "Drillroid",
+    "filename": "Drillroid",
+    "card_text": "Before damage calculation, if this card attacks a Defense Position monster: Destroy that monster.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DUEL TERMINAL 2",
+        "STARTER DECK SYRUS TRUESDALE",
+        "CYBERNETIC REVOLUTION",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "Ambulanceroid",
+        "Armoroid",
+        "Barbaroid, the Ultimate Battle Machine",
+        "Dragonroid",
+        "Emergeroid Call",
+        "Expressroid",
+        "Megaroid City",
+        "Mixeroid",
+        "Rescueroid",
+        "Stealthroid",
+        "Super Vehicroid - Mobile Base",
+        "Super Vehicroid - Stealth Union",
+        "Super Vehicroid Jumbo Drill",
+        "Supercharge",
+        "Wonder Garage"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

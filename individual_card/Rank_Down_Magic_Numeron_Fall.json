@@ -1,0 +1,34 @@
+{
+    "name": "Rank-Down-Magic Numeron Fall",
+    "filename": "Rank_Down_Magic_Numeron_Fall",
+    "card_text": "Target 1 \"Utopia\" monster you control; Special Summon from your Extra Deck, 1 \"Utopia\" monster with a lower Rank than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) The monster Xyz Summoned by this effect gains this effect.\n\u25cfIf this card attacks, or is attacked by, an opponent's monster, the opponent's monster's effects are negated during the Battle Phase only.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [
+        "Number 1: Numeron Gate Ekam",
+        "Number 2: Numeron Gate Dve",
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 3: Numeron Gate Trini",
+        "Number 4: Numeron Gate Catvari",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Numeron Network",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray",
+        "Zexal Construction"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

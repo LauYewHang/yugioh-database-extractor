@@ -1,0 +1,17 @@
+{
+    "name": "Guard Mantis",
+    "filename": "Guard_Mantis",
+    "card_text": "You can pay 1000 LP; Special Summon this card from your hand in Defense Position, but while it is face-up in the Monster Zone, you cannot Special Summon monsters, except Insect monsters. During your opponent's turn (Quick Effect): You can target 1 Insect monster you control; change its battle position. You can only use each effect of \"Guard Mantis\" once per turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 2400,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

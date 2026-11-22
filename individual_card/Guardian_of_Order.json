@@ -1,0 +1,22 @@
+{
+    "name": "Guardian of Order",
+    "filename": "Guardian_of_Order",
+    "card_text": "If you control 2 or more LIGHT monsters, you can Special Summon this card (from your hand). You can only control 1 \"Guardian of Order\".",
+    "release_date": "2008-05-03",
+    "available_set": [
+        "LIGHT OF DESTRUCTION",
+        "LIGHT OF DESTRUCTION Sneak Peek",
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Ahrima, the Wicked Warden",
+    "filename": "Ahrima__the_Wicked_Warden",
+    "card_text": "You can discard this card; add 1 \"Lair of Darkness\" from your Deck to your hand. You can Tribute 1 DARK monster; draw 1 card, or, if you Tributed a DARK monster other than this card to activate this effect, you can add 1 DARK monster with 2000 or more DEF from your Deck to your hand, instead. You can only use this effect of \"Ahrima, the Wicked Warden\" once per turn.",
+    "release_date": "2018-04-20",
+    "available_set": [
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON"
+    ],
+    "related_card": [
+        "Lair of Darkness"
+    ],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

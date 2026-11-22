@@ -1,0 +1,28 @@
+{
+    "name": "Don Zaloog",
+    "filename": "Don_Zaloog",
+    "card_text": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects;\n\u25cfDiscard 1 random card from their hand.\n\u25cfSend the top 2 cards of their Deck to the GY.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "The Lost Art Promotion 8",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "The Lost Art Promotion 7",
+        "GOLD SERIES",
+        "RETRO PACK 2",
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "GOLD SERIES HAUNTED MINE",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Dark Scorpion Combination",
+        "Mustering of the Dark Scorpions"
+    ],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

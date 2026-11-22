@@ -1,0 +1,16 @@
+{
+    "name": "Magnet Circle LV2",
+    "filename": "Magnet_Circle_LV2",
+    "card_text": "Special Summon 1 Level 2 or lower Machine monster from your hand.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "OTS TOURNAMENT PACK 30",
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [
+        "Conduction Warrior Plasma Magnum"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

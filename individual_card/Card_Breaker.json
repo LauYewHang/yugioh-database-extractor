@@ -1,0 +1,18 @@
+{
+    "name": "Card Breaker",
+    "filename": "Card_Breaker",
+    "card_text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell & Trap Card Zone to the Graveyard.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS",
+        "DUELIST PACK - YUSEI 3 -"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 900,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

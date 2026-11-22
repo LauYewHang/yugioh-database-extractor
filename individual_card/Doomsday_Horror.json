@@ -1,0 +1,18 @@
+{
+    "name": "Doomsday Horror",
+    "filename": "Doomsday_Horror",
+    "card_text": "This card's ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "DESTINY SOLDIERS",
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

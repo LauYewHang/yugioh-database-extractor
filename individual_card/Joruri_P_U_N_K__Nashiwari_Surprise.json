@@ -1,0 +1,29 @@
+{
+    "name": "Joruri-P.U.N.K. Nashiwari Surprise",
+    "filename": "Joruri_P_U_N_K__Nashiwari_Surprise",
+    "card_text": "Target 1 Set card your opponent controls, or, if you control a \"P.U.N.K.\" monster, you can target 1 face-up card your opponent controls instead; destroy it. You can only activate 1 \"Joruri-P.U.N.K. Nashiwari Surprise\" per turn.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "THE GRAND CREATORS"
+    ],
+    "related_card": [
+        "Gagaku-P.U.N.K. Crash Beat",
+        "Gagaku-P.U.N.K. Wa Gon",
+        "Gagaku-P.U.N.K. Wild Picking",
+        "Joruri-P.U.N.K. Dangerous Gabu",
+        "Joruri-P.U.N.K. Madame Spider",
+        "Noh-P.U.N.K. Deer Note",
+        "Noh-P.U.N.K. Foxy Tune",
+        "Noh-P.U.N.K. Ogre Dance",
+        "Noh-P.U.N.K. Rising Scale",
+        "Noh-P.U.N.K. Ze Amin",
+        "P.U.N.K. JAM Dragon Drive",
+        "P.U.N.K. JAM Extreme Session",
+        "P.U.N.K. JAM FEVER!",
+        "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "Ukiyoe-P.U.N.K. Rising Carp",
+        "Ukiyoe-P.U.N.K. Sharakusai"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

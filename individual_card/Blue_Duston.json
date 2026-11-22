@@ -1,0 +1,23 @@
+{
+    "name": "Blue Duston",
+    "filename": "Blue_Duston",
+    "card_text": "Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: Banish 1 random card from its controller's hand, face-down, until the Standby Phase of the next turn. You can only control 1 face-up \"Blue Duston\".",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [
+        "Diamond Duston",
+        "Duston Roller",
+        "House Duston",
+        "Magicalized Duston Mop",
+        "Starduston"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

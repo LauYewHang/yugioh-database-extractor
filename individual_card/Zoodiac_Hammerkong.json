@@ -1,0 +1,33 @@
+{
+    "name": "Zoodiac Hammerkong",
+    "filename": "Zoodiac_Hammerkong",
+    "card_text": "3 or more Level 4 monsters\nOnce per turn, you can also Xyz Summon \"Zoodiac Hammerkong\" by using 1 \"Zoodiac\" monster you control with a different name as Xyz Material. (If you used an Xyz Monster, any Xyz Materials attached to it also become Xyz Materials on this card.) This card gains ATK and DEF equal to the ATK and DEF of all \"Zoodiac\" monsters attached to it as Materials. While this card has Xyz Material, your opponent cannot target face-up \"Zoodiac\" monsters on the field with card effects, except this one. Once per turn, during the End Phase: Detach 1 Xyz Material from this card.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Zodiac Sign",
+        "Zoodiac Barrage",
+        "Zoodiac Boarbow",
+        "Zoodiac Broadbull",
+        "Zoodiac Bunnyblast",
+        "Zoodiac Chakanine",
+        "Zoodiac Combo",
+        "Zoodiac Drident",
+        "Zoodiac Gathering",
+        "Zoodiac Kataroost",
+        "Zoodiac Ramram",
+        "Zoodiac Ratpier",
+        "Zoodiac Thoroughblade",
+        "Zoodiac Tigermortar",
+        "Zoodiac Whiptail"
+    ],
+    "attribute": "EARTH",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

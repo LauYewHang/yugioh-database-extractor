@@ -1,0 +1,22 @@
+{
+    "name": "Foolish Graverobber",
+    "filename": "Foolish_Graverobber",
+    "card_text": "Send 1 card that mentions \"Dark Time Wizard\" from your Deck to the GY, except \"Foolish Graverobber\", then you can Special Summon 1 monster from either GY to your field. You can banish this card from your GY; Set 1 of the following cards to your field.\n\u25cfSpell/Trap that mentions \"Dark Time Wizard\" in your GY, except \"Foolish Graverobber\"\n\u25cfSpell/Trap in your opponent's GY\nYou can only use each effect of \"Foolish Graverobber\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Alligator's Dragon Knight",
+        "Dark Time Wizard",
+        "Fisherman of Legend",
+        "Graceful & Skull Dice",
+        "Jinzo - Energy Shocker",
+        "Red-Eyes Black Dragon Exceed",
+        "Reversal Box",
+        "Sleepy Scapegoats",
+        "Swiftwind Panther Warrior"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

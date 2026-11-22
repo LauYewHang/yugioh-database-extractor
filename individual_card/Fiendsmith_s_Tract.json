@@ -1,0 +1,26 @@
+{
+    "name": "Fiendsmith's Tract",
+    "filename": "Fiendsmith_s_Tract",
+    "card_text": "Add 1 LIGHT Fiend monster from your Deck to your hand, then discard 1 card. You can banish this card from your GY; Fusion Summon 1 \"Fiendsmith\" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Fiendsmith's Tract\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Fiendsmith Engraver",
+        "Fiendsmith in Paradise",
+        "Fiendsmith Kyrie",
+        "Fiendsmith's Agnumday",
+        "Fiendsmith's Desirae",
+        "Fiendsmith's Lacrima",
+        "Fiendsmith's Requiem",
+        "Fiendsmith's Rextremende",
+        "Fiendsmith's Sanct",
+        "Fiendsmith's Sequence",
+        "Lacrima the Crimson Tears"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

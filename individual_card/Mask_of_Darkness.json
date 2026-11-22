@@ -1,0 +1,30 @@
+{
+    "name": "Mask of Darkness",
+    "filename": "Mask_of_Darkness",
+    "card_text": "FLIP: Target 1 Trap in your GY; add that target to your hand.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "DARK LEGENDS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "METAL RAIDERS",
+        "DARK BEGINNING 1",
+        "STARTER DECK SYRUS TRUESDALE",
+        "RETRO PACK",
+        "STARTER DECK PEGASUS",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "2-PLAYER STARTER SET",
+        "BATTLE PACK EPIC DAWN",
+        "STARTER DECK JADEN YUKI",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 900,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

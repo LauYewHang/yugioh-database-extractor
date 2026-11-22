@@ -1,0 +1,42 @@
+{
+    "name": "Call of the Archfiend",
+    "filename": "Call_of_the_Archfiend",
+    "card_text": "You can target 1 Level 5 or higher Fiend monster in your GY; discard 1 Fiend monster, and if you do, Special Summon the targeted monster. You can only use this effect of \"Call of the Archfiend\" once per turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Archfiend Black Skull Dragon",
+        "Archfiend Cavalry",
+        "Archfiend Commander",
+        "Archfiend Emperor, the First Lord of Horror",
+        "Archfiend Giant",
+        "Archfiend Heiress",
+        "Archfiend Matriarch",
+        "Archfiend Palabyrinth",
+        "Archfiend Playtime",
+        "Archfiend Strategy",
+        "Archfiend's Fervor",
+        "Archfiend's Roar",
+        "Archfiend's Usurpation",
+        "Battle-Scarred",
+        "Checkmate",
+        "Darkbishop Archfiend",
+        "Duke Archfiend",
+        "Falling Down",
+        "Highness Archfiend",
+        "Infernalqueen Archfiend",
+        "Matador Archfiend",
+        "Pandemonium",
+        "Ritual of the Matador",
+        "Royal Archfiend",
+        "Skilled Red Magician",
+        "Terrorking Archfiend",
+        "Throne of the Archfiends",
+        "Vilepawn Archfiend"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

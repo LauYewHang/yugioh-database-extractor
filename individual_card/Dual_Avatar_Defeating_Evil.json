@@ -1,0 +1,25 @@
+{
+    "name": "Dual Avatar Defeating Evil",
+    "filename": "Dual_Avatar_Defeating_Evil",
+    "card_text": "Target 1 \"Dual Avatar\" monster you control and 1 card your opponent controls; destroy them, then if you destroyed a \"Dual Avatar\" Fusion Monster you control by this effect, you can apply 1 of these effects.\n\u25cfDraw 1 card.\n\u25cfBanish 1 card from your opponent's GY.\nYou can only activate 1 \"Dual Avatar Defeating Evil\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Dual Avatar - Empowered Kon-Gyo",
+        "Dual Avatar - Empowered Mitsu-Jaku",
+        "Dual Avatar - Manifested A-Un",
+        "Dual Avatar Ascendance",
+        "Dual Avatar Compact",
+        "Dual Avatar Feet - Armored Un-Gyo",
+        "Dual Avatar Feet - Kokoku",
+        "Dual Avatar Fists - Armored Ah-Gyo",
+        "Dual Avatar Fists - Yuhi",
+        "Dual Avatar Invitation",
+        "Dual Avatar Return",
+        "Perfect Sync - A-Un"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

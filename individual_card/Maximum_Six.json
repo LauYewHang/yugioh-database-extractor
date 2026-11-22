@@ -1,0 +1,18 @@
+{
+    "name": "Maximum Six",
+    "filename": "Maximum_Six",
+    "card_text": "When this card is Tribute Summoned: Roll a six-sided die, and this card gains ATK equal to the result x 200.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

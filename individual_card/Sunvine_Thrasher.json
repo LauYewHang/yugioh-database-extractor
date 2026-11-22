@@ -1,0 +1,27 @@
+{
+    "name": "Sunvine Thrasher",
+    "filename": "Sunvine_Thrasher",
+    "card_text": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 \"Sunavalon\" Link Monster on the field; this card gains ATK equal to that monster's Link Rating x 800. When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon that monster to your zone a Link Monster points to, but negate its effects.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Sunavalon Bloom",
+        "Sunavalon Daphne",
+        "Sunavalon Dryades",
+        "Sunavalon Dryanome",
+        "Sunavalon Dryas",
+        "Sunavalon Dryatrentiay",
+        "Sunavalon Melias",
+        "Sunseed Shadow",
+        "Sunvine Maiden"
+    ],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": null,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 4
+}

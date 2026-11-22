@@ -1,0 +1,34 @@
+{
+    "name": "Toadally Awesome",
+    "filename": "Toadally_Awesome",
+    "card_text": "2 Level 2 Aqua monsters\nOnce per turn, during the Standby Phase: You can detach 1 material from this card; Special Summon 1 \"Frog\" monster from your Deck. Once per turn, when your opponent activates a Spell/Trap Card, or monster effect (Quick Effect): You can send 1 Aqua monster from your hand or face-up field to the GY; negate the activation, and if you do, destroy that card, then you can Set it to your field. If this card is sent to the GY: You can target 1 WATER monster in your GY; add it to your hand.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "2017 MEGA-TINS MEGA PACK",
+        "INVASION: VENGEANCE",
+        "MAGNIFICENT MAVENS",
+        "Gold Series: Maximum Gold"
+    ],
+    "related_card": [
+        "Beelze Frog",
+        "Centerfrog",
+        "D.3.S. Frog",
+        "Des Frog",
+        "Dupe Frog",
+        "Flip Flop Frog",
+        "Poison Draw Frog",
+        "Ronintoadin",
+        "Submarine Frog",
+        "Swap Frog",
+        "Treeborn Frog",
+        "Unifrog"
+    ],
+    "attribute": "WATER",
+    "attack": 2200,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 2
+}

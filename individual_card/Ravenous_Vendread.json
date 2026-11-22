@@ -1,0 +1,34 @@
+{
+    "name": "Ravenous Vendread",
+    "filename": "Ravenous_Vendread",
+    "card_text": "Special Summon 1 \"Vendread\" monster from your hand, Deck, or GY in face-down Defense Position, except \"Vendread Scavenger\", then apply the following effect.\n\u25cfRitual Summon any 1 \"Vendread\" Ritual Monster from your hand or GY by Tributing monsters you control, including the monster Special Summoned by this card, whose total Levels equal or exceed the Level of the Ritual Monster.\nYou can only activate 1 \"Ravenous Vendread\" per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Avendread Savior",
+        "Revendread Evolution",
+        "Revendread Executor",
+        "Revendread Origin",
+        "Revendread Slayer",
+        "Scar of the Vendread",
+        "Vendread Anima",
+        "Vendread Battlelord",
+        "Vendread Charge",
+        "Vendread Chimera",
+        "Vendread Core",
+        "Vendread Daybreak",
+        "Vendread Houndhorde",
+        "Vendread Nightmare",
+        "Vendread Nights",
+        "Vendread Reorigin",
+        "Vendread Reunion",
+        "Vendread Revenants",
+        "Vendread Revolution",
+        "Vendread Scavenger",
+        "Vendread Striges"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

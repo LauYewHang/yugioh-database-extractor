@@ -1,0 +1,18 @@
+{
+    "name": "Angel O1",
+    "filename": "Angel_O1",
+    "card_text": "You can Special Summon this card (from your hand) by revealing 1 Level 7 or higher monster from your hand. You can only Special Summon \"Angel O1\" once per turn this way. While you control this Special Summoned card, you can Tribute Summon 1 Level 7 or higher monster in Attack Position during your Main Phase, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+    "release_date": "2021-06-18",
+    "available_set": [
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 200,
+    "defense": 300,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

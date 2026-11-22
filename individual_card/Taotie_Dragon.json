@@ -1,0 +1,17 @@
+{
+    "name": "Taotie Dragon",
+    "filename": "Taotie_Dragon",
+    "card_text": "2+ monsters Special Summoned from the Extra Deck\nThis card gains effects based on the card types (Fusion/Synchro/Xyz) of materials used for its Link Summon.\n\u25cfFusion: Your opponent cannot activate monster effects during the Battle Phase.\n\u25cfSynchro: Your opponent cannot activate Spell/Trap Cards and effects during your Main Phase.\n\u25cfXyz: Your opponent cannot activate the effects of cards in the GY during your Main Phase or Battle Phase.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

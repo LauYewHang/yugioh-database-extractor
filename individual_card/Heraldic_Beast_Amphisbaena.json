@@ -1,0 +1,35 @@
+{
+    "name": "Heraldic Beast Amphisbaena",
+    "filename": "Heraldic_Beast_Amphisbaena",
+    "card_text": "You can discard 1 other \"Heraldic Beast\" monster; Special Summon this card from your hand. Once per turn: You can discard 1 \"Heraldic Beast\" monster; this card gains 800 ATK until the end of this turn.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS",
+        "OTS TOURNAMENT PACK 28"
+    ],
+    "related_card": [
+        "Advanced Heraldry Art",
+        "Augmented Heraldry",
+        "Charged-Up Heraldry",
+        "Heraldic Beast Aberconway",
+        "Heraldic Beast Basilisk",
+        "Heraldic Beast Berners Falcon",
+        "Heraldic Beast Eale",
+        "Heraldic Beast Gryphon",
+        "Heraldic Beast Leo",
+        "Heraldic Beast Stad Whale",
+        "Heraldic Beast Twin-Headed Eagle",
+        "Heraldic Beast Unicorn",
+        "Heraldry Change",
+        "Heraldry Reborn",
+        "Number 18: Heraldry Patriarch",
+        "Number 8: Heraldic King Genom-Heritage"
+    ],
+    "attribute": "WIND",
+    "attack": 1700,
+    "defense": 1100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

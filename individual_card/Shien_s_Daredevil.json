@@ -1,0 +1,27 @@
+{
+    "name": "Shien's Daredevil",
+    "filename": "Shien_s_Daredevil",
+    "card_text": "When this card is Normal Summoned: Place 1 Bushido Counter on it (max. 1). This card gains 300 ATK while it has a Bushido Counter on it. Once per turn: You can target 1 face-up card on the field that you can place a Bushido Counter on; remove 1 Bushido Counter from this card, then place it on that target.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "SAMURAI WARLORDS STRUCTURE DECK",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Battle Shogun of the Six Samurai",
+        "Gateway of the Six",
+        "Legendary Lord Six Samurai - Shi En",
+        "Shien's Dojo",
+        "Six Samurai United",
+        "Six Strike - Sextuple Barrage",
+        "Six Strike - Thunder Blast",
+        "Temple of the Six"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

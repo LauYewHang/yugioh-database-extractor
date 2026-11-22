@@ -1,0 +1,34 @@
+{
+    "name": "F.A. Test Run",
+    "filename": "F_A__Test_Run",
+    "card_text": "Target 1 \"F.A.\" monster you control; change its battle position, then, destroy 1 card on the field. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"F.A.\" monster from your Deck. You can only use each effect of \"F.A. Test Run\" once per turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "F.A. Auto Navigator",
+        "F.A. Circuit Grand Prix",
+        "F.A. City Grand Prix",
+        "F.A. Dark Dragster",
+        "F.A. Dawn Dragster",
+        "F.A. Dead Heat",
+        "F.A. Downforce",
+        "F.A. Hang On Mach",
+        "F.A. Motorhome Transport",
+        "F.A. Off-Road Grand Prix",
+        "F.A. Overheat",
+        "F.A. Pit Stop",
+        "F.A. Shining Star GT",
+        "F.A. Sonic Meister",
+        "F.A. Turbo Charger",
+        "F.A. Whip Crosser",
+        "F.A. Winners",
+        "U.A. Hyper Stadium",
+        "U.A. Locker Room",
+        "U.A. Man of the Match"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

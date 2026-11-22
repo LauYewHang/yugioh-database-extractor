@@ -1,0 +1,14 @@
+{
+    "name": "Berserker Soul",
+    "filename": "Berserker_Soul",
+    "card_text": "When a monster you control inflicts 1500 or less damage to your opponent by a direct attack: Discard your entire hand (min. 1); excavate the top card of your Deck, and if it is a Monster Card, send it to the GY, and if you do that, inflict 500 damage to your opponent, then repeat this effect up to 7 more times or until you excavate a non-Monster Card. If a non-Monster Card is excavated, place it on the top of your Deck. You can only activate 1 \"Berserker Soul\" per turn.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "DRAGONS OF LEGEND"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Blaze Accelerator Reload",
+    "filename": "Blaze_Accelerator_Reload",
+    "card_text": "This card's name becomes \"Tri-Blaze Accelerator\" while in the Spell & Trap Zone. During the Main Phase: You can send 1 \"Volcanic\" card from your hand to the GY, and if you do, draw 1 card. You can only use this effect of \"Blaze Accelerator Reload\" once per turn. During the Main Phase: You can banish this card from your GY; send 1 \"Volcanic\" card from your Deck to the GY.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY",
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Tri-Blaze Accelerator",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Counter",
+        "Volcanic Doomfire",
+        "Volcanic Emission",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Queen",
+        "Volcanic Rat",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Rocket",
+        "Volcanic Scattershot",
+        "Volcanic Shell",
+        "Volcanic Slicer",
+        "Volcanic Trooper",
+        "Wild Fire"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

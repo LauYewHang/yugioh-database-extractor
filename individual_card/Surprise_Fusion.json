@@ -1,0 +1,32 @@
+{
+    "name": "Surprise Fusion",
+    "filename": "Surprise_Fusion",
+    "card_text": "Target 1 face-up monster you control, then declare 1 Monster Type and 1 Attribute; that monster becomes that Type and Attribute, then you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control, including that monster. You can banish this card from your GY; Tribute 1 Fusion Monster, and if you do, Special Summon 2 \"Surprise Tokens\" (Spellcaster/DARK/ATK 0/DEF 0) with the same Level as the Tributed monster had on the field. You can only use this effect of \"Surprise Fusion\" once per turn.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

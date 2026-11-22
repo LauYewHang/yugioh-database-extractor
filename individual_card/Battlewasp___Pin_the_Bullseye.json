@@ -1,0 +1,29 @@
+{
+    "name": "Battlewasp - Pin the Bullseye",
+    "filename": "Battlewasp___Pin_the_Bullseye",
+    "card_text": "If you control an Insect monster: You can Special Summon this card from your hand. During your Main Phase: You can inflict 200 damage to your opponent for each \"Battlewasp - Pin the Bullseye\" you control. You can only use each effect of \"Battlewasp - Pin the Bullseye\" once per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Nest",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 200,
+    "defense": 300,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

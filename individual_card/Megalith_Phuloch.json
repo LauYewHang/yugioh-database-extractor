@@ -1,0 +1,31 @@
+{
+    "name": "Megalith Phuloch",
+    "filename": "Megalith_Phuloch",
+    "card_text": "You can Ritual Summon this card with a \"Megalith\" card. You cannot activate the following effects of \"Megalith Phuloch\" in the same Chain. If this card is Ritual Summoned: You can add 1 \"Megalith\" card from your GY to your hand. During the Main Phase (Quick Effect): You can activate this effect; Ritual Summon 1 \"Megalith\" Ritual Monster from your GY, except \"Megalith Phuloch\", by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed its Level. You can only use this effect of \"Megalith Phuloch\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Megalith Anastasis",
+        "Megalith Aratron",
+        "Megalith Bethor",
+        "Megalith Emergence",
+        "Megalith Hagith",
+        "Megalith Notrah Plura",
+        "Megalith Och",
+        "Megalith Ophiel",
+        "Megalith Phaleg",
+        "Megalith Phul",
+        "Megalith Portal",
+        "Megalith Promotion",
+        "Megalith Unformed"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 300,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

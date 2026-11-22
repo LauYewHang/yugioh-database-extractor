@@ -1,0 +1,18 @@
+{
+    "name": "White Dragon Ritual",
+    "filename": "White_Dragon_Ritual",
+    "card_text": "This card is used to Ritual Summon \"Paladin of White Dragon\". You must also Tribute monsters from your hand or field whose total Levels equal 4 or more.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK KAIBA Evolution",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [
+        "Paladin of White Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

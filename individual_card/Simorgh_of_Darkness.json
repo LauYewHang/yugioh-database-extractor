@@ -1,0 +1,25 @@
+{
+    "name": "Simorgh of Darkness",
+    "filename": "Simorgh_of_Darkness",
+    "card_text": "While face-up on the field, this card is also WIND-Attribute. You can only use each of the following effects of \"Simorgh of Darkness\" once per turn.\n\u25cfIf you Tribute Summon a DARK or WIND monster: You can Special Summon this card from the GY (if it was there when the monster was Tribute Summoned) or hand (even if not).\n\u25cfWhen a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster; negate the activation, and if you do, destroy that card.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Simorgh Onslaught",
+        "Simorgh Sky Battle",
+        "Simorgh, Bird of Beginning",
+        "Simorgh, Bird of Bringing",
+        "Simorgh, Bird of Calamity",
+        "Simorgh, Bird of Perfection",
+        "Simorgh, Bird of Sovereignty"
+    ],
+    "attribute": "DARK",
+    "attack": 2900,
+    "defense": 2000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Yu-Jo Friendship",
+    "filename": "Yu_Jo_Friendship",
+    "card_text": "Offer your opponent a handshake. If they accept your handshake, each player's Life Points become half the combined Life Points of both players. If you have \"Unity\" in your hand and show it to your opponent, they must accept the handshake.",
+    "release_date": "2006-08-01",
+    "available_set": [
+        "Yu-Gi-Oh! DUELIST volume 16 Promotional Card"
+    ],
+    "related_card": [
+        "Judgment of the Pharaoh",
+        "Unity"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

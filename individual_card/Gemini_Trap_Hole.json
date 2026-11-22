@@ -1,0 +1,28 @@
+{
+    "name": "Gemini Trap Hole",
+    "filename": "Gemini_Trap_Hole",
+    "card_text": "Activate only when a Gemini monster that is treated as an Effect Monster is destroyed by battle. Destroy all monsters your opponent controls.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "WARRIORS' STRIKE STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Geminize Lord Golknight",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

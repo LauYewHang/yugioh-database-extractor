@@ -1,0 +1,21 @@
+{
+    "name": "Gale Lizard",
+    "filename": "Gale_Lizard",
+    "card_text": "FLIP: Target 1 monster your opponent controls; return that target to the hand.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 700,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

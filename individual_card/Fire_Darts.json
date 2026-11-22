@@ -1,0 +1,13 @@
+{
+    "name": "Fire Darts",
+    "filename": "Fire_Darts",
+    "card_text": "You can only activate this card when you have no cards in your hand. Roll a six-sided die 3 times, and inflict damage to your opponent's Life Points equal to the total result of the die rolls x 100 points.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

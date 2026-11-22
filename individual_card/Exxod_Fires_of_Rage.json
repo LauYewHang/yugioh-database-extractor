@@ -1,0 +1,26 @@
+{
+    "name": "Exxod Fires of Rage",
+    "filename": "Exxod_Fires_of_Rage",
+    "card_text": "(This card is always treated as an \"Exodd\" and \"Obliterate!!!\" card.)\nIf you control a Level 10 or higher \"Exodia\" monster: Destroy all cards your opponent controls. If this card is in your GY, except the turn it was sent there: You can banish it, then activate 1 of these effects;\n\u25cfAdd 1 \"Forbidden One\" monster from your Deck or GY to your hand.\n\u25cfShuffle up to 5 \"Forbidden One\" monsters from your GY and/or banishment into the Deck.\nYou can only use each effect of \"Exxod Fires of Rage\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Contract with Exodia",
+        "Exodia Necross",
+        "Exodia the Forbidden One",
+        "Exodia, the Legendary Defender",
+        "Left Arm of the Forbidden One",
+        "Left Leg of the Forbidden One",
+        "Obliterate!!!",
+        "Obliterate!!! Blaze",
+        "Right Arm of the Forbidden One",
+        "Right Leg of the Forbidden One",
+        "The Legendary Exodia Incarnate",
+        "The Unstoppable Exodia Incarnate"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

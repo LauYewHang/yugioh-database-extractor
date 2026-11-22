@@ -1,0 +1,24 @@
+{
+    "name": "Giant Germ",
+    "filename": "Giant_Germ",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard: Inflict 500 damage to your opponent, then you can Special Summon any number of \"Giant Germs\" from your Deck in face-up Attack Position.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "CHAMPION PACK GAME FIVE",
+        "DUELIST LEAGUE 3",
+        "DARK BEGINNING 1",
+        "RETRO PACK",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 100,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

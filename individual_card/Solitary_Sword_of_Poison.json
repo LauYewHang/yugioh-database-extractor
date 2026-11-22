@@ -1,0 +1,15 @@
+{
+    "name": "Solitary Sword of Poison",
+    "filename": "Solitary_Sword_of_Poison",
+    "card_text": "Equip only to a monster you control. If the equipped monster battles an opponent's monster, the equipped monster's original ATK/DEF is doubled during damage calculation only. If you control a monster other than the equipped monster, send this card to the GY. You can only control 1 \"Solitary Sword of Poison\".",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "CYBERNETIC HORIZON",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

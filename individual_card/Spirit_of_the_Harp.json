@@ -1,0 +1,23 @@
+{
+    "name": "Spirit of the Harp",
+    "filename": "Spirit_of_the_Harp",
+    "card_text": "A spirit that soothes the soul with the music of its heavenly harp.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "STARTER DECK DAWN OF THE XYZ",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "TOURNAMENT PACK 3RD SEASON",
+        "STARTER DECK JOEY",
+        "STARTER DECK XYZ SYMPHONY",
+        "2-PLAYER STARTER SET"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

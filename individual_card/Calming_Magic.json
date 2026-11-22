@@ -1,0 +1,12 @@
+{
+    "name": "Calming Magic",
+    "filename": "Calming_Magic",
+    "card_text": "This card can only be activated at the start of Main Phase 1. During the Main Phases and Battle Phase of this turn, neither player can Summon monsters.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

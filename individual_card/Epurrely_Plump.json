@@ -1,0 +1,34 @@
+{
+    "name": "Epurrely Plump",
+    "filename": "Epurrely_Plump",
+    "card_text": "2 Level 2 monsters\nOnce per turn: You can target up to 2 Spells/Traps in the GYs; attach them to this card as material. This is a Quick Effect if this card has \"Purrely Delicious Memory\" as material. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can banish 1 monster on the field until the End Phase.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Epurrely Beauty",
+        "Epurrely Happiness",
+        "Epurrely Noir",
+        "Expurrely Happiness",
+        "Expurrely Noir",
+        "My Friend Purrely",
+        "Purrely",
+        "Purrely Delicious Memory",
+        "Purrely Happy Memory",
+        "Purrely Pretty Memory",
+        "Purrely Sharely!?",
+        "Purrely Sleepy Memory",
+        "Purrelyeap!?",
+        "Purrelyly",
+        "Stray Purrely Street"
+    ],
+    "attribute": "EARTH",
+    "attack": 200,
+    "defense": 2100,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 2
+}

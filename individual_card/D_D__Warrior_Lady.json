@@ -1,0 +1,32 @@
+{
+    "name": "D.D. Warrior Lady",
+    "filename": "D_D__Warrior_Lady",
+    "card_text": "After damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "HOBBY LEAGUE 6",
+        "GOLD SERIES",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DARK CRISIS (Reprint)",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "DARK REVELATION Volume 1",
+        "Gold Series: Maximum Gold",
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "DARK CRISIS",
+        "SUPER STARTER SPACE-TIME SHOWDOWN Power-Up Pack",
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

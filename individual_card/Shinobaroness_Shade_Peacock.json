@@ -1,0 +1,30 @@
+{
+    "name": "Shinobaroness Shade Peacock",
+    "filename": "Shinobaroness_Shade_Peacock",
+    "card_text": "You can Ritual Summon this card with \"Shinobird's Calling\". This card's name becomes \"Shinobaroness Peacock\" while in the hand or on the field. If this card is Ritual Summoned: You can add 1 Spell/Trap from your Deck to your hand that mentions \"Spirit monster\" in its text. You can only use this effect of \"Shinobaroness Shade Peacock\" once per turn. Once per turn, during the Standby Phase of the next turn after this card was banished: Special Summon this banished card. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return this card to the hand.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Fengsheng Mirror",
+        "Legacy of Yata-Garasu",
+        "Mirror of Yata",
+        "Orb of Yasaka",
+        "Shinobaroness Peacock",
+        "Shinobird Power Spot",
+        "Shinobird Salvation",
+        "Shinobird's Calling",
+        "Spirit's Invitation",
+        "Spiritual Energy Settle Machine",
+        "Stars Align Above the Shrine",
+        "Sword of Kusanagi"
+    ],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": 2000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

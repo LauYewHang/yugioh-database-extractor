@@ -1,0 +1,33 @@
+{
+    "name": "Jurrac Monoloph",
+    "filename": "Jurrac_Monoloph",
+    "card_text": "This card can attack all monsters your opponent controls once each.",
+    "release_date": "2010-05-25",
+    "available_set": [
+        "HIDDEN ARSENAL 2",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [
+        "Jurrac Aeolo",
+        "Jurrac Astero",
+        "Jurrac Brachis",
+        "Jurrac Dino",
+        "Jurrac Giganoto",
+        "Jurrac Guaiba",
+        "Jurrac Herra",
+        "Jurrac Megalo",
+        "Jurrac Meteor",
+        "Jurrac Stauriko",
+        "Jurrac Stego",
+        "Jurrac Titano",
+        "Jurrac Velo",
+        "Jurrac Volcano"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

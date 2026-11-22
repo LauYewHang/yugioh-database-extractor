@@ -1,0 +1,15 @@
+{
+    "name": "Reckoned Power",
+    "filename": "Reckoned_Power",
+    "card_text": "Reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand. Destroy all face-down Spell and Trap Cards your opponent controls.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [
+        "Iron Core of Koa'ki Meiru",
+        "Koa'ki Meiru Supplier"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Metalfoes Goldriver",
+    "filename": "Metalfoes_Goldriver",
+    "card_text": "That gleaming, golden buggy breaks bad guys good. What wonderful wheels! (With a bumbling buffoon....)",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "OTS TOURNAMENT PACK 3",
+        "GHOSTS FROM THE PAST",
+        "THE DARK ILLUSION",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Fullmetalfoes Alkahest",
+        "Fullmetalfoes Fusion",
+        "Heavymetalfoes Amalgam",
+        "Heavymetalfoes Electrumite",
+        "Metalfoes Adamante",
+        "Metalfoes Combination",
+        "Metalfoes Counter",
+        "Metalfoes Crimsonite",
+        "Metalfoes Fusion",
+        "Metalfoes Mithrilium",
+        "Metalfoes Orichalc",
+        "Metalfoes Silverd",
+        "Metalfoes Steelen",
+        "Metalfoes Vanisher",
+        "Metalfoes Volflame",
+        "Metamorformation",
+        "Parametalfoes Azortless",
+        "Parametalfoes Fusion",
+        "Parametalfoes Melcaster",
+        "Raremetalfoes Bismugear"
+    ],
+    "attribute": "FIRE",
+    "attack": 1900,
+    "defense": 500,
+    "monster_type": "Psychic",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Once per turn: You can target 1 other face-up card you control; destroy it, and if you do, Set 1 \"Metalfoes\" Spell/Trap directly from your Deck.",
+    "pendulum_scale": 1
+}

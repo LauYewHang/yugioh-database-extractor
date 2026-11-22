@@ -1,0 +1,33 @@
+{
+    "name": "Heraldic Beast Unicorn",
+    "filename": "Heraldic_Beast_Unicorn",
+    "card_text": "You can banish this card from your GY, then target 1 Psychic Xyz Monster in your GY; Special Summon it, but negate its effects. You can only use this effect of \"Heraldic Beast Unicorn\" once per turn.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Advanced Heraldry Art",
+        "Augmented Heraldry",
+        "Charged-Up Heraldry",
+        "Heraldic Beast Aberconway",
+        "Heraldic Beast Amphisbaena",
+        "Heraldic Beast Eale",
+        "Heraldic Beast Gryphon",
+        "Heraldic Beast Leo",
+        "Heraldic Beast Stad Whale",
+        "Heraldic Beast Twin-Headed Eagle",
+        "Heraldry Change",
+        "Heraldry Reborn",
+        "Number 18: Heraldry Patriarch",
+        "Number 8: Heraldic King Genom-Heritage"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1100,
+    "defense": 1600,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

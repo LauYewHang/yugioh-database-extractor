@@ -1,0 +1,31 @@
+{
+    "name": "Majesty's Pegasus",
+    "filename": "Majesty_s_Pegasus",
+    "card_text": "All \"Majespecter\" monsters on the field gain 300 ATK and DEF. You can Tribute 1 WIND Spellcaster-Type monster; Special Summon 1 Level 4 or lower \"Majespecter\" monster from your Deck. You can only use this effect of \"Majesty's Pegasus\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Majespecter Cat - Nekomata",
+        "Majespecter Crow - Yata",
+        "Majespecter Cyclone",
+        "Majespecter Draco - Ryu",
+        "Majespecter Fox - Kyubi",
+        "Majespecter Gust",
+        "Majespecter Orthrus - Nue",
+        "Majespecter Porcupine - Yamarashi",
+        "Majespecter Raccoon - Bunbuku",
+        "Majespecter Sonics",
+        "Majespecter Storm",
+        "Majespecter Supercell",
+        "Majespecter Tempest",
+        "Majespecter Toad - Ogama",
+        "Majespecter Tornado",
+        "Majespecter Unicorn - Kirin",
+        "Majespecter Wind",
+        "Majesty Pegasus, the Dracoslayer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

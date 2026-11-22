@@ -1,0 +1,31 @@
+{
+    "name": "Heavenly Gate of the Mikanko",
+    "filename": "Heavenly_Gate_of_the_Mikanko",
+    "card_text": "While you control a monster that is equipped with an Equip Card, all monsters your opponent controls that can attack must attack monsters equipped with Equip Cards. If your \"Mikanko\" monster battles, your opponent cannot activate cards or effects until the end of the Damage Step. At the end of the Damage Step, if your \"Mikanko\" monster attacked: You can send 1 Equip Card you control to the GY; it can make another attack on a monster in a row.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Arahime the Manifested Mikanko",
+        "Ha-Re the Sword Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Fire Dance",
+        "Mikanko Kagura",
+        "Mikanko Promise",
+        "Mikanko Purification Dance",
+        "Mikanko Reflection Rondo",
+        "Mikanko Rivalry",
+        "Mikanko Shinbu - Noble Twins",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Ohime the Manifested Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

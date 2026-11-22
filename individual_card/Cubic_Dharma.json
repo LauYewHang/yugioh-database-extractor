@@ -1,0 +1,30 @@
+{
+    "name": "Cubic Dharma",
+    "filename": "Cubic_Dharma",
+    "card_text": "You take no battle damage from attacks involving your \"Cubic\" monsters. You can only use each of the following effects of \"Cubic Dharma\" once per turn, during your Main Phase:\n\u25cfYou can send 1 \"Cubic\" card from your hand to the GY, and if you do, draw 1 card.\n\u25cfYou can banish this card from your GY, then target 1 \"Cubic\" monster in your GY; add it to your hand.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Blade Garoodia the Cubic Beast",
+        "Buster Gundil the Cubic Behemoth",
+        "Crimson Nova the Dark Cubic Lord",
+        "Crimson Nova Trinity the Dark Cubic Lord",
+        "Cubic Ascension",
+        "Cubic Causality",
+        "Cubic Karma",
+        "Cubic Mandala",
+        "Cubic Rebirth",
+        "Cubic Wave",
+        "Dark Garnex the Cubic Beast",
+        "Duza the Meteor Cubic Vessel",
+        "Geira Guile the Cubic King",
+        "Indiora Doom Volt the Cubic Emperor",
+        "Unification of the Cubic Lords",
+        "Vijam the Cubic Seed",
+        "Vulcan Dragni the Cubic King"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

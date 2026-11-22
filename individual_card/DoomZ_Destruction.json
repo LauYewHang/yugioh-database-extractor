@@ -1,0 +1,29 @@
+{
+    "name": "DoomZ Destruction",
+    "filename": "DoomZ_Destruction",
+    "card_text": "Target 1 \"DoomZ\" Xyz Monster you control; equip this card to it with the following effect.\n\u25cfCards cannot be added from the Main Deck to your opponent's hand except by drawing them.\nIf this card is destroyed by card effect: You can target 1 face-up monster on the field; equip 1 \"DoomZ\" monster from your Deck to it as an Equip Spell. You can only use each effect of \"DoomZ Destruction\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "DoomZ Break - Diactorus",
+        "DoomZ Change",
+        "DoomZ Command \"A.D.R.A.S.T.E.I.A.\"",
+        "DoomZ Command \"D.O.O.M.D.U.R.G.\"",
+        "DoomZ Raiders",
+        "DoomZ V Five - Amalthe",
+        "DoomZ VII Seven - Elara",
+        "DoomZ XII End - Drastrius",
+        "DoomZ XII Zero - Drastea",
+        "DoomZ XIII Over - Graflareio",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Power Patron DoomZ",
+        "Theorealize Past Lull"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

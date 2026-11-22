@@ -1,0 +1,18 @@
+{
+    "name": "Silent Insect",
+    "filename": "Silent_Insect",
+    "card_text": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. Negate the effects of all Continuous Spell Cards and Continuous Trap Cards.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 200,
+    "defense": 300,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

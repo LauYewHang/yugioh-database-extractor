@@ -1,0 +1,28 @@
+{
+    "name": "Amazement Family Faces",
+    "filename": "Amazement_Family_Faces",
+    "card_text": "Target 1 monster your opponent controls equipped with your \"Attraction\" Trap(s); equip this card to it. While this card is equipped to a monster, take control of the equipped monster. While you control the equipped monster, it gains 500 ATK, you cannot activate its effects, also it is treated as an \"Amazement\" monster. You can only activate 1 \"Amazement Family Faces\" per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "Amaze Attraction Cyclo-Coaster",
+        "Amaze Attraction Horror House",
+        "Amaze Attraction Majestic Merry-Go-Round",
+        "Amaze Attraction Rapid Racing",
+        "Amaze Attraction Thrill Train",
+        "Amaze Attraction Viking Vortex",
+        "Amaze Attraction Wonder Wheel",
+        "Amazement Abomination Arlekino",
+        "Amazement Administrator Arlekino",
+        "Amazement Ambassador Bufo",
+        "Amazement Assistant Delia",
+        "Amazement Attendant Comica",
+        "Amazement Precious Park",
+        "Amazement Special Show",
+        "Amazing Time Ticket"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

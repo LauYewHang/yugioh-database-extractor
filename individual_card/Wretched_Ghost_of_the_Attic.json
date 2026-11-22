@@ -1,0 +1,17 @@
+{
+    "name": "Wretched Ghost of the Attic",
+    "filename": "Wretched_Ghost_of_the_Attic",
+    "card_text": "A harmless monster found lurking in just about any attic.",
+    "release_date": "2006-04-28",
+    "available_set": [
+        "TOURNAMENT PACK 8"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 550,
+    "defense": 400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

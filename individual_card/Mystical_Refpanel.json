@@ -1,0 +1,12 @@
+{
+    "name": "Mystical Refpanel",
+    "filename": "Mystical_Refpanel",
+    "card_text": "Activate only when a Spell Card that targets 1 player is activated. The effect of that Spell Card is applied to the other player instead.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

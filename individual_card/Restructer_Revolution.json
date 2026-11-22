@@ -1,0 +1,14 @@
+{
+    "name": "Restructer Revolution",
+    "filename": "Restructer_Revolution",
+    "card_text": "Inflict 200 points of damage to your opponent's Life Points for each card in your opponent's hand.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "DUELIST LEAGUE SERIES 5",
+        "TOURNAMENT PACK 6",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

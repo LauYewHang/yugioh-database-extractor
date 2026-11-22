@@ -1,0 +1,18 @@
+{
+    "name": "Dawn Angel Kambi",
+    "filename": "Dawn_Angel_Kambi",
+    "card_text": "If you control no monsters, or all monsters you control are Fairy monsters: You can Special Summon this card from your hand. You can Tribute any number of Fairy monsters, including this card; Special Summon 1 Fairy monster from your Deck whose Level equals the total Levels those monsters had on the field. You cannot Special Summon the turn you activate this effect, except Fairy monsters. You can only use each effect of \"Dawn Angel Kambi\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT",
+        "OTS ULTIMATE TOURNAMENT PACK 1"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 1800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

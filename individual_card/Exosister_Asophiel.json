@@ -1,0 +1,35 @@
+{
+    "name": "Exosister Asophiel",
+    "filename": "Exosister_Asophiel",
+    "card_text": "2 Level 4 monsters\nCannot be destroyed by the activated effects of monsters Special Summoned from the GY. You can only use each of the following effects of \"Exosister Asophiel\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: Neither player can activate card effects in the GY this turn. You can detach 1 material from this card, then target 1 monster your opponent controls; return it to the hand.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "THE GRAND CREATORS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Exosister Arment",
+        "Exosister Betrayal",
+        "Exosister Carpedivem",
+        "Exosister Elis",
+        "Exosister Gibrine",
+        "Exosister Irene",
+        "Exosister Karmael",
+        "Exosister Kaspitell",
+        "Exosister Martha",
+        "Exosister Mikailis",
+        "Exosister Pax",
+        "Exosister Returnia",
+        "Exosister Sophia",
+        "Exosister Stella",
+        "Exosister Vadis",
+        "Exosisters Magnifica"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

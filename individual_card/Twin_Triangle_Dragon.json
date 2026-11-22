@@ -1,0 +1,21 @@
+{
+    "name": "Twin Triangle Dragon",
+    "filename": "Twin_Triangle_Dragon",
+    "card_text": "2 Level 4 or lower Dragon monsters, except Tokens\nWhen this card is Link Summoned: You can pay 500 LP, then target 1 Level 5 or higher monster in your GY; Special Summon it to your zone this card points to, but it cannot attack this turn, also it has its effects negated.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK",
+        "DEMO PROGRESSION SET 2026",
+        "STAR PACK: VRAINS",
+        "2018 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 8"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 68
+}

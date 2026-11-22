@@ -1,0 +1,27 @@
+{
+    "name": "Myutant Evolution Lab",
+    "filename": "Myutant_Evolution_Lab",
+    "card_text": "When this card is activated: You can Special Summon 1 of your Level 4 or lower \"Myutant\" monsters from your hand or that is banished. \"Myutant\" monsters you control gain 100 ATK for each of your banished \"Myutant\" cards with different names. Once per turn, during your Main Phase: You can place 1 \"Myutant\" monster from your hand on the bottom of the Deck, and if you do, draw 1 card. You can only activate 1 \"Myutant Evolution Lab\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Myutant Arsenal",
+        "Myutant Beast",
+        "Myutant Blast",
+        "Myutant Clash",
+        "Myutant Cry",
+        "Myutant Expansion",
+        "Myutant Fusion",
+        "Myutant GB-88",
+        "Myutant M-05",
+        "Myutant Mist",
+        "Myutant Mutant",
+        "Myutant ST-46",
+        "Myutant Synthesis",
+        "Myutant Ultimus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

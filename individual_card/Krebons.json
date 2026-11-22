@@ -1,0 +1,24 @@
+{
+    "name": "Krebons",
+    "filename": "Krebons",
+    "card_text": "When this card is targeted for an attack: You can pay 800 LP; negate the attack.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "DUELIST LEAGUE 2010",
+        "QUARTER CENTURY BONANZA",
+        "HIGH-SPEED RIDERS",
+        "THE DUELIST GENESIS",
+        "DUEL TERMINAL 5B",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "TURBO PACK BOOSTER ONE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 400,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

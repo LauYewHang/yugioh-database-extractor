@@ -1,0 +1,17 @@
+{
+    "name": "Stray Asmodian",
+    "filename": "Stray_Asmodian",
+    "card_text": "When this card is destroyed and sent to the Graveyard by battle, both players gain 800 Life Points.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1300,
+    "defense": 1700,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

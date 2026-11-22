@@ -1,0 +1,14 @@
+{
+    "name": "Synchro Call",
+    "filename": "Synchro_Call",
+    "card_text": "Target 1 monster in your Graveyard; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 DARK Dragon or Fiend-Type Synchro Monster using only monsters you control as Materials, including the Summoned monster.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

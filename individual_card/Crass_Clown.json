@@ -1,0 +1,22 @@
+{
+    "name": "Crass Clown",
+    "filename": "Crass_Clown",
+    "card_text": "If this Defense Position card is changed to Attack Position: Target 1 monster your opponent controls; return that target to the hand.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Bickuribox"
+    ],
+    "attribute": "DARK",
+    "attack": 1350,
+    "defense": 1400,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

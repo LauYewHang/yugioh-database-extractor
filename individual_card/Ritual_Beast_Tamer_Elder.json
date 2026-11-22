@@ -1,0 +1,41 @@
+{
+    "name": "Ritual Beast Tamer Elder",
+    "filename": "Ritual_Beast_Tamer_Elder",
+    "card_text": "After you Normal Summon this card, you can Normal Summon 1 \"Ritual Beast\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only Special Summon \"Ritual Beast Tamer Elder(s)\" once per turn.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Ritual Beast Ambush",
+        "Ritual Beast Inheritance",
+        "Ritual Beast Return",
+        "Ritual Beast Steeds",
+        "Ritual Beast Tamer Lara",
+        "Ritual Beast Tamer Wen",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Ritual Beast Ulti-Apelio",
+        "Ritual Beast Ulti-Cannahawk",
+        "Ritual Beast Ulti-Gaiapelio",
+        "Ritual Beast Ulti-Kimunfalcos",
+        "Ritual Beast Ulti-Nochiudrago",
+        "Ritual Beast Ulti-Pettlephin",
+        "Ritual Beast Ulti-Reirautari",
+        "Ritual Beast's Bond",
+        "Spiritual Beast Apelio",
+        "Spiritual Beast Cannahawk",
+        "Spiritual Beast Pettlephin",
+        "Spiritual Beast Rampengu",
+        "Spiritual Beast Tamer Lara",
+        "Spiritual Beast Tamer Winda"
+    ],
+    "attribute": "WIND",
+    "attack": 200,
+    "defense": 1000,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

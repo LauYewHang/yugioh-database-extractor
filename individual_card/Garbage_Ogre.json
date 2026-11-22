@@ -1,0 +1,19 @@
+{
+    "name": "Garbage Ogre",
+    "filename": "Garbage_Ogre",
+    "card_text": "You can send this card from your hand to the Graveyard; add 1 \"Garbage Lord\" from your Deck to your hand. You can only use the effect of \"Garbage Ogre\" once per turn.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Garbage Lord"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 1300,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

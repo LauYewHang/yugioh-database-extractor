@@ -1,0 +1,32 @@
+{
+    "name": "GMX Chairman Kimridge",
+    "filename": "GMX_Chairman_Kimridge",
+    "card_text": "You can reveal this card in your hand; add 1 \"GMX Applied Experiment #55\" from your Deck or GY to your hand, and if you do, shuffle this card into the Deck. If this card is Special Summoned by a monster effect: You can target 2 cards in your GY, that are \"GMX\" cards and/or Dinosaur monsters; place them on top of your Deck in any order, then you can destroy 1 Attack Position monster your opponent controls. You can only use each effect of \"GMX Chairman Kimridge\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "MAGNIFICENT MAESTROS",
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Anti-GMX Final Experiment",
+        "Evolved Daneen",
+        "GMX - ALLOS",
+        "GMX - COMPREX",
+        "GMX - VELOX",
+        "GMX 55th Experiment Report",
+        "GMX Applied Experiment #55",
+        "GMX Associate Noma",
+        "GMX Lab #5",
+        "GMX Partner Selandea",
+        "GMX Researcher Selande",
+        "GMX Suppression Squad",
+        "Returned Dino Daneen"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 900,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Wattcube",
+    "filename": "Wattcube",
+    "card_text": "Equip only to a Thunder-Type monster. It gains 100 ATK for each Thunder-Type monster in your Graveyard. You can send this face-up card from the field to the Graveyard to have 1 face-up Thunder-Type monster you control gain 1000 ATK.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Wattcancel",
+        "Wattcastle",
+        "Wattchimera",
+        "Wattcobra",
+        "Wattdragonfly",
+        "Watthopper",
+        "Watthydra",
+        "Wattkeeper",
+        "Wattkey",
+        "Wattkingdom",
+        "Wattkiwi",
+        "Wattkyuki",
+        "Wattrain",
+        "Wattuna"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

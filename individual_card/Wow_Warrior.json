@@ -1,0 +1,17 @@
+{
+    "name": "Wow Warrior",
+    "filename": "Wow_Warrior",
+    "card_text": "A fish with arms, legs, and some very sharp teeth.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "TOURNAMENT PACK 1ST SEASON"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1250,
+    "defense": 900,
+    "monster_type": "Fish",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

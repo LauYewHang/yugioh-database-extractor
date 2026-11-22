@@ -1,0 +1,40 @@
+{
+    "name": "Beatrice, Lady of the Eternal",
+    "filename": "Beatrice__Lady_of_the_Eternal",
+    "card_text": "2 Level 6 monsters\nYou can also Xyz Summon this card by sending 1 \"Burning Abyss\" monster from your hand to the GY, then using 1 \"Dante\" monster you control as material. (Transfer its materials to this card.) If Summoned this way, the following effect cannot be activated this turn. Once per turn (Quick Effect): You can detach 1 material from this card; send 1 card from your Deck to the GY. If this card in your possession is destroyed by your opponent's card and sent to your GY: You can Special Summon 1 \"Burning Abyss\" monster from your Extra Deck, ignoring its Summoning conditions.",
+    "release_date": "2016-03-18",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "BROTHERS OF LEGEND",
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [
+        "Alich, Malebranche of the Burning Abyss",
+        "Barbar, Malebranche of the Burning Abyss",
+        "Cagna, Malebranche of the Burning Abyss",
+        "Calcab, Malebranche of the Burning Abyss",
+        "Cherubini, Ebon Angel of the Burning Abyss",
+        "Cir, Malebranche of the Burning Abyss",
+        "Dante, Pilgrim of the Burning Abyss",
+        "Dante, Traveler of the Burning Abyss",
+        "Draghig, Malebranche of the Burning Abyss",
+        "Farfa, Malebranche of the Burning Abyss",
+        "Fire Lake of the Burning Abyss",
+        "Good & Evil in the Burning Abyss",
+        "Graff, Malebranche of the Burning Abyss",
+        "Libic, Malebranche of the Burning Abyss",
+        "Malacoda, Netherlord of the Burning Abyss",
+        "Rubic, Malebranche of the Burning Abyss",
+        "Scarm, Malebranche of the Burning Abyss",
+        "The Terminus of the Burning Abyss",
+        "The Traveler and the Burning Abyss",
+        "Virgil, Rock Star of the Burning Abyss"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

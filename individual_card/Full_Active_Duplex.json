@@ -1,0 +1,18 @@
+{
+    "name": "Full Active Duplex",
+    "filename": "Full_Active_Duplex",
+    "card_text": "Linked monsters you control can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of \"Full Active Duplex\" once per turn. You can banish 2 Link Monsters from your GY; Special Summon this card from your hand. If this card is sent to the GY: You can target 1 Cyberse monster you control; it gains 1000 ATK.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2800,
+    "defense": 1000,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

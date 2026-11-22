@@ -1,0 +1,21 @@
+{
+    "name": "Gentlemander",
+    "filename": "Gentlemander",
+    "card_text": "When an opponent's monster declares an attack: You can Special Summon this card from your hand. Your opponent's monsters cannot attack any monsters, except this one.",
+    "release_date": "2013-06-14",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "SUPER STARTER Power-Up Pack",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

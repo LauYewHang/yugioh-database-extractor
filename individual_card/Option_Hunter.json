@@ -1,0 +1,13 @@
+{
+    "name": "Option Hunter",
+    "filename": "Option_Hunter",
+    "card_text": "Activate only when a monster you control is destroyed by battle and sent to the Graveyard. Gain Life Points equal to the original ATK of the destroyed monster.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

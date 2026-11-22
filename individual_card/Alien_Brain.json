@@ -1,0 +1,35 @@
+{
+    "name": "Alien Brain",
+    "filename": "Alien_Brain",
+    "card_text": "If a Reptile monster you control is destroyed by battle with an opponent's attacking monster and sent to the GY: Take control of the opponent's monster, and if you do, it becomes a Reptile.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "OTS TOURNAMENT PACK 16",
+        "ABSOLUTE POWERFORCE",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "\"A\" Cell Recombination Device",
+        "\"A\" Cell Scatter Burst",
+        "Alien Ammonite",
+        "Alien Dog",
+        "Alien Grey",
+        "Alien Kid",
+        "Alien Overlord",
+        "Alien Skull",
+        "Alien Telepath",
+        "Alien Warrior",
+        "Code A Ancient Ruins",
+        "Cosmic Fortress Gol'gar",
+        "Cosmic Horror Gangi'el",
+        "Crop Circles",
+        "Flying Saucer Muusik'i",
+        "Mass Hypnosis",
+        "Mysterious Triangle",
+        "Orbital Bombardment",
+        "Otherworld - The \"A\" Zone",
+        "Planet Pollutant Virus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Lane Restriction",
+    "filename": "Lane_Restriction",
+    "card_text": "When this card is activated: You can Special Summon 1 of your banished monsters to your rightmost Main Monster Zone. If your opponent would Normal or Special Summon a monster(s) in their Main Monster Zone, they must use their leftmost zone(s) that can be used.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

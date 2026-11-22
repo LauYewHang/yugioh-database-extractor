@@ -1,0 +1,18 @@
+{
+    "name": "Bone Crusher",
+    "filename": "Bone_Crusher",
+    "card_text": "When this card is Special Summoned from your Graveyard by the effect of a Zombie-Type monster: You can target 1 Spell/Trap Card your opponent controls; destroy that target. During the End Phase of the turn this card was Special Summoned: Destroy it.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "GOLD SERIES HAUNTED MINE",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

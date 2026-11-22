@@ -1,0 +1,15 @@
+{
+    "name": "Labyrinth of Nightmare",
+    "filename": "Labyrinth_of_Nightmare",
+    "card_text": "Once per turn, during each player's End Phase: Change the battle positions of all face-up monsters the turn player controls.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "DARK REVELATION Volume 2",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

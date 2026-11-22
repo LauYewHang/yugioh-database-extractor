@@ -1,0 +1,39 @@
+{
+    "name": "Nekroz Cycle",
+    "filename": "Nekroz_Cycle",
+    "card_text": "This card can be used to Ritual Summon any \"Nekroz\" Ritual Monster. Tribute monsters from your hand or field, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand or GY whose Level equals the total Levels of those monsters. You can only use this effect of \"Nekroz Cycle\" once per turn. If you control no monsters: You can banish this card and 1 \"Nekroz\" monster from your GY; add 1 \"Nekroz\" Spell from your Deck to your hand.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "SECRETS OF ETERNITY",
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Divinemirror",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Brionac",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

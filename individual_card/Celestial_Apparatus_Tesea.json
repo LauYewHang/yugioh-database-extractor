@@ -1,0 +1,33 @@
+{
+    "name": "Celestial Apparatus Tesea",
+    "filename": "Celestial_Apparatus_Tesea",
+    "card_text": "If you control an \"Adventurer Token\": You can Special Summon this card from your hand. You can reveal 1 card in your hand that mentions an \"Adventurer Token\"; add 1 Spell that mentions an \"Adventurer Token\" from your Deck to your hand, except a Normal Spell. You cannot Special Summon monsters the turn you activate this effect, except an \"Adventurer Token\" or monsters that mention it. You can only use each effect of \"Celestial Apparatus Tesea\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "DARKWING BLAST"
+    ],
+    "related_card": [
+        "Breath of Resurrection",
+        "Curse of Aramatir",
+        "Dracoback, the Rideable Dragon",
+        "Dunnell, the Noble Arms of Light",
+        "Fateful Adventure",
+        "Forest of Lost Flowers",
+        "Illegal Knight",
+        "Magicore Warrior of the Relics",
+        "Rite of Aramesir",
+        "Starlit Papillon",
+        "Thunder Discharge",
+        "Wandering Gryphon Rider",
+        "Water Enchantress of the Temple",
+        "Zaralaam the Dark Palace"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

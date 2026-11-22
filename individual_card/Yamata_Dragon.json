@@ -1,0 +1,20 @@
+{
+    "name": "Yamata Dragon",
+    "filename": "Yamata_Dragon",
+    "card_text": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, draw cards until you have 5 cards in your hand.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "TOURNAMENT PACK 6",
+        "LEGACY OF DARKNESS",
+        "RETRO PACK 2",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2600,
+    "defense": 3100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

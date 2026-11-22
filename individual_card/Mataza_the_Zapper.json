@@ -1,0 +1,22 @@
+{
+    "name": "Mataza the Zapper",
+    "filename": "Mataza_the_Zapper",
+    "card_text": "This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "INVASION OF CHAOS",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STARTER DECK JADEN YUKI",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

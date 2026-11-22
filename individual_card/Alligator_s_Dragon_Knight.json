@@ -1,0 +1,27 @@
+{
+    "name": "Alligator's Dragon Knight",
+    "filename": "Alligator_s_Dragon_Knight",
+    "card_text": "Can attack directly. You can only use each of the following effects of \"Alligator's Dragon Knight\" once per turn. If this card is in your hand: You can reveal 1 other card that mentions \"Dark Time Wizard\" in your hand; Special Summon this card. If this card is Normal or Special Summoned: You can add up to 2 Spells/Traps with different names that mention \"Dark Time Wizard\", from your Deck to your hand, then discard 1 card.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Dark Time Wizard",
+        "Fisherman of Legend",
+        "Foolish Graverobber",
+        "Graceful & Skull Dice",
+        "Jinzo - Energy Shocker",
+        "Red-Eyes Black Dragon Exceed",
+        "Reversal Box",
+        "Sleepy Scapegoats",
+        "Swiftwind Panther Warrior"
+    ],
+    "attribute": "WIND",
+    "attack": 1700,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

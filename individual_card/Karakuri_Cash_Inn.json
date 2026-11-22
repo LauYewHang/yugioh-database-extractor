@@ -1,0 +1,40 @@
+{
+    "name": "Karakuri Cash Inn",
+    "filename": "Karakuri_Cash_Inn",
+    "card_text": "Target 1 \"Karakuri\" monster you control and 1 Effect Monster your opponent controls; change the battle position of your monster, and if you do, negate the effects of that opponent's monster until the end of this turn. If you control a \"Karakuri\" monster(s): You can banish this card from your GY, then target 1 face-up monster on the field; change that monster's battle position. You can only activate 1 \"Karakuri Cash Inn\" per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Golden Gearbox",
+        "Karakuri Anatomy",
+        "Karakuri Barrel mdl 96 \"Shinkuro\"",
+        "Karakuri Bonze mdl 9763 \"Kunamzan\"",
+        "Karakuri Bushi mdl 6318 \"Muzanichiha\"",
+        "Karakuri Cash Cache",
+        "Karakuri Cash Shed",
+        "Karakuri Gama mdl 4624 \"Shirokunishi\"",
+        "Karakuri Gama Oil",
+        "Karakuri Gold Dust",
+        "Karakuri Klock",
+        "Karakuri Komachi mdl 224 \"Ninishi\"",
+        "Karakuri Merchant mdl 177 \"Inashichi\"",
+        "Karakuri Muso mdl 818 \"Haipa\"",
+        "Karakuri Ninja mdl 339 \"Sazank\"",
+        "Karakuri Ninja mdl 7749 \"Nanashick\"",
+        "Karakuri Ninja mdl 919 \"Kuick\"",
+        "Karakuri Shogun mdl 00 \"Burei\"",
+        "Karakuri Showdown Castle",
+        "Karakuri Soldier mdl 236 \"Nisamu\"",
+        "Karakuri Spider",
+        "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+        "Karakuri Strategist mdl 248 \"Nishipachi\"",
+        "Karakuri Super Shogun mdl 00N \"Bureibu\"",
+        "Karakuri Trick House",
+        "Karakuri Watchdog mdl 313 \"Saizan\"",
+        "Runaway Karakuri"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

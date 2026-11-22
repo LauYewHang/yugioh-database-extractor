@@ -1,0 +1,14 @@
+{
+    "name": "Sebek's Blessing",
+    "filename": "Sebek_s_Blessing",
+    "card_text": "If your monster inflicts battle damage to your opponent by a direct attack: Gain the same amount of LP.",
+    "release_date": "2004-06-29",
+    "available_set": [
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "Yu-Gi-Oh! POWER OF CHAOS JOEY THE PASSION Bundles",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

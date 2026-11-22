@@ -1,0 +1,19 @@
+{
+    "name": "Shura the Combat Star",
+    "filename": "Shura_the_Combat_Star",
+    "card_text": "\"Idaten the Conqueror Star\" + 1 Level 5 or higher Warrior monster\nOnce per turn, during the Battle Phase (Quick Effect): You can make the ATK of all face-up monsters your opponent currently controls 0. Once per battle, if a monster battles another monster, during damage calculation (Quick Effect): You can make each battling monster gain ATK equal to its own Level x 200, during that damage calculation only. If this Fusion Summoned card you control is destroyed by an opponent's card and sent to your GY: You can Special Summon 1 \"Idaten the Conqueror Star\" from your Extra Deck. (This is treated as a Fusion Summon.)",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Idaten the Conqueror Star"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

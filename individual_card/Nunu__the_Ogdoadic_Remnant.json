@@ -1,0 +1,33 @@
+{
+    "name": "Nunu, the Ogdoadic Remnant",
+    "filename": "Nunu__the_Ogdoadic_Remnant",
+    "card_text": "You can send this card from your hand to the GY; send 1 DARK Reptile monster from your Deck to the GY. If you control no monsters, or you control an \"Ogdoadic\" monster: You can Special Summon this card from your GY, but banish it when it leaves the field, also you cannot Special Summon monsters, except Reptile monsters, while this card is face-up in the Monster Zone. You can only use each effect of \"Nunu, the Ogdoadic Remnant\" once per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Aleirtt, the Ogdoadic Dark",
+        "Amunessia, the Ogdoadic Queen",
+        "Aron, the Ogdoadic King",
+        "Flogos, the Ogdoadic Boundless",
+        "Keurse, the Ogdoadic Light",
+        "Nauya, the Ogdoadic Remnant",
+        "Nephilabyss, the Ogdoadic Overlord",
+        "Ogdoabyss, the Ogdoadic Overlord",
+        "Ogdoadic Calling",
+        "Ogdoadic Daybreak",
+        "Ogdoadic Hollow",
+        "Ogdoadic Origin",
+        "Ogdoadic Serpent Strike",
+        "Ogdoadic Water Lily",
+        "Zohah, the Ogdoadic Boundless"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

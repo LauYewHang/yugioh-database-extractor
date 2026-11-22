@@ -1,0 +1,19 @@
+{
+    "name": "Underworld Fighter Balmung",
+    "filename": "Underworld_Fighter_Balmung",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is destroyed by card effect and sent to the GY: You can target 1 Level 4 or lower monster in your GY, except this card; Special Summon that target.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT",
+        "DEMO PROGRESSION SET 2026",
+        "ASTRAL PACK SIX"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2100,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

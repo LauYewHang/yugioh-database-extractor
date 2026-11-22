@@ -1,0 +1,36 @@
+{
+    "name": "Edea the Heavenly Squire",
+    "filename": "Edea_the_Heavenly_Squire",
+    "card_text": "If this card is Normal or Special Summoned: You can Special Summon 1 monster with 800 ATK/1000 DEF from your Deck in Defense Position, except \"Edea the Heavenly Squire\", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is sent to the GY: You can target 1 of your banished \"Monarch\" Spells/Traps; add it to your hand. You can only use each effect of \"Edea the Heavenly Squire\" once per turn.",
+    "release_date": "2016-01-29",
+    "available_set": [
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Domain of the True Monarchs",
+        "Escalation of the Monarchs",
+        "Frost Blast of the Monarchs",
+        "March of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Restoration of the Monarchs",
+        "Return of the Monarchs",
+        "Strike of the Monarchs",
+        "Tenacity of the Monarchs",
+        "The First Monarch",
+        "The Monarchs Awaken",
+        "The Monarchs Erupt",
+        "The Monarchs Masterplan",
+        "The Monarchs Revolt",
+        "The Monarchs Stormforth",
+        "The Prime Monarch"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Ice Queen",
+    "filename": "Ice_Queen",
+    "card_text": "Cannot be Special Summoned from the Graveyard. When this face-up card you control is destroyed and sent to your Graveyard: You can target 1 Spell in your Graveyard; add that target to your hand. You must have 3 or more Spellcaster monsters in your Graveyard to activate and to resolve this effect.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "STARDUST OVERDRIVE",
+        "YU-GI-OH! ADVENT CALENDAR 2018"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2900,
+    "defense": 2100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

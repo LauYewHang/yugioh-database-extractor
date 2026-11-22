@@ -1,0 +1,20 @@
+{
+    "name": "Space Mambo",
+    "filename": "Space_Mambo",
+    "card_text": "A Space Mambo floating in the vast universe. This living relic was found in the ruins of a super civilization on Alphard 4.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "DEMO DECK 2015",
+        "FLAMING ETERNITY",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Fish",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Worm Noble",
+    "filename": "Worm_Noble",
+    "card_text": "FLIP: If this card is flipped face-up by an opponent's monster's attack, inflict damage equal to half the ATK of the attacking monster.",
+    "release_date": "2010-05-25",
+    "available_set": [
+        "HIDDEN ARSENAL 2",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 2400,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

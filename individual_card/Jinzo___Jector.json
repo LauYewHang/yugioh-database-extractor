@@ -1,0 +1,36 @@
+{
+    "name": "Jinzo - Jector",
+    "filename": "Jinzo___Jector",
+    "card_text": "This card's name becomes \"Jinzo\" while on the field or in the GY. You can Tribute this card; add 1 \"Jinzo\" monster from your Deck to your hand, except \"Jinzo - Jector\", then reveal all Set cards in your opponent's Spell & Trap Zones, and if there are Traps among them, you can Special Summon \"Jinzo\" monsters from your hand, up to the number of Traps revealed. You can only use this effect of \"Jinzo - Jector\" once per turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY",
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "SECRETS OF ETERNITY SUPER EDITION"
+    ],
+    "related_card": [
+        "Amplifier",
+        "Cosmos Channelling",
+        "Cyber Energy Shock",
+        "Everlasting Alloy",
+        "Jinzo",
+        "Jinzo #7",
+        "Jinzo - Energy Shocker",
+        "Jinzo - Layered",
+        "Jinzo - Lord",
+        "Jinzo - Returner",
+        "Jinzo the Machine Menace",
+        "Law of the Cosmos",
+        "Psychic Bounder",
+        "Psychic Megacyber",
+        "Psychic Wave"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Cyberse Beacon",
+    "filename": "Cyberse_Beacon",
+    "card_text": "If you took damage by battle or an opponent's card effect this turn: Add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 \"Cyberse Beacon\" per turn.",
+    "release_date": "2017-09-22",
+    "available_set": [
+        "CIRCUIT BREAK",
+        "CODE OF THE DUELIST SPECIAL EDITION",
+        "STAR PACK: VRAINS",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Dragon Core",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Cybernetic Overflow",
+        "Prima Light"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

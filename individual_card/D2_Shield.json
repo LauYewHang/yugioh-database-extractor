@@ -1,0 +1,12 @@
+{
+    "name": "D2 Shield",
+    "filename": "D2_Shield",
+    "card_text": "Select 1 face-up Defense Position monster you control. Its DEF becomes double its original DEF.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Drastic Draw",
+    "filename": "Drastic_Draw",
+    "card_text": "Banish all monsters you control (min. 2); draw 3 cards. You cannot Normal or Special Summon the turn you activate this card, except Cyberse monsters. You can only activate 1 \"Drastic Draw\" per turn.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

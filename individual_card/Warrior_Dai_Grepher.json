@@ -1,0 +1,25 @@
+{
+    "name": "Warrior Dai Grepher",
+    "filename": "Warrior_Dai_Grepher",
+    "card_text": "The warrior who can manipulate dragons. Nobody knows his mysterious past.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "DEMO DECK 2015",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "STARTER DECK YUGI Evolution",
+        "LEGACY OF DARKNESS",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "DARK BEGINNING 2",
+        "STARTER DECK 2006"
+    ],
+    "related_card": [
+        "Ryu Senshi"
+    ],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

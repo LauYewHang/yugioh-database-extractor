@@ -1,0 +1,30 @@
+{
+    "name": "Realm of Danger!",
+    "filename": "Realm_of_Danger_",
+    "card_text": "Your opponent cannot target \"Danger!\" monsters you control with card effects during the turn they are Special Summoned. Once per turn: You can target 1 \"Danger!\" monster you control; while you control that face-up monster and this face-up card, that monster can attack directly, also your opponent's monsters cannot target it for attacks, but it does not prevent your opponent from attacking you directly.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Danger! Bigfoot!",
+        "Danger! Chupacabra!",
+        "Danger! Disturbance! Disorder!",
+        "Danger! Dogman!",
+        "Danger! Excitement! Mystery!",
+        "Danger! Feets of Strength!",
+        "Danger! Mothman!",
+        "Danger! Nessie!",
+        "Danger! Ogopogo!",
+        "Danger! Response Team",
+        "Danger! Thunderbird!",
+        "Danger! Zone",
+        "Danger!? Jackalope?",
+        "Danger!? Tsuchinoko?",
+        "Second Expedition into Danger!",
+        "You're in Danger!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Vanquish Soul Pluton HG",
+    "filename": "Vanquish_Soul_Pluton_HG",
+    "card_text": "During your opponent's turn, if you control no monsters, or only \"Vanquish Soul\" monsters, in your Main Monster Zone (Quick Effect): You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n\u25cfFIRE: This card gains 3000 DEF until the end of this turn.\n\u25cfDARK & EARTH: This card gains 3000 ATK until the end of this turn.\nYou can only use each effect of \"Vanquish Soul Pluton HG\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Rock of the Vanquisher",
+        "Stake your Soul!",
+        "Vanquish Soul - Continue?",
+        "Vanquish Soul Caesar Valius",
+        "Vanquish Soul Calamity Caesar",
+        "Vanquish Soul Dr. Mad Love",
+        "Vanquish Soul Dust Devil",
+        "Vanquish Soul Heavy Borger",
+        "Vanquish Soul Hollie Sue",
+        "Vanquish Soul Jiaolong",
+        "Vanquish Soul Pantera",
+        "Vanquish Soul Razen",
+        "Vanquish Soul Rocks",
+        "Vanquish Soul Snow Devil",
+        "Vanquish Soul Trinity Burst",
+        "Vanquish Soul, Start!"
+    ],
+    "attribute": "FIRE",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

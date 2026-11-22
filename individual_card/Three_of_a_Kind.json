@@ -1,0 +1,13 @@
+{
+    "name": "Three of a Kind",
+    "filename": "Three_of_a_Kind",
+    "card_text": "If you control 3 or more monsters with the same name, except Tokens: Target 3 cards your opponent controls; destroy those targets.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

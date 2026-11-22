@@ -1,0 +1,36 @@
+{
+    "name": "Familiar-Possessed - Wynn",
+    "filename": "Familiar_Possessed___Wynn",
+    "card_text": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Wynn the Wind Charmer\" and 1 face-up WIND monster you control to the GY. If this card Special Summoned by its effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "ELEMENTAL ENERGY",
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)"
+    ],
+    "related_card": [
+        "Aussa the Earth Charmer, Immovable",
+        "Awakening of the Possessed",
+        "Charmers of the Grand Circle",
+        "Dharc the Dark Charmer, Gloomy",
+        "Eria the Water Charmer, Gentle",
+        "Hiita the Fire Charmer, Ablaze",
+        "Lyna the Light Charmer, Lustrous",
+        "Possessed Destiny",
+        "Possessed Destiny - Wynn",
+        "Spellbook of the Grand Circle",
+        "Spirit Charmers",
+        "Spiritual Art Familiars",
+        "Unpossessed",
+        "Wynn the Wind Charmer",
+        "Wynn the Wind Charmer, Verdant"
+    ],
+    "attribute": "WIND",
+    "attack": 1850,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

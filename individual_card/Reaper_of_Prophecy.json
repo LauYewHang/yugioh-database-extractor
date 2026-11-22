@@ -1,0 +1,36 @@
+{
+    "name": "Reaper of Prophecy",
+    "filename": "Reaper_of_Prophecy",
+    "card_text": "When this card is Normal or Special Summoned: You can activate this effect; apply as many effects as possible, based on the number of \"Spellbook\" Spell Cards with different names in your Graveyard. You can only use the effect of \"Reaper of Prophecy\" once per turn.\n\u25cf3 or more: This card gains 600 ATK.\n\u25cf4 or more: Add 1 \"Spellbook\" Spell Card from your Deck to your hand.\n\u25cf5 or more: Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Hidden Spellbook (Updated from: Hidden Book of Spell)",
+        "Spellbook Library of the Crescent",
+        "Spellbook Library of the Heliosphere",
+        "Spellbook Magician of Prophecy",
+        "Spellbook of Eternity",
+        "Spellbook of Fate",
+        "Spellbook of Judgment",
+        "Spellbook of Knowledge",
+        "Spellbook of Life",
+        "Spellbook of Miracles",
+        "Spellbook of Power",
+        "Spellbook of Secrets",
+        "Spellbook of the Grand Circle",
+        "Spellbook of the Master",
+        "Spellbook of Wisdom",
+        "Spellbook Organization (Updated from: Pigeonholing Books of Spell)",
+        "Spellbook Star Hall",
+        "The Grand Spellbook Tower"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

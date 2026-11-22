@@ -1,0 +1,40 @@
+{
+    "name": "Red Zone",
+    "filename": "Red_Zone",
+    "card_text": "When your opponent activates a card or effect while you control \"Red Dragon Archfiend\" or a Synchro Monster that mentions it: You can target 1 card on the field; destroy it. You can target 1 of your banished DARK Dragon Synchro Monsters; Special Summon it. You can only use each effect of \"Red Zone\" once per turn.",
+    "release_date": "2023-09-22",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING"
+    ],
+    "related_card": [
+        "Absolute Powerforce",
+        "Champion's Pulse",
+        "Crimson Call",
+        "Crimson Fire",
+        "Crimson Gaia",
+        "Darkness Resonator",
+        "Earthbound Immortal Red Nova",
+        "Fiend Piece Golem",
+        "Fiendish Golem",
+        "King's Resonance",
+        "Majestic Red Dragon",
+        "Power Vice Dragon",
+        "Red Cocoon",
+        "Red Dragon Archfiend",
+        "Red Dragon Archfiend's Chains",
+        "Red Dragon Archfiend/Assault Mode",
+        "Red Dragon Vase",
+        "Red Nova Dragon",
+        "Red Nova Dragon - Burning Soul",
+        "Red Screen",
+        "Scarlet Security",
+        "Scarlight Red Dragon Archfiend",
+        "Scarred Dragon Archfiend",
+        "Soul Fist",
+        "Soul Resonator",
+        "The Crimson King",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

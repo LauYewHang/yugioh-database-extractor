@@ -1,0 +1,20 @@
+{
+    "name": "Zero Gravity",
+    "filename": "Zero_Gravity",
+    "card_text": "Change the battle positions of all face-up monsters on the field.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "STARTER DECK CODEBREAKER",
+        "DARK REVELATION Volume 2",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "INVASION OF CHAOS",
+        "STARTER DECK YUGI RELOADED",
+        "Speed Duel: Battle City Box",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

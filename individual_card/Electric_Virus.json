@@ -1,0 +1,35 @@
+{
+    "name": "Electric Virus",
+    "filename": "Electric_Virus",
+    "card_text": "You can discard this card to the GY, then target 1 Machine or Dragon monster your opponent controls; take control of that target until the End Phase.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "STARTER DECK YUGI RELOADED",
+        "BATTLE PACK TOURNAMENT",
+        "OTS TOURNAMENT PACK 24",
+        "STRIKE OF NEOS"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Penetration Fusion",
+    "filename": "Penetration_Fusion",
+    "card_text": "If a monster(s) was destroyed by battle this turn: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, and if you do, it gains this effect.\n\u25cf(Quick Effect): You can Tribute this card, then target 1 face-up monster you control; it gains 500 ATK.\nYou can only activate 1 \"Penetration Fusion\" per turn.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

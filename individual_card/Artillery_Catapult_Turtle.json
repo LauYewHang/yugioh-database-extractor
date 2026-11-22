@@ -1,0 +1,28 @@
+{
+    "name": "Artillery Catapult Turtle",
+    "filename": "Artillery_Catapult_Turtle",
+    "card_text": "You can Tribute 1 monster; Special Summon 1 \"Gaia The Fierce Knight\" monster, or 1 Level 5 Dragon monster, from your hand or Deck. You can only use this effect of \"Artillery Catapult Turtle\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Charging Gaia the Fierce Knight",
+        "Gaia The Fierce Knight",
+        "Gaia the Fierce Knight Origin",
+        "Gaia the Magical Knight",
+        "Heart of Gaia",
+        "Lord Gaia the Fierce Knight",
+        "Soldier Gaia The Fierce Knight",
+        "Swift Gaia the Fierce Knight"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 2000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

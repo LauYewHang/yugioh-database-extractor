@@ -1,0 +1,23 @@
+{
+    "name": "Space Gift",
+    "filename": "Space_Gift",
+    "card_text": "Draw 1 card for each different \"Neo-Spacian\" name on the monsters you control.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "OTS TOURNAMENT PACK 8",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Neo-Spacian Air Hummingbird",
+        "Neo-Spacian Aqua Dolphin",
+        "Neo-Spacian Dark Panther",
+        "Neo-Spacian Flare Scarab",
+        "Neo-Spacian Glow Moss",
+        "Neo-Spacian Grand Mole",
+        "Neo-Spacian Marine Dolphin",
+        "Neo-Spacian Twinkle Moss"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

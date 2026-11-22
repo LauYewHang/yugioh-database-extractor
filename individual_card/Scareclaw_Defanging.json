@@ -1,0 +1,33 @@
+{
+    "name": "Scareclaw Defanging",
+    "filename": "Scareclaw_Defanging",
+    "card_text": "Your opponent cannot target \"Scareclaw\" Link Monsters or \"Visas Starfrost\" you control with card effects, also they cannot be destroyed by your opponent's card effects. Banish any monster destroyed by battle with a \"Scareclaw\" Link Monster or \"Visas Starfrost\" you control. You can banish 1 \"Scareclaw\" Link Monster from your field or GY, then target 1 card your opponent controls; destroy it. You can only use this effect of \"Scareclaw Defanging\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Primitive Planet Reichphobia",
+        "Scareclaw Acro",
+        "Scareclaw Alternative",
+        "Scareclaw Arrival",
+        "Scareclaw Astra",
+        "Scareclaw Belone",
+        "Scareclaw Decline",
+        "Scareclaw Kashtira",
+        "Scareclaw Light-Heart",
+        "Scareclaw Reichheart",
+        "Scareclaw Sclash",
+        "Scareclaw Straddle",
+        "Scareclaw Tri-Heart",
+        "Scareclaw Twinsaw",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

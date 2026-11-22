@@ -1,0 +1,23 @@
+{
+    "name": "Quick Charger",
+    "filename": "Quick_Charger",
+    "card_text": "Add 2 Level 4 or lower \"Batteryman\" monsters from your Graveyard to your hand.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Batteryman 9-Volt",
+        "Batteryman AA",
+        "Batteryman AAA",
+        "Batteryman C",
+        "Batteryman Charger",
+        "Batteryman D",
+        "Batteryman Fuel Cell",
+        "Batteryman Industrial Strength",
+        "Batteryman Micro-Cell",
+        "Batteryman Solar"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

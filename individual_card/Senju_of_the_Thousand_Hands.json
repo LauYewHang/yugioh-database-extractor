@@ -1,0 +1,29 @@
+{
+    "name": "Senju of the Thousand Hands",
+    "filename": "Senju_of_the_Thousand_Hands",
+    "card_text": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster from your Deck to your hand.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "The Lost Art Promotion 8",
+        "ASTRAL PACK SEVEN",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DARK LEGENDS",
+        "DARK BEGINNING 1",
+        "CROSSOVER BREAKERS",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "RETRO PACK",
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "DUEL TERMINAL 5B",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
+        "TOURNAMENT PACK 4"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

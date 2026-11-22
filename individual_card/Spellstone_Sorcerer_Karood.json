@@ -1,0 +1,20 @@
+{
+    "name": "Spellstone Sorcerer Karood",
+    "filename": "Spellstone_Sorcerer_Karood",
+    "card_text": "Once per turn, when another Monster Card's effect is activated while there is no Spellstone Counter on this card, place 1 Spellstone Counter on this card (max. 1). This card gains 300 DEF for each Spellstone Counter on it. Once per turn, you can remove 1 Spellstone Counter from your side of the field to select 1 card in your opponent's Graveyard, and remove that card from play.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [
+        "Curse of the Shadow Prison",
+        "Powersink Stone"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 1900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

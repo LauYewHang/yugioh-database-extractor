@@ -1,0 +1,20 @@
+{
+    "name": "Magicians Unite",
+    "filename": "Magicians_Unite",
+    "card_text": "If you control 2 or more Attack Position Spellcaster monsters: Target 1 of them; its ATK becomes 3000 until the end of this turn, also for the rest of this turn after this card resolves, other Spellcaster monsters you control cannot attack.",
+    "release_date": "2007-05-15",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "TURBO PACK BOOSTER EIGHT",
+        "STARTER DECK YUGI RELOADED",
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "SPELLCASTER'S COMMAND STRUCTURE DECK",
+        "CHAMPION PACK GAME THREE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

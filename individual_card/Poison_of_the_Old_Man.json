@@ -1,0 +1,16 @@
+{
+    "name": "Poison of the Old Man",
+    "filename": "Poison_of_the_Old_Man",
+    "card_text": "Activate 1 of these effects;\n\u25cfGain 1200 LP.\n\u25cfInflict 800 damage to your opponent.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "STARTER DECK DAWN OF THE XYZ",
+        "STARTER DECK SABER FORCE (US)",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Synchro Deflector",
+    "filename": "Synchro_Deflector",
+    "card_text": "Activate only when a face-up Synchro Monster you control is selected as an attack target. Negate the attack and destroy 1 monster your opponent controls.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [
+        "Accel Synchron",
+        "Assault Sonic Warrior",
+        "Duelist Genesis",
+        "Final Cross",
+        "Junk Anchor",
+        "Junk Armor",
+        "Junk Converter",
+        "Junk Mail",
+        "Junk Speeder",
+        "Necro Linker",
+        "On Your Mark, Get Set, DUEL!",
+        "Quickdraw Synchron",
+        "Righty Driver",
+        "Rush Warrior",
+        "Satellite Synchron",
+        "Satellite Warrior",
+        "Scrap Synchron",
+        "Stardust Trail",
+        "Starjunk Synchron",
+        "Starlight Junktion",
+        "Synchro Chase",
+        "Synchro Dilemma",
+        "Synchro Emergency",
+        "Synchro Fellowship",
+        "Synchron Carrier",
+        "Synchron Explorer",
+        "Tuning"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Black Luster Soldier - Sacred Soldier",
+    "filename": "Black_Luster_Soldier___Sacred_Soldier",
+    "card_text": "When this card is Normal or Special Summoned: You can target 1 of your banished LIGHT or DARK monsters and 1 card your opponent controls; return that banished card to the GY, and if you do, banish that card your opponent controls. You can only use this effect of \"Black Luster Soldier - Sacred Soldier\" once per turn. When this card destroys an opponent's monster by battle: You can target 1 Level 7 or lower Warrior monster in your GY; add it to your hand.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "BREAKERS OF SHADOW",
+        "TOON CHAOS"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Beginning Knight",
+        "Beginning of Heaven and Earth",
+        "Charging Gaia the Fierce Knight",
+        "Envoy of Chaos",
+        "Evening Twilight Knight",
+        "Gateway to Chaos",
+        "Super Soldier Rebirth",
+        "Super Soldier Ritual",
+        "Super Soldier Shield",
+        "Super Soldier Soul",
+        "Super Soldier Synthesis"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Fydraulis Harmonia",
+    "filename": "Fydraulis_Harmonia",
+    "card_text": "When a monster your opponent controls activates its effect (Quick Effect): You can reveal this card in your hand and up to 5 Synchro Monsters in your Extra Deck; apply all of these effects in sequence, based on the number revealed, also you cannot activate the effects of monsters Special Summoned from the Extra Deck until the end of your next turn after this effect resolves, except Synchro Monsters.\n\u25cf2+: Special Summon this card.\n\u25cf4+: Send 1 revealed Synchro Monster to the GY.\n\u25cf6: Destroy 1 monster your opponent controls.\nYou can only use this effect of \"Fydraulis Harmonia\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "WINNER'S PACK 2026-2027",
+        "BLAZING DOMINION"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

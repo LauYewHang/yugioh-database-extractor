@@ -1,0 +1,19 @@
+{
+    "name": "Seven Cities of the Golden Land",
+    "filename": "Seven_Cities_of_the_Golden_Land",
+    "card_text": "During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using only Zombie monsters from your hand or field as Fusion Material. If a Zombie monster(s) is Special Summoned by card effect (except during the Damage Step): You can target 1 Set card in a Spell & Trap Zone; that Set card cannot be activated this turn (even if this card leaves the field). You can only use each effect of \"Seven Cities of the Golden Land\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "Cursed Eldland",
+        "El Dorado Adelantado",
+        "Eldlixir of Black Awakening",
+        "Eldlixir of Scarlet Sanguine",
+        "Eldlixir of the Glorious Golden Land",
+        "Eldlixir of White Destiny"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

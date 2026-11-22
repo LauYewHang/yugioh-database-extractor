@@ -1,0 +1,19 @@
+{
+    "name": "Poison Mummy",
+    "filename": "Poison_Mummy",
+    "card_text": "FLIP: Inflict 500 damage to your opponent.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "STARTER DECK JADEN YUKI",
+        "STARTER DECK SYRUS TRUESDALE",
+        "PHARAONIC GUARDIAN"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1800,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

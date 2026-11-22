@@ -1,0 +1,41 @@
+{
+    "name": "Darklord Superbia",
+    "filename": "Darklord_Superbia",
+    "card_text": "When this card is Special Summoned from the Graveyard: You can target 1 Fairy-Type monster in your Graveyard, except \"Darklord Superbia\"; Special Summon that target.",
+    "release_date": "2010-05-15",
+    "available_set": [
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2010",
+        "DESTINY SOLDIERS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS"
+    ],
+    "related_card": [
+        "Banishment of the Darklords",
+        "Condemned Darklord",
+        "Darklord Amdusc",
+        "Darklord Contact",
+        "Darklord Dance",
+        "Darklord Descent",
+        "Darklord Djehuty",
+        "Darklord Enchantment",
+        "Darklord Eveningstar",
+        "Darklord Gulgolet",
+        "Darklord Ixchel",
+        "Darklord Morningstar",
+        "Darklord Nasten",
+        "Darklord Nergal",
+        "Darklord Rebellion",
+        "Darklord Tezcatlipoca",
+        "Darklord Ukoback",
+        "Darklord Uprising",
+        "Fallen Angel in Darkness",
+        "Indulged Darklord",
+        "The Sanctified Darklord"
+    ],
+    "attribute": "DARK",
+    "attack": 2900,
+    "defense": 2400,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

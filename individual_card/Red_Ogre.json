@@ -1,0 +1,20 @@
+{
+    "name": "Red Ogre",
+    "filename": "Red_Ogre",
+    "card_text": "When this card is Normal Summoned: You can send any number of cards from your hand to the Graveyard, then target the same number of cards on the field; return those targets to the hand.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "GOLD SERIES HAUNTED MINE",
+        "CROSSROADS OF CHAOS",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 2100,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

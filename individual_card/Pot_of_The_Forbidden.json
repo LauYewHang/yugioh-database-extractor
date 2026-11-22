@@ -1,0 +1,19 @@
+{
+    "name": "Pot of The Forbidden",
+    "filename": "Pot_of_The_Forbidden",
+    "card_text": "FLIP: You can activate 1 of these effects;\n\u25cfDraw 2 cards.\n\u25cfReturn all Spells/Traps on the field to the hand.\n\u25cfDestroy all monsters your opponent controls.\n\u25cfLook at your opponent's hand, and choose 1 card from it to shuffle into the Deck.\nYou can only use this effect of \"Pot of The Forbidden\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "Phantom Revenge",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 3000,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

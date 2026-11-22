@@ -1,0 +1,17 @@
+{
+    "name": "Memory Loss",
+    "filename": "Memory_Loss",
+    "card_text": "When an effect of an Attack Position monster your opponent controls is activated: Negate that effect, and if you do, change that monster to face-up Defense Position.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

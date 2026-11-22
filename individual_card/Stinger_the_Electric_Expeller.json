@@ -1,0 +1,17 @@
+{
+    "name": "Stinger the Electric Expeller",
+    "filename": "Stinger_the_Electric_Expeller",
+    "card_text": "Through brave struggles, Stinger and the Dune Defenders have repelled all approaching external threats. His sword should only be used for the defense of its people.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Psychic",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

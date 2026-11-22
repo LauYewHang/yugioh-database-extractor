@@ -1,0 +1,20 @@
+{
+    "name": "Tatsunoko",
+    "filename": "Tatsunoko",
+    "card_text": "1 Tuner + 1+ non-Tuners\nIf this Synchro Summoned monster would be used as a Synchro Material, 1 monster in your hand can be used as 1 of the other materials. Unaffected by other monsters' effects.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS",
+        "HIDDEN SUMMONERS",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1700,
+    "defense": 500,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

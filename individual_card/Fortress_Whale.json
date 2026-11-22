@@ -1,0 +1,22 @@
+{
+    "name": "Fortress Whale",
+    "filename": "Fortress_Whale",
+    "card_text": "You can Ritual Summon this card with \"Fortress Whale's Oath\".",
+    "release_date": "2005-11-01",
+    "available_set": [
+        "SPEED DUEL: SCARS OF BATTLE",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "TOURNAMENT PACK 7"
+    ],
+    "related_card": [
+        "Fortress Whale's Oath"
+    ],
+    "attribute": "WATER",
+    "attack": 2350,
+    "defense": 2150,
+    "monster_type": "Fish",
+    "monster_card_type": "Ritual",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

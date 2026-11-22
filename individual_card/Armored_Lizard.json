@@ -1,0 +1,20 @@
+{
+    "name": "Armored Lizard",
+    "filename": "Armored_Lizard",
+    "card_text": "A lizard with a very tough hide and a vicious bite.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "STARTER DECK JOEY",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Reptile",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

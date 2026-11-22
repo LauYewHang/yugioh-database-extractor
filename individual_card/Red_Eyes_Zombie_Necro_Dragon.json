@@ -1,0 +1,42 @@
+{
+    "name": "Red-Eyes Zombie Necro Dragon",
+    "filename": "Red_Eyes_Zombie_Necro_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nGains 100 ATK/DEF for each Zombie monster on the field and in the GYs. When another Zombie monster is destroyed by battle: You can Special Summon 1 Zombie monster from either GY to your field. You can only use this effect of \"Red-Eyes Zombie Necro Dragon\" once per turn.",
+    "release_date": "2018-11-02",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "STRUCTURE DECK: ZOMBIE HORDE"
+    ],
+    "related_card": [
+        "Archfiend Black Skull Dragon",
+        "Black Metal Dragon",
+        "Cards of the Red Stone",
+        "Dark Dragon Ritual",
+        "Gearfried the Red-Eyes Iron Knight",
+        "Meteor Black Comet Dragon",
+        "Meteor Dragon Red-Eyes Impact",
+        "Paladin of Dark Dragon",
+        "Red-Eyes Alternative Black Dragon",
+        "Red-Eyes Baby Dragon",
+        "Red-Eyes Burn",
+        "Red-Eyes Fang with Chain",
+        "Red-Eyes Flare Metal Dragon",
+        "Red-Eyes Fusion",
+        "Red-Eyes Insight",
+        "Red-Eyes Retro Dragon",
+        "Red-Eyes Slash Dragon",
+        "Red-Eyes Soul",
+        "Red-Eyes Spirit",
+        "Red-Eyes Transmigration",
+        "Red-Eyes Wyvern",
+        "Return of the Red-Eyes",
+        "The Black Stone of Legend"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

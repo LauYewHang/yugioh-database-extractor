@@ -1,0 +1,30 @@
+{
+    "name": "Dual Avatar - Empowered Kon-Gyo",
+    "filename": "Dual_Avatar___Empowered_Kon_Gyo",
+    "card_text": "\"Dual Avatar Fists - Yuhi\" + 2 \"Dual Avatar\" monsters\nIf this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. If this card attacks, after damage calculation: You can return 1 monster your opponent controls to the hand. When your opponent's Spell/Trap Card or effect is activated that targets this card on the field, while you control 2 or more Fusion Monsters (Quick Effect): You can negate the activation. You can only use this effect of \"Dual Avatar - Empowered Kon-Gyo\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Dual Avatar - Empowered Mitsu-Jaku",
+        "Dual Avatar - Manifested A-Un",
+        "Dual Avatar Ascendance",
+        "Dual Avatar Compact",
+        "Dual Avatar Defeating Evil",
+        "Dual Avatar Feet - Armored Un-Gyo",
+        "Dual Avatar Feet - Kokoku",
+        "Dual Avatar Fists - Armored Ah-Gyo",
+        "Dual Avatar Fists - Yuhi",
+        "Dual Avatar Invitation",
+        "Dual Avatar Return",
+        "Perfect Sync - A-Un"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 1700,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

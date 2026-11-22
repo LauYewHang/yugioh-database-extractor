@@ -1,0 +1,30 @@
+{
+    "name": "Nouvelles Restaurant \"At Table\"",
+    "filename": "Nouvelles_Restaurant__At_Table_",
+    "card_text": "When this card is activated: You can add 1 \"Recipe\" card from your Deck or GY to your hand. Once per turn: You can place 1 Ritual Monster from your hand on the bottom of the Deck; draw 1 card. Once per turn, during your End Phase: You can target 2 cards in your GY, including a \"Recipe\" card; place them on the bottom of your Deck in any order, then draw 1 card. You can only activate 1 \"Nouvelles Restaurant \"At Table\"\" per turn.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Baelgrill de Nouvelles",
+        "Balameuniere de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef de Nouvelles",
+        "Chef's Special Recipe",
+        "Concours de Cuisine (Culinary Confrontation)",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Hamburger Recipe",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Personnel (Staff Recipe)",
+        "Recette de Poisson (Fish Recipe)",
+        "Recette de Viande (Meat Recipe)",
+        "Voici la Carte (Today's Menu)"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

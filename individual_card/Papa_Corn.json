@@ -1,0 +1,17 @@
+{
+    "name": "Papa-Corn",
+    "filename": "Papa_Corn",
+    "card_text": "While a Field Spell Card is face-up on the field, this card gains 1000 ATK.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 800,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

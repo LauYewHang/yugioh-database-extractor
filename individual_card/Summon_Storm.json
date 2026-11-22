@@ -1,0 +1,12 @@
+{
+    "name": "Summon Storm",
+    "filename": "Summon_Storm",
+    "card_text": "Pay 800 LP; Special Summon 1 Level 6 or lower WIND monster from your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; Special Summon 1 Level 4 or lower WIND monster from your hand. You can only use this effect of \"Summon Storm\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Thunder Dragon",
+    "filename": "Thunder_Dragon",
+    "card_text": "You can discard this card; add up to 2 \"Thunder Dragon\" from your Deck to your hand.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "DARK LEGENDS",
+        "METAL RAIDERS",
+        "CHAMPION PACK GAME TWO",
+        "HIDDEN SUMMONERS",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "RETRO PACK",
+        "DARK BEGINNING 2",
+        "OTS ULTIMATE TOURNAMENT PACK 1"
+    ],
+    "related_card": [
+        "Thunder Dragon Colossus",
+        "Thunder Dragon Discharge",
+        "Thunder Dragon Fusion",
+        "Thunder Dragon Thunderstormech",
+        "Thunder Dragon Titan",
+        "Thunder Dragondark",
+        "Thunder Dragonduo",
+        "Thunder Dragonhawk",
+        "Thunder Dragonlord",
+        "Thunder Dragonmatrix",
+        "Thunder Dragonroar",
+        "Thunder Dragons' Hundred Thunders",
+        "Twin-Headed Thunder Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1500,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

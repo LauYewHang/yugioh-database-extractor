@@ -1,0 +1,40 @@
+{
+    "name": "Cyberdark Dragon",
+    "filename": "Cyberdark_Dragon",
+    "card_text": "\"Cyberdark Horn\" + \"Cyberdark Edge\" + \"Cyberdark Keel\"\nMust be Fusion Summoned. If this card is Special Summoned: Target 1 Dragon monster in your GY; equip that target to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. Gains 100 ATK for each monster in your GY. If this card would be destroyed by battle, destroy that equipped monster instead.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "CYBERDARK IMPACT",
+        "DUEL TERMINAL 5B",
+        "STRUCTURE DECK: CYBER STRIKE"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Cannon",
+        "Cyberdark Chimera",
+        "Cyberdark Claw",
+        "Cyberdark Edge",
+        "Cyberdark End Dragon",
+        "Cyberdark Horn",
+        "Cyberdark Impact!",
+        "Cyberdark Inferno",
+        "Cyberdark Invasion",
+        "Cyberdark Keel",
+        "Cyberdark Realm",
+        "Cyberdark Wurm",
+        "Cyberdarkness Dragon",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

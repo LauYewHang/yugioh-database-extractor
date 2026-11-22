@@ -1,0 +1,21 @@
+{
+    "name": "First of the Dragons",
+    "filename": "First_of_the_Dragons",
+    "card_text": "2 Normal Monsters\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can only control 1 \"First of the Dragons\". This card cannot be destroyed by battle, except by battle with a Normal Monster, and is unaffected by other monsters' effects.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "THE NEW CHALLENGERS",
+        "THE NEW CHALLENGERS SUPER EDITION",
+        "2015 MEGA-TINS MEGA PACK",
+        "Advanced Demo Deck Extra Pack"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2700,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

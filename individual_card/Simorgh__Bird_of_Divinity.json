@@ -1,0 +1,26 @@
+{
+    "name": "Simorgh, Bird of Divinity",
+    "filename": "Simorgh__Bird_of_Divinity",
+    "card_text": "This card cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WIND. Each player takes 1000 damage during each of their End Phases, while this card remains face-up on the field. This damage is decreased by 500 for each Spell/Trap Card the player controls.",
+    "release_date": "2006-07-12",
+    "available_set": [
+        "WORLD CHAMPIONSHIP 2010 CARD PACK",
+        "STRUCTURE DECK LORD OF THE STORM"
+    ],
+    "related_card": [
+        "Simorgh Onslaught",
+        "Simorgh Sky Battle",
+        "Simorgh, Bird of Beginning",
+        "Simorgh, Bird of Bringing",
+        "Simorgh, Bird of Calamity",
+        "Simorgh, Bird of Perfection",
+        "Simorgh, Bird of Sovereignty"
+    ],
+    "attribute": "WIND",
+    "attack": 2700,
+    "defense": 1000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

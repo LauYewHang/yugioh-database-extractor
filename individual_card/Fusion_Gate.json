@@ -1,0 +1,41 @@
+{
+    "name": "Fusion Gate",
+    "filename": "Fusion_Gate",
+    "card_text": "During the Main Phase: The turn player can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials mentioned on it from their hand or field.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "FUSION ENFORCERS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DUELIST LEAGUE 2",
+        "LABYRINTH OF NIGHTMARE",
+        "HOBBY LEAGUE 1",
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "DARK BEGINNING 2",
+        "TURBO PACK BOOSTER SIX",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

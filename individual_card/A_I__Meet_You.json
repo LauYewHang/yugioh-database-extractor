@@ -1,0 +1,40 @@
+{
+    "name": "A.I. Meet You",
+    "filename": "A_I__Meet_You",
+    "card_text": "Reveal 1 Cyberse monster with 2300 ATK in your hand or Extra Deck, and add 1 \"@Ignister\" monster with the same Attribute from your Deck to your hand. During the End Phase of this turn, take 2300 damage if you did not Special Summon the revealed monster, or a monster with the same name, after you resolved this effect. You cannot activate monster effects for the rest of this turn after this card resolves, except Cyberse monsters. You can only activate 1 \"A.I. Meet You\" per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "A.I.dle Reborn",
+        "Achichi @Ignister",
+        "Allied Code Talker @Ignister",
+        "Backup @Ignister",
+        "Bururu @Ignister",
+        "Code Igniter",
+        "Danmari @Ignister",
+        "Dark Infant @Ignister",
+        "Dark Templar @Ignister",
+        "Donyoribo @Ignister",
+        "Doshin @Ignister",
+        "Doyon @Ignister",
+        "Earth Golem @Ignister",
+        "Fire Phoenix @Ignister",
+        "Firewall Saber Dragon",
+        "Gatchiri @Ignister",
+        "Gussari @Ignister",
+        "Hiyari @Ignister",
+        "Kurikurinku @Ignister",
+        "Light Dragon @Ignister",
+        "Linkslayer @Ignister",
+        "Pikari @Ignister",
+        "The Arrival Cyberse @Ignister",
+        "Water Leviathan @Ignister",
+        "Wind Pegasus @Ignister",
+        "Wizard @Ignister"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

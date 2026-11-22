@@ -1,0 +1,37 @@
+{
+    "name": "Branded Expulsion",
+    "filename": "Branded_Expulsion",
+    "card_text": "Tribute 1 Fusion Monster, then target 2 non-Fusion Monsters that are banished and/or in either GY; Special Summon both monsters, 1 on each field. If you Tributed a Fusion Monster that mentions \"Fallen of Albaz\" as material to activate this card, you can Special Summon both monsters to your field instead, in Defense Position. You can only activate 1 \"Branded Expulsion\" per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Albaz the Ashen",
+        "Albion the Branded Dragon",
+        "Albion the Shrouded Dragon",
+        "Aluber the Jester of Despia",
+        "Branded Beast",
+        "Branded in High Spirits",
+        "Branded Lost",
+        "Branded Retribution",
+        "Branded Sword",
+        "Bystial Saronir",
+        "Despian Tragedy",
+        "Ecclesia and the Dark Dragon",
+        "Fallen of Albaz",
+        "Fallen of the White Dragon",
+        "Guiding Quem, the Virtuous",
+        "Gung-Ho! Springans!",
+        "New Frontier",
+        "Springans Kitt",
+        "The Bystial Aluber",
+        "The Bystial Lubellion",
+        "The Fallen & The Virtuous",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Dragon's Fighting Spirit",
+    "filename": "Dragon_s_Fighting_Spirit",
+    "card_text": "Target 1 Dragon-Type monster you control that was Special Summoned this turn; for each monster your opponent currently controls that was Special Summoned this turn, it gains 1 additional attack during each Battle Phase this turn.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

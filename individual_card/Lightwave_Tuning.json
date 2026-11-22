@@ -1,0 +1,12 @@
+{
+    "name": "Lightwave Tuning",
+    "filename": "Lightwave_Tuning",
+    "card_text": "Select 1 Level 4 LIGHT monster you control. It is treated as a Tuner monster while it is face-up on the field.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

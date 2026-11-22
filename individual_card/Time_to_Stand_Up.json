@@ -1,0 +1,33 @@
+{
+    "name": "Time to Stand Up",
+    "filename": "Time_to_Stand_Up",
+    "card_text": "If a Dragon Synchro Monster is on the field: Special Summon up to 2 monsters, that are \"Resonator\" monsters and/or Level 1 Dragon monsters, from your Deck. When a monster effect is activated, while you control a Level 10 or higher DARK Dragon Synchro Monster: You can banish this card from your GY; negate that effect, and if you do, 1 Synchro Monster you control gains 2000 ATK until the end of the next turn. You can only use each effect of \"Time to Stand Up\" once per turn.",
+    "release_date": "2023-03-10",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "MAZE OF MEMORIES",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Chain Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Red Resonator",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Dogoran, the Mad Flame Kaiju",
+    "filename": "Dogoran__the_Mad_Flame_Kaiju",
+    "card_text": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 3 Kaiju Counters from anywhere on the field; destroy all monsters your opponent controls. This card cannot attack the turn this effect is activated.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "OTS TOURNAMENT PACK 5",
+        "STRUCTURE DECK: SOULBURNER",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "CLASH OF REBELLIONS",
+        "STRUCTURE DECK: FIRE KINGS"
+    ],
+    "related_card": [
+        "Gadarla, the Mystery Dust Kaiju",
+        "Gameciel, the Sea Turtle Kaiju",
+        "Interrupted Kaiju Slumber",
+        "Jizukiru, the Star Destroying Kaiju",
+        "Kaiju Capture Mission",
+        "Kumongous, the Sticky String Kaiju",
+        "Kyoutou Waterfront",
+        "Radian, the Multidimensional Kaiju",
+        "Super Anti-Kaiju War Machine Mecha-Dogoran",
+        "Super Anti-Kaiju War Machine Mecha-Thunder-King",
+        "The Kaiju Files",
+        "Thunder King, the Lightningstrike Kaiju"
+    ],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": 1200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

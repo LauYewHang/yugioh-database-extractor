@@ -1,0 +1,17 @@
+{
+    "name": "Droll Bird",
+    "filename": "Droll_Bird",
+    "card_text": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
+    "release_date": "2010-08-14",
+    "available_set": [
+        "WORLD CHAMPIONSHIP 2010 CARD PACK"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 600,
+    "defense": 500,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

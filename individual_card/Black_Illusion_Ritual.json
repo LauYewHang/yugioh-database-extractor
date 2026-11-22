@@ -1,0 +1,27 @@
+{
+    "name": "Black Illusion Ritual",
+    "filename": "Black_Illusion_Ritual",
+    "card_text": "This card is used to Ritual Summon \"Relinquished\". You must also Tribute a monster from your hand or field whose Level is 1 or more.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL TOURNAMENT PACK 01",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "RETRO PACK",
+        "STARTER DECK PEGASUS",
+        "DARK BEGINNING 2",
+        "MILLENNIUM PACK",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [
+        "Relinquished"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

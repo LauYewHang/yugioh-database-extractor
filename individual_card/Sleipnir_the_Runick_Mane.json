@@ -1,0 +1,33 @@
+{
+    "name": "Sleipnir the Runick Mane",
+    "filename": "Sleipnir_the_Runick_Mane",
+    "card_text": "2 \"Runick\" monsters\nDuring your Main Phase or your opponent's Battle Phase (Quick Effect): You can target 1 face-up monster your opponent controls; banish both that monster and this card until the End Phase. If a card(s) is added from the Main Deck to your opponent's hand (except during the Damage Step): You can Special Summon 1 \"Runick Token\" (Fairy/LIGHT/Level 4/ATK 1500/DEF 1500) in Attack Position. You can only use each effect of \"Sleipnir the Runick Mane\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Freki the Runick Fangs",
+        "Geri the Runick Fangs",
+        "Hugin the Runick Wings",
+        "Munin the Runick Wings",
+        "Runick Allure",
+        "Runick Destruction",
+        "Runick Dispelling",
+        "Runick Flashing Fire",
+        "Runick Fountain",
+        "Runick Freezing Curses",
+        "Runick Golden Droplet",
+        "Runick Slumber",
+        "Runick Smiting Storm",
+        "Runick Tip"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

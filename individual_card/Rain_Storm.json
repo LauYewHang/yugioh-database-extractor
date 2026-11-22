@@ -1,0 +1,25 @@
+{
+    "name": "Rain Storm",
+    "filename": "Rain_Storm",
+    "card_text": "Target 1 \"Cloudian\" monster you control; reduce its ATK by exactly 1000 or 2000, and if you do, apply the appropriate effect.\n\u25cf1000: Destroy 1 Spell/Trap your opponent controls.\n\u25cf2000: Destroy 2 cards your opponent controls.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "GLADIATOR'S ASSAULT",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS"
+    ],
+    "related_card": [
+        "Cloudian - Acid Cloud",
+        "Cloudian - Altus",
+        "Cloudian - Cirrostratus",
+        "Cloudian - Eye of the Typhoon",
+        "Cloudian - Ghost Fog",
+        "Cloudian - Nimbusman",
+        "Cloudian - Poison Cloud",
+        "Cloudian - Sheep Cloud",
+        "Cloudian - Smoke Ball",
+        "Cloudian - Storm Dragon",
+        "Cloudian - Turbulence"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

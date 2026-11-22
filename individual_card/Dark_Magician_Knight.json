@@ -1,0 +1,20 @@
+{
+    "name": "Dark Magician Knight",
+    "filename": "Dark_Magician_Knight",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Knight's Title\" and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 card on the field; destroy that target.",
+    "release_date": "2004-06-29",
+    "available_set": [
+        "Yu-Gi-Oh! RESHEF OF DESTRUCTION Bundles",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Knight's Title"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

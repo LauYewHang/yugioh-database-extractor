@@ -1,0 +1,20 @@
+{
+    "name": "Kotodama",
+    "filename": "Kotodama",
+    "card_text": "If there are face-up monsters with the same name on the field, destroy those monsters. (If a monster is Summoned or flipped-face up that has the same name as a monster that is already face-up on the field, the new face-up monster is destroyed. If they are Summoned or flipped face-up at the same time, they are all destroyed.)",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
+        "TURBO PACK BOOSTER SEVEN"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 1600,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

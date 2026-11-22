@@ -1,0 +1,26 @@
+{
+    "name": "Cyber Tutubon",
+    "filename": "Cyber_Tutubon",
+    "card_text": "You can Special Summon this card (from your hand) by Tributing 1 Warrior or Fairy-Type monster from your hand or field. If this card is Tributed for a Ritual Summon: You can target 1 Ritual Spell Card in your Graveyard; add it to your hand.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

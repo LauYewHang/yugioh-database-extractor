@@ -1,0 +1,23 @@
+{
+    "name": "Ryu-Kishin Powered",
+    "filename": "Ryu_Kishin_Powered",
+    "card_text": "A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "METAL RAIDERS",
+        "STARTER DECK KAIBA",
+        "DARK BEGINNING 2",
+        "STARTER DECK KAIBA Evolution",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

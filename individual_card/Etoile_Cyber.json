@@ -1,0 +1,28 @@
+{
+    "name": "Etoile Cyber",
+    "filename": "Etoile_Cyber",
+    "card_text": "If this card attacks directly, it gains 500 ATK during the Damage Step only.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4",
+        "SPEED DUEL GX: DUEL ACADEMY BOX"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Blader",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

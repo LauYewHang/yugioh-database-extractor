@@ -1,0 +1,17 @@
+{
+    "name": "Sky Scourge Invicil",
+    "filename": "Sky_Scourge_Invicil",
+    "card_text": "This card cannot be Special Summoned. If you Tribute Summon this card by Tributing 1 of the following monsters, this card gets the appropriate effect:\n\u25cfLIGHT Fairy-Type monster: Negate the effects of all Spell Cards.\n\u25cfDARK Fiend-Type monster: Negate the effects of all Trap Cards.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 1600,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

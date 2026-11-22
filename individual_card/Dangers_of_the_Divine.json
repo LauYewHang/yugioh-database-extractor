@@ -1,0 +1,17 @@
+{
+    "name": "Dangers of the Divine",
+    "filename": "Dangers_of_the_Divine",
+    "card_text": "Pay half your LP, then Tribute 1 monster; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or banishment, ignoring its Summoning conditions, and make its ATK/DEF 4000, but it cannot attack, also during the End Phase of the next turn, return it to the hand. If this card is sent from the field to the GY: Choose 1 \"The Winged Dragon of Ra\" in your Monster Zone and send all other monsters on the field to the GY. You can only use each effect of \"Dangers of the Divine\" once per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Defense of the Temple",
+        "Guardian Slime",
+        "The True Sun God",
+        "The Winged Dragon of Ra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

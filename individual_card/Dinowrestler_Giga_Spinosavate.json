@@ -1,0 +1,36 @@
+{
+    "name": "Dinowrestler Giga Spinosavate",
+    "filename": "Dinowrestler_Giga_Spinosavate",
+    "card_text": "1 Dinosaur Tuner + 1+ non-Tuner monsters\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. Once per turn: You can target 1 monster your opponent controls; destroy it. If this card would be destroyed by battle or card effect, you can destroy 1 card you control instead.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Dinowrestler Capaptera",
+        "Dinowrestler Chimera T Wrextle",
+        "Dinowrestler Coelasilat",
+        "Dinowrestler Eskrimamenchi",
+        "Dinowrestler Iguanodraka",
+        "Dinowrestler King T Wrextle",
+        "Dinowrestler Martial Ampelo",
+        "Dinowrestler Martial Anga",
+        "Dinowrestler Martial Ankylo",
+        "Dinowrestler Pankratops",
+        "Dinowrestler Rambrachio",
+        "Dinowrestler Systegosaur",
+        "Dinowrestler Terra Parkourio",
+        "Dinowrestler Valeonyx",
+        "Gouki Gameface",
+        "Tyrant Dino Fusion",
+        "World Dino Wrestling"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

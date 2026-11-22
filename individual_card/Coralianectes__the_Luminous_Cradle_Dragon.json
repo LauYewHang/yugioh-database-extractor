@@ -1,0 +1,34 @@
+{
+    "name": "Coralianectes, the Luminous Cradle Dragon",
+    "filename": "Coralianectes__the_Luminous_Cradle_Dragon",
+    "card_text": "While you control \"Umi\", your opponent cannot target WATER Link Monsters you control with card effects. If this card is added to your hand, except by drawing it: You can reveal this card and 1 WATER monster in your hand; Special Summon both, also you cannot Special Summon for the rest of this turn, except WATER monsters. You can only use this effect of \"Coralianectes, the Luminous Cradle Dragon\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "attribute": "WATER",
+    "attack": 1300,
+    "defense": 2700,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

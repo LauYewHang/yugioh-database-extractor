@@ -1,0 +1,18 @@
+{
+    "name": "Kanan the Swordmistress",
+    "filename": "Kanan_the_Swordmistress",
+    "card_text": "A lady warrior armed with sword and shield, she floats lightly and stings sharply.",
+    "release_date": "2003-06-27",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2003",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1400,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

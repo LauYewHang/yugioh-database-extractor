@@ -1,0 +1,22 @@
+{
+    "name": "Serene Psychic Sorceress",
+    "filename": "Serene_Psychic_Sorceress",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can pay 1000 LP; Set 1 \"Teleport\" Normal or Quick-Play Spell from your Deck, GY, or banishment. If this Synchro Summoned card is sent to the GY: You can target 1 card your opponent controls, or target 2 if you control a Psychic monster (Fusion or Synchro); return that card(s) to the hand. You can only use each effect of \"Serene Psychic Sorceress\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Assault Teleport",
+        "Emergency Teleport",
+        "Parallel Teleport",
+        "Teleport Fusion"
+    ],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 2200,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

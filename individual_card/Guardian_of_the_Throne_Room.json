@@ -1,0 +1,21 @@
+{
+    "name": "Guardian of the Throne Room",
+    "filename": "Guardian_of_the_Throne_Room",
+    "card_text": "A robot guard built to protect throne rooms, it is armed with homing missiles.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1650,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Lightning Rod Lord",
+    "filename": "Lightning_Rod_Lord",
+    "card_text": "Neither player can activate Spell Cards during Main Phase 1.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY",
+        "SECRETS OF ETERNITY SUPER EDITION",
+        "OTS ULTIMATE TOURNAMENT PACK 1"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 100,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Wiretap",
+    "filename": "Wiretap",
+    "card_text": "When a Trap is activated: Negate the activation, and if you do, shuffle that card into the Deck.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND",
+        "Duel Devastator",
+        "OTS TOURNAMENT PACK 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

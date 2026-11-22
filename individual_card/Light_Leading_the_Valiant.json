@@ -1,0 +1,17 @@
+{
+    "name": "Light Leading the Valiant",
+    "filename": "Light_Leading_the_Valiant",
+    "card_text": "Cannot be Special Summoned. Requires 3 Fairy Tributes to Normal Summon (cannot be Normal Set). If this card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+    "release_date": "2025-08-31",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2025"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

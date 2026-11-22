@@ -1,0 +1,12 @@
+{
+    "name": "Scrubbed Raid",
+    "filename": "Scrubbed_Raid",
+    "card_text": "During the Battle Phase, you can send 1 card you control to the Graveyard, except this card, to end the Battle Phase.",
+    "release_date": "2010-01-26",
+    "available_set": [
+        "DUELIST PACK - YUSEI 2 -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Pantheism of the Monarchs",
+    "filename": "Pantheism_of_the_Monarchs",
+    "card_text": "Send 1 \"Monarch\" Spell/Trap from your hand to the GY; draw 2 cards. You can banish this card from your GY; reveal 3 \"Monarch\" Spells/Traps from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck. You can only use this effect of \"Pantheism of the Monarchs\" once per turn.",
+    "release_date": "2016-01-29",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "EMPEROR OF DARKNESS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Domain of the True Monarchs",
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Escalation of the Monarchs",
+        "Frost Blast of the Monarchs",
+        "March of the Monarchs",
+        "Monarchic Perfection",
+        "Restoration of the Monarchs",
+        "Return of the Monarchs",
+        "Strike of the Monarchs",
+        "Tenacity of the Monarchs",
+        "Tessera the Primal Squire",
+        "The First Monarch",
+        "The Monarchs Awaken",
+        "The Monarchs Erupt",
+        "The Monarchs Masterplan",
+        "The Monarchs Revolt",
+        "The Monarchs Stormforth",
+        "The Prime Monarch"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

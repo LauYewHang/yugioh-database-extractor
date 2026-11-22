@@ -1,0 +1,20 @@
+{
+    "name": "Hoshiningen",
+    "filename": "Hoshiningen",
+    "card_text": "All LIGHT monsters on the field gain 500 ATK, also all DARK monsters on the field lose 400 ATK.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2",
+        "YU-GI-OH! ADVENT CALENDAR 2018"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 700,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

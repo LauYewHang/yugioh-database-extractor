@@ -1,0 +1,37 @@
+{
+    "name": "Swordsoul of Mo Ye",
+    "filename": "Swordsoul_of_Mo_Ye",
+    "card_text": "If this card is Normal or Special Summoned: You can reveal 1 \"Swordsoul\" card or 1 Wyrm monster in your hand; Special Summon 1 \"Swordsoul Token\" (Wyrm/Tuner/WATER/Level 4/ATK 0/DEF 0). While that Token is in the Monster Zone, the player who Summoned it cannot Special Summon from the Extra Deck, except Synchro Monsters. If this card is sent to the GY as Synchro Material: You can draw 1 card. You can only use each effect of \"Swordsoul of Mo Ye\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "MAGNIFICENT MAVENS",
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Incredible Ecclesia, the Virtuous",
+        "Swordsoul Assessment",
+        "Swordsoul Auspice Chunjun",
+        "Swordsoul Blackout",
+        "Swordsoul Emergence",
+        "Swordsoul Grandmaster - Chixiao",
+        "Swordsoul of Taia",
+        "Swordsoul Punishment",
+        "Swordsoul Sacred Summit",
+        "Swordsoul Sinister Sovereign - Qixing Longyuan",
+        "Swordsoul Strategist Longyuan",
+        "Swordsoul Strife",
+        "Swordsoul Supreme Sovereign - Chengying",
+        "The Abyss Dragon Swordsoul",
+        "The Golden Swordsoul",
+        "The Iris Swordsoul",
+        "The Three Champions of Swordsoul"
+    ],
+    "attribute": "WATER",
+    "attack": 1700,
+    "defense": 1800,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

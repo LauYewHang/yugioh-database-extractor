@@ -1,0 +1,13 @@
+{
+    "name": "Parthian Shot",
+    "filename": "Parthian_Shot",
+    "card_text": "At the end of the Battle Phase: It becomes the End Phase of this turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

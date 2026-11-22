@@ -1,0 +1,18 @@
+{
+    "name": "Mythic Water Dragon",
+    "filename": "Mythic_Water_Dragon",
+    "card_text": "If you control an EARTH monster, you can Special Summon this card (from your hand). You can only Special Summon \"Mythic Water Dragon\" once per turn this way.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

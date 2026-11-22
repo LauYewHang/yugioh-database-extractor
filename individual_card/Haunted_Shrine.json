@@ -1,0 +1,14 @@
+{
+    "name": "Haunted Shrine",
+    "filename": "Haunted_Shrine",
+    "card_text": "If you control no monsters: Target 1 Zombie monster in your GY; Special Summon it. If you control no monsters: You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon it, but its effects are negated. You can only use 1 \"Haunted Shrine\" effect per turn, and only once that turn.",
+    "release_date": "2018-11-02",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "STRUCTURE DECK: ZOMBIE HORDE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

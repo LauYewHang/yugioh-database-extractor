@@ -1,0 +1,20 @@
+{
+    "name": "Gellenduo",
+    "filename": "Gellenduo",
+    "card_text": "Cannot be destroyed by battle. If you take any damage: Destroy this face-up card. This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Fairy monster.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "DARK LEGENDS",
+        "DUEL TERMINAL 5A",
+        "STRIKE OF NEOS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Strong Wind Dragon",
+    "filename": "Strong_Wind_Dragon",
+    "card_text": "Cannot be destroyed by battle with a monster that has the same ATK. If this card is Tribute Summoned by Tributing a Dragon-Type monster: It gains ATK equal to half the original ATK of the Tributed monster. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

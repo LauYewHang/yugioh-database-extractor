@@ -1,0 +1,32 @@
+{
+    "name": "Myutant Ultimus",
+    "filename": "Myutant_Ultimus",
+    "card_text": "3 Level 8 or higher \"Myutant\" monsters\nWhen a card or effect is activated (Quick Effect): You can banish 1 \"Myutant\" card from your hand, GY, or face-up field, of the same type (Monster, Spell, or Trap); negate the activation, and if you do, banish that card. If this Fusion Summoned card you control is destroyed by an opponent's card: You can add up to 3 of your banished \"Myutant\" cards (up to 1 each of Monster, Spell, and Trap) to your hand. You can only use each effect of \"Myutant Ultimus\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Myutant Arsenal",
+        "Myutant Beast",
+        "Myutant Blast",
+        "Myutant Clash",
+        "Myutant Cry",
+        "Myutant Evolution Lab",
+        "Myutant Expansion",
+        "Myutant Fusion",
+        "Myutant GB-88",
+        "Myutant M-05",
+        "Myutant Mist",
+        "Myutant Mutant",
+        "Myutant ST-46",
+        "Myutant Synthesis"
+    ],
+    "attribute": "DARK",
+    "attack": 3500,
+    "defense": 3000,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

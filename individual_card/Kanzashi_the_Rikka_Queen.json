@@ -1,0 +1,27 @@
+{
+    "name": "Kanzashi the Rikka Queen",
+    "filename": "Kanzashi_the_Rikka_Queen",
+    "card_text": "2 Level 6 monsters\nIf a monster(s) is Tributed (except during the Damage Step): You can detach 1 material from this card, then target 1 monster in either GY; Special Summon it, but negate its effects, also it becomes a Plant monster. If a Plant monster(s) you control would be destroyed by a card effect, you can Tribute 1 Plant monster from your hand or field instead. You can only use each effect of \"Kanzashi the Rikka Queen\" once per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS"
+    ],
+    "related_card": [
+        "Hellebore the Rikka Fairy",
+        "Mudan the Rikka Fairy",
+        "Rikka Flurries",
+        "Rikka Glamour",
+        "Rikka Konkon",
+        "Rikka Petal",
+        "Rikka Princess",
+        "Rikka Queen Strenna",
+        "Rikka Tranquility"
+    ],
+    "attribute": "WATER",
+    "attack": 2400,
+    "defense": 2400,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

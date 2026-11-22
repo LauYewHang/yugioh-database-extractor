@@ -1,0 +1,32 @@
+{
+    "name": "Miasma Dragon Tistina",
+    "filename": "Miasma_Dragon_Tistina",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Tistina\" monster from your Deck to your hand, except \"Miasma Dragon Tistina\", also for the rest of this turn, LIGHT \"Tistina\" monsters you control gain 1000 ATK. If this card is sent to the GY, and a card is in the Field Zone: You can Special Summon this card, also you cannot Special Summon from the hand or GY for the rest of this turn, except \"Tistina\" monsters. You can only use each effect of \"Miasma Dragon Tistina\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Breath of the Tistina",
+        "Crystal God Tistina",
+        "Demigod of the Tistina",
+        "Discordance of the Tistina",
+        "Divine Domain Baatistina",
+        "Embrace of the Tistina",
+        "Fallen of the Tistina",
+        "Hound of the Tistina",
+        "Play of the Tistina",
+        "Returned of the Tistina",
+        "Sentinel of the Tistina",
+        "Signs of the Tistina",
+        "Tainted of the Tistina",
+        "Tistina, the Divinity that Defies Darkness"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

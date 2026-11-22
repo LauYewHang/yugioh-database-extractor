@@ -1,0 +1,34 @@
+{
+    "name": "Wattgiraffe",
+    "filename": "Wattgiraffe",
+    "card_text": "This card can attack directly. If this card inflicts battle damage to your opponent by a direct attack: Your opponent cannot activate cards or effects until the end of this turn.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "OTS TOURNAMENT PACK 23",
+        "DUEL OVERLOAD",
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Wattcancel",
+        "Wattcastle",
+        "Wattchimera",
+        "Wattcobra",
+        "Wattdragonfly",
+        "Watthopper",
+        "Watthydra",
+        "Wattkeeper",
+        "Wattkey",
+        "Wattkingdom",
+        "Wattkiwi",
+        "Wattkyuki",
+        "Wattrain",
+        "Wattuna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 100,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

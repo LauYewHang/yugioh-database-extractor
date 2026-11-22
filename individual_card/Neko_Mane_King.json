@@ -1,0 +1,20 @@
+{
+    "name": "Neko Mane King",
+    "filename": "Neko_Mane_King",
+    "card_text": "During your opponent's turn, when this card in your possession is sent to your GY by an opponent's card effect: It becomes the End Phase of this turn.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "OTS TOURNAMENT PACK 20",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

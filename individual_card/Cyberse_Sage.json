@@ -1,0 +1,25 @@
+{
+    "name": "Cyberse Sage",
+    "filename": "Cyberse_Sage",
+    "card_text": "You can Ritual Summon this card with \"Cynet Ritual\". During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing materials mentioned on it from your field or GY, including a Cyberse monster. If this card is sent to the GY as Synchro Material: You can target 1 Cyberse monster or 1 Ritual Spell in your GY; add it to your hand. You can only use each effect of \"Cyberse Sage\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Cynet Ritual",
+        "Prima Light"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

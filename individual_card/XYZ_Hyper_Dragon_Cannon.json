@@ -1,0 +1,21 @@
+{
+    "name": "XYZ-Hyper Dragon Cannon",
+    "filename": "XYZ_Hyper_Dragon_Cannon",
+    "card_text": "\"X-Cross Cannon\" + \"Y-Yare Head\" + \"Z-Zillion Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards from your field and/or GY. Once per opponent's turn (Quick Effect): You can discard 1 card, then target 1 card your opponent controls; destroy it. You can banish this card from your field or GY and reveal 1 Level 8 LIGHT Machine Fusion Monster in your Extra Deck; Special Summon up to 3 of the Fusion Materials mentioned on it from your GY and/or banishment.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "X-Cross Cannon",
+        "Y-Yare Head",
+        "Z-Zillion Tank"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

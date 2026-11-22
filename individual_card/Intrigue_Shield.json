@@ -1,0 +1,13 @@
+{
+    "name": "Intrigue Shield",
+    "filename": "Intrigue_Shield",
+    "card_text": "Target 1 face-up monster you control; equip this card to that target. Once per turn, while the equipped monster is in Attack Position, it cannot be destroyed by battle. You take no battle damage from attacks involving it.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Kewl Tune Clip",
+    "filename": "Kewl_Tune_Clip",
+    "card_text": "If this card on the field would be used as Synchro Material, 1 Tuner in your hand can be used as 1 of the other materials. You can only use each of the following effects of \"Kewl Tune Clip\" once per turn. During your opponent's Main Phase, if this card is in your hand (Quick Effect): You can Special Summon this card, then immediately after this effect resolves, you can Synchro Summon 1 Tuner Synchro Monster. If this card is sent to the GY as Synchro Material: You can banish (face-up) 1 random face-down card from your opponent's Extra Deck.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "JJ \"Kewl Tune\"",
+        "Kewl Tune Crackle",
+        "Kewl Tune Loudness War",
+        "Kewl Tune Mix",
+        "Kewl Tune Playlist",
+        "Kewl Tune Reco",
+        "Kewl Tune Rotary",
+        "Kewl Tune Synchro",
+        "Kewl Tune Track Maker"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

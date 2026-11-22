@@ -1,0 +1,18 @@
+{
+    "name": "Heliosphere Dragon",
+    "filename": "Heliosphere_Dragon",
+    "card_text": "While your opponent has 4 or less cards in their hand and this card is the only monster you control, your opponent cannot declare an attack. Once per turn, if you control a Level 8 Dragon-Type monster: You can make this card become Level 8 until the end of this turn.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 1900,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

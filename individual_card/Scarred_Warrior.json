@@ -1,0 +1,31 @@
+{
+    "name": "Scarred Warrior",
+    "filename": "Scarred_Warrior",
+    "card_text": "1 Tuner + 1 or more non-Tuner monsters\nYour opponent cannot target face-up Warrior-Type monsters for attacks, except this one. Once per turn, if this card would be destroyed by battle, it is not destroyed.",
+    "release_date": "2012-03-20",
+    "available_set": [
+        "PREMIUM COLLECTION TIN"
+    ],
+    "related_card": [
+        "Final Cross",
+        "Full-Speed Warrior",
+        "Junk Armor",
+        "Junk Mail",
+        "Junk Meister",
+        "Rush Warrior",
+        "Satellite Synchron",
+        "Satellite Warrior",
+        "Scrap Synchron",
+        "Scrap Warrior",
+        "Stardust Trail",
+        "Stardust Warrior",
+        "Synchro Chase"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

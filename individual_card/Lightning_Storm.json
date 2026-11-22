@@ -1,0 +1,19 @@
+{
+    "name": "Lightning Storm",
+    "filename": "Lightning_Storm",
+    "card_text": "If you control no face-up cards: Activate 1 of these effects;\n\u25cfDestroy all Attack Position monsters your opponent controls.\n\u25cfDestroy all Spells and Traps your opponent controls.\nYou can only activate 1 \"Lightning Storm\" per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "MAZE OF MUERTOS",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "LEGENDARY MODERN DECKS 2026",
+        "KING'S COURT",
+        "MAGNIFICENT MAVENS",
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "IGNITION ASSAULT",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

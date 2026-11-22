@@ -1,0 +1,22 @@
+{
+    "name": "Kaminari Attack",
+    "filename": "Kaminari_Attack",
+    "card_text": "\"Ocubeam\" + \"Mega Thunderball\"",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "OTS TOURNAMENT PACK 12"
+    ],
+    "related_card": [
+        "Mega Thunderball",
+        "Ocubeam"
+    ],
+    "attribute": "WIND",
+    "attack": 1900,
+    "defense": 1400,
+    "monster_type": "Thunder",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

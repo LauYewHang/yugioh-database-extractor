@@ -1,0 +1,30 @@
+{
+    "name": "Zoodiac Barrage",
+    "filename": "Zoodiac_Barrage",
+    "card_text": "You can target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Zoodiac\" monster from your Deck. You can only use this effect of \"Zoodiac Barrage\" once per turn. If this card is destroyed by a card effect and sent to the GY: You can target 1 \"Zoodiac\" Xyz Monster you control; attach this card from your GY to that Xyz Monster as Xyz Material.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Zodiac Sign",
+        "Zoodiac Boarbow",
+        "Zoodiac Broadbull",
+        "Zoodiac Bunnyblast",
+        "Zoodiac Chakanine",
+        "Zoodiac Combo",
+        "Zoodiac Drident",
+        "Zoodiac Gathering",
+        "Zoodiac Hammerkong",
+        "Zoodiac Kataroost",
+        "Zoodiac Ramram",
+        "Zoodiac Ratpier",
+        "Zoodiac Thoroughblade",
+        "Zoodiac Tigermortar",
+        "Zoodiac Whiptail"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

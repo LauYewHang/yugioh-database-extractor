@@ -1,0 +1,21 @@
+{
+    "name": "Bickuribox",
+    "filename": "Bickuribox",
+    "card_text": "\"Crass Clown\" + \"Dream Clown\"",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Crass Clown",
+        "Dream Clown"
+    ],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Fusion",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Newbee!",
+    "filename": "Newbee_",
+    "card_text": "If you have a monster with 0 ATK/DEF in your GY, you can Special Summon this card (from your hand). You can only Special Summon \"Newbee!\" once per turn this way. If this card is Special Summoned from the hand: You can apply these effects in sequence.\n\u25cfAdd 1 LIGHT Insect monster from your GY to your hand, except \"Newbee!\".\n\u25cfPlace 1 of your Traps that is banished or in your GY on either the top or bottom of the Deck.\nYou can only use this effect of \"Newbee!\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

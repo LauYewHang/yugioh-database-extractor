@@ -1,0 +1,17 @@
+{
+    "name": "Glacial Beast Blizzard Wolf",
+    "filename": "Glacial_Beast_Blizzard_Wolf",
+    "card_text": "When a monster declares an attack: You can negate the attack, and if you do, Special Summon 1 Level 4 or lower WATER monster from your hand, except \"Glacial Beast Blizzard Wolf\". At the start of your opponent's Battle Phase, if this card is in your GY and you control no monsters: You can Special Summon this card in Attack Position, but banish it when it leaves the field. You can only use each effect of \"Glacial Beast Blizzard Wolf\" once per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 700,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

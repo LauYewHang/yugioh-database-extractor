@@ -1,0 +1,12 @@
+{
+    "name": "United Front",
+    "filename": "United_Front",
+    "card_text": "When a Trap Card is activated while you control 2 or more face-up monsters with the same Level: Negate the activation and destroy it.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

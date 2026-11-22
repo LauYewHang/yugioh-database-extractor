@@ -1,0 +1,31 @@
+{
+    "name": "Geargiano",
+    "filename": "Geargiano",
+    "card_text": "You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "DUELIST LEAGUE 16",
+        "GEARGIA RAMPAGE STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Gear Gigant X",
+        "Geargia Change",
+        "Geargiaccelerator",
+        "Geargiagear",
+        "Geargiagear Gigant XG",
+        "Geargianchor",
+        "Geargiano Mk-II",
+        "Geargiano Mk-III",
+        "Geargiarmor",
+        "Geargiarsenal",
+        "Geargiattacker"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

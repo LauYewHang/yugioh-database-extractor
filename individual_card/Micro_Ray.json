@@ -1,0 +1,14 @@
+{
+    "name": "Micro Ray",
+    "filename": "Micro_Ray",
+    "card_text": "Target 1 face-up monster on the field; that target's DEF becomes 0 until the end of this turn.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "STRUCTURE DECK MACHINE RE-VOLT",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

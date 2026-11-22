@@ -1,0 +1,19 @@
+{
+    "name": "Shining Abyss",
+    "filename": "Shining_Abyss",
+    "card_text": "This monster employs the powers of both Light and Darkness.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Gizmek Uka, the Festive Fox of Fecundity",
+    "filename": "Gizmek_Uka__the_Festive_Fox_of_Fecundity",
+    "card_text": "Each time your opponent Normal or Special Summons a monster(s): Inflict 300 damage to them. You can only use each of the following effects of \"Gizmek Uka, the Festive Fox of Fecundity\" once per turn.\n\u25cfIf a monster(s) is Special Summoned from the Main Deck (except during the Damage Step): You can Special Summon this card from your hand.\n\u25cfIf this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; Special Summon 1 monster from your hand or Deck whose ATK equals its own DEF, with a same Attribute as that monster.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2250,
+    "defense": 2250,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

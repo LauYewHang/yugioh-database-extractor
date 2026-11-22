@@ -1,0 +1,32 @@
+{
+    "name": "Horus the Black Flame Deity",
+    "filename": "Horus_the_Black_Flame_Deity",
+    "card_text": "If you control a \"Horus\" monster and \"King's Sarcophagus\": You can reveal this card in your hand, then send 1 card from your hand or field to the GY; send 1 card on the field to the GY. If a face-up \"Horus\" monster(s) you control, except \"Horus the Black Flame Deity\", or a face-up \"King's Sarcophagus\" you control, leaves the field by an opponent's card effect (except during the Damage Step): You can Special Summon this card from your hand, then you can send all other monsters on the field to the GY. You can only use each effect of \"Horus the Black Flame Deity\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Canopic Protector",
+        "Dark Horus",
+        "Duamutef, Blessing of Horus",
+        "Hapi, Guidance of Horus",
+        "Horus the Black Flame Dragon LV4",
+        "Horus the Black Flame Dragon LV6",
+        "Horus the Black Flame Dragon LV8",
+        "Horus' Servant",
+        "Imsety, Glory of Horus",
+        "King's Sarcophagus",
+        "Metaphys Horus",
+        "Qebehsenuef, Protection of Horus",
+        "Walls of the Imperial Tomb"
+    ],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

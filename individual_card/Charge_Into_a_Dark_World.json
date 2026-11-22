@@ -1,0 +1,29 @@
+{
+    "name": "Charge Into a Dark World",
+    "filename": "Charge_Into_a_Dark_World",
+    "card_text": "Target 1 Level 4 or lower Fiend monster in your GY; Special Summon it, then discard 1 Fiend monster. You can only activate 1 \"Charge Into a Dark World\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "STRUCTURE DECK: DARK WORLD",
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Ceruli, Guru of Dark World",
+        "Dark Corridor",
+        "Dark World Accession",
+        "Dark World Archives",
+        "Dark World Brainwashing",
+        "Dark World Punishment",
+        "Gateway to Dark World",
+        "Genta, Gateman of Dark World",
+        "Grapha, Dragon Lord of Dark World",
+        "Parl, Hermit of Dark World",
+        "Reign-Beaux, Overking of Dark World",
+        "Scarr, Scout of Dark World",
+        "Snoww, Unlight of Dark World",
+        "The Forces of Darkness"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

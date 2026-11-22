@@ -1,0 +1,17 @@
+{
+    "name": "Gigantic Cephalotus",
+    "filename": "Gigantic_Cephalotus",
+    "card_text": "This card gains 200 ATK each time a Plant-Type monster is sent from the field to the Graveyard.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1850,
+    "defense": 700,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

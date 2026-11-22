@@ -1,0 +1,36 @@
+{
+    "name": "Hyper Psychic Blaster/Assault Mode",
+    "filename": "Hyper_Psychic_Blaster_Assault_Mode",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". If this card battles a monster, at the end of the Damage Step, inflict damage to your opponent equal to that monster's DEF and gain Life Points equal to its ATK. When this card on the field is destroyed, you can Special Summon 1 \"Hyper Psychic Blaster\" from your Graveyard.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Assault Counter",
+        "Assault Lich",
+        "Assault Mode Activate",
+        "Assault Mode Zero",
+        "Assault Overload",
+        "Assault Reboot",
+        "Assault Revival",
+        "Assault Sentinel",
+        "Assault Slash",
+        "Assault Sonic Warrior",
+        "Assault Teleport",
+        "Crimson Blader/Assault Mode",
+        "Crimson Call",
+        "Duel Evolution - Assault Zone",
+        "Hyper Psychic Blaster",
+        "Junk Warrior/Assault Mode",
+        "Nightwinged Cleric",
+        "Psi-Reflector"
+    ],
+    "attribute": "EARTH",
+    "attack": 3500,
+    "defense": 3000,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

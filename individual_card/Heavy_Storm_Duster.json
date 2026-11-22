@@ -1,0 +1,15 @@
+{
+    "name": "Heavy Storm Duster",
+    "filename": "Heavy_Storm_Duster",
+    "card_text": "Target up to 2 Spells/Traps on the field; destroy them. You cannot conduct your Battle Phase the turn you activate this card.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "CODE OF THE DUELIST",
+        "2018 MEGA-TINS MEGA PACK",
+        "Duel Devastator"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

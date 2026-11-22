@@ -1,0 +1,19 @@
+{
+    "name": "Blazewing Butterfly",
+    "filename": "Blazewing_Butterfly",
+    "card_text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cfYou can Tribute this card, then target 1 Gemini monster in your Graveyard, except \"Blazewing Butterfly\"; Special Summon that target, and if you do, it becomes an Effect Monster, and gains its effect.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "TACTICAL EVOLUTION",
+        "WARRIORS' STRIKE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

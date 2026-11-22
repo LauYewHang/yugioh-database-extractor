@@ -1,0 +1,27 @@
+{
+    "name": "Phantom of Yubel",
+    "filename": "Phantom_of_Yubel",
+    "card_text": "1 \"Yubel\" monster + 1 Fiend monster with 0 ATK/DEF\nMust be Special Summoned (from your Extra Deck) by shuffling the above cards from your hand, field, and/or GY into the Deck/Extra Deck. Cannot be used as Fusion Material. Cannot be destroyed by battle, also you take no damage from battles involving this card. When your opponent activates a monster effect (Quick Effect): You can Tribute this card; the activated effect becomes \"Your opponent destroys 1 \"Yubel\" monster in their hand, Deck, or field\". You can only use this effect of \"Phantom of Yubel\" once per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "OTS TOURNAMENT PACK 26",
+        "MAGNIFICENT MONSTERS",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Eternal Favorite",
+        "Geistgrinder Golem",
+        "Mature Chronicle",
+        "Nightmare Pain",
+        "Samsara D Lotus",
+        "Yubel",
+        "Yubel - The Loving Defender Forever"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

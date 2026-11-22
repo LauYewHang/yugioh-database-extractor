@@ -1,0 +1,30 @@
+{
+    "name": "Exosister Betrayal",
+    "filename": "Exosister_Betrayal",
+    "card_text": "When this card is activated: Add 2 \"Exosister\" monsters from your Deck to your hand, then discard 1 card. You can target 1 face-up monster you control; immediately after this effect resolves, Normal Summon 1 \"Exosister\" monster mentioned on that monster. If a monster(s) is sent to your opponent's GY, even during the Damage Step: You can activate this effect; your opponent banishes 1 of them. You can only use each effect of \"Exosister Betrayal\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Exosister Arment",
+        "Exosister Asophiel",
+        "Exosister Carpedivem",
+        "Exosister Elis",
+        "Exosister Gibrine",
+        "Exosister Irene",
+        "Exosister Karmael",
+        "Exosister Kaspitell",
+        "Exosister Martha",
+        "Exosister Mikailis",
+        "Exosister Pax",
+        "Exosister Returnia",
+        "Exosister Sophia",
+        "Exosister Stella",
+        "Exosister Vadis",
+        "Exosisters Magnifica"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

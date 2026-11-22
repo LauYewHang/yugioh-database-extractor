@@ -1,0 +1,24 @@
+{
+    "name": "Saffira, Dragon Queen of the Voiceless Voice",
+    "filename": "Saffira__Dragon_Queen_of_the_Voiceless_Voice",
+    "card_text": "You can discard this card; send 1 Ritual Spell from your Deck to the GY, then you can add 1 LIGHT Ritual Monster (Warrior or Dragon) from your Deck or GY to your hand. You can banish this card from your GY; Ritual Summon 1 LIGHT Ritual Monster (Warrior or Dragon) from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. You can only use each effect of \"Saffira, Dragon Queen of the Voiceless Voice\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Barrier of the Voiceless Voice",
+        "Blessing of the Voiceless Voice",
+        "Lo, the Prayers of the Voiceless Voice",
+        "Radiance of the Voiceless Voice",
+        "Skull Guardian, Protector of the Voiceless Voice"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2400,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

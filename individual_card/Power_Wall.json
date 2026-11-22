@@ -1,0 +1,13 @@
+{
+    "name": "Power Wall",
+    "filename": "Power_Wall",
+    "card_text": "During damage calculation, when you would take battle damage from an opponent's attacking monster: Send 1 card from the top of your Deck to the GY for every 500 damage (round up) you would take, instead.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "STRUCTURE DECK: CYBER STRIKE",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

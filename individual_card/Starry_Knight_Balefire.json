@@ -1,0 +1,22 @@
+{
+    "name": "Starry Knight Balefire",
+    "filename": "Starry_Knight_Balefire",
+    "card_text": "Add 1 \"Starry Knight\" monster, or 1 Level 7 LIGHT Dragon monster, from your Deck to your hand, then, if you control no monsters and your opponent controls a DARK monster, you can Special Summon 1 Level 7 LIGHT Dragon monster from your hand. You can only activate 1 \"Starry Knight Balefire\" per turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Starry Knight Arrival",
+        "Starry Knight Astel",
+        "Starry Knight Blast",
+        "Starry Knight Ceremony",
+        "Starry Knight Ciel",
+        "Starry Knight Flamel",
+        "Starry Knight Orbitael",
+        "Starry Knight Rayel",
+        "Starry Knight Sky"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

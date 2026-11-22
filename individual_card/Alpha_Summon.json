@@ -1,0 +1,13 @@
+{
+    "name": "Alpha Summon",
+    "filename": "Alpha_Summon",
+    "card_text": "Target 1 of your banished monsters and 1 of your opponent's banished monsters; Special Summon your monster to your opponent's field, and if you do, Special Summon that opponent's monster to your field. You can only activate 1 \"Alpha Summon\" per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

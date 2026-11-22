@@ -1,0 +1,21 @@
+{
+    "name": "Amazon of the Seas",
+    "filename": "Amazon_of_the_Seas",
+    "card_text": "A mermaid who serves as a herald to the Ocean Lord. She protects the sacred domain of Atlantis.",
+    "release_date": "2008-01-08",
+    "available_set": [
+        "CHAMPION PACK GAME FIVE",
+        "ASTRAL PACK SIX"
+    ],
+    "related_card": [
+        "Aqua Dragon",
+        "Man-eating Black Shark"
+    ],
+    "attribute": "WATER",
+    "attack": 1300,
+    "defense": 1400,
+    "monster_type": "Fish",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

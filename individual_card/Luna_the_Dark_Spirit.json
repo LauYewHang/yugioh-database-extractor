@@ -1,0 +1,17 @@
+{
+    "name": "Luna the Dark Spirit",
+    "filename": "Luna_the_Dark_Spirit",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

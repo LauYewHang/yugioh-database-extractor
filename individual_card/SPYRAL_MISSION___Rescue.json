@@ -1,0 +1,29 @@
+{
+    "name": "SPYRAL MISSION - Rescue",
+    "filename": "SPYRAL_MISSION___Rescue",
+    "card_text": "Destroy this card during your 3rd End Phase after activation. Once per turn: You can target 1 \"SPYRAL\" monster in your GY; add it to your hand. You can banish this card from your GY, then target 1 \"SPYRAL\" monster in your GY; Special Summon it. You can only control 1 \"SPYRAL MISSION - Rescue\".",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "OTS TOURNAMENT PACK 13",
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "SPYRAL Double Agent",
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Floowandereeze & Empen",
+    "filename": "Floowandereeze___Empen",
+    "card_text": "If this card is Tribute Summoned: You can add 1 \"Floowandereeze\" Spell/Trap from your Deck to your hand, then immediately after this effect resolves, you can Normal Summon 1 monster. While this Tribute Summoned card is in the Monster Zone, your opponent cannot activate the effects of Special Summoned monsters they control in Attack Position. Once per battle, during damage calculation, if this card battles an opponent's monster (Quick Effect): You can banish 1 card from your hand; that opponent's monster's current ATK/DEF become halved until the end of this turn.",
+    "release_date": "2021-10-30",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY Core Booster Premiere!",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Floowandereeze & Eglen",
+        "Floowandereeze & Robina",
+        "Floowandereeze & Snowl",
+        "Floowandereeze & Stri",
+        "Floowandereeze & Toccan",
+        "Floowandereeze and the Advent of Adventure",
+        "Floowandereeze and the Dreaming Town",
+        "Floowandereeze and the Magnificent Map",
+        "Floowandereeze and the Scary Sea",
+        "Floowandereeze and the Unexplored Winds"
+    ],
+    "attribute": "WIND",
+    "attack": 2700,
+    "defense": 1000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

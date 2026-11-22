@@ -1,0 +1,17 @@
+{
+    "name": "Goyo King",
+    "filename": "Goyo_King",
+    "card_text": "1 Tuner + 1 or more non-Tuner Synchro Monsters\nWhen this card declares an attack on an opponent's monster: This card gains 400 ATK for each EARTH Warrior-Type Synchro Monster you control, until the end of the Damage Step. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can activate 1 of these effects;\n\u25cfSpecial Summon that monster to your side of the field.\n\u25cfTake control of 1 face-up monster your opponent controls.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

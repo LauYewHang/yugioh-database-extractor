@@ -1,0 +1,37 @@
+{
+    "name": "Geira Guile the Cubic King",
+    "filename": "Geira_Guile_the_Cubic_King",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 \"Cubic\" monster you control to the Graveyard. If Summoned this way, this card gains 800 ATK. If this card is Special Summoned from the hand: Inflict 800 damage to your opponent. At the end of the Damage Step, if this card battled: You can target up to 2 \"Vijam the Cubic Seed\" in your Graveyard; send this card to the Graveyard, and if you do, Special Summon them, then you can add 1 \"Vulcan Dragni the Cubic King\" from your Deck to your hand.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Blade Garoodia the Cubic Beast",
+        "Buster Gundil the Cubic Behemoth",
+        "Crimson Nova the Dark Cubic Lord",
+        "Crimson Nova Trinity the Dark Cubic Lord",
+        "Cubic Ascension",
+        "Cubic Causality",
+        "Cubic Dharma",
+        "Cubic Karma",
+        "Cubic Mandala",
+        "Cubic Rebirth",
+        "Cubic Wave",
+        "Dark Garnex the Cubic Beast",
+        "Duza the Meteor Cubic Vessel",
+        "Indiora Doom Volt the Cubic Emperor",
+        "Unification of the Cubic Lords",
+        "Vijam the Cubic Seed",
+        "Vulcan Dragni the Cubic King"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

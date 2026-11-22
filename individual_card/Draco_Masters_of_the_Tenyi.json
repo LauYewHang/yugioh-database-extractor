@@ -1,0 +1,25 @@
+{
+    "name": "Draco Masters of the Tenyi",
+    "filename": "Draco_Masters_of_the_Tenyi",
+    "card_text": "2+ monsters, including a Link Monster\nCannot be destroyed by battle with an Effect Monster. If you control no other Effect Monsters: You can destroy Effect Monsters your opponent controls, up to the number of non-Effect Monsters you control and/or in your GY. You can only use this effect of \"Draco Masters of the Tenyi\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Heavenly Dragon Circle",
+        "Monk of the Tenyi",
+        "Shaman of the Tenyi",
+        "Tenyi Spirit - Ashuna",
+        "Tenyi Spirit - Suruya",
+        "Vessel for the Dragon Cycle"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2600,
+    "defense": null,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

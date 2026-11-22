@@ -1,0 +1,19 @@
+{
+    "name": "Rage with Eyes of Blue",
+    "filename": "Rage_with_Eyes_of_Blue",
+    "card_text": "Banish this card, and as many cards as possible from your hand, field, and GY, face-down, and if you do, Special Summon up to 3 copies of \"Blue-Eyes White Dragon\" from your Deck. You cannot Normal or Special Summon monsters the turn you activate this card, except \"Blue-Eyes White Dragon\".",
+    "release_date": "2018-09-28",
+    "available_set": [
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
+        "LEGENDARY DUELISTS: SEASON 2"
+    ],
+    "related_card": [
+        "Bingo Machine, Go!!!",
+        "Blue-Eyes Alternative White Dragon",
+        "Blue-Eyes White Dragon",
+        "Chronicle Sorceress",
+        "Dictator of D."
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

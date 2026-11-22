@@ -1,0 +1,41 @@
+{
+    "name": "Ritual Beast Ulti-Kimunfalcos",
+    "filename": "Ritual_Beast_Ulti_Kimunfalcos",
+    "card_text": "2 \"Ritual Beast\" monsters\n\"Ritual Beast\" monsters this card points to gain 600 ATK/DEF. You can banish 1 \"Ritual Beast\" card from your GY; immediately after this effect resolves, Normal Summon 1 \"Ritual Beast\" monster from your hand. You can only use this effect of \"Ritual Beast Ulti-Kimunfalcos\" once per turn. (Quick Effect): You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 \"Ritual Beast Tamer\" monster and 1 \"Spiritual Beast\" monster); Special Summon them in Defense Position.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "EXTREME FORCE"
+    ],
+    "related_card": [
+        "Ritual Beast Ambush",
+        "Ritual Beast Inheritance",
+        "Ritual Beast Return",
+        "Ritual Beast Steeds",
+        "Ritual Beast Tamer Elder",
+        "Ritual Beast Tamer Lara",
+        "Ritual Beast Tamer Wen",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Ritual Beast Ulti-Apelio",
+        "Ritual Beast Ulti-Cannahawk",
+        "Ritual Beast Ulti-Gaiapelio",
+        "Ritual Beast Ulti-Nochiudrago",
+        "Ritual Beast Ulti-Pettlephin",
+        "Ritual Beast Ulti-Reirautari",
+        "Ritual Beast's Bond",
+        "Spiritual Beast Apelio",
+        "Spiritual Beast Cannahawk",
+        "Spiritual Beast Pettlephin",
+        "Spiritual Beast Rampengu",
+        "Spiritual Beast Tamer Lara",
+        "Spiritual Beast Tamer Winda"
+    ],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

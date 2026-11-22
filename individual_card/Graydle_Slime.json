@@ -1,0 +1,27 @@
+{
+    "name": "Graydle Slime",
+    "filename": "Graydle_Slime",
+    "card_text": "If this card is in your hand or Graveyard: You can target 2 \"Graydle\" cards you control; destroy them, and if you do, Special Summon this card. You can only use this effect of \"Graydle Slime\" once per turn. When Summoned this way: You can target 1 \"Graydle\" monster in your Graveyard; Special Summon that target in Defense Position.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Graydle Alligator",
+        "Graydle Cobra",
+        "Graydle Combat",
+        "Graydle Dragon",
+        "Graydle Eagle",
+        "Graydle Impact",
+        "Graydle Parasite",
+        "Graydle Slime Jr.",
+        "Graydle Split"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Cyber End Dragon, the Final Strike Dragon",
+    "filename": "Cyber_End_Dragon__the_Final_Strike_Dragon",
+    "card_text": "3 Machine monsters with 2100 or more ATK\nMust be Fusion Summoned. If this card is Fusion Summoned using only LIGHT monsters: You can pay 4000 LP; add 1 \"Limiter Removal\" from your Deck to your hand. You can only use this effect of \"Cyber End Dragon, the Final Strike Dragon\" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. While its ATK is higher than its original ATK, this card can make up to 3 attacks during each Battle Phase.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Limiter Removal",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 4000,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

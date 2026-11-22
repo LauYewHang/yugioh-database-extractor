@@ -1,0 +1,32 @@
+{
+    "name": "Serpent Suppression",
+    "filename": "Serpent_Suppression",
+    "card_text": "Face-up Attack Position monsters with 0 ATK your opponent controls cannot be destroyed by battle with \"Reptilianne\" monsters.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Echidna",
+        "Reptilianne Gardna",
+        "Reptilianne Gorgon",
+        "Reptilianne Hydra",
+        "Reptilianne Lamia",
+        "Reptilianne Medusa",
+        "Reptilianne Melusine",
+        "Reptilianne Naga",
+        "Reptilianne Nyami",
+        "Reptilianne Poison",
+        "Reptilianne Rage",
+        "Reptilianne Ramifications",
+        "Reptilianne Recoil",
+        "Reptilianne Scylla",
+        "Reptilianne Servant",
+        "Reptilianne Spawn",
+        "Reptilianne Vaskii",
+        "Reptilianne Viper"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

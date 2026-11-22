@@ -1,0 +1,15 @@
+{
+    "name": "Psychic Reactor",
+    "filename": "Psychic_Reactor",
+    "card_text": "If you control a Psychic-Type monster: Apply this effect to all Psychic-Type monsters you currently control, for the rest of this turn. When a Psychic-Type monster you control battles an opponent's monster, after damage calculation: Banish that Psychic-Type monster, also banish that opponent's monster.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Dark Flattop"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

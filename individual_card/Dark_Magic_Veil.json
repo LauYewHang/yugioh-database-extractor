@@ -1,0 +1,14 @@
+{
+    "name": "Dark Magic Veil",
+    "filename": "Dark_Magic_Veil",
+    "card_text": "Pay 1000 LP; Special Summon 1 DARK Spellcaster-Type monster from your hand or Graveyard.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

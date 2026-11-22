@@ -1,0 +1,41 @@
+{
+    "name": "Madolche Promenade",
+    "filename": "Madolche_Promenade",
+    "card_text": "Target 1 face-up card your opponent controls and 1 \"Madolche\" monster you control or in your GY; negate the effects of that opponent's card until the end of this turn, and if you do, return your monster to the hand. You can banish this card from your GY, then target 1 \"Madolche\" Xyz Monster you control; attach 1 \"Madolche\" monster from your hand, Deck, or GY, to it as material. You can only use 1 \"Madolche Promenade\" effect per turn, and only once that turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Madolche Anjelly",
+        "Madolche Baaple",
+        "Madolche Butlerusk",
+        "Madolche Chateau",
+        "Madolche Chickolates",
+        "Madolche Chouxvalier",
+        "Madolche Cruffssant",
+        "Madolche Dessert",
+        "Madolche Fresh Sistart",
+        "Madolche Hootcake",
+        "Madolche Lesson",
+        "Madolche Magileine",
+        "Madolche Marmalmaide",
+        "Madolche Messengelato",
+        "Madolche Mewfeuille",
+        "Madolche Mini Meowcaroons",
+        "Madolche Nights",
+        "Madolche Petingcessoeur",
+        "Madolche Puddingcess",
+        "Madolche Puddingcess Chocolat-a-la-Mode",
+        "Madolche Queen Tiarafraise",
+        "Madolche Queen Tiaramisu",
+        "Madolche Salon",
+        "Madolche Tea Break",
+        "Madolche Teacher Glassouffle",
+        "Madolche Ticket",
+        "Madolche Waltz",
+        "Madolchepalooza"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

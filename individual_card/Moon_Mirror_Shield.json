@@ -1,0 +1,15 @@
+{
+    "name": "Moon Mirror Shield",
+    "filename": "Moon_Mirror_Shield",
+    "card_text": "If the equipped monster battles your opponent's monster, during damage calculation: The equipped monster's ATK/DEF become equal to the ATK or DEF (whichever is higher) of the opponent's battling monster +100, during damage calculation only. If this face-up card is sent from the field to the GY: Pay 500 LP; place this card on either the top or bottom of your Deck.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "OTS Tournament Pack 29",
+        "STRUCTURE DECK : CYBERSE LINK",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

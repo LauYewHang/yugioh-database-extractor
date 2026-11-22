@@ -1,0 +1,13 @@
+{
+    "name": "Paralyzing Potion",
+    "filename": "Paralyzing_Potion",
+    "card_text": "A non Machine-Type monster equipped with this card cannot attack.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

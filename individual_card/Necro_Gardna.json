@@ -1,0 +1,26 @@
+{
+    "name": "Necro Gardna",
+    "filename": "Necro_Gardna",
+    "card_text": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "RA YELLOW MEGA PACK",
+        "TACTICAL EVOLUTION",
+        "REALM OF LIGHT STRUCTURE DECK",
+        "PREMIUM GOLD",
+        "GOLD SERIES 2009",
+        "THE SECRET FORCES",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DUEL TERMINAL 5A",
+        "CHAMPION PACK GAME EIGHT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 1300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

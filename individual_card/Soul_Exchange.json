@@ -1,0 +1,30 @@
+{
+    "name": "Soul Exchange",
+    "filename": "Soul_Exchange",
+    "card_text": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "STARTER DECK YUGI",
+        "CHAMPION PACK GAME FOUR",
+        "Speed Duel: Battle City Box",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "BATTLE PACK EPIC DAWN",
+        "DUEL TERMINAL 1",
+        "ASTRAL PACK FIVE",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "TOURNAMENT PACK 7",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "STARTER DECK KAIBA Evolution",
+        "STARTER DECK KAIBA RELOADED",
+        "DUEL TERMINAL - PREVIEW WAVE 1",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

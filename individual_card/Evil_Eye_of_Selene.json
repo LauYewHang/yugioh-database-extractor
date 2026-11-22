@@ -1,0 +1,31 @@
+{
+    "name": "Evil Eye of Selene",
+    "filename": "Evil_Eye_of_Selene",
+    "card_text": "Equip only to an \"Evil Eye\" monster. It cannot be destroyed by battle or your opponent's card effects, also your opponent cannot target it with card effects. Each time you activate the equipped monster's effect, or you activate another \"Evil Eye\" Spell/Trap Card: The equipped monster gains 500 ATK, and if it does, you lose 500 LP. (This ATK gain remains even if this card leaves the field.) If this card is in your GY: You can pay 1000 LP, then banish 1 \"Evil Eye\" Spell/Trap from your GY, except \"Evil Eye of Selene\"; Set this card. You can only use this effect of \"Evil Eye of Selene\" once per turn.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Basilius, Familiar of the Evil Eye",
+        "Basiltrice, Familiar of the Evil Eye",
+        "Catoblepas, Familiar of the Evil Eye",
+        "Evil Eye Awakening",
+        "Evil Eye Confrontation",
+        "Evil Eye Defeat",
+        "Evil Eye Domain - Pareidolia",
+        "Evil Eye Mesmerism",
+        "Evil Eye of Gorgoneio",
+        "Evil Eye Reemergence",
+        "Evil Eye Repose",
+        "Evil Eye Retribution",
+        "Evil Eyes Unleashed",
+        "Gorgon, Empress of the Evil Eyed",
+        "Medusa, Watcher of the Evil Eye",
+        "Serziel, Watcher of the Evil Eye",
+        "Zerrziel, Ruler of the Evil Eyed"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

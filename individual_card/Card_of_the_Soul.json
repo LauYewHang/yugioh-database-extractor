@@ -1,0 +1,13 @@
+{
+    "name": "Card of the Soul",
+    "filename": "Card_of_the_Soul",
+    "card_text": "Look at your Deck, and if you do, you can add 1 monster from your Deck to your hand, whose sum of ATK and DEF equals your LP. You can only activate 1 \"Card of the Soul\" per turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

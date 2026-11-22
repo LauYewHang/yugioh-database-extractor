@@ -1,0 +1,32 @@
+{
+    "name": "Dragonmaid Welcome",
+    "filename": "Dragonmaid_Welcome",
+    "card_text": "All monsters you control gain 100 ATK/DEF for each \"Dragonmaid\" monster you control. If you control 2 or more \"Dragonmaid\" monsters: You can target 1 \"Dragonmaid\" card in your GY, except \"Dragonmaid Welcome\"; add it to your hand. You can only use this effect of \"Dragonmaid Welcome\" once per turn. If this card is sent to the GY: Your opponent cannot target \"Dragonmaid\" monsters you control with card effects this turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Chamber Dragonmaid",
+        "Dragonmaid Cehrmba",
+        "Dragonmaid Changeover",
+        "Dragonmaid Downtime",
+        "Dragonmaid Ernus",
+        "Dragonmaid Hospitality",
+        "Dragonmaid Lorpar",
+        "Dragonmaid Nudyarl",
+        "Dragonmaid Send-Off",
+        "Dragonmaid Sheou",
+        "Dragonmaid Tidying",
+        "Dragonmaid Tinkhec",
+        "House Dragonmaid",
+        "Kitchen Dragonmaid",
+        "Lady's Dragonmaid",
+        "Laundry Dragonmaid",
+        "Nurse Dragonmaid",
+        "Parlor Dragonmaid"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

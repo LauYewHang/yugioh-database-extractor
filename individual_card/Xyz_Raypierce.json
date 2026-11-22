@@ -1,0 +1,26 @@
+{
+    "name": "Xyz-Raypierce",
+    "filename": "Xyz_Raypierce",
+    "card_text": "You can banish 1 Dragon-Type monster and 1 Wyrm-Type monster from your Graveyard; Special Summon 1 \"Xyz-Raypierce\" from your hand or Deck. If this card is sent from the field to the Graveyard: You can inflict 500 damage to your opponent. You can only use each effect of \"Xyz-Raypierce\" once per turn.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

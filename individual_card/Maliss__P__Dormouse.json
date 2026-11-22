@@ -1,0 +1,30 @@
+{
+    "name": "Maliss <P> Dormouse",
+    "filename": "Maliss__P__Dormouse",
+    "card_text": "\"Maliss\" Link Monsters that point to this card cannot be destroyed by card effects. You can only use each of the following effects of \"Maliss <P> Dormouse\" once per turn. During your Main Phase: You can activate this effect; banish 1 \"Maliss\" monster from your Deck, also for the rest of this turn, \"Maliss\" monsters you control gain 600 ATK. If this card is banished: You can pay 300 LP; Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Maliss <C> GWC-06",
+        "Maliss <C> MTP-07",
+        "Maliss <C> TB-11",
+        "Maliss <P> Chessy Cat",
+        "Maliss <P> March Hare",
+        "Maliss <P> White Rabbit",
+        "Maliss <Q> Hearts Crypter",
+        "Maliss <Q> Red Ransom",
+        "Maliss <Q> White Binder",
+        "Maliss in the Mirror",
+        "Maliss in Underground"
+    ],
+    "attribute": "DARK",
+    "attack": 900,
+    "defense": 300,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

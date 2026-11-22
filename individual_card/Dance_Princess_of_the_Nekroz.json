@@ -1,0 +1,42 @@
+{
+    "name": "Dance Princess of the Nekroz",
+    "filename": "Dance_Princess_of_the_Nekroz",
+    "card_text": "Your opponent cannot activate cards or effects in response to the activation of a \"Nekroz\" Ritual Spell Card. \"Nekroz\" Ritual Monsters you control cannot be targeted by an opponent's card effects. If this card is Tributed by a card effect: You can target 1 of your banished \"Necroz\" monsters, except \"Dance Princess of the Nekroz\"; add it to your hand. You can only use this effect of \"Dance Princess of the Nekroz\" once per turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Divinemirror",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Brionac",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "attribute": "WATER",
+    "attack": 1600,
+    "defense": 800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

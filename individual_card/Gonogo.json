@@ -1,0 +1,18 @@
+{
+    "name": "Gonogo",
+    "filename": "Gonogo",
+    "card_text": "At the end of the Damage Step, if this card battled an opponent's monster: Change that monster to face-down Defense Position.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1350,
+    "defense": 1600,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

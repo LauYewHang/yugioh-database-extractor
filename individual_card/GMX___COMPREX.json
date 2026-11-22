@@ -1,0 +1,31 @@
+{
+    "name": "GMX - COMPREX",
+    "filename": "GMX___COMPREX",
+    "card_text": "1 \"GMX\" monster + 2+ Dinosaur monsters\nGains these effects based on the number of Dinosaur monsters used as Fusion Material for this card.\n\u25cf3+: Your opponent cannot target this card with card effects.\n\u25cf4+: Can make up to 3 attacks during each Battle Phase.\n\u25cf5+: Each time your opponent Normal or Special Summons a monster(s), they lose 800 LP.\nOnce per turn, if you excavate a card(s) by a \"GMX\" card effect: You can destroy all other monsters on the field.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Anti-GMX Final Experiment",
+        "Evolved Daneen",
+        "GMX - ALLOS",
+        "GMX - VELOX",
+        "GMX 55th Experiment Report",
+        "GMX Applied Experiment #55",
+        "GMX Associate Noma",
+        "GMX Chairman Kimridge",
+        "GMX Lab #5",
+        "GMX Partner Selandea",
+        "GMX Researcher Selande",
+        "GMX Suppression Squad",
+        "Returned Dino Daneen"
+    ],
+    "attribute": "DARK",
+    "attack": 3700,
+    "defense": 2300,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

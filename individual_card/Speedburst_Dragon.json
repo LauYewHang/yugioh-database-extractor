@@ -1,0 +1,35 @@
+{
+    "name": "Speedburst Dragon",
+    "filename": "Speedburst_Dragon",
+    "card_text": "When you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, then inflict damage to your opponent equal to the damage you took, and if you do, you gain LP equal to half that damage you inflicted. When this card is Tribute Summoned: You can add 2 \"Rokket\" monsters with different names from your Deck to your hand. You can only use each effect of \"Speedburst Dragon\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Anesthrokket Dragon",
+        "Autorokket Dragon",
+        "Exploderokket Dragon",
+        "Hollowrokket Dragon",
+        "Magnarokket Dragon",
+        "Metalrokket Dragon",
+        "Rokket Barrage",
+        "Rokket Caliber",
+        "Rokket Coder",
+        "Rokket Detonator",
+        "Rokket Loader",
+        "Rokket Recharger",
+        "Rokket Synchron",
+        "Rokket Tracer",
+        "Shelrokket Dragon",
+        "Silverrokket Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

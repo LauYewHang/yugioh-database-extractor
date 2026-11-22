@@ -1,0 +1,18 @@
+{
+    "name": "Otoshidamashi",
+    "filename": "Otoshidamashi",
+    "card_text": "While you control a monster that is not a Tuner, your opponent's monsters cannot target this card for attacks. If a monster(s) is sent from the field to your opponent's GY: Place 1 Otoshidamashi Counter on this card, then Special Summon \"Otoshidamashi Tokens\" (Beast/EARTH/Level 1/ATK ?/DEF ?) up to the number of Otoshidamashi Counters on this card. Each Token's Level is increased when Summoned by the number of Otoshidamashi Counters on this card, also each Token's ATK/DEF are its Level when Summoned x 500. You can only use this effect of \"Otoshidamashi\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

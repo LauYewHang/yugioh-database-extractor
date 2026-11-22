@@ -1,0 +1,33 @@
+{
+    "name": "Mimighoul Master",
+    "filename": "Mimighoul_Master",
+    "card_text": "Cannot be destroyed by battle or card effects while your opponent controls any face-down monsters or you control a \"Mimighoul\" monster other than \"Mimighoul Master\". You can only use each of the following effects of \"Mimighoul Master\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Mimighoul\" monster from your Deck to your hand, except \"Mimighoul Master\". During your opponent's Main Phase (Quick Effect): You can change 1 face-down monster on the field to face-up Attack or Defense Position.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Giant Mimighoul",
+        "Mimighoul Archfiend",
+        "Mimighoul Armor",
+        "Mimighoul Cerberus",
+        "Mimighoul Charm",
+        "Mimighoul Dragon",
+        "Mimighoul Dungeon",
+        "Mimighoul Fairy",
+        "Mimighoul Flower",
+        "Mimighoul Fork",
+        "Mimighoul Maker",
+        "Mimighoul Room",
+        "Mimighoul Slime",
+        "Mimighoul Throne"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

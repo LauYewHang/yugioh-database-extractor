@@ -1,0 +1,26 @@
+{
+    "name": "Mimighoul Fork",
+    "filename": "Mimighoul_Fork",
+    "card_text": "Target 1 face-down monster your opponent controls; your opponent chooses 1 of the following effects, and you apply that effect.\n\u25cfChange it to face-up Attack or Defense Position.\n\u25cfSend it to the GY, then its owner draws 2 cards.\nYou can banish this card from your GY; add 1 \"Mimighoul Fork\" from your Deck to your hand. You can only use each effect of \"Mimighoul Fork\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Giant Mimighoul",
+        "Mimighoul Armor",
+        "Mimighoul Charm",
+        "Mimighoul Dragon",
+        "Mimighoul Dungeon",
+        "Mimighoul Fairy",
+        "Mimighoul Flower",
+        "Mimighoul Maker",
+        "Mimighoul Master",
+        "Mimighoul Room",
+        "Mimighoul Slime",
+        "Mimighoul Throne"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

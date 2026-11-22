@@ -1,0 +1,27 @@
+{
+    "name": "Icejade Cenote Enion Cradle",
+    "filename": "Icejade_Cenote_Enion_Cradle",
+    "card_text": "When this card is activated: You can add 1 of your \"Icejade\" monsters that is banished or in your GY to your hand. Once per turn, if a monster(s) is Normal or Special Summoned (except during the Damage Step): You can target 1 WATER monster you control; that monster, along with any face-up monsters your opponent currently controls, loses ATK equal to the targeted monster's original ATK, until the end of this turn. You can only activate 1 \"Icejade Cenote Enion Cradle\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Icejade Acti",
+        "Icejade Aegirine",
+        "Icejade Cradle",
+        "Icejade Creation Aegirocassis",
+        "Icejade Creation Kingfisher",
+        "Icejade Curse",
+        "Icejade Erosion",
+        "Icejade Gymir Aegirine",
+        "Icejade Kosmochlor",
+        "Icejade Manifestation",
+        "Icejade Ran Aegirine",
+        "Icejade Tinola",
+        "Icejade Tremora"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

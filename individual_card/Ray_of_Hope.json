@@ -1,0 +1,15 @@
+{
+    "name": "Ray of Hope",
+    "filename": "Ray_of_Hope",
+    "card_text": "Add 2 LIGHT monsters from your Graveyard to your Deck and shuffle it.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

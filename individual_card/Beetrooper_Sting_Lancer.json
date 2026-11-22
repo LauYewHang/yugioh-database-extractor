@@ -1,0 +1,33 @@
+{
+    "name": "Beetrooper Sting Lancer",
+    "filename": "Beetrooper_Sting_Lancer",
+    "card_text": "During the Main Phase (Quick Effect): You can target 1 Insect monster in your GY and 1 monster in your opponent's GY; Special Summon this card from your hand, and if you do, place the targeted monsters on the bottoms of the Decks. If this card is Normal or Special Summoned: You can add 1 \"Beetrooper\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Beetrooper Sting Lancer\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Beetrooper Armor Horn",
+        "Beetrooper Assault Roller",
+        "Beetrooper Cruel Saturnas",
+        "Beetrooper Descent",
+        "Beetrooper Fly & Sting",
+        "Beetrooper Formation",
+        "Beetrooper Landing",
+        "Beetrooper Light Flapper",
+        "Beetrooper Scale Bomber",
+        "Beetrooper Scout Buggy",
+        "Beetrooper Squad",
+        "Giant Beetrooper Invincible Atlas",
+        "Heavy Beetrooper Mighty Neptune",
+        "Ultra Beetrooper Absolute Hercules"
+    ],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1800,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Mathmech Nabla",
+    "filename": "Mathmech_Nabla",
+    "card_text": "You can Tribute 1 Cyberse monster; Special Summon 1 \"Mathmech\" monster from your Deck. If this card is sent to the GY: You can target 1 Cyberse monster you control in the Extra Monster Zone; it can make up to 2 attacks on monsters during each Battle Phase this turn. You can only use each effect of \"Mathmech Nabla\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Geomathmech Final Sigma",
+        "Geomathmech Magma",
+        "Mathmech Addition",
+        "Mathmech Billionblade Nayuta",
+        "Mathmech Circular",
+        "Mathmech Diameter",
+        "Mathmech Division",
+        "Mathmech Equation",
+        "Mathmech Induction",
+        "Mathmech Multiplication",
+        "Mathmech Sigma",
+        "Mathmech Subtraction",
+        "Mathmech Superfactorial",
+        "Primathmech Alembertian",
+        "Primathmech Laplacian"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1500,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Guard Dog",
+    "filename": "Guard_Dog",
+    "card_text": "FLIP: Your opponent cannot Special Summon for the rest of this turn.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 500,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

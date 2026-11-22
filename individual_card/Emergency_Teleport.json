@@ -1,0 +1,24 @@
+{
+    "name": "Emergency Teleport",
+    "filename": "Emergency_Teleport",
+    "card_text": "Special Summon 1 Level 3 or lower Psychic monster from your hand or Deck, but banish it during the End Phase of this turn.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "OTS Tournament Pack 29",
+        "THE GRAND CREATORS",
+        "LEGENDARY MODERN DECKS 2026",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "GHOSTS FROM THE PAST",
+        "HIGH-SPEED RIDERS",
+        "THE DUELIST GENESIS",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [
+        "Axon Kicker Oracle",
+        "Mind Procedure",
+        "Serene Psychic Sorceress"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Assault Reboot",
+    "filename": "Assault_Reboot",
+    "card_text": "Tribute 1 \"/Assault Mode\" monster; Special Summon 1 \"/Assault Mode\" monster from your Deck with a different name in Defense Position, ignoring its Summoning conditions. You can banish this card from your GY, then target any number of cards in your GY, with different names, that are \"Assault Mode Activate\" and/or specifically list \"Assault Mode Activate\" in their text, except \"Assault Reboot\"; shuffle them into the Deck. You can only use each effect of \"Assault Reboot\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Arcane Apprentice",
+        "Arcanite Magician/Assault Mode",
+        "Assault Beast",
+        "Assault Lich",
+        "Assault Mercenary",
+        "Assault Mode Activate",
+        "Assault Mode Zero",
+        "Assault Revival",
+        "Assault Sentinel",
+        "Assault Sonic Warrior",
+        "Colossal Fighter/Assault Mode",
+        "Crimson Blader/Assault Mode",
+        "Doomkaiser Dragon/Assault Mode",
+        "Duel Evolution - Assault Zone",
+        "Hyper Psychic Blaster/Assault Mode",
+        "Junk Warrior/Assault Mode",
+        "Night Wing Sorceress",
+        "Nightwinged Cleric",
+        "Psi-Reflector",
+        "Red Dragon Archfiend/Assault Mode",
+        "Red Nova Dragon/Assault Mode",
+        "Stardust Dragon/Assault Mode",
+        "T.G. Halberd Cannon/Assault Mode"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

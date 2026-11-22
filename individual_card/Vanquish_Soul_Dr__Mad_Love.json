@@ -1,0 +1,35 @@
+{
+    "name": "Vanquish Soul Dr. Mad Love",
+    "filename": "Vanquish_Soul_Dr__Mad_Love",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Vanquish Soul\" Spell/Trap from your Deck to your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n\u25cfDARK: 1 face-up monster your opponent controls loses 500 ATK/DEF.\n\u25cfDARK & EARTH: Return the 1 monster with the lowest DEF on the field to the hand (your choice, if tied).\nYou can only use each effect of \"Vanquish Soul Dr. Mad Love\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Rock of the Vanquisher",
+        "Stake your Soul!",
+        "Vanquish Soul - Continue?",
+        "Vanquish Soul Caesar Valius",
+        "Vanquish Soul Calamity Caesar",
+        "Vanquish Soul Dust Devil",
+        "Vanquish Soul Heavy Borger",
+        "Vanquish Soul Hollie Sue",
+        "Vanquish Soul Jiaolong",
+        "Vanquish Soul Pantera",
+        "Vanquish Soul Pluton HG",
+        "Vanquish Soul Razen",
+        "Vanquish Soul Rocks",
+        "Vanquish Soul Snow Devil",
+        "Vanquish Soul Trinity Burst",
+        "Vanquish Soul, Start!"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

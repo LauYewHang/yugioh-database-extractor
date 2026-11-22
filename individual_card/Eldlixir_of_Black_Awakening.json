@@ -1,0 +1,25 @@
+{
+    "name": "Eldlixir of Black Awakening",
+    "filename": "Eldlixir_of_Black_Awakening",
+    "card_text": "Special Summon 1 Zombie monster from your hand or Deck in Defense Position, but if you control no \"Eldlich\" monsters, you can only Special Summon \"Eldlich\" monsters with this effect. For the rest of this turn after this card resolves, you cannot Special Summon, except Zombie monsters. You can banish this card from your GY; Set 1 \"Golden Land\" Spell/Trap from your Deck. You can only use 1 \"Eldlixir of Black Awakening\" effect per turn, and only once that turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "RARITY COLLECTION 5",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Conquistador of the Golden Land",
+        "El Dorado Adelantado",
+        "Eldlich the Golden Lord",
+        "Eldlich the Mad Golden Lord",
+        "Eldlixir of the Glorious Golden Land",
+        "Fallen Angel of the Golden Land",
+        "Golden Land Forever!",
+        "Guardian of the Golden Land",
+        "Huaquero of the Golden Land",
+        "Seven Cities of the Golden Land"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

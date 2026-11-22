@@ -1,0 +1,21 @@
+{
+    "name": "Seiyaryu",
+    "filename": "Seiyaryu",
+    "card_text": "A mystical dragon that burns away the unworthy with its mystic flames.",
+    "release_date": "2002-03-19",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "TURBO PACK BOOSTER SEVEN",
+        "GHOSTS FROM THE PAST",
+        "Yu-Gi-Oh! Dark Duel Stories Bundles",
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2006"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2300,
+    "monster_type": "Dragon",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

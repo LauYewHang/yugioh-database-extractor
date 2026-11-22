@@ -1,0 +1,34 @@
+{
+    "name": "PSY-Frame Driver",
+    "filename": "PSY_Frame_Driver",
+    "card_text": "A Psychic soldier that rides into battle against the Security Forces on currents of lightning, using an autonomic amplifier called \"PSY-Frame\".",
+    "release_date": "2015-10-02",
+    "available_set": [
+        "TOON CHAOS",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "HIGH-SPEED RIDERS",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "RARITY COLLECTION 5",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "PSY-Frame Accelerator",
+        "PSY-Frame Circuit",
+        "PSY-Frame Multi-Threader",
+        "PSY-Frame Overload",
+        "PSY-Framegear Alpha",
+        "PSY-Framegear Beta",
+        "PSY-Framegear Delta",
+        "PSY-Framegear Epsilon",
+        "PSY-Framegear Gamma",
+        "PSY-Framelord Lambda",
+        "PSY-Framelord Zeta"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 0,
+    "monster_type": "Psychic",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

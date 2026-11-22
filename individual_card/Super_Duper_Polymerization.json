@@ -1,0 +1,32 @@
+{
+    "name": "Super Duper Polymerization",
+    "filename": "Super_Duper_Polymerization",
+    "card_text": "Pay 2000 LP, then target 1 Effect Monster on the field; Special Summon 1 monster from your Extra Deck, with the same Type and Attribute but a different Level (but negate its effects), then apply 1 of these effects. Neither player can activate cards or effects in response to this card's activation.\n\u25cfFusion Summon 1 Fusion Monster from your Extra Deck, using the Special Summoned monster and the targeted monster.\n\u25cfSend the Special Summoned monster to the GY.\nYou can only activate 1 \"Super Duper Polymerization\" per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

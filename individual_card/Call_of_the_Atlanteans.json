@@ -1,0 +1,22 @@
+{
+    "name": "Call of the Atlanteans",
+    "filename": "Call_of_the_Atlanteans",
+    "card_text": "Target 3 Level 3 or lower Sea Serpent-Type monsters in your Graveyard; Special Summon all 3 of them. You cannot Special Summon any other monsters during the turn you activate this card.",
+    "release_date": "2012-10-16",
+    "available_set": [
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "Abyss-sting Triaina",
+        "Abyssrhine, the Atlantean Spirit",
+        "Atlantean Marksman",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad",
+        "Neptabyss, the Atlantean Prince",
+        "Poseidra Abyss, the Atlantean Dragon Lord",
+        "Poseidra, the Storming Atlantean"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

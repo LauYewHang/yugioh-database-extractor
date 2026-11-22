@@ -1,0 +1,22 @@
+{
+    "name": "White Night Dragon",
+    "filename": "White_Night_Dragon",
+    "card_text": "During either player's turn, when a Spell/Trap Card that targets this card is activated: Negate the activation, and if you do, destroy it. When another face-up monster you control is targeted for an attack: You can send 1 Spell/Trap Card you control to the Graveyard; change the attack target to this card.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "BATTLE PACK EPIC DAWN",
+        "ANCIENT PROPHECY",
+        "DUEL TERMINAL 4",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

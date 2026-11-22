@@ -1,0 +1,42 @@
+{
+    "name": "Red-Eyes Black Flare Dragon",
+    "filename": "Red_Eyes_Black_Flare_Dragon",
+    "card_text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cfIf damage calculation is performed involving this card, at the end of the Battle Phase: You can inflict damage to your opponent equal to this card's original ATK. You can only use this effect of \"Red-Eyes Black Flare Dragon\" once per turn.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [
+        "Archfiend Black Skull Dragon",
+        "Black Metal Dragon",
+        "Cards of the Red Stone",
+        "Dark Dragon Ritual",
+        "Gearfried the Red-Eyes Iron Knight",
+        "Meteor Black Comet Dragon",
+        "Meteor Dragon Red-Eyes Impact",
+        "Paladin of Dark Dragon",
+        "Red-Eyes Alternative Black Dragon",
+        "Red-Eyes Baby Dragon",
+        "Red-Eyes Burn",
+        "Red-Eyes Fang with Chain",
+        "Red-Eyes Flare Metal Dragon",
+        "Red-Eyes Fusion",
+        "Red-Eyes Insight",
+        "Red-Eyes Retro Dragon",
+        "Red-Eyes Slash Dragon",
+        "Red-Eyes Soul",
+        "Red-Eyes Spirit",
+        "Red-Eyes Transmigration",
+        "Red-Eyes Wyvern",
+        "Return of the Red-Eyes",
+        "The Black Stone of Legend"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

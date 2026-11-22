@@ -1,0 +1,24 @@
+{
+    "name": "Level Eater",
+    "filename": "Level_Eater",
+    "card_text": "If this card is in your Graveyard: You can target 1 Level 5 or higher monster you control; reduce its Level by 1, and if you do, Special Summon this card. This face-up card on the field cannot be Tributed, except for a Tribute Summon.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "DUELIST PACK - YUSEI 2 -",
+        "STARDUST OVERDRIVE",
+        "SYNCHRON EXTREME STRUCTURE DECK",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "DUELIST PACK COLLECTION TIN 2010 PROMO PACK",
+        "BATTLE PACK EPIC DAWN",
+        "DUEL TERMINAL 5A"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 0,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

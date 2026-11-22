@@ -1,0 +1,15 @@
+{
+    "name": "Weapon Change",
+    "filename": "Weapon_Change",
+    "card_text": "Once during each of your Standby Phases: You can pay 700 Life Points, then target 1 Warrior or Machine-Type monster you control; switch the current ATK and DEF of that target until the end of your opponent's next turn.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "DARK REVELATION Volume 2",
+        "STRUCTURE DECK MACHINE RE-VOLT",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

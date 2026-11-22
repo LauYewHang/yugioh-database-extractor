@@ -1,0 +1,17 @@
+{
+    "name": "Ignihorse Dragonis",
+    "filename": "Ignihorse_Dragonis",
+    "card_text": "This draco-horse races across the sea, boiling the water's surface while keeping its own flames from going out. Its dream is to set foot one day upon its homeland.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Windrose the Elemental Lord",
+    "filename": "Windrose_the_Elemental_Lord",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WIND monsters in your GY. If this card is Special Summoned: Destroy all Spells and Traps your opponent controls. You can only use this effect of \"Windrose the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Elemental Training",
+        "Elementsaber Aina",
+        "Elementsaber Lapauila Mana",
+        "Elementsaber Makani",
+        "Elementsaber Malo",
+        "Elementsaber Nalu"
+    ],
+    "attribute": "WIND",
+    "attack": 2800,
+    "defense": 2200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

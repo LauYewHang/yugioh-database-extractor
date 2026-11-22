@@ -1,0 +1,30 @@
+{
+    "name": "Sunavalon Dryanome",
+    "filename": "Sunavalon_Dryanome",
+    "card_text": "2+ Plant monsters\nThis card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Three times per turn, if you take battle or effect damage: You can gain that much LP, and if you do, Special Summon 1 \"Sunvine\" monster from your Extra Deck. Once per turn, when a monster this card points to is targeted for an attack: You can negate the attack, and if you do, move that monster you control to another of your Main Monster Zones.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Sunavalon Dryades",
+        "Sunavalon Dryatrentiay",
+        "Sunavalon Melias",
+        "Sunseed Shadow",
+        "Sunseed Twin",
+        "Sunvine Cross Breed",
+        "Sunvine Gardna",
+        "Sunvine Healer",
+        "Sunvine Maiden",
+        "Sunvine Shrine",
+        "Sunvine Sowing",
+        "Sunvine Thrasher"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": null,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

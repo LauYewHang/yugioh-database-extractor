@@ -1,0 +1,35 @@
+{
+    "name": "Phantasm Spiral Battle",
+    "filename": "Phantasm_Spiral_Battle",
+    "card_text": "If all monsters you control are Normal Monsters (min. 1): Target 1 card your opponent controls; destroy it. If \"Umi\" is on the field, you can activate this card from your hand. You can banish this card from your Graveyard, then target 1 Normal Monster you control; equip that Normal Monster with all \"Phantasm Spiral\" Equip Spell Cards you control that can equip to it.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Pacifis, the Phantasm City",
+        "Phantasm Spiral Assault",
+        "Phantasm Spiral Crash",
+        "Phantasm Spiral Dragon",
+        "Phantasm Spiral Grip",
+        "Phantasm Spiral Power",
+        "Phantasm Spiral Wave",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

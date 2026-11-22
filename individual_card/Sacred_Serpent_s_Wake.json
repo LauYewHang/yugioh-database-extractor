@@ -1,0 +1,12 @@
+{
+    "name": "Sacred Serpent's Wake",
+    "filename": "Sacred_Serpent_s_Wake",
+    "card_text": "You can only activate 1 \"Sacred Serpent's Wake\" per turn. If you control 2 or more different kinds of monsters (Ritual, Fusion, Synchro or Xyz): Activate 1 or more effects, depending on the number of different kinds you control, and resolve in sequence;\n\u25cf2 or more: Target 1 monster in your Graveyard or 1 of your banished monsters; add that target to your hand.\n\u25cf3 or more: Target 1 Trap Card in your Graveyard; add that target to your hand.\n\u25cf4: Target 1 Spell Card in your Graveyard, except \"Sacred Serpent's Wake\"; add that target to your hand.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

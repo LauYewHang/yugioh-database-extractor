@@ -1,0 +1,20 @@
+{
+    "name": "Lefty Driver",
+    "filename": "Lefty_Driver",
+    "card_text": "If this card is Special Summoned: You can make this card become Level 3 until the end of this turn. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \"Righty Driver\" from your Deck to your hand. You can only use this effect of \"Lefty Driver\" once per turn.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Righty Driver"
+    ],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Commander Covington",
+    "filename": "Commander_Covington",
+    "card_text": "You can send 1 face-up \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" you control to the GY; Special Summon 1 \"Machina Force\" from your hand or Deck.",
+    "release_date": "2010-02-23",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "MACHINA MAYHEM STRUCTURE DECK",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Machina Defender",
+        "Machina Force",
+        "Machina Sniper",
+        "Machina Soldier"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

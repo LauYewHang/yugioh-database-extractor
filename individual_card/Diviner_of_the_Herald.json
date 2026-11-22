@@ -1,0 +1,21 @@
+{
+    "name": "Diviner of the Herald",
+    "filename": "Diviner_of_the_Herald",
+    "card_text": "If this card is Normal or Special Summoned: You can send 1 Fairy monster from your Deck or Extra Deck to the GY, and if you do, increase this card's Level by that monster's Level, until the end of this turn. If this card is Tributed: You can Special Summon 1 Level 2 or lower Fairy monster from your hand or Deck, except \"Diviner of the Herald\". You can only use each effect of \"Diviner of the Herald\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "OTS TOURNAMENT PACK 25",
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "LIGHTNING OVERDRIVE",
+        "RARITY COLLECTION 5",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 300,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

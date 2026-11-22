@@ -1,0 +1,28 @@
+{
+    "name": "Gaia Saber, the Lightning Shadow",
+    "filename": "Gaia_Saber__the_Lightning_Shadow",
+    "card_text": "2+ monsters",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "CODE OF THE DUELIST",
+        "Duel Devastator"
+    ],
+    "related_card": [
+        "Commander Gottoms, Swordmaster",
+        "Commander Souza, Swordmaster",
+        "Saber Reflection",
+        "X-Saber Axel",
+        "X-Saber Bruno",
+        "X-Saber Galahad",
+        "X-Saber Gottoms",
+        "X-Saber Palomuro"
+    ],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": "Link",
+    "link_rating": 3,
+    "link_arrow": 84
+}

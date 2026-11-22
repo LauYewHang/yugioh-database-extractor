@@ -1,0 +1,21 @@
+{
+    "name": "Kojikocy",
+    "filename": "Kojikocy",
+    "card_text": "A man-hunter with powerful arms that can crush boulders.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "STARTER DECK KAIBA",
+        "DARK BEGINNING 1",
+        "STARTER DECK KAIBA Evolution"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

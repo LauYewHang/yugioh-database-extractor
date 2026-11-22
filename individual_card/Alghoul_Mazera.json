@@ -1,0 +1,17 @@
+{
+    "name": "Alghoul Mazera",
+    "filename": "Alghoul_Mazera",
+    "card_text": "If a Zombie monster(s) you control would be destroyed by battle or card effect, you can banish this card from your hand or GY instead. If this card is banished from the hand or GY: You can Special Summon this card in Defense Position, then you can reduce its Level by 1. You can only use each effect of \"Alghoul Mazera\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 2300,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

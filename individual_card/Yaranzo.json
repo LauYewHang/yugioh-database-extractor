@@ -1,0 +1,18 @@
+{
+    "name": "Yaranzo",
+    "filename": "Yaranzo",
+    "card_text": "A treasure box containing a monster that attacks any unwary bandit.",
+    "release_date": "2002-12-20",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "Promotional Cards 1"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 1500,
+    "monster_type": "Zombie",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Prediction Princess Bibliomuse",
+    "filename": "Prediction_Princess_Bibliomuse",
+    "card_text": "FLIP: You can add 1 \"Prediction Princess\" monster, except \"Prediction Princess Bibliomuse\", and 1 Ritual Spell from your Deck to your hand.\nIf this card is Tributed and sent to the GY: You can Special Summon this card in face-down Defense Position.\nYou can only use each of the preceding effects of \"Prediction Princess Bibliomuse\" once per turn. Your opponent cannot target Ritual Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST"
+    ],
+    "related_card": [
+        "Black Cat-astrophe",
+        "Prediction Princess Arrowsylph",
+        "Prediction Princess Astromorrigan",
+        "Prediction Princess Coinorma",
+        "Prediction Princess Crystaldine",
+        "Prediction Princess Petalelf",
+        "Prediction Princess Tarotrei",
+        "Prediction Princess Tarotreith",
+        "Prediction Ritual",
+        "Underworld Ritual of Prediction"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

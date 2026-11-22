@@ -1,0 +1,18 @@
+{
+    "name": "Pharaonic Advent",
+    "filename": "Pharaonic_Advent",
+    "card_text": "Gains 300 ATK for each Continuous Trap on the field and in the GYs. You can only use each of the following effects of \"Pharaonic Advent\" once per turn. You can Tribute 1 monster; Special Summon this card from your hand. You can Tribute 1 Fairy, Fiend, or Reptile monster; add 1 Continuous Trap from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Silver Wing",
+    "filename": "Silver_Wing",
+    "card_text": "Equip only to a Level 8 or higher Dragon-Type Synchro Monster. Twice per turn, it cannot be destroyed by battle. If it would be destroyed by a card effect, you can destroy this card instead.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI 2 -",
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

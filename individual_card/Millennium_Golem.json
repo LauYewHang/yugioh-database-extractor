@@ -1,0 +1,21 @@
+{
+    "name": "Millennium Golem",
+    "filename": "Millennium_Golem",
+    "card_text": "For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",
+    "release_date": "2005-11-01",
+    "available_set": [
+        "TOURNAMENT PACK 7"
+    ],
+    "related_card": [
+        "Millennium Ankh",
+        "Sengenjin Wakes from a Millennium",
+        "Wedju Temple"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 2200,
+    "monster_type": "Rock",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

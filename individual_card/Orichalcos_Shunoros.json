@@ -1,0 +1,19 @@
+{
+    "name": "Orichalcos Shunoros",
+    "filename": "Orichalcos_Shunoros",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. At the end of the Damage Step, if your Normal Monster is destroyed by battle: You can Special Summon this card from your hand. Gains 1000 ATK for each monster your opponent controls. Face-up Level 4 Normal Monsters on the field cannot be destroyed by card effects.",
+    "release_date": "2011-07-01",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "SHONEN JUMP Subscription Promotional Card - March 2010 -",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": "?",
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

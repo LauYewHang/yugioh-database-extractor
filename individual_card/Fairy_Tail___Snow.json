@@ -1,0 +1,30 @@
+{
+    "name": "Fairy Tail - Snow",
+    "filename": "Fairy_Tail___Snow",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; change it to face-down Defense Position. If this card is in your GY (Quick Effect): You can banish 7 other cards from your hand, field, and/or GY; Special Summon this card.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "2017 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 5",
+        "OTS TOURNAMENT PACK 19",
+        "QUARTER CENTURY STAMPEDE",
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Fairy Tail - Matchgiru",
+        "Fairy Tail - Wiccat",
+        "Fairy Tail Ball",
+        "Once Upon a Fairy Tail",
+        "Tails of the Fairy Tails",
+        "Teller of Fairy Tails",
+        "Weaver of Fairy Tails"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1850,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

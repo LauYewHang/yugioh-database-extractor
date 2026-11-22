@@ -1,0 +1,43 @@
+{
+    "name": "Gouki Finishing Move",
+    "filename": "Gouki_Finishing_Move",
+    "card_text": "Target 1 \"Gouki\" Link Monster you control; it gains ATK equal to its Link Rating x 1000 until the end of this turn, also if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. For the rest of this turn after this card resolves, you cannot declare attacks, except with \"Gouki\" monsters. You can only activate 1 \"Gouki Finishing Move\" per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Gouki Bearhug",
+        "Gouki Cage Match",
+        "Gouki Destroy Ogre",
+        "Gouki Dragon Ogre",
+        "Gouki Face Turn",
+        "Gouki Gameface",
+        "Gouki Guts",
+        "Gouki Headbatt",
+        "Gouki Heel Ogre",
+        "Gouki Iron Claw",
+        "Gouki Jet Ogre",
+        "Gouki Machine Suprex",
+        "Gouki Moonsault",
+        "Gouki Octostretch",
+        "Gouki Re-Match",
+        "Gouki Ringtrainer",
+        "Gouki Riscorpio",
+        "Gouki Sheik Ogre",
+        "Gouki Suprex",
+        "Gouki Tagpartner",
+        "Gouki The Blade Ogre",
+        "Gouki The Giant Ogre",
+        "Gouki The Great Ogre",
+        "Gouki The Master Ogre",
+        "Gouki The Powerload Ogre",
+        "Gouki The Solid Ogre",
+        "Gouki The Tyrant Ogre",
+        "Gouki Thunder Ogre",
+        "Gouki Twistcobra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

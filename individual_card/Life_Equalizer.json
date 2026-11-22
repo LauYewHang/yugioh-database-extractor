@@ -1,0 +1,13 @@
+{
+    "name": "Life Equalizer",
+    "filename": "Life_Equalizer",
+    "card_text": "Activate only when the difference between both players' Life Points is 8000 or more. Both players' Life Points become 3000.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Leotaur",
+    "filename": "Leotaur",
+    "card_text": "If this card battles a non-Normal Monster, this card gains 500 ATK during the Damage Step only.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "LEGENDARY DUELISTS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1600,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Pesanta the Titan of Troubadours",
+    "filename": "Pesanta_the_Titan_of_Troubadours",
+    "card_text": "An aberrant being that manifests in response to devout prayers. The lyrics it recites are said to foretell the future, but they are mysterious and incomprehensible to most.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Illusion",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Buster Blader, the Destruction Swordmaster",
+    "filename": "Buster_Blader__the_Destruction_Swordmaster",
+    "card_text": "This card's name becomes \"Buster Blader\" while on the field or in the GY. If a monster(s) your opponent controls is destroyed by battle or card effect and sent to the GY: You can target 1 of those destroyed monsters; equip it to this card. Once per turn: You can send 1 Monster Card you control that is equipped to this card to the GY; destroy all monsters your opponent controls with the same Type as that monster sent to the GY.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "Gold Series: Maximum Gold",
+        "BREAKERS OF SHADOW",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Buster Blader",
+        "Buster Blader, the Dragon Destroyer Swordsman",
+        "Buster Dragon",
+        "Buster Whelp of the Destruction Swordsman",
+        "Dark Paladin",
+        "Destruction Sword Flash",
+        "Destruction Sword Memories",
+        "Destruction Swordsman Fusion",
+        "Dragon Buster Destruction Sword",
+        "Emblem of Dragon Destroyer",
+        "Karma of the Destruction Swordsman",
+        "Miracle Restoring",
+        "Prologue of the Destruction Swordsman",
+        "Protector Whelp of the Destruction Swordsman",
+        "Robot Buster Destruction Sword",
+        "Skilled White Magician",
+        "Wizard Buster Destruction Sword"
+    ],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": 2300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

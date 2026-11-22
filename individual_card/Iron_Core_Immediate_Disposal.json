@@ -1,0 +1,15 @@
+{
+    "name": "Iron Core Immediate Disposal",
+    "filename": "Iron_Core_Immediate_Disposal",
+    "card_text": "Select and send 1 \"Iron Core of Koa'ki Meiru\" from your Deck to your Graveyard.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [
+        "Iron Core of Koa'ki Meiru",
+        "Koa'ki Meiru Supplier"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

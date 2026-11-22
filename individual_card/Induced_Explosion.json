@@ -1,0 +1,14 @@
+{
+    "name": "Induced Explosion",
+    "filename": "Induced_Explosion",
+    "card_text": "When a card(s) you control is destroyed by a Spell effect (except during the Damage Step): Target 1 card your opponent controls; destroy it. During either player's turn, except the turn this card was sent to the Graveyard, when a card(s) you control is destroyed by a Spell effect (except during the Damage Step): You can banish this card from your Graveyard, then target 1 card your opponent controls; destroy it.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

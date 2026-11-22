@@ -1,0 +1,35 @@
+{
+    "name": "Floodgate Trap Hole",
+    "filename": "Floodgate_Trap_Hole",
+    "card_text": "When your opponent Summons a monster(s): Change that monster(s) to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "OTS TOURNAMENT PACK 13",
+        "THE DARK ILLUSION",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

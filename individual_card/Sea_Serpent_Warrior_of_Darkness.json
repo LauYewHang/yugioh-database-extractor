@@ -1,0 +1,20 @@
+{
+    "name": "Sea Serpent Warrior of Darkness",
+    "filename": "Sea_Serpent_Warrior_of_Darkness",
+    "card_text": "A warrior who defends the world of the Sea of Darkness. He prides himself on his fighting prowess both on the ground and, of course, in the water.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

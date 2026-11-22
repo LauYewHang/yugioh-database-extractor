@@ -1,0 +1,17 @@
+{
+    "name": "Thundercrash Snarecrow",
+    "filename": "Thundercrash_Snarecrow",
+    "card_text": "Each time a non-Thunder monster(s) is Special Summoned face-up, while this card is in the Monster Zone: That monster(s) cannot attack this turn, also destroy it during the End Phase. If this card is in your GY: You can target 1 face-up card you control; destroy it, and if you do, add this card to your hand. You can only use this effect of \"Thundercrash Snarecrow\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 2800,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

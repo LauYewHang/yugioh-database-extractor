@@ -1,0 +1,14 @@
+{
+    "name": "Litmus Doom Ritual",
+    "filename": "Litmus_Doom_Ritual",
+    "card_text": "This card is used to Ritual Summon \"Litmus Doom Swordsman\". You must also Tribute monsters from your hand or field, whose total Levels equal 8 or more. If this card is in the GY: You can target 1 \"Litmus Doom Swordsman\" in your GY; shuffle both it and this card from the GY into the Deck, then draw 1 card. You can only use this effect of \"Litmus Doom Ritual\" once per turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Litmus Doom Swordsman"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

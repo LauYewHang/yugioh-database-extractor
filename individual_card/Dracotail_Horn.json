@@ -1,0 +1,26 @@
+{
+    "name": "Dracotail Horn",
+    "filename": "Dracotail_Horn",
+    "card_text": "Target 1 Attack Position monster on the field; return it to the hand/Extra Deck, then you can place 1 \"Dracotail\" card from your GY or banishment on the bottom of the Deck, except \"Dracotail Horn\", then draw 1 card. You can only activate 1 \"Dracotail Horn\" per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Dracotail Arthalion",
+        "Dracotail Faimena",
+        "Dracotail Flame",
+        "Dracotail Gulamel",
+        "Dracotail Lukias",
+        "Dracotail Mululu",
+        "Dracotail Pan",
+        "Dracotail Phryxul",
+        "Dracotail Shaulas",
+        "Dracotail Sting",
+        "Dracotail Urgula",
+        "Ketu Dracotail",
+        "Rahu Dracotail"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

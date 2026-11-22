@@ -1,0 +1,33 @@
+{
+    "name": "Humid Winds",
+    "filename": "Humid_Winds",
+    "card_text": "You can pay 1000 LP; add 1 \"Aroma\" monster from your Deck to your hand. If your LP are lower than your opponent's: You can gain 500 LP. You can only use each effect of \"Humid Winds\" once per turn.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS",
+        "OTS TOURNAMENT PACK 25"
+    ],
+    "related_card": [
+        "Aroma Blend",
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aroma Jar",
+        "Aromage Bergamot",
+        "Aromage Cananga",
+        "Aromage Jasmine",
+        "Aromage Laurel",
+        "Aromage Marjoram",
+        "Aromage Rosemary",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Aromaseraphy Jasmine",
+        "Aromaseraphy Rosemary",
+        "Aromaseraphy Sweet Marjoram"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

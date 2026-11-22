@@ -1,0 +1,36 @@
+{
+    "name": "Face Card Fusion",
+    "filename": "Face_Card_Fusion",
+    "card_text": "Fusion Summon 1 LIGHT Warrior Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you control \"Queen's Knight\", \"King's Knight\", or \"Jack's Knight\", you can use 1 monster from your Deck as Fusion Material. You can only activate 1 \"Face Card Fusion\" per turn.",
+    "release_date": "2021-07-09",
+    "available_set": [
+        "KING'S COURT"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Jack's Knight",
+        "Joker's Wild",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "King's Knight",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Queen's Knight",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

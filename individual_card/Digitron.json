@@ -1,0 +1,17 @@
+{
+    "name": "Digitron",
+    "filename": "Digitron",
+    "card_text": "A subspecies found in electronic space. There's little information on it.",
+    "release_date": "2017-11-03",
+    "available_set": [
+        "STRUCTURE DECK : CYBERSE LINK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

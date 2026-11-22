@@ -1,0 +1,31 @@
+{
+    "name": "Cipher Spectrum",
+    "filename": "Cipher_Spectrum",
+    "card_text": "If a \"Cipher\" Xyz Monster(s) you control that has Xyz Material is destroyed by battle or an opponent's card effect and sent to your Graveyard: Target 1 of those monsters; Special Summon it, and if you do, Special Summon 1 Xyz Monster from your Extra Deck with the same name as that Xyz Monster.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Cipher Biplane",
+        "Cipher Bit",
+        "Cipher Etranger",
+        "Cipher Interference",
+        "Cipher Mirror Knight",
+        "Cipher Soldier (Updated from: Kinetic Soldier)",
+        "Cipher Twin Raptor",
+        "Cipher Wing",
+        "Double Cipher",
+        "Double Exposure",
+        "Galaxy-Eyes Cipher Blade Dragon",
+        "Galaxy-Eyes Cipher Dragon",
+        "Galaxy-Eyes Cipher X Dragon",
+        "Neo Galaxy-Eyes Cipher Dragon",
+        "Rank-Up-Magic Cipher Ascension",
+        "Storm Cipher"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

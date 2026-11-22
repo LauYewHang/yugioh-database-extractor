@@ -1,0 +1,31 @@
+{
+    "name": "Honest",
+    "filename": "Honest",
+    "card_text": "During your Main Phase: You can return this face-up card from the field to the hand. During the Damage Step, when a LIGHT monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "SPIRIT WARRIORS",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "VALIANT SMASHERS",
+        "REALM OF LIGHT STRUCTURE DECK",
+        "PREMIUM GOLD",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "NOBLE KNIGHTS OF THE ROUND TABLE BOX SET",
+        "TWILIGHT EDITION - LIGHT & DARK -",
+        "HERO STRIKE STRUCTURE DECK",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "DUEL TERMINAL 7A",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1100,
+    "defense": 1900,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

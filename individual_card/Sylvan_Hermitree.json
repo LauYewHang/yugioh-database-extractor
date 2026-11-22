@@ -1,0 +1,26 @@
+{
+    "name": "Sylvan Hermitree",
+    "filename": "Sylvan_Hermitree",
+    "card_text": "Once per turn: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard, and if you do, draw 1 card. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: Look at up to 3 cards from the top of your Deck, then place them on the top of the Deck in any order.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [
+        "Mount Sylvania",
+        "Sylvan Blessing",
+        "Sylvan Charity",
+        "Sylvan Flowerknight",
+        "Sylvan Lotuswain",
+        "Sylvan Princessprite",
+        "Sylvan Sagequoia"
+    ],
+    "attribute": "FIRE",
+    "attack": 2700,
+    "defense": 1800,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

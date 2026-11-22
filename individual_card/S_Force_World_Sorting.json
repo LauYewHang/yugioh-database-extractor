@@ -1,0 +1,32 @@
+{
+    "name": "S-Force World Sorting",
+    "filename": "S_Force_World_Sorting",
+    "card_text": "If an \"S-Force\" monster you control would banish a card(s) from your hand to activate its effect, you can send 1 \"S-Force\" card from your Deck to the GY instead, except \"S-Force World Sorting\". If another card(s) is banished (except during the Damage Step): You can target 1 card in your opponent's field or GY; banish it, then you can move 1 \"S-Force\" monster you control to another of your Main Monster Zones. You can only use each effect of \"S-Force World Sorting\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

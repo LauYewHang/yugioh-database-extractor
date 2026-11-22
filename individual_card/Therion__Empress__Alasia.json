@@ -1,0 +1,33 @@
+{
+    "name": "Therion \"Empress\" Alasia",
+    "filename": "Therion__Empress__Alasia",
+    "card_text": "You can only use each of the following effects of \"Therion \"Empress\" Alasia\" once per turn.\n\u25cfYou can target 1 \"Therion\" monster or 1 Reptile monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card.\n\u25cfYou can discard 1 card, then target 1 \"Therion\" Monster Card in your Spell & Trap Zone; Special Summon it.\nA \"Therion\" monster equipped with this card gains 700 ATK, also it can activate the 2nd effect listed above as if it were \"Therion \"Empress\" Alasia\".",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Endless Engine Argyro System",
+        "Gigantic \"Champion\" Sargas",
+        "Gung-Ho! Springans!",
+        "Spright Smashers",
+        "Therion \"Bull\" Ain",
+        "Therion \"Duke\" Yul",
+        "Therion \"King\" Regulus",
+        "Therion \"Lily\" Borea",
+        "Therion \"Reaper\" Fum",
+        "Therion Charge",
+        "Therion Cross",
+        "Therion Discolosseum",
+        "Therion Irregular",
+        "Therion Stand Up!"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 2500,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

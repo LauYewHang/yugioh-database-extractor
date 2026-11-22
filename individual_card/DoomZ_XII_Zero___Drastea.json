@@ -1,0 +1,34 @@
+{
+    "name": "DoomZ XII Zero - Drastea",
+    "filename": "DoomZ_XII_Zero___Drastea",
+    "card_text": "You can target 1 \"DoomZ\" card you control; destroy it, and if you do, Special Summon this card from your hand, then you can equip 1 Equip Spell from your Deck to this card. While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with the same Rank as this card's Level, and if you do, attach this card and its Equip Cards to that monster (this is treated as an Xyz Summon). You can only use each effect of \"DoomZ XII Zero - Drastea\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "MAGNIFICENT MAESTROS",
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "DoomZ Break - Diactorus",
+        "DoomZ Change",
+        "DoomZ Command \"A.D.R.A.S.T.E.I.A.\"",
+        "DoomZ Command \"D.O.O.M.D.U.R.G.\"",
+        "DoomZ Destruction",
+        "DoomZ Raiders",
+        "DoomZ V Five - Amalthe",
+        "DoomZ VII Seven - Elara",
+        "DoomZ XII End - Drastrius",
+        "DoomZ XIII Over - Graflareio",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Power Patron DoomZ",
+        "Theorealize Past Lull"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

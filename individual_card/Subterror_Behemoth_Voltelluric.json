@@ -1,0 +1,30 @@
+{
+    "name": "Subterror Behemoth Voltelluric",
+    "filename": "Subterror_Behemoth_Voltelluric",
+    "card_text": "FLIP: You can target 1 Set monster your opponent controls; take control of it until your next End Phase. You can only use this effect of \"Subterror Behemoth Voltelluric\" once per turn.\nWhen a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Subterror Behemoth Burrowing",
+        "Subterror Behemoth Dragossuary",
+        "Subterror Behemoth Fiendess",
+        "Subterror Behemoth Stalagmo",
+        "Subterror Behemoth Stygokraken",
+        "Subterror Cave Clash",
+        "Subterror Fiendess",
+        "Subterror Final Battle",
+        "Subterror Guru",
+        "Subterror Nemesis Archer",
+        "Subterror Nemesis Warrior",
+        "The Hidden City"
+    ],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 3000,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

@@ -1,0 +1,14 @@
+{
+    "name": "By Order of the Emperor",
+    "filename": "By_Order_of_the_Emperor",
+    "card_text": "When a monster effect is activated that activates when a monster is Normal Summoned: You can negate the activation, then the player whose effect activation was negated draws 1 card.",
+    "release_date": "2008-04-02",
+    "available_set": [
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

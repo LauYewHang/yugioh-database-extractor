@@ -1,0 +1,34 @@
+{
+    "name": "Machina Defender",
+    "filename": "Machina_Defender",
+    "card_text": "FLIP: Add 1 \"Commander Covington\" from your Deck to your hand.",
+    "release_date": "2010-02-23",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "MACHINA MAYHEM STRUCTURE DECK",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Commander Covington",
+        "Machina Air Raider",
+        "Machina Force",
+        "Machina Gearframe",
+        "Machina Irradiator",
+        "Machina Megaform",
+        "Machina Overdrive",
+        "Machina Possesstorage",
+        "Machina Redeployment",
+        "Machina Resavenger",
+        "Machina Ruinforce",
+        "Machina Sniper",
+        "Machina Soldier",
+        "Machina Unclaspare"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

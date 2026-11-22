@@ -1,0 +1,33 @@
+{
+    "name": "Kashtira Riseheart",
+    "filename": "Kashtira_Riseheart",
+    "card_text": "If you control a \"Kashtira\" monster: You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 \"Kashtira\" card from your Deck, except \"Kashtira Riseheart\"; banish the top 3 cards of your opponent's Deck face-down, and if you banish any, this card's Level becomes 7. You can only use each effect of \"Kashtira Riseheart\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Kashtira Akstra",
+        "Kashtira Arise-Heart",
+        "Kashtira Big Bang",
+        "Kashtira Birth",
+        "Kashtira Fenrir",
+        "Kashtira Ogre",
+        "Kashtira Overlap",
+        "Kashtira Preparations",
+        "Kashtira Shangri-Ira",
+        "Kashtira Unicorn",
+        "Kashtiratheosis",
+        "Pressured Planet Wraitsoth",
+        "Scareclaw Kashtira",
+        "Tearlaments Kashtira"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

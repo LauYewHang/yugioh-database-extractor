@@ -1,0 +1,21 @@
+{
+    "name": "Salvage",
+    "filename": "Salvage",
+    "card_text": "Target 2 WATER monsters with 1500 or less ATK in your GY; add those targets to your hand.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "DARK REVELATION Volume 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DUELIST LEAGUE 3",
+        "GHOSTS FROM THE PAST",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "INVASION OF CHAOS",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

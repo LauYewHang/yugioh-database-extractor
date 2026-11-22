@@ -1,0 +1,12 @@
+{
+    "name": "Wetlands",
+    "filename": "Wetlands",
+    "card_text": "All Aqua-Type/WATER/Level 2 or lower monsters gain 1200 ATK.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Parasomnia Pillow",
+    "filename": "Parasomnia_Pillow",
+    "card_text": "During the End Phase: You can destroy the equipped monster. If this card is sent to the GY because the equipped monster was destroyed and sent to the GY: Special Summon 1 \"Parasomnia Token\" (Level 1/ATK ?/DEF 0) with the equipped monster's original Type, Attribute, and ATK, then equip this card to that Token. You can only use each effect of \"Parasomnia Pillow\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

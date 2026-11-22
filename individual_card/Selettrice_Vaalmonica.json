@@ -1,0 +1,33 @@
+{
+    "name": "Selettrice Vaalmonica",
+    "filename": "Selettrice_Vaalmonica",
+    "card_text": "While you control a monster, except \"Selettrice Vaalmonica\", your opponent's monsters cannot target this card for attacks. You can only use each of the following effects of \"Selettrice Vaalmonica\" once per turn. If this card is Normal or Pendulum Summoned: You can add 1 \"Vaalmonica\" card from your Deck to your hand, except \"Selettrice Vaalmonica\". If this card is sent to the GY and you have 2 \"Vaalmonica\" cards in your Pendulum Zones: You can add this card to your hand.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Dimonno Vaalmonica",
+        "Duralume, Vaalmonican Heathen Hallow",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Disarmonia",
+        "Vaalmonica Ereditare",
+        "Vaalmonica Followed Rhythm",
+        "Vaalmonica Intonare",
+        "Vaalmonica Invitare",
+        "Vaalmonica Scelta",
+        "Vaalmonica Versare",
+        "Vaalmonica, the Agathokakological Voice",
+        "Varar, Vaalmonican Concord",
+        "Zebufera, Vaalmonican Hallow Heathen"
+    ],
+    "attribute": "WATER",
+    "attack": 1200,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

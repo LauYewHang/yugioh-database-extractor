@@ -1,0 +1,30 @@
+{
+    "name": "Branded Befallen",
+    "filename": "Branded_Befallen",
+    "card_text": "Once per turn, when your opponent activates a card or effect that targets 1 \"Bystial\" monster you control (and no other cards), or when your opponent activates a card or effect in response to the activation of your \"Bystial\" monster effect: You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, negate that activated effect.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Albion the Branded Dragon",
+        "Albion the Shrouded Dragon",
+        "Aluber the Jester of Despia",
+        "Branded Beast",
+        "Branded Retribution",
+        "Branded Sword",
+        "Bystial Baldrake",
+        "Bystial Dis Pater",
+        "Bystial Druiswurm",
+        "Bystial Magnamhut",
+        "Bystial Saronir",
+        "Despian Tragedy",
+        "Springans Kitt",
+        "The Bystial Alba Los",
+        "The Bystial Aluber",
+        "The Bystial Lubellion"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

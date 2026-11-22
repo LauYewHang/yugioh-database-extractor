@@ -1,0 +1,21 @@
+{
+    "name": "Slushy",
+    "filename": "Slushy",
+    "card_text": "When this card is Normal Summoned: You can send 1 \"Slushy\" from your Deck to the GY. If you have 3 copies of \"Slushy\" total, either banished and/or in your GY (combined): You can banish this card from your GY, then target 1 Level 5 or higher Sea Serpent monster in your GY; Special Summon that target. You can only use this effect of \"Slushy\" once per turn.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "ASTRAL PACK TWO",
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "ABYSS RISING",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

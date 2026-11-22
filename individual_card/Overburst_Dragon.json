@@ -1,0 +1,35 @@
+{
+    "name": "Overburst Dragon",
+    "filename": "Overburst_Dragon",
+    "card_text": "2 \"Rokket\" monsters\nYou can target 1 other Link Monster you control; Special Summon 1 \"Rokket\" monster from your hand to your zone that target points to, but the monster Summoned by this effect cannot be used as Link Material, also destroy it during the End Phase. You can only use this effect of \"Overburst Dragon\" once per turn. When this card is destroyed by battle and sent to the GY: You can target 1 \"Rokket\" monster in your GY; add it to your hand.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Anesthrokket Dragon",
+        "Autorokket Dragon",
+        "Exploderokket Dragon",
+        "Hollowrokket Dragon",
+        "Magnarokket Dragon",
+        "Metalrokket Dragon",
+        "Rokket Barrage",
+        "Rokket Caliber",
+        "Rokket Coder",
+        "Rokket Detonator",
+        "Rokket Loader",
+        "Rokket Recharger",
+        "Rokket Synchron",
+        "Rokket Tracer",
+        "Shelrokket Dragon",
+        "Silverrokket Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 80
+}

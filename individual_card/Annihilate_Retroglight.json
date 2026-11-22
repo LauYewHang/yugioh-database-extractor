@@ -1,0 +1,12 @@
+{
+    "name": "Annihilate Retroglight",
+    "filename": "Annihilate_Retroglight",
+    "card_text": "When your opponent activates a monster effect on the field, except monsters that were Summoned this turn: Negate that activation, then you can banish (face-down) all face-up monsters your opponent controls, except monsters Summoned this turn. If this Set card in its owner's control is destroyed by an opponent's card effect: You can Set 1 Trap from your Deck.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

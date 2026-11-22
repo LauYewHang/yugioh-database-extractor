@@ -1,0 +1,17 @@
+{
+    "name": "One-Eyed Skill Gainer",
+    "filename": "One_Eyed_Skill_Gainer",
+    "card_text": "3 Level 4 monsters\nYou can detach 1 Xyz Material from this card to target 1 face-up Xyz Monster your opponent controls; this card's name and original effect become the same as that monster. This effect can only be used once while this card is face-up on the field.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

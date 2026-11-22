@@ -1,0 +1,32 @@
+{
+    "name": "Barrel Dragon",
+    "filename": "Barrel_Dragon",
+    "card_text": "Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are heads.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "DARK LEGENDS",
+        "METAL RAIDERS",
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "DUELIST PACK - BATTLE CITY -",
+        "DUEL TERMINAL 2",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "The Lost Art Promotion 6",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "RETRO PACK",
+        "DARK BEGINNING 2",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [
+        "Gatling Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 2200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

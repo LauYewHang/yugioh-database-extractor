@@ -1,0 +1,17 @@
+{
+    "name": "V-LAN Hydra",
+    "filename": "V_LAN_Hydra",
+    "card_text": "2+ monsters, except Tokens\nGains 300 ATK for each monster co-linked to this card. You can target 1 Link-3 or lower monster co-linked to this card; Tribute it, and if you do, Special Summon \"V-LAN Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) equal to the Tributed monster's Link Rating, also you cannot Special Summon monsters with the same Link Rating as that targeted monster for the rest of this turn. You can only use this effect of \"V-LAN Hydra\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 276
+}

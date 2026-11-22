@@ -1,0 +1,29 @@
+{
+    "name": "Arcana Force XV - The Fiend",
+    "filename": "Arcana_Force_XV___The_Fiend",
+    "card_text": "You can discard this card; add 1 \"Light Barrier\" from your Deck or GY to your hand. If this card is Summoned: Toss a coin and this card gains the appropriate effect.\n\u25cfHeads: When an attack is declared involving this card: You can target 1 monster on the field; destroy it, and if you do, inflict 500 damage to its controller.\n\u25cfTails: If an attack is declared involving this card: Destroy all monsters on the field.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "Arcana Call",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Reading",
+        "Arcana Spread",
+        "Light Barrier",
+        "Light Force",
+        "Reversal of Fate"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

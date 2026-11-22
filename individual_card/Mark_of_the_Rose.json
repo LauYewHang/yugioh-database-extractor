@@ -1,0 +1,18 @@
+{
+    "name": "Mark of the Rose",
+    "filename": "Mark_of_the_Rose",
+    "card_text": "Activate this card by banishing 1 Plant monster from your GY, then target 1 face-up monster your opponent controls; equip this card to it. Take control of the equipped monster. Once per turn, during your End Phase: Negate this card's effect until your next Standby Phase.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "FUSION ENFORCERS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "DUEL TERMINAL 2",
+        "DUEL POWER",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "CROSSROADS OF CHAOS",
+        "LEGENDARY DUELISTS: SEASON 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

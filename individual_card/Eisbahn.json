@@ -1,0 +1,14 @@
+{
+    "name": "Eisbahn",
+    "filename": "Eisbahn",
+    "card_text": "If a non-WATER monster(s) is Normal or Special Summoned while you control a WATER monster: Change that Summoned monster to Defense Position.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "OTS TOURNAMENT PACK 11",
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

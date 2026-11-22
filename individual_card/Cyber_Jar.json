@@ -1,0 +1,31 @@
+{
+    "name": "Cyber Jar",
+    "filename": "Cyber_Jar",
+    "card_text": "FLIP: Destroy all monsters on the field, then both players reveal the top 5 cards from their Decks, then Special Summon all revealed Level 4 or lower monsters in face-up Attack Position or face-down Defense Position, also add any remaining cards to their hand. (If either player has less than 5 cards in their Deck, reveal as many as possible.)",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "HOBBY LEAGUE 2",
+        "QUARTER CENTURY BONANZA",
+        "DARK BEGINNING 1",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "SPELL RULER",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "DARK",
+    "attack": 900,
+    "defense": 900,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

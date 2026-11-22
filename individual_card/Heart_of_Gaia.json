@@ -1,0 +1,33 @@
+{
+    "name": "Heart of Gaia",
+    "filename": "Heart_of_Gaia",
+    "card_text": "(This card is always treated as a \"Millennium\" and \"Gaia The Fierce Knight\" card.)\nIf a Level 5 or higher Monster Card is on the field, you can Normal Summon this card without Tributing. The Level of any monster your opponent Normal or Special Summons in Attack Position, while this card is in your Monster Zone, is increased by 7. When your opponent activates a monster effect (Quick Effect): You can send 1 other face-up Level 5 or higher Monster Card you control to the GY; negate the activation, and if you do, destroy that card. You can only use this effect of \"Heart of Gaia\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Artillery Catapult Turtle",
+        "Beginning of Heaven and Earth",
+        "Black Luster Soldier - Super Soldier",
+        "Envoy of Chaos",
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight",
+        "Gaia the Magical Knight of Dragons",
+        "Galloping Gaia",
+        "Gateway to Chaos",
+        "Millennium Ankh",
+        "Sengenjin Wakes from a Millennium",
+        "Skilled Blue Magician",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Spiral Spear Strike",
+        "Wedju Temple"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

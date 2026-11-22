@@ -1,0 +1,38 @@
+{
+    "name": "Fire King Avatar Yaksha",
+    "filename": "Fire_King_Avatar_Yaksha",
+    "card_text": "If a face-up \"Fire King\" monster(s) you control is destroyed by card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card is destroyed and sent to the GY: You can destroy 1 card in your hand or field. You can only use this effect of \"Fire King Avatar Yaksha\" once per turn.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: FIRE KINGS",
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Circle of the Fire Kings",
+        "Cursed Fire King Doom Burst",
+        "Echelon of the Fire Kings",
+        "Fire King Avatar Arvata",
+        "Fire King Avatar Barong",
+        "Fire King Avatar Garunix",
+        "Fire King Avatar Kirin",
+        "Fire King Avatar Rangbali",
+        "Fire King Courtier Ulcanix",
+        "Fire King High Avatar Garunix",
+        "Fire King High Avatar Kirin",
+        "Fire King Island",
+        "Fire King Sanctuary",
+        "Fire King Sky Burn",
+        "Garunix Eternity, Hyang of the Fire Kings",
+        "Legendary Fire King Ponix",
+        "Onslaught of the Fire Kings",
+        "Sacred Fire King Garunix"
+    ],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

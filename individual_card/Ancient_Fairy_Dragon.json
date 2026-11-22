@@ -1,0 +1,29 @@
+{
+    "name": "Ancient Fairy Dragon",
+    "filename": "Ancient_Fairy_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nDuring your Main Phase: You can Special Summon 1 Level 4 or lower monster from your hand. You cannot conduct your Battle Phase the turn you activate this effect. During your Main Phase: You can destroy as many cards in the Field Zones as possible (min. 1), and if you do, gain 1000 LP, then you can add 1 Field Spell with a different name than the destroyed card(s), from your Deck to your hand. You can only use each effect of \"Ancient Fairy Dragon\" once per turn.",
+    "release_date": "2009-08-18",
+    "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "MAZE OF MEMORIES",
+        "ANCIENT PROPHECY",
+        "COLLECTIBLE TIN 2009 WAVE 1"
+    ],
+    "related_card": [
+        "Ancient Fairy Life Dragon",
+        "Eternal Sunshine",
+        "Kuribon the Fairy Spirit",
+        "Regulus the Fairy Beast",
+        "Spore the Fairy Seed",
+        "World of Spirits"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Mooyan Curry",
+    "filename": "Mooyan_Curry",
+    "card_text": "Choose 1 player; that player gains 200 Life Points.",
+    "release_date": "2010-08-14",
+    "available_set": [
+        "WORLD CHAMPIONSHIP 2010 CARD PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

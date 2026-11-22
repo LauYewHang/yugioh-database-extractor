@@ -1,0 +1,22 @@
+{
+    "name": "Legend of Heart",
+    "filename": "Legend_of_Heart",
+    "card_text": "Pay 2000 LP and Tribute 1 Warrior monster; banish up to 3 \"Legendary Dragon\" Spells with different names from your hand and/or GY, and if you do, Special Summon that many \"Legendary Knight\" monsters with different names from your hand, Deck, and/or GY. You can only activate 1 \"Legend of Heart\" per turn.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "DRAGONS OF LEGEND",
+        "LEGENDARY DRAGON DECKS"
+    ],
+    "related_card": [
+        "Legendary Knight Critias",
+        "Legendary Knight Hermos",
+        "Legendary Knight Timaeus",
+        "The Claw of Hermos",
+        "The Eye of Timaeus",
+        "The Fang of Critias"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

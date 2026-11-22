@@ -1,0 +1,18 @@
+{
+    "name": "Maji-Gire Panda",
+    "filename": "Maji_Gire_Panda",
+    "card_text": "Each time a Beast-Type monster(s) on the field is destroyed, this card gains 500 ATK.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 800,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

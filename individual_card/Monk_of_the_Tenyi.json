@@ -1,0 +1,39 @@
+{
+    "name": "Monk of the Tenyi",
+    "filename": "Monk_of_the_Tenyi",
+    "card_text": "1 non-Link \"Tenyi\" monster",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE",
+        "CROSSOVER BREAKERS",
+        "OTS TOURNAMENT PACK 18",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Berserker of the Tenyi",
+        "Draco Berserker of the Tenyi",
+        "Draco Masters of the Tenyi",
+        "Fists of the Unrivaled Tenyi",
+        "Flawless Perfection of the Tenyi",
+        "Heavenly Dragon Circle",
+        "Shaman of the Tenyi",
+        "Tenyi Spirit - Adhara",
+        "Tenyi Spirit - Ashuna",
+        "Tenyi Spirit - Mapura",
+        "Tenyi Spirit - Mula Adhara",
+        "Tenyi Spirit - Nahata",
+        "Tenyi Spirit - Sahasrara",
+        "Tenyi Spirit - Shthana",
+        "Tenyi Spirit - Suruya",
+        "Tenyi Spirit - Vishuda",
+        "Tenyinfinity",
+        "Vessel for the Dragon Cycle"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Link",
+    "link_rating": 1,
+    "link_arrow": 4
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Invader of Darkness",
+    "filename": "Invader_of_Darkness",
+    "card_text": "Your opponent cannot activate Quick-Play Spell Cards.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "TACTICAL MASTERS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "INVASION OF CHAOS",
+        "OTS TOURNAMENT PACK 8",
+        "THE LOST MILLENNIUM SPECIAL EDITION",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2900,
+    "defense": 2500,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

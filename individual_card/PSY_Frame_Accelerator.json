@@ -1,0 +1,26 @@
+{
+    "name": "PSY-Frame Accelerator",
+    "filename": "PSY_Frame_Accelerator",
+    "card_text": "Once per turn: You can pay 500 LP, then target 1 \"PSY-Frame\" monster you control; banish it until your next Standby Phase. Once per turn, if another face-up \"PSY-Frame\" card you control leaves the field (except during the Damage Step): You can Special Summon 1 \"PSY-Frame\" monster from your hand.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "PSY-Frame Circuit",
+        "PSY-Frame Driver",
+        "PSY-Frame Multi-Threader",
+        "PSY-Frame Overload",
+        "PSY-Framegear Alpha",
+        "PSY-Framegear Beta",
+        "PSY-Framegear Delta",
+        "PSY-Framegear Epsilon",
+        "PSY-Framegear Gamma",
+        "PSY-Framelord Lambda",
+        "PSY-Framelord Omega",
+        "PSY-Framelord Zeta"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

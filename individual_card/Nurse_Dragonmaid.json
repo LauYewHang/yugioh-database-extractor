@@ -1,0 +1,39 @@
+{
+    "name": "Nurse Dragonmaid",
+    "filename": "Nurse_Dragonmaid",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 Level 4 or lower \"Dragonmaid\" monster in your GY, except \"Nurse Dragonmaid\"; Special Summon it. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Nurse Dragonmaid\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "MYSTIC FIGHTERS",
+        "The Lost Art Promotion 7",
+        "Gold Series: Maximum Gold"
+    ],
+    "related_card": [
+        "Chamber Dragonmaid",
+        "Dragonmaid Cehrmba",
+        "Dragonmaid Changeover",
+        "Dragonmaid Downtime",
+        "Dragonmaid Ernus",
+        "Dragonmaid Hospitality",
+        "Dragonmaid Lorpar",
+        "Dragonmaid Nudyarl",
+        "Dragonmaid Send-Off",
+        "Dragonmaid Sheou",
+        "Dragonmaid Tidying",
+        "Dragonmaid Tinkhec",
+        "Dragonmaid Welcome",
+        "House Dragonmaid",
+        "Kitchen Dragonmaid",
+        "Lady's Dragonmaid",
+        "Laundry Dragonmaid",
+        "Parlor Dragonmaid"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 1600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

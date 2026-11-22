@@ -1,0 +1,19 @@
+{
+    "name": "Mausoleum of the Emperor",
+    "filename": "Mausoleum_of_the_Emperor",
+    "card_text": "During the Main Phase: The turn player can activate these effect(s).\n\u25cfPay 1000 LP; immediately after this effect resolves, Normal Summon 1 monster from your hand that requires 1 Tribute, without Tributing.\n\u25cfPay 2000 LP; immediately after this effect resolves, Normal Summon 1 monster from your hand that requires 2 Tributes, without Tributing.\n(This is their one Normal Summon/Set for that turn.)",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "POWER OF THE DUELIST",
+        "MACHINE REACTOR STRUCTURE DECK",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 16",
+        "TURBO PACK BOOSTER TWO",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "LOST SANCTUARY STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

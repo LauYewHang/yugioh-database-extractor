@@ -1,0 +1,21 @@
+{
+    "name": "DUCKER Mobile Cannon",
+    "filename": "DUCKER_Mobile_Cannon",
+    "card_text": "FLIP: Target 1 Level 4 monster in your GY; add that target to your hand.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "STARTER DECK SABER FORCE (US)",
+        "Speed Duel: Battle City Box",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

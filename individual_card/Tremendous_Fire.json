@@ -1,0 +1,14 @@
+{
+    "name": "Tremendous Fire",
+    "filename": "Tremendous_Fire",
+    "card_text": "Inflict 1000 points of damage to your opponent's Life Points and 500 points of damage to your Life Points.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

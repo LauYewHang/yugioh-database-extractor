@@ -1,0 +1,19 @@
+{
+    "name": "Monster Gate",
+    "filename": "Monster_Gate",
+    "card_text": "Tribute 1 monster; excavate cards from the top of your Deck until you excavate a monster that can be Normal Summoned/Set. Special Summon it, also send the other excavated cards to the GY.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY",
+        "OTS TOURNAMENT PACK 1",
+        "MYSTIC FIGHTERS",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "BATTLE PACK EPIC DAWN",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

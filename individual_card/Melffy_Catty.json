@@ -1,0 +1,31 @@
+{
+    "name": "Melffy Catty",
+    "filename": "Melffy_Catty",
+    "card_text": "If your opponent Normal or Special Summons a monster(s) (except during the Damage Step), or if an opponent's monster targets this card for an attack: You can return this card to the hand, then you can add 1 Beast monster from your Deck to your hand, except \"Melffy Catty\". During your End Phase: You can Special Summon this card from your hand. You can only use each effect of \"Melffy Catty\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Joyous Melffys",
+        "Melffy Footsteps",
+        "Melffy Godmommy",
+        "Melffy of the Forest",
+        "Melffy Pinny",
+        "Melffy Playtime Surprise",
+        "Melffy Rabbys",
+        "Melffy Staring Contest",
+        "Melffy Tag",
+        "Melffy Wally",
+        "Melffys' Joyful Surprise",
+        "Merry Melffys"
+    ],
+    "attribute": "EARTH",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

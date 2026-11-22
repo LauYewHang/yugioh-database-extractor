@@ -1,0 +1,38 @@
+{
+    "name": "Volcanic Rocket",
+    "filename": "Volcanic_Rocket",
+    "card_text": "When this card is Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck or GY to your hand.",
+    "release_date": "2007-05-05",
+    "available_set": [
+        "FORCE OF THE BREAKER",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "FORCE OF THE BREAKER Sneak Peek",
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "GOLD SERIES 2009",
+        "DUEL TERMINAL 5B"
+    ],
+    "related_card": [
+        "Blaze Accelerator",
+        "Blaze Accelerator Reload",
+        "Blaze Cannon",
+        "Fire Ejection",
+        "Tri-Blaze Accelerator",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Emission",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Trooper"
+    ],
+    "attribute": "FIRE",
+    "attack": 1900,
+    "defense": 1400,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

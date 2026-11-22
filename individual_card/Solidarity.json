@@ -1,0 +1,15 @@
+{
+    "name": "Solidarity",
+    "filename": "Solidarity",
+    "card_text": "If you have only 1 original Type of monster in your Graveyard, all monsters you control with the same Type gain 800 ATK.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "DUELIST LEAGUE 15",
+        "MACHINA MAYHEM STRUCTURE DECK",
+        "LOST SANCTUARY STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

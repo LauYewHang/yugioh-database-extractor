@@ -1,0 +1,17 @@
+{
+    "name": "Rahamu, Envoy of the Sacred Tome",
+    "filename": "Rahamu__Envoy_of_the_Sacred_Tome",
+    "card_text": "2 Effect Monsters\nOnce, while this Link Summoned card is face-up on the field, you can Normal Summon 1 Level 5 or higher monster without Tributing. During the Main Phase, you can (Quick Effect): Immediately after this effect resolves, Normal Summon 1 Level 5 or higher DARK monster. During your End Phase: You can reveal any number of monsters in your hand and place them on the bottom of the Deck in any order, then draw cards equal to the number placed. You can only use each effect of \"Rahamu, Envoy of the Sacred Tome\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": null,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 24
+}

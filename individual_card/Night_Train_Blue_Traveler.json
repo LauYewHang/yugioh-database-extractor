@@ -1,0 +1,20 @@
+{
+    "name": "Night Train Blue Traveler",
+    "filename": "Night_Train_Blue_Traveler",
+    "card_text": "You can discard this card; add 1 \"Train Connection\" or \"Revolving Switchyard\" from your Deck or GY to your hand. If this card is in your GY: You can target 1 other EARTH Machine monster in your GY; Special Summon both it and this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. You can only use this effect of \"Night Train Blue Traveler\" once per Duel, and its previous effect only once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Revolving Switchyard",
+        "Train Connection"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

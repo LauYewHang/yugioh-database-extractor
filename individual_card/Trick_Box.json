@@ -1,0 +1,30 @@
+{
+    "name": "Trick Box",
+    "filename": "Trick_Box",
+    "card_text": "If a face-up \"Performage\" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard: Target 1 monster your opponent controls; take control of it until the End Phase, then Special Summon 1 \"Performage\" monster from your Graveyard to your opponent's field. During the End Phase of this turn, give control of the monster Special Summoned by this effect to its owner.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [
+        "Performage Ball Balancer",
+        "Performage Cup Tricker",
+        "Performage Damage Juggler",
+        "Performage Fire Dancer",
+        "Performage Flame Eater",
+        "Performage Hat Tricker",
+        "Performage Mirror Conductor",
+        "Performage Plushfire",
+        "Performage Shadow Maker",
+        "Performage Stilts Launcher",
+        "Performage Trapeze High Magician",
+        "Performage Trapeze Magician",
+        "Performage Trapeze Witch",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Performage Wind Drainer"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

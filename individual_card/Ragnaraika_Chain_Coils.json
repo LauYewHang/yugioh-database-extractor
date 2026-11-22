@@ -1,0 +1,25 @@
+{
+    "name": "Ragnaraika Chain Coils",
+    "filename": "Ragnaraika_Chain_Coils",
+    "card_text": "2+ monsters, including an Insect, Plant, or Reptile monster\nIf your opponent activates a monster effect (except during the Damage Step): You can activate this effect; neither player can activate the effects of monsters in the hand this turn. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card, also you cannot Special Summon for the rest of this turn, except Insect, Plant, or Reptile monsters. You can only use each effect of \"Ragnaraika Chain Coils\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ragnaraika Bloom",
+        "Ragnaraika Mantis Monk",
+        "Ragnaraika Samurai Beetle",
+        "Ragnaraika Skeletal Soldier",
+        "Ragnaraika the Evil Seed",
+        "Ragnaraika Wisteria of Woe"
+    ],
+    "attribute": "FIRE",
+    "attack": 2900,
+    "defense": null,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 78
+}

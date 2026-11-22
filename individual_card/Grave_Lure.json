@@ -1,0 +1,13 @@
+{
+    "name": "Grave Lure",
+    "filename": "Grave_Lure",
+    "card_text": "Turn the top card of your opponent's Deck face-up, then your opponent shuffles their Deck. When your opponent draws the face-up card, immediately send it to the Graveyard.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "THE LOST MILLENNIUM",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

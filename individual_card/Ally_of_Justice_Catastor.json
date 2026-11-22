@@ -1,0 +1,28 @@
+{
+    "name": "Ally of Justice Catastor",
+    "filename": "Ally_of_Justice_Catastor",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nAt the start of the Damage Step, if this card battles a face-up non-DARK monster: Destroy that monster.",
+    "release_date": "2009-06-20",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "DUEL TERMINAL 1",
+        "HIDDEN ARSENAL",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "Duel Devastator",
+        "COLLECTIBLE TIN 2013 WAVE 1",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "TURBO PACK BOOSTER SEVEN"
+    ],
+    "related_card": [
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unlimiter",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

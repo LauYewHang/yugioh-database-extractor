@@ -1,0 +1,24 @@
+{
+    "name": "Tails of the Fairy Tails",
+    "filename": "Tails_of_the_Fairy_Tails",
+    "card_text": "The equipped monster gains 1000 ATK. Once per turn, during your Main Phase: You can Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or \"Prince of Fairies\" your opponent controls as material. If this card is in your GY: You can equip this card to 1 \"Fairy Tail\" monster on the field, then immediately after this effect resolves, you can Normal Summon 1 Spellcaster monster with 1850 ATK. You can only use this effect of \"Tails of the Fairy Tails\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Fairy Tail - Luna",
+        "Fairy Tail - Matchgiru",
+        "Fairy Tail - Rella",
+        "Fairy Tail - Rochka",
+        "Fairy Tail - Sleeper",
+        "Fairy Tail - Snow",
+        "Fairy Tail - Wiccat",
+        "Fairy Tail Ball",
+        "Once Upon a Fairy Tail",
+        "Teller of Fairy Tails",
+        "Weaver of Fairy Tails"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

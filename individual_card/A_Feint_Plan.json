@@ -1,0 +1,13 @@
+{
+    "name": "A Feint Plan",
+    "filename": "A_Feint_Plan",
+    "card_text": "Monsters cannot attack face-down monsters this turn.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

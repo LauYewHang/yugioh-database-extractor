@@ -1,0 +1,20 @@
+{
+    "name": "Zany Zebra",
+    "filename": "Zany_Zebra",
+    "card_text": "If this card is Normal or Special Summoned: You can choose 1 unused Main Monster Zone or Spell & Trap Zone; while this card is face-up in the Monster Zone, that Zone cannot be used.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2,
+    "pendulum_effect": "Once per turn, during your Main Phase, if this card was activated this turn: You can choose 1 unused Main Monster Zone or Spell & Trap Zone; while this card is in the Pendulum Zone, that chosen Zone cannot be used.",
+    "pendulum_scale": 7
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Bountiful Artemis",
+    "filename": "Bountiful_Artemis",
+    "card_text": "Each time a Counter Trap Card is activated, immediately after it resolves, draw 1 card.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "OTS TOURNAMENT PACK 1",
+        "TURBO PACK BOOSTER SIX",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "QUARTER CENTURY STAMPEDE",
+        "DARK REVELATION Volume 4",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1700,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

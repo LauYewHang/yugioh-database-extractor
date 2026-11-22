@@ -1,0 +1,30 @@
+{
+    "name": "Dream Mirror Phantasms",
+    "filename": "Dream_Mirror_Phantasms",
+    "card_text": "When this card is activated: You can add 1 \"Dream Mirror\" monster from your Deck to your hand. If \"Dream Mirror of Joy\" is in a Field Zone, all monsters you control gain 500 ATK/DEF. If \"Dream Mirror of Terror\" is in a Field Zone, all monsters your opponent controls lose 500 ATK/DEF. You can only activate 1 \"Dream Mirror Phantasms\" per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Dream Mirror Fantasy",
+        "Dream Mirror Hypnagogia",
+        "Dream Mirror of Chaos",
+        "Dream Mirror of Joy",
+        "Dream Mirror of Terror",
+        "Dream Mirror Oneiromancy",
+        "Dream Mirror Recap",
+        "Ikelos, the Dream Mirror Mara",
+        "Ikelos, the Dream Mirror Sprite",
+        "Morpheus, the Dream Mirror Black Knight",
+        "Morpheus, the Dream Mirror White Knight",
+        "Neiroy, the Dream Mirror Disciple",
+        "Neiroy, the Dream Mirror Traitor",
+        "Oneiros, the Dream Mirror Erlking",
+        "Oneiros, the Dream Mirror Tormentor",
+        "Phantasos, the Dream Mirror Foe",
+        "Phantasos, the Dream Mirror Friend"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

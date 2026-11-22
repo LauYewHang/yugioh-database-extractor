@@ -1,0 +1,12 @@
+{
+    "name": "Summon Dice",
+    "filename": "Summon_Dice",
+    "card_text": "Pay 1000 LP; roll a six-sided die and apply the result.\n\u25cf1 or 2: Immediately after this effect resolves, you can Normal Summon 1 monster.\n\u25cf3 or 4: You can Special Summon 1 monster from your GY.\n\u25cf5 or 6: You can Special Summon 1 Level 5 or higher monster from your hand.\nYou can only activate 1 \"Summon Dice\" per turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

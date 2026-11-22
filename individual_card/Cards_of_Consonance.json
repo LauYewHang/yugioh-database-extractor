@@ -1,0 +1,16 @@
+{
+    "name": "Cards of Consonance",
+    "filename": "Cards_of_Consonance",
+    "card_text": "Discard 1 Dragon Tuner with 1000 or less ATK; draw 2 cards.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "DUELIST PACK - YUSEI 3 -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

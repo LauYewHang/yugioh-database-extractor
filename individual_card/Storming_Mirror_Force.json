@@ -1,0 +1,17 @@
+{
+    "name": "Storming Mirror Force",
+    "filename": "Storming_Mirror_Force",
+    "card_text": "When an opponent's monster declares an attack: Return all your opponent's Attack Position monsters to the hand.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "STRUCTURE DECK : CYBERSE LINK",
+        "Gold Series: Maximum Gold",
+        "LEGENDARY DRAGON DECKS",
+        "2-PLAYER STARTER SET",
+        "CLASH OF REBELLIONS",
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Energy Bravery",
+    "filename": "Energy_Bravery",
+    "card_text": "Gemini monsters you control that are being treated as Effect Monsters cannot be destroyed by card effects.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

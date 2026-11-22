@@ -1,0 +1,19 @@
+{
+    "name": "Dreadscythe Harvester",
+    "filename": "Dreadscythe_Harvester",
+    "card_text": "You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.",
+    "release_date": "2007-07-15",
+    "available_set": [
+        "SHONEN JUMP Subscription Promotional Card - July 2007 -",
+        "COLLECTIBLE TIN 2010 WAVE 2",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2300,
+    "defense": 1600,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

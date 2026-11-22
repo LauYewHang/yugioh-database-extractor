@@ -1,0 +1,28 @@
+{
+    "name": "The Weather Rainy Canvas",
+    "filename": "The_Weather_Rainy_Canvas",
+    "card_text": "\"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\n\u25cfYou can banish this card, then target 1 Spell/Trap your opponent controls (Quick Effect); return it to the hand.\nYou can only control 1 \"The Weather Rainy Canvas\".",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "The Weather Auroral Canvas",
+        "The Weather Cloudy Canvas",
+        "The Weather Forecast",
+        "The Weather Painter Aurora",
+        "The Weather Painter Cloud",
+        "The Weather Painter Moonbow",
+        "The Weather Painter Rain",
+        "The Weather Painter Rainbow",
+        "The Weather Painter Snow",
+        "The Weather Painter Sun",
+        "The Weather Painter Thunder",
+        "The Weather Rainbowed Canvas",
+        "The Weather Snowy Canvas",
+        "The Weather Sunny Canvas",
+        "The Weather Thundery Canvas"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

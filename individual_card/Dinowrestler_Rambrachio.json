@@ -1,0 +1,37 @@
+{
+    "name": "Dinowrestler Rambrachio",
+    "filename": "Dinowrestler_Rambrachio",
+    "card_text": "When your \"Dinowrestler\" monster inflicts battle damage to your opponent: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Dinowrestler Rambrachio\" once per turn. Your opponent cannot target other \"Dinowrestler\" monsters you control with card effects.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Dinowrestler Capaptera",
+        "Dinowrestler Capoeiraptor",
+        "Dinowrestler Chimera T Wrextle",
+        "Dinowrestler Coelasilat",
+        "Dinowrestler Eskrimamenchi",
+        "Dinowrestler Giga Spinosavate",
+        "Dinowrestler Iguanodraka",
+        "Dinowrestler King T Wrextle",
+        "Dinowrestler Martial Ampelo",
+        "Dinowrestler Martial Anga",
+        "Dinowrestler Martial Ankylo",
+        "Dinowrestler Pankratops",
+        "Dinowrestler Systegosaur",
+        "Dinowrestler Terra Parkourio",
+        "Dinowrestler Valeonyx",
+        "Gouki Gameface",
+        "Tyrant Dino Fusion",
+        "World Dino Wrestling"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,17 @@
+{
+    "name": "King of Destruction - Xexex",
+    "filename": "King_of_Destruction___Xexex",
+    "card_text": "This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Fiend-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.",
+    "release_date": "2005-08-07",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2005"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Valkyrie's Embrace",
+    "filename": "Valkyrie_s_Embrace",
+    "card_text": "If all monsters you control are \"Valkyrie\" monsters: Target 1 Attack Position \"Valkyrie\" monster you control and 1 face-up monster your opponent controls; change your monster to Defense Position, and if you do, banish that opponent's monster. You cannot Special Summon monsters the turn you activate this card, except \"Valkyrie\" monsters. You can only activate 1 \"Valkyrie's Embrace\" per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Apple of Enlightenment",
+        "Final Light",
+        "Fortune Chariot",
+        "Goddess Skuld's Oracle",
+        "Goddess Urd's Verdict",
+        "Goddess Verdande's Guidance",
+        "Loge's Flame",
+        "Mischief of the Time Goddess",
+        "Pegasus Wing",
+        "Ride of the Valkyries",
+        "Valkyrie Brunhilde",
+        "Valkyrie Chariot",
+        "Valkyrie Dritte",
+        "Valkyrie Erda",
+        "Valkyrie Erste",
+        "Valkyrie Funfte",
+        "Valkyrie Sechste",
+        "Valkyrie Sigrun",
+        "Valkyrie Vierte",
+        "Valkyrie Zweite"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

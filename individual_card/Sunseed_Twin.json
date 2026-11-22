@@ -1,0 +1,26 @@
+{
+    "name": "Sunseed Twin",
+    "filename": "Sunseed_Twin",
+    "card_text": "If this card is Normal or Special Summoned while you control a \"Sunavalon\" Link Monster: You can target 1 Level 4 or lower Plant Normal Monster in your GY; Special Summon it. You can banish this card in your GY and 1 Link Monster you control; if you have 2 or more Plant Link Monsters with the same name as each other in your GY, Special Summon 1 of them. You can only use each effect of \"Sunseed Twin\" once per turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Sunavalon Bloom",
+        "Sunavalon Daphne",
+        "Sunavalon Dryades",
+        "Sunavalon Dryanome",
+        "Sunavalon Dryas",
+        "Sunavalon Dryatrentiay",
+        "Sunavalon Melias",
+        "Sunvine Sowing"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 800,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

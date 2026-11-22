@@ -1,0 +1,12 @@
+{
+    "name": "Underdog",
+    "filename": "Underdog",
+    "card_text": "During your turn, negate the effects of all face-up monsters your opponent controls. During your opponent's turn, negate the effects of all face-up monsters you control.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

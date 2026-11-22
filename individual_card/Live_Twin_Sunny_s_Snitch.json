@@ -1,0 +1,30 @@
+{
+    "name": "Live\u2606Twin Sunny's Snitch",
+    "filename": "Live_Twin_Sunny_s_Snitch",
+    "card_text": "When this card is activated: You can add 1 \"Live\u2606Twin\" monster from your Deck to your hand. While you control an \"Evil\u2605Twin\" monster, each time your opponent Normal or Special Summons a monster(s), you gain 200 LP, and if you do, inflict 200 damage to your opponent. You can only activate 1 \"Live\u2606Twin Sunny's Snitch\" per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Evil\u2605Twin Challenge",
+        "Evil\u2605Twin GG EZ",
+        "Evil\u2605Twin Ki-sikil",
+        "Evil\u2605Twin Ki-sikil Deal",
+        "Evil\u2605Twin Lil-la",
+        "Evil\u2605Twin Present",
+        "Evil\u2605Twin's Trouble Sunny",
+        "Evil\u2605Twins Ki-sikil & Lil-la",
+        "Live\u2606Twin Channel",
+        "Live\u2606Twin Home",
+        "Live\u2606Twin Ki-sikil",
+        "Live\u2606Twin Ki-sikil Frost",
+        "Live\u2606Twin Lil-la",
+        "Live\u2606Twin Lil-la Sweet",
+        "Live\u2606Twin Lil-la Treat",
+        "Secret Password"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

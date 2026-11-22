@@ -1,0 +1,29 @@
+{
+    "name": "Atlantean Heavy Infantry",
+    "filename": "Atlantean_Heavy_Infantry",
+    "card_text": "During your Main Phase, you can Normal Summon 1 Level 4 or lower Sea Serpent monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card is sent to the GY to activate a WATER monster's effect: Target 1 face-up card your opponent controls; destroy that target.",
+    "release_date": "2012-10-16",
+    "available_set": [
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "QUARTER CENTURY STAMPEDE",
+        "ASTRAL PACK TWO",
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Abyss-sting Triaina",
+        "Abyssrhine, the Atlantean Spirit",
+        "Atlantean Marksman",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad",
+        "Neptabyss, the Atlantean Prince",
+        "Poseidra Abyss, the Atlantean Dragon Lord",
+        "Poseidra, the Storming Atlantean"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 1600,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

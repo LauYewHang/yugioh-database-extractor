@@ -1,0 +1,19 @@
+{
+    "name": "Legendary Magician of Dark",
+    "filename": "Legendary_Magician_of_Dark",
+    "card_text": "3 Level 7 monsters\nMust be Xyz Summoned and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their LP to 0, while it has an Xyz Material attached that was originally Spellcaster-Type, you win the Match.",
+    "release_date": "2012-08-11",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2012",
+        "WORLD CHAMPIONSHIP 2012 Prize and Participation Cards",
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 7
+}

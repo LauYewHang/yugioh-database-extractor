@@ -1,0 +1,20 @@
+{
+    "name": "Sea Dragoons of Draconia",
+    "filename": "Sea_Dragoons_of_Draconia",
+    "card_text": "Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea's opposite shores.",
+    "release_date": "2015-05-09",
+    "available_set": [
+        "CROSSED SOULS",
+        "CROSSED SOULS Sneak Peek"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 200,
+    "defense": 2100,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3,
+    "pendulum_effect": "When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.",
+    "pendulum_scale": 7
+}

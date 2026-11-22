@@ -1,0 +1,31 @@
+{
+    "name": "Fiendsmith's Requiem",
+    "filename": "Fiendsmith_s_Requiem",
+    "card_text": "1 LIGHT Fiend monster\nYou can only Special Summon \"Fiendsmith's Requiem(s)\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Fiendsmith\" monster from your hand or Deck. You can target 1 LIGHT non-Link Fiend monster you control; equip this card from your field or GY to that monster you control as an Equip Spell that gives it 600 ATK. You can only use this effect of \"Fiendsmith's Requiem\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Fiendsmith Engraver",
+        "Fiendsmith in Paradise",
+        "Fiendsmith Kyrie",
+        "Fiendsmith's Agnumday",
+        "Fiendsmith's Desirae",
+        "Fiendsmith's Lacrima",
+        "Fiendsmith's Rextremende",
+        "Fiendsmith's Sanct",
+        "Fiendsmith's Sequence",
+        "Fiendsmith's Tract",
+        "Lacrima the Crimson Tears"
+    ],
+    "attribute": "LIGHT",
+    "attack": 600,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "link_rating": 1,
+    "link_arrow": 4
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Psychic Fervor",
+    "filename": "Psychic_Fervor",
+    "card_text": "During the Battle Phase: Target 1 face-up monster you control; you lose LP equal to its ATK, and if you do, that monster's ATK is doubled until the end of this turn. It cannot attack directly during the turn you activate this card. You can only activate 1 \"Psychic Fervor\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

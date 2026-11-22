@@ -1,0 +1,17 @@
+{
+    "name": "Swap Cleric",
+    "filename": "Swap_Cleric",
+    "card_text": "If this card is sent to the GY as Link Material: You can have that Link Monster lose 500 ATK, then draw 1 card. You can only use this effect of \"Swap Cleric\" once per turn.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 1000,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

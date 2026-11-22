@@ -1,0 +1,18 @@
+{
+    "name": "Fushi No Tori",
+    "filename": "Fushi_No_Tori",
+    "card_text": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent's Life Points, increase your Life Points by an amount equal to the Battle Damage.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": 0,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

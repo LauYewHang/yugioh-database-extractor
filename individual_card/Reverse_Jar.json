@@ -1,0 +1,18 @@
+{
+    "name": "Reverse Jar",
+    "filename": "Reverse_Jar",
+    "card_text": "FLIP: Change as many other monsters on the field as possible to face-down Defense Position, then, return as many face-up Spells/Traps as possible from the field to the hand, then, each player can Set Spells/Traps from their hand, up to the number returned to their own hand by this effect. You can only use this effect of \"Reverse Jar\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 900,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

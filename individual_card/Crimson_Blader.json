@@ -1,0 +1,23 @@
+{
+    "name": "Crimson Blader",
+    "filename": "Crimson_Blader",
+    "card_text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle and sends it to the GY: Your opponent cannot Normal or Special Summon Level 5 or higher monsters during their next turn.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "QUARTER CENTURY STAMPEDE",
+        "ASTRAL PACK FOUR",
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Crimson Blade Dragon",
+        "Crimson Blader/Assault Mode"
+    ],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 2600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

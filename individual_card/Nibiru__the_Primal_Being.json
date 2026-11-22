@@ -1,0 +1,28 @@
+{
+    "name": "Nibiru, the Primal Being",
+    "filename": "Nibiru__the_Primal_Being",
+    "card_text": "During the Main Phase, if your opponent Normal or Special Summoned 5 or more monsters this turn (Quick Effect): You can Tribute as many face-up monsters on the field as possible, and if you do, Special Summon this card from your hand, then Special Summon 1 \"Primal Being Token\" (Rock/LIGHT/Level 11/ATK ?/DEF ?) to your opponent's field (this Token's ATK/DEF become the combined original ATK/DEF of the Tributed monsters). You can only use this effect of \"Nibiru, the Primal Being\" once per turn.",
+    "release_date": "2019-08-30",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "BROTHERS OF LEGEND",
+        "LEGENDARY ARC-V DECKS",
+        "2019 GOLD SARCOPHAGUS TIN",
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "Gold Series: Maximum Gold",
+        "OTS TOURNAMENT PACK 14",
+        "QUARTER CENTURY STAMPEDE",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 600,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

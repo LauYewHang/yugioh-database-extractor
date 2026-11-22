@@ -1,0 +1,12 @@
+{
+    "name": "Temple of the Sun",
+    "filename": "Temple_of_the_Sun",
+    "card_text": "Face-up monsters you control that were Special Summoned from the Graveyard gain 300 ATK.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

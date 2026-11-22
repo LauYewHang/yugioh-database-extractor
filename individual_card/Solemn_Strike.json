@@ -1,0 +1,21 @@
+{
+    "name": "Solemn Strike",
+    "filename": "Solemn_Strike",
+    "card_text": "When a monster(s) would be Special Summoned, OR a monster effect is activated: Pay 1500 LP; negate the Summon or activation, and if you do, destroy that card.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "2016 MEGA-TINS MEGA PACK",
+        "THE GRAND CREATORS",
+        "CODE OF THE DUELIST SPECIAL EDITION",
+        "OTS TOURNAMENT PACK 4",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "Duel Devastator",
+        "WINNER'S PACK 2026-2027",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

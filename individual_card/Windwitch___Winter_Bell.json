@@ -1,0 +1,28 @@
+{
+    "name": "Windwitch - Winter Bell",
+    "filename": "Windwitch___Winter_Bell",
+    "card_text": "1 Tuner + 1+ non-Tuner WIND monsters\nYou can target 1 \"Windwitch\" monster in your GY; inflict damage to your opponent equal to that target's Level x 200. During the Battle Phase (Quick Effect): You can target 1 \"Windwitch\" monster you control; Special Summon 1 monster from your hand with a Level less than or equal to that monster, but it cannot attack this turn. You can only use each effect of \"Windwitch - Winter Bell\" once per turn.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "OTS TOURNAMENT PACK 6",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Icy Breeze Refrain",
+        "Windwitch - Blizzard Bell",
+        "Windwitch - Crystal Bell",
+        "Windwitch - Diamond Bell",
+        "Windwitch - Freeze Bell",
+        "Windwitch - Glass Bell",
+        "Windwitch - Ice Bell",
+        "Windwitch - Snow Bell",
+        "Windwitch Chimes"
+    ],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

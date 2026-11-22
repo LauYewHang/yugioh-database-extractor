@@ -1,0 +1,19 @@
+{
+    "name": "Spirit of the Fall Wind",
+    "filename": "Spirit_of_the_Fall_Wind",
+    "card_text": "If this card is Normal Summoned: You can add 1 Flip monster from your Deck to your hand.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "Phantom Revenge",
+        "SHINING VICTORIES"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": 900,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Advanced Heraldry Art",
+    "filename": "Advanced_Heraldry_Art",
+    "card_text": "Target 2 \"Heraldic Beast\" monsters in your GY; Special Summon both those targets, then immediately after this effect resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Augmented Heraldry",
+        "Heraldic Beast Aberconway",
+        "Heraldic Beast Amphisbaena",
+        "Heraldic Beast Basilisk",
+        "Heraldic Beast Berners Falcon",
+        "Heraldic Beast Eale",
+        "Heraldic Beast Gryphon",
+        "Heraldic Beast Leo",
+        "Heraldic Beast Stad Whale",
+        "Heraldic Beast Twin-Headed Eagle",
+        "Heraldic Beast Unicorn"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

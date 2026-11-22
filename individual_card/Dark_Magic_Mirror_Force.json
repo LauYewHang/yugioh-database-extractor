@@ -1,0 +1,38 @@
+{
+    "name": "Dark Magic Mirror Force",
+    "filename": "Dark_Magic_Mirror_Force",
+    "card_text": "When an opponent's monster declares an attack, or an opponent's monster effect is activated that would destroy a monster(s) on the field, while a monster that mentions \"Shining Sarcophagus\" is on the field: Destroy as many Attack Position monsters your opponent controls as possible, then if you control \"Dark Magician\", inflict 500 damage to your opponent for each monster destroyed, also for the rest of this turn after this card resolves, the first time each monster you control that mentions \"Shining Sarcophagus\" would be destroyed by battle or card effect, it is not destroyed.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Future Silence",
+        "Gadget Trio",
+        "Gandora-G the Dragon of Destruction",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Shining Sarcophagus",
+        "Silent Swordsman Zero",
+        "Soul Servant",
+        "Stronghold the Hidden Fortress",
+        "Ties That Bind",
+        "Timaeus the United Dragon",
+        "Turn Silence"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Abyss-scorn",
+    "filename": "Abyss_scorn",
+    "card_text": "Target 1 \"Mermail\" monster you control; it gains 1000 ATK until the End Phase. When this Set card is sent to the Graveyard: Target 1 monster your opponent controls; send that target to the Graveyard.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Abyssrhine, the Atlantean Spirit",
+        "Abysstrite, the Atlantean Spirit",
+        "Mermail Abyssalacia",
+        "Mermail Abyssbalaen",
+        "Mermail Abyssdine",
+        "Mermail Abyssgaios",
+        "Mermail Abyssgunde",
+        "Mermail Abysshilde",
+        "Mermail Abyssleed",
+        "Mermail Abysslinde",
+        "Mermail Abysslung",
+        "Mermail Abyssmander",
+        "Mermail Abyssmegalo",
+        "Mermail Abyssnerei",
+        "Mermail Abyssnose",
+        "Mermail Abyssocea",
+        "Mermail Abysspike",
+        "Mermail Abyssteus",
+        "Mermail Abysstrite",
+        "Mermail Abyssturge",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

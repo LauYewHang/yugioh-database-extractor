@@ -1,0 +1,17 @@
+{
+    "name": "Time Machine",
+    "filename": "Time_Machine",
+    "card_text": "When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "CROSSROADS OF CHAOS",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "MACHINA MAYHEM STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

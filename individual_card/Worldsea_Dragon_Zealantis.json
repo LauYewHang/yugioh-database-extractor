@@ -1,0 +1,19 @@
+{
+    "name": "Worldsea Dragon Zealantis",
+    "filename": "Worldsea_Dragon_Zealantis",
+    "card_text": "1+ Effect Monsters\nYou can only control 1 \"Worldsea Dragon Zealantis\". You can only use each of the following effects of \"Worldsea Dragon Zealantis\" once per turn. During your Main Phase: You can banish all monsters on the field, then Special Summon as many monsters as possible that were banished by this effect, to their owners' fields, face-up, or in face-down Defense Position. During the Battle Phase (Quick Effect): You can destroy cards on the field up to the number of co-linked monsters on the field.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 340
+}

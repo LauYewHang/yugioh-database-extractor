@@ -1,0 +1,24 @@
+{
+    "name": "D.D. Survivor",
+    "filename": "D_D__Survivor",
+    "card_text": "During the End Phase, if this card was banished while face-up on your field, this turn: Special Summon this banished card. This effect can only activate once per turn.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "RA YELLOW MEGA PACK",
+        "DARK REVELATION Volume 3",
+        "THE LOST MILLENNIUM",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "CHAMPION PACK GAME FOUR",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "THE DARK EMPEROR STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

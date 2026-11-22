@@ -1,0 +1,20 @@
+{
+    "name": "M-Warrior #1",
+    "filename": "M_Warrior__1",
+    "card_text": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Karbonala Warrior"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

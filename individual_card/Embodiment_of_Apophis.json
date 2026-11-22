@@ -1,0 +1,26 @@
+{
+    "name": "Embodiment of Apophis",
+    "filename": "Embodiment_of_Apophis",
+    "card_text": "During the Main Phase: Special Summon this card as a Normal Monster (Reptile/EARTH/Level 4/ATK 1600/DEF 1800) (this card is also still a Trap).",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DUEL TERMINAL 6B",
+        "DARK LEGENDS",
+        "MAZE OF THE MASTER",
+        "DUELIST PACK - BATTLE CITY -",
+        "RETRO PACK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "GOLD SERIES HAUNTED MINE",
+        "Speed Duel: Battle City Box",
+        "CYBERNETIC REVOLUTION Sneak Peek",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Apophis the Serpent",
+        "Divine Serpent Apophis",
+        "The Man with the Mark",
+        "Treasures of the Kings"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

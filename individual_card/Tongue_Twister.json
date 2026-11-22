@@ -1,0 +1,17 @@
+{
+    "name": "Tongue Twister",
+    "filename": "Tongue_Twister",
+    "card_text": "If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 400,
+    "defense": 300,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Eternal Dread",
+    "filename": "Eternal_Dread",
+    "card_text": "Place 2 Clock Counters on each \"Clock Tower Prison\".",
+    "release_date": "2007-02-07",
+    "available_set": [
+        "DUELIST PACK - ASTER PHOENIX -",
+        "LEGENDARY HERO DECKS"
+    ],
+    "related_card": [
+        "Clock Tower Prison",
+        "Destiny HERO - Dread Servant"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

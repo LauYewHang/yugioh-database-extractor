@@ -1,0 +1,17 @@
+{
+    "name": "Audhumla, Progenitor of the Frozen Expanse",
+    "filename": "Audhumla__Progenitor_of_the_Frozen_Expanse",
+    "card_text": "If 4 or more cards are on the field: You can Special Summon this card from your hand. You can send up to 2 Spells/Traps you control to the GY; draw that many cards, then you can Special Summon 1 WATER monster from your hand. When your opponent activates a card or effect (Quick Effect): You can change this card to face-down Defense Position, also for the rest of this turn, all face-down cards you control cannot be destroyed by your opponent's card effects, and your opponent cannot target them with card effects. You can only use each effect of \"Audhumla, Progenitor of the Frozen Expanse\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2500,
+    "defense": 3200,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

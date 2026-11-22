@@ -1,0 +1,32 @@
+{
+    "name": "Beetrooper Cruel Saturnas",
+    "filename": "Beetrooper_Cruel_Saturnas",
+    "card_text": "1 \"Beetrooper\" monster + 1 Insect monster\nYou cannot Special Summon monsters, except Insect monsters. You can only use each of the following effects of \"Beetrooper Cruel Saturnas\" once per turn. If this card is Special Summoned: You can add 1 \"Beetrooper\" card from your Deck to your hand. If an Insect monster(s) is banished face-up (except during the Damage Step): You can target 1 of your banished \"Beetrooper\" monsters; Special Summon it.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Beetrooper Armor Horn",
+        "Beetrooper Assault Roller",
+        "Beetrooper Descent",
+        "Beetrooper Fly & Sting",
+        "Beetrooper Formation",
+        "Beetrooper Landing",
+        "Beetrooper Light Flapper",
+        "Beetrooper Scale Bomber",
+        "Beetrooper Scout Buggy",
+        "Beetrooper Squad",
+        "Beetrooper Sting Lancer",
+        "Giant Beetrooper Invincible Atlas",
+        "Heavy Beetrooper Mighty Neptune",
+        "Ultra Beetrooper Absolute Hercules"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

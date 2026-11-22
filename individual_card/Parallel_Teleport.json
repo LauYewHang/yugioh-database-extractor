@@ -1,0 +1,16 @@
+{
+    "name": "Parallel Teleport",
+    "filename": "Parallel_Teleport",
+    "card_text": "Tribute 1 Psychic monster with a Level; Special Summon 1 Level 7 or lower Psychic monster from your Deck or Extra Deck, then if the original Level of the Tributed monster is different from that of the Special Summoned monster on the field, you lose LP equal to the difference x 1000. You cannot Special Summon the turn you activate this card, except Psychic monsters. You can only activate 1 \"Parallel Teleport\" per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Axon Kicker Oracle",
+        "Mind Procedure",
+        "Serene Psychic Sorceress"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

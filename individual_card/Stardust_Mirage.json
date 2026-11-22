@@ -1,0 +1,30 @@
+{
+    "name": "Stardust Mirage",
+    "filename": "Stardust_Mirage",
+    "card_text": "If you control a Level 8 or higher Dragon Synchro Monster: Special Summon as many monsters as possible from your GY that were destroyed and sent to your GY by battle or an opponent's card effect this turn. You can only activate 1 \"Stardust Mirage\" per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Cosmic Flare",
+        "Final Cross",
+        "Junk Armor",
+        "Junk Mail",
+        "Junk Meister",
+        "Necroid Synchro",
+        "Satellite Synchron",
+        "Satellite Warrior",
+        "Shooting Star",
+        "Stardust Dragon - Victim Sanctuary",
+        "Stardust Flash",
+        "Stardust Illumination",
+        "Stardust Re-Spark",
+        "Stardust Sifr Divine Dragon",
+        "Stardust Trail",
+        "Stardust Wish",
+        "Synchro Chase"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

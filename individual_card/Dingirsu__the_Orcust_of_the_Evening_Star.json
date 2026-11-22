@@ -1,0 +1,41 @@
+{
+    "name": "Dingirsu, the Orcust of the Evening Star",
+    "filename": "Dingirsu__the_Orcust_of_the_Evening_Star",
+    "card_text": "2 Level 8 monsters\nYou can only Special Summon \"Dingirsu, the Orcust of the Evening Star(s)\" once per turn. You can also Xyz Summon this card by using an \"Orcust\" Link Monster you control. If a card(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead. If this card is Special Summoned: You can activate 1 of these effects;\n\u25cfSend 1 card your opponent controls to the GY.\n\u25cfAttach 1 of your banished Machine monsters to this card.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "OTS TOURNAMENT PACK 11",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "MAGNIFICENT MAESTROS",
+        "DARK NEOSTORM",
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Galatea, the Orcust Automaton",
+        "Galatea-I, the Orcust Automaton",
+        "Girsu, the Orcust Mekk-Knight",
+        "Longirsu, the Orcust Orchestrator",
+        "Orcust Brass Bombard",
+        "Orcust Crescendo",
+        "Orcust Cymbal Skeleton",
+        "Orcust Harp Horror",
+        "Orcust Knightmare",
+        "Orcustrated Attack",
+        "Orcustrated Babel",
+        "Orcustrated Core",
+        "Orcustrated Einsatz",
+        "Orcustrated Release",
+        "Orcustrated Return",
+        "Orcustrion",
+        "World Legacy - \"World Wand\""
+    ],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 8
+}

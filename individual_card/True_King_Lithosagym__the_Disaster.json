@@ -1,0 +1,34 @@
+{
+    "name": "True King Lithosagym, the Disaster",
+    "filename": "True_King_Lithosagym__the_Disaster",
+    "card_text": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up field, including an EARTH monster, and if you do, Special Summon this card, and if you do that, and both destroyed monsters were EARTH, you can also look at your opponent's Extra Deck and banish up to 3 monsters from it with different names. If this card is destroyed by card effect: You can Special Summon 1 non-EARTH Wyrm monster from your GY. You can only use each effect of \"True King Lithosagym, the Disaster\" once per turn.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "TOON CHAOS",
+        "WILD SURVIVORS",
+        "RAGING TEMPEST",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Dinomight Knight, the True Dracofighter",
+        "Disciples of the True Dracophoenix",
+        "Draco Awakening",
+        "Dragonic Diagram",
+        "Dreiath III, the True Dracocavalry General",
+        "Ignis Heat, the True Dracowarrior",
+        "Majesty Maiden, the True Dracocaster",
+        "Mariamne Paradox, the True Dracophoenix Knight",
+        "True Draco Apocalypse",
+        "True Draco Heritage",
+        "True King of All Calamities",
+        "True King's Return"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2300,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

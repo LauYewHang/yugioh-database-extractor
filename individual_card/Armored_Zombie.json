@@ -1,0 +1,21 @@
+{
+    "name": "Armored Zombie",
+    "filename": "Armored_Zombie",
+    "card_text": "This warrior blindly swings a deadly blade with devastating force.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "DARK BEGINNING 1",
+        "SPEED DUEL: ARENA OF LOST SOULS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

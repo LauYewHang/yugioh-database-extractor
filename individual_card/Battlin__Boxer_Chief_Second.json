@@ -1,0 +1,42 @@
+{
+    "name": "Battlin' Boxer Chief Second",
+    "filename": "Battlin__Boxer_Chief_Second",
+    "card_text": "During your Main Phase, you can Normal Summon 1 \"Battlin' Boxer\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When an opponent's monster declares an attack, while you control a Warrior or FIRE monster: You can Special Summon this card from your hand, and if you do, negate that attack, then banish 1 monster on the field until the End Phase. You can only use this effect of \"Battlin' Boxer Chief Second\" once per turn.",
+    "release_date": "2023-08-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Battlin' Boxer Big Bandage",
+        "Battlin' Boxer Cheat Commissioner",
+        "Battlin' Boxer Counterpunch",
+        "Battlin' Boxer Glassjaw",
+        "Battlin' Boxer Headgeared",
+        "Battlin' Boxer King Dempsey",
+        "Battlin' Boxer Lead Yoke",
+        "Battlin' Boxer Promoter",
+        "Battlin' Boxer Rabbit Puncher",
+        "Battlin' Boxer Rib Gardna",
+        "Battlin' Boxer Shadow",
+        "Battlin' Boxer Sparrer",
+        "Battlin' Boxer Switchitter",
+        "Battlin' Boxer Uppercutter",
+        "Battlin' Boxer Veil",
+        "Battlin' Boxing Cross Counter",
+        "Battlin' Boxing Spirits",
+        "Jolt Counter",
+        "Last Counter",
+        "Number 105: Battlin' Boxer Star Cestus",
+        "Number 79: Battlin' Boxer Nova Kaiser",
+        "Number C105: Battlin' Boxer Comet Cestus",
+        "Number C79: Battlin' Boxer General Kaiser",
+        "Ring Announcer"
+    ],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

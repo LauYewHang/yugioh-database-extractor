@@ -1,0 +1,18 @@
+{
+    "name": "Element Soldier",
+    "filename": "Element_Soldier",
+    "card_text": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field:\n\u25cfWATER: Control of this card cannot switch.\n\u25cfEARTH: Negate the effect of an Effect Monster that this card destroyed by battle.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

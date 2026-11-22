@@ -1,0 +1,12 @@
+{
+    "name": "Seed Cannon",
+    "filename": "Seed_Cannon",
+    "card_text": "Each time a Plant-Type monster(s) is Summoned, place 1 Plant Counter on this card (max. 5). You can send this card to the Graveyard to inflict 500 damage to your opponent for each Plant Counter on it.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

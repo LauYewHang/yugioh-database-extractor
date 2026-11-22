@@ -1,0 +1,20 @@
+{
+    "name": "Trap Reactor \u30fbY FI",
+    "filename": "Trap_Reactor__Y_FI",
+    "card_text": "Once per turn, when your opponent activates a Trap Card, you can destroy the Trap Card and inflict 800 damage to your opponent.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Dark Flattop",
+        "Summon Reactor \u30fbSK"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

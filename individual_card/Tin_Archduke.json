@@ -1,0 +1,19 @@
+{
+    "name": "Tin Archduke",
+    "filename": "Tin_Archduke",
+    "card_text": "3 Level 4 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position. (Flip monsters' effects are not activated.)",
+    "release_date": "2013-02-01",
+    "available_set": [
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS",
+        "DUEL TERMINAL 7B",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

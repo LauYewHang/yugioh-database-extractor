@@ -1,0 +1,24 @@
+{
+    "name": "Perfectly Ultimate Great Moth",
+    "filename": "Perfectly_Ultimate_Great_Moth",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Petit Moth\" on your 6th turn or later after it was equipped with \"Cocoon of Evolution\".",
+    "release_date": "2003-11-04",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "Yu-Gi-Oh! The Sacred Cards Bundles",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Cocoon of Evolution",
+        "Petit Moth"
+    ],
+    "attribute": "EARTH",
+    "attack": 3500,
+    "defense": 3000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

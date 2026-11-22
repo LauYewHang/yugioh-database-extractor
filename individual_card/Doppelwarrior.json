@@ -1,0 +1,24 @@
+{
+    "name": "Doppelwarrior",
+    "filename": "Doppelwarrior",
+    "card_text": "When a monster(s) is Special Summoned from your GY (except during the Damage Step): You can Special Summon this card from your hand. If this card is sent to the GY as Synchro Material: You can Special Summon 2 \"Doppel Tokens\" (Warrior/DARK/Level 1/ATK 400/DEF 400) in Attack Position.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "SYNCHRON EXTREME STRUCTURE DECK",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "Legendary 5D's Decks",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
+        "MAZE OF MILLENNIA",
+        "STORM OF RAGNAROK",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

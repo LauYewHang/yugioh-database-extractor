@@ -1,0 +1,21 @@
+{
+    "name": "Xyz Shift",
+    "filename": "Xyz_Shift",
+    "card_text": "Tribute 1 Xyz Monster; Special Summon from your Extra Deck, 1 monster with the same Type, Attribute, and Rank as that Tributed monster had on the field, but with a different name, and if you do, attach this card to it as an Xyz Material. During the End Phase, send it to the Graveyard. You can only activate 1 \"Xyz Shift\" per turn.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

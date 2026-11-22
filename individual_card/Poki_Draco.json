@@ -1,0 +1,17 @@
+{
+    "name": "Poki Draco",
+    "filename": "Poki_Draco",
+    "card_text": "When this card is Normal Summoned: You can add 1 \"Poki Draco\" from your Deck to your hand.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 200,
+    "defense": 100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

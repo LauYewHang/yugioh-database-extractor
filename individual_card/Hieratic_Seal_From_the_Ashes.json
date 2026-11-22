@@ -1,0 +1,33 @@
+{
+    "name": "Hieratic Seal From the Ashes",
+    "filename": "Hieratic_Seal_From_the_Ashes",
+    "card_text": "Once per opponent's turn: You can send 1 \"Hieratic\" monster from your Deck to your GY. Once per turn, during your turn: You can target 1 of your banished \"Hieratic\" monsters; return that target to the GY. If this face-up card on the field is sent to the GY: Target 1 \"Hieratic\" monster in your GY; Special Summon that target.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD",
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Hieratic Dragon King of Atum",
+        "Hieratic Dragon of Asar",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Nuit",
+        "Hieratic Dragon of Su",
+        "Hieratic Dragon of Sutekh",
+        "Hieratic Dragon of Tefnuit",
+        "Hieratic Seal of Banishment",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Creation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King",
+        "Hieratic Seal of the Heavenly Spheres",
+        "Hieratic Seal of the Sun Dragon Overlord",
+        "Hieratic Sky Dragon Overlord of Heliopolis",
+        "Hieratic Sun Dragon Overlord of Heliopolis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

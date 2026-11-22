@@ -1,0 +1,39 @@
+{
+    "name": "Galatea, the Orcust Automaton",
+    "filename": "Galatea__the_Orcust_Automaton",
+    "card_text": "2 Effect Monsters, including an \"Orcust\" monster\nThis linked card cannot be destroyed by battle. You can target 1 of your banished Machine monsters; shuffle it into the Deck, then you can Set 1 \"Orcust\" Spell/Trap from your Deck. You can only use this effect of \"Galatea, the Orcust Automaton\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "QUARTER CENTURY BONANZA",
+        "OTS TOURNAMENT PACK 10"
+    ],
+    "related_card": [
+        "Dingirsu, the Orcust of the Evening Star",
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Galatea-I, the Orcust Automaton",
+        "Girsu, the Orcust Mekk-Knight",
+        "Longirsu, the Orcust Orchestrator",
+        "Orcust Brass Bombard",
+        "Orcust Crescendo",
+        "Orcust Cymbal Skeleton",
+        "Orcust Harp Horror",
+        "Orcust Knightmare",
+        "Orcustrated Attack",
+        "Orcustrated Babel",
+        "Orcustrated Core",
+        "Orcustrated Einsatz",
+        "Orcustrated Release",
+        "Orcustrated Return",
+        "Orcustrion",
+        "World Legacy - \"World Wand\""
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 514
+}

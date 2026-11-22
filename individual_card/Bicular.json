@@ -1,0 +1,20 @@
+{
+    "name": "Bicular",
+    "filename": "Bicular",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \"Unicycular\" from your hand or Deck.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Tricular",
+        "Unicycular"
+    ],
+    "attribute": "EARTH",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

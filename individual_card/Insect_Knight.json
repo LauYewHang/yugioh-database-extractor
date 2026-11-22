@@ -1,0 +1,19 @@
+{
+    "name": "Insect Knight",
+    "filename": "Insect_Knight",
+    "card_text": "Of all Insect fighters, he is the paragon of the Indestructible Insect Invaders, which only the elite of the elite can join. We can no longer ignore their unmatched battle prowess.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "BATTLE PACK EPIC DAWN",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 1500,
+    "monster_type": "Insect",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

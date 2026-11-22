@@ -1,0 +1,18 @@
+{
+    "name": "Mixousia the Confounder",
+    "filename": "Mixousia_the_Confounder",
+    "card_text": "1 Spellcaster monster + 1 non-Spellcaster monster\nYou can target 1 face-up monster on the field and declare 1 Attribute; it becomes that Attribute. During your opponent's Main Phase (Quick Effect): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing this card you control and monsters from your field or GY as material. If this card is in your GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn. You can only use each effect of \"Mixousia the Confounder\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2700,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

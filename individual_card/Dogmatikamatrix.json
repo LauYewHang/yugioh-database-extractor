@@ -1,0 +1,42 @@
+{
+    "name": "Dogmatikamatrix",
+    "filename": "Dogmatikamatrix",
+    "card_text": "When this card is activated: You can add 1 \"Dogmatika\" Ritual Monster or 1 \"Dogmatika\" Ritual Spell from your Deck to your hand, then if your opponent controls a monster, you can add 1 \"Dogmatika\" card from your Deck to your hand. Once per turn, if you control a \"Dogmatika\" Ritual Monster: You can look at either player's Extra Deck, and send 1 monster from it to the GY. You can only activate 1 \"Dogmatikamatrix\" per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Alba System Dogmatikalamity",
+        "Branded in Central Dogmatika",
+        "Dogmatika Adin, the Enlightened",
+        "Dogmatika Alba Zoa",
+        "Dogmatika Ashiyan",
+        "Dogmatika Ecclesia, the Virtuous",
+        "Dogmatika Encounter",
+        "Dogmatika Fleurdelis, the Knighted",
+        "Dogmatika Fleurdelis, the Thunderbolt",
+        "Dogmatika Genesis",
+        "Dogmatika Lawbringer",
+        "Dogmatika Maximus",
+        "Dogmatika Nation",
+        "Dogmatika Nexus",
+        "Dogmatika Punishment",
+        "Dogmatika Theo, the Iron Punch",
+        "Dogmatikacism",
+        "Dogmatikalamity",
+        "Dogmatikamacabre",
+        "Dogmatikaturgy",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Nadir Servant",
+        "Quadogmatika Beast",
+        "The Dragon that Devours the Dogma",
+        "The Fallen & The Virtuous",
+        "Titaniklad the Ash Dragon",
+        "White Knight of Dogmatika",
+        "White Relic of Dogmatika"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

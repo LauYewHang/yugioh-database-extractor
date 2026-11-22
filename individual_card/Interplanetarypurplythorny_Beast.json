@@ -1,0 +1,18 @@
+{
+    "name": "Interplanetarypurplythorny Beast",
+    "filename": "Interplanetarypurplythorny_Beast",
+    "card_text": "When a monster you control is destroyed by battle and sent to the Graveyard, while this card is in your Graveyard: You can Special Summon this card from your Graveyard. If Summoned this way, banish this card when it leaves the field. You can only use the effect of \"Interplanetarypurplythorny Beast\" once per turn.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1100,
+    "defense": 2200,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

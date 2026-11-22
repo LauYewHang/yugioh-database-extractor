@@ -1,0 +1,30 @@
+{
+    "name": "Vylon Delta",
+    "filename": "Vylon_Delta",
+    "card_text": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nIf this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Vylon Alpha",
+        "Vylon Component",
+        "Vylon Element",
+        "Vylon Filament",
+        "Vylon Hept",
+        "Vylon Material",
+        "Vylon Omega",
+        "Vylon Pentachloro",
+        "Vylon Polytope",
+        "Vylon Segment",
+        "Vylon Stigma",
+        "Vylon Tesseract"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 2800,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

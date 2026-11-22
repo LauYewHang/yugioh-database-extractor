@@ -1,0 +1,17 @@
+{
+    "name": "Aurora Wing",
+    "filename": "Aurora_Wing",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon this card in face-up Attack Position. You can only use the effect of \"Aurora Wing\" once per turn.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1200,
+    "defense": 1600,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Ground Attacker Bugroth",
+    "filename": "Ground_Attacker_Bugroth",
+    "card_text": "A surface battle robot that was once used for sea warfare.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS"
+    ],
+    "related_card": [
+        "Amphibious Bugroth"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

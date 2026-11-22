@@ -1,0 +1,19 @@
+{
+    "name": "Shadowslayer",
+    "filename": "Shadowslayer",
+    "card_text": "If all monsters your opponent controls are in Defense Position, this card can attack your opponent directly.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "STARTER DECK JADEN YUKI",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 200,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

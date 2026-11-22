@@ -1,0 +1,28 @@
+{
+    "name": "Libromancer Realized",
+    "filename": "Libromancer_Realized",
+    "card_text": "You can reveal 1 \"Libromancer\" Ritual Monster in your hand: Special Summon 1 \"Fire Token\" (Cyberse/FIRE/ATK 0/DEF 0) with the same Level as the revealed monster. While you control that Token, you cannot Special Summon monsters, except \"Libromancer\" monsters. You can only use this effect of \"Libromancer Realized\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Libromancer Agent",
+        "Libromancer Bonded",
+        "Libromancer Displaced",
+        "Libromancer Doombroker",
+        "Libromancer Fire",
+        "Libromancer Fireburst",
+        "Libromancer Firestarter",
+        "Libromancer First Appearance",
+        "Libromancer Geek Boy",
+        "Libromancer Intervention",
+        "Libromancer Magigirl",
+        "Libromancer Mystigirl",
+        "Libromancer Origin Story",
+        "Libromancer Prevented"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

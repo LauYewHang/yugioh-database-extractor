@@ -1,0 +1,31 @@
+{
+    "name": "Amorphage Sloth",
+    "filename": "Amorphage_Sloth",
+    "card_text": "Neither player can Special Summon monsters from the Extra Deck, except \"Amorphage\" monsters.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "FISTS OF THE GADGETS",
+        "SHINING VICTORIES"
+    ],
+    "related_card": [
+        "Amorphage Envy",
+        "Amorphage Gluttony",
+        "Amorphage Goliath",
+        "Amorphage Greed",
+        "Amorphage Infection",
+        "Amorphage Lechery",
+        "Amorphage Lysis",
+        "Amorphage Pride",
+        "Amorphage Wrath",
+        "Amorphous Persona"
+    ],
+    "attribute": "EARTH",
+    "attack": 2250,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6,
+    "pendulum_effect": "While you control an \"Amorphage\" monster, neither player can add cards from their Deck to their hand except by drawing them. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+    "pendulum_scale": 3
+}

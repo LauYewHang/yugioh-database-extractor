@@ -1,0 +1,22 @@
+{
+    "name": "Flash Knight",
+    "filename": "Flash_Knight",
+    "card_text": "The power of the pendulum flashes forth from this shining knight.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "Advanced Demo Deck Extra Pack",
+        "DEMO DECK 2016 (UK)",
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "",
+    "pendulum_scale": 7
+}

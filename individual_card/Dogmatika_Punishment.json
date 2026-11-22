@@ -1,0 +1,38 @@
+{
+    "name": "Dogmatika Punishment",
+    "filename": "Dogmatika_Punishment",
+    "card_text": "Target 1 face-up monster your opponent controls; send 1 monster with an equal or higher ATK from your Extra Deck to the GY, and if you do, destroy that monster. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Dogmatika Punishment\" per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "RISE OF THE DUELIST",
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "2021 TIN OF ANCIENT BATTLES",
+        "OTS TOURNAMENT PACK 15"
+    ],
+    "related_card": [
+        "Dogmatika Adin, the Enlightened",
+        "Dogmatika Alba Zoa",
+        "Dogmatika Ashiyan",
+        "Dogmatika Ecclesia, the Virtuous",
+        "Dogmatika Encounter",
+        "Dogmatika Fleurdelis, the Knighted",
+        "Dogmatika Fleurdelis, the Thunderbolt",
+        "Dogmatika Lawbringer",
+        "Dogmatika Nation",
+        "Dogmatikacism",
+        "Dogmatikalamity",
+        "Dogmatikamacabre",
+        "Dogmatikamatrix",
+        "Dogmatikaturgy",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Nadir Servant",
+        "Quadogmatika Beast",
+        "The Dragon that Devours the Dogma",
+        "Titaniklad the Ash Dragon",
+        "White Relic of Dogmatika"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

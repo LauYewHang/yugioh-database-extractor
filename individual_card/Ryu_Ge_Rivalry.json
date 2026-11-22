@@ -1,0 +1,24 @@
+{
+    "name": "Ryu-Ge Rivalry",
+    "filename": "Ryu_Ge_Rivalry",
+    "card_text": "Special Summon 1 \"Ryu-Ge\" monster from your hand, Deck, or GY, but return it to the hand during the End Phase. You can banish this card from your GY, then target 1 \"Ryu-Ge\" Continuous Spell in your banishment, GY, or field; place it on the bottom of the Deck, then draw 1 card. You can only use each effect of \"Ryu-Ge Rivalry\" once per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Genro Ryu-Ge Hakva",
+        "Kairo Ryu-Ge Emva",
+        "Kyoro Ryu-Ge Kaiva",
+        "Ryu-Ge End",
+        "Ryu-Ge Realm - Dino Domains",
+        "Ryu-Ge Realm - Sea Spires",
+        "Ryu-Ge Realm - Wyrm Winds",
+        "Ryu-Ge Rising",
+        "Ryu-Ge War Zone",
+        "Sosei Ryu-Ge Mistva",
+        "Tensei Ryu-Ge Anva"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

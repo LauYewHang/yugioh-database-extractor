@@ -1,0 +1,18 @@
+{
+    "name": "Psychic Tracker",
+    "filename": "Psychic_Tracker",
+    "card_text": "If you control a Level 3 monster other than \"Psychic Tracker\", you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Psychic Tracker\" once per turn this way. A Synchro Monster that used this card as material gains 600 ATK.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE",
+        "THE GRAND CREATORS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 600,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

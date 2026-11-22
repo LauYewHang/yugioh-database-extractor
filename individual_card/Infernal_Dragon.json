@@ -1,0 +1,19 @@
+{
+    "name": "Infernal Dragon",
+    "filename": "Infernal_Dragon",
+    "card_text": "Once per turn, during the End Phase, if this card attacked this turn: Destroy this card. When this card on the field is destroyed and sent to the GY: You can Tribute 1 monster; Special Summon this card from the GY.",
+    "release_date": "2007-03-07",
+    "available_set": [
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

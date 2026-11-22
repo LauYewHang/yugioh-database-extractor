@@ -1,0 +1,19 @@
+{
+    "name": "Absolute Crusader",
+    "filename": "Absolute_Crusader",
+    "card_text": "If a Level 5 or higher monster(s) is Special Summoned: Tribute this face-up card; destroy that Level 5 or higher monster(s).",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY DRAGON DECKS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

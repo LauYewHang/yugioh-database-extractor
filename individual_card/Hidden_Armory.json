@@ -1,0 +1,18 @@
+{
+    "name": "Hidden Armory",
+    "filename": "Hidden_Armory",
+    "card_text": "Send the top card of your Deck to the GY; add 1 Equip Spell from your Deck or GY to your hand. You cannot Normal Summon/Set the turn you activate this card.",
+    "release_date": "2009-10-27",
+    "available_set": [
+        "THE GRAND CREATORS",
+        "ASTRAL PACK ONE",
+        "THE INFINITY CHASERS",
+        "AMAZING DEFENDERS",
+        "Speed Duel: Battle City Box",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "WARRIORS' STRIKE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

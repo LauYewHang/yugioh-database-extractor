@@ -1,0 +1,33 @@
+{
+    "name": "Tearlaments Heartbeat",
+    "filename": "Tearlaments_Heartbeat",
+    "card_text": "Target 1 Spell/Trap on the field, or you can target 2 if you control \"Visas Starfrost\"; shuffle them into the Deck, then send 1 card from your hand to the GY. If this card is sent to the GY by card effect: You can target 1 \"Tearlaments\" Trap in your GY; add it to your hand. You can only use 1 \"Tearlaments Heartbeat\" effect per turn, and only once that turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Primeval Planet Perlereino",
+        "Tearlaments Cryme",
+        "Tearlaments Grief",
+        "Tearlaments Havnis",
+        "Tearlaments Kaleido-Heart",
+        "Tearlaments Kashtira",
+        "Tearlaments Kitkallos",
+        "Tearlaments Merrli",
+        "Tearlaments Metanoise",
+        "Tearlaments Perlegia",
+        "Tearlaments Reinoheart",
+        "Tearlaments Rulkallos",
+        "Tearlaments Scheiren",
+        "Tearlaments Scream",
+        "Tearlaments Sulliek",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

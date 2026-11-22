@@ -1,0 +1,18 @@
+{
+    "name": "Arkbrave Dragon",
+    "filename": "Arkbrave_Dragon",
+    "card_text": "If this card is Special Summoned from the GY: You can banish as many face-up Spells/Traps your opponent controls as possible, and if you do, this card gains 200 ATK/DEF for each card banished. Once per turn, during the Standby Phase, if this card is in the GY because it was sent there last turn: You can target 1 Level 7 or 8 Dragon monster in your GY, except \"Arkbrave Dragon\"; Special Summon it.",
+    "release_date": "2016-07-08",
+    "available_set": [
+        "GHOSTS FROM THE PAST",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tytannial, Princess of Camellias",
+    "filename": "Tytannial__Princess_of_Camellias",
+    "card_text": "When a card or effect is activated that targets a card(s) on the field (Quick Effect): You can Tribute 1 face-up Plant monster; negate the activation, and if you do, destroy it.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "SECRET SLAYERS",
+        "ASTRAL PACK FOUR",
+        "PREMIUM GOLD",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2800,
+    "defense": 2600,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

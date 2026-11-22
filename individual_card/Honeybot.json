@@ -1,0 +1,18 @@
+{
+    "name": "Honeybot",
+    "filename": "Honeybot",
+    "card_text": "2 Cyberse monsters\nNeither player can target monsters this card points to with card effects, and those monsters cannot be destroyed by battle.",
+    "release_date": "2017-07-21",
+    "available_set": [
+        "STARTER DECK - LINK STRIKE -",
+        "STAR PACK: VRAINS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 80
+}

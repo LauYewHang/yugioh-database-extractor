@@ -1,0 +1,24 @@
+{
+    "name": "Gearfried the Swordmaster",
+    "filename": "Gearfried_the_Swordmaster",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Release Restraint\". Each time an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [
+        "Release Restraint"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2600,
+    "defense": 2200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

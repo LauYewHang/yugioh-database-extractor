@@ -1,0 +1,17 @@
+{
+    "name": "Ipiria",
+    "filename": "Ipiria",
+    "card_text": "If this card is Summoned: Draw 1 card. You can only use this effect of \"Ipiria\" once per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Enneacraft Release",
+    "filename": "Enneacraft_Release",
+    "card_text": "Place 1 \"Enneacraft\" Pendulum Monster from your Deck in your Pendulum Zone. If this card is in your GY, except the turn it was sent there: You can banish it; add 1 face-up \"Enneacraft\" monster from your Extra Deck to your hand. You can only activate 1 \"Enneacraft Release\" per turn.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "Deftero Enneacraft - \"alazoneIA\"",
+        "Ekto Enneacraft - \"tromarIA\"",
+        "Enato Enneacraft - \"oknirIA\"",
+        "Enneacraft - Aiza.LEON",
+        "Enneacraft - Archa.TAIL",
+        "Enneacraft - Asta.PIXEA",
+        "Enneacraft - Atil.SPIA",
+        "Enneacraft - Atori.MAR",
+        "Enneacraft Reset",
+        "Enneacraft Reverth",
+        "Enneapolis",
+        "Proto Enneacraft - \"orgIA\"",
+        "Trito Enneacraft - \"exapatisIA\""
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

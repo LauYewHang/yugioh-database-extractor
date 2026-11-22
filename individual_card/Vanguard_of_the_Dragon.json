@@ -1,0 +1,20 @@
+{
+    "name": "Vanguard of the Dragon",
+    "filename": "Vanguard_of_the_Dragon",
+    "card_text": "You can send 1 Dragon monster from your hand to the GY; this card gains 300 ATK. When this card you control is sent to your GY by an opponent's card effect: You can target 1 Dragon Normal Monster in either GY; Special Summon that target.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "STARTER DECK KAIBA RELOADED",
+        "RAGING BATTLE",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1300,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

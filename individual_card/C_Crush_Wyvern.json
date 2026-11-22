@@ -1,0 +1,20 @@
+{
+    "name": "C-Crush Wyvern",
+    "filename": "C_Crush_Wyvern",
+    "card_text": "Once per turn, you can either: Target 1 LIGHT Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's Trap effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the GY: You can Special Summon 1 Union monster from your hand.",
+    "release_date": "2016-10-21",
+    "available_set": [
+        "STRUCTURE DECK : SETO KAIBA",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [
+        "ABC-Dragon Buster"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

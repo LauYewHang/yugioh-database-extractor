@@ -1,0 +1,17 @@
+{
+    "name": "Humpty Grumpty",
+    "filename": "Humpty_Grumpty",
+    "card_text": "Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: It gains 800 ATK until the end of this turn.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

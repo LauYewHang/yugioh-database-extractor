@@ -1,0 +1,36 @@
+{
+    "name": "Super Vehicroid Jumbo Drill",
+    "filename": "Super_Vehicroid_Jumbo_Drill",
+    "card_text": "\"Steamroid\" + \"Drillroid\" + \"Submarineroid\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [
+        "Ambulanceroid",
+        "Armoroid",
+        "Barbaroid, the Ultimate Battle Machine",
+        "Dragonroid",
+        "Drillroid",
+        "Emergeroid Call",
+        "Expressroid",
+        "Megaroid City",
+        "Mixeroid",
+        "Rescueroid",
+        "Stealthroid",
+        "Steamroid",
+        "Submarineroid",
+        "Super Vehicroid - Mobile Base",
+        "Supercharge",
+        "Vehicroid Connection Zone",
+        "Wonder Garage"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Cynet Recovery",
+    "filename": "Cynet_Recovery",
+    "card_text": "If a Link Monster(s) you control is destroyed by battle or an opponent's card effect: You can target 1 monster in your GY, except a Link Monster; Special Summon it in Defense Position. You can only use this effect of \"Cynet Recovery\" once per turn.",
+    "release_date": "2018-07-13",
+    "available_set": [
+        "STARTER DECK CODEBREAKER"
+    ],
+    "related_card": [
+        "Cyberse Reminder",
+        "Firewall Phantom",
+        "Micro Coder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

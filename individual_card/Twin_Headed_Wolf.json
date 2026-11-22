@@ -1,0 +1,19 @@
+{
+    "name": "Twin-Headed Wolf",
+    "filename": "Twin_Headed_Wolf",
+    "card_text": "While you control another Fiend monster, negate the effects of Flip monsters destroyed by battle with this card.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

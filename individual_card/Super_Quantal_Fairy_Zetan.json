@@ -1,0 +1,36 @@
+{
+    "name": "Super Quantal Fairy Zetan",
+    "filename": "Super_Quantal_Fairy_Zetan",
+    "card_text": "If you control a \"Super Quant\" monster, except \"Super Quantal Fairy Zetan\", and this card is in your hand: You can Special Summon this card, then you can make this card's Level the same as 1 \"Super Quant\" monster you control. You can Tribute this card and send 1 \"Super Quant\" card from your Deck to the GY, except a DARK monster; Special Summon 1 \"Super Quant\" monster from your Deck, except \"Super Quantal Fairy Zetan\". You can only use each effect of \"Super Quantal Fairy Zetan\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphan Spike",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Mech Beast Aeroboros",
+        "Super Quantal Mech Beast Grampulse",
+        "Super Quantal Mech Beast Lusterrex",
+        "Super Quantal Mech Beast Magnaliger",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,25 @@
+{
+    "name": "B.E.S. Tetran",
+    "filename": "B_E_S__Tetran",
+    "card_text": "When this card is Normal Summoned, put 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it. Once per turn, you can remove 1 counter on this card to destroy 1 Spell or Trap Card on the field.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "B.E.F. Zelos",
+        "B.E.S. Big Core MK-3",
+        "B.E.S. Derringer Core",
+        "Boss on Parade",
+        "Boss Rush",
+        "Super B.E.S. Metal Slave"
+    ],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": 2300,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Chain Material",
+    "filename": "Chain_Material",
+    "card_text": "Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or Graveyard, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters. You cannot attack during the turn this card is activated. If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

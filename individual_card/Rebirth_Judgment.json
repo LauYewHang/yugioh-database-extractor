@@ -1,0 +1,12 @@
+{
+    "name": "Rebirth Judgment",
+    "filename": "Rebirth_Judgment",
+    "card_text": "Once per turn: You can declare 1 Monster Type; monsters in the GYs become that Type for the rest of this turn (even if this card leaves the field).",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

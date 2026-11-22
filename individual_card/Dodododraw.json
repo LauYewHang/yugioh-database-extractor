@@ -1,0 +1,31 @@
+{
+    "name": "Dodododraw",
+    "filename": "Dodododraw",
+    "card_text": "Send 1 \"Dododo\" monster from your hand or face-up from your side of the field to the Graveyard; draw 2 cards. You can only activate 1 \"Dodododraw\" per turn.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [
+        "Dododo Bot",
+        "Dododo Buster",
+        "Dododo Driver",
+        "Dododo Swordsman",
+        "Dododo Warrior",
+        "Dododo Witch",
+        "Dodododo Warrior",
+        "Dodododwarf Gogogoglove",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Gogogo Goblindbergh",
+        "Guard Go!",
+        "Onomatokage",
+        "Onomatopaira",
+        "Onomatopia",
+        "Onomatopickup",
+        "Utopic Onomatopoeia",
+        "Zubababancho Gagagacoat"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Cyber-Tech Alligator",
+    "filename": "Cyber_Tech_Alligator",
+    "card_text": "Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.\n\n(This card is not treated as a \"Cyber\" card.)",
+    "release_date": "2007-07-25",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "5D's STARTER DECK 2009",
+        "STARTER DECK JADEN YUKI",
+        "STARTER DECK SYRUS TRUESDALE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2500,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

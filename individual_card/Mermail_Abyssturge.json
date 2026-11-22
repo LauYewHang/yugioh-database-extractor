@@ -1,0 +1,43 @@
+{
+    "name": "Mermail Abyssturge",
+    "filename": "Mermail_Abyssturge",
+    "card_text": "When this card is Normal or Special Summoned: You can discard 1 WATER monster to the Graveyard, then target 1 Level 3 or lower WATER monster in your Graveyard; add that target to your hand. You can only use the effect of \"Mermail Abyssturge\" once per turn.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Abyss-scale of Cetus",
+        "Abyss-scale of the Kraken",
+        "Abyss-scale of the Mizuchi",
+        "Abyss-scorn",
+        "Abyss-sphere",
+        "Abyss-squall",
+        "Abyss-steam",
+        "Abyss-sting Triaina",
+        "Abyssrhine, the Atlantean Spirit",
+        "Mermail Abyssalacia",
+        "Mermail Abyssbalaen",
+        "Mermail Abyssdine",
+        "Mermail Abyssgunde",
+        "Mermail Abysshilde",
+        "Mermail Abyssleed",
+        "Mermail Abysslinde",
+        "Mermail Abyssmander",
+        "Mermail Abyssnose",
+        "Mermail Abyssocea",
+        "Mermail Abyssteus",
+        "Mermail Abysstrite",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad",
+        "Poseidra Abyss, the Atlantean Dragon Lord",
+        "Poseidra, the Storming Atlantean"
+    ],
+    "attribute": "WATER",
+    "attack": 1700,
+    "defense": 1100,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

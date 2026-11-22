@@ -1,0 +1,23 @@
+{
+    "name": "Skull Guardian",
+    "filename": "Skull_Guardian",
+    "card_text": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Novox's Prayer\". You must also offer monsters whose total Level Stars equal 7 or more as a Tribute from the field or your hand.",
+    "release_date": "2002-10-01",
+    "available_set": [
+        "TOURNAMENT PACK 2ND SEASON"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Barrier of the Voiceless Voice",
+        "Guardian of the Voiceless Voice",
+        "Novox's Prayer",
+        "Principug"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2050,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": "Ritual",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

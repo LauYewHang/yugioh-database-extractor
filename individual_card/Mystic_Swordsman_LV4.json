@@ -1,0 +1,28 @@
+{
+    "name": "Mystic Swordsman LV4",
+    "filename": "Mystic_Swordsman_LV4",
+    "card_text": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV6\" from your hand or Deck.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Level Down!?",
+        "Level Modulation",
+        "Level Up!",
+        "Mystic Swordsman LV2",
+        "Mystic Swordsman LV6",
+        "Silent Paladin",
+        "The Graveyard in the Fourth Dimension"
+    ],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Ra's Disciple",
+    "filename": "Ra_s_Disciple",
+    "card_text": "When this card is Summoned: You can Special Summon up to 2 \"Ra's Disciple\" from your hand and/or Deck. Cannot be Tributed, except for the Tribute Summon of \"Slifer the Sky Dragon\", \"Obelisk the Tormentor\", or \"The Winged Dragon of Ra\". You cannot Special Summon monsters, except by the effect of \"Ra's Disciple\".",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "DRAGONS OF LEGEND",
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR"
+    ],
+    "related_card": [
+        "Guardian Slime",
+        "Obelisk the Tormentor",
+        "Slifer the Sky Dragon",
+        "The True Sun God",
+        "The Winged Dragon of Ra"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1100,
+    "defense": 600,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

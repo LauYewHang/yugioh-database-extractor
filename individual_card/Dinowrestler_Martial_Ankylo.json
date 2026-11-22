@@ -1,0 +1,37 @@
+{
+    "name": "Dinowrestler Martial Ankylo",
+    "filename": "Dinowrestler_Martial_Ankylo",
+    "card_text": "During damage calculation, if another \"Dinowrestler\" monster you control battles an opponent's monster (Quick Effect): You can send this card from your hand or field to the GY; that monster you control cannot be destroyed by that battle, also the ATK of your opponent's battling monster is halved at the end of the Damage Step. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Dinowrestler Martial Ankylo\" once per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Dinowrestler Capaptera",
+        "Dinowrestler Capoeiraptor",
+        "Dinowrestler Chimera T Wrextle",
+        "Dinowrestler Coelasilat",
+        "Dinowrestler Eskrimamenchi",
+        "Dinowrestler Giga Spinosavate",
+        "Dinowrestler Iguanodraka",
+        "Dinowrestler King T Wrextle",
+        "Dinowrestler Martial Ampelo",
+        "Dinowrestler Martial Anga",
+        "Dinowrestler Pankratops",
+        "Dinowrestler Rambrachio",
+        "Dinowrestler Systegosaur",
+        "Dinowrestler Terra Parkourio",
+        "Dinowrestler Valeonyx",
+        "Gouki Gameface",
+        "Tyrant Dino Fusion",
+        "World Dino Wrestling"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

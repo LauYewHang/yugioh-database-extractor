@@ -1,0 +1,23 @@
+{
+    "name": "Axe Raider",
+    "filename": "Axe_Raider",
+    "card_text": "An axe-wielding monster of tremendous strength and agility.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "5D's STARTER DECK 2008",
+        "TOURNAMENT PACK 3RD SEASON",
+        "DARK BEGINNING 2",
+        "TOURNAMENT PACK 1ST SEASON"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1150,
+    "monster_type": "Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

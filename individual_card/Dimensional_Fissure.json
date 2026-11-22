@@ -1,0 +1,22 @@
+{
+    "name": "Dimensional Fissure",
+    "filename": "Dimensional_Fissure",
+    "card_text": "Any monster sent to the GY is banished instead.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "RA YELLOW MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "CHAMPION PACK GAME EIGHT",
+        "CROSSOVER BREAKERS",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "DARK REVELATION Volume 4",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "ENEMY OF JUSTICE",
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

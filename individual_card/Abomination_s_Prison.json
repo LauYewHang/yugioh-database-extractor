@@ -1,0 +1,36 @@
+{
+    "name": "Abomination's Prison",
+    "filename": "Abomination_s_Prison",
+    "card_text": "Add 1 \"Unchained\" card from your Deck to your hand. If this Set card is destroyed by card effect: You can Special Summon 1 \"Unchained\" monster from your Deck. You can only use each effect of \"Abomination's Prison\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT",
+        "2020 TIN OF LOST MEMORIES",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abominable Unchained Soul",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Abomination",
+        "Unchained Firelord of Yama",
+        "Unchained Hunger",
+        "Unchained Oni of Shara",
+        "Unchained Oni of Shyma",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Anguish",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Rage",
+        "Unchained Soul of Sharvara",
+        "Unchained Soul of Shyama",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Unchained Zealot - Kamra",
+        "Wailing of the Unchained Souls"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

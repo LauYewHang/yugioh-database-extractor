@@ -1,0 +1,19 @@
+{
+    "name": "Voltic Bicorn",
+    "filename": "Voltic_Bicorn",
+    "card_text": "1 Beast-Type Tuner + 1 or more non-Tuner monsters\nIf this card is destroyed by your opponent's card (either by battle or by card effect), both players send the top 7 cards of their Deck to the Graveyard.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [
+        "Lightning Tricorn"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

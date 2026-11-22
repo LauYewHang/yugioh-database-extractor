@@ -1,0 +1,28 @@
+{
+    "name": "The Most Distant, Deepest Depths",
+    "filename": "The_Most_Distant__Deepest_Depths",
+    "card_text": "While you control a Fish Synchro Monster, this card cannot be destroyed, or banished, by card effects. You can only use each of the following effects of \"The Most Distant, Deepest Depths\" once per turn. You can banish 1 Fish monster from your hand or GY; add 1 \"Ghoti\" monster from your Deck to your hand. If a Fish monster(s) is Normal or Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can target 1 Fish monster you control; banish it, and if you do, add this card to your hand.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Arionpos, Serpent of the Ghoti",
+        "Askaan, the Bicorned Ghoti",
+        "Eanoc, Sentry of the Ghoti",
+        "Ghoti Chain",
+        "Ghoti Cosmos",
+        "Ghoti Fury",
+        "Ghoti of the Deep Beyond",
+        "Guoglim, Spear of the Ghoti",
+        "Ixeep, Omen of the Ghoti",
+        "Keaf, Murk of the Ghoti",
+        "Paces, Light of the Ghoti",
+        "Psiics, Moonlight of the Ghoti",
+        "Shif, Fairy of the Ghoti",
+        "Snopios, Shade of the Ghoti",
+        "Zep, Ruby of the Ghoti"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

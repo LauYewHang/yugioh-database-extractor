@@ -1,0 +1,18 @@
+{
+    "name": "Phantasm Spiral Wave",
+    "filename": "Phantasm_Spiral_Wave",
+    "card_text": "Equip only to a Normal Monster. The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. At the end of the Battle Phase, if the equipped monster battled: You can Special Summon 1 \"Phantasm Spiral Dragon\" from your hand, Deck, or Graveyard, and equip it with this card, then if they have any, your opponent discards 1 card. You can only use this effect of \"Phantasm Spiral Wave\" once per turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Pacifis, the Phantasm City",
+        "Phantasm Spiral Assault",
+        "Phantasm Spiral Battle",
+        "Phantasm Spiral Dragon",
+        "Phantasm Spiral Power"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

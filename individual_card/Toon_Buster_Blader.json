@@ -1,0 +1,37 @@
+{
+    "name": "Toon Buster Blader",
+    "filename": "Toon_Buster_Blader",
+    "card_text": "Cannot attack the turn it is Summoned. Gains 500 ATK for each Dragon monster your opponent controls or is in their GY. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "MAGNIFICENT MAESTROS",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Animimicat",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Buster Dragon",
+        "Dark-Eyes Illusionist Faceless Mage",
+        "Destruction Sword Flash",
+        "Evil Box",
+        "Funny Dark Rabbit",
+        "Karma of the Destruction Swordsman",
+        "Mind Scan",
+        "Perfect Toon World",
+        "Toon Bookmark",
+        "Toon Dark Magician",
+        "Toon Kingdom",
+        "Toon Table of Contents",
+        "Toon World"
+    ],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": 2300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

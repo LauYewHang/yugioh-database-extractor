@@ -1,0 +1,19 @@
+{
+    "name": "Mare Mare",
+    "filename": "Mare_Mare",
+    "card_text": "Cannot be Special Summoned, except by the effect of a Wyrm monster. During your Main Phase: You can reduce this card's Level by 1, and if you do, Special Summon 1 \"Mini Mare Mare Token\" (Wyrm/WATER/Level 1/ATK 300/DEF 200). You can only use this effect of \"Mare Mare\" up to thrice per turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "INVASION: VENGEANCE",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2100,
+    "defense": 1400,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Missus Radiant",
+    "filename": "Missus_Radiant",
+    "card_text": "2 EARTH monsters\nAll EARTH monsters on the field gain 500 ATK and DEF, also all WIND monsters on the field lose 400 ATK and DEF. If this card is destroyed by battle or card effect: You can target 1 EARTH monster in your GY; add it to your hand. You can only use this effect of \"Missus Radiant\" once per turn.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "CODE OF THE DUELIST"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": null,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

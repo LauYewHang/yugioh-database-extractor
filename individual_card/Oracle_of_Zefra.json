@@ -1,0 +1,32 @@
+{
+    "name": "Oracle of Zefra",
+    "filename": "Oracle_of_Zefra",
+    "card_text": "When this card is activated: Add 1 \"Zefra\" monster from your Deck to your hand. When you Ritual Summon using a \"Zefra\" monster, or Special Summon using a \"Zefra\" monster as material, you can activate these effects depending on the monster Summoned, once per turn per effect:\n\u25cfRitual: Shuffle 1 monster on the field into the Deck.\n\u25cfFusion: Special Summon 1 monster from your hand.\n\u25cfSynchro: Choose 1 monster from your Deck and place it on top of your Deck.\n\u25cfXyz: Draw 1 card, then discard 1 card.\nYou can only activate 1 \"Oracle of Zefra\" per turn.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "PENDULUM EVOLUTION",
+        "MAXIMUM GOLD: EL DORADO",
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "Chosen of Zefra",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Satellarknight Zefrathuban",
+        "Shaddoll Zefracore",
+        "Shaddoll Zefranaga",
+        "Stellarknight Zefraxciton",
+        "Zefra Divine Strike",
+        "Zefra Metaltron",
+        "Zefra Path",
+        "Zefra Providence",
+        "Zefra War",
+        "Zefraath",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

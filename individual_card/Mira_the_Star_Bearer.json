@@ -1,0 +1,17 @@
+{
+    "name": "Mira the Star-Bearer",
+    "filename": "Mira_the_Star_Bearer",
+    "card_text": "3 Level 1 monsters\nIf this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Level 4 or lower monsters you control cannot be destroyed by card effects.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1100,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 1
+}

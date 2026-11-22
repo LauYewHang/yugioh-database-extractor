@@ -1,0 +1,37 @@
+{
+    "name": "Bixi, Water of the Yang Zing",
+    "filename": "Bixi__Water_of_the_Yang_Zing",
+    "card_text": "When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 \"Yang Zing\" monster from your Deck in Attack Position, except \"Bixi, Water of the Yang Zing\". You can only use this effect of \"Bixi, Water of the Yang Zing\" once per turn. Once per turn, during your opponent's Main Phase or Battle Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only \"Yang Zing\" monsters you control (this is a Quick Effect). A Synchro Monster that used this card as a Synchro Material is unaffected by Trap effects.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [
+        "Baxia, Brightness of the Yang Zing",
+        "Bi'an, Earth of the Yang Zing",
+        "Chaofeng, Phantom of the Yang Zing",
+        "Chiwen, Light of the Yang Zing",
+        "Denglong, First of the Yang Zing",
+        "Jiaotu, Darkness of the Yang Zing",
+        "Nine Pillars of Yang Zing",
+        "Pulao, Wind of the Yang Zing",
+        "Suanni, Fire of the Yang Zing",
+        "Taotie, Shadow of the Yang Zing",
+        "Yang Zing Brutality",
+        "Yang Zing Creation",
+        "Yang Zing Path",
+        "Yang Zing Prana",
+        "Yang Zing Unleashed",
+        "Yazi, Evil of the Yang Zing",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

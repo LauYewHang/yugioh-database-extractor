@@ -1,0 +1,23 @@
+{
+    "name": "Xyz Encore",
+    "filename": "Xyz_Encore",
+    "card_text": "Target 1 face-up Xyz Monster your opponent controls that has material; detach all materials from it, and if you do, return it to the Extra Deck, then, if there is a Monster Card in the GY among those detached materials, Special Summon as many of those monsters as possible from the GY to your opponent's field in face-up Defense Position. Their Levels are reduced by 1 on the field. Neither player can activate cards or effects in response to this card's activation.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

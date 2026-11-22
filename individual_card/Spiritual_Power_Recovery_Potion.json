@@ -1,0 +1,24 @@
+{
+    "name": "Spiritual Power Recovery Potion",
+    "filename": "Spiritual_Power_Recovery_Potion",
+    "card_text": "(This card is always treated as a \"Possessed\" card.)\nBanish any number of Spellcaster monsters and/or Spells from your GY; monsters you control gain 200 ATK x the number banished, and if they do, you gain 400 LP x the number banished. During your Main Phase: You can banish this card from your GY; Special Summon any number of Spellcaster monsters with different Attributes from your hand. You can only use 1 \"Spiritual Power Recovery Potion\" effect per turn, and only once that turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Awakening of the Possessed",
+        "Awakening of the Possessed - Gagigobyte",
+        "Awakening of the Possessed - Greater Inari Fire",
+        "Awakening of the Possessed - Nefariouser Archfiend",
+        "Awakening of the Possessed - Rasenryu",
+        "Charmers of the Grand Circle",
+        "Possessed Destiny",
+        "Possessed Partnerships",
+        "Spirit Charmers",
+        "Spiritual Art Familiars",
+        "Unpossessed"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

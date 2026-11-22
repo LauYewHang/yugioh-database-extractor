@@ -1,0 +1,37 @@
+{
+    "name": "S-Force Edge Razor",
+    "filename": "S_Force_Edge_Razor",
+    "card_text": "Each of your opponent's monsters in the same column as one of your \"S-Force\" monsters cannot be used as material for the Link Summon of a Link-3 or higher monster. If this card is Normal or Special Summoned: You can Special Summon 1 \"S-Force\" monster from your hand in Attack Position, except \"S-Force Edge Razor\". You can only use this effect of \"S-Force Edge Razor\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1300,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

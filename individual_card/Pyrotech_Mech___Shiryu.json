@@ -1,0 +1,18 @@
+{
+    "name": "Pyrotech Mech - Shiryu",
+    "filename": "Pyrotech_Mech___Shiryu",
+    "card_text": "You can Tribute Summon this card with 1 Tribute. If Summoned this way, during each End Phase: You take 1000 damage. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2900,
+    "defense": 1800,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

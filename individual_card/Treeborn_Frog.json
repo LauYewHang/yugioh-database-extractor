@@ -1,0 +1,36 @@
+{
+    "name": "Treeborn Frog",
+    "filename": "Treeborn_Frog",
+    "card_text": "Once per turn, during your Standby Phase, if this card is in your GY and you do not control \"Treeborn Frog\": You can Special Summon this card. You must control no Spells/Traps to activate and to resolve this effect.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "The Lost Art Promotion 9",
+        "GOLD SERIES 2009",
+        "CHAMPION PACK GAME FOUR",
+        "SHADOW OF INFINITY",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DARK REVELATION Volume 4",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "D.3.S. Frog",
+        "Dupe Frog",
+        "Flip Flop Frog",
+        "Froggy Forcefield",
+        "Ronintoadin",
+        "Substitoad",
+        "Swap Frog",
+        "Toadally Awesome",
+        "Tradetoad",
+        "Unifrog"
+    ],
+    "attribute": "WATER",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

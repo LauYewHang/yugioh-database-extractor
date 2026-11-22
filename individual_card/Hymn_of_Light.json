@@ -1,0 +1,16 @@
+{
+    "name": "Hymn of Light",
+    "filename": "Hymn_of_Light",
+    "card_text": "This card is used to Ritual Summon \"Saffira, Queen of Dragons\". You must also Tribute monsters from your hand or field whose total Levels equal 6 or more. If a Ritual Monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 24",
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [
+        "Saffira, Queen of Dragons"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

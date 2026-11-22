@@ -1,0 +1,35 @@
+{
+    "name": "Zefra Metaltron",
+    "filename": "Zefra_Metaltron",
+    "card_text": "2+ monsters Special Summoned from the Extra Deck\nIf a monster(s) this card points to that was Special Summoned from the Extra Deck is destroyed by battle or an opponent's card effect: Add 1 monster from your GY or 1 face-up Pendulum Monster from your Extra Deck to your hand. You can target 1 monster on each player's field that was Special Summoned from the Extra Deck, except this card; banish both until the End Phase. You can only use each effect of \"Zefra Metaltron\" once per turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE"
+    ],
+    "related_card": [
+        "Chosen of Zefra",
+        "Oracle of Zefra",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Satellarknight Zefrathuban",
+        "Shaddoll Zefracore",
+        "Shaddoll Zefranaga",
+        "Stellarknight Zefraxciton",
+        "Zefra Divine Strike",
+        "Zefra Path",
+        "Zefra Providence",
+        "Zefra War",
+        "Zefraath",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

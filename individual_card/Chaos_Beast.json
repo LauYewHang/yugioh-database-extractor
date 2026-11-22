@@ -1,0 +1,20 @@
+{
+    "name": "Chaos Beast",
+    "filename": "Chaos_Beast",
+    "card_text": "1 LIGHT Tuner + 1+ non-Tuner DARK monsters\nIf any card(s) have been banished this turn, this card gains 1000 ATK. You can only use each of the following effects of \"Chaos Beast\" once per turn. You can target 1 of your banished LIGHT or DARK monsters; add it to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish 1 LIGHT and 1 DARK monster from your hand and/or GY, except this card; Special Summon this card from your GY.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Chaos Archfiend"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

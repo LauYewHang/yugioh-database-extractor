@@ -1,0 +1,31 @@
+{
+    "name": "Thunder Dragon Thunderstormech",
+    "filename": "Thunder_Dragon_Thunderstormech",
+    "card_text": "2+ Thunder monsters\nDuring your Main Phase, if you control this Link Summoned card: You can target 1 of your \"Thunder Dragon\" monsters that is banished or in your GY; apply that monster's effect that discards itself to activate, then place that monster on the top or bottom of your Deck. You can only use this effect of \"Thunder Dragon Thunderstormech\" once per turn. If a Thunder monster(s) you control would be destroyed by battle or card effect, you can banish 3 cards from your GY instead.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Thunder Dragon",
+        "Thunder Dragon Colossus",
+        "Thunder Dragon Discharge",
+        "Thunder Dragon Fusion",
+        "Thunder Dragon Titan",
+        "Thunder Dragondark",
+        "Thunder Dragonduo",
+        "Thunder Dragonhawk",
+        "Thunder Dragonlord",
+        "Thunder Dragonmatrix",
+        "Thunder Dragonroar",
+        "Thunder Dragons' Hundred Thunders",
+        "Twin-Headed Thunder Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": null,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 92
+}

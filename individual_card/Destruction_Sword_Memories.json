@@ -1,0 +1,28 @@
+{
+    "name": "Destruction Sword Memories",
+    "filename": "Destruction_Sword_Memories",
+    "card_text": "Discard 1 \"Destruction Sword\" card; Special Summon 1 \"Buster Blader\" monster from the Deck. You can banish this card from your GY; Fusion Summon 1 \"Buster Blader, the Dragon Destroyer Swordsman\" from your Extra Deck, by banishing its Fusion Materials from your GY.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Buster Blader",
+        "Buster Blader, the Destruction Swordmaster",
+        "Buster Blader, the Dragon Destroyer Swordsman",
+        "Buster Dragon",
+        "Buster Whelp of the Destruction Swordsman",
+        "Destruction Sword Flash",
+        "Destruction Swordsman Fusion",
+        "Dragon Buster Destruction Sword",
+        "Karma of the Destruction Swordsman",
+        "Prologue of the Destruction Swordsman",
+        "Protector Whelp of the Destruction Swordsman",
+        "Robot Buster Destruction Sword",
+        "Wizard Buster Destruction Sword"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

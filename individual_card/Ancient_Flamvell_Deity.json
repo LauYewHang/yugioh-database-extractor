@@ -1,0 +1,25 @@
+{
+    "name": "Ancient Flamvell Deity",
+    "filename": "Ancient_Flamvell_Deity",
+    "card_text": "1 FIRE Tuner + 1+ non-Tuner Pyro monsters\nIf this card is Synchro Summoned: Banish cards from your opponent's GY, up to the number of cards in their hand, and if you do, this card gains 200 ATK for each card banished by this effect.",
+    "release_date": "2011-01-28",
+    "available_set": [
+        "DUEL TERMINAL 4",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "HIDDEN ARSENAL 4 TRISHULA'S TRIUMPH"
+    ],
+    "related_card": [
+        "Flamvell Archer",
+        "Flamvell Commando",
+        "Neo Flamvell Garuda",
+        "Neo Flamvell Origin",
+        "Neo Flamvell Shaman"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

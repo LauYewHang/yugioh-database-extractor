@@ -1,0 +1,26 @@
+{
+    "name": "Cyber Kirin",
+    "filename": "Cyber_Kirin",
+    "card_text": "You can Tribute this card to make any effect damage you take this turn 0.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "DARK REVELATION Volume 4",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

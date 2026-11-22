@@ -1,0 +1,31 @@
+{
+    "name": "Solfachord Symphony",
+    "filename": "Solfachord_Symphony",
+    "card_text": "Apply these effects, in sequence, based on the number of face-up \"Solfachord\" Pendulum Monsters with different names in your Extra Deck.\n\u25cf3+: \"Solfachord\" Pendulum Monsters you control gain ATK equal to their own Pendulum Scale x 300 this turn.\n\u25cf5+: You can destroy 1 card your opponent controls, then if you have an odd Pendulum Scale in your Pendulum Zone, draw 1 card.\n\u25cf7+: You can Special Summon 1 \"GranSolfachord\" monster from your Extra Deck.\nYou can only activate 1 \"Solfachord Symphony\" per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "DoSolfachord Coolia",
+        "DoSolfachord Cutia",
+        "FaSolfachord Fancia",
+        "GranSolfachord Coolia",
+        "GranSolfachord Musecia",
+        "LaSolfachord Angelia",
+        "MiSolfachord Eliteia",
+        "ReSolfachord Dreamia",
+        "Solfachord Elegance",
+        "Solfachord Formal",
+        "Solfachord Happiness",
+        "Solfachord Harmonia",
+        "Solfachord Musica",
+        "Solfachord Primoa",
+        "Solfachord Scale",
+        "Solfachord Solfegia",
+        "SolSolfachord Gracia",
+        "TiSolfachord Beautia"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

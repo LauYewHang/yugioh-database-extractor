@@ -1,0 +1,33 @@
+{
+    "name": "Magikey Mechmortar - Garesglasser",
+    "filename": "Magikey_Mechmortar___Garesglasser",
+    "card_text": "You can Ritual Summon this card with \"Magikey Maftea\". Gains 300 ATK for each different Attribute in your GY. You can only use each of the following effects of \"Magikey Mechmortar - Garesglasser\" once per turn. When your opponent activates an effect of a monster with the same Attribute as a monster in your GY, if at least 2 Attributes of monsters were used for this card's Ritual Summon (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Ritual Summoned card is sent to the GY: You can add 1 \"Magikey\" monster from your Deck to your hand.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Clavkiys, the Magikey Skyblaster",
+        "Magikey Battle",
+        "Magikey Beast - Ansyalabolas",
+        "Magikey Deity - Ashtartu",
+        "Magikey Dragon - Andrabime",
+        "Magikey Duo",
+        "Magikey Fiend - Transfurlmine",
+        "Magikey Locking",
+        "Magikey Maftea",
+        "Magikey Mechmusket - Batosbuster",
+        "Magikey Spirit - Vepartu",
+        "Magikey Unlocking",
+        "Magikey World",
+        "Maginificent Magikey Mafteal"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

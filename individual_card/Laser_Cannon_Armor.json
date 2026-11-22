@@ -1,0 +1,14 @@
+{
+    "name": "Laser Cannon Armor",
+    "filename": "Laser_Cannon_Armor",
+    "card_text": "Equip only to an Insect monster. It gains 300 ATK/DEF.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

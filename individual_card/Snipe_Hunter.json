@@ -1,0 +1,25 @@
+{
+    "name": "Snipe Hunter",
+    "filename": "Snipe_Hunter",
+    "card_text": "You can discard 1 card, then target 1 card on the field; roll a six-sided die, and destroy that target unless you roll a 1 or 6.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "GOLD SERIES 2009",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "CYBERDARK IMPACT",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "DUEL TERMINAL 4",
+        "CHAMPION PACK GAME THREE",
+        "DRAGONS COLLIDE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 600,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

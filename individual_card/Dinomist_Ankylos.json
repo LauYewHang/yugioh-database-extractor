@@ -1,0 +1,34 @@
+{
+    "name": "Dinomist Ankylos",
+    "filename": "Dinomist_Ankylos",
+    "card_text": "Banish any monster destroyed by battle with a \"Dinomist\" monster you control.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Dinomic Powerload",
+        "Dinomight Powerload, the Dracoslayer",
+        "Dinomist Brachion",
+        "Dinomist Ceratops",
+        "Dinomist Charge",
+        "Dinomist Eruption",
+        "Dinomist Plesios",
+        "Dinomist Pteran",
+        "Dinomist Rex",
+        "Dinomist Rush",
+        "Dinomist Spinos",
+        "Dinomist Stegosaur",
+        "Dinomists Howling"
+    ],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.",
+    "pendulum_scale": 6
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Shinobird Crane",
+    "filename": "Shinobird_Crane",
+    "card_text": "Cannot be Special Summoned. Once per turn, if another Spirit monster is Normal or Special Summoned while this monster is on the field: You can draw 1 card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

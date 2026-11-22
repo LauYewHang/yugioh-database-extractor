@@ -1,0 +1,20 @@
+{
+    "name": "Pre-Preparation of Rites",
+    "filename": "Pre_Preparation_of_Rites",
+    "card_text": "Add 1 Ritual Spell from your Deck to your hand, and add 1 Ritual Monster from your Deck or GY to your hand whose name is mentioned on that Ritual Spell. You can only activate 1 \"Pre-Preparation of Rites\" per turn.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "2017 MEGA-TINS MEGA PACK",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "LEGENDARY MODERN DECKS 2026",
+        "SHINING VICTORIES",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "WILD SURVIVORS",
+        "Speed Duel: Battle City Box",
+        "OTS ULTIMATE TOURNAMENT PACK 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

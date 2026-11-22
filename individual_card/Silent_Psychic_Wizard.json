@@ -1,0 +1,19 @@
+{
+    "name": "Silent Psychic Wizard",
+    "filename": "Silent_Psychic_Wizard",
+    "card_text": "When this card is Normal Summoned: You can target 1 Psychic-Type monster in your Graveyard; banish that target. If this card is sent from the field to the Graveyard: Special Summon that monster banished by this effect.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "HIGH-SPEED RIDERS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 0,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

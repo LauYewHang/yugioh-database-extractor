@@ -1,0 +1,17 @@
+{
+    "name": "Night Papilloperative",
+    "filename": "Night_Papilloperative",
+    "card_text": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 300 ATK for each Xyz Material attached to a monster on the field.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

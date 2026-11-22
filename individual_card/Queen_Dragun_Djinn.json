@@ -1,0 +1,25 @@
+{
+    "name": "Queen Dragun Djinn",
+    "filename": "Queen_Dragun_Djinn",
+    "card_text": "2 Level 4 monsters\nDragon monsters you control cannot be destroyed by battle, except \"Queen Dragun Djinn\". Once per turn: You can detach 1 material from this card, then target 1 Level 5 or higher Dragon monster in your GY; Special Summon that target, but it cannot attack this turn, also its effects are negated.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD",
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [
+        "Gagaga Magician - Gagaga Magic",
+        "Humhumming the Key Djinn",
+        "Maestroke the Symphony Djinn",
+        "Melomelody the Brass Djinn",
+        "Muzurhythm the String Djinn",
+        "Temtempo the Percussion Djinn"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

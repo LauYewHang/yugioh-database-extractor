@@ -1,0 +1,26 @@
+{
+    "name": "Ultra Beetrooper Absolute Hercules",
+    "filename": "Ultra_Beetrooper_Absolute_Hercules",
+    "card_text": "4 Insect monsters\nAfter this card is Fusion Summoned, it is unaffected by other cards' effects until the end of your next turn. At the end of the Battle Phase: You can target 1 Insect monster with 3000 or less ATK in your GY; Special Summon it. You can only use this effect of \"Ultra Beetrooper Absolute Hercules\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Beetrooper Assault Roller",
+        "Beetrooper Cruel Saturnas",
+        "Beetrooper Fly & Sting",
+        "Beetrooper Formation",
+        "Beetrooper Light Flapper",
+        "Beetrooper Sting Lancer",
+        "Giant Beetrooper Invincible Atlas"
+    ],
+    "attribute": "EARTH",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

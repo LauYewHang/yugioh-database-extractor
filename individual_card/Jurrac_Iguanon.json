@@ -1,0 +1,34 @@
+{
+    "name": "Jurrac Iguanon",
+    "filename": "Jurrac_Iguanon",
+    "card_text": "If this card destroys an opponent's monster by battle, you can select 1 Set card your opponent controls, and return it to the hand.",
+    "release_date": "2010-09-25",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "HIDDEN ARSENAL 3",
+        "DUEL TERMINAL 3"
+    ],
+    "related_card": [
+        "Jurrac Aeolo",
+        "Jurrac Astero",
+        "Jurrac Brachis",
+        "Jurrac Dino",
+        "Jurrac Giganoto",
+        "Jurrac Guaiba",
+        "Jurrac Herra",
+        "Jurrac Megalo",
+        "Jurrac Meteor",
+        "Jurrac Stauriko",
+        "Jurrac Stego",
+        "Jurrac Titano",
+        "Jurrac Velo",
+        "Jurrac Volcano"
+    ],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 700,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Dragong",
+    "filename": "Dragong",
+    "card_text": "This gong harbors the soul of an untamed dragon. It soars through the skies with an incredible roar, marshaling all those who hear its call to battle.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "",
+    "pendulum_scale": 7
+}

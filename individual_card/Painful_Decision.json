@@ -1,0 +1,15 @@
+{
+    "name": "Painful Decision",
+    "filename": "Painful_Decision",
+    "card_text": "Send 1 Level 4 or lower Normal Monster from your Deck to the GY, and if you do, add 1 monster with the same name from your Deck to your hand. You can only activate 1 \"Painful Decision\" per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 17",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

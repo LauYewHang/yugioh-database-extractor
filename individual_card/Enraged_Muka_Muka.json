@@ -1,0 +1,19 @@
+{
+    "name": "Enraged Muka Muka",
+    "filename": "Enraged_Muka_Muka",
+    "card_text": "Gains 400 ATK/DEF for each card in your hand.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 600,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

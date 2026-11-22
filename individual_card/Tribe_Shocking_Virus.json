@@ -1,0 +1,18 @@
+{
+    "name": "Tribe-Shocking Virus",
+    "filename": "Tribe_Shocking_Virus",
+    "card_text": "Once per turn: You can banish 1 monster from your hand; destroy all face-up monsters on the field with the same Type as that monster.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Thunder",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

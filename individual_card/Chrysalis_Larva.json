@@ -1,0 +1,24 @@
+{
+    "name": "Chrysalis Larva",
+    "filename": "Chrysalis_Larva",
+    "card_text": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Flare Scarab\" from your hand or Deck.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Cocoon Party",
+        "Cocoon Rebirth",
+        "Cocoon Veil",
+        "Contact",
+        "Neo Space",
+        "Neo-Spacian Flare Scarab"
+    ],
+    "attribute": "FIRE",
+    "attack": 300,
+    "defense": 300,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

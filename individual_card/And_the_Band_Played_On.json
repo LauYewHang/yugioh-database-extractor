@@ -1,0 +1,15 @@
+{
+    "name": "And the Band Played On",
+    "filename": "And_the_Band_Played_On",
+    "card_text": "Neither player can Special Summon monsters with the same Level as those they control. Neither player can Special Summon monsters with the same Rank as those they control.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "PRIMAL ORIGIN DELUXE EDITION",
+        "OTS TOURNAMENT PACK 20",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

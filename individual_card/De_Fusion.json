@@ -1,0 +1,41 @@
+{
+    "name": "De-Fusion",
+    "filename": "De_Fusion",
+    "card_text": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all the materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "LABYRINTH OF NIGHTMARE",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box",
+        "DUEL TERMINAL 4",
+        "STRUCTURE DECK : YUGI MUTO"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

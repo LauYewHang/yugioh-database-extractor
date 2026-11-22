@@ -1,0 +1,24 @@
+{
+    "name": "Copycat",
+    "filename": "Copycat",
+    "card_text": "If this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK/DEF become equal to that monster's original ATK/DEF.",
+    "release_date": "2008-01-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DARK LEGENDS",
+        "SHONEN JUMP 4-CARD PACK",
+        "5D's STARTER DECK 2008",
+        "RETRO PACK",
+        "DUEL TERMINAL 6A",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

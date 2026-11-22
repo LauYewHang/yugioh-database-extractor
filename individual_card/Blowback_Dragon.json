@@ -1,0 +1,27 @@
+{
+    "name": "Blowback Dragon",
+    "filename": "Blowback_Dragon",
+    "card_text": "Once per turn: You can target 1 card your opponent controls; toss a coin 3 times and destroy that target if at least 2 of the results are heads.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "CHAMPION PACK GAME FIVE",
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "OTS TOURNAMENT PACK 7",
+        "ANCIENT SANCTUARY",
+        "Speed Duel: Battle City Box",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [
+        "Gatling Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

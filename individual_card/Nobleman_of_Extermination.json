@@ -1,0 +1,21 @@
+{
+    "name": "Nobleman of Extermination",
+    "filename": "Nobleman_of_Extermination",
+    "card_text": "Target 1 face-down Spell/Trap on the field; destroy that target, and if you do, banish it, then, if it was a Trap, each player reveals their Main Deck, then banishes all cards from it with that card's name.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "DUEL TERMINAL 1",
+        "DARK BEGINNING 1",
+        "DUEL TERMINAL - PREVIEW WAVE 1",
+        "DUELIST LEAGUE 2",
+        "PHARAOH'S SERVANT",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "Speed Duel: Battle City Box",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "TOURNAMENT PACK 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Millennium Ankh",
+    "filename": "Millennium_Ankh",
+    "card_text": "Show 5 \"Forbidden One\" Monster Cards from your hand, Deck, and/or face-up field, then Special Summon 1 \"The Unstoppable Exodia Incarnate\" from your Extra Deck, then shuffle the face-up Monster Cards you control into the Deck, except \"Exodia\" Monster Cards whose original Levels are 10 or higher, and \"Millennium\" Monster Cards, also you cannot Summon for the rest of this turn. After activation, shuffle this card into the Deck instead of sending it to the GY.",
+    "release_date": "2024-07-13",
+    "available_set": [
+        "THE INFINITE FORBIDDEN Core Booster Premiere!",
+        "2025 MEGA-PACK TIN",
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "Contract with Exodia",
+        "Exodia Necross",
+        "Exodia the Forbidden One",
+        "Exodia, the Legendary Defender",
+        "Fiend Reflection of the Millennium",
+        "Golem that Guards the Millennium Treasures",
+        "Heart of Gaia",
+        "Heart of the Blue-Eyes",
+        "Left Arm of the Forbidden One",
+        "Left Leg of the Forbidden One",
+        "Maiden of the Millennium Moon",
+        "Millennium Golem",
+        "Millennium Revelation",
+        "Millennium Scorpion",
+        "Millennium Seeker",
+        "Millennium Shield",
+        "Millennium-Eyes Illusionist",
+        "Millennium-Eyes Restrict",
+        "Right Arm of the Forbidden One",
+        "Right Leg of the Forbidden One",
+        "Sengenjin",
+        "Sengenjin Wakes from a Millennium",
+        "Shield of the Millennium Dynasty",
+        "The Legendary Exodia Incarnate",
+        "The Unstoppable Exodia Incarnate",
+        "Wedju Temple"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

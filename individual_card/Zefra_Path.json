@@ -1,0 +1,30 @@
+{
+    "name": "Zefra Path",
+    "filename": "Zefra_Path",
+    "card_text": "Activate this card only if you have 2 \"Zefra\" cards in your Pendulum Zones, with active Pendulum Scales of 1 and 7. If this card is activated: Shuffle all monsters you control into the Deck, except \"Zefra\" monsters. Neither player can Special Summon monsters, except from the hand or the Extra Deck. While you have a card(s) in your Pendulum Zone, this card cannot be targeted by card effects. Destroy this card if a card(s) in your Pendulum Zone is destroyed.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "Chosen of Zefra",
+        "Oracle of Zefra",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Satellarknight Zefrathuban",
+        "Shaddoll Zefracore",
+        "Shaddoll Zefranaga",
+        "Stellarknight Zefraxciton",
+        "Zefra Divine Strike",
+        "Zefra Metaltron",
+        "Zefra Providence",
+        "Zefra War",
+        "Zefraath",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

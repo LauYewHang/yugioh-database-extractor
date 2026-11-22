@@ -1,0 +1,18 @@
+{
+    "name": "Desmanian Devil",
+    "filename": "Desmanian_Devil",
+    "card_text": "When this card destroys an opponent's monster by battle: You can add 1 Level 4 or lower Beast monster from your Deck to your hand.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1400,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

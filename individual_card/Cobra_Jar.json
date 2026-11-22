@@ -1,0 +1,18 @@
+{
+    "name": "Cobra Jar",
+    "filename": "Cobra_Jar",
+    "card_text": "FLIP: Special Summon 1 \"Poisonous Snake Token\" (Reptile-Type/EARTH/Level 3/ATK 1200/DEF 1200). When the \"Poisonous Snake Token\" is destroyed as a result of battle, inflict 500 points of damage to your opponent's Life Points.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": 300,
+    "monster_type": "Reptile",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

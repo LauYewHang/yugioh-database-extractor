@@ -1,0 +1,17 @@
+{
+    "name": "Zombowwow",
+    "filename": "Zombowwow",
+    "card_text": "When this card declares an attack, it gains 500 ATK. If this card on the field is destroyed and sent to the Graveyard: You can Special Summon 1 Level 1 monster with 0 ATK and DEF from your Deck. Its effects are negated, also it is destroyed during your next End Phase.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

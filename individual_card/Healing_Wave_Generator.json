@@ -1,0 +1,18 @@
+{
+    "name": "Healing Wave Generator",
+    "filename": "Healing_Wave_Generator",
+    "card_text": "Once per turn, you can select another face-up monster you control to gain Life Points equal to that monster's Level x 100.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS",
+        "DUELIST PACK - YUSEI -"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

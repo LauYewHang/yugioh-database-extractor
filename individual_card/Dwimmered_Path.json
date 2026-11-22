@@ -1,0 +1,12 @@
+{
+    "name": "Dwimmered Path",
+    "filename": "Dwimmered_Path",
+    "card_text": "Target 1 Spellcaster Effect Monster in your GY; add it to your hand. You can only activate 1 \"Dwimmered Path\" per turn.",
+    "release_date": "2019-04-19",
+    "available_set": [
+        "STRUCTURE DECK: ORDER OF THE SPELLCASTERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

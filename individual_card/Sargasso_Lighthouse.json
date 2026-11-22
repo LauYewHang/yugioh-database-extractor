@@ -1,0 +1,14 @@
+{
+    "name": "Sargasso Lighthouse",
+    "filename": "Sargasso_Lighthouse",
+    "card_text": "When a Spell effect that would inflict damage to you is activated: You take no damage from that effect. While this card is in your Graveyard, you take no damage from the effect of \"Sargasso the D.D. Battlefield\". When this Set card is sent to the Graveyard: You can add 1 \"Sargasso the D.D. Battlefield\" from your Deck to your hand.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Sargasso the D.D. Battlefield"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Robotic Knight",
+    "filename": "Robotic_Knight",
+    "card_text": "The Commander of Machine-Types, he serves the Machine King. He is famous for the way he controls his troops.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "DEMO DECK 2015",
+        "LEGACY OF DARKNESS",
+        "STARTER DECK SYRUS TRUESDALE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

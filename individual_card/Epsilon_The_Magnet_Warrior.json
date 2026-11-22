@@ -1,0 +1,38 @@
+{
+    "name": "Epsilon The Magnet Warrior",
+    "filename": "Epsilon_The_Magnet_Warrior",
+    "card_text": "If this card is Normal or Special Summoned: You can send 1 Level 4 or lower \"Magnet Warrior\" monster from your Deck to the GY, except \"Epsilon The Magnet Warrior\"; this card's name becomes the sent monster's name (until the End Phase), then you can Special Summon 1 \"Magnet Warrior\" or \"Magna Warrior\" monster from your GY with a different name than the cards you control. You can only use this effect of \"Epsilon The Magnet Warrior\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Alpha The Magnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Beta The Magnet Warrior",
+        "Conduction Warrior Linear Magnum Plus Minus",
+        "Conduction Warrior Plasma Magnum",
+        "Delta The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Gamma The Magnet Warrior",
+        "Magnet Bonding",
+        "Magnet Conversion",
+        "Magnet Induction",
+        "Magnet Warrior Omega Plus",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Magnetic Field",
+        "Tellusion the Magna Warrior",
+        "Valkyrion the Magna Warrior"
+    ],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 1500,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

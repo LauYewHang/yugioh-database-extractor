@@ -1,0 +1,36 @@
+{
+    "name": "GranSolfachord Coolia",
+    "filename": "GranSolfachord_Coolia",
+    "card_text": "2+ monsters, including a Pendulum Monster\nGains 100 ATK for each face-up Pendulum Monster in your Extra Deck. The activated effects of Pendulum Monsters this card points to cannot be negated. Once per turn, when your opponent activates a card or effect (Quick Effect): You can Special Summon 1 \"Solfachord\" card with an odd Pendulum Scale from your Pendulum Zone to your zone this card points to, and if you do, negate the activation, then you can add 1 \"Solfachord\" Pendulum Monster with an even Pendulum Scale from your Deck to your face-up Extra Deck.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "DoSolfachord Coolia",
+        "DoSolfachord Cutia",
+        "FaSolfachord Fancia",
+        "GranSolfachord Musecia",
+        "LaSolfachord Angelia",
+        "MiSolfachord Eliteia",
+        "ReSolfachord Dreamia",
+        "Solfachord Elegance",
+        "Solfachord Formal",
+        "Solfachord Happiness",
+        "Solfachord Harmonia",
+        "Solfachord Musica",
+        "Solfachord Primoa",
+        "Solfachord Scale",
+        "Solfachord Solfegia",
+        "Solfachord Symphony",
+        "SolSolfachord Gracia",
+        "TiSolfachord Beautia"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2700,
+    "defense": null,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 14
+}

@@ -1,0 +1,38 @@
+{
+    "name": "FaSolfachord Fancia",
+    "filename": "FaSolfachord_Fancia",
+    "card_text": "While you have an odd Pendulum Scale in your Pendulum Zone, if your \"Solfachord\" Pendulum Monster would be destroyed by battle, you can destroy this card instead. During your Main Phase: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your Extra Deck face-up, except \"FaSolfachord Fancia\". You can only use this effect of \"FaSolfachord Fancia\" once per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "DoSolfachord Coolia",
+        "DoSolfachord Cutia",
+        "GranSolfachord Coolia",
+        "GranSolfachord Musecia",
+        "LaSolfachord Angelia",
+        "MiSolfachord Eliteia",
+        "ReSolfachord Dreamia",
+        "Solfachord Elegance",
+        "Solfachord Formal",
+        "Solfachord Happiness",
+        "Solfachord Harmonia",
+        "Solfachord Musica",
+        "Solfachord Primoa",
+        "Solfachord Scale",
+        "Solfachord Solfegia",
+        "Solfachord Symphony",
+        "SolSolfachord Gracia",
+        "TiSolfachord Beautia"
+    ],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 400,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
+    "pendulum_scale": 5
+}

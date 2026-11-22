@@ -1,0 +1,18 @@
+{
+    "name": "Pilgrim Reaper",
+    "filename": "Pilgrim_Reaper",
+    "card_text": "2 Level 6 monsters\nGains 200 ATK/DEF for each DARK monster in the GYs. You can detach 1 material from this card; each player sends the top 5 cards from their Deck to the GY (or their entire Deck, if less than 5). You can only use this effect of \"Pilgrim Reaper\" once per turn.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "MAZE OF MUERTOS",
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

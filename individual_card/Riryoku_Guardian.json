@@ -1,0 +1,24 @@
+{
+    "name": "Riryoku Guardian",
+    "filename": "Riryoku_Guardian",
+    "card_text": "If your LP are lower than your opponent's: Target 1 monster you control with \"Gate Guardian\" in its original name; halve your opponent's LP, then that monster gains ATK equal to your opponent's LP. You can banish this card from your GY; add 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished or in your Deck to your hand. You can only use each effect of \"Riryoku Guardian\" once per turn.",
+    "release_date": "2023-03-10",
+    "available_set": [
+        "MAZE OF MEMORIES"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Dark Guardian",
+        "Gate Guardian",
+        "Gate Guardian of Thunder and Wind",
+        "Gate Guardian of Water and Thunder",
+        "Gate Guardian of Wind and Water",
+        "Gate Guardians Combined",
+        "Kazejin",
+        "Principug",
+        "Sanga of the Thunder",
+        "Suijin"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

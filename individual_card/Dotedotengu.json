@@ -1,0 +1,17 @@
+{
+    "name": "Dotedotengu",
+    "filename": "Dotedotengu",
+    "card_text": "If this card in your possession is sent to your Graveyard by an opponent's card effect: You can target 1 card your opponent controls; return it to the hand.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Magicians' Combination",
+    "filename": "Magicians__Combination",
+    "card_text": "Once per turn, when a card or effect is activated (except during the Damage Step): You can Tribute 1 \"Dark Magician\" or 1 \"Dark Magician Girl\"; Special Summon 1 \"Dark Magician\" or 1 \"Dark Magician Girl\" from your hand or GY, with a different name from the Tributed monster, and if you do, negate that activated effect. If this face-up card is sent from the Spell & Trap Zone to the GY: You can destroy 1 card on the field.",
+    "release_date": "2020-01-17",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: MAGICAL HERO"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician Girl",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

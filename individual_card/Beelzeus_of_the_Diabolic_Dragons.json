@@ -1,0 +1,18 @@
+{
+    "name": "Beelzeus of the Diabolic Dragons",
+    "filename": "Beelzeus_of_the_Diabolic_Dragons",
+    "card_text": "1 DARK Tuner + 2+ non-Tuner monsters\nCannot be destroyed by battle or card effects. Other monsters you control cannot attack. Once per turn: You can target 1 monster your opponent controls; any battle damage your opponent takes from attacks involving this card this turn is halved, also, change that monster's ATK to 0, and if you do, gain LP equal to its original ATK.",
+    "release_date": "2015-10-06",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "Yu-Gi-Oh! 5D's volume 8 Promotional Card"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

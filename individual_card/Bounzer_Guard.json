@@ -1,0 +1,17 @@
+{
+    "name": "Bounzer Guard",
+    "filename": "Bounzer_Guard",
+    "card_text": "Target 1 face-up \"Bounzer\" monster you control; this turn, it cannot be targeted by other card effects, or be destroyed by battle. This turn, if an opponent's monster attacks, it must target that monster for an attack if it is still on the field.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Blade Bounzer",
+        "Hammer Bounzer",
+        "Phantom Bounzer",
+        "Photon Strike Bounzer"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

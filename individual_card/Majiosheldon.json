@@ -1,0 +1,17 @@
+{
+    "name": "Majiosheldon",
+    "filename": "Majiosheldon",
+    "card_text": "Cannot be Special Summoned, except by its own effect. If this card is Tributed for a Tribute Summon, during your next Standby Phase: You can Special Summon this card from your Graveyard. You cannot Special Summon monsters from the Extra Deck during the turn you activate this effect.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

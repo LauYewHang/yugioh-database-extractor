@@ -1,0 +1,39 @@
+{
+    "name": "Delta The Magnet Warrior",
+    "filename": "Delta_The_Magnet_Warrior",
+    "card_text": "If this card is Normal or Special Summoned: You can send 1 Level 4 or lower \"Magnet Warrior\" monster from your Deck to the GY. If this card is sent to the GY: You can banish 3 Level 4 or lower \"Magnet Warrior\" monsters from your GY, except \"Delta The Magnet Warrior\"; Special Summon 1 \"Valkyrion the Magna Warrior\" from your hand or Deck, ignoring its Summoning conditions. You can only use each effect of \"Delta The Magnet Warrior\" once per turn.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "MAZE OF MUERTOS",
+        "RAGING TEMPEST",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Alpha The Magnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Beta The Magnet Warrior",
+        "Conduction Warrior Linear Magnum Plus Minus",
+        "Conduction Warrior Plasma Magnum",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Gamma The Magnet Warrior",
+        "Magnet Bonding",
+        "Magnet Conversion",
+        "Magnet Induction",
+        "Magnet Warrior Omega Plus",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Magnetic Field",
+        "Tellusion the Magna Warrior",
+        "Valkyrion the Magna Warrior"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1400,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

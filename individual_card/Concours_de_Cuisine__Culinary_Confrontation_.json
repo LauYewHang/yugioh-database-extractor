@@ -1,0 +1,29 @@
+{
+    "name": "Concours de Cuisine (Culinary Confrontation)",
+    "filename": "Concours_de_Cuisine__Culinary_Confrontation_",
+    "card_text": "Choose 1 \"Nouvelles\" Pendulum Monster and 1 \"Patissciel\" Pendulum Monster from your hand, Deck, and/or Extra Deck, and Special Summon both monsters, 1 to each field, also this turn, you cannot use monsters as material for a Fusion, Synchro, Xyz, or Link Summon, except \"Nouvelles\" and \"Patissciel\" monsters. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster on the field; it gains 200 ATK for each \"Recipe\" card in the GYs. You can only use each effect of \"Concours de Cuisine (Culinary Confrontation)\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Baelgrill de Nouvelles",
+        "Balameuniere de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef de Nouvelles",
+        "Chef's Special Recipe",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Hamburger Recipe",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Patissciel Couverture",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Personnel (Staff Recipe)",
+        "Recette de Poisson (Fish Recipe)",
+        "Recette de Viande (Meat Recipe)"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

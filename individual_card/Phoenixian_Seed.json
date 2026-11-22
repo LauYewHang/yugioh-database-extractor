@@ -1,0 +1,19 @@
+{
+    "name": "Phoenixian Seed",
+    "filename": "Phoenixian_Seed",
+    "card_text": "You can send this face-up card to the Graveyard to Special Summon 1 \"Phoenixian Cluster Amaryllis\" from your hand.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [
+        "Phoenixian Cluster Amaryllis"
+    ],
+    "attribute": "FIRE",
+    "attack": 800,
+    "defense": 0,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

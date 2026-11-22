@@ -1,0 +1,22 @@
+{
+    "name": "Possessed Dark Soul",
+    "filename": "Possessed_Dark_Soul",
+    "card_text": "You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "BATTLE PACK EPIC DAWN",
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: ARENA OF LOST SOULS"
+    ],
+    "related_card": [
+        "Dark Balter the Terrible"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 800,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

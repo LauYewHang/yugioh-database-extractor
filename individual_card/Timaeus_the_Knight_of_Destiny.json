@@ -1,0 +1,23 @@
+{
+    "name": "Timaeus the Knight of Destiny",
+    "filename": "Timaeus_the_Knight_of_Destiny",
+    "card_text": "\"Legendary Knight Timaeus\" + \"Legendary Knight Critias\" + \"Legendary Knight Hermos\"\nMust be Special Summoned (from your Extra Deck) by sending the above cards you control to the GY. (You do not use \"Polymerization\".) Unaffected by other cards' effects. Once per battle, if this card battles, during damage calculation (Quick Effect): You can make this card's ATK/DEF become equal to the ATK of the monster on the field with the highest ATK (your choice, if tied). When this card is destroyed by battle: You can Special Summon 3 \"Legendary Knight\" monsters from your hand, Deck, and/or GY, ignoring their Summoning conditions.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND 2",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Legendary Knight Critias",
+        "Legendary Knight Hermos",
+        "Legendary Knight Timaeus"
+    ],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

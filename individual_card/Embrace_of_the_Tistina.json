@@ -1,0 +1,27 @@
+{
+    "name": "Embrace of the Tistina",
+    "filename": "Embrace_of_the_Tistina",
+    "card_text": "When your opponent activates a monster effect on the field: You can target that monster; change it to face-down Defense Position. During the End Phase: You can target 1 face-down Defense Position monster your opponent controls; take control of that monster. You can only use each effect of \"Embrace of the Tistina\" once per turn, and can only activate them while you control a \"Tistina\" monster with 3000 or more DEF.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Breath of the Tistina",
+        "Crystal God Tistina",
+        "Demigod of the Tistina",
+        "Discordance of the Tistina",
+        "Divine Domain Baatistina",
+        "Fallen of the Tistina",
+        "Hound of the Tistina",
+        "Miasma Dragon Tistina",
+        "Play of the Tistina",
+        "Returned of the Tistina",
+        "Sentinel of the Tistina",
+        "Signs of the Tistina",
+        "Tainted of the Tistina",
+        "Tistina, the Divinity that Defies Darkness"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

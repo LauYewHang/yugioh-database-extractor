@@ -1,0 +1,27 @@
+{
+    "name": "Triamid Sphinx",
+    "filename": "Triamid_Sphinx",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Triamid\" card, and cannot be Special Summoned by other ways. If a face-up \"Triamid\" card(s) you control, except \"Triamid Sphinx\", is destroyed by battle or card effect: You can Special Summon this card from your hand. While you control another \"Triamid\" card, this card gains 500 ATK and DEF for each Field Spell Card with a different name in your Graveyard, also monsters your opponent controls cannot attack, except to attack \"Triamid Sphinx\".",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Exxod, Master of The Guard",
+        "Triamid Cruiser",
+        "Triamid Dancer",
+        "Triamid Fortress",
+        "Triamid Hunter",
+        "Triamid Kingolem",
+        "Triamid Loading",
+        "Triamid Master",
+        "Triamid Pulse"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

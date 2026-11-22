@@ -1,0 +1,26 @@
+{
+    "name": "Vorse Raider",
+    "filename": "Vorse_Raider",
+    "card_text": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.",
+    "release_date": "2005-09-01",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "COLLECTIBLE TIN SERIES 2",
+        "DUELIST PACK - KAIBA -",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "MILLENNIUM PACK",
+        "Speed Duel: Battle City Box",
+        "DEMO DECK 2026",
+        "DUEL TERMINAL 3",
+        "STARTER DECK KAIBA RELOADED"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1900,
+    "defense": 1200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Iron Blacksmith Kotetsu",
+    "filename": "Iron_Blacksmith_Kotetsu",
+    "card_text": "FLIP: Add 1 Equip Spell from your Deck to your hand.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DUELIST LEAGUE 3",
+        "DARK CRISIS (Reprint)",
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

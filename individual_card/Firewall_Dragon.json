@@ -1,0 +1,26 @@
+{
+    "name": "Firewall Dragon",
+    "filename": "Firewall_Dragon",
+    "card_text": "2+ monsters\nOnce while face-up on the field (Quick Effect): You can target monsters on the field and/or GY up to the number of monsters co-linked to this card; return them to the hand. If a monster this card points to is destroyed by battle or sent to the GY: You can Special Summon 1 Cyberse monster from your hand. You can only use each effect of \"Firewall Dragon\" once per turn.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES",
+        "GHOSTS FROM THE PAST",
+        "CODE OF THE DUELIST",
+        "2018 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 16",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Cynet Circuit",
+        "Firewall Defenser",
+        "Protectcode Talker"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 4,
+    "link_arrow": 340
+}

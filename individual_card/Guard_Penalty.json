@@ -1,0 +1,14 @@
+{
+    "name": "Guard Penalty",
+    "filename": "Guard_Penalty",
+    "card_text": "Select 1 monster on the field. If it is changed to Defense Position this turn, draw 1 card.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "DUELIST PACK - ASTER PHOENIX -",
+        "DARK REVELATION Volume 4",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

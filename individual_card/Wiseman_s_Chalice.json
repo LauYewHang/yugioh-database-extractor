@@ -1,0 +1,12 @@
+{
+    "name": "Wiseman's Chalice",
+    "filename": "Wiseman_s_Chalice",
+    "card_text": "If you control no monsters, select 1 monster in your opponent's Graveyard. Special Summon it. It cannot be Tributed, or used as a Synchro Material Monster. During the End Phase of this turn, give control of that Special Summoned monster to your opponent.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

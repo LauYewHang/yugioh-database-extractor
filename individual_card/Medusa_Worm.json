@@ -1,0 +1,35 @@
+{
+    "name": "Medusa Worm",
+    "filename": "Medusa_Worm",
+    "card_text": "Once per turn: You can flip this card to face-down Defense Position. If this card is Flip Summoned: Target 1 monster your opponent controls; destroy that target.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "THE LOST MILLENNIUM",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "DARK REVELATION Volume 3",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 600,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

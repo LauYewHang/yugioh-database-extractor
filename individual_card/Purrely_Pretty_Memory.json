@@ -1,0 +1,30 @@
+{
+    "name": "Purrely Pretty Memory",
+    "filename": "Purrely_Pretty_Memory",
+    "card_text": "Each player gains 1000 LP, then you can apply the following effect.\n\u25cfDiscard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\nA \"Purrely\" Xyz Monster that has this card as material gains the following effect.\n\u25cfOnce per turn: You can send 1 other card you control to the GY, then target 1 card your opponent controls; attach it to this card.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "RARITY COLLECTION 5",
+        "AMAZING DEFENDERS",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [
+        "Epurrely Beauty",
+        "Epurrely Happiness",
+        "Epurrely Noir",
+        "Epurrely Plump",
+        "Expurrely Happiness",
+        "Expurrely Noir",
+        "My Friend Purrely",
+        "Purrely",
+        "Purrely Delicious Memory",
+        "Purrely Happy Memory",
+        "Purrely Sharely!?",
+        "Purrely Sleepy Memory",
+        "Purrelyeap!?",
+        "Purrelyly",
+        "Stray Purrely Street"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

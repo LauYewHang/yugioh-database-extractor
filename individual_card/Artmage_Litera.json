@@ -1,0 +1,35 @@
+{
+    "name": "Artmage Litera",
+    "filename": "Artmage_Litera",
+    "card_text": "You take no damage from battles involving this card. You can only use each of the following effects of \"Artmage Litera\" once per turn. If you control an \"Artmage\" card: You can Special Summon this card from your hand, then you can add 1 \"Artmage\" card from your GY to your hand. During your opponent's Main Phase (Quick Effect): You can Special Summon 1 \"Artmage\" monster from your hand or GY, except \"Artmage Litera\", then return this card from the field to the hand.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Artmage Academic Arcane Arts Acropolis",
+        "Artmage Diactorus",
+        "Artmage Finmel",
+        "Artmage Graflare",
+        "Artmage Impasto -Recapture-",
+        "Artmage Masterwork -Succession-",
+        "Artmage Movement -Pedigree-",
+        "Artmage Non-Finito",
+        "Artmage Pact -Awakening-",
+        "Artmage Peripeteia -Turmoil-",
+        "Artmage Power Patron",
+        "Artmage Vandalism -Assault-",
+        "Artmage Varnish -Alteration-",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Theorealize Past Lull"
+    ],
+    "attribute": "LIGHT",
+    "attack": 400,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

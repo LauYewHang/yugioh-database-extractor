@@ -1,0 +1,21 @@
+{
+    "name": "Sacred Crane",
+    "filename": "Sacred_Crane",
+    "card_text": "If this card is Special Summoned: Draw 1 card.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "INVASION OF CHAOS",
+        "SUPER STARTER SPACE-TIME SHOWDOWN Power-Up Pack",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 400,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

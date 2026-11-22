@@ -1,0 +1,31 @@
+{
+    "name": "Cooky\u2605Yummy Way",
+    "filename": "Cooky_Yummy_Way",
+    "card_text": "1 Tuner + 1 non-Tuner monster\nFor this card's Synchro Summon, you can treat 1 Link-1 monster you control as a Level 1 Tuner. You can only use each of the following effects of \"Cooky\u2605Yummy Way\" once per turn. If this card is Synchro Summoned: You can target up to 2 face-up monsters on the field; change them to face-down Defense Position. When your opponent activates a card or effect (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 \"Yummy\" monsters from your GY.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Assist\u2605Yummy!",
+        "Cooky\u2606Yummy",
+        "Cupsy\u2605Yummy Way",
+        "Cupsy\u2606Yummy",
+        "Lollipo\u2605Yummy Way",
+        "Lollipo\u2606Yummy",
+        "Marshmao\u2606Yummy",
+        "Yummyusment\u2605Acroquey",
+        "Yummyusment\u2606Mignon",
+        "Yummy\u2605Redemption",
+        "Yummy\u2605Snatchy",
+        "Yummy\u2606Surprise",
+        "Yum\u2606Yum\u2606Yummys"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Soul-Absorbing Bone Tower",
+    "filename": "Soul_Absorbing_Bone_Tower",
+    "card_text": "If you control another Zombie-Type monster, your opponent cannot target this card for attacks. Each time a Zombie-Type monster(s) is Special Summoned: Send the top 2 cards of your opponent's Deck to the Graveyard.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 2",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 400,
+    "defense": 1500,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

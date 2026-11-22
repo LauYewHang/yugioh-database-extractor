@@ -1,0 +1,17 @@
+{
+    "name": "Royal Oppression",
+    "filename": "Royal_Oppression",
+    "card_text": "Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "DUEL TERMINAL 4",
+        "QUARTER CENTURY STAMPEDE",
+        "CHAMPION PACK GAME EIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

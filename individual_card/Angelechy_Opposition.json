@@ -1,0 +1,26 @@
+{
+    "name": "Angelechy Opposition",
+    "filename": "Angelechy_Opposition",
+    "card_text": "Choose 2 \"Angelechy\" monsters in your Extra Deck, with different names than the cards in your Spell & Trap Zone, Special Summon 1 of them in your opponent's Main Monster Zone, and place the other in your Spell & Trap Zone as a face-up Continuous Spell. You can banish this card from your GY; shuffle up to 5 \"Angelechy\" cards into the Deck from your GY and/or banishment, except \"Angelechy Opposition\". You cannot Special Summon from the Extra Deck the turn you activate this card, except LIGHT or DARK Synchro Monsters. You can only activate 1 \"Angelechy Opposition\" per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Angelechy Bastion",
+        "Angelechy Brilliant Move",
+        "Angelechy Castellan",
+        "Angelechy Destrier",
+        "Angelechy Disturbance",
+        "Angelechy Endgame Problem",
+        "Angelechy Enlisted",
+        "Angelechy Opening to e4",
+        "Angelechy Problem",
+        "Angelechy Seneschal",
+        "Angelechy Shatranga",
+        "Angelechy Strategy Score",
+        "Angelechy Verdict"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

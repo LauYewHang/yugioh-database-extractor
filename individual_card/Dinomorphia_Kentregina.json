@@ -1,0 +1,31 @@
+{
+    "name": "Dinomorphia Kentregina",
+    "filename": "Dinomorphia_Kentregina",
+    "card_text": "2 \"Dinomorphia\" monsters with different names\nLoses ATK equal to your LP. You can only use each of the following effects of \"Dinomorphia Kentregina\" once per turn. During the Main Phase (Quick Effect): You can pay half your LP and banish 1 \"Dinomorphia\" Normal Trap from your GY; this effect becomes that Trap's effect when that card is activated. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower \"Dinomorphia\" monster from your GY.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Dinomorphia Alert",
+        "Dinomorphia Brute",
+        "Dinomorphia Diplos",
+        "Dinomorphia Domain",
+        "Dinomorphia Frenzy",
+        "Dinomorphia Intact",
+        "Dinomorphia Reversion",
+        "Dinomorphia Rexterm",
+        "Dinomorphia Shell",
+        "Dinomorphia Sonic",
+        "Dinomorphia Stealthbergia",
+        "Dinomorphia Therizia"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 0,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

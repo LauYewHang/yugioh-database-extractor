@@ -1,0 +1,17 @@
+{
+    "name": "Electro Blaster",
+    "filename": "Electro_Blaster",
+    "card_text": "If you Normal or Special Summon a FIRE monster(s) (except during the Damage Step): You can Special Summon this card from your hand, then you can send 1 Level 8 Pyro monster from your Deck to the GY. You can only use this effect of \"Electro Blaster\" once per turn. Once per turn, if a Spell Card is activated (except during the Damage Step): You can make all FIRE monsters you currently control gain 300 ATK.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

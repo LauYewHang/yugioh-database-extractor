@@ -1,0 +1,33 @@
+{
+    "name": "Battlewasp - Sting the Poison",
+    "filename": "Battlewasp___Sting_the_Poison",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Battlewasp\" monster from your Deck to your hand, except \"Battlewasp - Sting the Poison\". (Quick Effect): You can Tribute 1 other Insect monster, then target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only use each effect of \"Battlewasp - Sting the Poison\" once per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Ballista the Armageddon",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Grand Partisan the Revolution",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Nest",
+        "Battlewasp - Pin the Bullseye",
+        "Battlewasp - Rapier the Onslaught",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Twinbow the Attacker",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 400,
+    "defense": 800,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

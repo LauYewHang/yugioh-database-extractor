@@ -1,0 +1,32 @@
+{
+    "name": "K9-X \"Ripper/M\"",
+    "filename": "K9_X__Ripper_M_",
+    "card_text": "2 Level 9 monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. You can only use each of the following effects of \"K9-X \"Ripper/M\"\" once per turn. If this card is Special Summoned by a \"K9\" Spell/Trap effect: You can target up to 2 cards in your opponent's GY and/or banishment; shuffle them into the Deck. When your opponent activates a monster effect (Quick Effect): You can detach 2 materials from this card; negate that effect, then destroy all cards on the field.",
+    "release_date": "2026-01-31",
+    "available_set": [
+        "BURST PROTOCOL Core Booster Premiere!",
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "\"A Case for K9\"",
+        "K9-04 Noroi",
+        "K9-17 \"Ripper\"",
+        "K9-17 Izuna",
+        "K9-66a Jokul",
+        "K9-66b Lantern",
+        "K9-66X \"Jacks\"",
+        "K9-EW Special Release Experiment",
+        "K9-LC Release Restraint",
+        "K9-X \"Werewolf\"",
+        "K9-X Forced Release",
+        "K9-\u00d8\u00d8 \"Hound\"",
+        "K9-\u00d8\u00d8 Lupis"
+    ],
+    "attribute": "WIND",
+    "attack": 3100,
+    "defense": 2600,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 9
+}

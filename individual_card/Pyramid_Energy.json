@@ -1,0 +1,13 @@
+{
+    "name": "Pyramid Energy",
+    "filename": "Pyramid_Energy",
+    "card_text": "You can select and activate 1 of the following effects:\n\u25cfIncrease the ATK of all face-up monsters on your side of the field by 200 points until the End Phase of the turn this card is activated.\n\u25cfIncrease the DEF of all face-up monsters on your side of the field by 500 points until the End Phase of the turn this card is activated.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK BEGINNING 2",
+        "PHARAONIC GUARDIAN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

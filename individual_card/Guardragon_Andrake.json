@@ -1,0 +1,18 @@
+{
+    "name": "Guardragon Andrake",
+    "filename": "Guardragon_Andrake",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is Special Summoned from the hand or Deck: You can double this card's original ATK/DEF, until the end of the next turn. If this card is Special Summoned from the GY, or if this banished card is Special Summoned: You can target 1 monster your opponent controls; destroy it. You can only use each effect of \"Guardragon Andrake\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 600,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

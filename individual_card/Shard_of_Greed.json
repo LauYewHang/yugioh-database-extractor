@@ -1,0 +1,19 @@
+{
+    "name": "Shard of Greed",
+    "filename": "Shard_of_Greed",
+    "card_text": "Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the GY; draw 2 cards.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "PHOTON SHOCKWAVE",
+        "Event Pack Speed Duel",
+        "STARTER DECK YUGI RELOADED",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STARTER DECK KAIBA RELOADED"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

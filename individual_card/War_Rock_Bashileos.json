@@ -1,0 +1,32 @@
+{
+    "name": "War Rock Bashileos",
+    "filename": "War_Rock_Bashileos",
+    "card_text": "During a Battle Phase in which your EARTH Warrior monster battles (Quick Effect): You can activate this effect; this card can attack directly this turn, also all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent's turn. While this card is in your hand or GY, when your EARTH Warrior monster is destroyed by battle: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"War Rock Bashileos\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "War Rock Big Blow",
+        "War Rock Dignity",
+        "War Rock Fortia",
+        "War Rock Gactos",
+        "War Rock Generations",
+        "War Rock Mammud",
+        "War Rock Medium",
+        "War Rock Meteoragon",
+        "War Rock Mountain",
+        "War Rock Ordeal",
+        "War Rock Orpis",
+        "War Rock Skyler",
+        "War Rock Spirit",
+        "War Rock Wento"
+    ],
+    "attribute": "EARTH",
+    "attack": 2700,
+    "defense": 2700,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

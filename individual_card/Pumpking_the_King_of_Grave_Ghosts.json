@@ -1,0 +1,21 @@
+{
+    "name": "Pumpking the King of Grave Ghosts",
+    "filename": "Pumpking_the_King_of_Grave_Ghosts",
+    "card_text": "You can reveal this card in your hand; Set 1 \"Call of the Haunted\" from your Deck or GY, and if you do, discard 1 card. That Set card can be activated this turn. If this card is Special Summoned: You can Special Summon 1 Level 6 Zombie monster from your Deck, except with 1950 ATK, also you cannot Special Summon from the hand or GY for the rest of this turn, except Zombie monsters. You can only use each effect of \"Pumpking the King of Grave Ghosts\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Call of the Haunted",
+        "Pumpking the Great Ghost King",
+        "Stare of the Snake Hair"
+    ],
+    "attribute": "DARK",
+    "attack": 1950,
+    "defense": 2600,
+    "monster_type": "Zombie",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Heroic Challenger - War Hammer",
+    "filename": "Heroic_Challenger___War_Hammer",
+    "card_text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can equip the destroyed monster to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains ATK equal to that equipped monster's ATK.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Ambush Soldier",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Clasp Sword",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Retribution Sword"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 1300,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

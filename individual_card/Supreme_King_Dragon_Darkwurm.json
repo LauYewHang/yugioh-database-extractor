@@ -1,0 +1,36 @@
+{
+    "name": "Supreme King Dragon Darkwurm",
+    "filename": "Supreme_King_Dragon_Darkwurm",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Supreme King Gate\" Pendulum Monster from your Deck to your hand. If this card is in your GY and you control no monsters: You can Special Summon this card. You can only use each effect of \"Supreme King Dragon Darkwurm\" once per turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "OTS TOURNAMENT PACK 23",
+        "MAXIMUM CRISIS",
+        "MAZE OF MILLENNIA",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Odd-Eyes Arcray Dragon",
+        "Performapal Duelist Extraordinaire",
+        "Supreme King Dragon Clear Wing",
+        "Supreme King Dragon Dark Rebellion",
+        "Supreme King Dragon Lightwurm",
+        "Supreme King Dragon Odd-Eyes",
+        "Supreme King Gate Infinity",
+        "Supreme King Gate Magician",
+        "Supreme King Gate Zero",
+        "Supreme King Z-ARC",
+        "Supreme King Z-ARC - Synchro Universe",
+        "Supreme Rage",
+        "Wings of Light"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Once per turn, if you control no monsters: You can place 1 \"Supreme King Gate\" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Pendulum Summon monsters for the rest of this turn, except DARK monsters.",
+    "pendulum_scale": 5
+}

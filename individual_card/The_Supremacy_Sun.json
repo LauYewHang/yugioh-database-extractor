@@ -1,0 +1,18 @@
+{
+    "name": "The Supremacy Sun",
+    "filename": "The_Supremacy_Sun",
+    "card_text": "Cannot be Special Summoned, except by its own effect. After this face-up card on the field is destroyed and sent to the Graveyard, during the Standby Phase of the next turn: You can discard 1 card; Special Summon this card from the Graveyard.",
+    "release_date": "2013-07-01",
+    "available_set": [
+        "DUELIST LEAGUE 16",
+        "SHONEN JUMP Promotional Card - January 2012 -"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

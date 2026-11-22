@@ -1,0 +1,24 @@
+{
+    "name": "Graydle Dragon",
+    "filename": "Graydle_Dragon",
+    "card_text": "1 Aqua-Type Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target cards your opponent controls, up to the number of WATER monsters used for the Synchro Summon of this card; destroy them. If this card is destroyed by battle or card effect and sent to the Graveyard: You can target 1 other WATER monster in your Graveyard; Special Summon it, but its effects are negated. You can only use each effect of \"Graydle Dragon\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Graydle Combat",
+        "Graydle Impact",
+        "Graydle Parasite",
+        "Graydle Slime",
+        "Graydle Slime Jr.",
+        "Graydle Split"
+    ],
+    "attribute": "WATER",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Infernal Punisher",
+    "filename": "Infernal_Punisher",
+    "card_text": "Activate 1 of these effects (but you can only use each effect of \"Infernal Punisher\" once per turn);\n\u25cfAdd 1 WATER Dinosaur monster from your Deck to your hand, then you can Special Summon it if your opponent controls a monster.\n\u25cfTribute 1 monster; Special Summon 1 Level 6 or higher FIRE monster from your hand, Deck, or GY, but negate its effects if it is a non-Fiend monster.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

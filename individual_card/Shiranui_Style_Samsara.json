@@ -1,0 +1,26 @@
+{
+    "name": "Shiranui Style Samsara",
+    "filename": "Shiranui_Style_Samsara",
+    "card_text": "This card's name becomes \"Shiranui Style Synthesis\" while it is in the Spell & Trap Zone. Once per turn: You can activate 1 of these effects.\n\u25cfBanish 1 face-up Zombie-Type monster you control; you take no damage this turn (even if this card leaves the field).\n\u25cfTarget 2 of your banished Zombie-Type monsters with 0 DEF; shuffle them both into the Deck, then draw 1 card.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "2017 MEGA-TINS MEGA PACK",
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Style Solemnity",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Style Synthesis",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

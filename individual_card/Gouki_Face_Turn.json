@@ -1,0 +1,43 @@
+{
+    "name": "Gouki Face Turn",
+    "filename": "Gouki_Face_Turn",
+    "card_text": "Target 1 \"Gouki\" card you control and 1 \"Gouki\" monster in your GY; destroy that card on the field, and if you do, Special Summon that other monster from the GY. You can only activate 1 \"Gouki Face Turn\" per turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Gouki Bearhug",
+        "Gouki Cage Match",
+        "Gouki Destroy Ogre",
+        "Gouki Dragon Ogre",
+        "Gouki Finishing Move",
+        "Gouki Gameface",
+        "Gouki Guts",
+        "Gouki Headbatt",
+        "Gouki Heel Ogre",
+        "Gouki Iron Claw",
+        "Gouki Jet Ogre",
+        "Gouki Machine Suprex",
+        "Gouki Moonsault",
+        "Gouki Octostretch",
+        "Gouki Re-Match",
+        "Gouki Ringtrainer",
+        "Gouki Riscorpio",
+        "Gouki Sheik Ogre",
+        "Gouki Suprex",
+        "Gouki Tagpartner",
+        "Gouki The Blade Ogre",
+        "Gouki The Giant Ogre",
+        "Gouki The Great Ogre",
+        "Gouki The Master Ogre",
+        "Gouki The Powerload Ogre",
+        "Gouki The Solid Ogre",
+        "Gouki The Tyrant Ogre",
+        "Gouki Thunder Ogre",
+        "Gouki Twistcobra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

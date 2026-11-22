@@ -1,0 +1,39 @@
+{
+    "name": "Abyss Script - Rise of the Abyss King",
+    "filename": "Abyss_Script___Rise_of_the_Abyss_King",
+    "card_text": "Target face-up cards on the field, up to the number of Attack Position \"Abyss Actor\" monsters with different names you control; destroy them. If you control a Level 7 or higher \"Abyss Actor\" monster, your opponent cannot activate cards or effects in response to this card's activation. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can add up to 2 \"Abyss Actor\" cards and/or \"Abyss Script\" Spells with different names from your Deck to your hand.",
+    "release_date": "2016-11-18",
+    "available_set": [
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
+        "DESTINY SOLDIERS"
+    ],
+    "related_card": [
+        "Abyss Actor - Comic Relief",
+        "Abyss Actor - Curtain Raiser",
+        "Abyss Actor - Evil Heel",
+        "Abyss Actor - Extras",
+        "Abyss Actor - Funky Comedian",
+        "Abyss Actor - Hyper Director",
+        "Abyss Actor - Leading Lady",
+        "Abyss Actor - Liberty Dramatist",
+        "Abyss Actor - Mellow Madonna",
+        "Abyss Actor - Sassy Rookie",
+        "Abyss Actor - Super Producer",
+        "Abyss Actor - Superstar",
+        "Abyss Actor - Trendy Understudy",
+        "Abyss Actor - Twinkle Little Star",
+        "Abyss Actor - Wild Hope",
+        "Abyss Actors Back Stage",
+        "Abyss Actors' Curtain Call",
+        "Abyss Actors' Dress Rehearsal",
+        "Abyss Playhouse - Fantastic Theater",
+        "Abyss Script - Abysstainment",
+        "Abyss Script - Dramatic Story",
+        "Abyss Script - Fantasy Magic",
+        "Abyss Script - Fire Dragon's Lair",
+        "Abyss Script - Opening Ceremony",
+        "Abyss Script - Romantic Terror"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

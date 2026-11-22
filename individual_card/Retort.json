@@ -1,0 +1,12 @@
+{
+    "name": "Retort",
+    "filename": "Retort",
+    "card_text": "When your opponent activates a Spell/Trap Card with the same name as one in your Graveyard: Negate the activation, and if you do, destroy that card. Then you can add 1 card with that name from your Graveyard to your hand.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

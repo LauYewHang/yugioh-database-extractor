@@ -1,0 +1,30 @@
+{
+    "name": "Inferno of the Sacred Beasts - Uria, Lord of Searing Flames",
+    "filename": "Inferno_of_the_Sacred_Beasts___Uria__Lord_of_Searing_Flames",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Sacred Beast\" card. You can reveal this card in your hand; add 1 \"Sacred Beast\" Trap from your Deck to your hand, then discard 1 card. You can only use this effect of \"Inferno of the Sacred Beasts - Uria, Lord of Searing Flames\" once per turn. Gains 1000 ATK/DEF for each Trap in the GYs. Once per turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it. Neither player can activate cards or effects in response to this effect's activation.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Abyss of the Sacred Beasts",
+        "Awakening of the Sacred Beasts",
+        "Calamity of the Sacred Beasts - Hamon, Lord of Striking Thunder",
+        "Fallen Paradise of the Sacred Beasts",
+        "Infinity of the Sacred Beasts - Raviel, Lord of Phantasms",
+        "Martyr of the Sacred Beasts",
+        "Sacred Beasts Combined Assault",
+        "Sacred Beasts Released",
+        "Sacred Beasts Skyfall",
+        "Sacred Beasts Thunderclap",
+        "Summoner of the Sacred Beasts",
+        "The Chaotic Phantasmal Sacred Beasts"
+    ],
+    "attribute": "FIRE",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Myutant Clash",
+    "filename": "Myutant_Clash",
+    "card_text": "When you activate this card: You can target 1 Effect Monster your opponent controls; banish 1 \"Myutant\" monster from your GY, and if you do, negate its effect until the end of this turn (even if this card leaves the field). When your Level 8 or higher \"Myutant\" monster destroys an opponent's monster by battle: You can draw 1 card. You can only use this effect of \"Myutant Clash\" once per turn. You can only activate 1 \"Myutant Clash\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Myutant Arsenal",
+        "Myutant Beast",
+        "Myutant Blast",
+        "Myutant Cry",
+        "Myutant Evolution Lab",
+        "Myutant Expansion",
+        "Myutant Fusion",
+        "Myutant GB-88",
+        "Myutant M-05",
+        "Myutant Mist",
+        "Myutant Mutant",
+        "Myutant ST-46",
+        "Myutant Synthesis",
+        "Myutant Ultimus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

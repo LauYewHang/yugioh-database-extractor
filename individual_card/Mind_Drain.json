@@ -1,0 +1,14 @@
+{
+    "name": "Mind Drain",
+    "filename": "Mind_Drain",
+    "card_text": "Activate this card by paying 1000 LP. Neither player can activate the effects of monsters in the hand.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

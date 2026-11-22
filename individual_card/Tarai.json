@@ -1,0 +1,18 @@
+{
+    "name": "Tarai",
+    "filename": "Tarai",
+    "card_text": "If this card is in your hand: You can target 1 face-up monster in the Main Monster Zone that has activated its effect on the field this turn; destroy it, and if you do, Special Summon this card to the zone that monster was in. You can only use this effect of \"Tarai\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Snake Whistle",
+    "filename": "Snake_Whistle",
+    "card_text": "Activate only when a Reptile-Type monster you control is destroyed. Special Summon 1 Level 4 or lower Reptile-Type monster from your Deck.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

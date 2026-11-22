@@ -1,0 +1,26 @@
+{
+    "name": "Dark Scorpion - Chick the Yellow",
+    "filename": "Dark_Scorpion___Chick_the_Yellow",
+    "card_text": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects.\n\u25cfTarget 1 card on the field; return that target to the hand.\n\u25cfLook at the top card of their Deck, then place it on the top or bottom of the Deck.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DARK REVELATION Volume 1",
+        "GOLD SERIES HAUNTED MINE",
+        "DARK CRISIS"
+    ],
+    "related_card": [
+        "Dark Scorpion - Meanae the Thorn",
+        "Dark Scorpion Combination",
+        "Mustering of the Dark Scorpions"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Arahime the Manifested Mikanko",
+    "filename": "Arahime_the_Manifested_Mikanko",
+    "card_text": "You can Ritual Summon this card with \"Mikanko Kagura\". Cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. If you have this card in your hand or GY, and another \"Mikanko\" card in your GY: You can target 1 face-up monster on the field; equip this card to it as an Equip Spell. You can only use this effect of \"Arahime the Manifested Mikanko\" once per turn. Once per turn, during the End Phase, while this card is equipped to a monster: You can return this card and the equipped monster to the hand.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Ha-Re the Sword Mikanko",
+        "Heavenly Gate of the Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Fire Dance",
+        "Mikanko Kagura",
+        "Mikanko Promise",
+        "Mikanko Purification Dance",
+        "Mikanko Reflection Rondo",
+        "Mikanko Rivalry",
+        "Mikanko Shinbu - Noble Twins",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Ohime the Manifested Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

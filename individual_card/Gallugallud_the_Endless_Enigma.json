@@ -1,0 +1,19 @@
+{
+    "name": "Gallugallud the Endless Enigma",
+    "filename": "Gallugallud_the_Endless_Enigma",
+    "card_text": "This sinister spirit of wavering flames can transform into any being. As it shifts from bird to human, and human to bird, it has forgotten its true self.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6,
+    "pendulum_effect": "",
+    "pendulum_scale": 9
+}

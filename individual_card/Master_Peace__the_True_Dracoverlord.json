@@ -1,0 +1,35 @@
+{
+    "name": "Master Peace, the True Dracoverlord",
+    "filename": "Master_Peace__the_True_Dracoverlord",
+    "card_text": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). To Tribute Summon this card face-up, you can Tribute Continuous Spells/Traps you control, as well as monsters. You can only use each of the following effects of \"Master Peace, the True Dracoverlord\" once per turn. When your opponent activates a monster effect in their hand or field and you control this Tribute Summoned card (Quick Effect): You can negate the activation, and if you do, destroy that monster. If this Tribute Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can activate this effect; your opponent skips their next Main Phase.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Amorphactor Pain, the Imagination Dracoverlord",
+        "Dinomight Knight, the True Dracofighter",
+        "Disciples of the True Dracophoenix",
+        "Draco Awakening",
+        "Draco Face-Off",
+        "Dragonic Diagram",
+        "Dragonic Pendulum",
+        "Dreiath III, the True Dracocavalry General",
+        "Forge of the True Dracos",
+        "Ignis Heat, the True Dracowarrior",
+        "Majesty Maiden, the True Dracocaster",
+        "Mariamne Paradox, the True Dracophoenix Knight",
+        "Master Peace, the True Dracoslayer",
+        "True Draco Apocalypse",
+        "True Draco Heritage",
+        "True King of All Calamities",
+        "True King's Return"
+    ],
+    "attribute": "DARK",
+    "attack": 2950,
+    "defense": 2950,
+    "monster_type": "Wyrm",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Ultimate Flame Swordsman",
+    "filename": "Ultimate_Flame_Swordsman",
+    "card_text": "\"Flame Swordsman\" + \"Fighting Flame Dragon\"\nYou can target 1 monster your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. This is a Quick Effect if this card is equipped with an Equip Card. At the start of the Damage Step, if this card battles: You can double this card's ATK until the end of this turn, but if you do, destroy it during the End Phase of this turn. You can only use each effect of \"Ultimate Flame Swordsman\" once per turn.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "Dark Flare Swordsman",
+        "Fighting Flame Dragon",
+        "Fighting Flame Sword",
+        "Fighting Flame Swordsman",
+        "Flame Swordsdance",
+        "Flame Swordsman",
+        "Mirage Swordsman",
+        "Salamandra Fusion",
+        "Salamandra, the Flying Flame Dragon"
+    ],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 1600,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

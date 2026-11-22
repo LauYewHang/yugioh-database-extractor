@@ -1,0 +1,32 @@
+{
+    "name": "PSY-Framelord Lambda",
+    "filename": "PSY_Framelord_Lambda",
+    "card_text": "2 monsters, except Tokens\nYou can activate the effects of \"PSY-Framegear\" monsters in your hand even while you control a monster(s). If a face-up Psychic monster you control is banished face-up while you control this monster (except during the Damage Step): You can activate this effect; during the End Phase of this turn, add 1 \"PSY-Frame\" card from your Deck to your hand. You can only use this effect of \"PSY-Framelord Lambda\" once per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "MAXIMUM GOLD: EL DORADO",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [
+        "PSY-Frame Accelerator",
+        "PSY-Frame Circuit",
+        "PSY-Frame Driver",
+        "PSY-Frame Multi-Threader",
+        "PSY-Frame Overload",
+        "PSY-Framegear Alpha",
+        "PSY-Framegear Beta",
+        "PSY-Framegear Delta",
+        "PSY-Framegear Epsilon",
+        "PSY-Framegear Gamma",
+        "PSY-Framelord Omega",
+        "PSY-Framelord Zeta"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": null,
+    "monster_type": "Psychic",
+    "monster_card_type": "Effect",
+    "link_rating": 2,
+    "link_arrow": 10
+}

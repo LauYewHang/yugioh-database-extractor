@@ -1,0 +1,17 @@
+{
+    "name": "Troposphere",
+    "filename": "Troposphere",
+    "card_text": "If you Tribute Summon this card, the Tribute must be Winged Beast-Type. This card is unaffected by the effects of Trap Cards.",
+    "release_date": null,
+    "available_set": [
+        "SHONEN JUMP Scholastic Edition Promotional Card"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 2000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

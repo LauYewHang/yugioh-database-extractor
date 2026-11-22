@@ -1,0 +1,21 @@
+{
+    "name": "Frostosaurus",
+    "filename": "Frostosaurus",
+    "card_text": "This monster's metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP",
+        "STRIKE OF NEOS",
+        "WILD SURVIVORS",
+        "STARTER DECK XYZ SYMPHONY",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2600,
+    "defense": 1700,
+    "monster_type": "Dinosaur",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

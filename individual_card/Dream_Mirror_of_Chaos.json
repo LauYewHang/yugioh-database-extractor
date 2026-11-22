@@ -1,0 +1,30 @@
+{
+    "name": "Dream Mirror of Chaos",
+    "filename": "Dream_Mirror_of_Chaos",
+    "card_text": "Fusion Summon 1 \"Dream Mirror\" Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. If \"Dream Mirror of Joy\" is in a Field Zone, you can also use monsters in your hand as Fusion Material. If \"Dream Mirror of Terror\" is in a Field Zone, you can also banish monsters from your GY as Fusion Material. You can only activate 1 \"Dream Mirror of Chaos\" per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Dream Mirror Fantasy",
+        "Dream Mirror Hypnagogia",
+        "Dream Mirror of Joy",
+        "Dream Mirror of Terror",
+        "Dream Mirror Oneiromancy",
+        "Dream Mirror Phantasms",
+        "Dream Mirror Recap",
+        "Ikelos, the Dream Mirror Mara",
+        "Ikelos, the Dream Mirror Sprite",
+        "Morpheus, the Dream Mirror Black Knight",
+        "Morpheus, the Dream Mirror White Knight",
+        "Neiroy, the Dream Mirror Disciple",
+        "Neiroy, the Dream Mirror Traitor",
+        "Oneiros, the Dream Mirror Erlking",
+        "Oneiros, the Dream Mirror Tormentor",
+        "Phantasos, the Dream Mirror Foe",
+        "Phantasos, the Dream Mirror Friend"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

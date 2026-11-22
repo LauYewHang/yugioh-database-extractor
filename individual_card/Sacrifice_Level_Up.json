@@ -1,0 +1,12 @@
+{
+    "name": "Sacrifice Level-Up",
+    "filename": "Sacrifice_Level_Up",
+    "card_text": "Target 1 Xyz Monster you control; banish 2 materials from it, and if you do, Special Summon 1 Xyz Monster from your Extra Deck, whose Rank is 1 higher than that monster, but it cannot attack this turn. You can only activate 1 \"Sacrifice Level-Up\" per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

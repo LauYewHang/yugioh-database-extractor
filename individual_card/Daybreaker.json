@@ -1,0 +1,19 @@
+{
+    "name": "Daybreaker",
+    "filename": "Daybreaker",
+    "card_text": "When this card is Special Summoned: You can Special Summon 1 \"Daybreaker\" from your hand.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "STAR PACK 2014",
+        "DUEL TERMINAL 7A",
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

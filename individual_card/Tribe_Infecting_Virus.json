@@ -1,0 +1,20 @@
+{
+    "name": "Tribe-Infecting Virus",
+    "filename": "Tribe_Infecting_Virus",
+    "card_text": "Discard 1 card, then declare 1 Monster Type; destroy all monsters on the field with the declared Type.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1600,
+    "defense": 1000,
+    "monster_type": "Aqua",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

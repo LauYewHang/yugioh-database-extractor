@@ -1,0 +1,29 @@
+{
+    "name": "Manju of the Ten Thousand Hands",
+    "filename": "Manju_of_the_Ten_Thousand_Hands",
+    "card_text": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster or 1 Ritual Spell from your Deck to your hand.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "LEGENDARY MODERN DECKS 2026",
+        "INVASION OF CHAOS",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "HIDDEN SUMMONERS",
+        "WILD SURVIVORS",
+        "OTS TOURNAMENT PACK 18",
+        "THE SECRET FORCES",
+        "DUEL TERMINAL 6A",
+        "TURBO PACK BOOSTER FIVE",
+        "CHAMPION PACK GAME FOUR",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

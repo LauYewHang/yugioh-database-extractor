@@ -1,0 +1,33 @@
+{
+    "name": "DoomZ VII Seven - Elara",
+    "filename": "DoomZ_VII_Seven___Elara",
+    "card_text": "If this card is Normal or Special Summoned, or destroyed by card effect: You can Set 1 \"DoomZ\" Spell/Trap from your Deck. While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with the same Rank as this card's Level, and if you do, attach this card and its Equip Cards to that monster as material (this is treated as an Xyz Summon). You can only use each effect of \"DoomZ VII Seven - Elara\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "DoomZ Break - Diactorus",
+        "DoomZ Change",
+        "DoomZ Command \"A.D.R.A.S.T.E.I.A.\"",
+        "DoomZ Command \"D.O.O.M.D.U.R.G.\"",
+        "DoomZ Destruction",
+        "DoomZ Raiders",
+        "DoomZ V Five - Amalthe",
+        "DoomZ XII End - Drastrius",
+        "DoomZ XII Zero - Drastea",
+        "DoomZ XIII Over - Graflareio",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Power Patron DoomZ",
+        "Theorealize Past Lull"
+    ],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

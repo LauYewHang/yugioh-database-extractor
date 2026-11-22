@@ -1,0 +1,14 @@
+{
+    "name": "Verdant Sanctuary",
+    "filename": "Verdant_Sanctuary",
+    "card_text": "When a face-up Insect monster is destroyed by battle or card effect and sent to the GY: Its controller can add 1 Insect monster with the same Level as the destroyed monster from their Deck to their hand.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

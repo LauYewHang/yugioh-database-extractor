@@ -1,0 +1,28 @@
+{
+    "name": "Old Vindictive Magician",
+    "filename": "Old_Vindictive_Magician",
+    "card_text": "FLIP: Target 1 monster your opponent controls; destroy that target.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "CHAMPION PACK GAME SIX",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "DEMO DECK 2016 (UK)",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "GOLD SERIES",
+        "SUPER STARTER V FOR VICTORY",
+        "DARK REVELATION Volume 1",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "STARTER DECK YUGI RELOADED",
+        "SPELLCASTER'S COMMAND STRUCTURE DECK",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 450,
+    "defense": 600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

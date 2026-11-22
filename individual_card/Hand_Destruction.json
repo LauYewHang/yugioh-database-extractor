@@ -1,0 +1,17 @@
+{
+    "name": "Hand Destruction",
+    "filename": "Hand_Destruction",
+    "card_text": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
+    "release_date": "2008-01-26",
+    "available_set": [
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "MACHINA MAYHEM STRUCTURE DECK",
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "TURBO PACK BOOSTER ONE",
+        "DUELIST PACK - JESSE ANDERSON -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

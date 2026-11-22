@@ -1,0 +1,42 @@
+{
+    "name": "Iron Core Specimen Lab",
+    "filename": "Iron_Core_Specimen_Lab",
+    "card_text": "During each of your End Phases, destroy this card unless you reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand. Each time a \"Koa'ki Meiru\" monster on the field is destroyed during the End Phase, its owner can add 1 \"Koa'ki Meiru\" monster from their Deck to their hand.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Diamond Core of Koa'ki Meiru",
+        "Iron Core of Koa'ki Meiru",
+        "Koa'ki Meiru Beetle",
+        "Koa'ki Meiru Bergzak",
+        "Koa'ki Meiru Boulder",
+        "Koa'ki Meiru Crusader",
+        "Koa'ki Meiru Doom",
+        "Koa'ki Meiru Drago",
+        "Koa'ki Meiru Ghoulungulate",
+        "Koa'ki Meiru Gravirose",
+        "Koa'ki Meiru Guardian",
+        "Koa'ki Meiru Hydro Barrier",
+        "Koa'ki Meiru Ice",
+        "Koa'ki Meiru Initialize!",
+        "Koa'ki Meiru Maximus",
+        "Koa'ki Meiru Overload",
+        "Koa'ki Meiru Powerhand",
+        "Koa'ki Meiru Prototype",
+        "Koa'ki Meiru Rooklord",
+        "Koa'ki Meiru Sandman",
+        "Koa'ki Meiru Sea Panther",
+        "Koa'ki Meiru Shield",
+        "Koa'ki Meiru Speeder",
+        "Koa'ki Meiru Supplier",
+        "Koa'ki Meiru Tornado",
+        "Koa'ki Meiru Urnight",
+        "Koa'ki Meiru Valafar",
+        "Koa'ki Meiru Wall",
+        "Koa'ki Meiru War Arms"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

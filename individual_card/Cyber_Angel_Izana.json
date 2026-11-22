@@ -1,0 +1,37 @@
+{
+    "name": "Cyber Angel Izana",
+    "filename": "Cyber_Angel_Izana",
+    "card_text": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can make your opponent send 1 Spell/Trap they control to the GY. When this attacking card destroys an opponent's monster by battle and sends it to the GY: You can activate this effect; this card can make a second attack on an opponent's monster in a row. Once per turn, when your opponent activates a card or effect that targets a \"Cyber Angel\" Ritual Monster you control (Quick Effect): You can shuffle 1 Ritual Monster from your GY into the Deck, and if you do, destroy 1 card your opponent controls.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "SPEED DUEL GX: DUEL ACADEMY BOX"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Angel Benten",
+        "Cyber Angel Dakini",
+        "Cyber Angel Idaten",
+        "Cyber Angel Natasha",
+        "Cyber Angel Vrash",
+        "Cyber Eternal",
+        "Cyber Petit Angel",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Incarnated Machine Angel",
+        "Machine Angel Absolute Ritual",
+        "Machine Angel Ritual",
+        "Magnificent Machine Angel",
+        "Merciful Machine Angel",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2600,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

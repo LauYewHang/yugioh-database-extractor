@@ -1,0 +1,13 @@
+{
+    "name": "Mamemaki",
+    "filename": "Mamemaki",
+    "card_text": "Target 1 face-up monster your opponent controls; discard cards equal to that monster's Level, and if you do, draw the same number of cards you discarded, then return that monster to the hand.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Gaia Power",
+    "filename": "Gaia_Power",
+    "card_text": "Increase the ATK of all EARTH monsters by 500 points and decrease their DEF by 400 points.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "DARK BEGINNING 1",
+        "RETRO PACK",
+        "STARTER DECK 2006",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

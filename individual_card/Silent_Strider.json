@@ -1,0 +1,17 @@
+{
+    "name": "Silent Strider",
+    "filename": "Silent_Strider",
+    "card_text": "You can send this card from your hand to the Graveyard to reduce the Level of 1 monster on the field by 1, until the End Phase.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 700,
+    "monster_type": "Insect",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

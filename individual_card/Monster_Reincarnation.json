@@ -1,0 +1,28 @@
+{
+    "name": "Monster Reincarnation",
+    "filename": "Monster_Reincarnation",
+    "card_text": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "STARTER DECK DARK LEGION (US)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STARTER DECK SABER FORCE (US)",
+        "DARK REVELATION Volume 3",
+        "STARTER DECK 2006",
+        "REALM OF LIGHT STRUCTURE DECK",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "5D's STARTER DECK 2008",
+        "RISE OF DESTINY",
+        "LEGENDARY DUELISTS",
+        "STRUCTURE DECK: SOULBURNER",
+        "STARTER DECK - LINK STRIKE -",
+        "STARTER DECK JADEN YUKI",
+        "DUEL TERMINAL 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

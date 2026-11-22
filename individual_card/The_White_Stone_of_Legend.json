@@ -1,0 +1,32 @@
+{
+    "name": "The White Stone of Legend",
+    "filename": "The_White_Stone_of_Legend",
+    "card_text": "If this card is sent to the GY: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
+        "QUARTER CENTURY BONANZA",
+        "LEGENDARY DECKS II",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 1",
+        "CROSSROADS OF CHAOS",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "DUELIST PACK - KAIBA -",
+        "DRAGONS COLLIDE STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Blue-Eyes Alternative White Dragon",
+        "Blue-Eyes White Dragon",
+        "Chronicle Sorceress",
+        "Dictator of D."
+    ],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 250,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

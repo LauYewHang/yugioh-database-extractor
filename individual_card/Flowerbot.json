@@ -1,0 +1,17 @@
+{
+    "name": "Flowerbot",
+    "filename": "Flowerbot",
+    "card_text": "If this card is sent to the Graveyard: Draw 1 card, then place 1 card from your hand on the top of the Deck.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 800,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Hydro Pressure Cannon",
+    "filename": "Hydro_Pressure_Cannon",
+    "card_text": "Equip only to a Level 3 or lower WATER monster. If it destroys an opponent's monster by battle, send 1 random card in your opponent's hand to the Graveyard.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

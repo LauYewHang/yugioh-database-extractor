@@ -1,0 +1,17 @@
+{
+    "name": "Master of the Flaming Dragonswords",
+    "filename": "Master_of_the_Flaming_Dragonswords",
+    "card_text": "When a monster is Normal Summoned to your side of the field, except \"Master of the Flaming Dragonswords\": You can increase that monster's Level by 1, and this card gains 300 ATK until the End Phase.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

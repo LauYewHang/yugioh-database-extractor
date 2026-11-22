@@ -1,0 +1,23 @@
+{
+    "name": "Starry Knight Astel",
+    "filename": "Starry_Knight_Astel",
+    "card_text": "(Quick Effect): You can target 1 LIGHT monster you control; Tribute it, and if you do, Special Summon 1 Level 7 LIGHT Dragon monster from your hand. You can banish this card from your GY, then target 1 Level 7 LIGHT Dragon monster you control; it gains 1000 ATK until the end of your opponent's turn. You can only use each effect of \"Starry Knight Astel\" once per turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Starry Knight Balefire",
+        "Starry Knight Ciel",
+        "Starry Knight Orbitael",
+        "Starry Knight Rayel",
+        "Starry Knight Sky"
+    ],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

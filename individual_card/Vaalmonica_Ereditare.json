@@ -1,0 +1,28 @@
+{
+    "name": "Vaalmonica Ereditare",
+    "filename": "Vaalmonica_Ereditare",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Vaalmonica\" Link Monster: Negate the activation, and if you do, destroy that card. You can banish this card from your GY; shuffle into the Deck, \"Vaalmonica\" cards from your face-up Extra Deck, GY, and/or banishment, except \"Vaalmonica Ereditare\", up to the number of Resonance Counters on your field, then you can draw 1 card for every 3 cards shuffled. You can only use 1 \"Vaalmonica Ereditare\" effect per turn, and only once that turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Dimonno Vaalmonica",
+        "Duralume, Vaalmonican Heathen Hallow",
+        "Selettrice Vaalmonica",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Disarmonia",
+        "Vaalmonica Followed Rhythm",
+        "Vaalmonica Intonare",
+        "Vaalmonica Invitare",
+        "Vaalmonica Scelta",
+        "Vaalmonica Versare",
+        "Vaalmonica, the Agathokakological Voice",
+        "Varar, Vaalmonican Concord",
+        "Zebufera, Vaalmonican Hallow Heathen"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

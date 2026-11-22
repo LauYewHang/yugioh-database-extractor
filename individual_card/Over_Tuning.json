@@ -1,0 +1,12 @@
+{
+    "name": "Over Tuning",
+    "filename": "Over_Tuning",
+    "card_text": "If you control a Tuner: Special Summon 1 Tuner from your hand, Deck, or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves, except Synchro Monsters. You can only activate 1 \"Over Tuning\" per turn.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

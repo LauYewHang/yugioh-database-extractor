@@ -1,0 +1,21 @@
+{
+    "name": "Toon Rollback",
+    "filename": "Toon_Rollback",
+    "card_text": "Target 1 Toon monster you control; it can make a second attack during each Battle Phase this turn.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS"
+    ],
+    "related_card": [
+        "Evil Box",
+        "Funny Dark Rabbit",
+        "Mind Scan",
+        "Toon Dark Magician",
+        "Toon Table of Contents"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

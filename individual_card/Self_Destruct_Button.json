@@ -1,0 +1,14 @@
+{
+    "name": "Self-Destruct Button",
+    "filename": "Self_Destruct_Button",
+    "card_text": "You can only activate this card while your Life Points are lower than your opponent's Life Points and the difference is 7000 points or more. Both players' Life Points become 0.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

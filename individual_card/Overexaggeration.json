@@ -1,0 +1,13 @@
+{
+    "name": "Overexaggeration",
+    "filename": "Overexaggeration",
+    "card_text": "At the start of the Damage Step, if 2 monsters battle: Activate 1 of these effects;\n\u25cfChange the attacking monster to Defense Position.\n\u25cfReturn the attack target monster to the hand.\n\u25cfDestroy both battling monsters.\nYou can only activate 1 \"Overexaggeration\" per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

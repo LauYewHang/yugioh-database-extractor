@@ -1,0 +1,29 @@
+{
+    "name": "Evening Twilight Knight",
+    "filename": "Evening_Twilight_Knight",
+    "card_text": "A \"Black Luster Soldier\" monster Ritual Summoned using this card gains these effects. You can only use this effect of \"Evening Twilight Knight\" once per turn.\n\u25cfOnce per turn: You can target 1 monster your opponent controls; banish it.\n\u25cfOnce per turn: You can banish 1 random card from your opponent's hand face-down, until your opponent's next End Phase.\nIf this card is banished from your Graveyard: You can add 1 Ritual Monster from your Deck to your hand. You can only use this effect of \"Evening Twilight Knight\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Black Luster Soldier",
+        "Black Luster Soldier - Envoy of the Beginning",
+        "Black Luster Soldier - Envoy of the Evening Twilight",
+        "Black Luster Soldier - Legendary Swordsman",
+        "Black Luster Soldier - Sacred Soldier",
+        "Black Luster Soldier - Soldier of Chaos",
+        "Black Luster Soldier - Soldier of Light and Darkness",
+        "Black Luster Soldier - Super Soldier",
+        "Super Soldier Soul",
+        "Toon Black Luster Soldier"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

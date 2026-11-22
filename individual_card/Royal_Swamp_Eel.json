@@ -1,0 +1,17 @@
+{
+    "name": "Royal Swamp Eel",
+    "filename": "Royal_Swamp_Eel",
+    "card_text": "If this card is used as a Synchro Material Monster, all the other Synchro Material Monsters must be Fish-Type.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Fish",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

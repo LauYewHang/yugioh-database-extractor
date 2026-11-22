@@ -1,0 +1,14 @@
+{
+    "name": "Tailor of the Fickle",
+    "filename": "Tailor_of_the_Fickle",
+    "card_text": "Switch 1 Equip Card equipped to a monster to another correct target.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

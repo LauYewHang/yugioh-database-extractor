@@ -1,0 +1,38 @@
+{
+    "name": "Toon Gemini Elf",
+    "filename": "Toon_Gemini_Elf",
+    "card_text": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "DUELIST PACK - BATTLE CITY -",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "DARK BEGINNING 2",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DUELIST LEAGUE SERIES 6"
+    ],
+    "related_card": [
+        "Animimicat",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Dark-Eyes Illusionist Faceless Mage",
+        "Evil Box",
+        "Funny Dark Rabbit",
+        "Mind Scan",
+        "Perfect Toon World",
+        "Toon Bookmark",
+        "Toon Dark Magician",
+        "Toon Kingdom",
+        "Toon Table of Contents",
+        "Toon World"
+    ],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

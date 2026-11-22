@@ -1,0 +1,32 @@
+{
+    "name": "Shaman of the Ashened City",
+    "filename": "Shaman_of_the_Ashened_City",
+    "card_text": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Shaman of the Ashened City\" once per turn this way. You can target 3 of your Pyro monsters that are banished and/or in your GY; shuffle them into the Deck, then if you shuffled an \"Ashened\" monster, you can add 1 \"Obsidim, the Ashened City\" from your Deck to your hand. You can only use this effect of \"Shaman of the Ashened City\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ashened for Eternity",
+        "Ashened to Endlessness",
+        "Embers of the Ashened",
+        "Extinguishing the Ashened",
+        "Hero of the Ashened City",
+        "Inferno of the Ashened",
+        "King of the Ashened City",
+        "Obsidim, the Ashened City",
+        "Priestess of the Ashened City",
+        "Rekindling the Ashened",
+        "Spearhead of the Ashened City",
+        "Veidos the Dragon of Endless Darkness",
+        "Veidos the Eruption Dragon of Extinction"
+    ],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 1200,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

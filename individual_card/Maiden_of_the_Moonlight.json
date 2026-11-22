@@ -1,0 +1,17 @@
+{
+    "name": "Maiden of the Moonlight",
+    "filename": "Maiden_of_the_Moonlight",
+    "card_text": "A sorcerer blessed by lunar light with powers far beyond mortal comprehension.",
+    "release_date": "2002-10-01",
+    "available_set": [
+        "TOURNAMENT PACK 2ND SEASON"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1300,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Normal",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

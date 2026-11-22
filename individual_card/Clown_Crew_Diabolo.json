@@ -1,0 +1,30 @@
+{
+    "name": "Clown Crew Diabolo",
+    "filename": "Clown_Crew_Diabolo",
+    "card_text": "2 monsters with the same Attribute but different Types\nIf your Tribute Summoned monster attacks a Defense Position monster, inflict double piercing battle damage to your opponent. If this card is Tributed: You can activate 1 of these effects (but you can only use each effect of \"Clown Crew Diabolo\" once per turn);\n\u25cfReturn all Fusion Monsters from the field and the GYs to the Extra Deck.\n\u25cfSet 1 \"Clown Crew\" Trap from your Deck.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Clown Crew Biancaviso",
+        "Clown Crew Cappello",
+        "Clown Crew Dristy",
+        "Clown Crew Fiends",
+        "Clown Crew Finale",
+        "Clown Crew Flair",
+        "Clown Crew Malabarisme",
+        "Clown Crew Matinee Operatics",
+        "Clown Crew Meteor",
+        "Clown Crew New Face",
+        "Clown Crew Rehearsal",
+        "Clown Crew Soiree Operations"
+    ],
+    "attribute": "LIGHT",
+    "attack": 200,
+    "defense": 1800,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

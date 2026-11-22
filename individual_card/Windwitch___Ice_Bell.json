@@ -1,0 +1,30 @@
+{
+    "name": "Windwitch - Ice Bell",
+    "filename": "Windwitch___Ice_Bell",
+    "card_text": "If you control no monsters: You can Special Summon this card from your hand, then you can Special Summon 1 \"Windwitch\" monster from your Deck, but it cannot be Tributed. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Level 5 or higher WIND monsters. If this card is Normal or Special Summoned: You can inflict 500 damage to your opponent. You can only use each effect of \"Windwitch - Ice Bell\" once per turn.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "QUARTER CENTURY STAMPEDE",
+        "SHADOWS IN VALHALLA",
+        "RAGING TEMPEST",
+        "OTS TOURNAMENT PACK 15"
+    ],
+    "related_card": [
+        "Icy Breeze Refrain",
+        "Windwitch - Blizzard Bell",
+        "Windwitch - Crystal Bell",
+        "Windwitch - Diamond Bell",
+        "Windwitch - Freeze Bell",
+        "Windwitch - Glass Bell",
+        "Windwitch - Snow Bell",
+        "Windwitch - Winter Bell",
+        "Windwitch Chimes"
+    ],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

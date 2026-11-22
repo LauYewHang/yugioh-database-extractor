@@ -1,0 +1,41 @@
+{
+    "name": "Garmr of the Nordic Beasts",
+    "filename": "Garmr_of_the_Nordic_Beasts",
+    "card_text": "If this card battles a Level 4 or lower monster, after damage calculation: You can return that monster to the hand.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "LEGENDARY HERO DECKS",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Alviss of the Nordic Alfar",
+        "Dverg of the Nordic Alfar",
+        "Gleipnir, the Fetters of Fenrir",
+        "Gullveig of the Nordic Ascendant",
+        "Ljosalf of the Nordic Alfar",
+        "Mara of the Nordic Alfar",
+        "Mimir of the Nordic Ascendant",
+        "Nordic Beast Gullinbursti",
+        "Nordic Relic Draupnir",
+        "Nordic Relic Gungnir",
+        "Nordic Relic Hlidskjalf",
+        "Nordic Relic Megingjord",
+        "Nordic Relic Svalinn",
+        "Nordic Smith Ivaldi",
+        "Svartalf of the Nordic Alfar",
+        "Tanngnjostr of the Nordic Beasts",
+        "The Nordic Lights",
+        "Thor, Lord of the Aesir",
+        "Tyr of the Nordic Champions",
+        "Valkyrie of the Nordic Ascendant",
+        "Vanadis of the Nordic Ascendant"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 1900,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

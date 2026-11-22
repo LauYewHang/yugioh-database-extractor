@@ -1,0 +1,17 @@
+{
+    "name": "Infernal Flame Vixen",
+    "filename": "Infernal_Flame_Vixen",
+    "card_text": "2 Pyro-Type Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK until your opponent's End Phase. When this card with 2500 or more ATK is destroyed: Target 3 monsters in any Graveyard(s); banish those targets.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2200,
+    "defense": 2000,
+    "monster_type": "Pyro",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

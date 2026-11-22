@@ -1,0 +1,25 @@
+{
+    "name": "Ruin, Supreme Queen of Oblivion",
+    "filename": "Ruin__Supreme_Queen_of_Oblivion",
+    "card_text": "You can Ritual Summon this card with \"Cycle of the World\". This card's name becomes \"Ruin, Queen of Oblivion\" while in the hand or on the field. While this Ritual Summoned card is on the field, Ritual Monsters you control cannot be destroyed by card effects. If all monsters used to Ritual Summon this card were Ritual Monsters, it can make a second attack during each Battle Phase. If this card destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that destroyed monster's original ATK.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "OTS TOURNAMENT PACK 8",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Breaking of the World",
+        "Cycle of the World",
+        "End of the World",
+        "Ruin, Angel of Oblivion",
+        "Ruin, Queen of Oblivion",
+        "Turning of the World"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2900,
+    "defense": 3000,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

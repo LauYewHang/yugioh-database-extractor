@@ -1,0 +1,19 @@
+{
+    "name": "Fiend's Sanctuary",
+    "filename": "Fiend_s_Sanctuary",
+    "card_text": "Special Summon 1 \"Metal Fiend Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0). It cannot attack, also the opponent takes any battle damage its controller would have taken from battles involving it. Once per turn, during its controller's Standby Phase, they pay 1000 LP or destroy this Token.",
+    "release_date": "2008-01-08",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "CHAMPION PACK GAME FIVE",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "Speed Duel: Battle City Box",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

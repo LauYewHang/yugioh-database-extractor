@@ -1,0 +1,31 @@
+{
+    "name": "Shootingcode Talker",
+    "filename": "Shootingcode_Talker",
+    "card_text": "2+ Cyberse monsters\nAt the start of your Battle Phase: You can activate this effect; this Battle Phase, this card can make attacks on your opponent's monsters, up to the number of monsters this card currently points to +1, but this turn, when it attacks your opponent's only monster, this card loses 400 ATK during that damage calculation only. At the end of each Battle Phase: You can draw cards equal to the number of monsters this card destroyed by battle this turn.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Code Exporter",
+        "Code Generator",
+        "Code Hack",
+        "Code Radiator",
+        "Cynet Codec",
+        "Cynet Conflict",
+        "Cynet Optimization",
+        "Limit Code",
+        "Micro Coder",
+        "Recoded Alive",
+        "Rokket Coder",
+        "Talkback Lancer"
+    ],
+    "attribute": "WATER",
+    "attack": 2300,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": "Effect",
+    "link_rating": 3,
+    "link_arrow": 276
+}

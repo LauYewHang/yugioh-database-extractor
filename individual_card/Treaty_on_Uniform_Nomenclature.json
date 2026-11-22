@@ -1,0 +1,12 @@
+{
+    "name": "Treaty on Uniform Nomenclature",
+    "filename": "Treaty_on_Uniform_Nomenclature",
+    "card_text": "If you control 2 or more face-up monsters with the same name, except Tokens: Apply this effect, depending on how many you control.\n\u25cfExactly 2: Destroy 1 Spell/Trap Card your opponent controls.\n\u25cfExactly 3: Destroy all Spell/Trap Cards your opponent controls.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

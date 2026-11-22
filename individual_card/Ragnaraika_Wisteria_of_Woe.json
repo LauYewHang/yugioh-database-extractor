@@ -1,0 +1,24 @@
+{
+    "name": "Ragnaraika Wisteria of Woe",
+    "filename": "Ragnaraika_Wisteria_of_Woe",
+    "card_text": "Special Summon this card as a Normal Monster (Plant/DARK/Level 4/ATK 1600/DEF 0) (this card is also still a Trap), then if you control a \"Ragnaraika\" Link Monster, you can banish up to 2 cards from your opponent's GY. During the End Phase, if this card is in your GY: You can shuffle 2 Insect, Plant, and/or Reptile monsters from your GY and/or banishment into the Deck, and if you do, Set this card. You can only use this effect of \"Ragnaraika Wisteria of Woe\" once per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Ragnaraika Armored Lizard",
+        "Ragnaraika Bloom",
+        "Ragnaraika Chain Coils",
+        "Ragnaraika Hunting Dance",
+        "Ragnaraika Mantis Monk",
+        "Ragnaraika Samurai Beetle",
+        "Ragnaraika Selene Snapper",
+        "Ragnaraika Skeletal Soldier",
+        "Ragnaraika Stag Sovereign",
+        "Ragnaraika the Evil Seed",
+        "Ragnaraika Wicked Butterfly"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

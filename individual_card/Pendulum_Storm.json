@@ -1,0 +1,17 @@
+{
+    "name": "Pendulum Storm",
+    "filename": "Pendulum_Storm",
+    "card_text": "Destroy as many cards in the Pendulum Zones as possible, then you can destroy 1 Spell/Trap your opponent controls.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "PENDULUM EVOLUTION",
+        "BREAKERS OF SHADOW",
+        "LEGENDARY DRAGON DECKS"
+    ],
+    "related_card": [
+        "Duelist Alliance",
+        "PenduLuMoon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

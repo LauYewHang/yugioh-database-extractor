@@ -1,0 +1,42 @@
+{
+    "name": "Darklord Dance",
+    "filename": "Darklord_Dance",
+    "card_text": "Fusion Summon 1 DARK Fairy Fusion Monster from your Extra Deck, by banishing monsters from your hand, field, and/or GY as material. The monster Special Summoned by this effect gains 1000 ATK. If Summoning a \"Darklord\" Fusion Monster this way, you can also use \"Darklord\" monsters your opponent controls as material. You can only activate 1 \"Darklord Dance\" per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Banishment of the Darklords",
+        "Capricious Darklord",
+        "Condemned Darklord",
+        "Darklord Amdusc",
+        "Darklord Asmodeus",
+        "Darklord Contact",
+        "Darklord Descent",
+        "Darklord Desire",
+        "Darklord Djehuty",
+        "Darklord Edeh Arae",
+        "Darklord Enchantment",
+        "Darklord Eveningstar",
+        "Darklord Gulgolet",
+        "Darklord Ixchel",
+        "Darklord Marie (Updated from: Marie the Fallen One)",
+        "Darklord Morningstar",
+        "Darklord Nasten",
+        "Darklord Nergal",
+        "Darklord Nurse Reficule (Updated from: Nurse Reficule the Fallen One)",
+        "Darklord Rebellion",
+        "Darklord Superbia",
+        "Darklord Tezcatlipoca",
+        "Darklord Ukoback",
+        "Darklord Uprising",
+        "Darklord Zerato",
+        "Fallen Angel in Darkness",
+        "Indulged Darklord",
+        "The First Darklord",
+        "The Sanctified Darklord"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

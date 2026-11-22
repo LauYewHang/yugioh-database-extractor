@@ -1,0 +1,23 @@
+{
+    "name": "Monk Fighter",
+    "filename": "Monk_Fighter",
+    "card_text": "Battle Damage to this card's controller from a battle involving this card becomes 0.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "THE LOST MILLENNIUM",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Kaminote Blow",
+        "Legendary Black Belt",
+        "Lone Wolf",
+        "Master Monk"
+    ],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 1000,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

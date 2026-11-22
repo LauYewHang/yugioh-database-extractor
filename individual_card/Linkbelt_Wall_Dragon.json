@@ -1,0 +1,19 @@
+{
+    "name": "Linkbelt Wall Dragon",
+    "filename": "Linkbelt_Wall_Dragon",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. When you Link Summon: You can Special Summon this card from your hand, and if you do, place 2 counters on it. If a monster is Link Summoned: Remove 2 of these counters from this card (or all, if less than 2). Once per turn, during each Standby Phase: Place 1 of these counters on this card. No monster can be Link Summoned unless this card has at least as many of these counters as that monster's Link Rating. Monsters cannot attack, except Link Monsters.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "STAR PACK: VRAINS",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2100,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

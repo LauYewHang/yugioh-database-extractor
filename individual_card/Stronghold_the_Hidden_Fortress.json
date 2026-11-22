@@ -1,0 +1,27 @@
+{
+    "name": "Stronghold the Hidden Fortress",
+    "filename": "Stronghold_the_Hidden_Fortress",
+    "card_text": "Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK 0/DEF 2000) with the following effects (this card is also still a Trap).\n\u25cfGains 1000 ATK for each \"Shining Sarcophagus\", and monster that mentions it, that you control.\n\u25cfOnce per turn, when an opponent's monster declares an attack, while you control \"Shining Sarcophagus\": You can destroy that monster.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Archfiend's Advent",
+        "Dark Magic Mirror Force",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician the Magician of Black Magic",
+        "Future Silence",
+        "Gadget Trio",
+        "Gandora-G the Dragon of Destruction",
+        "Moremarshmallon",
+        "Shining Sarcophagus",
+        "Silent Magician Zero",
+        "Silent Swordsman Zero",
+        "Ties That Bind",
+        "Turn Silence"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

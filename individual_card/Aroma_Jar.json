@@ -1,0 +1,30 @@
+{
+    "name": "Aroma Jar",
+    "filename": "Aroma_Jar",
+    "card_text": "If this card is flipped face-up, this card cannot be destroyed by battle while it is face-up on the field. If this card is flipped face-up, during each player's End Phase: You gain 500 LP.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aromage Marjoram",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Blessed Winds",
+        "Dried Winds",
+        "Humid Winds"
+    ],
+    "attribute": "WIND",
+    "attack": 500,
+    "defense": 400,
+    "monster_type": "Rock",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

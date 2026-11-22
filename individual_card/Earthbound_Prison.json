@@ -1,0 +1,41 @@
+{
+    "name": "Earthbound Prison",
+    "filename": "Earthbound_Prison",
+    "card_text": "When this card is activated: You can target 1 Effect Monster your opponent controls; this card gains this effect.\n\u25cfWhile this card is in the Field Zone, negate the effects of that face-up Effect Monster while it is on the field.\nDuring your Main Phase, you can Normal Summon 1 \"Earthbound\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card in your possession is destroyed by an opponent's card effect, and you have an \"Earthbound\" monster in your field or GY: Halve your opponent's LP, and if you do, negate the effects of all face-up cards your opponent currently controls, until the end of this turn.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "Call of the Earthbound",
+        "Earthbound Fusion",
+        "Earthbound Geoglyph",
+        "Earthbound Greater Linewalker",
+        "Earthbound Immortal Aslla piscu",
+        "Earthbound Immortal Ccapac Apu",
+        "Earthbound Immortal Ccarayhua",
+        "Earthbound Immortal Chacu Challhua",
+        "Earthbound Immortal Cusillu",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Immortal Revival",
+        "Earthbound Immortal Uru",
+        "Earthbound Immortal Wiraqocha Rasca",
+        "Earthbound Linewalker",
+        "Earthbound Prisoner Ground Keeper",
+        "Earthbound Prisoner Line Walker",
+        "Earthbound Prisoner Stone Sweeper",
+        "Earthbound Release",
+        "Earthbound Resonance",
+        "Earthbound Servant Geo Grasha",
+        "Earthbound Servant Geo Gremlin",
+        "Earthbound Servant Geo Gremlina",
+        "Earthbound Servant Geo Gryphon",
+        "Earthbound Servant Geo Kraken",
+        "Earthbound Whirlwind",
+        "Roar of the Earthbound Immortal",
+        "Ultimate Earthbound Immortal",
+        "Zoma the Earthbound Spirit"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

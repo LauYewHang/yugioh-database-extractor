@@ -1,0 +1,13 @@
+{
+    "name": "Ritual Foregone",
+    "filename": "Ritual_Foregone",
+    "card_text": "Pay 1000 Life Points. Special Summon 1 Ritual Monster from your hand. The Ritual Monster Special Summoned by this effect cannot attack, and is destroyed during the End Phase. Only 1 \"Ritual Foregone\" can be activated per turn.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "HIDDEN SUMMONERS",
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

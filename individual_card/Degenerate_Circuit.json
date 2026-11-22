@@ -1,0 +1,12 @@
+{
+    "name": "Degenerate Circuit",
+    "filename": "Degenerate_Circuit",
+    "card_text": "The controller of this card pays 500 Life Points during each of their Standby Phases (this is not optional). Monster Cards that would be returned from the field to the hand are removed from play instead.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

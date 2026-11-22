@@ -1,0 +1,17 @@
+{
+    "name": "Cattycorn",
+    "filename": "Cattycorn",
+    "card_text": "If this card is Special Summoned while you control no card in your Field Zone: You can add 1 Field Spell from your Deck to your hand. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 Field Spell in your GY; add 1 card with its name from your Deck to your hand. You can only use each effect of \"Cattycorn\" once per turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 500,
+    "monster_type": "Plant",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

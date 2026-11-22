@@ -1,0 +1,18 @@
+{
+    "name": "Blade Rabbit",
+    "filename": "Blade_Rabbit",
+    "card_text": "When this card is changed from Attack Position to face-up Defense Position, destroy 1 monster on your opponent's side of the field.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 400,
+    "defense": 300,
+    "monster_type": "Beast",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

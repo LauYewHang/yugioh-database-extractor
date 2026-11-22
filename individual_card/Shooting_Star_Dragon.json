@@ -1,0 +1,32 @@
+{
+    "name": "Shooting Star Dragon",
+    "filename": "Shooting_Star_Dragon",
+    "card_text": "1 Tuner Synchro Monster + \"Stardust Dragon\"\nOnce per turn: You can excavate the top 5 cards of your Deck, shuffle them back in, also this card's maximum number of attacks per Battle Phase this turn equals the number of Tuners excavated. Once per turn, when a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can negate the effect, and if you do, destroy it. Once per turn, when an opponent's monster declares an attack: You can target the attacking monster; banish this card, and if you do, negate that attack. Once per turn, during the End Phase, if this card was banished by its effect this turn: Special Summon this card.",
+    "release_date": "2010-11-02",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "Legendary 5D's Decks",
+        "STARSTRIKE BLAST",
+        "COLLECTIBLE TIN 2010 WAVE 2",
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Arrive in Light",
+        "Junk Signal",
+        "Majestic Absorption",
+        "Majestic Mirage",
+        "Shooting Majestic Star Dragon",
+        "Shooting Quasar Dragon",
+        "Stardust Dragon",
+        "Stardust Illumination",
+        "Stardust Synchron",
+        "Synchro Fellowship"
+    ],
+    "attribute": "WIND",
+    "attack": 3300,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

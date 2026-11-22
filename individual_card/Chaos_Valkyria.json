@@ -1,0 +1,18 @@
+{
+    "name": "Chaos Valkyria",
+    "filename": "Chaos_Valkyria",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. You can banish 1 LIGHT or DARK monster from your GY; Special Summon this card from your hand. If this card is banished: You can send 1 LIGHT or DARK monster from your Deck to the GY, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as that card. You can only use each effect of \"Chaos Valkyria\" once per turn.",
+    "release_date": "2020-06-19",
+    "available_set": [
+        "TOON CHAOS",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1050,
+    "monster_type": "Fairy",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,13 @@
+{
+    "name": "The Spell Absorbing Life",
+    "filename": "The_Spell_Absorbing_Life",
+    "card_text": "Flip all face-down Defense Position Monster Cards on the field face-up. Flip Effects are not activated at this time. Increase your Life Points by 400 points for each Effect Monster Card on the field.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "MAGICIAN'S FORCE",
+        "DARK REVELATION Volume 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

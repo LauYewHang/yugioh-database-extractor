@@ -1,0 +1,28 @@
+{
+    "name": "Magikey Locking",
+    "filename": "Magikey_Locking",
+    "card_text": "Tribute 1 Normal Monster or \"Magikey\" monster (except a Token), then target up to 2 Normal Monsters and/or \"Magikey\" monsters in your GY whose total Levels equal 8 or less; Special Summon those monsters in Defense Position, then you can apply 1 of the following effects immediately after this effect resolves.\n\u25cfSynchro Summon 1 \"Magikey\" Synchro Monster using monsters you control.\n\u25cfXyz Summon 1 \"Magikey\" Xyz Monster using monsters you control.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Clavkiys, the Magikey Skyblaster",
+        "Magikey Battle",
+        "Magikey Beast - Ansyalabolas",
+        "Magikey Deity - Ashtartu",
+        "Magikey Dragon - Andrabime",
+        "Magikey Duo",
+        "Magikey Fiend - Transfurlmine",
+        "Magikey Maftea",
+        "Magikey Mechmortar - Garesglasser",
+        "Magikey Mechmusket - Batosbuster",
+        "Magikey Spirit - Vepartu",
+        "Magikey Unlocking",
+        "Magikey World",
+        "Maginificent Magikey Mafteal"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

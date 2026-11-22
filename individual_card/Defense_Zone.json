@@ -1,0 +1,13 @@
+{
+    "name": "Defense Zone",
+    "filename": "Defense_Zone",
+    "card_text": "For each monster a player controls in their Main Monster Zone, their Spells/Traps in the same column as that monster cannot be destroyed by their opponent's card effects, and their opponent cannot target them with card effects.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "CODE OF THE DUELIST",
+        "2018 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

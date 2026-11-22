@@ -1,0 +1,17 @@
+{
+    "name": "Dark Dimension Soldier",
+    "filename": "Dark_Dimension_Soldier",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nYou can banish 1 card from your hand, then target 1 of your banished DARK monsters; Special Summon that monster in face-up or face-down Defense Position. During the End Phase: Inflict 100 damage to your opponent for each Set card on the field. You can only use each effect of \"Dark Dimension Soldier\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 2400,
+    "monster_type": "Warrior",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

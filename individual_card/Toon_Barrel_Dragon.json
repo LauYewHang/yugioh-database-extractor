@@ -1,0 +1,34 @@
+{
+    "name": "Toon Barrel Dragon",
+    "filename": "Toon_Barrel_Dragon",
+    "card_text": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn: You can target 1 card on the field; toss a coin 3 times and destroy it if at least 2 of the results are heads.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "DIMENSION OF CHAOS",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Animimicat",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Dark-Eyes Illusionist Faceless Mage",
+        "Evil Box",
+        "Funny Dark Rabbit",
+        "Mind Scan",
+        "Perfect Toon World",
+        "Toon Bookmark",
+        "Toon Dark Magician",
+        "Toon Kingdom",
+        "Toon Table of Contents",
+        "Toon World"
+    ],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 2200,
+    "monster_type": "Machine",
+    "monster_card_type": "Effect",
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

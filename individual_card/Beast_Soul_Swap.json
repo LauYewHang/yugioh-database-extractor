@@ -1,0 +1,14 @@
+{
+    "name": "Beast Soul Swap",
+    "filename": "Beast_Soul_Swap",
+    "card_text": "Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DUELIST LEAGUE 16",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}
