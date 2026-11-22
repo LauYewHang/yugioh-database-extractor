@@ -1,0 +1,37 @@
+{
+    "name": "Brightest, Blazing, Branded King",
+    "filename": "Brightest__Blazing__Branded_King",
+    "card_text": "Choose 1 Fusion Monster you control that mentions \"Fallen of Albaz\" as material, and negate the effects of all other face-up cards currently on the field until the end of this turn. During the End Phase, if a Fusion Monster(s) was sent to your GY this turn: You can add this card from the GY to your hand. You can only use 1 \"Brightest, Blazing, Branded King\" effect per turn, and only once that turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Albaz the Ashen",
+        "Albion the Branded Dragon",
+        "Albion the Shrouded Dragon",
+        "Aluber the Jester of Despia",
+        "Branded Beast",
+        "Branded in High Spirits",
+        "Branded Lost",
+        "Branded Retribution",
+        "Branded Sword",
+        "Bystial Saronir",
+        "Despian Tragedy",
+        "Ecclesia and the Dark Dragon",
+        "Fallen of Albaz",
+        "Fallen of the White Dragon",
+        "Guiding Quem, the Virtuous",
+        "Gung-Ho! Springans!",
+        "New Frontier",
+        "Springans Kitt",
+        "The Bystial Aluber",
+        "The Bystial Lubellion",
+        "The Fallen & The Virtuous",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

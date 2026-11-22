@@ -1,0 +1,17 @@
+{
+    "name": "Soulicer Crystal",
+    "filename": "Soulicer_Crystal",
+    "card_text": "Cannot be destroyed by card effects. You can only use each of the following effects of \"Soulicer Crystal\" once per turn. If your opponent controls at least 2 more monsters than you do: You can Special Summon this card from your hand. You can target 1 Effect Monster your opponent controls; negate its effects.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 1900,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

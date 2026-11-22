@@ -1,0 +1,29 @@
+{
+    "name": "Zodiac Sign",
+    "filename": "Zodiac_Sign",
+    "card_text": "All \"Zoodiac\" monsters you control gain 300 ATK and DEF. Monsters your opponent controls cannot target face-up Beast-Warrior-Type monsters you control for attacks, except the Beast-Warrior-Type monster you control with the highest ATK (either, if tied). Once per turn, if a \"Zoodiac\" monster(s) you control would be destroyed by card effect, you can destroy 1 monster in your hand or field instead of 1 \"Zoodiac\" monster.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Zoodiac Barrage",
+        "Zoodiac Boarbow",
+        "Zoodiac Broadbull",
+        "Zoodiac Bunnyblast",
+        "Zoodiac Chakanine",
+        "Zoodiac Combo",
+        "Zoodiac Drident",
+        "Zoodiac Gathering",
+        "Zoodiac Hammerkong",
+        "Zoodiac Kataroost",
+        "Zoodiac Ramram",
+        "Zoodiac Ratpier",
+        "Zoodiac Thoroughblade",
+        "Zoodiac Tigermortar",
+        "Zoodiac Whiptail"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

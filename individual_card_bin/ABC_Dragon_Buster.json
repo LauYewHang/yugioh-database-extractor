@@ -1,0 +1,25 @@
+{
+    "name": "ABC-Dragon Buster",
+    "filename": "ABC_Dragon_Buster",
+    "card_text": "\"A-Assault Core\" + \"B-Buster Drake\" + \"C-Crush Wyvern\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control and/or from your GY. (You do not use \"Polymerization\".) Once per turn (Quick Effect): You can discard 1 card, then target 1 card on the field; banish it. During your opponent's turn (Quick Effect): You can Tribute this card, then target 3 of your banished LIGHT Machine Union monsters with different names; Special Summon them.",
+    "release_date": "2016-10-21",
+    "available_set": [
+        "STRUCTURE DECK : SETO KAIBA",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "OTS TOURNAMENT PACK 13",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "A-Assault Core",
+        "A-to-Z-Dragon Buster Cannon",
+        "B-Buster Drake",
+        "C-Crush Wyvern"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Token Feastevil",
+    "filename": "Token_Feastevil",
+    "card_text": "When a Token(s) is Special Summoned: Destroy as many Tokens on the field as possible, and if you do, inflict 300 damage to your opponent for each Token destroyed.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "OTS TOURNAMENT PACK 7",
+        "THE LOST MILLENNIUM",
+        "DARK REVELATION Volume 3",
+        "YU-GI-OH! ADVENT CALENDAR 2018"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

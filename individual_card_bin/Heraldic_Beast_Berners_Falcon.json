@@ -1,0 +1,33 @@
+{
+    "name": "Heraldic Beast Berners Falcon",
+    "filename": "Heraldic_Beast_Berners_Falcon",
+    "card_text": "When this card is Summoned: You can make all Level 5 or higher monsters you currently control become Level 4.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Advanced Heraldry Art",
+        "Augmented Heraldry",
+        "Charged-Up Heraldry",
+        "Heraldic Beast Aberconway",
+        "Heraldic Beast Amphisbaena",
+        "Heraldic Beast Eale",
+        "Heraldic Beast Gryphon",
+        "Heraldic Beast Leo",
+        "Heraldic Beast Stad Whale",
+        "Heraldic Beast Twin-Headed Eagle",
+        "Heraldry Change",
+        "Heraldry Reborn",
+        "Number 18: Heraldry Patriarch",
+        "Number 8: Heraldic King Genom-Heritage"
+    ],
+    "attribute": "WIND",
+    "attack": 1000,
+    "defense": 1600,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

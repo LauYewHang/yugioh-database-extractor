@@ -1,0 +1,13 @@
+{
+    "name": "Non Aggression Area",
+    "filename": "Non_Aggression_Area",
+    "card_text": "You can only activate this card during your Standby Phase. Discard 1 card from your hand. Your opponent cannot Normal Summon, Set and/or Special Summon during his/her next turn.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "PHARAONIC GUARDIAN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -152,7 +152,10 @@
     "attack": 1000,
     "defense": 2400,
     "monster_type": "Beast",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "Unless you have a \"Performapal\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. During your Main Phase, if this card was activated this turn: You can add 1 Level 4 or lower \"Performapal\" monster from your Deck to your hand. You can only use this effect of \"Performapal Monkeyboard\" once per turn.",

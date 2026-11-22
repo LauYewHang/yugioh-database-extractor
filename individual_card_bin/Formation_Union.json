@@ -1,0 +1,16 @@
+{
+    "name": "Formation Union",
+    "filename": "Formation_Union",
+    "card_text": "Activate 1 of the following effects.\n\u25cfTarget 1 face-up Union monster you control; equip it to 1 appropriate monster you control.\n\u25cfUnequip 1 Union monster you control that is an Equip Card and Special Summon it in Attack Position.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "MAGICIAN'S FORCE",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Union Controller"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

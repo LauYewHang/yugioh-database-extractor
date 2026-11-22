@@ -1,0 +1,15 @@
+{
+    "name": "Heraldry Record",
+    "filename": "Heraldry_Record",
+    "card_text": "When an effect of your opponent's Xyz Monster is activated by detaching its own Xyz Material(s): Negate the activation, and if you do, destroy it.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [
+        "Augmented Heraldry",
+        "Heraldic Beast Stad Whale"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

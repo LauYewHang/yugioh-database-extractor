@@ -1,0 +1,29 @@
+{
+    "name": "Goblin Out of the Frying Pan",
+    "filename": "Goblin_Out_of_the_Frying_Pan",
+    "card_text": "Pay 500 Life Points. Negate the activation of a Spell Card and return it to the owner's hand.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "DARK REVELATION Volume 4",
+        "SHADOW OF INFINITY"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

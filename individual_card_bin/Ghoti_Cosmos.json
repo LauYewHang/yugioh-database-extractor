@@ -1,0 +1,17 @@
+{
+    "name": "Ghoti Cosmos",
+    "filename": "Ghoti_Cosmos",
+    "card_text": "Apply these effects in sequence, based on the number of banished Fish monsters.\n\u25cf1+: Your Fish monsters cannot be destroyed by battle this turn.\n\u25cf4+: The activation and effects of Fish monster effects activated on your field cannot be negated this turn.\n\u25cf8+: Special Summon 1 Fish Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)\nYou can only activate 1 \"Ghoti Cosmos\" per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST"
+    ],
+    "related_card": [
+        "Eanoc, Sentry of the Ghoti",
+        "Ghoti Chain",
+        "Ixeep, Omen of the Ghoti",
+        "The Most Distant, Deepest Depths"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

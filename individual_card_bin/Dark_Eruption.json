@@ -1,0 +1,19 @@
+{
+    "name": "Dark Eruption",
+    "filename": "Dark_Eruption",
+    "card_text": "Target 1 DARK monster with 1500 or less ATK in your GY; add that target to your hand.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "SYNCHRON EXTREME STRUCTURE DECK",
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "TURBO PACK BOOSTER THREE",
+        "PHANTOM DARKNESS",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "DESTINY SOLDIERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

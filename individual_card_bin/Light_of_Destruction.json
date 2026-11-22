@@ -1,0 +1,12 @@
+{
+    "name": "Light of Destruction",
+    "filename": "Light_of_Destruction",
+    "card_text": "When an opponent's card effect sends a card(s) from their Deck to the Graveyard, send the top 3 cards of their Deck to the Graveyard.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

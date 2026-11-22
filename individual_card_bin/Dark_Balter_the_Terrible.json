@@ -1,0 +1,23 @@
+{
+    "name": "Dark Balter the Terrible",
+    "filename": "Dark_Balter_the_Terrible",
+    "card_text": "\"Possessed Dark Soul\" + \"Frontier Wiseman\"\nA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. When a Normal Spell Card is activated, negate the effect by paying 1000 Life Points. The effect of an Effect Monster that this monster destroys as a result of battle is negated.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "TOURNAMENT PACK 6",
+        "LEGACY OF DARKNESS",
+        "HOBBY LEAGUE 3",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Frontier Wiseman",
+        "Possessed Dark Soul"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Stairs of Mail",
+    "filename": "Stairs_of_Mail",
+    "card_text": "During your Main Phase: You can activate this effect; discard 1 \"Tindangle\" card, and if you do, apply 1 of these effects.\n\u25cfChange 1 face-down Defense Position monster you control to face-up Attack Position.\n\u25cfChange 1 face-up Attack Position monster you control to face-down Defense Position.\nThis turn, you cannot discard another card with the same name for the effect of \"Stairs of Mail\" (even if this card leaves the field).",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Tindangle Acute Cerberus",
+        "Tindangle Angel",
+        "Tindangle Base Gardna",
+        "Tindangle Delaunay",
+        "Tindangle Dholes",
+        "Tindangle Hound",
+        "Tindangle Intruder",
+        "Tindangle Jhrelth",
+        "Tindangle Protector",
+        "Tindangle Trinity"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Ritual Beast Ulti-Nochiudrago",
+    "filename": "Ritual_Beast_Ulti_Nochiudrago",
+    "card_text": "1 \"Ritual Beast Tamer\" monster + 1 \"Spiritual Beast\" monster\nMust be Special Summoned (from your Extra Deck) by banishing the above cards from your field and/or GY. You can only Special Summon \"Ritual Beast Ulti-Nochiudrago(s)\" once per turn. Your opponent cannot target other \"Ritual Beast\" monsters you control with card effects. (Quick Effect): You can return this card to the Extra Deck, then target 1 of your banished \"Ritual Beast\" monsters; Special Summon it, but it cannot attack directly.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Ritual Beast Ambush",
+        "Ritual Beast Inheritance",
+        "Ritual Beast Return",
+        "Ritual Beast Steeds",
+        "Ritual Beast Tamer Elder",
+        "Ritual Beast Tamer Lara",
+        "Ritual Beast Tamer Wen",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Ritual Beast Ulti-Apelio",
+        "Ritual Beast Ulti-Cannahawk",
+        "Ritual Beast Ulti-Gaiapelio",
+        "Ritual Beast Ulti-Kimunfalcos",
+        "Ritual Beast Ulti-Pettlephin",
+        "Ritual Beast Ulti-Reirautari",
+        "Ritual Beast's Bond",
+        "Spiritual Beast Apelio",
+        "Spiritual Beast Cannahawk",
+        "Spiritual Beast Pettlephin",
+        "Spiritual Beast Rampengu",
+        "Spiritual Beast Tamer Lara",
+        "Spiritual Beast Tamer Winda"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 1900,
+    "monster_type": "Wyrm",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

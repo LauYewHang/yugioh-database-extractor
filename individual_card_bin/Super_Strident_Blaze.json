@@ -1,0 +1,28 @@
+{
+    "name": "Super Strident Blaze",
+    "filename": "Super_Strident_Blaze",
+    "card_text": "Equip only to a Machine Fusion Monster. Your opponent cannot activate cards or effects during your Battle Phase. At the end of the Damage Step, if the equipped monster attacked an opponent's monster: You can banish 1 \"Cyber Dragon\" monster from your GY; the equipped monster can attack an opponent's monster again in a row. Your other monsters cannot attack the turn you activate this effect.",
+    "release_date": "2018-09-28",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
+    ],
+    "related_card": [
+        "Cyber Dragon",
+        "Cyber Dragon Core",
+        "Cyber Dragon Drei",
+        "Cyber Dragon Herz",
+        "Cyber Dragon Infinity",
+        "Cyber Dragon Nachster",
+        "Cyber Dragon Nova",
+        "Cyber Dragon Sieger",
+        "Cyber Dragon Vier",
+        "Cyber Dragon Zwei",
+        "Cyber Dragon, the Luminous Mech Dragon",
+        "Cyberdark Wurm",
+        "Proto-Cyber Dragon",
+        "Toon Cyber Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

@@ -60,7 +60,11 @@
     "attack": 1800,
     "defense": 2100,
     "monster_type": "Spellcaster",
-    "monster_card_type": 1042,
+    "monster_card_type": [
+        "Tuner",
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

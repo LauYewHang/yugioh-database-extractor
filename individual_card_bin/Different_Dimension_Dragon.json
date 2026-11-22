@@ -1,0 +1,22 @@
+{
+    "name": "Different Dimension Dragon",
+    "filename": "Different_Dimension_Dragon",
+    "card_text": "This card cannot be destroyed by Spell/Trap effects that do not target it. This card cannot be destroyed by battle with a monster that has 1900 or less ATK.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "DUELIST PACK - KAIBA -",
+        "DUEL TERMINAL 4"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

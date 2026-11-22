@@ -1,0 +1,34 @@
+{
+    "name": "Void Launch",
+    "filename": "Void_Launch",
+    "card_text": "During each of your Standby Phases: You can send up to 2 \"Infernoid\" monsters from your Deck to the Graveyard. If you control a monster that is not an \"Infernoid\" monster, send this card to the Graveyard.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY",
+        "SECRETS OF ETERNITY SUPER EDITION"
+    ],
+    "related_card": [
+        "El Shaddoll Meshachrer",
+        "Infernity Pawn",
+        "Infernoid Antra",
+        "Infernoid Attondel",
+        "Infernoid Decatron",
+        "Infernoid Devyaty",
+        "Infernoid Evil",
+        "Infernoid Flood",
+        "Infernoid Harmadik",
+        "Infernoid Onuncu",
+        "Infernoid Patrulea",
+        "Infernoid Piaty",
+        "Infernoid Pirmais",
+        "Infernoid Seitsemas",
+        "Infernoid Sjette",
+        "Infernoid Tierra",
+        "Void Feast",
+        "Void Reignition",
+        "Void Vanishment"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

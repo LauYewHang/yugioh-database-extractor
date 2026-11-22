@@ -1,0 +1,33 @@
+{
+    "name": "Libromancer Magigirl",
+    "filename": "Libromancer_Magigirl",
+    "card_text": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. During your opponent's turn (Quick Effect): You can Ritual Summon 1 \"Libromancer\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use each effect of \"Libromancer Magigirl\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Libromancer Agent",
+        "Libromancer Bonded",
+        "Libromancer Displaced",
+        "Libromancer Doombroker",
+        "Libromancer Fire",
+        "Libromancer Fireburst",
+        "Libromancer Firestarter",
+        "Libromancer First Appearance",
+        "Libromancer Geek Boy",
+        "Libromancer Intervention",
+        "Libromancer Mystigirl",
+        "Libromancer Origin Story",
+        "Libromancer Prevented",
+        "Libromancer Realized"
+    ],
+    "attribute": "WATER",
+    "attack": 600,
+    "defense": 2100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

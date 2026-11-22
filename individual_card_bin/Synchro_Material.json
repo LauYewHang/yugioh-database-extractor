@@ -1,0 +1,15 @@
+{
+    "name": "Synchro Material",
+    "filename": "Synchro_Material",
+    "card_text": "Target 1 face-up monster your opponent controls; you can use that monster as Synchro Material this turn, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+    "release_date": "2011-01-25",
+    "available_set": [
+        "OTS TOURNAMENT PACK 11",
+        "DUELIST PACK - YUSEI 3 -"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Raging Cloudian",
+    "filename": "Raging_Cloudian",
+    "card_text": "When a \"Cloudian\" monster(s) you control is destroyed by its own effect and sent to your GY: Target 1 of those monsters; Special Summon it in Attack Position, and if you do, place 1 Fog Counter on it, also it cannot be changed to Defense Position by card effects.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Cloudian - Acid Cloud",
+        "Cloudian - Altus",
+        "Cloudian - Cirrostratus",
+        "Cloudian - Eye of the Typhoon",
+        "Cloudian - Ghost Fog",
+        "Cloudian - Nimbusman",
+        "Cloudian - Poison Cloud",
+        "Cloudian - Sheep Cloud",
+        "Cloudian - Smoke Ball",
+        "Cloudian - Storm Dragon",
+        "Cloudian - Turbulence",
+        "Cloudian Aerosol",
+        "Cloudian Squall",
+        "Diamond-Dust Cyclone",
+        "Fog Control",
+        "Updraft"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

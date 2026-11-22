@@ -1,0 +1,16 @@
+{
+    "name": "Miracle's Wake",
+    "filename": "Miracle_s_Wake",
+    "card_text": "Target 1 monster that was destroyed by battle and sent to your GY this turn; Special Summon it.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "DUELIST REVOLUTION",
+        "BATTLE PACK EPIC DAWN",
+        "STRUCTURE DECK : CYBERSE LINK",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

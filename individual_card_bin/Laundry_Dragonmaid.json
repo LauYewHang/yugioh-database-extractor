@@ -1,0 +1,40 @@
+{
+    "name": "Laundry Dragonmaid",
+    "filename": "Laundry_Dragonmaid",
+    "card_text": "If this card is Normal or Special Summoned: You can send the top 3 cards of your Deck to the GY. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Laundry Dragonmaid\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS",
+        "Gold Series: Maximum Gold",
+        "QUARTER CENTURY BONANZA",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [
+        "Chamber Dragonmaid",
+        "Dragonmaid Cehrmba",
+        "Dragonmaid Changeover",
+        "Dragonmaid Downtime",
+        "Dragonmaid Ernus",
+        "Dragonmaid Hospitality",
+        "Dragonmaid Lorpar",
+        "Dragonmaid Nudyarl",
+        "Dragonmaid Send-Off",
+        "Dragonmaid Sheou",
+        "Dragonmaid Tidying",
+        "Dragonmaid Tinkhec",
+        "Dragonmaid Welcome",
+        "House Dragonmaid",
+        "Kitchen Dragonmaid",
+        "Lady's Dragonmaid",
+        "Nurse Dragonmaid",
+        "Parlor Dragonmaid"
+    ],
+    "attribute": "WATER",
+    "attack": 500,
+    "defense": 1600,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

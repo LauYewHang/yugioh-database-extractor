@@ -1,0 +1,14 @@
+{
+    "name": "Flint Missile",
+    "filename": "Flint_Missile",
+    "card_text": "Destroy 1 monster equipped with \"Flint\". You can return this card to your Deck instead of sending it to the Graveyard after it resolves.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Flint"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

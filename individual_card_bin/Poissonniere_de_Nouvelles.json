@@ -1,0 +1,37 @@
+{
+    "name": "Poissonniere de Nouvelles",
+    "filename": "Poissonniere_de_Nouvelles",
+    "card_text": "If this card is Normal or Special Summoned: You can activate 1 of these effects;\n\u25cfAdd 1 Level 1 Ritual Monster or 1 \"Recipe\" card from your Deck to your hand.\n\u25cfBanish any number of \"Recipe\" cards from your GY and Special Summon 1 \"Nouvelles\" Ritual Monster from your hand with a Level equal to the number banished.\nYou can only use this effect of \"Poissonniere de Nouvelles\" once per turn. If this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Baelgrill de Nouvelles",
+        "Balameuniere de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef de Nouvelles",
+        "Chef's Special Recipe",
+        "Concours de Cuisine (Culinary Confrontation)",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Hamburger Recipe",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Poeltis de Nouvelles",
+        "Recette de Personnel (Staff Recipe)",
+        "Recette de Poisson (Fish Recipe)",
+        "Recette de Viande (Meat Recipe)",
+        "Voici la Carte (Today's Menu)"
+    ],
+    "attribute": "DARK",
+    "attack": 700,
+    "defense": 1700,
+    "monster_type": "Fairy",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1,
+    "pendulum_effect": "If you control a Ritual Monster: You can target 1 monster on the field; Special Summon this card, then change that monster's battle position. You can only use this effect of \"Poissonniere de Nouvelles\" once per turn.",
+    "pendulum_scale": 8
+}

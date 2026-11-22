@@ -32,7 +32,10 @@
     "attack": 2000,
     "defense": 3000,
     "monster_type": "Beast",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 10,
     "pendulum_effect": "You can target 1 \"Yosenju\" card in your Pendulum Zone; for the rest of this turn, its Pendulum Scale becomes 11, also you cannot Special Summon monsters, except \"Yosenju\" monsters (even if this card leaves the field). During your End Phase: Return this card to the hand. You can only use each Pendulum Effect of \"Mayosenju Hitot\" once per turn.",

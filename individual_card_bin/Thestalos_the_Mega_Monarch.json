@@ -1,0 +1,20 @@
+{
+    "name": "Thestalos the Mega Monarch",
+    "filename": "Thestalos_the_Mega_Monarch",
+    "card_text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, then, if it was a monster, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n\u25cfAlso, inflict 1000 damage to your opponent after that.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN",
+        "2015 MEGA-TINS MEGA PACK",
+        "GHOSTS FROM THE PAST",
+        "OTS TOURNAMENT PACK 28"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 1000,
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

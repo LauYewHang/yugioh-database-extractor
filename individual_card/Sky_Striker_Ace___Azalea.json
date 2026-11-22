@@ -40,7 +40,13 @@
     "attack": 1500,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 2,
-    "link_arrow": 136
+    "link_arrow": [
+        "Top-Left",
+        "Bottom-Right"
+    ]
 }

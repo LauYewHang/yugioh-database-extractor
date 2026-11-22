@@ -1,0 +1,43 @@
+{
+    "name": "Kaibaman the Legend",
+    "filename": "Kaibaman_the_Legend",
+    "card_text": "If this card is Normal or Special Summoned: You can show 3 \"Blue-Eyes White Dragon\" in your hand, Deck, face-up field, and/or GY, then Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or GY. If you Special Summon \"Blue-Eyes White Dragon\" while this card is in your GY (except during the Damage Step): You can banish this card; add 1 \"Blue-Eyes\" monster from your Deck to your hand. You can only use each effect of \"Kaibaman the Legend\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Blue-Eyes Abyss Dragon",
+        "Blue-Eyes Alternative Ultimate Dragon",
+        "Blue-Eyes Alternative White Dragon",
+        "Blue-Eyes Chaos Dragon",
+        "Blue-Eyes Chaos MAX Dragon",
+        "Blue-Eyes Jet Dragon",
+        "Blue-Eyes Shining Dragon",
+        "Blue-Eyes Solid Dragon",
+        "Blue-Eyes Spirit Dragon",
+        "Blue-Eyes Toon Dragon",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Blue-Eyes Twin Burst Dragon",
+        "Blue-Eyes Tyrant Dragon",
+        "Blue-Eyes Ultimate Dragon",
+        "Blue-Eyes Ultimate Spirit Dragon",
+        "Blue-Eyes White Dragon",
+        "Blue-Eyes White Dragon, the White Phantom Beast",
+        "Chronicle Sorceress",
+        "Deep-Eyes White Dragon, the Blue Abyss",
+        "Dictator of D.",
+        "Dragon Spirit of White",
+        "Heart of the Blue-Eyes",
+        "Malefic Blue-Eyes White Dragon",
+        "Neo Blue-Eyes Ultimate Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 200,
+    "defense": 700,
+    "monster_type": "Warrior",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

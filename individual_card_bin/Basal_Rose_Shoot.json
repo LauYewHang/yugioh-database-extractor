@@ -1,0 +1,28 @@
+{
+    "name": "Basal Rose Shoot",
+    "filename": "Basal_Rose_Shoot",
+    "card_text": "Special Summon 1 \"Rose Dragon\" monster from your hand or GY in Defense Position. If this Set card is destroyed: You can target 1 of your \"Black Rose Dragon\", or 1 monster that mentions it, that is banished or in your GY; Special Summon it. You can only use each effect of \"Basal Rose Shoot\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "OTS TOURNAMENT PACK 17",
+        "Legendary 5D's Decks"
+    ],
+    "related_card": [
+        "Black Rose Dragon",
+        "Black Rose Garden",
+        "Blooming of the Darkest Rose",
+        "Blue Rose Dragon",
+        "Bramble Rose Dragon",
+        "Red Rose Dragon",
+        "Roxrose Dragon",
+        "Ruddy Rose Dragon",
+        "Ruddy Rose Witch",
+        "Thorn of Malice",
+        "Twilight Rose Black Knight",
+        "Vengeful Witch"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

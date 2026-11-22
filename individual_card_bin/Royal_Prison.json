@@ -1,0 +1,13 @@
+{
+    "name": "Royal Prison",
+    "filename": "Royal_Prison",
+    "card_text": "Neither player can Special Summon monsters from the GY.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "GHOSTS FROM THE PAST",
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

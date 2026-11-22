@@ -1,0 +1,13 @@
+{
+    "name": "Switcheroroo",
+    "filename": "Switcheroroo",
+    "card_text": "If you control the same number of monsters as your opponent, switch control of all those monsters.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

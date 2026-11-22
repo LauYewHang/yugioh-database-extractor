@@ -1,0 +1,13 @@
+{
+    "name": "Desert Sunlight",
+    "filename": "Desert_Sunlight",
+    "card_text": "All monsters on your side of the field are changed to face-up Defense Position.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

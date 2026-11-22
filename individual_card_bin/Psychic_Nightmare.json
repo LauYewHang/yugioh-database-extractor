@@ -1,0 +1,17 @@
+{
+    "name": "Psychic Nightmare",
+    "filename": "Psychic_Nightmare",
+    "card_text": "1 Tuner + 1 or more non-Tuner Psychic-Type monsters\nOnce per turn, during your Main Phase, you can pick 1 random card in your opponent's hand and call what type of card it is (Monster, Spell or Trap). If you call it right, this card gains 1000 ATK until your opponent's End Phase.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1800,
+    "monster_type": "Psychic",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

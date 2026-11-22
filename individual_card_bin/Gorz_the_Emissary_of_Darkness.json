@@ -1,0 +1,27 @@
+{
+    "name": "Gorz the Emissary of Darkness",
+    "filename": "Gorz_the_Emissary_of_Darkness",
+    "card_text": "When you take damage from a card in your opponent's possession: You can Special Summon this card from your hand. You must control no cards to activate and to resolve this effect. When this card is Special Summoned by its effect: Activate the appropriate effect, based on the type of damage;\n\u25cfBattle damage: Special Summon 1 \"Emissary of Darkness Token\" (Fairy/LIGHT/Level 7/ATK ?/DEF ?). Its ATK/DEF are each equal to the amount of battle damage you took.\n\u25cfEffect damage: Inflict damage to your opponent equal to the damage you took.",
+    "release_date": "2008-11-21",
+    "available_set": [
+        "DARK LEGENDS",
+        "QUARTER CENTURY BONANZA",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "RETRO PACK 2",
+        "Yu-Gi-Oh! R volume 3 Promotional Card",
+        "OTS TOURNAMENT PACK 19",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "GOLD SERIES HAUNTED MINE",
+        "BATTLE PACK EPIC DAWN",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DUELIST LEAGUE 13"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2700,
+    "defense": 2500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

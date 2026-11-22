@@ -1,0 +1,27 @@
+{
+    "name": "Tri-Brigade Rendezvous",
+    "filename": "Tri_Brigade_Rendezvous",
+    "card_text": "Target any number of linked Beast, Beast-Warrior, and/or Winged Beast monsters you control; they gain 700 ATK until the end of this turn. If a linked Beast, Beast-Warrior, or Winged Beast monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Tri-Brigade Rendezvous\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

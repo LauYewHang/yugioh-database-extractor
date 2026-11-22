@@ -1,0 +1,37 @@
+{
+    "name": "Chef de Nouvelles",
+    "filename": "Chef_de_Nouvelles",
+    "card_text": "If this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone. You cannot activate the following effects of \"Chef de Nouvelles\" in the same Chain. Once per turn (Quick Effect): You can target 1 Effect Monster on the field; increase its Level by up to 3. Once per turn, if your opponent Special Summons a monster(s) (except during the Damage Step): You can banish 1 \"Recipe\" Ritual Spell from your hand, Deck, or GY; apply that card's activation effect that Ritual Summons a monster.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Baelgrill de Nouvelles",
+        "Balameuniere de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef's Special Recipe",
+        "Concours de Cuisine (Culinary Confrontation)",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Hamburger Recipe",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Personnel (Staff Recipe)",
+        "Recette de Poisson (Fish Recipe)",
+        "Recette de Viande (Meat Recipe)",
+        "Voici la Carte (Today's Menu)"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1850,
+    "monster_type": "Fiend",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3,
+    "pendulum_effect": "During your Main Phase, if this card was activated this turn: You can add 1 non-Pendulum \"Nouvelles\" card from your Deck to your hand. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Chef de Nouvelles\" once per turn.",
+    "pendulum_scale": 0
+}

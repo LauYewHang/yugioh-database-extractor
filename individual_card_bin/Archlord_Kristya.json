@@ -1,0 +1,21 @@
+{
+    "name": "Archlord Kristya",
+    "filename": "Archlord_Kristya",
+    "card_text": "If you have exactly 4 Fairy monsters in your GY, you can Special Summon this card (from your hand). If Summoned this way: Target 1 Fairy monster in your GY; add that target to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the GY, place it on top of the Deck, instead.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE",
+        "COLLECTIBLE TIN 2011 WAVE 1",
+        "VALIANT SMASHERS",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "DESTINY SOLDIERS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2300,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

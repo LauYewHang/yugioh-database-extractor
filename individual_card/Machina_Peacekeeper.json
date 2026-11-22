@@ -26,7 +26,10 @@
     "attack": 500,
     "defense": 400,
     "monster_type": "Machine",
-    "monster_card_type": 258,
+    "monster_card_type": [
+        "Union",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

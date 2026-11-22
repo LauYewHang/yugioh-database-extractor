@@ -22,7 +22,10 @@
     "attack": 2200,
     "defense": 2200,
     "monster_type": "Psychic",
-    "monster_card_type": 34,
+    "monster_card_type": [
+        "Xyz",
+        "Effect"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

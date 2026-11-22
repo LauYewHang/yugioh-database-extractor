@@ -1,0 +1,29 @@
+{
+    "name": "D.D. Trap Hole",
+    "filename": "D_D__Trap_Hole",
+    "card_text": "When your opponent Sets exactly 1 monster (and no other cards): Target that Set monster and 1 monster you control; destroy those targets, and if you do, banish them.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

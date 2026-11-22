@@ -1,0 +1,13 @@
+{
+    "name": "Tilted Try",
+    "filename": "Tilted_Try",
+    "card_text": "When you draw for your normal draw in your Draw Phase: You can reveal 1 of those cards; place it on the bottom of the Deck, and if you do, draw 1 card. When you draw by a card effect: You can reveal 1 of those cards; send this card to the GY, and if you do, place that card on the bottom of the Deck, and if you do that, draw 1 card.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX",
+        "DEMO PROGRESSION SET 2026"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

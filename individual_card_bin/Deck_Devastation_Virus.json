@@ -1,0 +1,22 @@
+{
+    "name": "Deck Devastation Virus",
+    "filename": "Deck_Devastation_Virus",
+    "card_text": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card resolves, and destroy all those monsters with 1500 or less ATK.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "OTS TOURNAMENT PACK 26",
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "STRUCTURE DECK: DARK WORLD",
+        "QUARTER CENTURY BONANZA",
+        "WILD SURVIVORS",
+        "DARK REVELATION Volume 3",
+        "CHAMPION PACK GAME FIVE",
+        "FLAMING ETERNITY",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

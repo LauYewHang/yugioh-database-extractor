@@ -1,0 +1,13 @@
+{
+    "name": "Dimensional Inversion",
+    "filename": "Dimensional_Inversion",
+    "card_text": "Activate only when a monster(s) you own is removed from play by an opponent's effect. Special Summon 1 of those monsters.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CHAMPION PACK GAME SEVEN",
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

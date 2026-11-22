@@ -1,0 +1,17 @@
+{
+    "name": "Glacial Beast Iceberg Narwhal",
+    "filename": "Glacial_Beast_Iceberg_Narwhal",
+    "card_text": "1 Tuner + 1+ non-Tuner WATER monsters\nEach time another monster(s) you control is destroyed by your opponent's attack or card effect: Inflict 600 damage to your opponent. During the Battle Phase, when your opponent activates a card or effect while you control another monster (Quick Effect): You can negate that effect, and if you do, destroy that card. You can only use this effect of \"Glacial Beast Iceberg Narwhal\" once per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2700,
+    "defense": 1600,
+    "monster_type": "Aqua",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

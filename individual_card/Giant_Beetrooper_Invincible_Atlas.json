@@ -27,7 +27,15 @@
     "attack": 3000,
     "defense": null,
     "monster_type": "Insect",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 4,
-    "link_arrow": 270
+    "link_arrow": [
+        "Top-Center",
+        "Bottom-Right",
+        "Bottom-Center",
+        "Bottom-Left"
+    ]
 }

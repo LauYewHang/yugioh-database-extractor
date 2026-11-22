@@ -1,0 +1,27 @@
+{
+    "name": "Myutant Blast",
+    "filename": "Myutant_Blast",
+    "card_text": "Equip only to a Level 8 or higher \"Myutant\" monster you control. At the start of the Damage Step, if the equipped monster attacks an opponent's Special Summoned monster: You can banish that opponent's monster. While this card is equipped to a monster: You can banish this card; send the monster this card was equipped to the GY, and if you do, Special Summon 1 Level 8 \"Myutant\" monster with a different original Attribute from your hand or Deck. You can only use this effect of \"Myutant Blast\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Myutant Arsenal",
+        "Myutant Beast",
+        "Myutant Clash",
+        "Myutant Cry",
+        "Myutant Evolution Lab",
+        "Myutant Expansion",
+        "Myutant Fusion",
+        "Myutant GB-88",
+        "Myutant M-05",
+        "Myutant Mist",
+        "Myutant Mutant",
+        "Myutant ST-46",
+        "Myutant Synthesis",
+        "Myutant Ultimus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

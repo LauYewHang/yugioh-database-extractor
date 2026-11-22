@@ -1,0 +1,32 @@
+{
+    "name": "Solemn Judgment",
+    "filename": "Solemn_Judgment",
+    "card_text": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "Gold Series: Maximum Gold",
+        "METAL RAIDERS",
+        "CHAMPION PACK GAME ONE",
+        "STRUCTURE DECK: FIRE KINGS",
+        "GOLD SERIES 2009",
+        "DARK LEGENDS",
+        "OTS TOURNAMENT PACK 12",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "GOLD SERIES HAUNTED MINE",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "RETRO PACK",
+        "BATTLE PACK EPIC DAWN",
+        "SECRET SLAYERS",
+        "MAZE OF MEMORIES",
+        "DARK BEGINNING 2",
+        "The Lost Art Promotion",
+        "RARITY COLLECTION 5",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

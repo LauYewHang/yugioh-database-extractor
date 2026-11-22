@@ -1,0 +1,12 @@
+{
+    "name": "After the Storm",
+    "filename": "After_the_Storm",
+    "card_text": "If there are no other cards on the field: Target 1 WATER or WIND monster in your Graveyard; add that target to your hand.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

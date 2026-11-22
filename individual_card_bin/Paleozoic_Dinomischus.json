@@ -1,0 +1,20 @@
+{
+    "name": "Paleozoic Dinomischus",
+    "filename": "Paleozoic_Dinomischus",
+    "card_text": "Target 1 face-up card on the field; discard 1 card, and if you do, banish it. Once per Chain, when a Trap Card is activated while this card is in your GY: You can Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE",
+        "STRUCTURE DECK: DARK WORLD",
+        "2017 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 7",
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Paleozoic Cambroraster",
+        "Paleozoic Opabinia",
+        "Paleozoic Pikaia"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

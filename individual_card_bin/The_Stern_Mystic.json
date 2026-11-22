@@ -1,0 +1,18 @@
+{
+    "name": "The Stern Mystic",
+    "filename": "The_Stern_Mystic",
+    "card_text": "FLIP: Reveal all face-down cards on the field (Flip Effects are not activated), then return them to their original positions.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK YUGI",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

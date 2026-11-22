@@ -1,0 +1,33 @@
+{
+    "name": "Lyrilusc - Assembled Nightingale",
+    "filename": "Lyrilusc___Assembled_Nightingale",
+    "card_text": "2+ Level 1 monsters\nGains 200 ATK for each material attached to it. This card can attack directly. While this card has material, it can attack a number of times each Battle Phase, up to the number of materials attached to it. Once per turn (Quick Effect): You can detach 1 material from this card; until the end of this turn, \"Lyrilusc\" monsters you control cannot be destroyed by battle or card effects, also you take no battle damage.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "LEGENDARY DUELISTS: SYNCHRO STORM",
+        "MAXIMUM CRISIS",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Lyrilusc - Beryl Canary",
+        "Lyrilusc - Bird Call",
+        "Lyrilusc - Bird Sanctuary",
+        "Lyrilusc - Bird Strike",
+        "Lyrilusc - Celestine Wagtail",
+        "Lyrilusc - Cobalt Sparrow",
+        "Lyrilusc - Ensemblue Robin",
+        "Lyrilusc - Independent Nightingale",
+        "Lyrilusc - Phantom Feathers",
+        "Lyrilusc - Promenade Thrush",
+        "Lyrilusc - Recital Starling",
+        "Lyrilusc - Sapphire Swallow",
+        "Lyrilusc - Turquoise Warbler"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 1
+}

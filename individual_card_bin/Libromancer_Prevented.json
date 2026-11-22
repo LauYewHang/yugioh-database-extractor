@@ -1,0 +1,28 @@
+{
+    "name": "Libromancer Prevented",
+    "filename": "Libromancer_Prevented",
+    "card_text": "If you control a \"Libromancer\" monster: You can target 1 face-up monster your opponent controls; this turn, that face-up monster cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use this effect of \"Libromancer Prevented\" once per turn. Once per turn, during the End Phase, if you control no \"Libromancer\" Ritual Monsters: Send this card to the GY.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Libromancer Agent",
+        "Libromancer Bonded",
+        "Libromancer Displaced",
+        "Libromancer Doombroker",
+        "Libromancer Fire",
+        "Libromancer Fireburst",
+        "Libromancer Firestarter",
+        "Libromancer First Appearance",
+        "Libromancer Geek Boy",
+        "Libromancer Intervention",
+        "Libromancer Magigirl",
+        "Libromancer Mystigirl",
+        "Libromancer Origin Story",
+        "Libromancer Realized"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

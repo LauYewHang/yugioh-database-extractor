@@ -1,0 +1,22 @@
+{
+    "name": "Double Summon",
+    "filename": "Double_Summon",
+    "card_text": "You can conduct 2 Normal Summons/Sets this turn, not just 1.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "DUEL TERMINAL 6B",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "TACTICAL EVOLUTION",
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "GEARGIA RAMPAGE STRUCTURE DECK",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DUELIST LEAGUE 17",
+        "5D's STARTER DECK 2008"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

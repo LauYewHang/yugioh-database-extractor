@@ -1,0 +1,29 @@
+{
+    "name": "Jurrac Impact",
+    "filename": "Jurrac_Impact",
+    "card_text": "If you control a Dinosaur monster with 2500 or more ATK: Destroy all cards on the field.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "ASTRAL PACK FIVE",
+        "COSMO BLAZER",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Jurrac Aeolo",
+        "Jurrac Astero",
+        "Jurrac Brachis",
+        "Jurrac Dino",
+        "Jurrac Giganoto",
+        "Jurrac Guaiba",
+        "Jurrac Herra",
+        "Jurrac Megalo",
+        "Jurrac Meteor",
+        "Jurrac Stauriko",
+        "Jurrac Stego",
+        "Jurrac Titano",
+        "Jurrac Velo",
+        "Jurrac Volcano"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

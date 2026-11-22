@@ -1,0 +1,19 @@
+{
+    "name": "Judgment of Anubis",
+    "filename": "Judgment_of_Anubis",
+    "card_text": "When your opponent activates a Spell Card that would destroy a Spell/Trap(s) on the field: Discard 1 card; negate the activation, and if you do, destroy it, then you can destroy 1 face-up monster your opponent controls, and if you do that, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "Speed Duel: Battle City Box",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "DARK CRISIS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

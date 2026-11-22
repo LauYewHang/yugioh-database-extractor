@@ -39,7 +39,10 @@
     "attack": 1800,
     "defense": 2500,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "You can pay 1000 LP; add 1 \"Abyss Actor\" Pendulum Monster from your Deck to your hand, except \"Abyss Actor - Mellow Madonna\", also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" Pendulum Monsters (even if this card leaves the field). You can only use this effect of \"Abyss Actor - Mellow Madonna\" once per turn.",

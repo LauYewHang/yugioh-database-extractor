@@ -1,0 +1,17 @@
+{
+    "name": "Dragon's Mirror",
+    "filename": "Dragon_s_Mirror",
+    "card_text": "Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "OTS TOURNAMENT PACK 10",
+        "Gold Series: Maximum Gold",
+        "PENDULUM EVOLUTION",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

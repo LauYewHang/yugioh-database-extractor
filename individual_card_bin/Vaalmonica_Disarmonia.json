@@ -1,0 +1,28 @@
+{
+    "name": "Vaalmonica Disarmonia",
+    "filename": "Vaalmonica_Disarmonia",
+    "card_text": "Place 1 Resonance Counter on 1 card in your Pendulum Zone that you can place a Resonance Counter on, then apply 1 of these effects.\n\u25cfGain 500 LP, then you can add 1 of your banished \"Vaalmonica\" cards to your hand, except \"Vaalmonica Disarmonia\".\n\u25cfTake 500 damage, then you can add 1 \"Vaalmonica\" card from your GY to your hand, except \"Vaalmonica Disarmonia\".\nYou can only activate 1 \"Vaalmonica Disarmonia\" per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Dimonno Vaalmonica",
+        "Duralume, Vaalmonican Heathen Hallow",
+        "Selettrice Vaalmonica",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Ereditare",
+        "Vaalmonica Followed Rhythm",
+        "Vaalmonica Intonare",
+        "Vaalmonica Invitare",
+        "Vaalmonica Scelta",
+        "Vaalmonica Versare",
+        "Vaalmonica, the Agathokakological Voice",
+        "Varar, Vaalmonican Concord",
+        "Zebufera, Vaalmonican Hallow Heathen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

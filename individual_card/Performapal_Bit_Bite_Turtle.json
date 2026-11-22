@@ -150,7 +150,10 @@
     "attack": 800,
     "defense": 1200,
     "monster_type": "Reptile",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "Once per turn: You can reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).",

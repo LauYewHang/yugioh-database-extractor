@@ -1,0 +1,20 @@
+{
+    "name": "Nimble Manta",
+    "filename": "Nimble_Manta",
+    "card_text": "When this card is sent from the field to the Graveyard by a card effect: You can Special Summon any number of \"Nimble Manta\" from your Deck.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Nimble Angler",
+        "Nimble Beaver"
+    ],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 100,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

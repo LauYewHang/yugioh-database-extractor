@@ -1,0 +1,17 @@
+{
+    "name": "Blocker",
+    "filename": "Blocker",
+    "card_text": "Constructed from several components, this monster can launch them in a pincer attack.",
+    "release_date": "2006-04-28",
+    "available_set": [
+        "TOURNAMENT PACK 8"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 850,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

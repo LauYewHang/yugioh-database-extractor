@@ -1,0 +1,17 @@
+{
+    "name": "Ace\u2605Spades Speculation",
+    "filename": "Ace_Spades_Speculation",
+    "card_text": "1 monster with 2500 or more ATK + 1 face-down Defense Position monster with 2500 or less DEF\nYou can only Special Summon \"Ace\u2605Spades Speculation(s)\" once per turn. You can Tribute 1 Attack Position monster and 1 face-down Defense Position monster; Special Summon this card from your GY. This card gains the following effect based on its battle position.\n\u25cfAttack Position: Gains ATK equal to the highest original ATK among monsters your opponent controls (your choice, if tied).\n\u25cfDefense Position: Cannot be destroyed by battle or card effects.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

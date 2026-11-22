@@ -1,0 +1,37 @@
+{
+    "name": "Spiral Fusion",
+    "filename": "Spiral_Fusion",
+    "card_text": "Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you Special Summoned \"Gaia the Dragon Champion\" by this effect, it gains 2600 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Curse of Dragon, the Cursed Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight of Dragons",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

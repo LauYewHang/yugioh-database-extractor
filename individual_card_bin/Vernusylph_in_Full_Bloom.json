@@ -1,0 +1,22 @@
+{
+    "name": "Vernusylph in Full Bloom",
+    "filename": "Vernusylph_in_Full_Bloom",
+    "card_text": "All monsters you control gain 1000 ATK while you control 5 or more EARTH monsters. You can only use each of the following effects of \"Vernusylph in Full Bloom\" once per turn. You can banish 1 \"Vernusylph and the Flower Buds\" from your hand or GY; Special Summon 1 \"Vera the Vernusylph Goddess\" from your Deck. If a \"Vernusylph\" monster(s) is Special Summoned from your GY (except during the Damage Step): You can target 1 monster on the field or in either GY; return it to the hand.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST"
+    ],
+    "related_card": [
+        "Vera the Vernusylph Goddess",
+        "Vernusylph and the Changing Season",
+        "Vernusylph and the Flower Buds",
+        "Vernusylph Corolla",
+        "Vernusylph of the Awakening Forests",
+        "Vernusylph of the Flourishing Hills",
+        "Vernusylph of the Flowering Fields",
+        "Vernusylph of the Misting Seedlings",
+        "Vernusylph of the Thawing Mountains"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

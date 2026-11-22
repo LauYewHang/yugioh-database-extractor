@@ -1,0 +1,14 @@
+{
+    "name": "Cursed Armaments",
+    "filename": "Cursed_Armaments",
+    "card_text": "The equipped monster loses 600 ATK for each monster you control. When this card is sent from the field to the Graveyard: You can target 1 face-up monster your opponent controls; equip it with this card.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

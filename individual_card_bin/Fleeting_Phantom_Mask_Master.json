@@ -1,0 +1,17 @@
+{
+    "name": "Fleeting Phantom Mask Master",
+    "filename": "Fleeting_Phantom_Mask_Master",
+    "card_text": "If this card battles a monster, neither can be destroyed by that battle. If this card is Normal or Special Summoned: You can send 1 Fiend, Illusion, or Spellcaster monster from your Deck to the GY, then you can make this card's Type become the original Type of that sent monster. If this card is in your GY: You can banish 1 Spell from your GY; Special Summon this card. You can only use this effect of \"Fleeting Phantom Mask Master\" once per Duel, and its previous effect only once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 0,
+    "monster_type": "Illusion",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

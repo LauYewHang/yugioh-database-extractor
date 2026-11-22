@@ -1,0 +1,18 @@
+{
+    "name": "Man-Eating Treasure Chest",
+    "filename": "Man_Eating_Treasure_Chest",
+    "card_text": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "DEMO DECK 2015",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

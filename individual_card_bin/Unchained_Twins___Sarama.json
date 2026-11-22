@@ -1,0 +1,40 @@
+{
+    "name": "Unchained Twins - Sarama",
+    "filename": "Unchained_Twins___Sarama",
+    "card_text": "You can target 1 \"Unchained\" card in your GY, except \"Unchained Twins - Sarama\"; Set it to your field, then destroy 1 card you control. If this card on the field is destroyed by card effect, except \"Unchained Twins - Sarama\", or by battle: You can Special Summon 1 \"Unchained\" monster from your hand or Deck, except \"Unchained Twins - Sarama\". You can only use each effect of \"Unchained Twins - Sarama\" once per turn.",
+    "release_date": "2020-03-06",
+    "available_set": [
+        "IGNITION ASSAULT SPECIAL EDITION",
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abominable Unchained Soul",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Abomination",
+        "Unchained Firelord of Yama",
+        "Unchained Hunger",
+        "Unchained Oni of Shara",
+        "Unchained Oni of Shyma",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Anguish",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Rage",
+        "Unchained Soul of Sharvara",
+        "Unchained Soul of Shyama",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Zealot - Kamra",
+        "Wailing of the Unchained Souls"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

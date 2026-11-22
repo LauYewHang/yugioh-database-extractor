@@ -1,0 +1,17 @@
+{
+    "name": "Dream Cicada",
+    "filename": "Dream_Cicada",
+    "card_text": "If you control an Attack Position Insect monster, you can Special Summon this card (from your hand). You can only Special Summon \"Dream Cicada\" once per turn this way. If this card is Normal or Special Summoned: You can target 1 monster on the field; change its battle position. You can only use this effect of \"Dream Cicada\" once per turn.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 300,
+    "defense": 1300,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

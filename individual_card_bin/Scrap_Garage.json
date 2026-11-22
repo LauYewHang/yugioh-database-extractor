@@ -1,0 +1,39 @@
+{
+    "name": "Scrap Garage",
+    "filename": "Scrap_Garage",
+    "card_text": "If a face-up Machine monster(s) you control is destroyed by battle or card effect: Target up to 3 DARK Machine monsters in your GY; Special Summon them, but their ATK/DEF become 0. You can banish this card from your GY, then target 1 Machine monster you control; destroy it. You can only use each effect of \"Scrap Garage\" once per turn.",
+    "release_date": "2025-06-13",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Atomic Scrap Dragon",
+        "Guts of Steel",
+        "Scrap Beast",
+        "Scrap Breaker",
+        "Scrap Chimera",
+        "Scrap Crash",
+        "Scrap Dragon",
+        "Scrap Factory",
+        "Scrap Goblin",
+        "Scrap Golem",
+        "Scrap Hunter",
+        "Scrap Kong",
+        "Scrap Lube",
+        "Scrap Mind Reader",
+        "Scrap Orthros",
+        "Scrap Rage",
+        "Scrap Raptor",
+        "Scrap Searcher",
+        "Scrap Shark",
+        "Scrap Sheen",
+        "Scrap Soldier",
+        "Scrap Twin Dragon",
+        "Scrap Worm",
+        "Scrap Wyvern",
+        "Scrapstorm",
+        "Scrapyard"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Hallo-Ween!",
+    "filename": "Hallo_Ween_",
+    "card_text": "Add 1 \"Hallo, the Spirit of Tricks\" or \"Ween, the Spirit of Treats\" from your Deck or GY to your hand.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Hallo, the Spirit of Tricks",
+        "Ween, the Spirit of Treats"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

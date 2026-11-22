@@ -1,0 +1,20 @@
+{
+    "name": "De-Synchro",
+    "filename": "De_Synchro",
+    "card_text": "Target 1 Synchro Monster on the field; return that target to the Extra Deck, then, if all of the monsters that were used for the Synchro Summon of that monster are in your GY, you can Special Summon all of them.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUEL TERMINAL 6B",
+        "HIDDEN SUMMONERS",
+        "MAZE OF MILLENNIA",
+        "5D's STARTER DECK 2009",
+        "OTS TOURNAMENT PACK 22",
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

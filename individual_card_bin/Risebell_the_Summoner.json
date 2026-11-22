@@ -1,0 +1,20 @@
+{
+    "name": "Risebell the Summoner",
+    "filename": "Risebell_the_Summoner",
+    "card_text": "A kindly elder brother, Risebell takes good care of his little sister Saambell. He reads a Magical Book with his sister each early-afternoon, a harmonious routine that brings a smile to everyone.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Psychic",
+    "monster_card_type": 4097,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3,
+    "pendulum_effect": "Once per turn: You can target 1 face-up monster on the field; increase its Level by 1 (even if this card leaves the field).",
+    "pendulum_scale": 2
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Hieratic Sun Dragon Overlord of Heliopolis",
+    "filename": "Hieratic_Sun_Dragon_Overlord_of_Heliopolis",
+    "card_text": "2 Level 8 monsters\nOnce per turn: You can detach 1 material from this card; Tribute any number of monsters from your hand and/or field (min. 1), then destroy an equal number of cards on the field.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD",
+        "GHOSTS FROM THE PAST",
+        "COLLECTIBLE TIN 2012 WAVE 2"
+    ],
+    "related_card": [
+        "Hieratic Dragon of Asar",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Su",
+        "Hieratic Seal From the Ashes",
+        "Hieratic Seal of Banishment",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Creation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2400,
+    "monster_type": "Dragon",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 8
+}

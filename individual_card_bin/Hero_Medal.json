@@ -1,0 +1,13 @@
+{
+    "name": "Hero Medal",
+    "filename": "Hero_Medal",
+    "card_text": "When this Set card is destroyed and sent to the Graveyard by an opponent's card effect, shuffle this card into its owner's Deck. Then draw 1 card.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "STRIKE OF NEOS",
+        "DUELIST PACK - JADEN YUKI 3 -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

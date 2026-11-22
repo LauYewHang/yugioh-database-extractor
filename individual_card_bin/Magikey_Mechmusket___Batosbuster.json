@@ -1,0 +1,33 @@
+{
+    "name": "Magikey Mechmusket - Batosbuster",
+    "filename": "Magikey_Mechmusket___Batosbuster",
+    "card_text": "You can Ritual Summon this card with \"Magikey Maftea\". If this card is Ritual Summoned: You can add 1 \"Magikey\" card from your Deck to your hand. You can only use this effect of \"Magikey Mechmusket - Batosbuster\" once per turn. Once per turn, when an attack is declared involving this card and an opponent's monster that has the same Attribute as a Normal Monster or \"Magikey\" monster in your GY: You can place any number of cards from your hand on the bottom of the Deck, and if you do, negate the effects of that opponent's monster until the end of this turn, then draw the same number of cards placed under the Deck.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Clavkiys, the Magikey Skyblaster",
+        "Magikey Battle",
+        "Magikey Beast - Ansyalabolas",
+        "Magikey Deity - Ashtartu",
+        "Magikey Dragon - Andrabime",
+        "Magikey Duo",
+        "Magikey Fiend - Transfurlmine",
+        "Magikey Locking",
+        "Magikey Maftea",
+        "Magikey Mechmortar - Garesglasser",
+        "Magikey Spirit - Vepartu",
+        "Magikey Unlocking",
+        "Magikey World",
+        "Maginificent Magikey Mafteal"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 2200,
+    "monster_type": "Machine",
+    "monster_card_type": 1030,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Geargiarmor",
+    "filename": "Geargiarmor",
+    "card_text": "Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can add 1 \"Geargia\" monster from your Deck to your hand, except \"Geargiarmor\".",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST",
+        "GEARGIA RAMPAGE STRUCTURE DECK",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Gear Gigant X",
+        "Geargia Change",
+        "Geargiaccelerator",
+        "Geargiagear",
+        "Geargiagear Gigant XG",
+        "Geargianchor",
+        "Geargiano",
+        "Geargiano Mk-II",
+        "Geargiano Mk-III",
+        "Geargiarsenal",
+        "Geargiattacker",
+        "Geargiauger"
+    ],
+    "attribute": "EARTH",
+    "attack": 1100,
+    "defense": 1900,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pineapple Blast",
+    "filename": "Pineapple_Blast",
+    "card_text": "When you Normal Summon a monster, if your opponent controls more monsters than you do: Your opponent chooses monster(s) they control, equal to the number of monsters you control, then you destroy all of their monsters they did not choose.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "MAGICIAN'S FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

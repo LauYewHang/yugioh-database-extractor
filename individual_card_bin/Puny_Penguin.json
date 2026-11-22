@@ -1,0 +1,36 @@
+{
+    "name": "Puny Penguin",
+    "filename": "Puny_Penguin",
+    "card_text": "When this card is sent from the field to the Graveyard after being flipped face-up: Target 1 \"Penguin\" monster in your Graveyard, except \"Puny Penguin\"; Special Summon that target in face-up Attack Position or face-down Defense Position.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Bolt Penguin",
+        "First Penguin",
+        "Fluffal Penguin",
+        "Flying Penguin",
+        "Glacial Beast Polar Penguin",
+        "Guard Penguin",
+        "Nightmare Penguin",
+        "Nopenguin",
+        "Penguin Brave",
+        "Penguin Cleric",
+        "Penguin Knight",
+        "Penguin Ninja",
+        "Penguin Soldier",
+        "Penguin Squire",
+        "Penguin Sword",
+        "Penguin Torpedo",
+        "Royal Penguins Garden",
+        "The Great Emperor Penguin"
+    ],
+    "attribute": "WATER",
+    "attack": 400,
+    "defense": 200,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

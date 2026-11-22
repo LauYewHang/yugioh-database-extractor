@@ -1,0 +1,37 @@
+{
+    "name": "Sky Striker Mecha - Widow Anchor",
+    "filename": "Sky_Striker_Mecha___Widow_Anchor",
+    "card_text": "If you control no monsters in your Main Monster Zone: Target 1 face-up Effect Monster on the field; negate that face-up monster's effects until the end of this turn, then, if you have 3 or more Spells in your GY, you can take control of that monster until the End Phase.",
+    "release_date": "2018-05-25",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "MAGNIFICENT MAVENS",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "DARK SAVIORS",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Aileron",
+        "Pillar of the Future - Cyanos",
+        "Sage of Benevolence - Ciela",
+        "Sage of Strength - Akash",
+        "Sage of Wisdom - Himmel",
+        "Sky Striker Ace - Azalea Temperance",
+        "Sky Striker Ace - Camellia",
+        "Sky Striker Ace - Hayate",
+        "Sky Striker Ace - Kagari",
+        "Sky Striker Ace - Kaina",
+        "Sky Striker Ace - Shizuku",
+        "Sky Striker Ace = Zero",
+        "Sky Striker Airspace - Area Zero",
+        "Sky Striker Mecha - Adil Saber",
+        "Sky Striker Mecha Modules - Multirole",
+        "Sky Striker Mecharmory - Hercules Base",
+        "Sky Striker Mobilize - Engage!",
+        "Sky Striker Special Maneuver - Lemnisgate!",
+        "Surgical Striker - H.A.M.P."
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

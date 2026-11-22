@@ -1,0 +1,27 @@
+{
+    "name": "King's Sarcophagus",
+    "filename": "King_s_Sarcophagus",
+    "card_text": "\"Horus\" monsters you control cannot be destroyed by card effects that do not target them. You can send 1 card from your hand to the GY; send 1 \"Horus\" monster from your Deck to the GY. You can only use this effect of \"King's Sarcophagus\" up to four times per turn. Once per turn, at the start of the Damage Step, if your \"Horus\" monster battles an opponent's monster: You can send that opponent's monster to the GY.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Dark Horus",
+        "Duamutef, Blessing of Horus",
+        "Hapi, Guidance of Horus",
+        "Horus the Black Flame Deity",
+        "Horus the Black Flame Dragon LV4",
+        "Horus the Black Flame Dragon LV6",
+        "Horus the Black Flame Dragon LV8",
+        "Horus' Servant",
+        "Imsety, Glory of Horus",
+        "Metaphys Horus",
+        "Qebehsenuef, Protection of Horus",
+        "Walls of the Imperial Tomb"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -11,7 +11,9 @@
     "attack": 800,
     "defense": 1000,
     "monster_type": "Rock",
-    "monster_card_type": 1,
+    "monster_card_type": [
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

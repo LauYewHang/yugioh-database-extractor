@@ -1,0 +1,35 @@
+{
+    "name": "Oneiros, the Dream Mirror Erlking",
+    "filename": "Oneiros__the_Dream_Mirror_Erlking",
+    "card_text": "2 \"Dream Mirror\" monsters with different Attributes\nWhile face-up on the field, this card is also DARK-Attribute. You can only use each of the following effects of \"Oneiros, the Dream Mirror Erlking\" once per turn.\n\u25cfIf another monster you control is Tributed (except during the Damage Step): You can target 1 card on the field; destroy it.\n\u25cfIf this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 \"Dream Mirror\" monster from your GY, except \"Oneiros, the Dream Mirror Erlking\".",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Dream Mirror Fantasy",
+        "Dream Mirror Hypnagogia",
+        "Dream Mirror of Chaos",
+        "Dream Mirror of Joy",
+        "Dream Mirror of Terror",
+        "Dream Mirror Oneiromancy",
+        "Dream Mirror Phantasms",
+        "Dream Mirror Recap",
+        "Ikelos, the Dream Mirror Mara",
+        "Ikelos, the Dream Mirror Sprite",
+        "Morpheus, the Dream Mirror Black Knight",
+        "Morpheus, the Dream Mirror White Knight",
+        "Neiroy, the Dream Mirror Disciple",
+        "Neiroy, the Dream Mirror Traitor",
+        "Oneiros, the Dream Mirror Tormentor",
+        "Phantasos, the Dream Mirror Foe",
+        "Phantasos, the Dream Mirror Friend"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Fairy",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

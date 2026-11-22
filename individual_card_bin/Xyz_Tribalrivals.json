@@ -1,0 +1,22 @@
+{
+    "name": "Xyz Tribalrivals",
+    "filename": "Xyz_Tribalrivals",
+    "card_text": "Face-up Xyz Monsters on the field with 2 or more materials cannot be destroyed by card effects. After damage calculation, if your Xyz Monster battled an opponent's monster while this card is already face-up in your Spell & Trap Zone: Destroy that opponent's monster. That Xyz Monster must have 2 or more materials attached to activate and to resolve this effect.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

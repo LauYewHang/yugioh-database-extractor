@@ -1,0 +1,20 @@
+{
+    "name": "Dark Hole Dragon",
+    "filename": "Dark_Hole_Dragon",
+    "card_text": "Cannot be destroyed by card effects. You can only use each of the following effects of \"Dark Hole Dragon\" once per turn. If a monster(s) on the field is destroyed by a card effect that does not target it (except during the Damage Step): You can Special Summon this card from the GY (if it was there when the monster was destroyed) or hand (even if not). If this card is Special Summoned: You can activate this effect; during the End Phase of this turn, add 1 \"Dark Hole\" from your Deck to your hand.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Dark Hole"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

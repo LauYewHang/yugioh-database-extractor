@@ -1,0 +1,31 @@
+{
+    "name": "Majespecter Gust",
+    "filename": "Majespecter_Gust",
+    "card_text": "Target 1 \"Majespecter\" card in your Pendulum Zone; Special Summon it.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Majespecter Cat - Nekomata",
+        "Majespecter Crow - Yata",
+        "Majespecter Cyclone",
+        "Majespecter Draco - Ryu",
+        "Majespecter Fox - Kyubi",
+        "Majespecter Orthrus - Nue",
+        "Majespecter Porcupine - Yamarashi",
+        "Majespecter Raccoon - Bunbuku",
+        "Majespecter Sonics",
+        "Majespecter Storm",
+        "Majespecter Supercell",
+        "Majespecter Tempest",
+        "Majespecter Toad - Ogama",
+        "Majespecter Tornado",
+        "Majespecter Unicorn - Kirin",
+        "Majespecter Wind",
+        "Majesty Pegasus, the Dracoslayer",
+        "Majesty's Pegasus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

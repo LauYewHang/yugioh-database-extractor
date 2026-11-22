@@ -1,0 +1,14 @@
+{
+    "name": "The Big March of Animals",
+    "filename": "The_Big_March_of_Animals",
+    "card_text": "All face-up Beast monsters you control gain 200 ATK for each Beast monster you control, until the end of this turn.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

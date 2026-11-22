@@ -1,0 +1,28 @@
+{
+    "name": "Shining Sarcophagus",
+    "filename": "Shining_Sarcophagus",
+    "card_text": "Cannot be destroyed by monster effects. You can only use each of the following effects of \"Shining Sarcophagus\" once per turn. During your Main Phase: You can add 1 card that mentions \"Shining Sarcophagus\" from your Deck to your hand, except \"Shining Sarcophagus\". If your opponent Special Summons a monster(s) from the GY (except during the Damage Step): You can discard 1 Spell, then target 1 of those monsters; send it to the GY.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "MAGNIFICENT MONSTERS",
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Archfiend's Advent",
+        "Dark Magic Mirror Force",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician the Magician of Black Magic",
+        "Future Silence",
+        "Gadget Trio",
+        "Gandora-G the Dragon of Destruction",
+        "Moremarshmallon",
+        "Silent Magician Zero",
+        "Silent Swordsman Zero",
+        "Stronghold the Hidden Fortress",
+        "Ties That Bind",
+        "Turn Silence"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

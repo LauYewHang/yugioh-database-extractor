@@ -1,0 +1,15 @@
+{
+    "name": "Field Barrier",
+    "filename": "Field_Barrier",
+    "card_text": "Field Spells on the field cannot be destroyed. Neither player can activate a new Field Spell Card. You can only control 1 \"Field Barrier\".",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "SPELLCASTER'S COMMAND STRUCTURE DECK",
+        "FORCE OF THE BREAKER",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

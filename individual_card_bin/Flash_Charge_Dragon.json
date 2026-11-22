@@ -1,0 +1,19 @@
+{
+    "name": "Flash Charge Dragon",
+    "filename": "Flash_Charge_Dragon",
+    "card_text": "2+ Dragon monsters\nYou cannot Summon/Set monsters to a zone this card points to. Once per turn, if a monster(s) is Normal or Special Summoned, to a zone(s) this card points to (except during the Damage Step): You can destroy 1 monster this card points to, and if you do, inflict 500 damage to your opponent. When a card or effect is activated that targets this face-up card (Quick Effect): You can Tribute 1 monster; negate the activation.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 896
+}

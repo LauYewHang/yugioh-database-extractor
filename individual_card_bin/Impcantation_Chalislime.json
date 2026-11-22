@@ -1,0 +1,27 @@
+{
+    "name": "Impcantation Chalislime",
+    "filename": "Impcantation_Chalislime",
+    "card_text": "You can Ritual Summon this card with \"Impcantation Inception\". You can reveal this card in your hand; discard 1 card, and if you do, Special Summon 1 \"Impcantation\" monster from your Deck, also, during the End Phase, lose 2500 LP if you did not Special Summon a Ritual Monster this turn after you resolved this effect. You can send 1 \"Impcantation\" card from your hand or face-up field to the GY, then target 1 monster your opponent controls; destroy it. You can only use 1 \"Impcantation Chalislime\" effect per turn, and only once that turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "GENESIS IMPACT",
+        "WILD SURVIVORS",
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Crealtar, the Impcantation Originator",
+        "Impcantation Bookstone",
+        "Impcantation Candoll",
+        "Impcantation Inception",
+        "Impcantation Penciplume",
+        "Impcantation Talismandra",
+        "Impcantation Thanatosis"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 1800,
+    "monster_type": "Aqua",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

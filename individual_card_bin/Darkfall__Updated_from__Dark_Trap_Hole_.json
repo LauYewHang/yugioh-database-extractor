@@ -1,0 +1,13 @@
+{
+    "name": "Darkfall (Updated from: Dark Trap Hole)",
+    "filename": "Darkfall__Updated_from__Dark_Trap_Hole_",
+    "card_text": "When your opponent Special Summons 2 or more face-up monsters at the same time: Send those monsters to the Graveyard, then send all monsters in the opponent's hand and Deck to the Graveyard that have the same name as the monsters sent to the Graveyard by this effect.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "DUELIST LEAGUE 16"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

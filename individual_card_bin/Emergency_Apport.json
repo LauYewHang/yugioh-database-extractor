@@ -1,0 +1,12 @@
+{
+    "name": "Emergency Apport",
+    "filename": "Emergency_Apport",
+    "card_text": "Target 1 of your Level 5 or lower Psychic monsters that is banished or in your GY; Special Summon it.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Dragonoid Generator",
+    "filename": "Dragonoid_Generator",
+    "card_text": "Activate this card by paying 1000 LP. During your Main Phase: You can Special Summon 1 \"Dragonoid Token\" (Machine/EARTH/Level 1/ATK 300/DEF 300) in Attack Position, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, also during the End Phase your opponent Special Summons 1 \"Dragonoid Token\" to their field in Attack Position (even if this card leaves the field). You can use this effect of \"Dragonoid Generator\" up to twice per turn.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "STAR PACK: VRAINS",
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

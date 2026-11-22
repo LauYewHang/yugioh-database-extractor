@@ -1,0 +1,32 @@
+{
+    "name": "Evo-Diversity",
+    "filename": "Evo_Diversity",
+    "card_text": "Add 1 \"Evoltile\" or \"Evolsaur\" monster from your Deck to your hand. You can only activate 1 \"Evo-Diversity\" per turn.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "OTS TOURNAMENT PACK 22",
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Evolsaur Cerato",
+        "Evolsaur Darwino",
+        "Evolsaur Diplo",
+        "Evolsaur Elias",
+        "Evolsaur Lios",
+        "Evolsaur Pelta",
+        "Evolsaur Terias",
+        "Evolsaur Vulcano",
+        "Evoltile Casinerio",
+        "Evoltile Elginero",
+        "Evoltile Gephyro",
+        "Evoltile Lagosucho",
+        "Evoltile Megachirella",
+        "Evoltile Najasho",
+        "Evoltile Odonto",
+        "Evoltile Pholis",
+        "Evoltile Pleuro",
+        "Evoltile Westlo"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

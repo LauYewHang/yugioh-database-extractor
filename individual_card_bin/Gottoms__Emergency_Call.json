@@ -1,0 +1,43 @@
+{
+    "name": "Gottoms' Emergency Call",
+    "filename": "Gottoms__Emergency_Call",
+    "card_text": "If an \"X-Saber\" monster is on the field: Target 2 \"X-Saber\" monsters in any GY(s); Special Summon both to your field.",
+    "release_date": "2009-06-09",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "DUEL TERMINAL 7A",
+        "5D's STARTER DECK 2009",
+        "TURBO PACK BOOSTER FOUR",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Commander Souza, Swordmaster",
+        "M-X-Saber Invoker",
+        "Saber Reflection",
+        "X-Saber Airbellum",
+        "X-Saber Anu Piranha",
+        "X-Saber Axel",
+        "X-Saber Bruno",
+        "X-Saber Galahad",
+        "X-Saber Gottoms",
+        "X-Saber Palomuro",
+        "X-Saber Pashuul",
+        "X-Saber Pellina",
+        "X-Saber Souza",
+        "X-Saber Urbellum",
+        "X-Saber Uruz",
+        "X-Saber Wayne",
+        "XX-Saber Boggart Knight",
+        "XX-Saber Darksoul",
+        "XX-Saber Emmersblade",
+        "XX-Saber Faultroll",
+        "XX-Saber Fulhelmknight",
+        "XX-Saber Gardestrike",
+        "XX-Saber Garsem",
+        "XX-Saber Gottoms",
+        "XX-Saber Hyunlei",
+        "XX-Saber Ragigura"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

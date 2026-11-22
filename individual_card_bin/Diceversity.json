@@ -1,0 +1,13 @@
+{
+    "name": "Diceversity",
+    "filename": "Diceversity",
+    "card_text": "Once per turn: You can target 1 monster on the field whose current Level is different from its original Level; roll a six-sided die and that monster's Level becomes the same as the result.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

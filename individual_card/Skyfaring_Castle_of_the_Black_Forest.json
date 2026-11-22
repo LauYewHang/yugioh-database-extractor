@@ -11,7 +11,15 @@
     "attack": 2400,
     "defense": null,
     "monster_type": "Rock",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 4,
-    "link_arrow": 340
+    "link_arrow": [
+        "Top-Center",
+        "Middle-Right",
+        "Middle-Left",
+        "Bottom-Center"
+    ]
 }

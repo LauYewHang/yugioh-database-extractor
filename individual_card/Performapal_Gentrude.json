@@ -150,7 +150,10 @@
     "attack": 1500,
     "defense": 1000,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "If \"Performapal Ladyange\" is in your other Pendulum Zone and you control no monsters, or only Pendulum Monsters: You can add 1 \"Odd-Eyes\" card from your Deck to your hand. You can only use this effect of \"Performapal Gentrude\" once per turn.",

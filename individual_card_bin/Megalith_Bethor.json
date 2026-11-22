@@ -1,0 +1,31 @@
+{
+    "name": "Megalith Bethor",
+    "filename": "Megalith_Bethor",
+    "card_text": "You can Ritual Summon this card with a \"Megalith\" card. You can discard this card; Ritual Summon 1 \"Megalith\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. If this card is Ritual Summoned: You can target cards your opponent controls, up to the number of Ritual Monsters with different names in your GY; destroy them. You can only use each effect of \"Megalith Bethor\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Megalith Anastasis",
+        "Megalith Aratron",
+        "Megalith Emergence",
+        "Megalith Hagith",
+        "Megalith Notrah Plura",
+        "Megalith Och",
+        "Megalith Ophiel",
+        "Megalith Phaleg",
+        "Megalith Phul",
+        "Megalith Phuloch",
+        "Megalith Portal",
+        "Megalith Promotion",
+        "Megalith Unformed"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 2600,
+    "monster_type": "Rock",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

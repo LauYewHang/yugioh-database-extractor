@@ -1,0 +1,29 @@
+{
+    "name": "Runick Fountain",
+    "filename": "Runick_Fountain",
+    "card_text": "You can activate \"Runick\" Quick-Play Spell Cards from your hand during your opponent's turn. Once per turn, if you activate a \"Runick\" Quick-Play Spell Card: You can target up to 3 \"Runick\" Quick-Play Spells in your GY; place them on the bottom of your Deck in any order, then draw the same number of cards.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "TACTICAL MASTERS",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Freki the Runick Fangs",
+        "Geri the Runick Fangs",
+        "Hugin the Runick Wings",
+        "Munin the Runick Wings",
+        "Runick Allure",
+        "Runick Destruction",
+        "Runick Dispelling",
+        "Runick Flashing Fire",
+        "Runick Freezing Curses",
+        "Runick Golden Droplet",
+        "Runick Slumber",
+        "Runick Smiting Storm",
+        "Runick Tip",
+        "Sleipnir the Runick Mane"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

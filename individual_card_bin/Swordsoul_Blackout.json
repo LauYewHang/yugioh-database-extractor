@@ -1,0 +1,23 @@
+{
+    "name": "Swordsoul Blackout",
+    "filename": "Swordsoul_Blackout",
+    "card_text": "Target 1 Wyrm monster you control and 2 cards your opponent controls; destroy them. If this card is banished: You can Special Summon 1 \"Swordsoul Token\" (Wyrm/Tuner/WATER/Level 4/ATK 0/DEF 0). While that Token is in the Monster Zone, the player who Summoned it cannot Special Summon monsters from the Extra Deck, except Synchro Monsters. You can only use each effect of \"Swordsoul Blackout\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "MAGNIFICENT MAVENS"
+    ],
+    "related_card": [
+        "Incredible Ecclesia, the Virtuous",
+        "Swordsoul Assessment",
+        "Swordsoul Emergence",
+        "Swordsoul Grandmaster - Chixiao",
+        "Swordsoul of Mo Ye",
+        "Swordsoul of Taia",
+        "Swordsoul Sacred Summit",
+        "Swordsoul Strategist Longyuan",
+        "Swordsoul Strife"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

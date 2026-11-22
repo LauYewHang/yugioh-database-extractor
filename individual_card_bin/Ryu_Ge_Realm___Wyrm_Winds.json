@@ -1,0 +1,24 @@
+{
+    "name": "Ryu-Ge Realm - Wyrm Winds",
+    "filename": "Ryu_Ge_Realm___Wyrm_Winds",
+    "card_text": "You can only control 1 \"Ryu-Ge Realm - Wyrm Winds\". Any monster sent from the field to the GY during your opponent's turn is banished instead. \"Ryu-Ge\" Pendulum Monsters, and Level 10 or higher monsters whose original Type is Wyrm, that you control, gain this effect.\n\u25cfOnce per opponent's turn (Quick Effect): You can place 1 \"Ryu-Ge\" Continuous Spell you control on the bottom of the Deck, then target 1 face-up monster on the field; its ATK becomes 0.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Genro Ryu-Ge Hakva",
+        "Kairo Ryu-Ge Emva",
+        "Kyoro Ryu-Ge Kaiva",
+        "Ryu-Ge End",
+        "Ryu-Ge Realm - Dino Domains",
+        "Ryu-Ge Realm - Sea Spires",
+        "Ryu-Ge Rising",
+        "Ryu-Ge Rivalry",
+        "Ryu-Ge War Zone",
+        "Sosei Ryu-Ge Mistva",
+        "Tensei Ryu-Ge Anva"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -99,7 +99,11 @@
     "attack": 1500,
     "defense": 1000,
     "monster_type": "Machine",
-    "monster_card_type": 5122,
+    "monster_card_type": [
+        "Pendulum",
+        "Tuner",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "Once per turn: You can destroy this card and 1 Level 2 WIND Pendulum Monster Card in your Pendulum Zone, and if you do, Special Summon 1 \"Clear Wing Synchro Dragon\" from your Extra Deck (this is treated as a Synchro Summon), also for the rest of this turn, cards in your Pendulum Zones cannot be destroyed by card effects, and you cannot Special Summon, except WIND monsters.",

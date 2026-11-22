@@ -1,0 +1,34 @@
+{
+    "name": "Tri-Brigade Hammer",
+    "filename": "Tri_Brigade_Hammer",
+    "card_text": "Activate 1 of these effects (but you can only use each effect of \"Tri-Brigade Hammer\" once per turn);\n\u25cfAdd 1 \"Tri-Brigade\" Spell/Trap from your Deck to your hand, except \"Tri-Brigade Hammer\".\n\u25cfBanish any number of \"Tri-Brigade\" cards from your GY; Special Summon 1 \"Tri-Brigade\" Link Monster from your Extra Deck with Link Rating equal to the number banished, ignoring its Summoning conditions, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Beast, Beast-Warrior, or Winged Beast monsters.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Airborne Assault",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Ferrijit the Barren Blossom",
+        "Tri-Brigade Fraktall",
+        "Tri-Brigade Kerass",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Oath",
+        "Tri-Brigade Rendezvous",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Rugal the Silver Sheller",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Shuraig the Ominous Omen",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Super-Ancient Dinobeast",
+    "filename": "Super_Ancient_Dinobeast",
+    "card_text": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Dinosaur monster. When a Dinosaur monster(s) is Special Summoned from your GY while this monster is on the field (except during the Damage Step): You can draw 1 card.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "DUELIST LEAGUE 17",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2700,
+    "defense": 1400,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

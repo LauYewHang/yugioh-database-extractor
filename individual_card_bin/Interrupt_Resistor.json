@@ -1,0 +1,18 @@
+{
+    "name": "Interrupt Resistor",
+    "filename": "Interrupt_Resistor",
+    "card_text": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, during damage calculation, when another Defense Position monster you control is attacked by an opponent's monster (Quick Effect): You can activate this effect; during this damage calculation, your attacked monster's DEF becomes equal to this card's DEF, also it cannot be destroyed by that battle.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 2100,
+    "monster_type": "Cyberse",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Hidden Soldiers",
+    "filename": "Hidden_Soldiers",
+    "card_text": "When your opponent Normal or Flip Summons a monster: Special Summon 1 Level 4 or lower DARK monster from your hand.",
+    "release_date": "2006-08-05",
+    "available_set": [
+        "POWER OF THE DUELIST Sneak Peek",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

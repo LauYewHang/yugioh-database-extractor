@@ -1,0 +1,18 @@
+{
+    "name": "Tri-Edge Master",
+    "filename": "Tri_Edge_Master",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can apply the appropriate effect, based on the Levels used for its Synchro Summon, or if you used 3 or more monsters as materials, apply all these effects, in sequence.\n\u25cf1 & 5: Destroy 1 other card on the field.\n\u25cf2 & 4: Draw 1 card.\n\u25cf3 & 3: Treat this card as a Tuner.\nYou can only use this effect of \"Tri-Edge Master\" once per turn.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

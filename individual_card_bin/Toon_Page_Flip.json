@@ -1,0 +1,26 @@
+{
+    "name": "Toon Page-Flip",
+    "filename": "Toon_Page_Flip",
+    "card_text": "If you control \"Toon World\": Reveal 3 Toon monsters with different names from your Deck, your opponent randomly picks 1 for you to Special Summon, ignoring its Summoning conditions, also shuffle the rest into your Deck. You can only activate 1 \"Toon Page-Flip\" per turn.",
+    "release_date": "2020-06-19",
+    "available_set": [
+        "TOON CHAOS",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Animimicat",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Dark-Eyes Illusionist Faceless Mage",
+        "Evil Box",
+        "Funny Dark Rabbit",
+        "Mind Scan",
+        "Perfect Toon World",
+        "Toon Bookmark",
+        "Toon Dark Magician",
+        "Toon Kingdom",
+        "Toon Table of Contents",
+        "Toon World"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Paladin of Storm Dragon",
+    "filename": "Paladin_of_Storm_Dragon",
+    "card_text": "You can Ritual Summon this card with \"Cynet Ritual\". At the start of the Damage Step, if this card attacks a monster: You can return that monster to the hand. You can Tribute this card; Special Summon 1 Level 5 or higher Cyberse monster from your hand or Deck, but it cannot activate its effects this turn. You can only use each effect of \"Paladin of Storm Dragon\" once per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Cynet Ritual"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": 900,
+    "monster_type": "Cyberse",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

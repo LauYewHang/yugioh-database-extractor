@@ -1,0 +1,18 @@
+{
+    "name": "Everlasting Alloy",
+    "filename": "Everlasting_Alloy",
+    "card_text": "If you control \"Jinzo\": Activate 1 of these effects;\n\u25cfAll Machine monsters you currently control cannot be destroyed by your opponent's card effects, until the end of this turn.\n\u25cfWhen a card or effect is activated that targets a Machine monster(s) you control: Negate that effect.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Jinzo",
+        "Jinzo - Energy Shocker",
+        "Jinzo - Jector",
+        "Law of the Cosmos",
+        "Psychic Bounder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

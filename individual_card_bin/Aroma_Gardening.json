@@ -1,0 +1,33 @@
+{
+    "name": "Aroma Gardening",
+    "filename": "Aroma_Gardening",
+    "card_text": "If you Normal or Special Summon an \"Aroma\" monster(s) (except during the Damage Step): You can gain 1000 LP. When an opponent's monster declares an attack, while your LP are lower than your opponent's: You can Special Summon 1 \"Aroma\" monster from your Deck. You can only use each effect of \"Aroma Gardening\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Aroma Blend",
+        "Aroma Garden",
+        "Aroma Healing",
+        "Aroma Jar",
+        "Aromage Bergamot",
+        "Aromage Cananga",
+        "Aromage Jasmine",
+        "Aromage Laurel",
+        "Aromage Marjoram",
+        "Aromage Rosemary",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Aromaseraphy Jasmine",
+        "Aromaseraphy Rosemary",
+        "Aromaseraphy Sweet Marjoram",
+        "Blessed Winds",
+        "Dried Winds",
+        "Humid Winds"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

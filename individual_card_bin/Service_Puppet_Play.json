@@ -1,0 +1,39 @@
+{
+    "name": "Service Puppet Play",
+    "filename": "Service_Puppet_Play",
+    "card_text": "Target monsters your opponent controls, up to the number of \"Gimmick Puppet\" Xyz Monsters you control; take control of those monsters until the End Phase. If this card is in your GY, except the turn it was sent there, and you control a \"Gimmick Puppet\" Xyz Monster: You can banish this card, then target 1 Xyz Monster in either GY; Special Summon it to either field in Defense Position. You can only use each effect of \"Service Puppet Play\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [
+        "CXyz Gimmick Puppet Fanatix Machinix",
+        "Gimmick Puppet Bisque Doll",
+        "Gimmick Puppet Cattle Scream",
+        "Gimmick Puppet Chimera Doll",
+        "Gimmick Puppet Des Troy",
+        "Gimmick Puppet Dreary Doll",
+        "Gimmick Puppet Egg Head",
+        "Gimmick Puppet Fantasix Machinix",
+        "Gimmick Puppet Fiendish Knight",
+        "Gimmick Puppet Gear Changer",
+        "Gimmick Puppet Gigantes Doll",
+        "Gimmick Puppet Humpty Dumpty",
+        "Gimmick Puppet Little Soldiers",
+        "Gimmick Puppet Magnet Doll",
+        "Gimmick Puppet Nightmare",
+        "Gimmick Puppet Rouge Doll",
+        "Gimmick Puppet Scissor Arms",
+        "Gimmick Puppet Shadow Feeler",
+        "Gimmick Puppet Terror Baby",
+        "Gimmick Puppet Twilight Joker",
+        "Number 15: Gimmick Puppet Giant Grinder",
+        "Number 40: Gimmick Puppet of Strings",
+        "Number 88: Gimmick Puppet of Leo",
+        "Number C15: Gimmick Puppet Giant Hunter",
+        "Number C40: Gimmick Puppet of Dark Strings",
+        "Number C88: Gimmick Puppet Disaster Leo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

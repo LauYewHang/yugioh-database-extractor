@@ -1,0 +1,18 @@
+{
+    "name": "Elemental Grace Doriado",
+    "filename": "Elemental_Grace_Doriado",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 6 or more monsters with different Attributes in the GYs. Gains ATK/DEF equal to the number of different Attributes in the GYs x 500. When your opponent would Special Summon a monster(s) (Quick Effect): You can banish 3 monsters from your GY; negate the Summon, and if you do, destroy that monster(s).",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

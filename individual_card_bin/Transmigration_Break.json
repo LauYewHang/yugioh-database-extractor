@@ -1,0 +1,12 @@
+{
+    "name": "Transmigration Break",
+    "filename": "Transmigration_Break",
+    "card_text": "Any cards that would be returned to the Deck from the Graveyard are removed from play instead.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

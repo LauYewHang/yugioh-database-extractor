@@ -1,0 +1,16 @@
+{
+    "name": "Stop Defense",
+    "filename": "Stop_Defense",
+    "card_text": "Target 1 Defense Position monster your opponent controls; change that target to Attack Position.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STARTER DECK PEGASUS",
+        "DARK BEGINNING 1",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "LEGEND OF BLUE EYES WHITE DRAGON"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

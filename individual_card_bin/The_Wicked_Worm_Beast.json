@@ -1,0 +1,35 @@
+{
+    "name": "The Wicked Worm Beast",
+    "filename": "The_Wicked_Worm_Beast",
+    "card_text": "Once per turn, during your End Phase: Return this face-up card to the hand.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DARK BEGINNING 2",
+        "STARTER DECK KAIBA",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 700,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

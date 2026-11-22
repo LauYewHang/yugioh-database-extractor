@@ -1,0 +1,15 @@
+{
+    "name": "Ring of Magnetism",
+    "filename": "Ring_of_Magnetism",
+    "card_text": "You can only equip this card to a monster on your side of the field. Decrease the ATK and DEF of a monster equipped with this card by 500 points. In addition, all the monsters on your opponent's side of the field can only attack the monster equipped with this card, if they attack.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS",
+        "STARTER DECK PEGASUS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

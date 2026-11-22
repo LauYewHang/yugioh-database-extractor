@@ -1,0 +1,13 @@
+{
+    "name": "Cross Counter",
+    "filename": "Cross_Counter",
+    "card_text": "If the DEF of an attacked Defense Position monster is higher than the ATK of your opponent's attacking monster, the Battle Damage inflicted to your opponent is doubled. Destroy the attacking monster after damage calculation.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

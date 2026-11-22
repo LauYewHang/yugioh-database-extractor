@@ -1,0 +1,15 @@
+{
+    "name": "Fake Trap",
+    "filename": "Fake_Trap",
+    "card_text": "You can only activate this card when your opponent uses an effect of a Spell, Trap, or Effect Monster to destroy Trap Card(s) on your side of the field. Destroy this card as a substitute of those Trap Card(s) and the other Trap Card(s) are not destroyed. If a Set card(s) would have been destroyed, pick up and see the Set card(s).",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "STARTER DECK JOEY",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "DARK BEGINNING 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

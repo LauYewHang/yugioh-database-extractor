@@ -1,0 +1,36 @@
+{
+    "name": "Roxrose Dragon",
+    "filename": "Roxrose_Dragon",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 card that mentions \"Black Rose Dragon\" from your Deck to your hand, except \"Roxrose Dragon\". While this card is in your GY, if a face-up \"Rose Dragon\" monster(s) or Plant Synchro Monster(s) you control is destroyed by battle or an opponent's card effect: You can add this card to your hand. You can only use each effect of \"Roxrose Dragon\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "Legendary 5D's Decks"
+    ],
+    "related_card": [
+        "Basal Rose Shoot",
+        "Black Rose Dragon",
+        "Black Rose Garden",
+        "Blooming of the Darkest Rose",
+        "Blue Rose Dragon",
+        "Bramble Rose Dragon",
+        "Crossrose Dragon",
+        "Garden Rose Maiden",
+        "Red Rose Dragon",
+        "Ruddy Rose Dragon",
+        "Ruddy Rose Witch",
+        "Thorn of Malice",
+        "Twilight Rose Black Knight",
+        "Vengeful Witch",
+        "White Rose Cloister",
+        "White Rose Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

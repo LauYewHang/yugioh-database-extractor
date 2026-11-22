@@ -1,0 +1,30 @@
+{
+    "name": "Artifacts Unleashed",
+    "filename": "Artifacts_Unleashed",
+    "card_text": "Target 2 \"Artifact\" monsters you control; immediately after this effect resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only, also for the rest of this turn after this card resolves, monsters you control cannot attack, except \"Artifact\" monsters. If this card in its owner's possession is destroyed by an opponent's card: You can reveal 1 Level 5 LIGHT monster from your hand; draw 1 card.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN",
+        "2015 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Artifact Achilleshield",
+        "Artifact Aegis",
+        "Artifact Beagalltach",
+        "Artifact Caduceus",
+        "Artifact Chakram",
+        "Artifact Dagda",
+        "Artifact Durendal",
+        "Artifact Failnaught",
+        "Artifact Ignition",
+        "Artifact Labrys",
+        "Artifact Lancea",
+        "Artifact Mjollnir",
+        "Artifact Moralltach",
+        "Artifact Sanctum",
+        "Artifact Scythe",
+        "Artifact Vajra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

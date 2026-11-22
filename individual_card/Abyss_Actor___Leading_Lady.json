@@ -39,7 +39,10 @@
     "attack": 1500,
     "defense": 1000,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn, when you take battle damage from an opponent's attacking monster: You can activate 1 of these effects;\n\u25cfThat opponent's monster loses ATK equal to the damage you took (even if this card leaves the field).\n\u25cfAdd 1 face-up \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand with ATK less than or equal to the damage you took.",

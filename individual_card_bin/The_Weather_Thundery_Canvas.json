@@ -1,0 +1,29 @@
+{
+    "name": "The Weather Thundery Canvas",
+    "filename": "The_Weather_Thundery_Canvas",
+    "card_text": "\"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\n\u25cfAt the start of the Damage Step, if this card battles an opponent's monster: You can banish this card; return that opponent's monster to the hand.\nYou can only control 1 \"The Weather Thundery Canvas\".",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "The Weather Auroral Canvas",
+        "The Weather Cloudy Canvas",
+        "The Weather Forecast",
+        "The Weather Painter Aurora",
+        "The Weather Painter Cloud",
+        "The Weather Painter Moonbow",
+        "The Weather Painter Rain",
+        "The Weather Painter Rainbow",
+        "The Weather Painter Snow",
+        "The Weather Painter Sun",
+        "The Weather Painter Thunder",
+        "The Weather Rainbowed Canvas",
+        "The Weather Rainy Canvas",
+        "The Weather Snowy Canvas",
+        "The Weather Sunny Canvas"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Last Day of Witch",
+    "filename": "Last_Day_of_Witch",
+    "card_text": "Destroy all Spellcaster monsters on the field.",
+    "release_date": "2006-01-03",
+    "available_set": [
+        "DUELIST LEAGUE SERIES 9",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

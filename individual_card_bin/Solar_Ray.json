@@ -1,0 +1,13 @@
+{
+    "name": "Solar Ray",
+    "filename": "Solar_Ray",
+    "card_text": "Inflict 600 points of damage to your opponent's Life Points for each face-up LIGHT monster on your side of the field.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

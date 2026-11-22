@@ -1,0 +1,12 @@
+{
+    "name": "Soul Transition",
+    "filename": "Soul_Transition",
+    "card_text": "If you control no Special Summoned monsters: Tribute 1 face-up Level 4 Normal Summoned/Set monster; draw 2 cards. You can only activate 1 \"Soul Transition\" per turn. You cannot Special Summon monsters the turn you activate this card.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

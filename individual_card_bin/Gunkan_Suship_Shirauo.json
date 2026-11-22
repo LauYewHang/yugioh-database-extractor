@@ -1,0 +1,29 @@
+{
+    "name": "Gunkan Suship Shirauo",
+    "filename": "Gunkan_Suship_Shirauo",
+    "card_text": "If you control a \"Gunkan Suship Shari\", or an Xyz Monster that has \"Gunkan Suship Shari\" as material: You can Special Summon this card from your hand. During your Main Phase: You can Special Summon 1 \"Gunkan\" monster from your hand, except \"Gunkan Suship Shirauo\", then you can take any number of \"Gunkan Suship Shari\" from your Deck or GY and place them on top of your Deck in any order. You can only use each effect of \"Gunkan Suship Shirauo\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Gunkan Suship Catch-of-the-Day",
+        "Gunkan Suship Daily Special",
+        "Gunkan Suship Ikura",
+        "Gunkan Suship Ikura-class Dreadnought",
+        "Gunkan Suship Shari",
+        "Gunkan Suship Shari Red",
+        "Gunkan Suship Shirauo-class Carrier",
+        "Gunkan Suship Uni",
+        "Gunkan Suship Uni-class Super-Dreadnought",
+        "Gunkan Sushipyard Seaside Supper Spot"
+    ],
+    "attribute": "FIRE",
+    "attack": 200,
+    "defense": 250,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

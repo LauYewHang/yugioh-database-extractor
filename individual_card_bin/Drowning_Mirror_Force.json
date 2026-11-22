@@ -1,0 +1,17 @@
+{
+    "name": "Drowning Mirror Force",
+    "filename": "Drowning_Mirror_Force",
+    "card_text": "When an opponent's monster declares a direct attack: Shuffle all your opponent's Attack Position monsters into the Deck.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "Gold Series: Maximum Gold",
+        "2017 MEGA-TINS MEGA PACK",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "LEGENDARY DRAGON DECKS",
+        "DARK SAVIORS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

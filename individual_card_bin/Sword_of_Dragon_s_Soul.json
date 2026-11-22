@@ -1,0 +1,14 @@
+{
+    "name": "Sword of Dragon's Soul",
+    "filename": "Sword_of_Dragon_s_Soul",
+    "card_text": "Equip only to a Warrior monster. It gains 700 ATK. After damage calculation, if the equipped monster battled a Dragon monster: Destroy that monster at the end of that Battle Phase.",
+    "release_date": "2004-06-29",
+    "available_set": [
+        "Yu-Gi-Oh! POWER OF CHAOS JOEY THE PASSION Bundles",
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

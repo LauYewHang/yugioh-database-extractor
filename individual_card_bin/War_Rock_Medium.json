@@ -1,0 +1,27 @@
+{
+    "name": "War Rock Medium",
+    "filename": "War_Rock_Medium",
+    "card_text": "While your opponent controls a Special Summoned monster and you control a Level 7 or higher \"War Rock\" monster, during Main Phase 1, neither player can activate the effects of monsters on the field. During your Main Phase: You can Set 1 \"War Rock\" Spell/Trap directly from your Deck, except \"War Rock Medium\", also you cannot Special Summon monsters for the rest of this turn, except Warrior monsters. You can only use this effect of \"War Rock Medium\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "War Rock Bashileos",
+        "War Rock Big Blow",
+        "War Rock Dignity",
+        "War Rock Fortia",
+        "War Rock Gactos",
+        "War Rock Generations",
+        "War Rock Mammud",
+        "War Rock Meteoragon",
+        "War Rock Mountain",
+        "War Rock Ordeal",
+        "War Rock Orpis",
+        "War Rock Skyler",
+        "War Rock Spirit",
+        "War Rock Wento"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

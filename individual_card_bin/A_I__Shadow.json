@@ -1,0 +1,40 @@
+{
+    "name": "A.I. Shadow",
+    "filename": "A_I__Shadow",
+    "card_text": "Activate this card by targeting 1 \"@Ignister\" monster you control. That monster gains 800 ATK, also all monsters your opponent controls must attack that monster you control, if able. If this face-up card in its owner's Spell & Trap Zone has left the field because of an opponent's effect, and is now in the GY or banished: Draw 1 card. You can only use this effect of \"A.I. Shadow\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "A.I.dle Reborn",
+        "Achichi @Ignister",
+        "Allied Code Talker @Ignister",
+        "Backup @Ignister",
+        "Bururu @Ignister",
+        "Code Igniter",
+        "Danmari @Ignister",
+        "Dark Infant @Ignister",
+        "Dark Templar @Ignister",
+        "Donyoribo @Ignister",
+        "Doshin @Ignister",
+        "Doyon @Ignister",
+        "Earth Golem @Ignister",
+        "Fire Phoenix @Ignister",
+        "Firewall Saber Dragon",
+        "Gatchiri @Ignister",
+        "Gussari @Ignister",
+        "Hiyari @Ignister",
+        "Kurikurinku @Ignister",
+        "Light Dragon @Ignister",
+        "Linkslayer @Ignister",
+        "Pikari @Ignister",
+        "The Arrival Cyberse @Ignister",
+        "Water Leviathan @Ignister",
+        "Wind Pegasus @Ignister",
+        "Wizard @Ignister"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

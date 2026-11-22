@@ -1,0 +1,21 @@
+{
+    "name": "Empress Judge",
+    "filename": "Empress_Judge",
+    "card_text": "\"Queen's Double\" + \"Hibikime\"",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Hibikime",
+        "Queen's Double"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 1700,
+    "monster_type": "Warrior",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

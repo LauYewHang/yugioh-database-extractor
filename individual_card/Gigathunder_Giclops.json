@@ -11,7 +11,11 @@
     "attack": 1400,
     "defense": 1700,
     "monster_type": "Thunder",
-    "monster_card_type": 5122,
+    "monster_card_type": [
+        "Pendulum",
+        "Tuner",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn: You can target 1 Pendulum Monster you control and 1 monster your opponent controls; change their battle positions.",

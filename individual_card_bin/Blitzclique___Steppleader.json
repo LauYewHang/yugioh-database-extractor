@@ -1,0 +1,23 @@
+{
+    "name": "Blitzclique - Steppleader",
+    "filename": "Blitzclique___Steppleader",
+    "card_text": "If a card(s) is destroyed by your \"Blitzclique\" card's effect (except during the Damage Step): You can target 1 Thunder monster in your GY; add it to your hand. During your Main Phase: You can Special Summon 1 Thunder monster from your hand, then destroy this card. If a card(s) is destroyed by your \"Blitzclique\" card's effect, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use each effect of \"Blitzclique - Steppleader\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Blitzclique - Breakaway",
+        "Blitzclique Alternator",
+        "Blitzclique Overvolt",
+        "Blitzclique Return Stroke",
+        "Crackle Blitzclique",
+        "Emi Blitzclique",
+        "Grain Blitzclique",
+        "Hideout in the Sky, Coulomb",
+        "Surge Blitzclique",
+        "Whisker Blitzclique"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

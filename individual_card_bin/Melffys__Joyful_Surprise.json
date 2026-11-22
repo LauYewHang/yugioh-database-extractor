@@ -1,0 +1,37 @@
+{
+    "name": "Melffys' Joyful Surprise",
+    "filename": "Melffys__Joyful_Surprise",
+    "card_text": "1 \"Melffy\" monster + 1 Beast monster\nIf this card is Fusion Summoned: You can target an equal number of \"Melffy\" cards you control and cards your opponent controls; return them to the hand. If your opponent Normal or Special Summons a monster(s) (except during the Damage Step), or if an opponent's monster targets this card for an attack: You can target 1 Beast monster in your GY; reduce this card's Level by exactly 2, and if you do, Special Summon that target. You can only use each effect of \"Melffys' Joyful Surprise\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Joyous Melffys",
+        "Melffy Catty",
+        "Melffy Fenny",
+        "Melffy Footsteps",
+        "Melffy Godmommy",
+        "Melffy Hide-and-Seek",
+        "Melffy Mommy",
+        "Melffy of the Forest",
+        "Melffy Pinny",
+        "Melffy Playhouse",
+        "Melffy Playtime Surprise",
+        "Melffy Pony",
+        "Melffy Puppy",
+        "Melffy Rabby",
+        "Melffy Rabbys",
+        "Melffy Staring Contest",
+        "Melffy Tag",
+        "Melffy Wally",
+        "Merry Melffys"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2500,
+    "monster_type": "Beast",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

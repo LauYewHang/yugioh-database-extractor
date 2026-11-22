@@ -1,0 +1,13 @@
+{
+    "name": "Hieroglyph Lithograph",
+    "filename": "Hieroglyph_Lithograph",
+    "card_text": "Pay 1000 Life Points. During the current Duel, your hand size limit becomes 7.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "PHARAONIC GUARDIAN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bayonater, the Baneful Barrel",
+    "filename": "Bayonater__the_Baneful_Barrel",
+    "card_text": "Once per turn: You can target 1 face-up monster your opponent controls; it loses 1000 ATK for each monster your opponent controls.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

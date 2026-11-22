@@ -1,0 +1,19 @@
+{
+    "name": "Flame Administrator",
+    "filename": "Flame_Administrator",
+    "card_text": "2 Cyberse monsters\nAll Link Monsters you control gain 800 ATK. You can only control 1 \"Flame Administrator\".",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE",
+        "STRUCTURE DECK: SOULBURNER"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 24
+}

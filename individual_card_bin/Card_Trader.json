@@ -1,0 +1,16 @@
+{
+    "name": "Card Trader",
+    "filename": "Card_Trader",
+    "card_text": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "STRIKE OF NEOS",
+        "STARTER DECK CODEBREAKER",
+        "MACHINA MAYHEM STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Shine Palace",
+    "filename": "Shine_Palace",
+    "card_text": "Equip only to a LIGHT monster. It gains 700 ATK.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

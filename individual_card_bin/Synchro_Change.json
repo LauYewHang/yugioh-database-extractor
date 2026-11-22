@@ -1,0 +1,14 @@
+{
+    "name": "Synchro Change",
+    "filename": "Synchro_Change",
+    "card_text": "Remove from play 1 face-up Synchro Monster you control. Special Summon 1 Synchro Monster from your Extra Deck whose Level is the same as the removed monster's. Its effect(s) is negated.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

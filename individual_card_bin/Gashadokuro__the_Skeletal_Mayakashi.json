@@ -1,0 +1,31 @@
+{
+    "name": "Gashadokuro, the Skeletal Mayakashi",
+    "filename": "Gashadokuro__the_Skeletal_Mayakashi",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 \"Gashadokuro, the Skeletal Mayakashi\". You can only use each of these effects of \"Gashadokuro, the Skeletal Mayakashi\" once per turn.\n\u25cfIf a Link Monster in your possession is destroyed by battle or an opponent's card effect while this card is in the GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card.\n\u25cfIf this card is Special Summoned from the GY: You can activate this effect; this turn, this face-up card is unaffected by other cards' effects.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "HIDDEN SUMMONERS"
+    ],
+    "related_card": [
+        "Dakki, the Graceful Mayakashi",
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Hajun, the Winged Mayakashi",
+        "Mayakashi Mayhem",
+        "Mayakashi Metamorphosis",
+        "Mayakashi Return",
+        "Mayakashi Winter",
+        "Shafu, the Wheeled Mayakashi",
+        "Tsukahagi, the Poisonous Mayakashi",
+        "Yasha, the Skeletal Mayakashi",
+        "Yuki-Musume, the Ice Mayakashi",
+        "Yuki-Onna, the Ice Mayakashi"
+    ],
+    "attribute": "DARK",
+    "attack": 3300,
+    "defense": 2600,
+    "monster_type": "Zombie",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

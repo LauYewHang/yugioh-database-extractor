@@ -1,0 +1,43 @@
+{
+    "name": "Chimera Fusion",
+    "filename": "Chimera_Fusion",
+    "card_text": "During the Main Phase: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a Beast or Fiend monster. During your Main Phase, if this card is in your GY and you have \"Chimera the Flying Mythical Beast\" on your field or in your GY: You can activate 1 of these effects;\n\u25cfAdd this card to your hand.\n\u25cfBanish this card, and if you do, Special Summon both 1 \"Gazelle the King of Mythical Beasts\" and 1 \"Berfomet\" from your Deck and/or GY.\nYou can only use this effect of \"Chimera Fusion\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Berfomet",
+        "Berfomet the Mythical King of Phantom Beasts",
+        "Big-Winged Berfomet",
+        "Chimera the Flying Mythical Beast",
+        "Chimera the Illusion Beast",
+        "Chimera the King of Phantom Beasts",
+        "Cornfield Coatl",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gazelle the King of Mythical Beasts",
+        "Gazelle the King of Mythical Claws",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Mirror Swordknight",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Sentinel of the Seas",
+    "filename": "Sentinel_of_the_Seas",
+    "card_text": "A merman warrior that relentlessly attacks those who pollute the seas with their presence.",
+    "release_date": "2008-05-12",
+    "available_set": [
+        "CHAMPION PACK GAME SIX"
+    ],
+    "related_card": [
+        "Amphibious Bugroth"
+    ],
+    "attribute": "WATER",
+    "attack": 1300,
+    "defense": 1000,
+    "monster_type": "Aqua",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

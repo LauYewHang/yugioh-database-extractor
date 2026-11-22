@@ -1,0 +1,21 @@
+{
+    "name": "Chaos Emperor, the Dragon of Armageddon",
+    "filename": "Chaos_Emperor__the_Dragon_of_Armageddon",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Extra Deck) by banishing 1 LIGHT and 1 DARK monster from your GY. You can only Special Summon \"Chaos Emperor, the Dragon of Armageddon\" once per turn this way. Once per turn: You can pay half your LP; send as many cards you control as possible to the GY, except from the Extra Monster Zone, and if you do, send cards your opponent controls to the GY, up to the number of your cards sent to the GY, then, inflict 300 damage to your opponent for each card sent to their GY by this card's effect. If this face-up Special Summoned card leaves the field, return it to the bottom of the Deck.",
+    "release_date": "2018-09-22",
+    "available_set": [
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2018",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8,
+    "pendulum_effect": "You can pay 1000 LP, then target 1 of your banished Dragon monsters; destroy this card, and if you do, add that monster to your hand. You can only use this effect of \"Chaos Emperor, the Dragon of Armageddon\" once per turn.",
+    "pendulum_scale": 1
+}

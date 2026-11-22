@@ -1,0 +1,37 @@
+{
+    "name": "Heroic Call",
+    "filename": "Heroic_Call",
+    "card_text": "Special Summon 1 Warrior monster from your hand or GY, but if you Special Summoned a non-\"Heroic\" monster by this effect, negate its effects, also it cannot attack. If your LP are 500 or less: You can banish this card from your GY, then target 1 face-up monster you control; it gains 500 ATK for each \"Heroic\" card you currently control, and for each \"Heroic\" card attached to Xyz Monsters you currently control. You can only activate 1 \"Heroic Call\" per turn.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Challenger - Ambush Soldier",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Clasp Sword",
+        "Heroic Challenger - Double Lance",
+        "Heroic Challenger - Extra Sword",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Night Watchman",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Challenger - War Hammer",
+        "Heroic Champion - Claivesolish",
+        "Heroic Champion - Excalibur",
+        "Heroic Champion - Gandiva",
+        "Heroic Champion - Jarngreipr",
+        "Heroic Champion - Kusanagi",
+        "Heroic Champion - Magnum Excalibur",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Gift",
+        "Heroic Retribution Sword",
+        "Number 86: Heroic Champion - Rhongomyniad"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

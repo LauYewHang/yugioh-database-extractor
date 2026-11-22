@@ -1,0 +1,13 @@
+{
+    "name": "Fruits of Kozaky's Studies",
+    "filename": "Fruits_of_Kozaky_s_Studies",
+    "card_text": "Look at the top 3 cards of your Deck and return those cards to the top of the Deck in any order.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "RISE OF DESTINY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

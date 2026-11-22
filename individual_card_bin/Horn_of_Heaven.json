@@ -1,0 +1,20 @@
+{
+    "name": "Horn of Heaven",
+    "filename": "Horn_of_Heaven",
+    "card_text": "When a monster(s) would be Summoned: Tribute 1 monster; negate the Summon, and if you do, destroy that monster(s).",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "DARK BEGINNING 2",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "TOURNAMENT PACK 3RD SEASON",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Harvest Angel of Doom"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

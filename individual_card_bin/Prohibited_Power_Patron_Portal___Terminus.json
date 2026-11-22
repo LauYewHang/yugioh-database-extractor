@@ -1,0 +1,35 @@
+{
+    "name": "Prohibited Power Patron Portal - Terminus",
+    "filename": "Prohibited_Power_Patron_Portal___Terminus",
+    "card_text": "Send 1 \"Power Patron\" monster from your Deck/Extra Deck to the GY, then you can add 1 DARK Fairy monster from your Deck to your hand, also you cannot declare attacks for the rest of this turn, except with \"Power Patron\" monsters. At the start of the Damage Step, if your \"Power Patron\" monster battles an opponent's monster: You can banish this card from your GY; banish (face-down) that opponent's monster. You can only use each effect of \"Prohibited Power Patron Portal - Terminus\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Ars Magna \"Philosophorum\"",
+        "Ars Magna the Corruption and the Purification",
+        "Ars Magna the Division and the Union",
+        "Ars Magna the Finite and the Infinite",
+        "Artmage Power Patron",
+        "Elfnote Power Patron",
+        "Junoldo the Shadespirit Power Patron",
+        "Junora the Power Patron of Tuning",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Mediclius the Extraordinary Power Patron",
+        "Medius the Pure",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Plundered Power Patron Plane - Vidolia",
+        "Power Patron DoomZ",
+        "Power Patron Shade of the Final Hour",
+        "Prohibitive Power Patron Purview - Vilaea",
+        "Purification Power Patron",
+        "Theorealized Medius",
+        "Vidolium the Unstable Power Patron of Unity"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

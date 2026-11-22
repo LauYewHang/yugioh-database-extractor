@@ -1,0 +1,17 @@
+{
+    "name": "Garum the Storm Vassal",
+    "filename": "Garum_the_Storm_Vassal",
+    "card_text": "You can return 1 Tribute Summoned monster you control to the hand; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can add 1 monster with 800 ATK and 1000 DEF from your Deck to your hand, except \"Garum the Storm Vassal\". You can only use each effect of \"Garum the Storm Vassal\" once per turn.",
+    "release_date": "2016-01-29",
+    "available_set": [
+        "EMPEROR OF DARKNESS STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

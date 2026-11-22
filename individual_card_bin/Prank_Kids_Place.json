@@ -1,0 +1,28 @@
+{
+    "name": "Prank-Kids Place",
+    "filename": "Prank_Kids_Place",
+    "card_text": "When this card is activated: You can add 1 \"Prank-Kids\" monster from your Deck to your hand. Once per turn, if you Fusion Summon a \"Prank-Kids\" Fusion Monster (except during the Damage Step): You can have all monsters you control gain 500 ATK (even if this card leaves the field). Once per turn, if you Link Summon a \"Prank-Kids\" Link Monster (except during the Damage Step): You can have all monsters your opponent controls lose 500 ATK (even if this card leaves the field). You can only activate 1 \"Prank-Kids Place\" per turn.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Prank-Kids Battle Butler",
+        "Prank-Kids Bow-Wow-Bark",
+        "Prank-Kids Dodo-Doodle-Doo",
+        "Prank-Kids Dropsies",
+        "Prank-Kids Fansies",
+        "Prank-Kids Lampsies",
+        "Prank-Kids Meow-Meow-Mu",
+        "Prank-Kids Pandemonium",
+        "Prank-Kids Plan",
+        "Prank-Kids Pranks",
+        "Prank-Kids Rip-Roarin-Roaster",
+        "Prank-Kids Rocket Ride",
+        "Prank-Kids Rocksies",
+        "Prank-Kids Weather Washer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

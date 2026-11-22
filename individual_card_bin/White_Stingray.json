@@ -1,0 +1,20 @@
+{
+    "name": "White Stingray",
+    "filename": "White_Stingray",
+    "card_text": "You can Special Summon this card (from your hand) by discarding 1 WATER monster. You can only Special Summon \"White Stingray\" once per turn this way. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn. You can only use this effect of \"White Stingray\" once per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "White Reincarnation"
+    ],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 1000,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

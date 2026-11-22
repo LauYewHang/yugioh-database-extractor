@@ -1,0 +1,31 @@
+{
+    "name": "Evil Eye of Gorgoneio",
+    "filename": "Evil_Eye_of_Gorgoneio",
+    "card_text": "Equip only to an \"Evil Eye\" monster. You can only activate 1 \"Evil Eye of Gorgoneio\" per turn. This card's name becomes \"Evil Eye of Selene\" while in the Spell & Trap Zone. While your LP are lower than your opponent's, the equipped monster gains ATK equal to the difference. You can banish this card from your GY and discard 1 \"Evil Eye\" card; add 1 \"Evil Eye\" Spell/Trap from your Deck to your hand, except \"Evil Eye of Gorgoneio\". You can only use this effect of \"Evil Eye of Gorgoneio\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Basilius, Familiar of the Evil Eye",
+        "Basiltrice, Familiar of the Evil Eye",
+        "Catoblepas, Familiar of the Evil Eye",
+        "Evil Eye Awakening",
+        "Evil Eye Confrontation",
+        "Evil Eye Defeat",
+        "Evil Eye Domain - Pareidolia",
+        "Evil Eye Mesmerism",
+        "Evil Eye of Selene",
+        "Evil Eye Reemergence",
+        "Evil Eye Repose",
+        "Evil Eye Retribution",
+        "Evil Eyes Unleashed",
+        "Gorgon, Empress of the Evil Eyed",
+        "Medusa, Watcher of the Evil Eye",
+        "Serziel, Watcher of the Evil Eye",
+        "Zerrziel, Ruler of the Evil Eyed"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

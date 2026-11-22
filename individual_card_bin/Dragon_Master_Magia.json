@@ -1,0 +1,42 @@
+{
+    "name": "Dragon Master Magia",
+    "filename": "Dragon_Master_Magia",
+    "card_text": "\"Blue-Eyes Ultimate Dragon\" or 3 \"Blue-Eyes\" monsters + 1 \"Chaos\" or \"Black Luster Soldier\" Ritual Monster\nMust be Fusion Summoned. When your opponent activates a card or effect (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use this effect of \"Dragon Master Magia\" in response to each card type (Monster, Spell, or Trap) once per turn. If this face-up card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 \"Blue-Eyes\" monster or 1 \"Chaos\" or \"Black Luster Soldier\" Ritual Monster from your Extra Deck or GY.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Blue-Eyes Abyss Dragon",
+        "Blue-Eyes Alternative Ultimate Dragon",
+        "Blue-Eyes Alternative White Dragon",
+        "Blue-Eyes Chaos Dragon",
+        "Blue-Eyes Chaos MAX Dragon",
+        "Blue-Eyes Jet Dragon",
+        "Blue-Eyes Shining Dragon",
+        "Blue-Eyes Solid Dragon",
+        "Blue-Eyes Spirit Dragon",
+        "Blue-Eyes Toon Dragon",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Blue-Eyes Twin Burst Dragon",
+        "Blue-Eyes Tyrant Dragon",
+        "Blue-Eyes Ultimate Dragon",
+        "Blue-Eyes Ultimate Spirit Dragon",
+        "Blue-Eyes White Dragon",
+        "Blue-Eyes White Dragon, the White Phantom Beast",
+        "Deep-Eyes White Dragon, the Blue Abyss",
+        "Dragon Spirit of White",
+        "Heart of the Blue-Eyes",
+        "Malefic Blue-Eyes White Dragon",
+        "Neo Blue-Eyes Ultimate Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 5000,
+    "defense": 4000,
+    "monster_type": "Dragon",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

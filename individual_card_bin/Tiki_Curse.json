@@ -1,0 +1,15 @@
+{
+    "name": "Tiki Curse",
+    "filename": "Tiki_Curse",
+    "card_text": "Special Summon this card as an Effect Monster (Rock/DARK/Level 4/ATK 1800/DEF 1000) (this card is also still a Trap). While this card is an Effect Monster, if another Trap Card that is a monster battles an opponent's monster, after damage calculation: Destroy that opponent's monster.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "GOLD SERIES HAUNTED MINE",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STORM OF RAGNAROK",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

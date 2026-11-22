@@ -1,0 +1,12 @@
+{
+    "name": "Bubble Bringer",
+    "filename": "Bubble_Bringer",
+    "card_text": "Level 4 or higher monsters cannot attack directly. During your turn: You can send this face-up card from the field to the Graveyard to target 2 Level 3 or lower WATER monsters with the same name in your Graveyard; Special Summon those targets. Their effects are negated.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

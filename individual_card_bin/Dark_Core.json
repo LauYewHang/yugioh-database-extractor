@@ -1,0 +1,16 @@
+{
+    "name": "Dark Core",
+    "filename": "Dark_Core",
+    "card_text": "Discard 1 card, then target 1 face-up monster on the field; banish that target.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "MAGICIAN'S FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

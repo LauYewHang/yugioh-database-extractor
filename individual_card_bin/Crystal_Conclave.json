@@ -1,0 +1,36 @@
+{
+    "name": "Crystal Conclave",
+    "filename": "Crystal_Conclave",
+    "card_text": "Once per turn, if a face-up \"Crystal Beast\" monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Crystal Beast\" monster from your Deck. You can send this face-up card from the field to the GY, then target 1 \"Crystal Beast\" card you control and 1 card on the field; return them to the hand. You cannot activate these effects in the same Chain.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "FLAMES OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Crystal Master",
+        "Golden Rule",
+        "Rainbow Bridge",
+        "Rainbow Bridge of the Heart"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

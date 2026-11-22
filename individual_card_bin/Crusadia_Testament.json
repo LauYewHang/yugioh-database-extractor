@@ -1,0 +1,28 @@
+{
+    "name": "Crusadia Testament",
+    "filename": "Crusadia_Testament",
+    "card_text": "Activate 1 of these effects.\n\u25cfYour opponent cannot activate cards or effects in response to the activation of your \"Crusadia\" monster effects this turn.\n\u25cfAfter damage calculation, if your \"Crusadia\" Link Monster destroys an opponent's monster by battle: Draw cards equal to your monster's Link Rating.\nYou can only activate 1 \"Crusadia Testament\" per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Crusadia Arboria",
+        "Crusadia Draco",
+        "Crusadia Equimax",
+        "Crusadia Krawler",
+        "Crusadia Leonis",
+        "Crusadia Magius",
+        "Crusadia Maximus",
+        "Crusadia Power",
+        "Crusadia Reclusia",
+        "Crusadia Regulex",
+        "Crusadia Revival",
+        "Crusadia Spatha",
+        "Crusadia Vanguard",
+        "Mekk-Knight Crusadia Avramax"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

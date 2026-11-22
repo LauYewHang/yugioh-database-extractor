@@ -1,0 +1,30 @@
+{
+    "name": "Malefic World",
+    "filename": "Malefic_World",
+    "card_text": "While this card is face-up on the field, you can activate this effect instead of conducting a normal draw during your Draw Phase. Choose 3 \"Malefic\" cards from your Deck and have your opponent pick 1 of them at random to add to your hand. Shuffle the rest back into your Deck.",
+    "release_date": "2011-02-22",
+    "available_set": [
+        "Yu-Gi-Oh! 3D BONDS BEYOND TIME MOVIE PACK"
+    ],
+    "related_card": [
+        "Malefic Blue-Eyes White Dragon",
+        "Malefic Claw Stream",
+        "Malefic Cyber End Dragon",
+        "Malefic Divide",
+        "Malefic Force",
+        "Malefic Paradigm Dragon",
+        "Malefic Paradigm Shift",
+        "Malefic Paradox Dragon",
+        "Malefic Paradox Gear",
+        "Malefic Parallel Gear",
+        "Malefic Rainbow Dragon",
+        "Malefic Red-Eyes Black Dragon (Updated from: Malefic Red-Eyes B. Dragon)",
+        "Malefic Selector",
+        "Malefic Stardust Dragon",
+        "Malefic Territory",
+        "Malefic Truth Dragon",
+        "Malefic Tune"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

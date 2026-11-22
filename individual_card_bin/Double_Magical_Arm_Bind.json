@@ -1,0 +1,13 @@
+{
+    "name": "Double Magical Arm Bind",
+    "filename": "Double_Magical_Arm_Bind",
+    "card_text": "Tribute 2 monsters, then target 2 face-up monsters your opponent controls; take control of both targets until your End Phase.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

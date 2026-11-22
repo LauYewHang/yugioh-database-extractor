@@ -38,7 +38,10 @@
     "attack": 1500,
     "defense": 1500,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "When a monster declares an attack: You can discard 1 card; Special Summon this card to your opponent's field. You can only use this effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",

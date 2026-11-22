@@ -1,0 +1,35 @@
+{
+    "name": "Rank-Up-Magic Magical Force",
+    "filename": "Rank_Up_Magic_Magical_Force",
+    "card_text": "Target 1 Rank 4 Spellcaster Xyz Monster in your GY; Special Summon it (but negate its effects), then Special Summon 1 Rank 5 Spellcaster Xyz Monster from your Extra Deck, by using it as material, and if you do, attach this card to the Summoned monster (this is treated as an Xyz Summon). You can only activate 1 \"Rank-Up-Magic Magical Force\" per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Barian Untopia",
+        "Gimmick Puppet Fantasix Machinix",
+        "Number 71: Rebarian Shark",
+        "Number 99: Utopic Dragon",
+        "Number C88: Gimmick Puppet Disaster Leo",
+        "Number S0: Utopic ZEXAL",
+        "Performage Shadow Maker",
+        "Puppet Parade",
+        "Raider's Unbreakable Mind",
+        "Raidraptor - Brave Strix",
+        "Raidraptor - Necro Vulture",
+        "Raidraptor - Revolution Falcon - Air Raid",
+        "Raidraptor - Tribute Lanius",
+        "Raidraptor - Wise Strix",
+        "Rank-Up-Magic Raid Force",
+        "Raptor's Ultimate Mace",
+        "Resurgam Xyz",
+        "Seventh Ascension",
+        "Seventh Force",
+        "The Phantom Knights of Malevolent Scythe",
+        "Zexal Construction",
+        "ZS - Ascended Sage"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Mathmech Superfactorial",
+    "filename": "Mathmech_Superfactorial",
+    "card_text": "Target up to 3 \"Mathmech\" monsters in your GY with different names, then activate 1 of these effects;\n\u25cfSpecial Summon them, but their effects are negated, then, immediately after this effect resolves, Synchro Summon 1 \"Mathmech\" Synchro Monster using only those monsters, and shuffle the materials into the Deck instead of sending them to the GY.\n\u25cfSpecial Summon them, but their effects are negated, then, immediately after this effect resolves, Xyz Summon 1 \"Mathmech\" Xyz Monster using only those monsters.\nYou can only activate 1 \"Mathmech Superfactorial\" per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Geomathmech Final Sigma",
+        "Geomathmech Magma",
+        "Mathmech Addition",
+        "Mathmech Billionblade Nayuta",
+        "Mathmech Circular",
+        "Mathmech Diameter",
+        "Mathmech Division",
+        "Mathmech Equation",
+        "Mathmech Induction",
+        "Mathmech Multiplication",
+        "Mathmech Nabla",
+        "Mathmech Sigma",
+        "Mathmech Subtraction",
+        "Primathmech Alembertian",
+        "Primathmech Laplacian"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

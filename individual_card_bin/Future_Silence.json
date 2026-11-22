@@ -1,0 +1,27 @@
+{
+    "name": "Future Silence",
+    "filename": "Future_Silence",
+    "card_text": "Add 1 monster that mentions \"Shining Sarcophagus\" from your Deck to your hand, then, if you activated this card during the Battle Phase while you controlled \"Shining Sarcophagus\" and a monster that mentions it, each player draws until they have 6 cards in their hand. You can only activate 1 \"Future Silence\" per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Archfiend's Advent",
+        "Dark Magic Mirror Force",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician the Magician of Black Magic",
+        "Gadget Trio",
+        "Gandora-G the Dragon of Destruction",
+        "Moremarshmallon",
+        "Shining Sarcophagus",
+        "Silent Magician Zero",
+        "Silent Swordsman Zero",
+        "Stronghold the Hidden Fortress",
+        "Ties That Bind",
+        "Turn Silence"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

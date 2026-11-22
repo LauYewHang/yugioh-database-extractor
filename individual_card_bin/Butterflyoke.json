@@ -1,0 +1,15 @@
+{
+    "name": "Butterflyoke",
+    "filename": "Butterflyoke",
+    "card_text": "When an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position, and if you do, equip this card to that monster. Once per turn, during either player's Main Phase or Battle Phase: You can change the equipped monster's Battle Position.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "GALACTIC OVERLORD",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -29,7 +29,10 @@
     "attack": 2800,
     "defense": 1000,
     "monster_type": "Machine",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "You cannot Special Summon monsters, except \"Qli\" monsters. This effect cannot be negated. All \"Qli\" monsters you control gain 300 ATK.",

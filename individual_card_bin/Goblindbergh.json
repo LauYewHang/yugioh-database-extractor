@@ -1,0 +1,38 @@
+{
+    "name": "Goblindbergh",
+    "filename": "Goblindbergh",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, also, after that, change this card to Defense Position.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "STARTER DECK XYZ SYMPHONY",
+        "GENERATION FORCE",
+        "SUPER STARTER V FOR VICTORY",
+        "MASTER OF PENDULUM STRUCTURE DECK",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "STAR PACK 2013",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

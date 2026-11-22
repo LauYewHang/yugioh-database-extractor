@@ -1,0 +1,26 @@
+{
+    "name": "Triamid Dancer",
+    "filename": "Triamid_Dancer",
+    "card_text": "Once per turn: You can target 1 \"Triamid\" card in your Graveyard; shuffle it into the Deck, and if you do, all Rock-Type monsters you control gain 500 ATK and DEF. Once per turn, during your opponent's turn: You can target 1 \"Triamid\" Field Spell Card in your Field Zone; send it to the Graveyard, and if you do, activate 1 \"Triamid\" Field Spell Card from your Deck with a different name (this is a Quick Effect).",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Triamid Cruiser",
+        "Triamid Fortress",
+        "Triamid Hunter",
+        "Triamid Kingolem",
+        "Triamid Loading",
+        "Triamid Master",
+        "Triamid Pulse",
+        "Triamid Sphinx"
+    ],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": 1900,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

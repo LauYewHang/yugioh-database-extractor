@@ -1,0 +1,24 @@
+{
+    "name": "Kuribon the Fairy Spirit",
+    "filename": "Kuribon_the_Fairy_Spirit",
+    "card_text": "If you control \"Ancient Fairy Dragon\" or a LIGHT monster (Beast, Plant, or Fairy): You can Special Summon this card from your hand, and if you do, it is treated as a Tuner. If another card(s) you control, that is \"Ancient Fairy Dragon\" or a monster(s) that mentions it, would be destroyed by card effect, you can return this card you control to the hand instead. You can only use each effect of \"Kuribon the Fairy Spirit\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Ancient Fairy Dragon",
+        "Ancient Fairy Life Dragon",
+        "Eternal Sunshine",
+        "Regulus the Fairy Beast",
+        "Spore the Fairy Seed",
+        "World of Spirits"
+    ],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

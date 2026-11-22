@@ -1,0 +1,18 @@
+{
+    "name": "Starry Knight Blast",
+    "filename": "Starry_Knight_Blast",
+    "card_text": "When your opponent activates a card or effect: Return 1 Level 7 LIGHT Dragon monster you control to the hand; negate that effect, and if you do, destroy that card. You can only activate \"Starry Knight Blast\" once per turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Starry Knight Balefire",
+        "Starry Knight Ciel",
+        "Starry Knight Orbitael",
+        "Starry Knight Rayel",
+        "Starry Knight Sky"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

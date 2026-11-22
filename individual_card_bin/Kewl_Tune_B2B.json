@@ -1,0 +1,26 @@
+{
+    "name": "Kewl Tune B2B",
+    "filename": "Kewl_Tune_B2B",
+    "card_text": "1 Tuner + 1+ Synchro Monsters\nThe Levels of monsters your opponent controls are increased by 2. Your Tuners can make a second attack during each Battle Phase. When your opponent activates a monster effect (Quick Effect): You can target 1 Tuner in your GY or banishment, except a Level 10 Tuner; add it to your hand or Special Summon it, then immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster. You can only use this effect of \"Kewl Tune B2B\" twice per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "JJ \"Kewl Tune\"",
+        "Kewl Tune Loudness War",
+        "Kewl Tune Mix",
+        "Kewl Tune Playlist",
+        "Kewl Tune Reco",
+        "Kewl Tune Rotary",
+        "Kewl Tune Synchro",
+        "Kewl Tune Track Maker"
+    ],
+    "attribute": "DARK",
+    "attack": 3200,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": 1042,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

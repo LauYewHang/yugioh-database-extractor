@@ -1,0 +1,21 @@
+{
+    "name": "Interplanetarypurplythorny Dragon",
+    "filename": "Interplanetarypurplythorny_Dragon",
+    "card_text": "If a monster you control is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon this card from your hand.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "STRUCTURE DECK : SETO KAIBA",
+        "ORDER OF CHAOS",
+        "STARTER DECK KAIBA RELOADED",
+        "ASTRAL PACK TWO",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1100,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Machina Redeployment",
+    "filename": "Machina_Redeployment",
+    "card_text": "Activate 1 of these effects.\n\u25cfDiscard 1 card; add 2 \"Machina\" monsters with different names from each other from your Deck to your hand.\n\u25cfDiscard 1 \"Machina\" card; add 2 \"Machina\" cards with different names from each other from your Deck to your hand, except \"Machina Redeployment\".\nYou can only activate 1 \"Machina Redeployment\" per turn.",
+    "release_date": "2020-04-17",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS"
+    ],
+    "related_card": [
+        "Machina Air Raider",
+        "Machina Armored Unit",
+        "Machina Cannon",
+        "Machina Citadel",
+        "Machina Defender",
+        "Machina Defense Perimeter",
+        "Machina Force",
+        "Machina Fortress",
+        "Machina Gearframe",
+        "Machina Irradiator",
+        "Machina Megaform",
+        "Machina Metalcruncher",
+        "Machina Overdrive",
+        "Machina Peacekeeper",
+        "Machina Possesstorage",
+        "Machina Resavenger",
+        "Machina Ruinforce",
+        "Machina Sniper",
+        "Machina Soldier",
+        "Machina Unclaspare"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

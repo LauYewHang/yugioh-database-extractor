@@ -1,0 +1,24 @@
+{
+    "name": "Mirror Force Dragon",
+    "filename": "Mirror_Force_Dragon",
+    "card_text": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\". When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step): You can destroy all cards your opponent controls.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "LEGENDARY DRAGON DECKS",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Mirror Force",
+        "The Fang of Critias"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

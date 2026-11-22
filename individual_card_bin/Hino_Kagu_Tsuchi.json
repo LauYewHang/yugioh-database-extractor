@@ -1,0 +1,20 @@
+{
+    "name": "Hino-Kagu-Tsuchi",
+    "filename": "Hino_Kagu_Tsuchi",
+    "card_text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. If this card inflicts battle damage to your opponent: They discard their entire hand during the Draw Phase of the next turn, before the turn player draws.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "RETRO PACK 2",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 2900,
+    "monster_type": "Pyro",
+    "monster_card_type": 130,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

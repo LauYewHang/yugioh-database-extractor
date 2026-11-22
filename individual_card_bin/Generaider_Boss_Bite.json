@@ -1,0 +1,30 @@
+{
+    "name": "Generaider Boss Bite",
+    "filename": "Generaider_Boss_Bite",
+    "card_text": "Tribute any number of \"Generaider\" monsters, then target 1 face-up Xyz Monster you control; attach exactly that many \"Generaider\" monsters from your hand, field, and/or GY to it, except the monsters Tributed to activate this effect. You can only activate 1 \"Generaider Boss Bite\" per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Dovelgus, Generaider Boss of Iron",
+        "Frodi, Generaider Boss of Swords",
+        "Generaider Boss Fight",
+        "Generaider Boss Loot",
+        "Generaider Boss Quest",
+        "Generaider Boss Room",
+        "Generaider Boss Stage",
+        "Harr, Generaider Boss of Storms",
+        "Hela, Generaider Boss of Doom",
+        "Jormungandr, Generaider Boss of Eternity",
+        "Laevatein, Generaider Boss of Shadows",
+        "Loptr, Shadow of the Generaider Bosses",
+        "Mardel, Generaider Boss of Light",
+        "Naglfar, Generaider Boss of Fire",
+        "Nidhogg, Generaider Boss of Ice",
+        "Utgarda, Generaider Boss of Delusion",
+        "Vala, Seidhr of the Generaider Bosses"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

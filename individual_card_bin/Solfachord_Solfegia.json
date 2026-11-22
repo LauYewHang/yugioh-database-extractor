@@ -1,0 +1,39 @@
+{
+    "name": "Solfachord Solfegia",
+    "filename": "Solfachord_Solfegia",
+    "card_text": "If you control no monsters, or all monsters you control are \"Solfachord\" monsters: You can Special Summon this card from your hand. During your Main Phase: You can activate this effect (you can also Tribute this card); Special Summon 1 \"Solfachord\" monster from your hand, except \"Solfachord Solfegia\", or, if you Tributed this card when you activated this effect, you can Special Summon from your face-up Extra Deck or GY instead. You can only use each effect of \"Solfachord Solfegia\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "MAGNIFICENT MONSTERS",
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "DoSolfachord Coolia",
+        "DoSolfachord Cutia",
+        "FaSolfachord Fancia",
+        "GranSolfachord Coolia",
+        "GranSolfachord Musecia",
+        "LaSolfachord Angelia",
+        "MiSolfachord Eliteia",
+        "ReSolfachord Dreamia",
+        "Solfachord Elegance",
+        "Solfachord Formal",
+        "Solfachord Happiness",
+        "Solfachord Harmonia",
+        "Solfachord Musica",
+        "Solfachord Primoa",
+        "Solfachord Scale",
+        "Solfachord Symphony",
+        "SolSolfachord Gracia",
+        "TiSolfachord Beautia"
+    ],
+    "attribute": "LIGHT",
+    "attack": 400,
+    "defense": 400,
+    "monster_type": "Fairy",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2,
+    "pendulum_effect": "When your opponent's monster effect activated on the field resolves, if you control a \"GranSolfachord\" monster, you can negate that effect, then destroy this card. You can only use this effect of \"Solfachord Solfegia\" once per turn.",
+    "pendulum_scale": 9
+}

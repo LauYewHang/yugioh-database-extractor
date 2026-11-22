@@ -1,0 +1,18 @@
+{
+    "name": "Salamandra",
+    "filename": "Salamandra",
+    "card_text": "Equip only to a FIRE monster. It gains 700 ATK.",
+    "release_date": "2002-03-19",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "Yu-Gi-Oh! Dark Duel Stories Bundles",
+        "LEGENDARY DECKS II",
+        "DUELIST LEAGUE 15",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Salamandra, the Flying Flame Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

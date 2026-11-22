@@ -1,0 +1,35 @@
+{
+    "name": "Artifact Lancea",
+    "filename": "Artifact_Lancea",
+    "card_text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your GY: Special Summon it. During your opponent's turn (Quick Effect): You can Tribute this card from your hand or face-up field; neither player can banish cards for the rest of this turn.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "2015 MEGA-TINS MEGA PACK",
+        "Gold Series: Maximum Gold",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "Duel Devastator",
+        "OTS TOURNAMENT PACK 4"
+    ],
+    "related_card": [
+        "Artifact Achilleshield",
+        "Artifact Aegis",
+        "Artifact Caduceus",
+        "Artifact Dagda",
+        "Artifact Failnaught",
+        "Artifact Ignition",
+        "Artifact Labrys",
+        "Artifact Mjollnir",
+        "Artifact Sanctum",
+        "Artifacts Unleashed"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 2300,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

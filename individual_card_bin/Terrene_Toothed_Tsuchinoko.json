@@ -1,0 +1,17 @@
+{
+    "name": "Terrene Toothed Tsuchinoko",
+    "filename": "Terrene_Toothed_Tsuchinoko",
+    "card_text": "When this card is Special Summoned: Change all other Special Summoned monsters on the field to face-down Defense Position. You can only use the effect of \"Terrene Toothed Tsuchinoko\" once per turn.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 500,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

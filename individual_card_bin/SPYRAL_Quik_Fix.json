@@ -1,0 +1,35 @@
+{
+    "name": "SPYRAL Quik-Fix",
+    "filename": "SPYRAL_Quik_Fix",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"SPYRAL GEAR\" card from your Deck to your hand. If this card is in your GY and you control \"SPYRAL Super Agent\": You can discard 1 card; Special Summon this card, but banish it when it leaves the field.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION",
+        "OTS TOURNAMENT PACK 5",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "SPYRAL Double Agent",
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 400,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

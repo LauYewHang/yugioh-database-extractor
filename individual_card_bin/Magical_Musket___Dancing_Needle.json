@@ -1,0 +1,27 @@
+{
+    "name": "Magical Musket - Dancing Needle",
+    "filename": "Magical_Musket___Dancing_Needle",
+    "card_text": "If you control a \"Magical Musket\" monster: Target up to 3 cards in the GYs; banish them. You can only activate 1 \"Magical Musket - Dancing Needle\" per turn.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Desperado",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Starfire",
+        "Magical Musketeer Wild"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

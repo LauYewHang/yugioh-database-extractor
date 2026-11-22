@@ -1,0 +1,21 @@
+{
+    "name": "Outer Entity Nyarla",
+    "filename": "Outer_Entity_Nyarla",
+    "card_text": "2 Level 4 monsters\nWhen this card is Xyz Summoned: You can discard any number of cards; increase this card's Rank by the number of discarded cards. Once per turn, while this card has Xyz Material: You can target 1 monster in your GY; detach all materials from this card, and if you do, attach that target to this card as material. When a monster is attached by this effect, this card's Type and Attribute become the same as that monster's original Type and Attribute.",
+    "release_date": "2018-08-17",
+    "available_set": [
+        "SHADOWS IN VALHALLA",
+        "LEGENDARY ARC-V DECKS"
+    ],
+    "related_card": [
+        "Forbidden Trapezohedron",
+        "Outer Entity Azathot"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2600,
+    "monster_type": "Fiend",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

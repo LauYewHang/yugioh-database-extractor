@@ -1,0 +1,27 @@
+{
+    "name": "Adamancipator Friends",
+    "filename": "Adamancipator_Friends",
+    "card_text": "Excavate the top cards of your Deck equal to the number of Rock monsters you control +5, and if you do, you can add to your hand 1 excavated Rock monster with a Level equal to or lower than the number of the excavated cards, also place the remaining cards on the bottom of your Deck in any order. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except Rock monsters.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Adamancipator Conductor",
+        "Adamancipator Crystal - Dragite",
+        "Adamancipator Crystal - Leonite",
+        "Adamancipator Crystal - Raptite",
+        "Adamancipator Crystal - Tiamite",
+        "Adamancipator Laputite",
+        "Adamancipator Mates",
+        "Adamancipator Relief",
+        "Adamancipator Resonance",
+        "Adamancipator Risen - Leonite",
+        "Adamancipator Risen - Tiamite",
+        "Adamancipator Seeker",
+        "Adamancipator Signs"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

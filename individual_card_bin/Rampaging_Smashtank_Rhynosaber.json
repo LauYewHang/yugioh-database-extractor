@@ -1,0 +1,28 @@
+{
+    "name": "Rampaging Smashtank Rhynosaber",
+    "filename": "Rampaging_Smashtank_Rhynosaber",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards; this card gains 700 ATK for each card discarded. At the end of the Battle Phase, if this card battled: You can send this card to the GY; Special Summon monsters from your GY whose total Levels equal 7, except \"Rampaging Smashtank Rhynosaber\", but their effects are negated. You can only use each effect of \"Rampaging Smashtank Rhynosaber\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "2-PLAYER STARTER SET",
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Commander Gottoms, Swordmaster",
+        "Commander Souza, Swordmaster",
+        "Saber Reflection",
+        "X-Saber Axel",
+        "X-Saber Bruno",
+        "X-Saber Galahad",
+        "X-Saber Gottoms",
+        "X-Saber Palomuro"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

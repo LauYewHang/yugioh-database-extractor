@@ -1,0 +1,18 @@
+{
+    "name": "Spiritual Wind Art - Miyabi",
+    "filename": "Spiritual_Wind_Art___Miyabi",
+    "card_text": "Tribute 1 WIND monster, then target 1 card your opponent controls; place that opponent's card on the bottom of the Deck.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION",
+        "ASTRAL PACK SEVEN"
+    ],
+    "related_card": [
+        "Awakening of the Possessed - Rasenryu"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

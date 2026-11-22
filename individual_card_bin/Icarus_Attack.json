@@ -1,0 +1,24 @@
+{
+    "name": "Icarus Attack",
+    "filename": "Icarus_Attack",
+    "card_text": "Tribute 1 Winged Beast monster, then target 2 cards on the field; destroy them.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "Legendary 5D's Decks",
+        "PREMIUM GOLD",
+        "GOLD SERIES 3",
+        "QUARTER CENTURY BONANZA",
+        "DUELIST LEAGUE 2",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "BATTLE PACK TOURNAMENT",
+        "OTS TOURNAMENT PACK 14",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "DARK REVELATION Volume 4",
+        "ENEMY OF JUSTICE",
+        "DUEL TERMINAL 4",
+        "WING RAIDERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

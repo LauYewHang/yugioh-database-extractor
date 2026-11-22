@@ -1,0 +1,28 @@
+{
+    "name": "Beetrooper Fly & Sting",
+    "filename": "Beetrooper_Fly___Sting",
+    "card_text": "When your opponent activates a monster effect, while you control a \"Beetrooper\" monster: Negate the activation, and if you do, destroy it. During your End Phase, if this card is in your GY and you control an Insect monster with 3000 or more ATK: You can banish 1 Insect monster from your GY; Set this card. You can only use 1 \"Beetrooper Fly & Sting\" effect per turn, and only once that turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Beetrooper Armor Horn",
+        "Beetrooper Assault Roller",
+        "Beetrooper Cruel Saturnas",
+        "Beetrooper Descent",
+        "Beetrooper Formation",
+        "Beetrooper Landing",
+        "Beetrooper Light Flapper",
+        "Beetrooper Scale Bomber",
+        "Beetrooper Scout Buggy",
+        "Beetrooper Squad",
+        "Beetrooper Sting Lancer",
+        "Giant Beetrooper Invincible Atlas",
+        "Heavy Beetrooper Mighty Neptune",
+        "Ultra Beetrooper Absolute Hercules"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

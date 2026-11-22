@@ -1,0 +1,21 @@
+{
+    "name": "Chow Len the Prophet",
+    "filename": "Chow_Len_the_Prophet",
+    "card_text": "Once per turn: You can declare either Spell or Trap, then target 1 Set card in your opponent's Spell & Trap Zone; look at that target, and if it is the declared card type, that card cannot be activated this turn.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "ORDER OF CHAOS",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

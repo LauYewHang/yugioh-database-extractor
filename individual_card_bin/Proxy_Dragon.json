@@ -1,0 +1,17 @@
+{
+    "name": "Proxy Dragon",
+    "filename": "Proxy_Dragon",
+    "card_text": "2 monsters\nIf a card(s) you control would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to, instead.",
+    "release_date": "2017-08-25",
+    "available_set": [
+        "2017 MEGA-TINS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 80
+}

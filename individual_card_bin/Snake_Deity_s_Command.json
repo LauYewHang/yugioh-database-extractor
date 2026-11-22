@@ -1,0 +1,27 @@
+{
+    "name": "Snake Deity's Command",
+    "filename": "Snake_Deity_s_Command",
+    "card_text": "Activate by showing your opponent 1 \"Venom\" monster in your hand. Negate the activation and effect of an opponent's Spell Card, and destroy it.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Greedy Venom Fusion Dragon",
+        "Odd-Eyes Venom Dragon",
+        "Starving Venom Fusion Dragon",
+        "Starving Venom Fusion Dragon, Four Heavenly Dragons",
+        "Starving Venom Predapower Fusion Dragon",
+        "Starving Venom Wing Dragon",
+        "Supreme King Dragon Starving Venom",
+        "Venom Boa",
+        "Venom Burn",
+        "Venom Cobra",
+        "Venom Serpent",
+        "Venom Shot",
+        "Venom Snake",
+        "Venom Swamp"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Jar Robber",
+    "filename": "Jar_Robber",
+    "card_text": "You can only activate this card when \"Pot of Greed\" is activated. Negate the effect of the \"Pot of Greed\" and draw 1 card from your Deck.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "MAGICIAN'S FORCE"
+    ],
+    "related_card": [
+        "Pot of Greed"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

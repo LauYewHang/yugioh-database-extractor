@@ -1,0 +1,28 @@
+{
+    "name": "Recoded Alive",
+    "filename": "Recoded_Alive",
+    "card_text": "Target 1 Link-3 Cyberse Link Monster you control or in your GY; banish it, and if you do, Special Summon 1 \"Code Talker\" monster from your Extra Deck. If you control no monsters in the Extra Monster Zone: You can banish this card from your GY, then target 1 of your banished \"Code Talker\" monsters; Special Summon it.",
+    "release_date": "2017-11-03",
+    "available_set": [
+        "STRUCTURE DECK : CYBERSE LINK",
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Accesscode Talker",
+        "Allied Code Talker @Ignister",
+        "Code Talker",
+        "Code Talker Inverted",
+        "Decode Talker",
+        "Decode Talker Extended",
+        "Decode Talker Heatsoul",
+        "Decode Talker Integration",
+        "Encode Talker",
+        "Excode Talker",
+        "Powercode Talker",
+        "Protectcode Talker",
+        "Shootingcode Talker",
+        "Transcode Talker"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Catche Eve L2",
+    "filename": "Catche_Eve_L2",
+    "card_text": "If this card is in your hand: You can target 1 Level 3 or higher monster you control; reduce its Level by exactly 2, and if you do, Special Summon this card. You can only use this effect of \"Catche Eve L2\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 600,
+    "monster_type": "Cyberse",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

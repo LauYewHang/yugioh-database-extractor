@@ -1,0 +1,17 @@
+{
+    "name": "Dimension Guardian",
+    "filename": "Dimension_Guardian",
+    "card_text": "Activate this card by targeting 1 face-up Attack Position monster you control. It cannot be destroyed by battle or card effects. If the targeted monster leaves the field, destroy this card.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

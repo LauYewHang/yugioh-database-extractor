@@ -1,0 +1,33 @@
+{
+    "name": "Eye of the Void",
+    "filename": "Eye_of_the_Void",
+    "card_text": "Special Summon 1 \"Infernoid\" monster from your hand, ignoring its Summoning conditions, but its effects are negated until the end of this turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "El Shaddoll Meshachrer",
+        "Infernity Pawn",
+        "Infernoid Antra",
+        "Infernoid Attondel",
+        "Infernoid Decatron",
+        "Infernoid Devyaty",
+        "Infernoid Evil",
+        "Infernoid Flood",
+        "Infernoid Harmadik",
+        "Infernoid Onuncu",
+        "Infernoid Patrulea",
+        "Infernoid Piaty",
+        "Infernoid Pirmais",
+        "Infernoid Seitsemas",
+        "Infernoid Sjette",
+        "Infernoid Tierra",
+        "Void Feast",
+        "Void Reignition",
+        "Void Vanishment"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

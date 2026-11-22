@@ -1,0 +1,19 @@
+{
+    "name": "Imperial Order",
+    "filename": "Imperial_Order",
+    "card_text": "Negate all Spell effects on the field. Once per turn, during the Standby Phase, you must pay 700 LP (this is not optional), or this card is destroyed.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "STRUCTURE DECK: ROKKET REVOLT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "PHARAOH'S SERVANT",
+        "OTS TOURNAMENT PACK 9",
+        "QUARTER CENTURY BONANZA",
+        "DARK BEGINNING 1",
+        "DUELIST SAGA",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

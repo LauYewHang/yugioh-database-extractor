@@ -1,0 +1,36 @@
+{
+    "name": "Boon of the Meklord Emperor",
+    "filename": "Boon_of_the_Meklord_Emperor",
+    "card_text": "If the only face-up monsters on the field are 2 \"Meklord\" monsters: Draw 2 cards. You cannot conduct your Battle Phase the turn you activate this card.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "EXTREME VICTORY",
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Chaos Infinity",
+        "Meklord Army Deployer Obbligato",
+        "Meklord Army of Granel",
+        "Meklord Army of Skiel",
+        "Meklord Army of Wisel",
+        "Meklord Assembly",
+        "Meklord Astro Dragon Asterisk",
+        "Meklord Astro Dragon Triskelion",
+        "Meklord Astro Mekanikle",
+        "Meklord Astro the Eradicator",
+        "Meklord Deflection",
+        "Meklord Emperor Granel",
+        "Meklord Emperor Skiel",
+        "Meklord Emperor Wisel",
+        "Meklord Emperor Wisel - Synchro Absorption",
+        "Meklord Factory",
+        "Meklord Fortress",
+        "Meklord Nucleus Infinity Core",
+        "Mektimed Blast",
+        "Reboot",
+        "The Resolute Meklord Army"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

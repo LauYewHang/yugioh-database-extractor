@@ -1,0 +1,13 @@
+{
+    "name": "Savage Colosseum",
+    "filename": "Savage_Colosseum",
+    "card_text": "If a monster attacks, at the end of the Damage Step: Its controller gains 300 LP. All monsters must attack, if able. During each End Phase: Destroy all face-up Attack Position monsters the turn player controls, that did not declare an attack.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

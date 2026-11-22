@@ -1,0 +1,42 @@
+{
+    "name": "Resonator Call",
+    "filename": "Resonator_Call",
+    "card_text": "Add 1 \"Resonator\" monster from your Deck to your hand.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
+        "GHOSTS FROM THE PAST",
+        "EXTREME VICTORY",
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "HIGH-SPEED RIDERS"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Chain Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Blade Dragon",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Power Vice Dragon",
+        "Red Carpet",
+        "Red Resonator",
+        "Red Rising Dragon",
+        "Red Warg",
+        "Resonant Destruction",
+        "Resonator Command",
+        "Resonator Engine",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Time to Stand Up",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

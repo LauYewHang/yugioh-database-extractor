@@ -1,0 +1,24 @@
+{
+    "name": "Convert Contact",
+    "filename": "Convert_Contact",
+    "card_text": "If you control no monsters: Send 2 \"Neo-Spacian\" monsters (1 from your hand and 1 from your Deck) to the GY, then draw 2 cards.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "DUELIST PACK - JADEN YUKI 3 -"
+    ],
+    "related_card": [
+        "Neo-Spacian Air Hummingbird",
+        "Neo-Spacian Aqua Dolphin",
+        "Neo-Spacian Dark Panther",
+        "Neo-Spacian Flare Scarab",
+        "Neo-Spacian Glow Moss",
+        "Neo-Spacian Grand Mole",
+        "Neo-Spacian Marine Dolphin",
+        "Neo-Spacian Twinkle Moss"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -22,7 +22,10 @@
     "attack": 1200,
     "defense": 1200,
     "monster_type": "Machine",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn, during your Main Phase: You can flip 1 face-down Defense Position \"Symphonic Warrior\" monster you control to face-up Defense Position. If a \"Symphonic Warrior\" monster's effect is activated (except during the Damage Step): You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Symphonic Warrior DJJ\" once per turn.",

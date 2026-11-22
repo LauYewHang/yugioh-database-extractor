@@ -1,0 +1,18 @@
+{
+    "name": "Zombino",
+    "filename": "Zombino",
+    "card_text": "The two are so close \nThey die and return to life\nInseparable",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

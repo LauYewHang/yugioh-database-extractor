@@ -1,0 +1,14 @@
+{
+    "name": "Armed Changer",
+    "filename": "Armed_Changer",
+    "card_text": "Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their Graveyard to their hand.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "ELEMENTAL ENERGY",
+        "DUELIST PACK - CHAZZ PRINCETON -",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

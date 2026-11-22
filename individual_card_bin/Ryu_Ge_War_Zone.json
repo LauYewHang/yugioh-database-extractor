@@ -1,0 +1,24 @@
+{
+    "name": "Ryu-Ge War Zone",
+    "filename": "Ryu_Ge_War_Zone",
+    "card_text": "When this card is activated: Take 1 Dinosaur, 1 Sea Serpent, and 1 Wyrm monster from your Deck, add 1 to your hand, banish 1, and send 1 to the GY, also you cannot Special Summon for the rest of this turn, except Dragon, Dinosaur, Sea Serpent, or Wyrm monsters. If you have \"Sosei Ryu-Ge Mistva\" in your Extra Deck face-up: You can Special Summon 3 \"Ryu-Ge\" monsters with different Types, 1 each from your Deck, GY, and banishment. You can only use each effect of \"Ryu-Ge War Zone\" once per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Genro Ryu-Ge Hakva",
+        "Kairo Ryu-Ge Emva",
+        "Kyoro Ryu-Ge Kaiva",
+        "Ryu-Ge End",
+        "Ryu-Ge Realm - Dino Domains",
+        "Ryu-Ge Realm - Sea Spires",
+        "Ryu-Ge Realm - Wyrm Winds",
+        "Ryu-Ge Rising",
+        "Ryu-Ge Rivalry",
+        "Sosei Ryu-Ge Mistva",
+        "Tensei Ryu-Ge Anva"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

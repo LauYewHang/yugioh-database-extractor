@@ -27,7 +27,11 @@
     "attack": 1500,
     "defense": 3000,
     "monster_type": "Fiend",
-    "monster_card_type": 4114,
+    "monster_card_type": [
+        "Pendulum",
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "You can declare 1 Attribute; return this card to the Extra Deck, and if you do, Special Summon 1 \"Plunder Patroll Token\" (Fiend/Level 4/ATK 0/DEF 0) with that Attribute to both players' fields in Defense Position. You can only use this effect of \"Plunder Patrollship Jord\" once per turn.",

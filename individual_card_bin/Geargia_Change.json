@@ -1,0 +1,29 @@
+{
+    "name": "Geargia Change",
+    "filename": "Geargia_Change",
+    "card_text": "Target 2 or more \"Geargiano\" monsters with different names in your Graveyard; Special Summon them. Immediately after this card resolves, Xyz Summon 1 Xyz Monster using all the Summoned monsters (but no other monsters) as Materials. You can only activate 1 \"Geargia Change\" per turn.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Elemental HERO Shadow Mist",
+        "Gear Gigant X",
+        "Geargiaccelerator",
+        "Geargiagear Gigant XG",
+        "Geargianchor",
+        "Geargiano",
+        "Geargiano Mk-II",
+        "Geargiano Mk-III",
+        "Geargiarmor",
+        "Geargiarsenal",
+        "Geargiattacker",
+        "Mask Charge",
+        "Masked HERO Anki",
+        "Masked HERO Atomic",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

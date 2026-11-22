@@ -1,0 +1,21 @@
+{
+    "name": "Shadow Ghoul of the Labyrinth",
+    "filename": "Shadow_Ghoul_of_the_Labyrinth",
+    "card_text": "You can discard this card; add 1 \"Labyrinth Wall\" card from your Deck to your hand. At the start of the Damage Step, if your opponent's monster battles, while you control a \"Labyrinth Wall\" card: You can banish this card from your GY; destroy that opponent's monster. You can only use each effect of \"Shadow Ghoul of the Labyrinth\" once per turn.",
+    "release_date": "2023-03-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "MAZE OF MEMORIES"
+    ],
+    "related_card": [
+        "Labyrinth Wall",
+        "Labyrinth Wall Shadow"
+    ],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1300,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

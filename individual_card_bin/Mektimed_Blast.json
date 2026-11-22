@@ -1,0 +1,33 @@
+{
+    "name": "Mektimed Blast",
+    "filename": "Mektimed_Blast",
+    "card_text": "Target 1 \"Meklord\" monster you control and 1 card your opponent controls; destroy them.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Boon of the Meklord Emperor",
+        "Meklord Army Deployer Obbligato",
+        "Meklord Army of Granel",
+        "Meklord Army of Skiel",
+        "Meklord Army of Wisel",
+        "Meklord Assembly",
+        "Meklord Astro Dragon Asterisk",
+        "Meklord Astro Dragon Triskelion",
+        "Meklord Astro Mekanikle",
+        "Meklord Astro the Eradicator",
+        "Meklord Deflection",
+        "Meklord Emperor Granel",
+        "Meklord Emperor Skiel",
+        "Meklord Emperor Wisel",
+        "Meklord Emperor Wisel - Synchro Absorption",
+        "Meklord Factory",
+        "Meklord Fortress",
+        "Meklord Nucleus Infinity Core",
+        "The Resolute Meklord Army"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

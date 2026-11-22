@@ -1,0 +1,27 @@
+{
+    "name": "Poseidra, the Atlantean Dragon",
+    "filename": "Poseidra__the_Atlantean_Dragon",
+    "card_text": "You can Tribute 3 Level 3 or lower WATER monsters; Special Summon this card from your hand or Graveyard. When you do: Return all Spell and Trap Cards on the field to the hand, and if you do, if 3 or more cards are returned to the hand by this effect, all monsters your opponent currently controls lose 300 ATK for each.",
+    "release_date": "2012-10-16",
+    "available_set": [
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Abyss-sting Triaina",
+        "Abyssrhine, the Atlantean Spirit",
+        "Atlantean Marksman",
+        "Legendary Atlantean Tridon",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad",
+        "Neptabyss, the Atlantean Prince",
+        "Poseidra Abyss, the Atlantean Dragon Lord",
+        "Poseidra, the Storming Atlantean"
+    ],
+    "attribute": "WATER",
+    "attack": 2800,
+    "defense": 1600,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

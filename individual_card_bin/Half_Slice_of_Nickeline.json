@@ -1,0 +1,17 @@
+{
+    "name": "Half Slice of Nickeline",
+    "filename": "Half_Slice_of_Nickeline",
+    "card_text": "If this card is Special Summoned from the Deck: You can add 1 Level 4 or lower Rock monster from your Deck to your hand, except \"Half Slice of Nickeline\". If this card is sent to the GY as Synchro Material, you can (except during the Damage Step): Immediately after this effect resolves, Normal Summon 1 Rock monster. You can only use each effect of \"Half Slice of Nickeline\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

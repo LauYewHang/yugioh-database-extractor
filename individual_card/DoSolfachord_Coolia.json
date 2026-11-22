@@ -31,7 +31,10 @@
     "attack": 2700,
     "defense": 2500,
     "monster_type": "Fairy",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "Your opponent cannot activate a Spell/Trap Card, or monster effect, when your \"Solfachord\" Pendulum Monster(s) is Pendulum Summoned.",

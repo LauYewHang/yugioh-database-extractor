@@ -1,0 +1,25 @@
+{
+    "name": "Dual Avatar Invitation",
+    "filename": "Dual_Avatar_Invitation",
+    "card_text": "Discard 1 card, and if you do, Special Summon as many \"Dual Avatar Spirit Tokens\" as possible (Warrior/LIGHT/Level 2/ATK 0/DEF 0), also for the rest of this turn you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, and all Tokens you control cannot be Tributed and are destroyed during the End Phase. After Summoning these Token(s), you can apply this effect up to twice.\n\u25cfFusion Summon 1 \"Dual Avatar\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.\nYou can only activate 1 \"Dual Avatar Invitation\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Dual Avatar - Empowered Kon-Gyo",
+        "Dual Avatar - Empowered Mitsu-Jaku",
+        "Dual Avatar - Manifested A-Un",
+        "Dual Avatar Ascendance",
+        "Dual Avatar Compact",
+        "Dual Avatar Defeating Evil",
+        "Dual Avatar Feet - Armored Un-Gyo",
+        "Dual Avatar Feet - Kokoku",
+        "Dual Avatar Fists - Armored Ah-Gyo",
+        "Dual Avatar Fists - Yuhi",
+        "Dual Avatar Return",
+        "Perfect Sync - A-Un"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

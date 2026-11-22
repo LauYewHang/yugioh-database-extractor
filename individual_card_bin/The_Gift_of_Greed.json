@@ -1,0 +1,12 @@
+{
+    "name": "The Gift of Greed",
+    "filename": "The_Gift_of_Greed",
+    "card_text": "Your opponent draws 2 cards.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

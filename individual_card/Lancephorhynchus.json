@@ -15,7 +15,10 @@
     "attack": 2500,
     "defense": 800,
     "monster_type": "Dinosaur",
-    "monster_card_type": 4097,
+    "monster_card_type": [
+        "Pendulum",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "If a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",

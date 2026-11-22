@@ -1,0 +1,22 @@
+{
+    "name": "Topologic Trisbaena",
+    "filename": "Topologic_Trisbaena",
+    "card_text": "2+ Effect Monsters\nIf a monster(s) is Special Summoned to a zone(s) this card points to: Banish as many of those monster(s) as possible, also as many Spells/Traps on the field as possible, and if you do, inflict 500 damage to your opponent for each of their cards banished by this effect.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Borrelcode Dragon",
+        "Detonation Code"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 266
+}

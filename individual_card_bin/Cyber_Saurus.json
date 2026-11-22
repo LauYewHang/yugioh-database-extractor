@@ -1,0 +1,22 @@
+{
+    "name": "Cyber Saurus",
+    "filename": "Cyber_Saurus",
+    "card_text": "\"Blast Juggler\" + \"Two-Headed King Rex\"\n\n(This card is not treated as a \"Cyber\" card.)",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "OTS TOURNAMENT PACK 16"
+    ],
+    "related_card": [
+        "Blast Juggler",
+        "Two-Headed King Rex"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Rikka Konkon",
+    "filename": "Rikka_Konkon",
+    "card_text": "If you control a \"Rikka\" monster: You can Set 1 \"Rikka\" Spell/Trap directly from your Deck to your Spell & Trap Zone, also you cannot Special Summon monsters for the rest of this turn, except Plant monsters. You can only use this effect of \"Rikka Konkon\" once per turn. Once per turn, if you would Tribute a Plant monster you control to activate a \"Rikka\" card or effect, you can Tribute any 1 face-up monster your opponent controls, even though you do not control it.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Cyclamen the Rikka Fairy",
+        "Erica the Rikka Fairy",
+        "Hellebore the Rikka Fairy",
+        "Kanzashi the Rikka Queen",
+        "Mudan the Rikka Fairy",
+        "Primula the Rikka Fairy",
+        "Rikka Flurries",
+        "Rikka Glamour",
+        "Rikka Petal",
+        "Rikka Princess",
+        "Rikka Queen Strenna",
+        "Rikka Sheet",
+        "Rikka Tranquility",
+        "Snowdrop the Rikka Fairy",
+        "Teardrop the Rikka Queen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

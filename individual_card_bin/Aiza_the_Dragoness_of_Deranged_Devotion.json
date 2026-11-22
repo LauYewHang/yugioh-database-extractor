@@ -1,0 +1,18 @@
+{
+    "name": "Aiza the Dragoness of Deranged Devotion",
+    "filename": "Aiza_the_Dragoness_of_Deranged_Devotion",
+    "card_text": "If this card is Special Summoned: You can place 1 Deranged Counter on 1 face-up monster your opponent controls, and it cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon while it has that counter. At the start of the Damage Step, if this card battles an opponent's monster with a Deranged Counter: You can destroy that opponent's monster, and if you do, both players take damage equal to its original ATK, also destroy this card at the end of this Battle Phase. You can only use each effect of \"Aiza the Dragoness of Deranged Devotion\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

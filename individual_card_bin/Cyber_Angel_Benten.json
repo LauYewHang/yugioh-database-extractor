@@ -1,0 +1,40 @@
+{
+    "name": "Cyber Angel Benten",
+    "filename": "Cyber_Angel_Benten",
+    "card_text": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to that monster's original DEF in the GY. If this card is Tributed: You can add 1 LIGHT Fairy monster from your Deck to your hand.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "GENESIS IMPACT",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "SPEED DUEL TOURNAMENT PACK 5",
+        "The Lost Art Promotion 7",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Angel Izana",
+        "Cyber Angel Natasha",
+        "Cyber Eternal",
+        "Cyber Petit Angel",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Incarnated Machine Angel",
+        "Machine Angel Absolute Ritual",
+        "Machine Angel Ritual",
+        "Magnificent Machine Angel",
+        "Merciful Machine Angel",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Fairy",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

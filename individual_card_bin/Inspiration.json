@@ -1,0 +1,15 @@
+{
+    "name": "Inspiration",
+    "filename": "Inspiration",
+    "card_text": "Target 1 face-up monster you control; it gains 700 ATK until the end of this turn.",
+    "release_date": "2014-08-01",
+    "available_set": [
+        "DEMO DECK 2015",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "Speed Duel: Battle City Box",
+        "DEMO DECK 2016 (UK)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Moonlit Papillon",
+    "filename": "Moonlit_Papillon",
+    "card_text": "When this card is sent from the field to the Graveyard: You can Special Summon 1 Level 4 or lower \"Butterspy\" monster from your Deck.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Blue Mountain Butterspy",
+        "Morpho Butterspy",
+        "Swallowtail Butterspy"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 1600,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

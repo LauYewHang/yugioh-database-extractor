@@ -1,0 +1,14 @@
+{
+    "name": "Primal Cry",
+    "filename": "Primal_Cry",
+    "card_text": "This card is used to Ritual Summon \"Vennu, Bright Bird of Divinity\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. During your End Phase: You can banish this card from your Graveyard, then target 1 Ritual Monster in your Graveyard that was sent there from the field this turn; Special Summon it.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Vennu, Bright Bird of Divinity"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

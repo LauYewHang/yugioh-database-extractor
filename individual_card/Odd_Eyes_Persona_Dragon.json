@@ -77,7 +77,10 @@
     "attack": 1200,
     "defense": 2400,
     "monster_type": "Dragon",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "Once per turn, during the End Phase, if your opponent activated a card or effect this turn that targeted 1 \"Odd-Eyes\" Pendulum Monster you controlled (and no other cards) while this card was in your Pendulum Zone: Special Summon this card, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Persona Dragon\".",

@@ -1,0 +1,15 @@
+{
+    "name": "Ayers Rock Sunrise",
+    "filename": "Ayers_Rock_Sunrise",
+    "card_text": "Target 1 Beast monster in your GY; Special Summon that target, and if you do, all face-up monsters your opponent currently controls lose 200 ATK for each Beast, Plant, and Winged Beast monster currently in your GY, until the end of this turn. You can only activate 1 \"Ayers Rock Sunrise\" per turn.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "ANCIENT\u3000GUARDIANS",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Earthbound Whirlwind",
+    "filename": "Earthbound_Whirlwind",
+    "card_text": "If you control an \"Earthbound Immortal\" monster: Destroy all Spells and Traps your opponent controls.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Earthbound Fusion",
+        "Earthbound Immortal Aslla piscu",
+        "Earthbound Immortal Ccapac Apu",
+        "Earthbound Immortal Ccarayhua",
+        "Earthbound Immortal Chacu Challhua",
+        "Earthbound Immortal Cusillu",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Immortal Revival",
+        "Earthbound Immortal Uru",
+        "Earthbound Immortal Wiraqocha Rasca",
+        "Earthbound Prison",
+        "Earthbound Prisoner Ground Keeper",
+        "Earthbound Prisoner Line Walker",
+        "Earthbound Release",
+        "Earthbound Servant Geo Grasha",
+        "Earthbound Servant Geo Gremlin",
+        "Earthbound Servant Geo Gremlina",
+        "Earthbound Servant Geo Gryphon",
+        "Earthbound Servant Geo Kraken",
+        "Roar of the Earthbound Immortal",
+        "Ultimate Earthbound Immortal"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

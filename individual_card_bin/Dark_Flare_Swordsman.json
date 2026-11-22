@@ -1,0 +1,29 @@
+{
+    "name": "Dark Flare Swordsman",
+    "filename": "Dark_Flare_Swordsman",
+    "card_text": "You take no damage from battles involving this card. You can only use each of the following effects of \"Dark Flare Swordsman\" once per turn. You can send 1 \"Flame Swordsman\" or 1 monster that mentions it from your Extra Deck to the GY; Special Summon this card from your hand, also you cannot declare attacks for the rest of this turn, except with Warrior monsters. (Quick Effect): You can Tribute this card; Special Summon 1 monster that mentions \"Flame Swordsman\" from your Deck, except a Level 6 monster.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Dark Flare Knight",
+        "Fighting Flame Dragon",
+        "Fighting Flame Sword",
+        "Fighting Flame Swordsman",
+        "Flame Swordsdance",
+        "Flame Swordsman",
+        "Flame Swordsrealm",
+        "Mirage Swordsman",
+        "Salamandra Fusion",
+        "Salamandra, the Flying Flame Dragon",
+        "Ultimate Flame Swordsman"
+    ],
+    "attribute": "FIRE",
+    "attack": 2200,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

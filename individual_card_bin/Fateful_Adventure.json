@@ -1,0 +1,29 @@
+{
+    "name": "Fateful Adventure",
+    "filename": "Fateful_Adventure",
+    "card_text": "Once per turn, the first time a monster you control equipped with an Equip Spell would be destroyed by battle, it is not destroyed. You can only use each of the following effects of \"Fateful Adventure\" once per turn. During your Main Phase: You can add 1 monster that mentions \"Adventurer Token\" from your Deck to your hand, then send 1 card from your hand to the GY. If a monster(s) is Normal or Special Summoned: You can take 1 Equip Spell that mentions \"Adventurer Token\" from your Deck, and either add it to your hand or equip it to 1 \"Adventurer Token\" you control.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "RARITY COLLECTION 5",
+        "THE GRAND CREATORS"
+    ],
+    "related_card": [
+        "Breath of Resurrection",
+        "Celestial Apparatus Tesea",
+        "Curse of Aramatir",
+        "Dracoback, the Rideable Dragon",
+        "Dunnell, the Noble Arms of Light",
+        "Forest of Lost Flowers",
+        "Illegal Knight",
+        "Magicore Warrior of the Relics",
+        "Rite of Aramesir",
+        "Starlit Papillon",
+        "Thunder Discharge",
+        "Wandering Gryphon Rider",
+        "Water Enchantress of the Temple",
+        "Zaralaam the Dark Palace"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

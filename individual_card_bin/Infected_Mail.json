@@ -1,0 +1,14 @@
+{
+    "name": "Infected Mail",
+    "filename": "Infected_Mail",
+    "card_text": "Once per turn: You can target 1 Level 4 or lower monster you control; it can attack your opponent directly this turn. Send it to the Graveyard at the end of the Battle Phase.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "BATTLE PACK EPIC DAWN",
+        "STAR PACK 2013"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

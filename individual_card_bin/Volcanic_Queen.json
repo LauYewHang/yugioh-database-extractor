@@ -1,0 +1,30 @@
+{
+    "name": "Volcanic Queen",
+    "filename": "Volcanic_Queen",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's field by Tributing 1 monster they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn: You can send 1 other card you control to the GY; inflict 1000 damage to your opponent. Once per turn, during your End Phase: Tribute 1 other monster or take 1000 damage.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Blaze Accelerator Reload",
+        "Fire Ejection",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Emission",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Trooper"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 1200,
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

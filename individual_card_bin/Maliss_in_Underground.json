@@ -1,0 +1,26 @@
+{
+    "name": "Maliss in Underground",
+    "filename": "Maliss_in_Underground",
+    "card_text": "When this card is activated: You can banish 1 \"Maliss\" card from your hand, Deck, or GY. While 3 or more of your \"Maliss\" Traps with different names are banished, \"Maliss\" Link Monsters you control gain 3000 ATK. While you control a \"Maliss\" Link Monster, your opponent's monsters can only target \"Maliss\" Link Monsters for attacks. You can only activate 1 \"Maliss in Underground\" per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "MAGNIFICENT MAESTROS",
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Maliss <C> GWC-06",
+        "Maliss <C> MTP-07",
+        "Maliss <C> TB-11",
+        "Maliss <P> Chessy Cat",
+        "Maliss <P> Dormouse",
+        "Maliss <P> March Hare",
+        "Maliss <P> White Rabbit",
+        "Maliss <Q> Hearts Crypter",
+        "Maliss <Q> Red Ransom",
+        "Maliss <Q> White Binder",
+        "Maliss in the Mirror"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

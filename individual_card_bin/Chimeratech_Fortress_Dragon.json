@@ -1,0 +1,39 @@
+{
+    "name": "Chimeratech Fortress Dragon",
+    "filename": "Chimeratech_Fortress_Dragon",
+    "card_text": "\"Cyber Dragon\" + 1+ Machine monsters\nCannot be used as Fusion Material. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either field to the GY. The original ATK of this card becomes 1000 x the number of materials used for its Special Summon.",
+    "release_date": "2010-08-31",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "DUELIST SAGA",
+        "BATTLE PACK TOURNAMENT",
+        "SHONEN JUMP Promotional Card - March 2009 -",
+        "LEGENDARY DRAGON DECKS",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "COLLECTIBLE TIN 2010 WAVE 1"
+    ],
+    "related_card": [
+        "Armored Cybern",
+        "Cyber Dragon",
+        "Cyber Dragon Core",
+        "Cyber Dragon Drei",
+        "Cyber Dragon Herz",
+        "Cyber Dragon Nachster",
+        "Cyber Dragon Sieger",
+        "Cyber Dragon Vier",
+        "Cyber Dragon Zwei",
+        "Cyberdark Wurm",
+        "Cyberload Fusion",
+        "Cybernetic Hidden Technology",
+        "Cybernetic Revolution",
+        "Proto-Cyber Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

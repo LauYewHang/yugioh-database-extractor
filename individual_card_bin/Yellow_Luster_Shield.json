@@ -1,0 +1,14 @@
+{
+    "name": "Yellow Luster Shield",
+    "filename": "Yellow_Luster_Shield",
+    "card_text": "Increase the DEF of all monsters on your side of the field by 300 points.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "INVASION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

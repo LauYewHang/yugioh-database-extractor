@@ -1,0 +1,19 @@
+{
+    "name": "Future Samurai",
+    "filename": "Future_Samurai",
+    "card_text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n\u25cfOnce per turn: You can banish 1 monster from your Graveyard to target 1 face-up monster on the field; destroy that target.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "SAMURAI WARLORDS STRUCTURE DECK",
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": 514,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

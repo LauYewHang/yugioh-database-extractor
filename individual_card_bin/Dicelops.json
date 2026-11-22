@@ -1,0 +1,18 @@
+{
+    "name": "Dicelops",
+    "filename": "Dicelops",
+    "card_text": "Once per turn: You can roll a six-sided die, then apply the result.\n\u25cf1: Look at your opponent's hand, also discard 1 card from their hand.\n\u25cf2, 3, 4, 5: Discard 1 card.\n\u25cf6: Discard your entire hand.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1800,
+    "defense": 200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

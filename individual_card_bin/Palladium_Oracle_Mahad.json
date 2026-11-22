@@ -1,0 +1,36 @@
+{
+    "name": "Palladium Oracle Mahad",
+    "filename": "Palladium_Oracle_Mahad",
+    "card_text": "When you draw this card: You can reveal this card; Special Summon it from your hand. If this card battles a DARK monster, its ATK is doubled during the Damage Step only. If this card is destroyed by battle or card effect: You can Special Summon 1 \"Dark Magician\" from your hand, Deck, or GY.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "QUARTER CENTURY BONANZA",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

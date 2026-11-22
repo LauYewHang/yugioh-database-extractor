@@ -1,0 +1,31 @@
+{
+    "name": "Tearlaments Scheiren",
+    "filename": "Tearlaments_Scheiren",
+    "card_text": "During your Main Phase: You can Special Summon this card from your hand, and if you do, send 1 monster from your hand to the GY, then, send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of \"Tearlaments Scheiren\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Primeval Planet Perlereino",
+        "Tearlaments Cryme",
+        "Tearlaments Grief",
+        "Tearlaments Heartbeat",
+        "Tearlaments Kaleido-Heart",
+        "Tearlaments Kashtira",
+        "Tearlaments Kitkallos",
+        "Tearlaments Metanoise",
+        "Tearlaments Perlegia",
+        "Tearlaments Reinoheart",
+        "Tearlaments Rulkallos",
+        "Tearlaments Scream",
+        "Tearlaments Sulliek"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1300,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

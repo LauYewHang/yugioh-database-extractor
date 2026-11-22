@@ -1,0 +1,12 @@
+{
+    "name": "The Selection",
+    "filename": "The_Selection",
+    "card_text": "Pay 1000 Life Points. Negate the Summon of a monster that has the same Type as a monster on the field, and destroy it.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

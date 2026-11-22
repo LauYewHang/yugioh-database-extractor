@@ -52,7 +52,10 @@
     "attack": 3500,
     "defense": 4000,
     "monster_type": "Dragon",
-    "monster_card_type": 18,
+    "monster_card_type": [
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 12
 }

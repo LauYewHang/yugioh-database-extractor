@@ -1,0 +1,17 @@
+{
+    "name": "Divine Wind of Mist Valley",
+    "filename": "Divine_Wind_of_Mist_Valley",
+    "card_text": "Once per turn, if a WIND monster you control returns to the hand (except during the Damage Step): You can Special Summon 1 Level 4 or lower WIND monster from your Deck.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK",
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Mist Condor",
+        "Mist Valley Apex Avian",
+        "Mist Valley Thunder Lord"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

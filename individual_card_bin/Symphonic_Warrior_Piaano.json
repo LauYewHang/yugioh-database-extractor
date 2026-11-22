@@ -1,0 +1,28 @@
+{
+    "name": "Symphonic Warrior Piaano",
+    "filename": "Symphonic_Warrior_Piaano",
+    "card_text": "Once per turn, you can declare 1 Monster Type and select 1 face-up \"Symphonic Warrior\" monster on the field. That monster becomes that Monster Type. You can declare 1 Monster Type and remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and make it that Monster Type.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Generalprobe",
+        "Symph Amplifire",
+        "Symphonic Warrior Basses",
+        "Symphonic Warrior DJJ",
+        "Symphonic Warrior Drumss",
+        "Symphonic Warrior Guitaar",
+        "Symphonic Warrior Guitariss",
+        "Symphonic Warrior Miccs",
+        "Symphonic Warrior Rockks",
+        "Symphonic Warrior Synthess"
+    ],
+    "attribute": "WIND",
+    "attack": 900,
+    "defense": 1300,
+    "monster_type": "Machine",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Magical Musket Mastermind Zakiel",
+    "filename": "Magical_Musket_Mastermind_Zakiel",
+    "card_text": "You can Tribute Summon this card face-up by Tributing 1 \"Magical Musket\" monster. During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. Once per turn, during your opponent's End Phase: You can draw cards equal to the number of \"Magical Musket\" Spell/Trap Cards you activated this turn while this card was face-up on your field. You can only use this effect of \"Magical Musket Mastermind Zakiel\" once per turn.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Desperado",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Starfire",
+        "Magical Musketeer Wild"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

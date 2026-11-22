@@ -1,0 +1,35 @@
+{
+    "name": "Electric Jellyfish",
+    "filename": "Electric_Jellyfish",
+    "card_text": "You can send 1 \"Umi\" from your hand, Deck, or face-up field to the GY; Special Summon 1 WATER monster from your hand. When your opponent activates a monster effect, or Spell Card or effect, while \"Umi\" is on the field (Quick Effect): You can negate that effect, then you can make this card gain 600 ATK/DEF. You can only use each effect of \"Electric Jellyfish\" once per turn.",
+    "release_date": "2022-06-17",
+    "available_set": [
+        "ULTIMATE TOURNAMENT PACK 2",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 1700,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

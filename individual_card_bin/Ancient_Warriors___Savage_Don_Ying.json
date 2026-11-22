@@ -1,0 +1,37 @@
+{
+    "name": "Ancient Warriors - Savage Don Ying",
+    "filename": "Ancient_Warriors___Savage_Don_Ying",
+    "card_text": "While you control a Level 7 or higher \"Ancient Warriors\" monster, your opponent must pay 400 LP to activate a card or effect. You can only use each of the following effects of \"Ancient Warriors - Savage Don Ying\" once per turn. If this card is Normal or Special Summoned: You can add 1 Level 7 or higher \"Ancient Warriors\" monster or 1 \"Ancient Warriors\" Continuous Spell/Trap from your Deck to your hand. If a monster is sent to your opponent's GY (except during the Damage Step): You can target 1 card in your opponent's GY; banish it, and if you do, draw 1 card.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Ancient Warriors - Ambitious Cao De",
+        "Ancient Warriors - Deceptive Jia Wen",
+        "Ancient Warriors - Eccentric Lu Jing",
+        "Ancient Warriors - Fearsome Zhang Yuan",
+        "Ancient Warriors - Graceful Zhou Gong",
+        "Ancient Warriors - Ingenious Zhuge Kong",
+        "Ancient Warriors - Loyal Guan Yun",
+        "Ancient Warriors - Masterful Sun Mou",
+        "Ancient Warriors - Rebellious Lu Feng",
+        "Ancient Warriors - Valiant Zhang De",
+        "Ancient Warriors - Virtuous Liu Xuan",
+        "Ancient Warriors Oath - Double Dragon Lords",
+        "Ancient Warriors Saga - Borrowing of Arrows",
+        "Ancient Warriors Saga - Chivalrous Path",
+        "Ancient Warriors Saga - Deception and Betrayal",
+        "Ancient Warriors Saga - Defense of Changban",
+        "Ancient Warriors Saga - East-by-South Winds",
+        "Ancient Warriors Saga - Sun-Liu Alliance",
+        "Ancient Warriors Saga - Three Visits"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1800,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

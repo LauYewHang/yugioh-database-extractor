@@ -1,0 +1,32 @@
+{
+    "name": "Sky Striker Maneuver - Vector Blast",
+    "filename": "Sky_Striker_Maneuver___Vector_Blast",
+    "card_text": "If you control no monsters in your Main Monster Zone: Each player sends the top 2 cards of their Deck to the GY (or as many as possible, if less than 2), then, if you sent at least 1 card to the GY, and have 3 or more Spells in your GY, you can shuffle all your opponent's monsters from the Extra Monster Zones into the Deck.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION"
+    ],
+    "related_card": [
+        "Aileron",
+        "Pillar of the Future - Cyanos",
+        "Sage of Benevolence - Ciela",
+        "Sage of Strength - Akash",
+        "Sage of Wisdom - Himmel",
+        "Sky Striker Ace - Azalea Temperance",
+        "Sky Striker Ace - Camellia",
+        "Sky Striker Ace - Hayate",
+        "Sky Striker Ace - Kagari",
+        "Sky Striker Ace - Kaina",
+        "Sky Striker Ace - Shizuku",
+        "Sky Striker Ace = Zero",
+        "Sky Striker Airspace - Area Zero",
+        "Sky Striker Mecha - Adil Saber",
+        "Sky Striker Mecha Modules - Multirole",
+        "Sky Striker Mecharmory - Hercules Base",
+        "Sky Striker Mobilize - Engage!",
+        "Sky Striker Special Maneuver - Lemnisgate!",
+        "Surgical Striker - H.A.M.P."
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

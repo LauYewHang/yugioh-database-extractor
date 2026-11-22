@@ -27,7 +27,11 @@
     "attack": 4000,
     "defense": 4000,
     "monster_type": "Dragon",
-    "monster_card_type": 4106,
+    "monster_card_type": [
+        "Pendulum",
+        "Fusion",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 12,
     "pendulum_effect": "If you have 2 cards in your Pendulum Zones: You can Special Summon this card, then you can apply this effect.\n\u25cfShuffle 1 card from your Pendulum Zone into the Deck, then if it was added to your Extra Deck, you can Special Summon it, ignoring its Summoning conditions. You can only use this effect of \"Odd-Eyes Arcray Dragon\" once per turn.",

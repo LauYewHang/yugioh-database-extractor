@@ -1,0 +1,19 @@
+{
+    "name": "Unacceptable Result",
+    "filename": "Unacceptable_Result",
+    "card_text": "If you control a Spellcaster monster: Special Summon 1 \"Fortune Fairy\" monster from your hand.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Fortune Fairy Ann",
+        "Fortune Fairy Chee",
+        "Fortune Fairy En",
+        "Fortune Fairy Hikari",
+        "Fortune Fairy Hu",
+        "Fortune Fairy Swee"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

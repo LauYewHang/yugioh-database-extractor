@@ -1,0 +1,13 @@
+{
+    "name": "Damage = Reptile",
+    "filename": "Damage___Reptile",
+    "card_text": "Once per turn, when you take damage from a battle involving a Reptile monster: You can Special Summon 1 Reptile monster from your Deck with ATK less than or equal to the damage you took.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION",
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

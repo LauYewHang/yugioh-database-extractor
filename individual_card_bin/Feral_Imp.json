@@ -1,0 +1,27 @@
+{
+    "name": "Feral Imp",
+    "filename": "Feral_Imp",
+    "card_text": "A playful little fiend that lurks in the dark, waiting to attack an unwary enemy.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "OTS TOURNAMENT PACK 5",
+        "METAL RAIDERS",
+        "YUGI'S LEGENDARY DECKS",
+        "STARTER DECK YUGI Evolution",
+        "DARK BEGINNING 1",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [
+        "Rose Spectre of Dunn"
+    ],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 1400,
+    "monster_type": "Fiend",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

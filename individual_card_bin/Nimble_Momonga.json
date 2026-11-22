@@ -1,0 +1,30 @@
+{
+    "name": "Nimble Momonga",
+    "filename": "Nimble_Momonga",
+    "card_text": "If this card is destroyed by battle and sent to the GY: Gain 1000 LP, then you can Special Summon any number of \"Nimble Momonga\" from your Deck in face-down Defense Position.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "TOURNAMENT PACK 4",
+        "CHAMPION PACK GAME TWO",
+        "DUEL TERMINAL 5A",
+        "DUELIST LEAGUE DEMO 2010",
+        "DARK BEGINNING 1",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "RETRO PACK",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Nimble Angler",
+        "Nimble Beaver"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 100,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Draw Muscle",
+    "filename": "Draw_Muscle",
+    "card_text": "Target 1 Defense Position monster you control with 1000 or less DEF; draw 1 card, also that monster cannot be destroyed by battle this turn. You can only activate 1 \"Draw Muscle\" per turn.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "STARTER DECK YUYA",
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

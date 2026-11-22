@@ -17,7 +17,13 @@
     "attack": 1400,
     "defense": null,
     "monster_type": "Thunder",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 2,
-    "link_arrow": 514
+    "link_arrow": [
+        "Top-right",
+        "Bottom-Left"
+    ]
 }

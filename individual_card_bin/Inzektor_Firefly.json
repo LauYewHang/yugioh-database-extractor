@@ -1,0 +1,41 @@
+{
+    "name": "Inzektor Firefly",
+    "filename": "Inzektor_Firefly",
+    "card_text": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an \"Inzektor\" card equips to this card: You can look at all Set cards your opponent controls. While this card is equipped to a monster, that monster's Level is increased by 1, also it gains ATK and DEF equal to this card's ATK and DEF.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Armor Blast",
+        "Final Inzektion",
+        "Inzektor Ant",
+        "Inzektor Axe - Zektahawk",
+        "Inzektor Centipede",
+        "Inzektor Crossbow - Zektarrow",
+        "Inzektor Dragonfly",
+        "Inzektor Earwig",
+        "Inzektor Exa-Beetle",
+        "Inzektor Exa-Stag",
+        "Inzektor Gauntlet",
+        "Inzektor Giga-Cricket",
+        "Inzektor Giga-Mantis",
+        "Inzektor Giga-Weevil",
+        "Inzektor Hopper",
+        "Inzektor Hornet",
+        "Inzektor Ladybug",
+        "Inzektor Orb",
+        "Inzektor Picofalena",
+        "Inzektor Sword - Zektkaliber",
+        "Variable Form",
+        "Zekt Conversion",
+        "Zektrike Kou-ou"
+    ],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

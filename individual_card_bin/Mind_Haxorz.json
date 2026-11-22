@@ -1,0 +1,13 @@
+{
+    "name": "Mind Haxorz",
+    "filename": "Mind_Haxorz",
+    "card_text": "Pay 500 Life Points. Look at your opponent's hand and all Set cards on their side of the field.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "RISE OF DESTINY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

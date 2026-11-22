@@ -1,0 +1,29 @@
+{
+    "name": "Rainbow Bridge of Salvation",
+    "filename": "Rainbow_Bridge_of_Salvation",
+    "card_text": "If there are 2 or more different Monster Types among the Level 10 or higher monsters on the field: Shuffle all cards except this one from both players' hands, fields, and GYs into the Deck, then each player draws 5 cards. You can banish this card from your GY; add 1 \"Crystal Beast\" monster and 1 Field Spell from your Deck to your hand. You can only apply each effect of \"Rainbow Bridge of Salvation\" once per Duel.",
+    "release_date": "2022-09-16",
+    "available_set": [
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Awakening of the Crystal Ultimates",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

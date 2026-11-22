@@ -1,0 +1,42 @@
+{
+    "name": "Tachyon Transmigration",
+    "filename": "Tachyon_Transmigration",
+    "card_text": "If you control a \"Galaxy-Eyes\" monster: Activate as Chain Link 2 or higher; negate the activations of your opponent's Spell/Trap Cards and monster effects activated before this card in this Chain, and if you do, shuffle the negated cards on the field into the Deck. If you control a \"Galaxy-Eyes Tachyon Dragon\" monster, you can activate this card from your hand.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "OTS TOURNAMENT PACK 9",
+        "MAZE OF THE MASTER",
+        "WORLD SUPERSTARS",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Divine Golden Shadow Dragon Dragluxion",
+        "Galaxy-Eyes Afterglow Dragon",
+        "Galaxy-Eyes Antimatter Dragon",
+        "Galaxy-Eyes Cipher Blade Dragon",
+        "Galaxy-Eyes Cipher Dragon",
+        "Galaxy-Eyes Cipher X Dragon",
+        "Galaxy-Eyes Cloudragon",
+        "Galaxy-Eyes Full Armor Photon Dragon",
+        "Galaxy-Eyes Photon Change Dragon",
+        "Galaxy-Eyes Photon Dragon",
+        "Galaxy-Eyes Solflare Dragon",
+        "Galaxy-Eyes Tachyon Primal",
+        "Neo Galaxy-Eyes Cipher Dragon",
+        "Neo Galaxy-Eyes Photon Dragon",
+        "Neo Galaxy-Eyes Photon Dragon - Photon Howling",
+        "Number 107: Galaxy-Eyes Tachyon Dragon",
+        "Number 62: Galaxy-Eyes Prime Photon Dragon",
+        "Number 90: Galaxy-Eyes Photon Lord",
+        "Number 95: Galaxy-Eyes Dark Matter Dragon",
+        "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+        "Number C62: Neo Galaxy-Eyes Prime Photon Dragon",
+        "Numbers Last Hope",
+        "Numeron Creation",
+        "Tachyon Cloudragon",
+        "Tachyon Spiral of Destruction"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

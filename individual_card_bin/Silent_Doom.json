@@ -1,0 +1,19 @@
+{
+    "name": "Silent Doom",
+    "filename": "Silent_Doom",
+    "card_text": "Target 1 Normal Monster in your GY; Special Summon it in Defense Position, but it cannot attack.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STRUCTURE DECK : SETO KAIBA",
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "LEGENDARY DECKS II",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK KAIBA RELOADED",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Crystron Tristaros",
+    "filename": "Crystron_Tristaros",
+    "card_text": "When your opponent activates a card or effect (Quick Effect): You can Special Summon 1 \"Crystron\" monster from your Deck, except \"Crystron Tristaros\", then immediately after this effect resolves, Synchro Summon 1 Machine Synchro Monster using monsters you control, including that monster. You can banish this card from your GY; destroy 1 Synchro Monster you control, and if you do, Special Summon 2 \"Crystron\" monsters from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. You can only use each effect of \"Crystron Tristaros\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Crystolic Potential",
+        "Crystron Ametrix",
+        "Crystron Citree",
+        "Crystron Cluster",
+        "Crystron Eleskeletus",
+        "Crystron Entry",
+        "Crystron Halqifibrax",
+        "Crystron Halqifibrax Prism",
+        "Crystron Impact",
+        "Crystron Inclusion",
+        "Crystron Phoenix",
+        "Crystron Prasiortle",
+        "Crystron Quan",
+        "Crystron Quandax",
+        "Crystron Quariongandrax",
+        "Crystron Rion",
+        "Crystron Rosenix",
+        "Crystron Smiger",
+        "Crystron Sulfador",
+        "Crystron Sulfefnir",
+        "Crystron Thystvern"
+    ],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Three Trolling Trolls",
+    "filename": "Three_Trolling_Trolls",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 Beast-Warrior monster in your GY; this card's Attribute and Level become the same as that monster's, until the end of this turn. During your Main Phase: You can Special Summon 1 Beast-Warrior monster with the same Attribute and Level as this card from your hand. You can only use each effect of \"Three Trolling Trolls\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except Beast-Warrior monsters.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 1300,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

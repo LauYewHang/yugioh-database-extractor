@@ -1,0 +1,19 @@
+{
+    "name": "Goyo Defender",
+    "filename": "Goyo_Defender",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, if all monsters you control are EARTH Warrior Synchro Monsters (min. 1): You can Special Summon \"Goyo Defender\" from your Extra Deck. When this card is targeted for an attack: You can make this card gain 1000 ATK for each EARTH Warrior Synchro Monster you control (other than this card), until the end of the Damage Step.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "OTS TOURNAMENT PACK 13",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

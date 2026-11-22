@@ -1,0 +1,19 @@
+{
+    "name": "Cracking Dragon",
+    "filename": "Cracking_Dragon",
+    "card_text": "Cannot be destroyed by battle with a monster with equal or lower Level. When your opponent Normal or Special Summons exactly 1 monster (and no other monsters are Summoned) while this monster is on the field: You can make that monster lose ATK equal to its Level x 200 (until the end of this turn), and if you do, inflict damage to your opponent equal to the ATK lost by this effect.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST",
+        "STAR PACK: VRAINS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

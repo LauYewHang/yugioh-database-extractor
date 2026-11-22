@@ -1,0 +1,13 @@
+{
+    "name": "Timidity",
+    "filename": "Timidity",
+    "card_text": "Neither player can destroy Set Spell and Trap Cards on the field until your opponent's next End Phase.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Cyberse Accelerator",
+    "filename": "Cyberse_Accelerator",
+    "card_text": "2+ monsters, except Tokens\nDuring the Battle Phase (Quick Effect): You can target 1 Cyberse monster this card points to and activate 1 of these effects;\n\u25cfIt gains 2000 ATK until the end of this turn.\n\u25cfIt can make up to 2 attacks on monsters during each Battle Phase this turn.\nThis card cannot attack the turn this effect is activated. You can only use this effect of \"Cyberse Accelerator\" once per turn.",
+    "release_date": "2020-03-06",
+    "available_set": [
+        "IGNITION ASSAULT SPECIAL EDITION",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 84
+}

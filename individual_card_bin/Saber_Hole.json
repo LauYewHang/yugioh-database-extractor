@@ -1,0 +1,41 @@
+{
+    "name": "Saber Hole",
+    "filename": "Saber_Hole",
+    "card_text": "When a monster(s) would be Summoned, while you control an \"X-Saber\" monster: Negate the Summon, and if you do, destroy that monster(s).",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Commander Gottoms, Swordmaster",
+        "Commander Souza, Swordmaster",
+        "M-X-Saber Invoker",
+        "Saber Reflection",
+        "X-Saber Airbellum",
+        "X-Saber Anu Piranha",
+        "X-Saber Axel",
+        "X-Saber Bruno",
+        "X-Saber Galahad",
+        "X-Saber Gottoms",
+        "X-Saber Palomuro",
+        "X-Saber Pashuul",
+        "X-Saber Pellina",
+        "X-Saber Souza",
+        "X-Saber Urbellum",
+        "X-Saber Uruz",
+        "X-Saber Wayne",
+        "XX-Saber Boggart Knight",
+        "XX-Saber Darksoul",
+        "XX-Saber Emmersblade",
+        "XX-Saber Faultroll",
+        "XX-Saber Fulhelmknight",
+        "XX-Saber Gardestrike",
+        "XX-Saber Garsem",
+        "XX-Saber Gottoms",
+        "XX-Saber Hyunlei",
+        "XX-Saber Ragigura"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

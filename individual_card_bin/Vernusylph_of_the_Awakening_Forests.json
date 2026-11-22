@@ -1,0 +1,27 @@
+{
+    "name": "Vernusylph of the Awakening Forests",
+    "filename": "Vernusylph_of_the_Awakening_Forests",
+    "card_text": "You can discard this card, and 1 monster or \"Vernusylph\" card; send from your Deck to the GY, 1 EARTH monster that can be Normal Summoned/Set, then you can Special Summon 1 EARTH monster from your GY with a different name from that monster, also you cannot activate non-EARTH monster effects for the rest of this turn. You can target 1 \"Vernusylph\" monster you control; its ATK becomes doubled until the end of this turn. You can only use each effect of \"Vernusylph of the Awakening Forests\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Vera the Vernusylph Goddess",
+        "Vernusylph and the Changing Season",
+        "Vernusylph and the Flower Buds",
+        "Vernusylph Corolla",
+        "Vernusylph in Full Bloom",
+        "Vernusylph of the Flourishing Hills",
+        "Vernusylph of the Flowering Fields",
+        "Vernusylph of the Misting Seedlings",
+        "Vernusylph of the Thawing Mountains"
+    ],
+    "attribute": "EARTH",
+    "attack": 900,
+    "defense": 1800,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

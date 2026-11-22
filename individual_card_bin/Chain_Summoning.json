@@ -1,0 +1,13 @@
+{
+    "name": "Chain Summoning",
+    "filename": "Chain_Summoning",
+    "card_text": "Activate as Chain Link 3 or higher: You can conduct up to 3 Normal Summons/Sets this turn, not just 1. You cannot activate this card if multiple cards with the same name, or the effects of such cards, are already activated in that Chain.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "OTS TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

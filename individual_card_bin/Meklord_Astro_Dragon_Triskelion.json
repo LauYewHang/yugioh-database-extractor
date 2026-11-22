@@ -1,0 +1,39 @@
+{
+    "name": "Meklord Astro Dragon Triskelion",
+    "filename": "Meklord_Astro_Dragon_Triskelion",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 \"Meklord\" monsters with different names from your GY. Once per turn, when this card declares an attack: You can look at your opponent's Extra Deck and equip 1 monster from it to this card. This card gains ATK equal to the combined ATK of those equipped monsters. While equipped with a Synchro Monster, this card can make up to 3 attacks on monsters during each Battle Phase.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Boon of the Meklord Emperor",
+        "Chaos Infinity",
+        "Meklord Army Deployer Obbligato",
+        "Meklord Army of Granel",
+        "Meklord Army of Skiel",
+        "Meklord Army of Wisel",
+        "Meklord Assembly",
+        "Meklord Astro Dragon Asterisk",
+        "Meklord Astro Mekanikle",
+        "Meklord Astro the Eradicator",
+        "Meklord Deflection",
+        "Meklord Emperor Granel",
+        "Meklord Emperor Skiel",
+        "Meklord Emperor Wisel",
+        "Meklord Emperor Wisel - Synchro Absorption",
+        "Meklord Factory",
+        "Meklord Fortress",
+        "Meklord Nucleus Infinity Core",
+        "Mektimed Blast",
+        "Reboot",
+        "The Resolute Meklord Army"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

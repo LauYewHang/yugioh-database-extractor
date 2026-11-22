@@ -1,0 +1,19 @@
+{
+    "name": "Cursed Seal of the Forbidden Spell",
+    "filename": "Cursed_Seal_of_the_Forbidden_Spell",
+    "card_text": "When a Spell Card is activated: Discard 1 Spell; negate the activation, and if you do, destroy it, and if you do that, your opponent cannot activate Spell Cards with that name for the rest of this Duel.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "CHAMPION PACK GAME FIVE",
+        "OTS TOURNAMENT PACK 8",
+        "ASTRAL PACK SIX",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

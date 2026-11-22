@@ -1,0 +1,32 @@
+{
+    "name": "Dowsing Fusion",
+    "filename": "Dowsing_Fusion",
+    "card_text": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your GY. Only Pendulum Monsters can be used as Fusion Material for this card's effect. You can only activate 1 \"Dowsing Fusion\" per turn.",
+    "release_date": "2021-07-09",
+    "available_set": [
+        "KING'S COURT"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

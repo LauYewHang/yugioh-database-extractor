@@ -1,0 +1,20 @@
+{
+    "name": "Dragged Down into the Grave",
+    "filename": "Dragged_Down_into_the_Grave",
+    "card_text": "Both players reveal their hands, each chooses 1 card from their opponent's hand, then you discard the chosen cards from both players' hands, then both players draw 1 card.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "STRUCTURE DECK: DARK WORLD",
+        "DARK CRISIS (Reprint)",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUELIST PACK - BATTLE CITY -",
+        "DARK CRISIS",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

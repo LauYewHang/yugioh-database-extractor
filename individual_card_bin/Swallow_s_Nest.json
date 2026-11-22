@@ -1,0 +1,14 @@
+{
+    "name": "Swallow's Nest",
+    "filename": "Swallow_s_Nest",
+    "card_text": "Tribute 1 face-up Winged Beast monster; Special Summon 1 Winged Beast monster from your Deck with the same Level the Tributed monster had on the field.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "HIDDEN ARSENAL CHAPTER 1",
+        "RAGING BATTLE",
+        "WING RAIDERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Flower Wolf",
+    "filename": "Flower_Wolf",
+    "card_text": "\"Silver Fang\" + \"Darkworld Thorns\"",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "LEGEND OF BLUE EYES WHITE DRAGON"
+    ],
+    "related_card": [
+        "Darkworld Thorns",
+        "Silver Fang"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1400,
+    "monster_type": "Beast",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

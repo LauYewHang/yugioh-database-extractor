@@ -1,0 +1,20 @@
+{
+    "name": "Wall of Disruption",
+    "filename": "Wall_of_Disruption",
+    "card_text": "When an opponent's monster declares an attack: All Attack Position monsters your opponent currently controls lose 800 ATK for each monster they control.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "2015 MEGA-TINS MEGA PACK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL TOURNAMENT PACK 5",
+        "STAR PACK ARC-V",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "SECRETS OF ETERNITY",
+        "STARTER DECK YUYA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

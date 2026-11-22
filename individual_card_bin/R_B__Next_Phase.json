@@ -1,0 +1,26 @@
+{
+    "name": "R.B. Next Phase",
+    "filename": "R_B__Next_Phase",
+    "card_text": "When your opponent activates a monster effect, while you control an \"R.B.\" monster: Destroy 1 monster you control, and if you do, negate the activation, and if you do that, destroy that card, then gain 2000 LP. You can only activate 1 \"R.B. Next Phase\" per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "R.B. Funk Dock",
+        "R.B. Ga10 Cutter",
+        "R.B. Ga10 Driller",
+        "R.B. Ga10 Pile Bunker",
+        "R.B. Lambda Blade",
+        "R.B. Lambda Cannon",
+        "R.B. Last Stand",
+        "R.B. Operation Test",
+        "R.B. Shepherd's Crook",
+        "R.B. Stage Landing",
+        "R.B. The Brute Blues",
+        "R.B. VALCan Booster",
+        "R.B. VALCan Rocket"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

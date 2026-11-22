@@ -1,0 +1,40 @@
+{
+    "name": "Assault Mode Activate",
+    "filename": "Assault_Mode_Activate",
+    "card_text": "Tribute 1 Synchro Monster; Special Summon 1 \"/Assault Mode\" monster, whose name includes the Tributed monster's name, from your Deck in Attack Position.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "OTS TOURNAMENT PACK 30",
+        "OTS TOURNAMENT PACK 10",
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "CRIMSON CRISIS",
+        "DUELIST PACK - YUSEI 2 -"
+    ],
+    "related_card": [
+        "Arcane Apprentice",
+        "Arcanite Magician/Assault Mode",
+        "Assault Beast",
+        "Assault Lich",
+        "Assault Mercenary",
+        "Assault Mode Zero",
+        "Assault Reboot",
+        "Assault Revival",
+        "Assault Sentinel",
+        "Assault Sonic Warrior",
+        "Colossal Fighter/Assault Mode",
+        "Crimson Blader/Assault Mode",
+        "Doomkaiser Dragon/Assault Mode",
+        "Duel Evolution - Assault Zone",
+        "Hyper Psychic Blaster/Assault Mode",
+        "Junk Warrior/Assault Mode",
+        "Night Wing Sorceress",
+        "Nightwinged Cleric",
+        "Psi-Reflector",
+        "Red Dragon Archfiend/Assault Mode",
+        "Red Nova Dragon/Assault Mode",
+        "Stardust Dragon/Assault Mode",
+        "T.G. Halberd Cannon/Assault Mode"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

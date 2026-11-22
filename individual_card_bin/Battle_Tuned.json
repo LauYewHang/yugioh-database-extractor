@@ -1,0 +1,12 @@
+{
+    "name": "Battle Tuned",
+    "filename": "Battle_Tuned",
+    "card_text": "Remove from play 1 Tuner monster from your Graveyard. Target face-up monster you control gains ATK equal to the removed monster's ATK.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

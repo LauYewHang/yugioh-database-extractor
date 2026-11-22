@@ -1,0 +1,31 @@
+{
+    "name": "Chimera the King of Phantom Beasts",
+    "filename": "Chimera_the_King_of_Phantom_Beasts",
+    "card_text": "1 Beast monster + 1 Fiend monster\nThis card's name becomes \"Chimera the Flying Mythical Beast\" while on the field or in the GY. You can only use each of the following effects of \"Chimera the King of Phantom Beasts\" once per turn. If this card is Fusion Summoned: You can activate this effect; send 1 random card from your opponent's hand to the GY during the End Phase of this turn. During your opponent's turn (Quick Effect): You can banish this card from your GY, then target 1 Beast, Fiend, or Illusion monster in your GY; Special Summon it.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "MAGNIFICENT MONSTERS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Berfomet",
+        "Berfomet the Mythical King of Phantom Beasts",
+        "Chimera Fusion",
+        "Chimera the Flying Mythical Beast",
+        "Chimera the Illusion Beast",
+        "Cornfield Coatl",
+        "Gazelle the King of Mythical Beasts",
+        "Mirror Swordknight",
+        "Phantom Beast Cross-Wing",
+        "Phantom Beast Rock-Lizard",
+        "Phantom Beast Thunder-Pegasus"
+    ],
+    "attribute": "WIND",
+    "attack": 2100,
+    "defense": 1800,
+    "monster_type": "Beast",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

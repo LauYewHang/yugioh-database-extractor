@@ -1,0 +1,24 @@
+{
+    "name": "Tribute to The Doomed",
+    "filename": "Tribute_to_The_Doomed",
+    "card_text": "Discard 1 card, then target 1 monster on the field; destroy it.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "STARTER DECK 2006",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "METAL RAIDERS",
+        "5D's STARTER DECK 2009",
+        "DARK BEGINNING 1",
+        "STARTER DECK KAIBA RELOADED",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "STARTER DECK KAIBA Evolution",
+        "BATTLE PACK EPIC DAWN",
+        "DEMO DECK 2026"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

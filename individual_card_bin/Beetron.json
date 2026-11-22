@@ -1,0 +1,19 @@
+{
+    "name": "Beetron",
+    "filename": "Beetron",
+    "card_text": "You can send 1 face-up Spell/Trap you control to the GY, then target 1 Level 4 or lower Insect monster in your GY; Special Summon that Insect monster in Defense Position. You can only use this effect of \"Beetron\" once per turn.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 900,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

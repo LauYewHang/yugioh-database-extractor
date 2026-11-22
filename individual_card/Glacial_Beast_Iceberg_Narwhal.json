@@ -11,7 +11,10 @@
     "attack": 2700,
     "defense": 1600,
     "monster_type": "Aqua",
-    "monster_card_type": 18,
+    "monster_card_type": [
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

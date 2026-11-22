@@ -1,0 +1,30 @@
+{
+    "name": "Dream Mirror Fantasy",
+    "filename": "Dream_Mirror_Fantasy",
+    "card_text": "If you control a \"Dream Mirror\" monster: Target 1 each of your banished \"Dream Mirror of Joy\" and \"Dream Mirror of Terror\"; shuffle them into the Deck, and if you do, banish 1 card on the field. If a \"Dream Mirror\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only activate 1 \"Dream Mirror Fantasy\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Dream Mirror Hypnagogia",
+        "Dream Mirror of Chaos",
+        "Dream Mirror of Joy",
+        "Dream Mirror of Terror",
+        "Dream Mirror Oneiromancy",
+        "Dream Mirror Phantasms",
+        "Dream Mirror Recap",
+        "Ikelos, the Dream Mirror Mara",
+        "Ikelos, the Dream Mirror Sprite",
+        "Morpheus, the Dream Mirror Black Knight",
+        "Morpheus, the Dream Mirror White Knight",
+        "Neiroy, the Dream Mirror Disciple",
+        "Neiroy, the Dream Mirror Traitor",
+        "Oneiros, the Dream Mirror Erlking",
+        "Oneiros, the Dream Mirror Tormentor",
+        "Phantasos, the Dream Mirror Foe",
+        "Phantasos, the Dream Mirror Friend"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

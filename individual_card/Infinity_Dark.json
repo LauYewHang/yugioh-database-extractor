@@ -11,7 +11,10 @@
     "attack": 1500,
     "defense": 1200,
     "monster_type": "Fiend",
-    "monster_card_type": 514,
+    "monster_card_type": [
+        "Gemini",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

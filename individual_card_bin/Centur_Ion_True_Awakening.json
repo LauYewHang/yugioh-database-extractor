@@ -1,0 +1,28 @@
+{
+    "name": "Centur-Ion True Awakening",
+    "filename": "Centur_Ion_True_Awakening",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated: Send 1 face-up Monster Card from your Spell & Trap Zone to the GY; negate the activation, and if you do, destroy that card. You can only activate 1 \"Centur-Ion True Awakening\" per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Centur-Ion Atrii",
+        "Centur-Ion Auxila",
+        "Centur-Ion Bonds",
+        "Centur-Ion Emeth VI",
+        "Centur-Ion Gargoyle II",
+        "Centur-Ion Legatia",
+        "Centur-Ion Phalanx",
+        "Centur-Ion Primera",
+        "Centur-Ion Primera Primus",
+        "Centur-Ion Trudea",
+        "Emblema Oath",
+        "Emblema Salvation",
+        "Stand Up Centur-Ion!",
+        "Wake Up Centur-Ion!"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

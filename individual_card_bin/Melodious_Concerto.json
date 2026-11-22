@@ -1,0 +1,40 @@
+{
+    "name": "Melodious Concerto",
+    "filename": "Melodious_Concerto",
+    "card_text": "Fusion Summon 1 Fairy Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or Pendulum Zones. If a \"Melodious\" Fusion Monster(s) is sent to your GY while this card is in your GY, even during the Damage Step: You can place this card on the bottom of your Deck, then draw 1 card. You can only use each effect of \"Melodious Concerto\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "1st Movement Solo",
+        "Aria the Melodious Diva",
+        "Bacha the Melodious Maestra",
+        "Bloom Diva the Melodious Choir",
+        "Bloom Harmonist the Melodious Composer",
+        "Bloom Prima the Melodious Choir",
+        "Brilliant Rose",
+        "Canon the Melodious Diva",
+        "Couplet the Melodious Songstress",
+        "Crystal Rose",
+        "Elegy the Melodious Diva",
+        "Flowering Etoile the Melodious Magnificat",
+        "Fortissimo",
+        "Melodious Illusion",
+        "Mozarta the Melodious Maestra",
+        "Opera the Melodious Diva",
+        "Ostinato",
+        "Refrain the Melodious Songstress",
+        "Schuberta the Melodious Maestra",
+        "Score the Melodious Diva",
+        "Serenade the Melodious Diva",
+        "Shopina the Melodious Maestra",
+        "Solo the Melodious Songstress",
+        "Sonata the Melodious Diva",
+        "Soprano the Melodious Songstress",
+        "Tamtam the Melodious Diva"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

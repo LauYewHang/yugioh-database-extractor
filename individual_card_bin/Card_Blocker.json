@@ -1,0 +1,19 @@
+{
+    "name": "Card Blocker",
+    "filename": "Card_Blocker",
+    "card_text": "When this card is Summoned: Change it to Defense Position. When a face-up monster you control is targeted for an attack: You can change the target to this card. When this card is targeted for an attack: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the Graveyard; this card gains 500 DEF for each card sent, until the End Phase.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "RA YELLOW MEGA PACK",
+        "ANCIENT PROPHECY",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 400,
+    "defense": 400,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

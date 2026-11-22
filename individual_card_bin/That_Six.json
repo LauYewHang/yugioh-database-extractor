@@ -1,0 +1,12 @@
+{
+    "name": "That Six",
+    "filename": "That_Six",
+    "card_text": "Each time a player rolls a die (or dice), you can choose 1 die result, and apply the appropriate effect, based on the result.\n\u25cf1, 3, or 5: The die result is treated as 6.\n\u25cf2, 4, or 6: The die result is treated as 1.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

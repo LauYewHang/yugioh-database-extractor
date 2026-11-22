@@ -1,0 +1,12 @@
+{
+    "name": "Soul of Fire",
+    "filename": "Soul_of_Fire",
+    "card_text": "Your opponent draws 1 card. Select 1 Pyro-Type monster from your Deck and remove it from play. Inflict damage to your opponent equal to half the ATK of the removed monster. If you activate this card, you cannot declare an attack this turn.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "FORCE OF THE BREAKER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

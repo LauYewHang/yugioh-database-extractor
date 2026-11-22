@@ -1,0 +1,14 @@
+{
+    "name": "Magic Reflector",
+    "filename": "Magic_Reflector",
+    "card_text": "Select 1 Spell Card that remains face-up on the field and put 1 counter on it. If the selected card would be destroyed, the counter is removed instead.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "DUELIST PACK - KAIBA -",
+        "DARK BEGINNING 2",
+        "LEGACY OF DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -12,7 +12,10 @@
     "attack": 2200,
     "defense": 200,
     "monster_type": "Winged Beast",
-    "monster_card_type": 4097,
+    "monster_card_type": [
+        "Pendulum",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "Once per turn, when a Normal Monster you control inflicts battle damage to your opponent: You can target 1 card on the field; destroy it.",

@@ -1,0 +1,34 @@
+{
+    "name": "Heroic Challenger - Ambush Soldier",
+    "filename": "Heroic_Challenger___Ambush_Soldier",
+    "card_text": "During your Standby Phase: You can Tribute this card; Special Summon up to 2 \"Heroic Challenger\" monsters from your hand and/or Graveyard, except \"Heroic Challenger - Ambush Soldier\". You can only use this effect of \"Heroic Challenger - Ambush Soldier\" once per turn. When you do: You can banish this card from your Graveyard; make all \"Heroic Challenger\" monsters you currently control become Level 1.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Clasp Sword",
+        "Heroic Challenger - Double Lance",
+        "Heroic Challenger - Extra Sword",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Night Watchman",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Challenger - War Hammer",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Retribution Sword"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

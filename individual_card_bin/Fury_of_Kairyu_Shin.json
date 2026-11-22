@@ -1,0 +1,18 @@
+{
+    "name": "Fury of Kairyu-Shin",
+    "filename": "Fury_of_Kairyu_Shin",
+    "card_text": "Add 1 \"Torrential Tribute\" from your Deck to your hand. If a WATER monster(s) you control would be destroyed by card effect, you can banish this card from your GY instead. You can only use each effect of \"Fury of Kairyu-Shin\" once per turn.",
+    "release_date": "2020-07-03",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
+    ],
+    "related_card": [
+        "Ocean Dragon Lord - Kairyu-Shin",
+        "Torrential Tribute"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

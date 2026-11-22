@@ -1,0 +1,36 @@
+{
+    "name": "Inzektor Crossbow - Zektarrow",
+    "filename": "Inzektor_Crossbow___Zektarrow",
+    "card_text": "Equip only to an \"Inzektor\" monster. It gains 500 ATK. Your opponent cannot activate cards or effects in response to the activation of the equipped monster's effects.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Armor Blast",
+        "Final Inzektion",
+        "Inzektor Ant",
+        "Inzektor Axe - Zektahawk",
+        "Inzektor Centipede",
+        "Inzektor Dragonfly",
+        "Inzektor Earwig",
+        "Inzektor Exa-Beetle",
+        "Inzektor Exa-Stag",
+        "Inzektor Firefly",
+        "Inzektor Gauntlet",
+        "Inzektor Giga-Cricket",
+        "Inzektor Giga-Mantis",
+        "Inzektor Giga-Weevil",
+        "Inzektor Hopper",
+        "Inzektor Hornet",
+        "Inzektor Ladybug",
+        "Inzektor Orb",
+        "Inzektor Picofalena",
+        "Inzektor Sword - Zektkaliber",
+        "Variable Form",
+        "Zekt Conversion",
+        "Zektrike Kou-ou"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

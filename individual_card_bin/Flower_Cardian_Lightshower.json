@@ -1,0 +1,41 @@
+{
+    "name": "Flower Cardian Lightshower",
+    "filename": "Flower_Cardian_Lightshower",
+    "card_text": "1 Tuner + 3 non-Tuner monsters\nYour opponent cannot target \"Flower Cardian\" monsters you control with card effects, also those monsters cannot be destroyed by card effects. During your opponent's Draw Phase, if they draw a card(s) for their normal draw: Inflict 1500 damage to your opponent. Once per turn, during your opponent's End Phase: Activate 1 of these effects;\n\u25cfSkip the Draw Phase of your next turn.\n\u25cfNegate this card's other effects until your opponent's next Standby Phase.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Flower Cardian Boardefly",
+        "Flower Cardian Cherry Blossom",
+        "Flower Cardian Cherry Blossom with Curtain",
+        "Flower Cardian Clover with Boar",
+        "Flower Cardian Lightflare",
+        "Flower Cardian Maple with Deer",
+        "Flower Cardian Moonflowerviewing",
+        "Flower Cardian Paulownia",
+        "Flower Cardian Paulownia with Phoenix",
+        "Flower Cardian Peony with Butterfly",
+        "Flower Cardian Pine",
+        "Flower Cardian Pine with Crane",
+        "Flower Cardian Willow",
+        "Flower Cardian Willow with Calligrapher",
+        "Flower Cardian Zebra Grass",
+        "Flower Cardian Zebra Grass with Moon",
+        "Flower Gathering",
+        "Flower Stacking",
+        "Fraud Freeze",
+        "Recardination",
+        "Super All In!",
+        "Super Koi Koi"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Warrior",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

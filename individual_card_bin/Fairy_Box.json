@@ -1,0 +1,16 @@
+{
+    "name": "Fairy Box",
+    "filename": "Fairy_Box",
+    "card_text": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. Once per turn, during your Standby Phase, pay 500 LP, or destroy this card.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "DUELIST LEAGUE 2",
+        "DARK BEGINNING 1",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Battlin' Boxing Spirits",
+    "filename": "Battlin__Boxing_Spirits",
+    "card_text": "Send the top card of your Deck to the GY, then target 1 \"Battlin' Boxer\" monster in your GY; Special Summon that target in face-up Defense Position. You can only activate 1 \"Battlin' Boxing Spirits\" per turn.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "2014 MEGA-TINS MEGA PACK",
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [
+        "Battlin' Boxer Big Bandage",
+        "Battlin' Boxer Cheat Commissioner",
+        "Battlin' Boxer Chief Second",
+        "Battlin' Boxer Counterpunch",
+        "Battlin' Boxer Glassjaw",
+        "Battlin' Boxer Headgeared",
+        "Battlin' Boxer King Dempsey",
+        "Battlin' Boxer Lead Yoke",
+        "Battlin' Boxer Promoter",
+        "Battlin' Boxer Rabbit Puncher",
+        "Battlin' Boxer Rib Gardna",
+        "Battlin' Boxer Shadow",
+        "Battlin' Boxer Sparrer",
+        "Battlin' Boxer Switchitter",
+        "Battlin' Boxer Uppercutter",
+        "Battlin' Boxer Veil",
+        "Number 105: Battlin' Boxer Star Cestus",
+        "Number 79: Battlin' Boxer Nova Kaiser",
+        "Number C105: Battlin' Boxer Comet Cestus",
+        "Number C79: Battlin' Boxer General Kaiser",
+        "Ring Announcer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

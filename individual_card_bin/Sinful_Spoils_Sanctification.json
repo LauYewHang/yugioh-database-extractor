@@ -1,0 +1,35 @@
+{
+    "name": "Sinful Spoils Sanctification",
+    "filename": "Sinful_Spoils_Sanctification",
+    "card_text": "You can activate 1 of these effects;\n\u25cfTarget 1 \"Diabell\" monster in your GY or banishment; discard 1 card, and if you do, Special Summon that monster.\n\u25cfTarget 1 face-up Monster Card in your Spell & Trap Zone; Special Summon it.\nYou can only use this effect of \"Sinful Spoils Sanctification\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Azamina Debtors",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Curse of Diabell",
+        "Diabell, Queen of the White Forest",
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Diabellze the Original Sinkeeper",
+        "Diabellze the White Witch",
+        "Elzette, Azamina of the White Forest",
+        "Filia Diabell",
+        "Like the Diabell",
+        "Play the Diabell",
+        "Queen Azamina",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils Struggle",
+        "Snake-Eyes Diabellstar",
+        "The Hallowed Azamina",
+        "WANTED: Seeker of Sinful Spoils"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

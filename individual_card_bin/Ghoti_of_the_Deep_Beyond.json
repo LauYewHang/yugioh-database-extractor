@@ -1,0 +1,24 @@
+{
+    "name": "Ghoti of the Deep Beyond",
+    "filename": "Ghoti_of_the_Deep_Beyond",
+    "card_text": "1+ Fish Tuners + 1+ non-Tuner monsters\nThe original ATK of this card becomes 500 x the number of banished monsters. If this card is Synchro Summoned during your opponent's turn: You can banish all cards on the field. During the Standby Phase of the next turn after this card was banished from the Monster Zone: You can Special Summon this banished card.",
+    "release_date": "2022-07-30",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "POWER OF THE ELEMENTS Core Booster Premiere!",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Eanoc, Sentry of the Ghoti",
+        "Ghoti Chain",
+        "Ixeep, Omen of the Ghoti",
+        "The Most Distant, Deepest Depths"
+    ],
+    "attribute": "WATER",
+    "attack": "?",
+    "defense": 0,
+    "monster_type": "Fish",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

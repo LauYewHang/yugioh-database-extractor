@@ -1,0 +1,15 @@
+{
+    "name": "Core Transport Unit",
+    "filename": "Core_Transport_Unit",
+    "card_text": "Once per turn, you can discard 1 card to add 1 \"Iron Core of Koa'ki Meiru\" from your Deck to your hand.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Iron Core of Koa'ki Meiru",
+        "Koa'ki Meiru Supplier"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

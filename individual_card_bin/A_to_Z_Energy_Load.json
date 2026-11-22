@@ -1,0 +1,14 @@
+{
+    "name": "A-to-Z Energy Load",
+    "filename": "A_to_Z_Energy_Load",
+    "card_text": "When your opponent activates a card or effect: Draw cards equal to the number of Level 8 or higher LIGHT Machine Fusion Monsters you control. During your Standby Phase: You can banish this card from your GY; shuffle up to 6 of your banished LIGHT Machine monsters into the Deck, including a Union monster. You can only use each effect of \"A-to-Z Energy Load\" once per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Union Controller"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

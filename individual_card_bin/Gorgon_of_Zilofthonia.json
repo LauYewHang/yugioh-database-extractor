@@ -1,0 +1,19 @@
+{
+    "name": "Gorgon of Zilofthonia",
+    "filename": "Gorgon_of_Zilofthonia",
+    "card_text": "2+ Effect Monsters\nYou cannot Summon/Set monsters to a zone(s) this card points to. Monsters this card points to cannot attack, also their activated effects are negated. Gains ATK equal to the total original ATK of monsters this card points to. Cannot be destroyed by battle or monster effects, while this card points to no monsters.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE",
+        "MAGNIFICENT MONSTERS",
+        "WINNER'S PACK 2026-2027"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": null,
+    "monster_type": "Reptile",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 896
+}

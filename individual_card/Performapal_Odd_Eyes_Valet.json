@@ -156,7 +156,10 @@
     "attack": 100,
     "defense": 200,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 1,
     "pendulum_effect": "Once per turn, when an opponent's monster declares an attack: You can make that opponent's monster lose 300 ATK for each face-up Pendulum Monster in your Extra Deck.",

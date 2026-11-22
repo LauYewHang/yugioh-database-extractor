@@ -1,0 +1,39 @@
+{
+    "name": "Halfway to Forever",
+    "filename": "Halfway_to_Forever",
+    "card_text": "Target 2 monsters in your GY; Special Summon both, but negate their effects (if any), and if you do, immediately after this effect resolves, Xyz Summon 1 LIGHT \"Utopia\" or \"Utopic\" Xyz Monster using only those 2 monsters.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "DUELIST SAGA",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Full Armored Utopic Ray Lancer",
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number 99: Utopic Dragon",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number F0: Utopic Draco Future",
+        "Number F0: Utopic Future",
+        "Number F0: Utopic Future Slash",
+        "Number F0: Utopic Future Zexal",
+        "Number S0: Utopic ZEXAL",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Number XX: Utopic Dark Infinity",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray",
+        "ZS - Utopic Sage"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Dark Bribe",
+    "filename": "Dark_Bribe",
+    "card_text": "When your opponent activates a Spell/Trap Card: Your opponent draws 1 card, also negate the Spell/Trap activation, and if you do, destroy it.",
+    "release_date": "2007-09-18",
+    "available_set": [
+        "DARK LEGENDS",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "QUARTER CENTURY BONANZA",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "SUPER STARTER V FOR VICTORY",
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "STARTER DECK - LINK STRIKE -",
+        "Yu-Gi-Oh! GX TAG FORCE 2 Bundles",
+        "BATTLE PACK EPIC DAWN",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "STARTER DECK YUYA",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

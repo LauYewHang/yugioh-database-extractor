@@ -1,0 +1,43 @@
+{
+    "name": "Dogmatikaturgy",
+    "filename": "Dogmatikaturgy",
+    "card_text": "Ritual Summon 1 \"Dogmatika\" Ritual Monster from your hand or Deck by Tributing \"Dogmatika\" monsters and/or Ritual, Fusion, or Synchro Monsters from your field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon. If this card is in your GY: You can banish this card, then target 2 \"Dogmatika\" monsters with different Levels in your GY; add 1 of them to your hand, and place the other on the bottom of your Deck. You can only use 1 \"Dogmatikaturgy\" effect per turn, and only once that turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Alba System Dogmatikalamity",
+        "Branded in Central Dogmatika",
+        "Dogmatika Adin, the Enlightened",
+        "Dogmatika Alba Zoa",
+        "Dogmatika Ashiyan",
+        "Dogmatika Ecclesia, the Virtuous",
+        "Dogmatika Encounter",
+        "Dogmatika Fleurdelis, the Knighted",
+        "Dogmatika Fleurdelis, the Thunderbolt",
+        "Dogmatika Genesis",
+        "Dogmatika Lawbringer",
+        "Dogmatika Maximus",
+        "Dogmatika Nation",
+        "Dogmatika Nexus",
+        "Dogmatika Punishment",
+        "Dogmatika Theo, the Iron Punch",
+        "Dogmatikacism",
+        "Dogmatikalamity",
+        "Dogmatikamacabre",
+        "Dogmatikamatrix",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Nadir Servant",
+        "Quadogmatika Beast",
+        "The Dragon that Devours the Dogma",
+        "The Fallen & The Virtuous",
+        "Titaniklad the Ash Dragon",
+        "White Knight of Dogmatika",
+        "White Relic of Dogmatika"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Guldfaxe of the Nordic Beasts",
+    "filename": "Guldfaxe_of_the_Nordic_Beasts",
+    "card_text": "If your opponent controls a Synchro Monster and you control no monsters, you can Special Summon this card (from your hand).",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STORM OF RAGNAROK",
+        "STAR PACK 2014"
+    ],
+    "related_card": [
+        "Alviss of the Nordic Alfar",
+        "Dverg of the Nordic Alfar",
+        "Gleipnir, the Fetters of Fenrir",
+        "Gullveig of the Nordic Ascendant",
+        "Ljosalf of the Nordic Alfar",
+        "Mara of the Nordic Alfar",
+        "Mimir of the Nordic Ascendant",
+        "Nordic Beast Gullinbursti",
+        "Nordic Relic Draupnir",
+        "Nordic Relic Gungnir",
+        "Nordic Relic Hlidskjalf",
+        "Nordic Relic Megingjord",
+        "Nordic Relic Svalinn",
+        "Nordic Smith Ivaldi",
+        "Svartalf of the Nordic Alfar",
+        "Tanngnjostr of the Nordic Beasts",
+        "The Nordic Lights",
+        "Thor, Lord of the Aesir",
+        "Tyr of the Nordic Champions",
+        "Valkyrie of the Nordic Ascendant",
+        "Vanadis of the Nordic Ascendant"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

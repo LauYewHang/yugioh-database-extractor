@@ -1,0 +1,27 @@
+{
+    "name": "Time Thief Retrograde",
+    "filename": "Time_Thief_Retrograde",
+    "card_text": "When a Spell/Trap Card is activated while you control a \"Time Thief\" Xyz Monster: Negate the activation, and if you do, attach that card to a \"Time Thief\" Xyz Monster you control as material. You can only activate 1 \"Time Thief Retrograde\" per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT",
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Time Thief Adjuster",
+        "Time Thief Bezel Ship",
+        "Time Thief Chronocorder",
+        "Time Thief Double Barrel",
+        "Time Thief Flyback",
+        "Time Thief Hack",
+        "Time Thief Perpetua",
+        "Time Thief Power Reserve",
+        "Time Thief Redoer",
+        "Time Thief Regulator",
+        "Time Thief Startup",
+        "Time Thief Temporwhal",
+        "Time Thief Winder"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

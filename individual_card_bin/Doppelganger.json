@@ -1,0 +1,12 @@
+{
+    "name": "Doppelganger",
+    "filename": "Doppelganger",
+    "card_text": "When you take damage from the effect of a monster your opponent controls, inflict the same amount of damage to your opponent.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

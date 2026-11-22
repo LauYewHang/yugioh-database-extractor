@@ -1,0 +1,12 @@
+{
+    "name": "Chaos Seed",
+    "filename": "Chaos_Seed",
+    "card_text": "If you control both LIGHT and DARK monster(s): You can target 1 of your banished LIGHT or DARK Warrior-Type monsters; add it to your hand. You can only activate 1 \"Chaos Seed\" per turn.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

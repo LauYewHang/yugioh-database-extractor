@@ -1,0 +1,21 @@
+{
+    "name": "Xyz Territory",
+    "filename": "Xyz_Territory",
+    "card_text": "When an Xyz Monster battles another monster, that Xyz Monster gains 200 ATK & DEF x its Rank, during damage calculation only. If this face-up card on the field would be destroyed by a card effect, you can detach 1 Xyz Material from a monster you control instead.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

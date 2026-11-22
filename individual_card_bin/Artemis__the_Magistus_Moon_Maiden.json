@@ -1,0 +1,42 @@
+{
+    "name": "Artemis, the Magistus Moon Maiden",
+    "filename": "Artemis__the_Magistus_Moon_Maiden",
+    "card_text": "1 Level 4 or lower Spellcaster monster\nIf another \"Magistus\" monster(s) is Normal or Special Summoned while you control this monster (except during the Damage Step): You can target 1 of those monsters; equip this card you control to it. While this card is equipped to a monster: You can add 1 \"Magistus\" monster from your Deck to your hand. You can only use each effect of \"Artemis, the Magistus Moon Maiden\" once per turn. You can only Special Summon \"Artemis, the Magistus Moon Maiden\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 8194,
+    "link_rating": 1,
+    "link_arrow": 256
+}

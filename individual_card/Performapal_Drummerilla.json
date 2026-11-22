@@ -81,7 +81,10 @@
     "attack": 1600,
     "defense": 900,
     "monster_type": "Beast",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can target that monster you control; it gains 600 ATK until the end of the Battle Phase (even if this card leaves the field).",

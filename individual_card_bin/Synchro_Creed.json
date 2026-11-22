@@ -1,0 +1,14 @@
+{
+    "name": "Synchro Creed",
+    "filename": "Synchro_Creed",
+    "card_text": "If a Synchro Monster is on the field: Draw 1 card, then, if 3 or more Synchro Monsters are on the field, you can draw 1 more card. You can only activate 1 \"Synchro Creed\" per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Snake-Eyes Flamberge Dragon",
+    "filename": "Snake_Eyes_Flamberge_Dragon",
+    "card_text": "You can target 1 face-up monster on the field or in either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. During your opponent's turn (Quick Effect): You can target 1 Monster Card treated as a Continuous Spell on the field; Special Summon it to your field. If this card is sent from the hand or field to the GY: You can Special Summon 2 Level 1 FIRE monsters from your GY. You can only use each effect of \"Snake-Eyes Flamberge Dragon\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "QUARTER CENTURY BONANZA",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Divine Temple of the Snake-Eye",
+        "Original Sinful Spoils - Snake-Eye",
+        "Snake-Eye Ash",
+        "Snake-Eye Birch",
+        "Snake-Eye Oak",
+        "Snake-Eyes Doomed Dragon",
+        "Snake-Eyes Poplar",
+        "Startling Stare of the Snake-Eyes"
+    ],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

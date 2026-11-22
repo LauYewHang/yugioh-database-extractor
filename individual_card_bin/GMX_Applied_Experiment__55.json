@@ -1,0 +1,26 @@
+{
+    "name": "GMX Applied Experiment #55",
+    "filename": "GMX_Applied_Experiment__55",
+    "card_text": "Excavate the top cards of your Deck until you have excavated a \"GMX\" monster and a Dinosaur monster, lose 400 LP for each excavated card, then you can Fusion Summon 1 \"GMX\" Fusion Monster from your Extra Deck, using any excavated monsters as material, also shuffle the rest into the Deck. You can only activate 1 \"GMX Applied Experiment #55\" per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Anti-GMX Final Experiment",
+        "Evolved Daneen",
+        "GMX - ALLOS",
+        "GMX - COMPREX",
+        "GMX - VELOX",
+        "GMX 55th Experiment Report",
+        "GMX Associate Noma",
+        "GMX Chairman Kimridge",
+        "GMX Lab #5",
+        "GMX Partner Selandea",
+        "GMX Researcher Selande",
+        "GMX Suppression Squad",
+        "Returned Dino Daneen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

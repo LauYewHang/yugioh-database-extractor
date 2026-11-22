@@ -85,7 +85,10 @@
     "attack": 1800,
     "defense": 1050,
     "monster_type": "Fairy",
-    "monster_card_type": 514,
+    "monster_card_type": [
+        "Gemini",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

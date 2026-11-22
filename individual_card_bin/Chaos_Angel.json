@@ -1,0 +1,24 @@
+{
+    "name": "Chaos Angel",
+    "filename": "Chaos_Angel",
+    "card_text": "1 Tuner + 1+ non-Tuner LIGHT or DARK monsters\nFor this card's Synchro Summon, you can treat 1 LIGHT or DARK monster you control as a Tuner. If this card is Special Summoned: You can target 1 card on the field; banish it. This card gains these effects based on the original Attributes of materials used for its Synchro Summon.\n\u25cfLIGHT: Synchro Monsters you control are unaffected by monster effects activated by your opponent.\n\u25cfDARK: Monsters you control cannot be destroyed by battle.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "OTS TOURNAMENT PACK 24",
+        "LEGENDARY ARC-V DECKS",
+        "CYBERSTORM ACCESS",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [
+        "Chaos Archfiend"
+    ],
+    "attribute": "DARK",
+    "attack": 3500,
+    "defense": 2800,
+    "monster_type": "Fiend",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

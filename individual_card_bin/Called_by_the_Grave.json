@@ -1,0 +1,25 @@
+{
+    "name": "Called by the Grave",
+    "filename": "Called_by_the_Grave",
+    "card_text": "Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name.",
+    "release_date": "2018-03-23",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "Legendary 5D's Decks",
+        "WINNER'S PACK 2026-2027",
+        "Gold Series: Maximum Gold",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "FLAMES OF DESTRUCTION",
+        "Duel Devastator",
+        "EXTREME FORCE SPECIAL EDITION",
+        "LEGENDARY ARC-V DECKS",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "RARITY COLLECTION 5",
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

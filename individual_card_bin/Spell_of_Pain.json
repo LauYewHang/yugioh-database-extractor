@@ -1,0 +1,14 @@
+{
+    "name": "Spell of Pain",
+    "filename": "Spell_of_Pain",
+    "card_text": "When your opponent activates a card or effect that would inflict effect damage to you: Your opponent takes the effect damage from that card or effect, instead.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DUEL TERMINAL 3",
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

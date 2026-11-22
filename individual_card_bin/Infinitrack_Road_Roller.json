@@ -1,0 +1,24 @@
+{
+    "name": "Infinitrack Road Roller",
+    "filename": "Infinitrack_Road_Roller",
+    "card_text": "If an EARTH Machine monster is Tributed, or banished face-up: You can Special Summon this card from the GY (if it was there when the monster was Tributed or banished) or hand (even if not), but banish it when it leaves the field. You can only use this effect of \"Infinitrack Road Roller\" once per turn. An Xyz Monster whose original Type is Machine and has this card as material gains this effect.\n\u25cfFace-up monsters your opponent controls are changed to Defense Position, also they lose 1000 DEF.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Heavy Forward",
+        "Infinitrack Brutal Dozer",
+        "Infinitrack Goliath",
+        "Infinitrack Harvester",
+        "Infinitrack Trencher",
+        "Outrigger Extension"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

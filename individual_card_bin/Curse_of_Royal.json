@@ -1,0 +1,14 @@
+{
+    "name": "Curse of Royal",
+    "filename": "Curse_of_Royal",
+    "card_text": "Negate the activation and the effect of a Spell or Trap Card that includes the effect of destroying 1 Spell or Trap Card and destroy it.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "DARK BEGINNING 2",
+        "TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Melffy Hide-and-Seek",
+    "filename": "Melffy_Hide_and_Seek",
+    "card_text": "The first time each Beast monster you control would be destroyed by card effect each turn, it is not destroyed. You can target 3 Beast monsters in your GY with different names; shuffle them into the Deck, then draw 1 card. You can only use this effect of \"Melffy Hide-and-Seek\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "RISE OF THE DUELIST",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Joyous Melffys",
+        "Melffy Footsteps",
+        "Melffy Godmommy",
+        "Melffy of the Forest",
+        "Melffy Pinny",
+        "Melffy Playtime Surprise",
+        "Melffy Rabbys",
+        "Melffy Staring Contest",
+        "Melffy Tag",
+        "Melffy Wally",
+        "Melffys' Joyful Surprise",
+        "Merry Melffys"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

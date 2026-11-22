@@ -1,0 +1,19 @@
+{
+    "name": "Spirit Caller",
+    "filename": "Spirit_Caller",
+    "card_text": "FLIP: You can Special Summon 1 Level 3 or lower Normal Monster from your Graveyard to your side of the field.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "STARTER DECK 2006",
+        "ANCIENT SANCTUARY",
+        "DARK REVELATION Volume 2"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

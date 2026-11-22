@@ -1,0 +1,19 @@
+{
+    "name": "Battlecruiser Dianthus",
+    "filename": "Battlecruiser_Dianthus",
+    "card_text": "3 Level 3 monsters\nYou can detach 1 Xyz Material from this card; inflict 200 damage to your opponent for each card in their hand. You can only use the effect of \"Battlecruiser Dianthus\" once per turn.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [
+        "CXyz Battleship Cherry Blossom"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 1800,
+    "monster_type": "Plant",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,31 @@
+{
+    "name": "True King Bahrastos, the Fathomer",
+    "filename": "True_King_Bahrastos__the_Fathomer",
+    "card_text": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up on your field, including a WATER monster, and if you do, Special Summon this card, and if you do that, you can banish up to 2 Spell/Trap Cards from your opponent's field and/or Graveyard, if both the destroyed monsters were WATER. If this card is destroyed by card effect: You can Special Summon 1 non-WATER Wyrm-Type monster from your Deck in Defense Position. You can only use each effect of \"True King Bahrastos, the Fathomer\" once per turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Dinomight Knight, the True Dracofighter",
+        "Disciples of the True Dracophoenix",
+        "Draco Awakening",
+        "Dragonic Diagram",
+        "Dreiath III, the True Dracocavalry General",
+        "Ignis Heat, the True Dracowarrior",
+        "Majesty Maiden, the True Dracocaster",
+        "Mariamne Paradox, the True Dracophoenix Knight",
+        "True Draco Apocalypse",
+        "True Draco Heritage",
+        "True King of All Calamities",
+        "True King's Return"
+    ],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 3000,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

@@ -1,0 +1,25 @@
+{
+    "name": "PSY-Frame Overload",
+    "filename": "PSY_Frame_Overload",
+    "card_text": "Once per turn: You can banish 1 \"PSY-Frame\" monster from your hand or face-up from your side of the field, then target 1 card on the field; banish it face-down. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 \"PSY-Frame\" card from your Deck to your hand, except \"PSY-Frame Overload\".",
+    "release_date": "2015-10-02",
+    "available_set": [
+        "HIGH-SPEED RIDERS"
+    ],
+    "related_card": [
+        "PSY-Frame Accelerator",
+        "PSY-Frame Circuit",
+        "PSY-Frame Driver",
+        "PSY-Frame Multi-Threader",
+        "PSY-Framegear Alpha",
+        "PSY-Framegear Beta",
+        "PSY-Framegear Delta",
+        "PSY-Framegear Epsilon",
+        "PSY-Framegear Gamma",
+        "PSY-Framelord Lambda",
+        "PSY-Framelord Omega",
+        "PSY-Framelord Zeta"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

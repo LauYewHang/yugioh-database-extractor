@@ -1,0 +1,29 @@
+{
+    "name": "Super B.E.S. Metal Slave",
+    "filename": "Super_B_E_S__Metal_Slave",
+    "card_text": "You can send up to 5 Level 10 or lower \"B.E.S.\" monsters with different names from your hand and/or Deck to the GY; Special Summon this card from your hand, then place counters on this card equal to the number sent to the GY to activate this effect. You can only use this effect of \"Super B.E.S. Metal Slave\" once per turn. Once per Chain (Quick Effect): You can remove 1 counter from this card, then target 2 face-up cards on the field, including 1 \"B.E.S.\" monster you control; destroy them.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "B.E.F. Zelos",
+        "B.E.S. Big Core (Updated from: Big Core)",
+        "B.E.S. Big Core MK-2",
+        "B.E.S. Big Core MK-3",
+        "B.E.S. Blaster Cannon Core",
+        "B.E.S. Covered Core",
+        "B.E.S. Crystal Core",
+        "B.E.S. Derringer Core",
+        "B.E.S. Tetran",
+        "Boss on Parade",
+        "Boss Rush"
+    ],
+    "attribute": "DARK",
+    "attack": 3100,
+    "defense": 3100,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

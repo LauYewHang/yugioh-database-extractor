@@ -1,0 +1,17 @@
+{
+    "name": "Filia Regis",
+    "filename": "Filia_Regis",
+    "card_text": "1 Dragon Fusion Monster + 1 Level 7 or higher Dragon monster\nDuring the Main Phase (Quick Effect): You can target 1 card your opponent controls or in their GY; banish it, then if you banished a card on the field, return 1 Dragon monster you control to the hand. At the start of your opponent's Battle Phase, if this card is in your GY: You can return 1 Dragon monster you control to the hand or Extra Deck, and if you do, Special Summon this card. You can only use each effect of \"Filia Regis\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -80,7 +80,10 @@
     "attack": 300,
     "defense": 300,
     "monster_type": "Beast",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "When you Pendulum Summon a monster(s): You can target 1 card in either player's Pendulum Zone; return it to the hand. You can only use this effect of \"Performapal Trampolynx\" once per turn.",

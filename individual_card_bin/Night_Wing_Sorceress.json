@@ -1,0 +1,27 @@
+{
+    "name": "Night Wing Sorceress",
+    "filename": "Night_Wing_Sorceress",
+    "card_text": "You can activate \"Assault Mode Activate\" the turn it is Set.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Assault Lich",
+        "Assault Mode Activate",
+        "Assault Reboot",
+        "Assault Sentinel",
+        "Assault Sonic Warrior",
+        "Crimson Blader/Assault Mode",
+        "Duel Evolution - Assault Zone",
+        "Nightwinged Cleric",
+        "Psi-Reflector"
+    ],
+    "attribute": "WIND",
+    "attack": 1300,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

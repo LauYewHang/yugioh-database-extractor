@@ -1,0 +1,33 @@
+{
+    "name": "Quick Launch",
+    "filename": "Quick_Launch",
+    "card_text": "Special Summon 1 \"Rokket\" monster from your Deck, but it cannot attack, also destroy it during the End Phase.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK",
+        "STRUCTURE DECK: ROKKET REVOLT",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [
+        "Anesthrokket Dragon",
+        "Autorokket Dragon",
+        "Exploderokket Dragon",
+        "Hollowrokket Dragon",
+        "Magnarokket Dragon",
+        "Metalrokket Dragon",
+        "Rokket Barrage",
+        "Rokket Caliber",
+        "Rokket Coder",
+        "Rokket Detonator",
+        "Rokket Loader",
+        "Rokket Recharger",
+        "Rokket Synchron",
+        "Rokket Tracer",
+        "Shelrokket Dragon",
+        "Silverrokket Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -23,7 +23,10 @@
     "attack": 1500,
     "defense": 100,
     "monster_type": "Machine",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "You can discard 1 card; Special Summon 1 \"Symphonic Warrior\" monster from your Deck, except \"Symphonic Warrior Guitaar\". You can only use this effect of \"Symphonic Warrior Guitaar\" once per turn.",

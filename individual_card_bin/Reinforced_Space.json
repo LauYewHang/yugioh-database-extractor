@@ -1,0 +1,12 @@
+{
+    "name": "Reinforced Space",
+    "filename": "Reinforced_Space",
+    "card_text": "Each face-up Xyz Monster you control gains 300 ATK for each Xyz Material attached to it, until the End Phase.",
+    "release_date": "2011-07-12",
+    "available_set": [
+        "STARTER DECK DAWN OF THE XYZ"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

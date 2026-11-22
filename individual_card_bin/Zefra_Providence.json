@@ -1,0 +1,30 @@
+{
+    "name": "Zefra Providence",
+    "filename": "Zefra_Providence",
+    "card_text": "Add 1 \"Zefra\" card from your Deck to your hand, except \"Zefra Providence\". If a \"Zefra\" card(s) you control would be destroyed, except the turn this card was sent to the Graveyard, you can banish this card from your Graveyard instead. You can only activate 1 \"Zefra Providence\" per turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Chosen of Zefra",
+        "Oracle of Zefra",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Satellarknight Zefrathuban",
+        "Shaddoll Zefracore",
+        "Shaddoll Zefranaga",
+        "Stellarknight Zefraxciton",
+        "Zefra Divine Strike",
+        "Zefra Metaltron",
+        "Zefra Path",
+        "Zefra War",
+        "Zefraath",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

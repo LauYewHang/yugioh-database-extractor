@@ -23,7 +23,10 @@
     "attack": 2400,
     "defense": 1800,
     "monster_type": "Plant",
-    "monster_card_type": 18,
+    "monster_card_type": [
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

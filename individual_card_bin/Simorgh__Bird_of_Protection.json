@@ -1,0 +1,25 @@
+{
+    "name": "Simorgh, Bird of Protection",
+    "filename": "Simorgh__Bird_of_Protection",
+    "card_text": "When this card is Normal Summoned: You can target 1 card in your opponent's Spell & Trap Zone; return it to the hand. If this card is in your GY and your opponent controls no cards in their Spell & Trap Zone: You can Special Summon this card in Defense Position, but banish it when it leaves the field, also you cannot Special Summon monsters for the rest of this turn, except Winged Beast monsters. You can only use each effect of \"Simorgh, Bird of Protection\" once per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Simorgh Onslaught",
+        "Simorgh Sky Battle",
+        "Simorgh, Bird of Beginning",
+        "Simorgh, Bird of Bringing",
+        "Simorgh, Bird of Calamity",
+        "Simorgh, Bird of Perfection",
+        "Simorgh, Bird of Sovereignty"
+    ],
+    "attribute": "WIND",
+    "attack": 1400,
+    "defense": 1000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

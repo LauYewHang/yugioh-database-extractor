@@ -1,0 +1,12 @@
+{
+    "name": "Cry Havoc!",
+    "filename": "Cry_Havoc_",
+    "card_text": "You can remove from play 1 monster from your Graveyard to Normal Summon or Set 1 Normal Monster from your hand. You can only activate this effect during your Main Phase.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

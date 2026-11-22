@@ -1,0 +1,31 @@
+{
+    "name": "Invoked Oceanus",
+    "filename": "Invoked_Oceanus",
+    "card_text": "1 \"Aleister\" monster + 1 DARK or WATER monster\nWhile this card is in the Main Monster Zone, your opponent's monsters cannot target monsters for attacks, except this one. While this card is in the Extra Monster Zone, any monster sent to your opponent's GY is banished instead. You can banish this card from your GY, then target 1 Fusion Monster you control; it can attack directly this turn. You can only use this effect of \"Invoked Oceanus\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Aiwass, Divine Spirit of the Law",
+        "Aleister the Invoker",
+        "Aleister the Invoker of Madness",
+        "Aleister the Reminiscent",
+        "Crowley, the Gifted Magistus",
+        "Gamma Summon",
+        "Invocation",
+        "Invocation - \"Grail\"",
+        "Invocation - \"Sword\"",
+        "Invoked Elysium",
+        "Invoked Sorath",
+        "Omega Summon",
+        "The Book of the Law"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Omega Summon",
+    "filename": "Omega_Summon",
+    "card_text": "Target any number of your banished \"Invoked\" monsters with different names; Special Summon them in Defense Position.",
+    "release_date": "2017-02-24",
+    "available_set": [
+        "SHADOWS IN VALHALLA",
+        "FUSION ENFORCERS"
+    ],
+    "related_card": [
+        "Aleister the Invoker of Madness",
+        "Hyperinvoked Aeon",
+        "Invoked Augoeides",
+        "Invoked Baybarron",
+        "Invoked Caliga",
+        "Invoked Cocytus",
+        "Invoked De Anima",
+        "Invoked Elysium",
+        "Invoked Magellanica",
+        "Invoked Magistus Omega",
+        "Invoked Mechaba",
+        "Invoked Oceanus",
+        "Invoked Purgatrio",
+        "Invoked Raidjin",
+        "Invoked Sorath"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

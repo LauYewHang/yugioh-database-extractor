@@ -1,0 +1,19 @@
+{
+    "name": "Dragonecro Nethersoul Dragon",
+    "filename": "Dragonecro_Nethersoul_Dragon",
+    "card_text": "2 Zombie monsters\nMust first be Fusion Summoned. Monsters cannot be destroyed by battle with this card. At the end of the Damage Step, if this card battled a monster: Change that monster's ATK to 0, also, if that monster is still face-up on the field, Special Summon 1 \"Dark Soul Token\" (Zombie/DARK/Level ?/ATK ?/DEF 0) with the same Level/ATK as the original Level/ATK of that monster. You can only control 1 \"Dragonecro Nethersoul Dragon\".",
+    "release_date": "2014-03-28",
+    "available_set": [
+        "PREMIUM GOLD",
+        "MAGNIFICENT MAVENS",
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

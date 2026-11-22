@@ -1,0 +1,20 @@
+{
+    "name": "Numeron Storm",
+    "filename": "Numeron_Storm",
+    "card_text": "If you control a \"Numerounius\" monster: Destroy as many Spells/Traps your opponent controls as possible (min. 1), and if you do, inflict 1000 damage to your opponent.",
+    "release_date": "2021-11-19",
+    "available_set": [
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Number 1: Numeron Gate Ekam",
+        "Number 2: Numeron Gate Dve",
+        "Number 3: Numeron Gate Trini",
+        "Number 4: Numeron Gate Catvari",
+        "Number C1000: Numerounius",
+        "Number iC1000: Numerounius Numerounia",
+        "Numeron Network"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

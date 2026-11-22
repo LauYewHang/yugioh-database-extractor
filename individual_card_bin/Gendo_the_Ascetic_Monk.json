@@ -1,0 +1,18 @@
+{
+    "name": "Gendo the Ascetic Monk",
+    "filename": "Gendo_the_Ascetic_Monk",
+    "card_text": "Face-up Attack Position monsters on the field cannot activate their effects. This Defense Position card cannot be targeted, or destroyed, by card effects.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

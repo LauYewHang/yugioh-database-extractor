@@ -1,0 +1,27 @@
+{
+    "name": "Waboku",
+    "filename": "Waboku",
+    "card_text": "You take no battle damage this turn. Your monsters cannot be destroyed by battle this turn.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK JOEY",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "BATTLE PACK 2 WAR OF THE GIANTS",
+        "STARTER DECK YUGI RELOADED",
+        "STARTER DECK PEGASUS",
+        "STARTER DECK YUGI Evolution",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "Speed Duel: Battle City Box",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "DUEL TERMINAL 3",
+        "MAGNIFICENT MONSTERS",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "STARTER DECK YUGI",
+        "DEMO DECK 2026"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

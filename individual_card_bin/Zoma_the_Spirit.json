@@ -1,0 +1,21 @@
+{
+    "name": "Zoma the Spirit",
+    "filename": "Zoma_the_Spirit",
+    "card_text": "Special Summon this card in Defense Position as an Effect Monster (Zombie/DARK/Level 4/ATK 1800/DEF 500) (this card is also still a Trap). If this card Summoned this way is destroyed by battle: Inflict damage to your opponent equal to the ATK of the monster that destroyed it.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "TURBO PACK BOOSTER FIVE",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "GOLD SERIES HAUNTED MINE",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "PHANTOM DARKNESS",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

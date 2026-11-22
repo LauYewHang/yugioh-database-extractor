@@ -157,7 +157,10 @@
     "attack": 100,
     "defense": 1800,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "You can target 1 \"Performapal\" or \"Odd-Eyes\" card in your GY; add it to your hand, then destroy this card. You can only use this effect of \"Performapal Odd-Eyes Seer\" once per turn.",

@@ -29,7 +29,12 @@
     "attack": 100,
     "defense": null,
     "monster_type": "Fiend",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 1,
-    "link_arrow": 64
+    "link_arrow": [
+        "Middle-Right"
+    ]
 }

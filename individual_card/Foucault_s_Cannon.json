@@ -16,7 +16,10 @@
     "attack": 2200,
     "defense": 1200,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4097,
+    "monster_card_type": [
+        "Pendulum",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "Once per turn, during the End Phase, if this card was activated this turn: You can target 1 face-up Spell/Trap Card on the field; destroy it.",

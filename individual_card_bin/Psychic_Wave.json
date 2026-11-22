@@ -1,0 +1,23 @@
+{
+    "name": "Psychic Wave",
+    "filename": "Psychic_Wave",
+    "card_text": "If you control a Machine monster: Send 1 \"Jinzo\" from your hand or Deck to the GY; inflict 600 damage to your opponent. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Machine monster in your GY; send 1 \"Jinzo\" monster from your Deck to the GY, and if you do, add that targeted monster to your hand. You can only use this effect of \"Psychic Wave\" once per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Jinzo",
+        "Jinzo #7",
+        "Jinzo - Energy Shocker",
+        "Jinzo - Jector",
+        "Jinzo - Layered",
+        "Jinzo - Lord",
+        "Jinzo - Returner",
+        "Jinzo the Machine Menace",
+        "Law of the Cosmos",
+        "Psychic Bounder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

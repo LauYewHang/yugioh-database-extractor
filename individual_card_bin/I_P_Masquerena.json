@@ -1,0 +1,25 @@
+{
+    "name": "I:P Masquerena",
+    "filename": "I_P_Masquerena",
+    "card_text": "2 non-Link Monsters\nDuring your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Link Monster using materials you control, including this card. You can only use this effect of \"I:P Masquerena\" once per turn. A Link Monster that used this card as material cannot be destroyed by your opponent's card effects.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "CHAOS IMPACT",
+        "2020 TIN OF LOST MEMORIES",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "LEGENDARY ARC-V DECKS",
+        "MAGNIFICENT MONSTERS",
+        "RARITY COLLECTION 5",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

@@ -1,0 +1,20 @@
+{
+    "name": "White Sunfish",
+    "filename": "White_Sunfish",
+    "card_text": "If this card is in your hand: You can target 1 Level 4 or lower Fish monster in your GY with the same name as a card you control; Special Summon this card, and if you do, Special Summon that monster. You can only use this effect of \"White Sunfish\" once per turn. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "White Reincarnation"
+    ],
+    "attribute": "WATER",
+    "attack": 1200,
+    "defense": 1000,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

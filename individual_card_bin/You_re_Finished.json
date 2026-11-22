@@ -1,0 +1,13 @@
+{
+    "name": "You're Finished",
+    "filename": "You_re_Finished",
+    "card_text": "If 10 or more cards and/or effects have been activated during this turn: Special Summon this card as an Effect Monster (Cyberse/DARK/Level 10/ATK 3000/DEF 3000) (this card is also still a Trap), but Set it in your Spell & Trap Zone during your End Phase. Once per turn, when your opponent activates a card or effect, while this card is in your Monster Zone (Quick Effect): You can destroy as many cards your opponent controls as possible, then Set this card in your Spell & Trap Zone.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

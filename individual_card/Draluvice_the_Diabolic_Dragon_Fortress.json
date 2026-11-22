@@ -11,7 +11,10 @@
     "attack": 2300,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": 1025,
+    "monster_card_type": [
+        "Tuner",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

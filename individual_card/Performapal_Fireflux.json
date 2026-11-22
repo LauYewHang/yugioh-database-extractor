@@ -151,7 +151,10 @@
     "attack": 1200,
     "defense": 1600,
     "monster_type": "Insect",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn, when an opponent's monster declares an attack: You can Tribute 1 \"Performapal\" monster; negate the attack, then end the Battle Phase.",

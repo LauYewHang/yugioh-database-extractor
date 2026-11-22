@@ -29,7 +29,10 @@
     "attack": 1000,
     "defense": 1800,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "During your Main Phase: You can send 1 \"Performage\" Pendulum Monster from your face-up Extra Deck to the GY, then you can increase this card's Pendulum Scale by that sent monster's. You can only use this effect of \"Performage Ball Balancer\" once per turn.",

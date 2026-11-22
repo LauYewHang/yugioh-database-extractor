@@ -1,0 +1,27 @@
+{
+    "name": "Hero of the Ashened City",
+    "filename": "Hero_of_the_Ashened_City",
+    "card_text": "If \"Obsidim, the Ashened City\" is in the Field Zone, you can Special Summon this card (from your hand). You can only Special Summon \"Hero of the Ashened City\" once per turn this way. During the Main Phase (Quick Effect): You can target 1 Pyro monster on the field; destroy it, then if you destroyed \"Veidos the Eruption Dragon of Extinction\" by this effect, you can place 1 \"Obsidim, the Ashened City\" from your Deck face-up in your Field Zone. You can only use this effect of \"Hero of the Ashened City\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ashened for Eternity",
+        "King of the Ashened City",
+        "Obsidim, the Ashened City",
+        "Priestess of the Ashened City",
+        "Rekindling the Ashened",
+        "Shaman of the Ashened City",
+        "Veidos the Dragon of Endless Darkness",
+        "Veidos the Eruption Dragon of Extinction"
+    ],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 2100,
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

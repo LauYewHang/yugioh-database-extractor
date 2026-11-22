@@ -1,0 +1,27 @@
+{
+    "name": "Dinomist Eruption",
+    "filename": "Dinomist_Eruption",
+    "card_text": "If a \"Dinomist\" monster(s) you control is destroyed by battle or card effect: Target 1 card your opponent controls; destroy it.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Dinomic Powerload",
+        "Dinomight Powerload, the Dracoslayer",
+        "Dinomist Ankylos",
+        "Dinomist Brachion",
+        "Dinomist Ceratops",
+        "Dinomist Charge",
+        "Dinomist Plesios",
+        "Dinomist Pteran",
+        "Dinomist Rex",
+        "Dinomist Rush",
+        "Dinomist Spinos",
+        "Dinomist Stegosaur",
+        "Dinomists Howling"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

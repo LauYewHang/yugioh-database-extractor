@@ -1,0 +1,25 @@
+{
+    "name": "Obnoxious Celtic Guard",
+    "filename": "Obnoxious_Celtic_Guard",
+    "card_text": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
+    "release_date": "2004-09-01",
+    "available_set": [
+        "COLLECTIBLE TIN SERIES 1",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "STRUCTURE DECK : YUGI MUTO",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "RETRO PACK 2"
+    ],
+    "related_card": [
+        "Celtic Guard of Noble Arms"
+    ],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Pyro Clock of Destiny",
+    "filename": "Pyro_Clock_of_Destiny",
+    "card_text": "Move the turn count forward by 1 turn. The turn in which this card is activated continues as normal.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

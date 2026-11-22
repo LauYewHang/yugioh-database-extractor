@@ -1,0 +1,31 @@
+{
+    "name": "Magnetic Field",
+    "filename": "Magnetic_Field",
+    "card_text": "If you control a Level 4 or lower EARTH Rock monster: You can target 1 Level 4 or lower \"Magnet Warrior\" monster in your GY; Special Summon it. You can only use this effect of \"Magnetic Field\" once per turn. Once per turn, at the end of the Damage Step, when an EARTH Rock monster you control battled an opponent's monster, but the opponent's monster was not destroyed by the battle: You can return that opponent's monster to the hand.",
+    "release_date": "2016-10-21",
+    "available_set": [
+        "MAZE OF MUERTOS",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "Speed Duel: Battle City Box",
+        "STRUCTURE DECK : YUGI MUTO"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Alpha The Magnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Beta The Magnet Warrior",
+        "Conduction Warrior Plasma Magnum",
+        "Delta The Magnet Warrior",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Gamma The Magnet Warrior",
+        "Magnet Warrior Omega Plus",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Tellusion the Magna Warrior",
+        "Valkyrion the Magna Warrior"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

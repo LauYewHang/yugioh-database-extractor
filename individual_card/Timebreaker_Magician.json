@@ -39,7 +39,10 @@
     "attack": 1400,
     "defense": 0,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "Each turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.",

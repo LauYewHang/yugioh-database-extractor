@@ -1,0 +1,24 @@
+{
+    "name": "Gilford the Lightning",
+    "filename": "Gilford_the_Lightning",
+    "card_text": "You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all monsters your opponent controls.",
+    "release_date": "2005-09-01",
+    "available_set": [
+        "COLLECTIBLE TIN SERIES 2",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK REVELATION Volume 4",
+        "STAR PACK 2013",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "MILLENNIUM PACK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 1400,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

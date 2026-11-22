@@ -1,0 +1,22 @@
+{
+    "name": "Xyz Energy",
+    "filename": "Xyz_Energy",
+    "card_text": "Detach 1 Xyz Material you control to target 1 face-up monster your opponent controls; destroy that target.",
+    "release_date": "2011-07-12",
+    "available_set": [
+        "STARTER DECK XYZ SYMPHONY",
+        "STARTER DECK DAWN OF THE XYZ"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

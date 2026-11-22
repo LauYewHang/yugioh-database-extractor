@@ -1,0 +1,15 @@
+{
+    "name": "Left Arm Offering",
+    "filename": "Left_Arm_Offering",
+    "card_text": "If you have 2 or more other cards in your hand: Banish your entire hand; add 1 Spell from your Deck to your hand. You cannot Set Spells/Traps during the turn you activate this card.",
+    "release_date": "2016-04-15",
+    "available_set": [
+        "STRUCTURE DECK: ORDER OF THE SPELLCASTERS",
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "MILLENNIUM PACK",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Crystron Rion",
+    "filename": "Crystron_Rion",
+    "card_text": "During your opponent's Main Phase or Battle Phase: You can target 1 of your banished non-Tuner monsters; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Machine-Type Synchro Monster using only that monster and this card (this is a Quick Effect). These Synchro Materials are shuffled into the Deck instead of being sent to the Graveyard. You can only use this effect of \"Crystron Rion\" once per turn.",
+    "release_date": "2016-12-09",
+    "available_set": [
+        "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK",
+        "INVASION: VENGEANCE SPECIAL EDITION"
+    ],
+    "related_card": [
+        "Crystolic Potential",
+        "Crystron Ametrix",
+        "Crystron Cluster",
+        "Crystron Eleskeletus",
+        "Crystron Entry",
+        "Crystron Impact",
+        "Crystron Inclusion",
+        "Crystron Prasiortle",
+        "Crystron Quandax",
+        "Crystron Rosenix",
+        "Crystron Smiger",
+        "Crystron Sulfador",
+        "Crystron Sulfefnir",
+        "Crystron Thystvern",
+        "Crystron Tristaros"
+    ],
+    "attribute": "WATER",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

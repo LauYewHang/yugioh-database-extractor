@@ -1,0 +1,17 @@
+{
+    "name": "Liberty at Last!",
+    "filename": "Liberty_at_Last_",
+    "card_text": "When a monster you control is destroyed by battle and sent to the GY: Target 2 face-up monsters on the field; shuffle those targets into the Deck.",
+    "release_date": "2010-10-26",
+    "available_set": [
+        "2-PLAYER STARTER SET",
+        "Yu-Gi-Oh! 5D's TAG FORCE 5 Bundles",
+        "BATTLE PACK EPIC DAWN",
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
+    ],
+    "related_card": [
+        "Pennant of Revolution"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

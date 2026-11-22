@@ -1,0 +1,43 @@
+{
+    "name": "Mecha Phantom Beast Concoruda",
+    "filename": "Mecha_Phantom_Beast_Concoruda",
+    "card_text": "1 Tuner + 1 or more non-Tuner monsters\nTokens you control cannot be destroyed by battle or card effects. If this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can Tribute all Tokens you control, then target 1 Level 4 or lower \"Mecha Phantom Beast\" monster in your Graveyard; Special Summon that target.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Aerial Recharge",
+        "Mecha Phantom Beast Aerosguin",
+        "Mecha Phantom Beast Auroradon",
+        "Mecha Phantom Beast Blackfalcon",
+        "Mecha Phantom Beast Blue Impala",
+        "Mecha Phantom Beast Coltwing",
+        "Mecha Phantom Beast Dracossack",
+        "Mecha Phantom Beast Hamstrat",
+        "Mecha Phantom Beast Harrliard",
+        "Mecha Phantom Beast Jaculuslan",
+        "Mecha Phantom Beast Kalgriffin",
+        "Mecha Phantom Beast Megaraptor",
+        "Mecha Phantom Beast O-Lion",
+        "Mecha Phantom Beast Raiten",
+        "Mecha Phantom Beast Sabre Hawk",
+        "Mecha Phantom Beast Stealthray",
+        "Mecha Phantom Beast Tetherwolf",
+        "Mecha Phantom Beast Turtletracer",
+        "Mecha Phantom Beast Warbluran",
+        "Phantom Beast Cross-Wing",
+        "Phantom Beast Rock-Lizard",
+        "Phantom Beast Thunder-Pegasus",
+        "Scramble!! Scramble!!",
+        "Sonic Boom"
+    ],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

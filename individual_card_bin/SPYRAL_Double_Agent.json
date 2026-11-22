@@ -1,0 +1,33 @@
+{
+    "name": "SPYRAL Double Agent",
+    "filename": "SPYRAL_Double_Agent",
+    "card_text": "If you have a \"SPYRAL\" card on your field or in your GY: You can Special Summon this card from your hand to your opponent's field in Defense Position (but it cannot be Tributed, nor be used as material for a Fusion, Synchro, Xyz, or Link Summon), then both players reveal the top card of their Deck. You can only use this effect of \"SPYRAL Double Agent\" once per turn. All \"SPYRAL\" monsters on the field gain 500 ATK, also \"SPYRAL Super Agent\" on the field can attack directly.",
+    "release_date": "2023-09-08",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 600,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

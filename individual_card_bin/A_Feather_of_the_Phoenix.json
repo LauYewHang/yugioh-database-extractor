@@ -1,0 +1,17 @@
+{
+    "name": "A Feather of the Phoenix",
+    "filename": "A_Feather_of_the_Phoenix",
+    "card_text": "Discard 1 card, then target 1 card in your GY; return that target to the top of your Deck.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "CHAMPION PACK GAME THREE",
+        "LEGENDARY HERO DECKS",
+        "DARK REVELATION Volume 3",
+        "FLAMING ETERNITY",
+        "STARTER DECK SYRUS TRUESDALE",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

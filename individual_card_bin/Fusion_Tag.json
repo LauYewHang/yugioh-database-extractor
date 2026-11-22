@@ -1,0 +1,35 @@
+{
+    "name": "Fusion Tag",
+    "filename": "Fusion_Tag",
+    "card_text": "Target 1 monster you control; reveal 1 Fusion Monster in your Extra Deck, and if you do, the targeted monster's name can be treated as the revealed Fusion Monster's, if used as Fusion Material this turn.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "OTS TOURNAMENT PACK 25",
+        "2017 MEGA-TINS MEGA PACK",
+        "STRUCTURE DECK: CYBER STRIKE"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

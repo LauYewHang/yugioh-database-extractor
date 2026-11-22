@@ -1,0 +1,12 @@
+{
+    "name": "Earthshattering Event",
+    "filename": "Earthshattering_Event",
+    "card_text": "If a card(s) is sent from the Deck to the Graveyard: Target 1 card in either player's Graveyard; shuffle it into the Deck, also neither player can send cards from the Deck to the Graveyard for the rest of this turn.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

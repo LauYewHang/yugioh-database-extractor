@@ -1,0 +1,13 @@
+{
+    "name": "Ichiroku's Ledger Book",
+    "filename": "Ichiroku_s_Ledger_Book",
+    "card_text": "Target up to 2 monsters your opponent controls; banish them until the End Phase, then your opponent gains 1000 LP for each monster that left the field by this effect.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

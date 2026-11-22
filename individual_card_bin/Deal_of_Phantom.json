@@ -1,0 +1,12 @@
+{
+    "name": "Deal of Phantom",
+    "filename": "Deal_of_Phantom",
+    "card_text": "Select 1 monster face-up on the field. Increase the selected monster's ATK by 100 points for each monster in your Graveyard during the turn this card is activated. The number of monster(s) are applied when this card is activated.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

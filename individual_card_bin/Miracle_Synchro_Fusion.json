@@ -1,0 +1,34 @@
+{
+    "name": "Miracle Synchro Fusion",
+    "filename": "Miracle_Synchro_Fusion",
+    "card_text": "Fusion Summon 1 Fusion Monster from your Extra Deck that lists a Synchro Monster as material, by banishing Fusion Materials listed on it from your field or GY. If this Set card is destroyed by your opponent's card effect and sent to your GY: Draw 1 card.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION",
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Duelist Genesis",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

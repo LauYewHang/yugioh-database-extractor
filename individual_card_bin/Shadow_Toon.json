@@ -1,0 +1,26 @@
+{
+    "name": "Shadow Toon",
+    "filename": "Shadow_Toon",
+    "card_text": "If you control \"Toon World\": Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the ATK of that face-up monster. You can only activate 1 \"Shadow Toon\" per turn.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Animimicat",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Dark-Eyes Illusionist Faceless Mage",
+        "Evil Box",
+        "Funny Dark Rabbit",
+        "Mind Scan",
+        "Perfect Toon World",
+        "Toon Bookmark",
+        "Toon Dark Magician",
+        "Toon Kingdom",
+        "Toon Table of Contents",
+        "Toon World"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

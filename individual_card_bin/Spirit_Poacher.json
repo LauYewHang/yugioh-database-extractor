@@ -1,0 +1,12 @@
+{
+    "name": "Spirit Poacher",
+    "filename": "Spirit_Poacher",
+    "card_text": "Once per turn, during your opponent's Standby Phase: You can activate 1 of these effects;\n\u25cfPlace 1 monster from your Deck in your Spell & Trap Zone as a face-up Continuous Spell.\n\u25cfYour opponent can Special Summon 1 Monster Card with less original ATK than their LP from your Spell & Trap Zone to their field, then they pay LP equal to its original ATK.\nIf an Effect Monster(s) you own is Special Summoned to your opponent's field: You can send this face-up card from the Spell & Trap Zone to the GY; Special Summon 1 Level 4 or lower monster from your Deck.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

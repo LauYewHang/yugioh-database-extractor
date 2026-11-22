@@ -1,0 +1,19 @@
+{
+    "name": "Puppet Rook",
+    "filename": "Puppet_Rook",
+    "card_text": "When this card is Normal Summoned: You can change this card to Defense Position, and if you do, send 1 EARTH Warrior monster from your Deck to your GY. Monsters your opponent controls that can attack must attack this card. Once per turn, when this card is targeted for an attack: You can target 1 Level 6 or higher EARTH Warrior monster in your GY; send this card from the field to the GY, and if you do, Special Summon that monster, then change the attack target to it.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Promotion"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

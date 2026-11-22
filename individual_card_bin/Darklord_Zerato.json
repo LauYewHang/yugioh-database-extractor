@@ -1,0 +1,43 @@
+{
+    "name": "Darklord Zerato",
+    "filename": "Darklord_Zerato",
+    "card_text": "If you have 4 or more DARK monsters with different names in your Graveyard, you can Tribute Summon this card by Tributing 1 DARK monster. You can send 1 DARK monster from your hand to the Graveyard; destroy all monsters your opponent controls. Once per turn, during the End Phase, if this effect was activated this turn: Destroy this card.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS",
+        "DESTINY SOLDIERS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "GOLD SERIES 4 PYRAMIDS EDITION",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Banishment of the Darklords",
+        "Condemned Darklord",
+        "Darklord Amdusc",
+        "Darklord Contact",
+        "Darklord Dance",
+        "Darklord Descent",
+        "Darklord Djehuty",
+        "Darklord Enchantment",
+        "Darklord Eveningstar",
+        "Darklord Gulgolet",
+        "Darklord Ixchel",
+        "Darklord Morningstar",
+        "Darklord Nasten",
+        "Darklord Nergal",
+        "Darklord Rebellion",
+        "Darklord Tezcatlipoca",
+        "Darklord Ukoback",
+        "Darklord Uprising",
+        "Fallen Angel in Darkness",
+        "Indulged Darklord",
+        "The Sanctified Darklord"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2300,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

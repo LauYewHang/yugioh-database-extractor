@@ -1,0 +1,20 @@
+{
+    "name": "Codebreaker Virus Berserker",
+    "filename": "Codebreaker_Virus_Berserker",
+    "card_text": "2+ monsters, including a \"Codebreaker\" monster\nWhen this card is Special Summoned, if it is co-linked: You can Special Summon up to 2 \"Codebreaker\" monsters from your hand and/or GY to any zone(s) a Link Monster(s) points to. During your Main Phase: You can destroy Spells/Traps your opponent controls, up to the number of linked \"Codebreaker\" monsters on the field. You can only use each effect of \"Codebreaker Virus Berserker\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Codebreaker Virus Swordsman",
+        "Codebreaker Zero Day"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": null,
+    "monster_type": "Warrior",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 324
+}

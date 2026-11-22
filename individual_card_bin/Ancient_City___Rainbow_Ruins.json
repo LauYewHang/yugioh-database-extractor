@@ -1,0 +1,37 @@
+{
+    "name": "Ancient City - Rainbow Ruins",
+    "filename": "Ancient_City___Rainbow_Ruins",
+    "card_text": "You must have this many \"Crystal Beast\" cards in your Spell & Trap Zone to activate and to resolve these effects.\n\u25cf1+: This card cannot be destroyed by card effects.\n\u25cf2+: Once per turn (including the opponent's) you can halve the battle damage you take.\n\u25cf3+: When a Spell/Trap Card is activated: You can send 1 \"Crystal Beast\" monster you control to the GY; negate the activation, and if you do, destroy it.\n\u25cf4+: Once per turn, during your Main Phase: You can draw 1 card.\n\u25cf5: Once per turn, during your Main Phase: You can target 1 \"Crystal Beast\" card in your Spell & Trap Zone; Special Summon that target.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "FORCE OF THE BREAKER",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "RA YELLOW MEGA PACK",
+        "BATTLE PACK TOURNAMENT",
+        "DUELIST PACK - JESSE ANDERSON -"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Last Resort"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

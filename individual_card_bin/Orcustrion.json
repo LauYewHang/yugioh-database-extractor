@@ -1,0 +1,36 @@
+{
+    "name": "Orcustrion",
+    "filename": "Orcustrion",
+    "card_text": "2+ Effect Monsters, including an \"Orcust\" monster\nThis linked card cannot be destroyed by battle or card effects. You can target 3 of your banished Machine monsters; shuffle them into the Deck, and if you do, the ATK/DEF of any linked monster(s) your opponent currently controls become 0, also their effects are negated. You can only use this effect of \"Orcustrion\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION"
+    ],
+    "related_card": [
+        "Dingirsu, the Orcust of the Evening Star",
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Galatea, the Orcust Automaton",
+        "Galatea-I, the Orcust Automaton",
+        "Girsu, the Orcust Mekk-Knight",
+        "Longirsu, the Orcust Orchestrator",
+        "Orcust Brass Bombard",
+        "Orcust Crescendo",
+        "Orcust Cymbal Skeleton",
+        "Orcust Harp Horror",
+        "Orcust Knightmare",
+        "Orcustrated Attack",
+        "Orcustrated Babel",
+        "Orcustrated Core",
+        "Orcustrated Einsatz",
+        "Orcustrated Release",
+        "Orcustrated Return",
+        "World Legacy - \"World Wand\""
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 774
+}

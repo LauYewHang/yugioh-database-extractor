@@ -1,0 +1,13 @@
+{
+    "name": "Celestia",
+    "filename": "Celestia",
+    "card_text": "All Wyrm-Type monsters gain 300 ATK and DEF. Once per turn: You can banish 3 Wyrm-Type monsters from your Graveyard, then target 1 card on the field; destroy it.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

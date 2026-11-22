@@ -1,0 +1,43 @@
+{
+    "name": "Endymion, the Crescent Magistus",
+    "filename": "Endymion__the_Crescent_Magistus",
+    "card_text": "2 monsters, including a Level 4 Spellcaster monster\nIf this card is Link Summoned: You can target 1 \"Magistus\" monster you control; equip it with 1 Spellcaster monster from your GY or banishment as an Equip Spell. During the Main Phase (Quick Effect): You can target 1 Spellcaster Monster Card in your Spell & Trap Zone treated as an Equip Spell; return it to the hand. You can only use 1 \"Endymion, the Crescent Magistus\" effect per turn, and only once that turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Reflection of Endymion",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Selene, Queen of the Master Magicians",
+        "Spell Power Attainment",
+        "Spell Power Mastery",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1850,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 24
+}

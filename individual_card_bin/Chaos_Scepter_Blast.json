@@ -1,0 +1,15 @@
+{
+    "name": "Chaos Scepter Blast",
+    "filename": "Chaos_Scepter_Blast",
+    "card_text": "If you control a Level 8 or higher Spellcaster-Type monster: Banish 1 card on the field face-down. If this card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can Special Summon 1 \"Magician of Black Chaos\" or \"Dark Magician of Chaos\" from your Deck, ignoring its Summoning conditions.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Dark Magician of Chaos",
+        "Magician of Black Chaos"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

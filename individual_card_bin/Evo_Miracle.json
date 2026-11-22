@@ -1,0 +1,23 @@
+{
+    "name": "Evo-Miracle",
+    "filename": "Evo_Miracle",
+    "card_text": "Target 1 monster that was Special Summoned by the effect of an \"Evoltile\" monster; this turn, it cannot be destroyed by battle or by card effects.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Evoltile Casinerio",
+        "Evoltile Elginero",
+        "Evoltile Gephyro",
+        "Evoltile Lagosucho",
+        "Evoltile Megachirella",
+        "Evoltile Najasho",
+        "Evoltile Odonto",
+        "Evoltile Pholis",
+        "Evoltile Pleuro",
+        "Evoltile Westlo"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

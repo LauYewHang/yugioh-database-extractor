@@ -12,7 +12,11 @@
     "attack": 800,
     "defense": 600,
     "monster_type": "Fiend",
-    "monster_card_type": 5121,
+    "monster_card_type": [
+        "Pendulum",
+        "Tuner",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "Once per turn: You can target 1 face-up monster on the field; roll a six-sided die and that monster's Level becomes the same as the result until the end of this turn.",

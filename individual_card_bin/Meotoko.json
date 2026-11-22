@@ -1,0 +1,17 @@
+{
+    "name": "Meotoko",
+    "filename": "Meotoko",
+    "card_text": "Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!",
+    "release_date": "2013-10-11",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 700,
+    "defense": 600,
+    "monster_type": "Beast",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

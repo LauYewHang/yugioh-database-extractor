@@ -1,0 +1,12 @@
+{
+    "name": "Vanity's Call",
+    "filename": "Vanity_s_Call",
+    "card_text": "Activate only as Chain Link 4 or higher. Pay half your Life Points. Negate the activation and effects of all other cards in the same Chain, and destroy them.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

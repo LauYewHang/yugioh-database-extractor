@@ -1,0 +1,17 @@
+{
+    "name": "Hrimnir the Divine Follower",
+    "filename": "Hrimnir_the_Divine_Follower",
+    "card_text": "You can Tribute 3 Fairy monsters from your hand and/or field; Set 1 Continuous Spell from your Deck, but send it to the GY during your opponent's End Phase. If this card is sent to the GY by card effect: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Hrimnir the Divine Follower\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2200,
+    "defense": 2200,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

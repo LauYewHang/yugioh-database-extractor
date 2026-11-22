@@ -1,0 +1,23 @@
+{
+    "name": "Kuribabylon",
+    "filename": "Kuribabylon",
+    "card_text": "Gains 300 ATK/DEF for each \"Kuriboh\" monster you control and in your GY. You can only use 1 of the following effects of \"Kuribabylon\" per turn, and only once that turn.\n\u25cfIf you have more monsters in your GY than your opponent: You can Special Summon this card from your hand.\n\u25cfDuring your Main or Battle Phase: You can return this card to the hand, and if you do, Special Summon 5 monsters (1 \"Kuribah\", 1 \"Kuribee\", 1 \"Kuriboo\", 1 \"Kuribeh\", and 1 \"Kuriboh\") from your hand and/or GY in Attack Position.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Kuribah",
+        "Kuribee",
+        "Kuribeh",
+        "Kuriboh",
+        "Kuriboo"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Bunch of Beast Bodies",
+    "filename": "Bunch_of_Beast_Bodies",
+    "card_text": "Change all monsters that were not Normal or Special Summoned this turn to Defense Position. For the rest of this turn, a player who controls a Defense Position monster cannot declare attacks with monsters that were Normal or Special Summoned this turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

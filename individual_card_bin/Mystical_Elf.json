@@ -1,0 +1,32 @@
+{
+    "name": "Mystical Elf",
+    "filename": "Mystical_Elf",
+    "card_text": "A delicate elf that lacks offense, but has a terrific defense backed by mystical power.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "DEMO DECK 2016 (UK)",
+        "STARTER DECK YUGI RELOADED",
+        "YUGI'S LEGENDARY DECKS",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "SUPER STARTER V FOR VICTORY",
+        "DARK BEGINNING 1",
+        "STARTER DECK YUGI Evolution",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "STARTER DECK SABER FORCE (US)",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [
+        "Kamionwizard"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 2000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

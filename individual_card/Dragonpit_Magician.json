@@ -51,7 +51,10 @@
     "attack": 900,
     "defense": 2700,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4097,
+    "monster_card_type": [
+        "Pendulum",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "Once per turn, if you have a \"Magician\" card in your other Pendulum Zone: You can discard 1 Pendulum Monster, then target 1 Spell/Trap Card on the field; destroy it.",

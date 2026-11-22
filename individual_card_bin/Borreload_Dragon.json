@@ -1,0 +1,33 @@
+{
+    "name": "Borreload Dragon",
+    "filename": "Borreload_Dragon",
+    "card_text": "3+ Effect Monsters\nNeither player can target this card with monster effects. Once per turn (Quick Effect): You can target 1 face-up monster on the field; it loses 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. At the start of the Damage Step, if this card attacks an opponent's monster: You can place that opponent's monster in a zone this card points to and take control of it, but send it to the GY during the End Phase of the next turn.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK",
+        "2018 MEGA-TINS MEGA PACK",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "STRUCTURE DECK: ROKKET REVOLT",
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Bayonet Punisher",
+        "Borrel Cooling",
+        "Borrel Reboot",
+        "Borrel Supplier",
+        "Borreload eXcharge Dragon",
+        "Borreload Riot Dragon",
+        "Borrelshroud Dragon",
+        "Breachborrel Dragon",
+        "Execute Protocols",
+        "Miniborrel Dragon",
+        "Rokket Coder"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 90
+}

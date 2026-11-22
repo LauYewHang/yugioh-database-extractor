@@ -1,0 +1,17 @@
+{
+    "name": "Des Croaking",
+    "filename": "Des_Croaking",
+    "card_text": "Activate only while you control 3 face-up \"Des Frogs\". Destroy all cards your opponent controls.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Des Frog",
+        "Dupe Frog",
+        "Ronintoadin"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

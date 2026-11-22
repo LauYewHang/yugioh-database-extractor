@@ -1,0 +1,31 @@
+{
+    "name": "Machina Cannon",
+    "filename": "Machina_Cannon",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 or more other Machine monsters from your hand to the GY. Gains 800 ATK for each monster sent to the GY for this Special Summon.",
+    "release_date": "2012-03-20",
+    "available_set": [
+        "PREMIUM COLLECTION TIN",
+        "STRUCTURE DECK: MECHANIZED MADNESS"
+    ],
+    "related_card": [
+        "Machina Air Raider",
+        "Machina Gearframe",
+        "Machina Irradiator",
+        "Machina Megaform",
+        "Machina Overdrive",
+        "Machina Possesstorage",
+        "Machina Redeployment",
+        "Machina Resavenger",
+        "Machina Ruinforce",
+        "Machina Sniper",
+        "Machina Soldier",
+        "Machina Unclaspare"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 2200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

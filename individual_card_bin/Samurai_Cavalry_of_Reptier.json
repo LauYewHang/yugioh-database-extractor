@@ -1,0 +1,20 @@
+{
+    "name": "Samurai Cavalry of Reptier",
+    "filename": "Samurai_Cavalry_of_Reptier",
+    "card_text": "At the start of the Damage Step, if this card attacks an opponent's face-up monster that is not a Pendulum Monster: You can destroy that monster.",
+    "release_date": "2015-10-31",
+    "available_set": [
+        "DIMENSION OF CHAOS Sneak Peek",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "",
+    "pendulum_scale": 3
+}

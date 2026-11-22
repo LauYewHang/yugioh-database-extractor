@@ -1,0 +1,22 @@
+{
+    "name": "Into the Void",
+    "filename": "Into_the_Void",
+    "card_text": "If you have 3 or more cards in your hand: Draw 1 card, and if you do, during the End Phase of this turn, discard your entire hand.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-"
+    ],
+    "related_card": [
+        "El Shaddoll Meshachrer",
+        "Infernity Pawn",
+        "Infernoid Devyaty",
+        "Infernoid Evil",
+        "Void Feast",
+        "Void Reignition",
+        "Void Vanishment"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

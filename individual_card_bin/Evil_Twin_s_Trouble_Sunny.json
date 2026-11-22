@@ -1,0 +1,35 @@
+{
+    "name": "Evil\u2605Twin's Trouble Sunny",
+    "filename": "Evil_Twin_s_Trouble_Sunny",
+    "card_text": "2+ monsters, including an \"Evil\u2605Twin\" monster\n(Quick Effect): You can Tribute this card; Special Summon up to 1 \"Ki-sikil\" monster and up to 1 \"Lil-la\" monster from your GY. You can banish this card from your GY and send 1 \"Evil\u2605Twin\" monster from your hand, Deck, or face-up field to the GY; send 1 card on the field to the GY. You can only use each effect of \"Evil\u2605Twin's Trouble Sunny\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Evil\u2605Twin Challenge",
+        "Evil\u2605Twin GG EZ",
+        "Evil\u2605Twin Ki-sikil",
+        "Evil\u2605Twin Ki-sikil Deal",
+        "Evil\u2605Twin Lil-la",
+        "Evil\u2605Twin Present",
+        "Evil\u2605Twins Ki-sikil & Lil-la",
+        "Lil-la Rap",
+        "Live\u2606Twin Home",
+        "Live\u2606Twin Ki-sikil",
+        "Live\u2606Twin Ki-sikil Frost",
+        "Live\u2606Twin Lil-la",
+        "Live\u2606Twin Lil-la Sweet",
+        "Live\u2606Twin Lil-la Treat",
+        "Live\u2606Twin Sunny's Snitch",
+        "Secret Password"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3300,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 340
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Broken Bamboo Sword",
+    "filename": "Broken_Bamboo_Sword",
+    "card_text": "The equipped monster gains 0 ATK.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION",
+        "OTS TOURNAMENT PACK 8"
+    ],
+    "related_card": [
+        "Burning Bamboo Sword",
+        "Cursed Bamboo Sword",
+        "Golden Bamboo Sword",
+        "Original Bamboo Sword",
+        "Soul Devouring Bamboo Sword"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

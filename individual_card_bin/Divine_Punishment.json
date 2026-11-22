@@ -1,0 +1,23 @@
+{
+    "name": "Divine Punishment",
+    "filename": "Divine_Punishment",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated, while \"The Sanctuary in the Sky\" is on the field: Negate the activation, and if you do, destroy it.",
+    "release_date": "2011-06-14",
+    "available_set": [
+        "LOST SANCTUARY STRUCTURE DECK",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "OTS TOURNAMENT PACK 7"
+    ],
+    "related_card": [
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "The Chorus in the Sky",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

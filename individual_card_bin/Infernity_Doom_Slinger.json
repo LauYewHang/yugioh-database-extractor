@@ -1,0 +1,40 @@
+{
+    "name": "Infernity Doom Slinger",
+    "filename": "Infernity_Doom_Slinger",
+    "card_text": "During your Main Phase: You can Special Summon 1 Fiend monster from your hand. If you have no cards in your hand (Quick Effect): You can banish this card from your GY; your opponent chooses 1 of these effects for you to apply.\n\u25cfReveal the top card of your Deck, and if it is a monster, your opponent takes any effect damage you would have taken this turn instead. If it isn't, you take 4000 damage.\n\u25cfYou take no effect damage this turn.\nYou can only use each effect of \"Infernity Doom Slinger\" once per turn.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Contract with the Void",
+        "Infernity Archfiend",
+        "Infernity Barrier",
+        "Infernity Break",
+        "Infernity Force",
+        "Infernity General",
+        "Infernity Inferno",
+        "Infernity Launcher",
+        "Infernity Mirage",
+        "Infernity Necromancer",
+        "Infernity Paranoia",
+        "Infernity Patriarch",
+        "Infernity Pawn",
+        "Infernity Reflector",
+        "Infernity Sage",
+        "Infernity Suppression",
+        "Infernity Wildcat",
+        "Phantom Hand",
+        "This Creepy Little Punk",
+        "Void Cauldron",
+        "Wave-Motion Inferno",
+        "ZERO-MAX"
+    ],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

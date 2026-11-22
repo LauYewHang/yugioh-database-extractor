@@ -1,0 +1,13 @@
+{
+    "name": "Book of Lunar Eclipse",
+    "filename": "Book_of_Lunar_Eclipse",
+    "card_text": "Discard 1 card, then target 2 face-up monsters on the field; change them to face-down Defense Position.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

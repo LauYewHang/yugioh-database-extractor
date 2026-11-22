@@ -1,0 +1,16 @@
+{
+    "name": "Fulfillment of the Contract",
+    "filename": "Fulfillment_of_the_Contract",
+    "card_text": "Activate this card by paying 800 LP, then target 1 Ritual Monster in your GY; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "HIDDEN SUMMONERS",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "DARK REVELATION Volume 3",
+        "FLAMING ETERNITY",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

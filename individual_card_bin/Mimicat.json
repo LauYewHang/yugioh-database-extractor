@@ -1,0 +1,24 @@
+{
+    "name": "Mimicat",
+    "filename": "Mimicat",
+    "card_text": "If you control \"Toon World\" and a Toon monster: Target 1 card in your opponent's GY; if it is a monster, Special Summon it to your field, or if it is a Spell/Trap, Set it to your field. You can only activate 1 \"Mimicat\" per turn.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND 2",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM"
+    ],
+    "related_card": [
+        "Animimicat",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Dark-Eyes Illusionist Faceless Mage",
+        "Funny Dark Rabbit",
+        "Perfect Toon World",
+        "Toon Bookmark",
+        "Toon Kingdom",
+        "Toon World"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Yuki-Musume, the Ice Mayakashi",
+    "filename": "Yuki_Musume__the_Ice_Mayakashi",
+    "card_text": "If you control a \"Mayakashi\" card, other than \"Yuki-Musume, the Ice Mayakashi\" while this card is in your hand or GY: You can Special Summon this card, then send 1 Zombie monster from your Deck to the GY. You can only use this effect of \"Yuki-Musume, the Ice Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+    "release_date": "2019-03-08",
+    "available_set": [
+        "SAVAGE STRIKE SPECIAL EDITION",
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Dakki, the Graceful Mayakashi",
+        "Gashadokuro, the Skeletal Mayakashi",
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Mayakashi's Manuscript",
+        "Hajun, the Winged Mayakashi",
+        "Mayakashi Mayhem",
+        "Mayakashi Metamorphosis",
+        "Mayakashi Return",
+        "Mayakashi Winter",
+        "Oboro-Guruma, the Wheeled Mayakashi",
+        "Shafu, the Wheeled Mayakashi",
+        "Tengu, the Winged Mayakashi",
+        "Tsuchigumo, the Poisonous Mayakashi",
+        "Tsukahagi, the Poisonous Mayakashi",
+        "Yasha, the Skeletal Mayakashi",
+        "Yoko, the Graceful Mayakashi",
+        "Yuki-Onna, the Absolute Zero Mayakashi",
+        "Yuki-Onna, the Ice Mayakashi",
+        "Yuki-Onna, the Icicle Mayakashi"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 1900,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

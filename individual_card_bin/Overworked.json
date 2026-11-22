@@ -1,0 +1,14 @@
+{
+    "name": "Overworked",
+    "filename": "Overworked",
+    "card_text": "Destroy each monster whose ATK is higher than its original ATK.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "ASTRAL PACK FIVE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

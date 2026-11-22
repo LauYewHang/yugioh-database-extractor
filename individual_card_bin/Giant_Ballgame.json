@@ -1,0 +1,13 @@
+{
+    "name": "Giant Ballgame",
+    "filename": "Giant_Ballgame",
+    "card_text": "During your Main Phase, if this card was activated this turn: You can Special Summon 1 Level 6 or lower Insect monster from your GY. You can reveal 1 Insect monster in your hand, then target 1 face-up monster your opponent controls, and 1 Insect monster you control with less ATK than the revealed monster; switch control of those monsters, and if you do, the monster you took control of becomes an Insect monster. You can only use 1 \"Giant Ballgame\" effect per turn, and only once that turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

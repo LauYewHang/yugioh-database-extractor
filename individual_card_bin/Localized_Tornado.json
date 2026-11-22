@@ -1,0 +1,12 @@
+{
+    "name": "Localized Tornado",
+    "filename": "Localized_Tornado",
+    "card_text": "Shuffle all cards from your hand and Graveyard into the Deck.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

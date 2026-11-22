@@ -1,0 +1,12 @@
+{
+    "name": "Nature's Reflection",
+    "filename": "Nature_s_Reflection",
+    "card_text": "During this turn, any effect activated by your opponent that would inflict damage becomes an effect that inflicts damage to their Life Points.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

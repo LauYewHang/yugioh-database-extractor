@@ -1,0 +1,40 @@
+{
+    "name": "Elementsaber Makani",
+    "filename": "Elementsaber_Makani",
+    "card_text": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY; add 1 \"Elementsaber\" or \"Elemental Lord\" monster from your Deck to your hand, except \"Elementsaber Makani\". Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Commander Gottoms, Swordmaster",
+        "Commander Souza, Swordmaster",
+        "Elemental Training",
+        "Elementsaber Aina",
+        "Elementsaber Lapauila",
+        "Elementsaber Lapauila Mana",
+        "Elementsaber Malo",
+        "Elementsaber Molehu",
+        "Elementsaber Nalu",
+        "Grandsoil the Elemental Lord",
+        "Moulinglacia the Elemental Lord",
+        "Palace of the Elemental Lords",
+        "Phosphorage the Elemental Lord",
+        "Pyrorex the Elemental Lord",
+        "Saber Reflection",
+        "Umbramirage the Elemental Lord",
+        "Windrose the Elemental Lord",
+        "X-Saber Axel",
+        "X-Saber Bruno",
+        "X-Saber Galahad",
+        "X-Saber Gottoms",
+        "X-Saber Palomuro"
+    ],
+    "attribute": "WIND",
+    "attack": 1300,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

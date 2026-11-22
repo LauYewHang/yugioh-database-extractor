@@ -1,0 +1,40 @@
+{
+    "name": "Koa'ki Meiru Bergzak",
+    "filename": "Koa_ki_Meiru_Bergzak",
+    "card_text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. If this card destroys an opponent's monster by battle, it can attack once again in a row.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Core Blast",
+        "Core Blaster",
+        "Core Compression",
+        "Core Overclock",
+        "Core Reinforcement",
+        "Diamond Core of Koa'ki Meiru",
+        "Iron Core Armor",
+        "Iron Core of Koa'ki Meiru",
+        "Iron Core Specimen Lab",
+        "Koa'ki Meiru Boulder",
+        "Koa'ki Meiru Crusader",
+        "Koa'ki Meiru Ghoulungulate",
+        "Koa'ki Meiru Hydro Barrier",
+        "Koa'ki Meiru Initialize!",
+        "Koa'ki Meiru Maximus",
+        "Koa'ki Meiru Prototype",
+        "Koa'ki Meiru Rooklord",
+        "Koa'ki Meiru Supplier",
+        "Koa'ki Meiru Urnight",
+        "Koa'ki Meiru Valafar",
+        "Nega-Ton Corepanel",
+        "Urgent Synthesis"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 200,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

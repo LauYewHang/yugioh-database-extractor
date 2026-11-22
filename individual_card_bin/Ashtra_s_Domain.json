@@ -1,0 +1,22 @@
+{
+    "name": "Ashtra's Domain",
+    "filename": "Ashtra_s_Domain",
+    "card_text": "Activate 1 of these effects;\n\u25cfSpecial Summon this card as a Normal Monster (Aqua/Tuner/WATER/Level 1/ATK 0/DEF 0) (this card is NOT treated as a Trap), then immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster.\n\u25cfWhen your opponent activates a Spell/Trap Card or effect, and your opponent controls no face-down cards: Negate that effect.\nYou can only activate 1 \"Ashtra's Domain\" per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Akasuna the Battle Ashtra",
+        "Ashtra's Howl",
+        "Ashtra's Web",
+        "Ashtraja Susanoo",
+        "Ashtrashen - Gate to the Worlds Beyond",
+        "Ashtraya Mikumari-no-Mikoto",
+        "Kuzuha the Hex Ashtra",
+        "Mikumari the Banisher Ashtra",
+        "Yoa the Plague Ashtra"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

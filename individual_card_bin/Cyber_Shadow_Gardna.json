@@ -1,0 +1,23 @@
+{
+    "name": "Cyber Shadow Gardna",
+    "filename": "Cyber_Shadow_Gardna",
+    "card_text": "During your opponent's Main Phase: Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK ?/DEF ?). (This card is also still a Trap.) When an opponent's monster declares an attack that targets this card: The ATK/DEF of this card become the ATK/DEF of the attacking monster. Once per turn, during your opponent's End Phase: Set this card in its Spell & Trap Zone.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LEGENDARY DRAGON DECKS",
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Dragon Core",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Cybernetic Overflow",
+        "Prima Light"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

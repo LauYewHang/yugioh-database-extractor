@@ -11,7 +11,16 @@
     "attack": 3000,
     "defense": null,
     "monster_type": "Winged Beast",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 5,
-    "link_arrow": 94
+    "link_arrow": [
+        "Middle-Right",
+        "Middle-Left",
+        "Bottom-Right",
+        "Bottom-Center",
+        "Bottom-Left"
+    ]
 }

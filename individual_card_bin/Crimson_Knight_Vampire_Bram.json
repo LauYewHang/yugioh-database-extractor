@@ -1,0 +1,37 @@
+{
+    "name": "Crimson Knight Vampire Bram",
+    "filename": "Crimson_Knight_Vampire_Bram",
+    "card_text": "2 Level 5 Zombie monsters\nYou can detach 1 material from this card, then target 1 monster in your opponent's GY; Special Summon that target to your field, but only that monster can attack for the rest of this turn. You can only use this effect of \"Crimson Knight Vampire Bram\" once per turn. Once per turn, during the Standby Phase of the next turn after this card you controlled was destroyed by your opponent's card and sent to your GY: Special Summon this card in Defense Position.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "2014 MEGA-TINS MEGA PACK",
+        "DARK SAVIORS",
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [
+        "Shadow Vampire",
+        "Vampire Awakening",
+        "Vampire Domination",
+        "Vampire Duke",
+        "Vampire Familiar",
+        "Vampire Fascinator",
+        "Vampire Ghost",
+        "Vampire Kingdom",
+        "Vampire Red Baron",
+        "Vampire Retainer",
+        "Vampire Scarlet Scourge",
+        "Vampire Sorcerer",
+        "Vampire Takeover",
+        "Vampire Vamp",
+        "Vampire's Desire",
+        "Vampire's Domain"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 5
+}

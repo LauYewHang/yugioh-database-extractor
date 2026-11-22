@@ -1,0 +1,13 @@
+{
+    "name": "Fatal Abacus",
+    "filename": "Fatal_Abacus",
+    "card_text": "Each time 1 monster is sent from the field to the Graveyard, inflict 500 points of damage per card to the respective card owner's Life Points.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

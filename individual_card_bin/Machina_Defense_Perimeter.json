@@ -1,0 +1,25 @@
+{
+    "name": "Machina Defense Perimeter",
+    "filename": "Machina_Defense_Perimeter",
+    "card_text": "While you control a Level 7 or higher Machine monster, your opponent's monsters cannot target Level 6 or lower Machine monsters you control for attacks, also your opponent cannot target them with card effects. If a face-up Machine monster(s) you control is destroyed by battle or card effect: You can target 1 Machine monster in your GY; add it to your hand. You can only use this effect of \"Machina Defense Perimeter\" once per turn.",
+    "release_date": "2020-04-17",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS"
+    ],
+    "related_card": [
+        "Machina Air Raider",
+        "Machina Gearframe",
+        "Machina Irradiator",
+        "Machina Megaform",
+        "Machina Overdrive",
+        "Machina Possesstorage",
+        "Machina Redeployment",
+        "Machina Resavenger",
+        "Machina Ruinforce",
+        "Machina Sniper",
+        "Machina Soldier",
+        "Machina Unclaspare"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

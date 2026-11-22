@@ -1,0 +1,22 @@
+{
+    "name": "Muka Muka",
+    "filename": "Muka_Muka",
+    "card_text": "Gains 300 ATK/DEF for each card in your hand.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS",
+        "STARTER DECK PEGASUS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 2",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": 300,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

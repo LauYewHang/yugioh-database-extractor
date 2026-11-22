@@ -1,0 +1,18 @@
+{
+    "name": "Thunderspeed Summon",
+    "filename": "Thunderspeed_Summon",
+    "card_text": "During the Main or Battle Phase: Immediately after this effect resolves, Normal Summon 1 Level 10 monster, or, if you control \"Queen's Knight\", \"King's Knight\", and \"Jack's Knight\", you can apply this effect instead.\n\u25cfAdd 1 Level 10 non-DARK monster with ? ATK from your Deck to your hand, then, immediately after this effect resolves, you can Normal Summon 1 Level 10 monster.\nYou can only activate 1 \"Thunderspeed Summon\" per turn.",
+    "release_date": "2021-07-09",
+    "available_set": [
+        "KING'S COURT",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [
+        "Jack's Knight",
+        "Joker's Wild",
+        "King's Knight",
+        "Queen's Knight"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

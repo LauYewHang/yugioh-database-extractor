@@ -1,0 +1,19 @@
+{
+    "name": "Soul Taker",
+    "filename": "Soul_Taker",
+    "card_text": "Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "DUELIST LEAGUE 2010",
+        "STARTER DECK YUGI RELOADED",
+        "YUGI'S LEGENDARY DECKS",
+        "DEMO DECK 2015",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "GLADIATOR'S ASSAULT",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DEMO DECK 2026"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

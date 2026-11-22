@@ -1,0 +1,22 @@
+{
+    "name": "Fossil Dig",
+    "filename": "Fossil_Dig",
+    "card_text": "Add 1 Level 6 or lower Dinosaur monster from your Deck to your hand.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "WILD SURVIVORS",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "OTS TOURNAMENT PACK 7",
+        "MAXIMUM GOLD: EL DORADO",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "RARITY COLLECTION 5",
+        "BROTHERS OF LEGEND",
+        "DUELIST LEAGUE 13"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

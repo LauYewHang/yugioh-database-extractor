@@ -1,0 +1,21 @@
+{
+    "name": "Kuraz the Light Monarch",
+    "filename": "Kuraz_the_Light_Monarch",
+    "card_text": "When this card is Normal or Special Summoned: You can target up to 2 cards on the field; destroy those targets, and if you do, each player can draw 1 card for each of the cards they controlled that was destroyed by this effect. This card cannot attack during the turn it is Normal or Special Summoned.",
+    "release_date": "2008-06-18",
+    "available_set": [
+        "OTS TOURNAMENT PACK 2",
+        "SUPER STARTER SPACE-TIME SHOWDOWN Power-Up Pack",
+        "LIGHT OF DESTRUCTION SPECIAL EDITION",
+        "DUELIST LEAGUE 16",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Unity",
+    "filename": "Unity",
+    "card_text": "Select 1 monster on your side of the field. The DEF of the selected monster becomes equal to the combined original DEF of all face-up monsters on your side of the field, until the end of this turn.",
+    "release_date": null,
+    "available_set": [
+        "SHONEN JUMP Promotional Card - September 2006 -"
+    ],
+    "related_card": [
+        "Judgment of the Pharaoh",
+        "Yu-Jo Friendship"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

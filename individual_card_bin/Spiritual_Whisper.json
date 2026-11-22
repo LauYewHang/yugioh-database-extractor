@@ -1,0 +1,17 @@
+{
+    "name": "Spiritual Whisper",
+    "filename": "Spiritual_Whisper",
+    "card_text": "Once per turn, this card cannot be destroyed by battle. When this card is Pendulum Summoned: You can add 1 Ritual Monster or 1 Ritual Spell Card from your Deck to your hand.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 200,
+    "defense": 2000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

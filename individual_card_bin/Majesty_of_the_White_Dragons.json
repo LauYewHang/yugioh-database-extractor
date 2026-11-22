@@ -1,0 +1,18 @@
+{
+    "name": "Majesty of the White Dragons",
+    "filename": "Majesty_of_the_White_Dragons",
+    "card_text": "Show up to 3 of the \"Blue-Eyes White Dragon\" in your hand, face-up Monster Zone, and/or GY, then destroy an equal number of cards your opponent controls. You can banish this card from your GY; Ritual Summon 1 Ritual Monster from your hand, by Tributing \"Blue-Eyes White Dragon(s)\" from your hand or field whose total Levels equal its Level. You can only use each effect of \"Majesty of the White Dragons\" once per turn.",
+    "release_date": "2025-02-14",
+    "available_set": [
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY"
+    ],
+    "related_card": [
+        "Bingo Machine, Go!!!",
+        "Blue-Eyes Alternative White Dragon",
+        "Blue-Eyes White Dragon",
+        "Chronicle Sorceress",
+        "Dictator of D."
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Drill Armed Dragon",
+    "filename": "Drill_Armed_Dragon",
+    "card_text": "You can send this card and 1 other WIND monster from your hand to the GY; for the rest of this turn, all WIND Dragon monsters you control gain 300 ATK. You can banish any number of Dragon monsters that are Level 7 or higher and/or WIND from your GY; add 1 Dragon monster from your Deck to your hand with a Level equal to the number banished, except \"Drill Armed Dragon\". You can only use each effect of \"Drill Armed Dragon\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Flash",
+        "Armed Dragon Lightning",
+        "Armed Dragon LV10 White",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon Thunderbolt",
+        "Armed Neos",
+        "Ojama Pajama",
+        "Ojamatch",
+        "Pile Armed Dragon"
+    ],
+    "attribute": "WIND",
+    "attack": 1100,
+    "defense": 400,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

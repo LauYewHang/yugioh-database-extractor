@@ -1,0 +1,17 @@
+{
+    "name": "Finis Terrae, Tower of the Necroworld",
+    "filename": "Finis_Terrae__Tower_of_the_Necroworld",
+    "card_text": "If you control a Level 10 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Finis Terrae, Tower of the Necroworld\" once per turn this way. If this card is sent to the GY: You can target 1 face-up card on the field; that card cannot be destroyed by card effects this turn. You can only use this effect of \"Finis Terrae, Tower of the Necroworld\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 2800,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

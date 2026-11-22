@@ -1,0 +1,28 @@
+{
+    "name": "Wattjustment",
+    "filename": "Wattjustment",
+    "card_text": "Equip only to a Level 3 or lower Thunder-Type monster. It gains 800 ATK, also its effects are negated. Each time it inflicts battle damage to your opponent: Draw 1 card.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "Wattcancel",
+        "Wattcastle",
+        "Wattchimera",
+        "Wattcobra",
+        "Wattdragonfly",
+        "Watthopper",
+        "Watthydra",
+        "Wattkeeper",
+        "Wattkey",
+        "Wattkingdom",
+        "Wattkiwi",
+        "Wattkyuki",
+        "Wattrain",
+        "Wattuna"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

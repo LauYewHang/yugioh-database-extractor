@@ -1,0 +1,25 @@
+{
+    "name": "Ancient Lamp",
+    "filename": "Ancient_Lamp",
+    "card_text": "During your Main Phase: You can Special Summon \"La Jinn the Mystical Genie of the Lamp\" from your hand. This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if this card is being attacked by an opponent's monster, and was face-down at the start of the Damage Step: You can target 1 monster your opponent controls, except the attacking monster; change the attack target to that opponent's monster and perform damage calculation.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DARK LEGENDS",
+        "SHADOW OF INFINITY Sneak Peek",
+        "LEGENDARY DECKS II",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "RETRO PACK",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [
+        "La Jinn the Mystical Genie of the Lamp"
+    ],
+    "attribute": "WIND",
+    "attack": 900,
+    "defense": 1400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

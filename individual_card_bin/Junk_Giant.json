@@ -1,0 +1,31 @@
+{
+    "name": "Junk Giant",
+    "filename": "Junk_Giant",
+    "card_text": "If your opponent controls a Level 5 or higher monster, you can Special Summon this card (from your hand). A Synchro Summon using this card as a Material cannot be negated. If a player Synchro Summons using this card as a Material, the other player cannot activate cards or effects when that monster is Synchro Summoned.",
+    "release_date": "2015-03-20",
+    "available_set": [
+        "PREMIUM GOLD: RETURN OF THE BLING"
+    ],
+    "related_card": [
+        "Catapult Warrior",
+        "Jet Synchron",
+        "Junk Anchor",
+        "Junk Armor",
+        "Junk Berserker",
+        "Junk Blader",
+        "Junk Changer",
+        "Junk Connector",
+        "Junk Meister",
+        "Junk Servant",
+        "Junk Warrior Extreme",
+        "Scrap-Iron Statue",
+        "Stardust Assault Warrior"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 2400,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

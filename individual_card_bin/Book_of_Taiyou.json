@@ -1,0 +1,19 @@
+{
+    "name": "Book of Taiyou",
+    "filename": "Book_of_Taiyou",
+    "card_text": "Target 1 face-down monster on the field; change that target to face-up Attack Position.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "CHAMPION PACK GAME TWO",
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 2",
+        "Phantom Revenge",
+        "RETRO PACK 2"
+    ],
+    "related_card": [
+        "Sphinx of the Cycle"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

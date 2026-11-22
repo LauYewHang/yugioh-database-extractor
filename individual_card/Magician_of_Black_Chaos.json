@@ -24,7 +24,9 @@
     "attack": 2800,
     "defense": 2600,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4,
+    "monster_card_type": [
+        "Ritual"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

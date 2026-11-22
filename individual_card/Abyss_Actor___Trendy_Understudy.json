@@ -40,7 +40,10 @@
     "attack": 700,
     "defense": 700,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "When you Pendulum Summon a monster: You can add 1 face-up Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.",

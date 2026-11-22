@@ -1,0 +1,31 @@
+{
+    "name": "Tindangle Acute Cerberus",
+    "filename": "Tindangle_Acute_Cerberus",
+    "card_text": "3 \"Tindangle\" monsters\nGains 3000 ATK if you have 3 or more \"Tindangle\" monsters with different names in your GY, including \"Tindangle Base Gardna\". Gains 500 ATK for each \"Tindangle\" monster it points to. At the end of the Battle Phase, if this card declared an attack: You can Special Summon 1 \"Tindangle Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0).",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE"
+    ],
+    "related_card": [
+        "Euler's Circuit",
+        "Gergonne's End",
+        "Nagel's Protection",
+        "Stairs of Mail",
+        "Tindangle Angel",
+        "Tindangle Base Gardna",
+        "Tindangle Delaunay",
+        "Tindangle Dholes",
+        "Tindangle Hound",
+        "Tindangle Intruder",
+        "Tindangle Jhrelth",
+        "Tindangle Protector",
+        "Tindangle Trinity"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 266
+}

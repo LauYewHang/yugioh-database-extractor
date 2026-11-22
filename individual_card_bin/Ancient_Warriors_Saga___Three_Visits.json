@@ -1,0 +1,32 @@
+{
+    "name": "Ancient Warriors Saga - Three Visits",
+    "filename": "Ancient_Warriors_Saga___Three_Visits",
+    "card_text": "During your Main Phase, if you Normal or Special Summon an \"Ancient Warriors\" monster(s): You can target 1 of those monsters; add 1 \"Ancient Warriors\" monster with a different name from your Deck to your hand. If this card is sent from the Spell & Trap Zone to the GY: You can Special Summon 1 \"Ancient Warriors\" monster from your hand. You can only use each effect of \"Ancient Warriors Saga - Three Visits\" once per turn. Send this card to the GY during your 2nd Standby Phase after activation.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Ancient Warriors - Ambitious Cao De",
+        "Ancient Warriors - Deceptive Jia Wen",
+        "Ancient Warriors - Eccentric Lu Jing",
+        "Ancient Warriors - Fearsome Zhang Yuan",
+        "Ancient Warriors - Graceful Zhou Gong",
+        "Ancient Warriors - Ingenious Zhuge Kong",
+        "Ancient Warriors - Loyal Guan Yun",
+        "Ancient Warriors - Masterful Sun Mou",
+        "Ancient Warriors - Rebellious Lu Feng",
+        "Ancient Warriors - Savage Don Ying",
+        "Ancient Warriors - Valiant Zhang De",
+        "Ancient Warriors - Virtuous Liu Xuan",
+        "Ancient Warriors Oath - Double Dragon Lords",
+        "Ancient Warriors Saga - Borrowing of Arrows",
+        "Ancient Warriors Saga - Chivalrous Path",
+        "Ancient Warriors Saga - Deception and Betrayal",
+        "Ancient Warriors Saga - Defense of Changban",
+        "Ancient Warriors Saga - East-by-South Winds",
+        "Ancient Warriors Saga - Sun-Liu Alliance"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Propa Gandake",
+    "filename": "Propa_Gandake",
+    "card_text": "Once per turn, if you control a monster(s) whose original Type is Beast, Insect, Plant, or Rock: You can declare 1 of those Types you control; this card becomes that declared Type. If this card has applied this effect, also apply the following effects while it remains in the Monster Zone.\n\u25cfAll face-up monsters on the field become the same Type as this card.\n\u25cfMonsters on the field with this card's Type cannot be targeted by either player using the effects of monsters your opponent controls with that same Type.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 2000,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

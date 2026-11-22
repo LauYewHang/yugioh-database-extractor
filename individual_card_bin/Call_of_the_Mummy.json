@@ -1,0 +1,21 @@
+{
+    "name": "Call of the Mummy",
+    "filename": "Call_of_the_Mummy",
+    "card_text": "Once per turn: You can Special Summon 1 Zombie monster from your hand. You must control no monsters to activate and to resolve this effect.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "PHARAONIC GUARDIAN",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "DARK BEGINNING 2",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "GOLD SERIES HAUNTED MINE",
+        "DUELIST LEAGUE 17",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

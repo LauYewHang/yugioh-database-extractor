@@ -1,0 +1,26 @@
+{
+    "name": "Forbidden Lance",
+    "filename": "Forbidden_Lance",
+    "card_text": "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spells/Traps.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "LEGENDARY HERO DECKS",
+        "PREMIUM GOLD",
+        "STARTER DECK - LINK STRIKE -",
+        "NOBLE KNIGHTS OF THE ROUND TABLE BOX SET Power-Up Pack",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "BATTLE PACK EPIC DAWN",
+        "STORM OF RAGNAROK",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Condemned Witch",
+        "Darklord Djehuty",
+        "Darklord Gulgolet"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

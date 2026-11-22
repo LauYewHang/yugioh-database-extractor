@@ -1,0 +1,32 @@
+{
+    "name": "Decode Talker Extended",
+    "filename": "Decode_Talker_Extended",
+    "card_text": "2+ Effect Monsters\nThis card's name becomes \"Decode Talker\" while on the field. Gains 500 ATK for each monster it points to. During your Battle Phase, if a monster this card points to is destroyed by battle or sent to the GY: This card can make a second attack during each Battle Phase this turn.",
+    "release_date": "2019-10-11",
+    "available_set": [
+        "Duel Devastator"
+    ],
+    "related_card": [
+        "Code Exporter",
+        "Code Generator",
+        "Code Hack",
+        "Code Radiator",
+        "Cynet Codec",
+        "Cynet Conflict",
+        "Cynet Optimization",
+        "Decode Destruction",
+        "Decode Talker",
+        "Limit Code",
+        "Micro Coder",
+        "Recoded Alive",
+        "Rokket Coder",
+        "Talkback Lancer"
+    ],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 266
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Live\u2606Twin Ki-sikil",
+    "filename": "Live_Twin_Ki_sikil",
+    "card_text": "Each time an opponent's monster declares an attack, you gain 500 LP. If this card is Normal or Special Summoned and you control no other monsters: You can Special Summon 1 \"Lil-la\" monster from your hand or Deck. You can only use this effect of \"Live\u2606Twin Ki-sikil\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Evil\u2605Twin Challenge",
+        "Evil\u2605Twin GG EZ",
+        "Evil\u2605Twin Ki-sikil",
+        "Evil\u2605Twin Ki-sikil Deal",
+        "Evil\u2605Twin Lil-la",
+        "Evil\u2605Twin Present",
+        "Evil\u2605Twin's Trouble Sunny",
+        "Evil\u2605Twins Ki-sikil & Lil-la",
+        "Lil-la Rap",
+        "Live\u2606Twin Channel",
+        "Live\u2606Twin Home",
+        "Live\u2606Twin Lil-la",
+        "Live\u2606Twin Lil-la Sweet",
+        "Live\u2606Twin Lil-la Treat",
+        "Live\u2606Twin Sunny's Snitch",
+        "Secret Password"
+    ],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

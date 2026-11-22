@@ -1,0 +1,12 @@
+{
+    "name": "Damage Vaccine \u03a9 MAX",
+    "filename": "Damage_Vaccine_\u03a9_MAX",
+    "card_text": "When you take damage by battle or by a card effect: Gain Life Points equal to the damage you took.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

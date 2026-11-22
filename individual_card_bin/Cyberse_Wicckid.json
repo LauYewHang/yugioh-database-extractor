@@ -1,0 +1,25 @@
+{
+    "name": "Cyberse Wicckid",
+    "filename": "Cyberse_Wicckid",
+    "card_text": "2 Cyberse monsters\nThis Link Summoned card cannot be destroyed by battle or card effects. Cyberse monsters this card points to cannot be destroyed by card effects. If a monster(s) is Special Summoned to a zone(s) this card points to while you control this monster (except during the Damage Step): You can banish 1 Cyberse monster from your GY; add 1 Cyberse Tuner from your Deck to your hand. You can only use this effect of \"Cyberse Wicckid\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 12
+}

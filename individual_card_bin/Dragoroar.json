@@ -1,0 +1,12 @@
+{
+    "name": "Dragoroar",
+    "filename": "Dragoroar",
+    "card_text": "Banish 1 EARTH, 1 WATER, 1 FIRE, and 1 WIND monster from your Graveyard; shuffle 1 card on the field into the Deck.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

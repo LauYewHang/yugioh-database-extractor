@@ -1,0 +1,28 @@
+{
+    "name": "Interrupted Kaiju Slumber",
+    "filename": "Interrupted_Kaiju_Slumber",
+    "card_text": "Destroy as many monsters on the field as possible, then Special Summon in Attack Position, 2 \"Kaiju\" monsters with different names from your Deck (1 on each side), but they cannot change their battle positions, and must attack, if able. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \"Kaiju\" monster from your Deck to your hand. You can only activate 1 \"Interrupted Kaiju Slumber\" per turn.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "BROTHERS OF LEGEND",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Dogoran, the Mad Flame Kaiju",
+        "Gadarla, the Mystery Dust Kaiju",
+        "Gameciel, the Sea Turtle Kaiju",
+        "Jizukiru, the Star Destroying Kaiju",
+        "Kaiju Capture Mission",
+        "Kumongous, the Sticky String Kaiju",
+        "Kyoutou Waterfront",
+        "Radian, the Multidimensional Kaiju",
+        "Super Anti-Kaiju War Machine Mecha-Dogoran",
+        "Super Anti-Kaiju War Machine Mecha-Thunder-King",
+        "The Kaiju Files",
+        "Thunder King, the Lightningstrike Kaiju"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

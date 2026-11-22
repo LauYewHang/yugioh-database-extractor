@@ -1,0 +1,32 @@
+{
+    "name": "Mikanko Promise",
+    "filename": "Mikanko_Promise",
+    "card_text": "Special Summon 1 \"Mikanko\" monster from your hand or Deck, then you can equip it with 1 Equip Spell from your hand or GY that can equip to that monster. Banish that monster when it leaves the field. You can only activate 1 \"Mikanko Promise\" per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "RARITY COLLECTION 5",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Arahime the Manifested Mikanko",
+        "Ha-Re the Sword Mikanko",
+        "Heavenly Gate of the Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Fire Dance",
+        "Mikanko Kagura",
+        "Mikanko Purification Dance",
+        "Mikanko Reflection Rondo",
+        "Mikanko Rivalry",
+        "Mikanko Shinbu - Noble Twins",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Ohime the Manifested Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Tailwind of Gusto",
+    "filename": "Tailwind_of_Gusto",
+    "card_text": "Equip only to a \"Gusto\" monster. The equipped monster cannot be destroyed by your opponent's card effects. You can only use each of the following effects of \"Tailwind of Gusto\" once per turn. You can banish this card from your GY and discard 1 WIND monster; add 1 \"Gusto\" Spell/Trap from your Deck to your hand. You can activate this effect based on the Level/Rank of the equipped monster;\n\u25cf4 or lower: Special Summon 1 \"Gusto\" monster from your Deck with a different Type than the equipped monster.\n\u25cf5 or higher: Special Summon 1 Level 1 Tuner from your Deck.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Blessings for Gusto",
+        "Caam, Serenity of Gusto",
+        "Contact with Gusto",
+        "Daigusto Eguls",
+        "Daigusto Emeral",
+        "Daigusto Falcos",
+        "Daigusto Gulldos",
+        "Daigusto Laplampilica",
+        "Daigusto Phoenix",
+        "Daigusto Sphreez",
+        "Dust Storm of Gusto",
+        "Gusto Codor",
+        "Gusto Egul",
+        "Gusto Falco",
+        "Gusto Griffin",
+        "Gusto Gulldo",
+        "Gusto Squirro",
+        "Gusto Thunbolt",
+        "Gusto Vedir",
+        "Kamui, Hope of Gusto",
+        "Musto, Oracle of Gusto",
+        "Pilica, Descendant of Gusto",
+        "Reeze, Whirlwind of Gusto",
+        "Whirlwind of Gusto",
+        "Winda, Priestess of Gusto",
+        "Windaar, Sage of Gusto"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

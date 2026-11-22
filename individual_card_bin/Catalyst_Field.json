@@ -1,0 +1,15 @@
+{
+    "name": "Catalyst Field",
+    "filename": "Catalyst_Field",
+    "card_text": "Each turn, 1 Level 5 or higher Gemini monster you Normal Summon can be Summoned without Tributing. During your Main Phase, you can Normal Summon 1 Gemini monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 1 card your opponent controls; banish 1 Gemini monster you control, that is treated as an Effect Monster and has gained its effects, until your opponent's End Phase, and if you do, destroy that card.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Dimer Synthesis",
+        "Geminize Lord Golknight"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

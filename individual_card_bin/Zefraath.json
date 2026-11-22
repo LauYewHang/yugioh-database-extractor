@@ -1,0 +1,37 @@
+{
+    "name": "Zefraath",
+    "filename": "Zefraath",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by Tributing all monsters you control, including at least 3 \"Zefra\" monsters, and cannot be Special Summoned by other ways. After you Special Summon this card, you can conduct 1 Pendulum Summon of a \"Zefra\" monster(s) during your Main Phase this turn, in addition to your Pendulum Summon. (You can only gain this effect once per turn.) Once per turn: You can Tribute 1 monster; Special Summon 1 \"Zefra\" monster from your Deck.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Chosen of Zefra",
+        "Oracle of Zefra",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Satellarknight Zefrathuban",
+        "Shaddoll Zefracore",
+        "Shaddoll Zefranaga",
+        "Stellarknight Zefraxciton",
+        "Zefra Divine Strike",
+        "Zefra Metaltron",
+        "Zefra Path",
+        "Zefra Providence",
+        "Zefra War",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "attribute": "EARTH",
+    "attack": 3450,
+    "defense": 2950,
+    "monster_type": "Rock",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 11,
+    "pendulum_effect": "During your Main Phase: You can add 1 \"Zefra\" Pendulum Monster from your Deck to your Extra Deck face-up, and if you do, change this card's Pendulum Scale to be the same as that Pendulum Monster's, until the end of this turn. You can only use this effect of \"Zefraath\" once per turn.",
+    "pendulum_scale": 5
+}

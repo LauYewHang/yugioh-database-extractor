@@ -1,0 +1,31 @@
+{
+    "name": "Solfachord Harmonia",
+    "filename": "Solfachord_Harmonia",
+    "card_text": "You can activate 1 of these effects;\n\u25cfAdd 1 face-up \"Solfachord\" Pendulum Monster from your Extra Deck to your hand.\n\u25cfIncrease the Pendulum Scale of 1 \"Solfachord\" card in your Pendulum Zone by its Level this turn.\n\u25cfIf you control \"Solfachord\" Pendulum Monster Cards with at least 3 different even Pendulum Scales or at least 3 different odd Pendulum Scales, destroy 1 card your opponent controls.\nYou can only use each effect of \"Solfachord Harmonia\" once per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "DoSolfachord Coolia",
+        "DoSolfachord Cutia",
+        "FaSolfachord Fancia",
+        "GranSolfachord Coolia",
+        "GranSolfachord Musecia",
+        "LaSolfachord Angelia",
+        "MiSolfachord Eliteia",
+        "ReSolfachord Dreamia",
+        "Solfachord Elegance",
+        "Solfachord Formal",
+        "Solfachord Happiness",
+        "Solfachord Musica",
+        "Solfachord Primoa",
+        "Solfachord Scale",
+        "Solfachord Solfegia",
+        "Solfachord Symphony",
+        "SolSolfachord Gracia",
+        "TiSolfachord Beautia"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

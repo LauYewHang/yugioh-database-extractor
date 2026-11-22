@@ -1,0 +1,19 @@
+{
+    "name": "Thousand-Eyes Jellyfish",
+    "filename": "Thousand_Eyes_Jellyfish",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Ocean's Keeper\". Your opponent must play with their hand revealed.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Ocean's Keeper"
+    ],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 2100,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

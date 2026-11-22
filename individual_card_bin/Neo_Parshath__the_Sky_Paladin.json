@@ -1,0 +1,31 @@
+{
+    "name": "Neo-Parshath, the Sky Paladin",
+    "filename": "Neo_Parshath__the_Sky_Paladin",
+    "card_text": "You can Special Summon this card (from your hand) by Tributing 1 \"Airknight Parshath\". If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card. While \"The Sanctuary in the Sky\" is on the field and your LP is higher than your opponent's, this card gains ATK/DEF equal to the difference in LP.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "STRIKE OF NEOS",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "COLLECTIBLE TIN 2011 WAVE 1"
+    ],
+    "related_card": [
+        "Airknight Parshath",
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "Rebirth of Parshath",
+        "Sacred Arch-Airknight Parshath",
+        "The Chorus in the Sky",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

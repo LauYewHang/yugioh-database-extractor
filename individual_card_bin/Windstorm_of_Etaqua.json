@@ -1,0 +1,22 @@
+{
+    "name": "Windstorm of Etaqua",
+    "filename": "Windstorm_of_Etaqua",
+    "card_text": "Change the battle positions of all face-up monsters your opponent controls.",
+    "release_date": "2003-11-18",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "BATTLE PACK EPIC DAWN",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "SHADOW OF INFINITY SPECIAL EDITION",
+        "Event Pack Speed Duel",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "Yu-Gi-Oh! POWER OF CHAOS YUGI THE DESTINY Bundles",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

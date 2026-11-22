@@ -1,0 +1,21 @@
+{
+    "name": "Xyz Reception",
+    "filename": "Xyz_Reception",
+    "card_text": "Target 1 face-up monster you control that has a Level; Special Summon 1 monster with the same Level as that monster from your hand. Its effects are negated, also its ATK and DEF become 0.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

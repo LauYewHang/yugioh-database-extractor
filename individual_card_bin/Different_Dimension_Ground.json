@@ -1,0 +1,16 @@
+{
+    "name": "Different Dimension Ground",
+    "filename": "Different_Dimension_Ground",
+    "card_text": "This turn, any monster sent to the GY is banished instead.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "BATTLES OF LEGEND -LIGHT'S REVENGE-",
+        "Duel Devastator",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "STARSTRIKE BLAST",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

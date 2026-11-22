@@ -1,0 +1,33 @@
+{
+    "name": "Majestic Red Dragon",
+    "filename": "Majestic_Red_Dragon",
+    "card_text": "\"Majestic Dragon\" + \"Red Dragon Archfiend\" + 1 non-Tuner monster\nCannot be destroyed by card effects. After damage calculation, if this card attacks: Destroy all Defense Position monsters on the field. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects, and if you do, this card gains ATK equal to that monster's ATK. These changes last until the end of this turn. During the End Phase: Target 1 \"Red Dragon Archfiend\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "COLLECTIBLE TIN 2010 WAVE 1",
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [
+        "Converging Wills Dragon",
+        "Crimson Call",
+        "Crimson Gaia",
+        "Fiend Piece Golem",
+        "Fiendish Golem",
+        "Majestic Dragon",
+        "Red Dragon Archfiend",
+        "Red Zone",
+        "Scarlight Red Dragon Archfiend",
+        "Scarred Dragon Archfiend",
+        "Soul Resonator",
+        "The Crimson King",
+        "Vision Resonator"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

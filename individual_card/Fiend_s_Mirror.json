@@ -13,7 +13,9 @@
     "attack": 2100,
     "defense": 1800,
     "monster_type": "Fiend",
-    "monster_card_type": 4,
+    "monster_card_type": [
+        "Ritual"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

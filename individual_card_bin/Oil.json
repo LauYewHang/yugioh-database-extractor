@@ -1,0 +1,12 @@
+{
+    "name": "Oil",
+    "filename": "Oil",
+    "card_text": "Target up to 2 Level 4 or lower FIRE monsters with different names in your GY; add them to your hand. You can only activate 1 \"Oil\" per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "A.I.'s Ritual",
+    "filename": "A_I__s_Ritual",
+    "card_text": "This card can be used to Ritual Summon any Cyberse Ritual Monster. You must also Tribute \"@Ignister\" monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If you control an \"@Ignister\" monster when this effect is activated, you can also use \"@Ignister\" monster(s) in your GY, by banishing them.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "A.I.dle Reborn",
+        "Achichi @Ignister",
+        "Allied Code Talker @Ignister",
+        "Backup @Ignister",
+        "Bururu @Ignister",
+        "Code Igniter",
+        "Danmari @Ignister",
+        "Dark Infant @Ignister",
+        "Dark Templar @Ignister",
+        "Donyoribo @Ignister",
+        "Doshin @Ignister",
+        "Doyon @Ignister",
+        "Earth Golem @Ignister",
+        "Fire Phoenix @Ignister",
+        "Firewall Saber Dragon",
+        "Gatchiri @Ignister",
+        "Gussari @Ignister",
+        "Hiyari @Ignister",
+        "Kurikurinku @Ignister",
+        "Light Dragon @Ignister",
+        "Linkslayer @Ignister",
+        "Pikari @Ignister",
+        "The Arrival Cyberse @Ignister",
+        "Water Leviathan @Ignister",
+        "Wind Pegasus @Ignister",
+        "Wizard @Ignister"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

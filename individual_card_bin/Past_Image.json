@@ -1,0 +1,12 @@
+{
+    "name": "Past Image",
+    "filename": "Past_Image",
+    "card_text": "If you control a face-up Psychic-Type monster: Target 1 monster your opponent controls; banish it. During the next Standby Phase, it returns to the opponent's side of the field in the same Battle Position.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

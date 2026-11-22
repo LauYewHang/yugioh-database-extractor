@@ -14,7 +14,10 @@
     "attack": 1500,
     "defense": 1500,
     "monster_type": "Warrior",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "When an opponent's monster declares an attack: You can destroy this card, then end the Battle Phase.",

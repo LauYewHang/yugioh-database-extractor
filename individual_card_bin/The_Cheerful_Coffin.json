@@ -1,0 +1,14 @@
+{
+    "name": "The Cheerful Coffin",
+    "filename": "The_Cheerful_Coffin",
+    "card_text": "Discard up to 3 Monster Cards from your hand to the Graveyard.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "DARK BEGINNING 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

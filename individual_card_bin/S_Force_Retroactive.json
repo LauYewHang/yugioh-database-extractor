@@ -1,0 +1,38 @@
+{
+    "name": "S-Force Retroactive",
+    "filename": "S_Force_Retroactive",
+    "card_text": "If a monster you control would be used as Link Material for an \"S-Force\" monster, this card in your hand can also be used as material. During the Main Phase (Quick Effect): You can return this card to the hand, and if you do, Special Summon 1 Level 2 or higher \"S-Force\" monster from your hand. If an \"S-Force\" monster you control would banish a card(s) from your hand to activate its effect, you can banish this card from your GY instead. You can only use each effect of \"S-Force Retroactive\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

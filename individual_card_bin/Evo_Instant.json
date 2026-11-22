@@ -1,0 +1,22 @@
+{
+    "name": "Evo-Instant",
+    "filename": "Evo_Instant",
+    "card_text": "Tribute 1 Reptile-Type monster; Special Summon 1 \"Evolsaur\" monster from your Deck.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Evolsaur Cerato",
+        "Evolsaur Darwino",
+        "Evolsaur Diplo",
+        "Evolsaur Elias",
+        "Evolsaur Lios",
+        "Evolsaur Pelta",
+        "Evolsaur Terias",
+        "Evolsaur Vulcano",
+        "Evoltile Pholis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

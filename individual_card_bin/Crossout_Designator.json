@@ -1,0 +1,18 @@
+{
+    "name": "Crossout Designator",
+    "filename": "Crossout_Designator",
+    "card_text": "Declare 1 card name; banish 1 of that declared card from your Main Deck, and if you do, negate its effects, as well as the activated effects and effects on the field of cards with the same original name, until the end of this turn. You can only activate 1 \"Crossout Designator\" per turn.",
+    "release_date": "2021-10-01",
+    "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "Legendary 5D's Decks",
+        "WINNER'S PACK 2026-2027",
+        "LEGENDARY ARC-V DECKS",
+        "2021 TIN OF ANCIENT BATTLES",
+        "RARITY COLLECTION 5",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

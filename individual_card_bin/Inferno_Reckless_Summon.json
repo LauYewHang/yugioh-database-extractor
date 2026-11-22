@@ -1,0 +1,14 @@
+{
+    "name": "Inferno Reckless Summon",
+    "filename": "Inferno_Reckless_Summon",
+    "card_text": "When exactly 1 monster with 1500 or less ATK is Special Summoned to your field while your opponent controls a face-up monster: Special Summon as many monsters as possible with the same name as the Summoned monster, from your hand, Deck, and Graveyard, in Attack Position, also your opponent Special Summons as many monsters as possible with the same name as 1 of their face-up monsters, from their hand, Deck, and Graveyard.",
+    "release_date": "2006-02-08",
+    "available_set": [
+        "MACHINE REACTOR STRUCTURE DECK",
+        "DUELIST PACK - CHAZZ PRINCETON -",
+        "MACHINA MAYHEM STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

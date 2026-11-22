@@ -1,0 +1,13 @@
+{
+    "name": "Finite Cards",
+    "filename": "Finite_Cards",
+    "card_text": "The hand size limit of each player becomes 3.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

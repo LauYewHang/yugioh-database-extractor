@@ -1,0 +1,14 @@
+{
+    "name": "Dimension Distortion",
+    "filename": "Dimension_Distortion",
+    "card_text": "You can only activate this card if there are no cards in your Graveyard. Select 1 removed from play monster and Special Summon it on your side of the field.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "INVASION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

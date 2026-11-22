@@ -1,0 +1,25 @@
+{
+    "name": "Zoma the Earthbound Spirit",
+    "filename": "Zoma_the_Earthbound_Spirit",
+    "card_text": "Special Summon this card as an Effect Monster (Zombie/DARK/Level 4/ATK 1800/DEF 500) with the following effect (this card is also still a Trap).\n\u25cfAll monsters your opponent controls that can attack must attack this card.\nIf this card Summoned this way is destroyed by an opponent's monster's attack: Inflict damage to your opponent (max. 3000) equal to double the original ATK of the attacking monster. You can only use each effect of \"Zoma the Earthbound Spirit\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Earthbound Fusion",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Prison",
+        "Earthbound Prisoner Ground Keeper",
+        "Earthbound Prisoner Line Walker",
+        "Earthbound Release",
+        "Earthbound Servant Geo Grasha",
+        "Earthbound Servant Geo Gremlin",
+        "Earthbound Servant Geo Gremlina",
+        "Earthbound Servant Geo Gryphon",
+        "Earthbound Servant Geo Kraken"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The Agent of Creation - Venus",
+    "filename": "The_Agent_of_Creation___Venus",
+    "card_text": "You can pay 500 LP; Special Summon 1 \"Mystical Shine Ball\" from your hand or Deck.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "ANCIENT SANCTUARY",
+        "OTS TOURNAMENT PACK 5",
+        "DARK REVELATION Volume 2",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Majesty Hyperion",
+        "Master Hyperion",
+        "Masterflare Hyperion",
+        "Mystical Shine Ball",
+        "The Agent of Destruction - Venus",
+        "The Agent of Entropy - Uranus",
+        "The Agent of Life - Neptune",
+        "The Agent of Miracles - Jupiter",
+        "The Agent of Mystery - Earth",
+        "The Executor of the Underworld - Pluto",
+        "The Sacred Waters in the Sky"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

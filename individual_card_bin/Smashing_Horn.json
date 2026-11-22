@@ -1,0 +1,12 @@
+{
+    "name": "Smashing Horn",
+    "filename": "Smashing_Horn",
+    "card_text": "When a monster effect or Trap Card is activated that negates the Normal or Special Summon of a monster(s): Negate the activation and destroy it.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

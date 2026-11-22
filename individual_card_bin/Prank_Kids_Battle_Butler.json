@@ -1,0 +1,33 @@
+{
+    "name": "Prank-Kids Battle Butler",
+    "filename": "Prank_Kids_Battle_Butler",
+    "card_text": "\"Prank-Kids Lampsies\" + \"Prank-Kids Dropsies\" + \"Prank-Kids Fansies\"\nMust be Fusion Summoned. (Quick Effect): You can Tribute this card; destroy all monsters your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 non-Fusion Monster in your GY; Special Summon it. You can only use this effect of \"Prank-Kids Battle Butler\" once per turn.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Prank-Kids Bow-Wow-Bark",
+        "Prank-Kids Dodo-Doodle-Doo",
+        "Prank-Kids Dropsies",
+        "Prank-Kids Fansies",
+        "Prank-Kids Lampsies",
+        "Prank-Kids Meow-Meow-Mu",
+        "Prank-Kids Pandemonium",
+        "Prank-Kids Place",
+        "Prank-Kids Plan",
+        "Prank-Kids Pranks",
+        "Prank-Kids Rip-Roarin-Roaster",
+        "Prank-Kids Rocket Ride",
+        "Prank-Kids Rocksies",
+        "Prank-Kids Weather Washer"
+    ],
+    "attribute": "WIND",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Thunder",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

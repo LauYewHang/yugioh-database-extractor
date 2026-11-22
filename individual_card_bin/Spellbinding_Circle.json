@@ -1,0 +1,23 @@
+{
+    "name": "Spellbinding Circle",
+    "filename": "Spellbinding_Circle",
+    "card_text": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "STARTER DECK YUGI RELOADED",
+        "YUGI'S LEGENDARY DECKS",
+        "STARTER DECK YUGI Evolution",
+        "DARK BEGINNING 1",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER",
+        "DUELIST PACK - YUGI -",
+        "5D's STARTER DECK 2008",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

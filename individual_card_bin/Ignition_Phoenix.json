@@ -1,0 +1,28 @@
+{
+    "name": "Ignition Phoenix",
+    "filename": "Ignition_Phoenix",
+    "card_text": "All \"Igknight\" monsters on the field gain 300 ATK and DEF. Once per turn: You can target 1 \"Igknight\" card you control; destroy it, and if you do, add 1 \"Igknight\" card from your Deck to your hand.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [
+        "Igknight Burst",
+        "Igknight Cavalier",
+        "Igknight Champion",
+        "Igknight Crusader",
+        "Igknight Gallant",
+        "Igknight Lancer",
+        "Igknight Margrave",
+        "Igknight Paladin",
+        "Igknight Reload",
+        "Igknight Squire",
+        "Igknight Templar",
+        "Igknight Veteran",
+        "Igknights Unite",
+        "Ignis Phoenix, the Dracoslayer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

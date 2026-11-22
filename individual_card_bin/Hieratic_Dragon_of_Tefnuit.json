@@ -1,0 +1,34 @@
+{
+    "name": "Hieratic Dragon of Tefnuit",
+    "filename": "Hieratic_Dragon_of_Tefnuit",
+    "card_text": "If only your opponent controls a monster, you can Special Summon this card (from your hand). Cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand, Deck, or GY, and make its ATK/DEF 0.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "ASTRAL PACK ONE",
+        "GHOSTS FROM THE PAST",
+        "GALACTIC OVERLORD",
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Hieratic Dragon of Asar",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Su",
+        "Hieratic Seal From the Ashes",
+        "Hieratic Seal of Banishment",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Creation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 1400,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

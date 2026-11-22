@@ -1,0 +1,25 @@
+{
+    "name": "Phantasm Spiral Dragon",
+    "filename": "Phantasm_Spiral_Dragon",
+    "card_text": "A ferocious serpent that was being hunted by Atlanteans. Battle-weary and ragged, it came upon an ancient light, and gained new strength for its battle. With its increased power, it launched an invasion of enemy territory with a renewed assault.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Pacifis, the Phantasm City",
+        "Phantasm Spiral Assault",
+        "Phantasm Spiral Battle",
+        "Phantasm Spiral Crash",
+        "Phantasm Spiral Grip",
+        "Phantasm Spiral Power",
+        "Phantasm Spiral Wave"
+    ],
+    "attribute": "WATER",
+    "attack": 2900,
+    "defense": 2900,
+    "monster_type": "Wyrm",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

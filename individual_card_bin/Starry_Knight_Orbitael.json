@@ -1,0 +1,27 @@
+{
+    "name": "Starry Knight Orbitael",
+    "filename": "Starry_Knight_Orbitael",
+    "card_text": "(Quick Effect): You can target 1 LIGHT monster you control; Tribute it, and if you do, Set 1 \"Starry Knight\" Spell/Trap directly from your Deck. If a face-up Level 7 LIGHT Dragon monster you control returns to the hand, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Starry Knight Orbitael\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Starry Knight Arrival",
+        "Starry Knight Astel",
+        "Starry Knight Balefire",
+        "Starry Knight Blast",
+        "Starry Knight Ceremony",
+        "Starry Knight Ciel",
+        "Starry Knight Flamel",
+        "Starry Knight Rayel",
+        "Starry Knight Sky"
+    ],
+    "attribute": "LIGHT",
+    "attack": 400,
+    "defense": 2100,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

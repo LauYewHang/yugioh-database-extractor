@@ -1,0 +1,40 @@
+{
+    "name": "Infernity Beetle",
+    "filename": "Infernity_Beetle",
+    "card_text": "While you have no cards in your hand, you can Tribute this card to Special Summon up to 2 \"Infernity Beetle\" from your Deck.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Contract with the Void",
+        "Infernity Archfiend",
+        "Infernity Barrier",
+        "Infernity Break",
+        "Infernity Force",
+        "Infernity General",
+        "Infernity Inferno",
+        "Infernity Launcher",
+        "Infernity Mirage",
+        "Infernity Necromancer",
+        "Infernity Paranoia",
+        "Infernity Patriarch",
+        "Infernity Pawn",
+        "Infernity Reflector",
+        "Infernity Sage",
+        "Infernity Suppression",
+        "Infernity Wildcat",
+        "Phantom Hand",
+        "This Creepy Little Punk",
+        "Void Cauldron",
+        "Wave-Motion Inferno",
+        "ZERO-MAX"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 0,
+    "monster_type": "Insect",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

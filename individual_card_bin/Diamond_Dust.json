@@ -1,0 +1,12 @@
+{
+    "name": "Diamond Dust",
+    "filename": "Diamond_Dust",
+    "card_text": "Destroy as many WATER monsters on the field as possible, then inflict 500 damage to your opponent for each WATER monster destroyed and sent to the Graveyard by this effect.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "DUELIST SAGA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

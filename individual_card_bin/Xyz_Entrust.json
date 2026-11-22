@@ -1,0 +1,26 @@
+{
+    "name": "Xyz Entrust",
+    "filename": "Xyz_Entrust",
+    "card_text": "Add 1 \"Armored Xyz\" card from your Deck or GY to your hand, then you can make up to 2 face-up monsters you control become all Level 3 or all Level 5, until the end of this turn. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Xyz Monster Card treated as an Equip Card in your Spell & Trap Zone; Special Summon it. You can only activate 1 \"Xyz Entrust\" per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Armored Shark",
+        "Armored Xyz",
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Full-Armored Xyz",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Reincarnation Unveiling Mail",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Peaceful Burial",
+    "filename": "Peaceful_Burial",
+    "card_text": "Send 1 monster from your Deck to the GY, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name the sent monster had in the GY. You can only activate 1 \"Peaceful Burial\" per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

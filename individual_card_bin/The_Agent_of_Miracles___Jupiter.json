@@ -1,0 +1,38 @@
+{
+    "name": "The Agent of Miracles - Jupiter",
+    "filename": "The_Agent_of_Miracles___Jupiter",
+    "card_text": "Once per turn: You can banish 1 \"The Agent\" monster from your GY, then target 1 LIGHT Fairy monster you control; that target gains 800 ATK until the end of this turn. Once per turn: You can discard 1 Fairy monster, then target 1 of your banished LIGHT Fairy monsters; Special Summon it. \"The Sanctuary in the Sky\" must be on the field to activate and to resolve this effect.",
+    "release_date": "2011-06-14",
+    "available_set": [
+        "LOST SANCTUARY STRUCTURE DECK",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Majesty Hyperion",
+        "Master Hyperion",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "The Agent of Creation - Venus",
+        "The Agent of Destruction - Venus",
+        "The Agent of Entropy - Uranus",
+        "The Agent of Force - Mars",
+        "The Agent of Judgment - Saturn",
+        "The Agent of Life - Neptune",
+        "The Agent of Mystery - Earth",
+        "The Agent of Wisdom - Mercury",
+        "The Chorus in the Sky",
+        "The Executor of the Underworld - Pluto",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

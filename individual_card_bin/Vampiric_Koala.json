@@ -1,0 +1,22 @@
+{
+    "name": "Vampiric Koala",
+    "filename": "Vampiric_Koala",
+    "card_text": "If this card inflicts battle damage to your opponent by battle with a monster: Gain LP equal to the battle damage inflicted.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DARK SAVIORS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Eucalyptus Mole"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

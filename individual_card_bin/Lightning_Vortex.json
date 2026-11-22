@@ -1,0 +1,27 @@
+{
+    "name": "Lightning Vortex",
+    "filename": "Lightning_Vortex",
+    "card_text": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 30",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "QUARTER CENTURY BONANZA",
+        "DUELIST LEAGUE DEMO 2010",
+        "DARK REVELATION Volume 3",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "STARTER DECK YUYA",
+        "FLAMING ETERNITY",
+        "STARTER DECK JADEN YUKI",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "STARTER DECK SYRUS TRUESDALE",
+        "5D's STARTER DECK 2008"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

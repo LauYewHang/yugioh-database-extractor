@@ -1,0 +1,35 @@
+{
+    "name": "Vampire Fraulein",
+    "filename": "Vampire_Fraulein",
+    "card_text": "When a monster declares an attack: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Vampire Fraulein\" once per turn. Once per battle, if your Zombie monster battles an opponent's monster, during that damage calculation (Quick Effect): You can pay LP in multiples of 100 (max. 3000); your battling monster gains that much ATK/DEF during that damage calculation only. At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
+    "release_date": "2018-05-25",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "DARK SAVIORS"
+    ],
+    "related_card": [
+        "Shadow Vampire",
+        "Vampire Awakening",
+        "Vampire Domination",
+        "Vampire Duke",
+        "Vampire Familiar",
+        "Vampire Fascinator",
+        "Vampire Ghost",
+        "Vampire Kingdom",
+        "Vampire Red Baron",
+        "Vampire Retainer",
+        "Vampire Scarlet Scourge",
+        "Vampire Sorcerer",
+        "Vampire Takeover",
+        "Vampire Vamp",
+        "Vampire's Desire",
+        "Vampire's Domain"
+    ],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 2000,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

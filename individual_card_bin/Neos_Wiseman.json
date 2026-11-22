@@ -1,0 +1,28 @@
+{
+    "name": "Neos Wiseman",
+    "filename": "Neos_Wiseman",
+    "card_text": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" you control to the GY. Cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also you gain LP equal to that opponent's monster's DEF.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Elemental HERO Divine Neos",
+        "Elemental HERO Neos",
+        "Elemental HERO Neos Alius",
+        "Elemental HERO Neos Kluger",
+        "Gruesome Grave Squirmer",
+        "Mature Chronicle",
+        "Nightmare Pain",
+        "Yubel"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

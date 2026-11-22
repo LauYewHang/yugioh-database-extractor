@@ -1,0 +1,21 @@
+{
+    "name": "Hieracosphinx",
+    "filename": "Hieracosphinx",
+    "card_text": "Your opponent cannot select a face-down Defense Position monster as an attack target.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "DARK REVELATION Volume 3",
+        "THE LOST MILLENNIUM"
+    ],
+    "related_card": [
+        "Exxod, Master of The Guard"
+    ],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 1200,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Kai-Den Kendo Spirit",
+    "filename": "Kai_Den_Kendo_Spirit",
+    "card_text": "When this card is Normal Summoned: You can choose 1 card in your Pendulum Zone, and send to the GY all cards your opponent controls in the same column as that card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 4226,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "If a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.",
+    "pendulum_scale": 9
+}

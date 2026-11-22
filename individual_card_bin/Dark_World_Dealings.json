@@ -1,0 +1,32 @@
+{
+    "name": "Dark World Dealings",
+    "filename": "Dark_World_Dealings",
+    "card_text": "Each player draws 1 card, then each player discards 1 card.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "MYSTIC FIGHTERS",
+        "STRUCTURE DECK: DARK WORLD",
+        "CHAMPION PACK GAME SEVEN",
+        "STRIKE OF NEOS",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Ceruli, Guru of Dark World",
+        "Dark Corridor",
+        "Dark World Accession",
+        "Dark World Archives",
+        "Dark World Brainwashing",
+        "Dark World Punishment",
+        "Gateway to Dark World",
+        "Genta, Gateman of Dark World",
+        "Grapha, Dragon Lord of Dark World",
+        "Parl, Hermit of Dark World",
+        "Reign-Beaux, Overking of Dark World",
+        "Scarr, Scout of Dark World",
+        "Snoww, Unlight of Dark World",
+        "The Forces of Darkness"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Skill Successor",
+    "filename": "Skill_Successor",
+    "card_text": "Target 1 face-up monster you control; it gains 400 ATK until the end of this turn. During your turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up monster you control; that target gains 800 ATK until the end of this turn.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "DUEL TERMINAL 5A",
+        "BATTLE PACK EPIC DAWN",
+        "REALM OF LIGHT STRUCTURE DECK",
+        "2-PLAYER STARTER SET",
+        "DUELIST PACK - YUSEI 2 -",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

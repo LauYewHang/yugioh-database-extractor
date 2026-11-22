@@ -1,0 +1,13 @@
+{
+    "name": "Apex Predation",
+    "filename": "Apex_Predation",
+    "card_text": "If you control a Normal Summoned/Set monster: Destroy all Special Summoned monsters on the field. Until the end of your next turn after this card is activated, you cannot Normal Summon/Set. You can only activate 1 \"Apex Predation\" per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Zero Extra Link",
+    "filename": "Zero_Extra_Link",
+    "card_text": "Activate this card by targeting 1 Link Monster you control that is co-linked to a Link Monster in the Extra Monster Zone. The targeted monster gains 800 ATK for each Link Monster on the field. If a Link Monster is Link Summoned using the targeted monster as material: That Link Monster gains the same ATK increase that the targeted monster had, until the end of this turn (even if this card leaves the field). After damage calculation, if the targeted monster attacked: Destroy this card.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

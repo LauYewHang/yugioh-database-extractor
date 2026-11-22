@@ -1,0 +1,26 @@
+{
+    "name": "Melffy Playhouse",
+    "filename": "Melffy_Playhouse",
+    "card_text": "Detach any number of materials from Beast Xyz Monsters you control, then target up to that many cards your opponent controls; return them to the hand, also all Beast Xyz Monsters you control gain 500 ATK for each material detached to activate this card, until the end of this turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Joyous Melffys",
+        "Melffy Footsteps",
+        "Melffy Godmommy",
+        "Melffy of the Forest",
+        "Melffy Pinny",
+        "Melffy Playtime Surprise",
+        "Melffy Rabbys",
+        "Melffy Staring Contest",
+        "Melffy Tag",
+        "Melffy Wally",
+        "Melffys' Joyful Surprise",
+        "Merry Melffys"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

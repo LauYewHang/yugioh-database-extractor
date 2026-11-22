@@ -1,0 +1,32 @@
+{
+    "name": "Tainted of the Tistina",
+    "filename": "Tainted_of_the_Tistina",
+    "card_text": "You can Tribute Summon this card face-up by Tributing 1 face-down monster your opponent controls. This card's Level becomes 10 if it was Normal Summoned/Set. If this card is sent to the GY, except from the field: You can target 1 \"Tistina\" monster you control; this turn, it can make a second attack during each Battle Phase, also you can only attack with 1 monster.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Breath of the Tistina",
+        "Crystal God Tistina",
+        "Demigod of the Tistina",
+        "Discordance of the Tistina",
+        "Divine Domain Baatistina",
+        "Embrace of the Tistina",
+        "Fallen of the Tistina",
+        "Hound of the Tistina",
+        "Miasma Dragon Tistina",
+        "Play of the Tistina",
+        "Returned of the Tistina",
+        "Sentinel of the Tistina",
+        "Signs of the Tistina",
+        "Tistina, the Divinity that Defies Darkness"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

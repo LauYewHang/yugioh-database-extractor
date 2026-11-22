@@ -1,0 +1,26 @@
+{
+    "name": "Chaos Emperor Dragon - Envoy of the End",
+    "filename": "Chaos_Emperor_Dragon___Envoy_of_the_End",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can pay 1000 LP; send as many cards in both players' hands and on the field as possible to the GY, then inflict 300 damage to your opponent for each card sent to the opponent's GY by this effect. You cannot activate other cards or effects during the turn you activate this card's effect.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "TOON CHAOS",
+        "THE LOST MILLENNIUM SPECIAL EDITION",
+        "QUARTER CENTURY BONANZA",
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "SHONEN JUMP membership Promotional Card - February 2019 -",
+        "DUELIST PACK - KAIBA -",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Primal Seed"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

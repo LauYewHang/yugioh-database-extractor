@@ -1,0 +1,21 @@
+{
+    "name": "G Golem Dignified Trilithon",
+    "filename": "G_Golem_Dignified_Trilithon",
+    "card_text": "2+ EARTH monsters\nAll monsters your opponent controls must attack this card, if able. Once per battle, if this card battles an opponent's monster, before damage calculation (Quick Effect): You can send 1 EARTH monster from your hand to the GY; until the end of this turn, that opponent's monster loses 200 ATK, also negate its effects. When your opponent activates a card or effect that targets a Link Monster(s) you control (Quick Effect): You can negate that effect, and if you do, destroy that card. You can only use this effect of \"G Golem Dignified Trilithon\" once per turn.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "G Golem Pebble Dog",
+        "Gouki Gameface",
+        "Gravity Balance"
+    ],
+    "attribute": "EARTH",
+    "attack": 3200,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 340
+}

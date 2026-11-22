@@ -72,7 +72,10 @@
     "attack": 2200,
     "defense": 2000,
     "monster_type": "Machine",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "Once per turn: You can send 1 \"Speedroid\" Tuner from your hand or face-up from your field to the GY; increase or reduce (min. 1) this card's Pendulum Scale by the original Level of the sent monster until the end of this turn.",

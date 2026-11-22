@@ -25,7 +25,10 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "If you control a monster, you cannot Pendulum Summon. This effect cannot be negated. Once per turn, if you control \"Supreme King Z-ARC\": You can target 1 face-up monster your opponent controls; gain LP equal to its ATK.",

@@ -12,7 +12,10 @@
     "attack": 2000,
     "defense": 1000,
     "monster_type": "Beast",
-    "monster_card_type": 4097,
+    "monster_card_type": [
+        "Pendulum",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).",

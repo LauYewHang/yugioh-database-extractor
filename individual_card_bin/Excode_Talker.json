@@ -1,0 +1,31 @@
+{
+    "name": "Excode Talker",
+    "filename": "Excode_Talker",
+    "card_text": "2+ Cyberse monsters\nWhen this card is Link Summoned: You can choose unused Main Monster Zones equal to the number of monsters currently in the Extra Monster Zones; those zones cannot be used while this monster is face-up on the field. You can only use this effect of \"Excode Talker\" once per turn. Monsters this card points to gain 500 ATK, also they cannot be destroyed by card effects.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Code Exporter",
+        "Code Generator",
+        "Code Hack",
+        "Code Radiator",
+        "Cynet Codec",
+        "Cynet Conflict",
+        "Cynet Optimization",
+        "Limit Code",
+        "Micro Coder",
+        "Recoded Alive",
+        "Rokket Coder",
+        "Talkback Lancer"
+    ],
+    "attribute": "WIND",
+    "attack": 2300,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 336
+}

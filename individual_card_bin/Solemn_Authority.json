@@ -1,0 +1,18 @@
+{
+    "name": "Solemn Authority",
+    "filename": "Solemn_Authority",
+    "card_text": "Activate this card by targeting 1 \"Aesir\" monster you control; it cannot be targeted by other card effects while this card is on the field. Send this card to the GY during your 2nd Standby Phase after activation.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Loki, Lord of the Aesir",
+        "Odin, Father of the Aesir",
+        "Thor, Lord of the Aesir"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

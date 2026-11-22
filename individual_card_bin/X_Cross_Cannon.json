@@ -1,0 +1,19 @@
+{
+    "name": "X-Cross Cannon",
+    "filename": "X_Cross_Cannon",
+    "card_text": "If you control a LIGHT Machine Fusion or Union monster: You can Special Summon this card from your hand. During your Main Phase: You can equip 1 appropriate LIGHT Machine Union monster from your Deck to this card as an Equip Spell as if it were equipped by that monster's effect, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT monsters. You can only use each effect of \"X-Cross Cannon\" once per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "XYZ-Hyper Dragon Cannon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

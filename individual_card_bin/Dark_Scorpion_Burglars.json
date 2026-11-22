@@ -1,0 +1,22 @@
+{
+    "name": "Dark Scorpion Burglars",
+    "filename": "Dark_Scorpion_Burglars",
+    "card_text": "When this card inflicts Battle Damage to your opponent: Your opponent sends 1 Spell Card from their Deck to the Graveyard.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "GOLD SERIES HAUNTED MINE",
+        "PHARAONIC GUARDIAN",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Dark Scorpion - Meanae the Thorn",
+        "Mustering of the Dark Scorpions"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

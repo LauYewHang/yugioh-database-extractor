@@ -1,0 +1,23 @@
+{
+    "name": "Pendulum Xyz",
+    "filename": "Pendulum_Xyz",
+    "card_text": "Target 2 cards in your Pendulum Zones; Special Summon both targets, but negate their effects, then, immediately after this effect resolves, Xyz Summon 1 Xyz Monster using only those 2 monsters. When you do, you can treat the Level of 1 of the monsters the same as the other monster's. You can only activate 1 \"Pendulum Xyz\" per turn.",
+    "release_date": "2021-07-09",
+    "available_set": [
+        "KING'S COURT"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Duelist Alliance",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "PenduLuMoon",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

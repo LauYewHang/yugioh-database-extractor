@@ -1,0 +1,29 @@
+{
+    "name": "Deskbot Jet",
+    "filename": "Deskbot_Jet",
+    "card_text": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 500 ATK and DEF for each \"Deskbot\" card on the field. You can only use 1 of the following effects of \"Deskbot Jet\" per turn, and only once that turn.\n\u25cfYou can target 1 \"Deskbot\" card you control; destroy it, and if you do, Special Summon 1 \"Deskbot\" monster from your Deck.\n\u25cfYou can target 1 \"Deskbot\" card you control and 1 face-up card on the field; destroy them.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [
+        "Deskbot 001",
+        "Deskbot 002",
+        "Deskbot 003",
+        "Deskbot 004",
+        "Deskbot 005",
+        "Deskbot 006",
+        "Deskbot 007",
+        "Deskbot 008",
+        "Deskbot 009",
+        "Deskbot Base"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

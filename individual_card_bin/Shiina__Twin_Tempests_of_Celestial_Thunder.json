@@ -1,0 +1,17 @@
+{
+    "name": "Shiina, Twin Tempests of Celestial Thunder",
+    "filename": "Shiina__Twin_Tempests_of_Celestial_Thunder",
+    "card_text": "The first time this card would be destroyed by battle each turn, it is not destroyed. When your opponent activates a card or effect, while you control a WIND monster (Quick Effect): You can Special Summon this card from your hand, then apply the following effect based on what was activated.\n\u25cfMonster: Return all face-up monsters on the field to the hand, except \"Shiina, Twin Tempests of Celestial Thunder\".\n\u25cfSpell/Trap: Return all Spells/Traps on the field to the hand.\nYou can only use this effect of \"Shiina, Twin Tempests of Celestial Thunder\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2900,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

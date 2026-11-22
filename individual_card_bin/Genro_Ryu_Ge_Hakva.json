@@ -1,0 +1,29 @@
+{
+    "name": "Genro Ryu-Ge Hakva",
+    "filename": "Genro_Ryu_Ge_Hakva",
+    "card_text": "You can banish this card from your hand; add 1 \"Ryu-Ge Realm - Wyrm Winds\" from your Deck to your hand. If a monster is banished face-up, this card is already banished, and there are now at least 2 other banished monsters that are not \"Genro Ryu-Ge Hakva\" (except during the Damage Step): You can Special Summon this banished card. You can place 1 \"Ryu-Ge Realm - Wyrm Winds\" you control on the bottom of the Deck; add 1 \"Ryu-Ge\" card from your Deck, GY, or banishment to your hand, except \"Genro Ryu-Ge Hakva\". You can only use each effect of \"Genro Ryu-Ge Hakva\" once per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Kairo Ryu-Ge Emva",
+        "Kyoro Ryu-Ge Kaiva",
+        "Ryu-Ge End",
+        "Ryu-Ge Realm - Dino Domains",
+        "Ryu-Ge Realm - Sea Spires",
+        "Ryu-Ge Realm - Wyrm Winds",
+        "Ryu-Ge Rising",
+        "Ryu-Ge Rivalry",
+        "Ryu-Ge War Zone",
+        "Sosei Ryu-Ge Mistva",
+        "Tensei Ryu-Ge Anva"
+    ],
+    "attribute": "WIND",
+    "attack": 3000,
+    "defense": 1500,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

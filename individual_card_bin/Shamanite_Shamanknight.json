@@ -1,0 +1,17 @@
+{
+    "name": "Shamanite Shamanknight",
+    "filename": "Shamanite_Shamanknight",
+    "card_text": "2+ Level 3 monsters\nIf this card is Xyz Summoned, or if a Trap you own is banished: You can target 1 of your banished Traps; attach it to this card. You can detach any number of materials from this card, then target 1 DARK monster in your GY or banishment with a Level equal to the number detached; Special Summon it. You can only use each effect of \"Shamanite Shamanknight\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 2400,
+    "monster_type": "Warrior",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Ancient Warriors - Deceptive Jia Wen",
+    "filename": "Ancient_Warriors___Deceptive_Jia_Wen",
+    "card_text": "You can target 1 Continuous Spell/Trap you control; send it to the GY, and if you do, halve the ATK of 2 face-up monsters on the field, until the end of this turn. If a card(s) your opponent controls is destroyed by battle or card effect: You can target 1 \"Ancient Warriors\" card in your GY, except \"Ancient Warriors - Deceptive Jia Wen\"; add it to your hand. You can only use each effect of \"Ancient Warriors - Deceptive Jia Wen\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Ancient Warriors - Ambitious Cao De",
+        "Ancient Warriors - Eccentric Lu Jing",
+        "Ancient Warriors - Fearsome Zhang Yuan",
+        "Ancient Warriors - Graceful Zhou Gong",
+        "Ancient Warriors - Ingenious Zhuge Kong",
+        "Ancient Warriors - Loyal Guan Yun",
+        "Ancient Warriors - Masterful Sun Mou",
+        "Ancient Warriors - Rebellious Lu Feng",
+        "Ancient Warriors - Savage Don Ying",
+        "Ancient Warriors - Valiant Zhang De",
+        "Ancient Warriors - Virtuous Liu Xuan",
+        "Ancient Warriors Oath - Double Dragon Lords",
+        "Ancient Warriors Saga - Borrowing of Arrows",
+        "Ancient Warriors Saga - Chivalrous Path",
+        "Ancient Warriors Saga - Deception and Betrayal",
+        "Ancient Warriors Saga - Defense of Changban",
+        "Ancient Warriors Saga - East-by-South Winds",
+        "Ancient Warriors Saga - Sun-Liu Alliance",
+        "Ancient Warriors Saga - Three Visits"
+    ],
+    "attribute": "FIRE",
+    "attack": 1100,
+    "defense": 1800,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

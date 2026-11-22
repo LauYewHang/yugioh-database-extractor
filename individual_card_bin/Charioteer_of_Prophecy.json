@@ -1,0 +1,36 @@
+{
+    "name": "Charioteer of Prophecy",
+    "filename": "Charioteer_of_Prophecy",
+    "card_text": "Once per turn: You can discard 1 \"Spellbook\" Spell Card to target 1 Spellcaster-Type monster in your Graveyard; add that target to your hand.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Hidden Spellbook (Updated from: Hidden Book of Spell)",
+        "Spellbook Library of the Crescent",
+        "Spellbook Library of the Heliosphere",
+        "Spellbook Magician of Prophecy",
+        "Spellbook of Eternity",
+        "Spellbook of Fate",
+        "Spellbook of Judgment",
+        "Spellbook of Knowledge",
+        "Spellbook of Life",
+        "Spellbook of Miracles",
+        "Spellbook of Power",
+        "Spellbook of Secrets",
+        "Spellbook of the Grand Circle",
+        "Spellbook of the Master",
+        "Spellbook of Wisdom",
+        "Spellbook Organization (Updated from: Pigeonholing Books of Spell)",
+        "Spellbook Star Hall",
+        "The Grand Spellbook Tower"
+    ],
+    "attribute": "WIND",
+    "attack": 1800,
+    "defense": 1300,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

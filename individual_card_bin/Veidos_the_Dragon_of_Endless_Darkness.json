@@ -1,0 +1,32 @@
+{
+    "name": "Veidos the Dragon of Endless Darkness",
+    "filename": "Veidos_the_Dragon_of_Endless_Darkness",
+    "card_text": "\"Veidos the Eruption Dragon of Extinction\" + 2+ Level 9 or lower Pyro monsters\nCannot be destroyed by card effects, also your opponent cannot target it with monster effects. If this card is Fusion Summoned: You can destroy all Spells and Traps your opponent controls. When your opponent activates a card or effect on the field (Quick Effect): You can send 1 face-up \"Ashened\" card you control to the GY; destroy that card. You can only use this effect of \"Veidos the Dragon of Endless Darkness\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Ashened for Eternity",
+        "Ashened to Endlessness",
+        "Embers of the Ashened",
+        "Extinguishing the Ashened",
+        "Hero of the Ashened City",
+        "Inferno of the Ashened",
+        "King of the Ashened City",
+        "Obsidim, the Ashened City",
+        "Priestess of the Ashened City",
+        "Rekindling the Ashened",
+        "Shaman of the Ashened City",
+        "Spearhead of the Ashened City",
+        "Veidos the Eruption Dragon of Extinction"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 1700,
+    "monster_type": "Pyro",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

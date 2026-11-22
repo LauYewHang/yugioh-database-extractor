@@ -1,0 +1,14 @@
+{
+    "name": "Three Strikes Barrier",
+    "filename": "Three_Strikes_Barrier",
+    "card_text": "If your opponent controls exactly 3 cards: Activate 1 of these effects;\n\u25cfThis turn, your monsters cannot be destroyed by battle.\n\u25cfThis turn, you take no battle damage.\n\u25cfThis turn, each time your monster inflicts battle damage to your opponent, you gain the same amount of LP.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST",
+        "STAR PACK: VRAINS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

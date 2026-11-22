@@ -1,0 +1,12 @@
+{
+    "name": "Stand-Off",
+    "filename": "Stand_Off",
+    "card_text": "Target 1 face-up Attack Position Effect Monster on each side of the field; if both monsters are still face-up on the field, negate their effects, then if both their effects were negated by this effect, as long as those monsters are in face-up Attack Position, they cannot be destroyed by battle, are unaffected by other card effects, also they cannot attack or change their battle positions.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

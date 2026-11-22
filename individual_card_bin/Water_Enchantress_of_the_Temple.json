@@ -1,0 +1,35 @@
+{
+    "name": "Water Enchantress of the Temple",
+    "filename": "Water_Enchantress_of_the_Temple",
+    "card_text": "If you control an \"Adventurer Token\": You can Special Summon this card from your hand. You can banish this card from your hand or GY; add 1 \"Rite of Aramesir\" from your Deck or GY to your hand. If you control an \"Adventurer Token\": You can place 1 Field Spell that mentions \"Adventurer Token\" from your Deck face-up in your Field Zone. You can only use each effect of \"Water Enchantress of the Temple\" once per turn.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "THE GRAND CREATORS",
+        "OTS TOURNAMENT PACK 19",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Breath of Resurrection",
+        "Celestial Apparatus Tesea",
+        "Curse of Aramatir",
+        "Dracoback, the Rideable Dragon",
+        "Dunnell, the Noble Arms of Light",
+        "Fateful Adventure",
+        "Forest of Lost Flowers",
+        "Illegal Knight",
+        "Magicore Warrior of the Relics",
+        "Rite of Aramesir",
+        "Starlit Papillon",
+        "Thunder Discharge",
+        "Wandering Gryphon Rider",
+        "Zaralaam the Dark Palace"
+    ],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

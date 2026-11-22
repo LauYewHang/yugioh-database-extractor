@@ -1,0 +1,36 @@
+{
+    "name": "Mekk-Knight Indigo Eclipse",
+    "filename": "Mekk_Knight_Indigo_Eclipse",
+    "card_text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Indigo Eclipse\" once per turn this way. Once per turn (Quick Effect): You can target 1 \"Mekk-Knight\" monster you control; move that target to another of your Main Monster Zones.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE"
+    ],
+    "related_card": [
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Girsu, the Orcust Mekk-Knight",
+        "Mekk-Knight Avram",
+        "Mekk-Knight Blue Sky",
+        "Mekk-Knight Crusadia Avramax",
+        "Mekk-Knight Green Horizon",
+        "Mekk-Knight of the Morning Star",
+        "Mekk-Knight Orange Sunset",
+        "Mekk-Knight Purple Nightfall",
+        "Mekk-Knight Red Moon",
+        "Mekk-Knight Spectrum Supreme",
+        "Mekk-Knight Yellow Star",
+        "World Legacy Key",
+        "World Legacy Scars",
+        "World Legacy Whispers",
+        "World Legacy's Memory",
+        "World Legacy's Secret"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 2400,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

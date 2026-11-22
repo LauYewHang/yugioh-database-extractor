@@ -1,0 +1,23 @@
+{
+    "name": "Aleirtt, the Ogdoadic Dark",
+    "filename": "Aleirtt__the_Ogdoadic_Dark",
+    "card_text": "If this card is in your GY: You can Tribute 1 monster; Special Summon this card, then your opponent can add 1 monster from their GY to their hand. If this card is Special Summoned: You can target 2 of your banished monsters, including a Reptile monster; return them to the GY. You can only use each effect of \"Aleirtt, the Ogdoadic Dark\" once per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Keurse, the Ogdoadic Light",
+        "Nauya, the Ogdoadic Remnant",
+        "Nunu, the Ogdoadic Remnant",
+        "Ogdoadic Calling",
+        "Zohah, the Ogdoadic Boundless"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 800,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

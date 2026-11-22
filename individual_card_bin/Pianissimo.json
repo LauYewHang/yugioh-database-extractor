@@ -1,0 +1,14 @@
+{
+    "name": "Pianissimo",
+    "filename": "Pianissimo",
+    "card_text": "Target 1 face-up monster you control; this turn, that face-up monster's original ATK becomes 100, also that face-up monster cannot be destroyed by battle or card effects.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS",
+        "STAR PACK BATTLE ROYAL"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

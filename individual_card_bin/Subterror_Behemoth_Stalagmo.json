@@ -1,0 +1,36 @@
+{
+    "name": "Subterror Behemoth Stalagmo",
+    "filename": "Subterror_Behemoth_Stalagmo",
+    "card_text": "FLIP: You can discard 1 \"Subterror\" monster, and if you do, draw 2 cards. You can only use this effect of \"Subterror Behemoth Stalagmo\" once per turn.\nWhen a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Subterror Behemoth Burrowing",
+        "Subterror Behemoth Dragossuary",
+        "Subterror Behemoth Fiendess",
+        "Subterror Behemoth Phospheroglacier",
+        "Subterror Behemoth Speleogeist",
+        "Subterror Behemoth Stygokraken",
+        "Subterror Behemoth Ultramafus",
+        "Subterror Behemoth Umastryx",
+        "Subterror Behemoth Voltelluric",
+        "Subterror Cave Clash",
+        "Subterror Fiendess",
+        "Subterror Final Battle",
+        "Subterror Guru",
+        "Subterror Nemesis Archer",
+        "Subterror Nemesis Defender",
+        "Subterror Nemesis Warrior",
+        "Subterror Succession",
+        "The Hidden City"
+    ],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 2100,
+    "monster_type": "Rock",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

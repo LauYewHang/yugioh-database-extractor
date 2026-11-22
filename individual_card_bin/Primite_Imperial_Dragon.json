@@ -1,0 +1,27 @@
+{
+    "name": "Primite Imperial Dragon",
+    "filename": "Primite_Imperial_Dragon",
+    "card_text": "Cannot be Normal Summoned, except by Tributing 1 Normal Monster (but can be Normal Set). During your opponent's Main Phase (Quick Effect): You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 \"Primite\" monster. You can only use this effect of \"Primite Imperial Dragon\" once per turn. If this card is Tribute Summoned: You can apply these effects in sequence.\n\u25cfNegate the effects of all face-up monsters your opponent currently controls.\n\u25cfBanish all monsters your opponent controls with the same Type or Attribute as a Normal Monster in your GY.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Primite Dragon Ether Beryl",
+        "Primite Dragon Nether Berzelius",
+        "Primite Drillbeam",
+        "Primite Fusion",
+        "Primite Howl",
+        "Primite Lordly Lode",
+        "Primite Roar",
+        "Primite Scream"
+    ],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

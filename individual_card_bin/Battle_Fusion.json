@@ -1,0 +1,34 @@
+{
+    "name": "Battle Fusion",
+    "filename": "Battle_Fusion",
+    "card_text": "When an attack is declared involving a Fusion Monster you control and an opponent's monster: That monster you control gains ATK equal to the ATK of the opponent's monster, until the end of the Damage Step. You can only activate 1 \"Battle Fusion\" per turn.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND",
+        "FUSION ENFORCERS",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

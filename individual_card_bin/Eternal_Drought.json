@@ -1,0 +1,12 @@
+{
+    "name": "Eternal Drought",
+    "filename": "Eternal_Drought",
+    "card_text": "Destroy all face-up Fish-Type monsters on the field.",
+    "release_date": "2011-07-01",
+    "available_set": [
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Cost Down",
+    "filename": "Cost_Down",
+    "card_text": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK REVELATION Volume 1",
+        "MAZE OF MEMORIES",
+        "DARK CRISIS (Reprint)",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "DARK CRISIS",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "2-PLAYER STARTER SET",
+        "DUELIST PACK - KAIBA -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Action Magic - Full Turn",
+    "filename": "Action_Magic___Full_Turn",
+    "card_text": "This turn, double any battle damage that a player takes from battles involving 2 monsters. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can discard 1 Spell; Set this card.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

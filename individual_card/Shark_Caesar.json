@@ -15,7 +15,10 @@
     "attack": 1800,
     "defense": 2000,
     "monster_type": "Fish",
-    "monster_card_type": 34,
+    "monster_card_type": [
+        "Xyz",
+        "Effect"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 3
 }

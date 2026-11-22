@@ -66,7 +66,11 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": 4114,
+    "monster_card_type": [
+        "Pendulum",
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "Once per turn, before damage calculation, if your monster battles an opponent's monster: You can make your monster gain ATK equal to the opponent's monster's ATK, until the end of the Damage Step.",

@@ -1,0 +1,19 @@
+{
+    "name": "Playful Possum",
+    "filename": "Playful_Possum",
+    "card_text": "During your Main Phase: You can destroy this face-up card on the field. Your opponent must control a monster with a higher ATK than this card for you to activate and to resolve this effect. During your Standby Phase, if this card was destroyed by this effect: You can Special Summon this card from the Graveyard.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DUELIST REVOLUTION",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 600,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

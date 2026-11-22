@@ -1,0 +1,17 @@
+{
+    "name": "Vice Berserker",
+    "filename": "Vice_Berserker",
+    "card_text": "If this card is sent to the Graveyard as a Synchro Material Monster, inflict 2000 damage to the player that Synchro Summoned, and the Synchro Monster that used this card as a Synchro Material Monster gains 2000 ATK until the End Phase.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

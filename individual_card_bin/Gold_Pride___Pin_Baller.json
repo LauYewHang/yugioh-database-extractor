@@ -1,0 +1,33 @@
+{
+    "name": "Gold Pride - Pin Baller",
+    "filename": "Gold_Pride___Pin_Baller",
+    "card_text": "\"Gold Pride - Roller Baller\" + 1+ \"Gold Pride\" monsters\nIf this card is Fusion Summoned: You can equip face-up monsters your opponent controls to it, up to the number of Fusion Materials used. You can only use the previous effect of \"Gold Pride - Pin Baller\" once per turn, also, if your LP are lower than your opponent's, the effect's activation and effect cannot be negated. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 \"Gold Pride - Roller Baller\" from your Deck or GY.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Gold Pride - Better Luck Next Time!",
+        "Gold Pride - Captain Carrie",
+        "Gold Pride - Chariot Carrie",
+        "Gold Pride - Eliminator",
+        "Gold Pride - Eradicator",
+        "Gold Pride - It's Neck and Neck!",
+        "Gold Pride - Leon",
+        "Gold Pride - Nytro Blaster",
+        "Gold Pride - Nytro Head",
+        "Gold Pride - Pedal to the Metal!",
+        "Gold Pride - Roller Baller",
+        "Gold Pride - Star Leon",
+        "Gold Pride - Start Your Engines!",
+        "Gold Pride - That Came Out of Nowhere!",
+        "Gold Pride - The Crowd Goes Wild!"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

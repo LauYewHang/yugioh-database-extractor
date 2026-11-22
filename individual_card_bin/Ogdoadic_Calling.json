@@ -1,0 +1,28 @@
+{
+    "name": "Ogdoadic Calling",
+    "filename": "Ogdoadic_Calling",
+    "card_text": "Special Summon 2 \"Ogdoadic Tokens\" (Reptile/DARK/Level 2/ATK 0/DEF 0), OR if you have 8 or more \"Ogdoadic\" monsters with different names in your GY, you can apply this effect instead.\n\u25cfSpecial Summon 2 Reptile monsters with different names from your GY.\nYou can only activate 1 \"Ogdoadic Calling\" per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Aleirtt, the Ogdoadic Dark",
+        "Amunessia, the Ogdoadic Queen",
+        "Aron, the Ogdoadic King",
+        "Flogos, the Ogdoadic Boundless",
+        "Keurse, the Ogdoadic Light",
+        "Nauya, the Ogdoadic Remnant",
+        "Nephilabyss, the Ogdoadic Overlord",
+        "Nunu, the Ogdoadic Remnant",
+        "Ogdoabyss, the Ogdoadic Overlord",
+        "Ogdoadic Daybreak",
+        "Ogdoadic Hollow",
+        "Ogdoadic Origin",
+        "Ogdoadic Serpent Strike",
+        "Ogdoadic Water Lily",
+        "Zohah, the Ogdoadic Boundless"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

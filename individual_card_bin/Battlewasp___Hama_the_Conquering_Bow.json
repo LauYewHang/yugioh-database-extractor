@@ -1,0 +1,33 @@
+{
+    "name": "Battlewasp - Hama the Conquering Bow",
+    "filename": "Battlewasp___Hama_the_Conquering_Bow",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card was Synchro Summoned using a Synchro Monster as material, it can make a second attack during each Battle Phase. You can only use each of the following effects of \"Battlewasp - Hama the Conquering Bow\" once per turn.\n\u25cfWhen this card inflicts battle damage to your opponent: You can make all monsters your opponent currently controls lose 1000 ATK/DEF.\n\u25cfAt the end of your Battle Phase, if your opponent has not taken any battle damage this Phase: You can inflict 300 damage to your opponent for each \"Battlewasp\" monster in your GY.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Ballista the Armageddon",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Grand Partisan the Revolution",
+        "Battlewasp - Halberd the Charge",
+        "Battlewasp - Nest",
+        "Battlewasp - Pin the Bullseye",
+        "Battlewasp - Rapier the Onslaught",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp - Twinbow the Attacker",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 2800,
+    "defense": 2000,
+    "monster_type": "Insect",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

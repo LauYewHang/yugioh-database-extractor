@@ -1,0 +1,26 @@
+{
+    "name": "Recette de Personnel (Staff Recipe)",
+    "filename": "Recette_de_Personnel__Staff_Recipe_",
+    "card_text": "You can target 1 Ritual Monster you control; Special Summon 1 \"Nouvelles Token\" (Fiend/DARK/Level 1/ATK 50/DEF 50). This Token's Level becomes the same as that monster's. You can send this face-up card from your Spell & Trap Zone to the GY; Ritual Summon 1 \"Nouvelles\" Ritual Monster from your hand by Tributing monsters from your hand or field whose total Levels exactly equal the Level of that Ritual Monster. You can only use each effect of \"Recette de Personnel (Staff Recipe)\" once per turn.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Baelgrill de Nouvelles",
+        "Balameuniere de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef de Nouvelles",
+        "Concours de Cuisine (Culinary Confrontation)",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Poisson (Fish Recipe)"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

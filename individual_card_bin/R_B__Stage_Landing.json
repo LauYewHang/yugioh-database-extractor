@@ -1,0 +1,26 @@
+{
+    "name": "R.B. Stage Landing",
+    "filename": "R_B__Stage_Landing",
+    "card_text": "Special Summon 1 \"R.B.\" monster from your Deck/Extra Deck with a different name than the cards you control. If an \"R.B.\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You cannot Special Summon from the Extra Deck the turn you activate this card, except Machine monsters with 1500 or less original ATK.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "R.B. Funk Dock",
+        "R.B. Ga10 Cutter",
+        "R.B. Ga10 Driller",
+        "R.B. Ga10 Pile Bunker",
+        "R.B. Lambda Blade",
+        "R.B. Lambda Cannon",
+        "R.B. Last Stand",
+        "R.B. Next Phase",
+        "R.B. Operation Test",
+        "R.B. Shepherd's Crook",
+        "R.B. The Brute Blues",
+        "R.B. VALCan Booster",
+        "R.B. VALCan Rocket"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Vengeful Servant",
+    "filename": "Vengeful_Servant",
+    "card_text": "When control of the equipped monster changes, inflict damage equal to its original ATK to its new controller.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

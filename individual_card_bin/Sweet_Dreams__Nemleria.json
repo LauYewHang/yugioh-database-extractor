@@ -1,0 +1,22 @@
+{
+    "name": "Sweet Dreams, Nemleria",
+    "filename": "Sweet_Dreams__Nemleria",
+    "card_text": "Add 1 \"Nemleria\" monster from your Deck to your hand, then, if you have \"Dreaming Nemleria\" face-up in your Extra Deck, your opponent cannot activate cards or effects this turn when a \"Nemleria\" monster(s) is Normal or Special Summoned. You can place this card from the GY on the bottom of your Deck, then target 1 \"Dreaming Nemleria\" you control; add it to the Extra Deck face-up. You can only activate 1 \"Sweet Dreams, Nemleria\" per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Dream Tower of Princess Nemleria",
+        "Dreaming Nemleria",
+        "Dreaming Reality of Nemleria, Realized",
+        "Nemleria Dream Defender - Couette",
+        "Nemleria Dream Defender - Oreiller",
+        "Nemleria Dream Devourer - Reveil",
+        "Nemleria Louve",
+        "Nemleria Repeter"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

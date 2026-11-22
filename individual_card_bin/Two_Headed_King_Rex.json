@@ -1,0 +1,25 @@
+{
+    "name": "Two-Headed King Rex",
+    "filename": "Two_Headed_King_Rex",
+    "card_text": "A powerful monster whose two heads attack as one.",
+    "release_date": "2002-10-01",
+    "available_set": [
+        "DARK BEGINNING 2",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "TOURNAMENT PACK 2ND SEASON",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: TRIALS OF THE KINGDOM Sneak Peak"
+    ],
+    "related_card": [
+        "Bracchio-raidus",
+        "Cyber Saurus"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

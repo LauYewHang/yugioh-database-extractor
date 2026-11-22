@@ -1,0 +1,40 @@
+{
+    "name": "The First Darklord",
+    "filename": "The_First_Darklord",
+    "card_text": "3 DARK Fairy monsters\nYour opponent cannot target Fairy monsters you control with card effects. You can only use 1 of the following effects of \"The First Darklord\" per turn, and only once that turn. If this card is Fusion Summoned using \"Darklord Morningstar\" as material: You can destroy all cards your opponent controls. During the Main Phase (Quick Effect): You can pay 1000 LP; Special Summon 1 Fairy monster from your hand or GY in Defense Position.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "MAZE OF MUERTOS",
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Banishment of the Darklords",
+        "Condemned Darklord",
+        "Darklord Amdusc",
+        "Darklord Contact",
+        "Darklord Dance",
+        "Darklord Descent",
+        "Darklord Djehuty",
+        "Darklord Enchantment",
+        "Darklord Eveningstar",
+        "Darklord Gulgolet",
+        "Darklord Ixchel",
+        "Darklord Morningstar",
+        "Darklord Nasten",
+        "Darklord Nergal",
+        "Darklord Rebellion",
+        "Darklord Tezcatlipoca",
+        "Darklord Ukoback",
+        "Darklord Uprising",
+        "Fallen Angel in Darkness",
+        "Indulged Darklord",
+        "The Sanctified Darklord"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Fairy",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

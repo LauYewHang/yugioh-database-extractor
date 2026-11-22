@@ -1,0 +1,13 @@
+{
+    "name": "Battle Waltz",
+    "filename": "Battle_Waltz",
+    "card_text": "Target 1 Synchro Monster you control; Special Summon 1 \"Waltz Token\" with the current Type, Attribute, Level, ATK and DEF of that monster. Neither player takes any battle damage from attacks involving this Token.",
+    "release_date": "2011-01-25",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI 3 -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

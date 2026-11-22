@@ -1,0 +1,28 @@
+{
+    "name": "Magikey Unlocking",
+    "filename": "Magikey_Unlocking",
+    "card_text": "When your opponent activates a Spell/Trap Card while you control a \"Magikey\" Ritual Monster or a \"Magikey\" monster Special Summoned from the Extra Deck: Negate the activation, and if you do, destroy that card, then you can declare 1 Attribute, and if you do that, for the rest of this turn all face-up monsters your opponent controls become that Attribute. You can only activate 1 \"Magikey Unlocking\" per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Clavkiys, the Magikey Skyblaster",
+        "Magikey Battle",
+        "Magikey Beast - Ansyalabolas",
+        "Magikey Deity - Ashtartu",
+        "Magikey Dragon - Andrabime",
+        "Magikey Duo",
+        "Magikey Fiend - Transfurlmine",
+        "Magikey Locking",
+        "Magikey Maftea",
+        "Magikey Mechmortar - Garesglasser",
+        "Magikey Mechmusket - Batosbuster",
+        "Magikey Spirit - Vepartu",
+        "Magikey World",
+        "Maginificent Magikey Mafteal"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

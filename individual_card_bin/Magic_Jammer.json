@@ -1,0 +1,33 @@
+{
+    "name": "Magic Jammer",
+    "filename": "Magic_Jammer",
+    "card_text": "When a Spell Card is activated: Discard 1 card; negate the activation, and if you do, destroy it.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "METAL RAIDERS",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "DARK LEGENDS",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "STARTER DECK PEGASUS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "DUEL TERMINAL - PREVIEW WAVE 1",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "RETRO PACK",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "STARTER DECK SYRUS TRUESDALE",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "STARTER DECK YUGI Evolution",
+        "DARK BEGINNING 2",
+        "STARTER DECK JADEN YUKI",
+        "DUEL TERMINAL 1",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

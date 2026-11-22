@@ -1,0 +1,43 @@
+{
+    "name": "Quadogmatika Beast",
+    "filename": "Quadogmatika_Beast",
+    "card_text": "Target 1 monster in your GY or banishment; send to the GY, 1 monster from your Extra Deck or 1 \"Dogmatika\" monster from your Deck, with ATK greater than or equal to that target, and if you do, Special Summon that target. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Quadogmatika Beast\" per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "OTS TOURNAMENT PACK 30",
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Alba System Dogmatikalamity",
+        "Branded in Central Dogmatika",
+        "Dogmatika Adin, the Enlightened",
+        "Dogmatika Alba Zoa",
+        "Dogmatika Ashiyan",
+        "Dogmatika Ecclesia, the Virtuous",
+        "Dogmatika Encounter",
+        "Dogmatika Fleurdelis, the Knighted",
+        "Dogmatika Fleurdelis, the Thunderbolt",
+        "Dogmatika Genesis",
+        "Dogmatika Lawbringer",
+        "Dogmatika Maximus",
+        "Dogmatika Nation",
+        "Dogmatika Nexus",
+        "Dogmatika Punishment",
+        "Dogmatika Theo, the Iron Punch",
+        "Dogmatikacism",
+        "Dogmatikalamity",
+        "Dogmatikamacabre",
+        "Dogmatikamatrix",
+        "Dogmatikaturgy",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Nadir Servant",
+        "The Dragon that Devours the Dogma",
+        "The Fallen & The Virtuous",
+        "Titaniklad the Ash Dragon",
+        "White Knight of Dogmatika",
+        "White Relic of Dogmatika"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

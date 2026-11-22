@@ -1,0 +1,12 @@
+{
+    "name": "Jar of Generosity",
+    "filename": "Jar_of_Generosity",
+    "card_text": "Place 1 card from your hand on either the top or bottom of the Deck.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ragnaraika Selene Snapper",
+    "filename": "Ragnaraika_Selene_Snapper",
+    "card_text": "2+ Insect, Plant, and/or Reptile monsters\nYou can banish up to 2 monsters from your GY, then target that many Spells/Traps your opponent controls; destroy them. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card, also you cannot Special Summon for the rest of this turn, except Insect, Plant, or Reptile monsters. You can only use each effect of \"Ragnaraika Selene Snapper\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ragnaraika Bloom",
+        "Ragnaraika Mantis Monk",
+        "Ragnaraika Samurai Beetle",
+        "Ragnaraika Skeletal Soldier",
+        "Ragnaraika the Evil Seed",
+        "Ragnaraika Wisteria of Woe"
+    ],
+    "attribute": "WATER",
+    "attack": 2600,
+    "defense": null,
+    "monster_type": "Reptile",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 84
+}

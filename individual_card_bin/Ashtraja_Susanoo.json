@@ -1,0 +1,27 @@
+{
+    "name": "Ashtraja Susanoo",
+    "filename": "Ashtraja_Susanoo",
+    "card_text": "1 Tuner + 1+ non-Tuners\nIf this card is Synchro Summoned: You can banish any number of Traps from your GY; banish that many cards from the field. During the End Phase: You can target up to 2 \"Ashtra\" monsters and/or \"Ashtra\" Traps in your GY and/or banishment; add to your hand or Set each card, then if you targeted 2 cards, return this card to the Extra Deck. You can only use each effect of \"Ashtraja Susanoo\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Akasuna the Battle Ashtra",
+        "Ashtra's Domain",
+        "Ashtra's Howl",
+        "Ashtra's Web",
+        "Ashtrashen - Gate to the Worlds Beyond",
+        "Ashtraya Mikumari-no-Mikoto",
+        "Kuzuha the Hex Ashtra",
+        "Mikumari the Banisher Ashtra",
+        "Yoa the Plague Ashtra"
+    ],
+    "attribute": "FIRE",
+    "attack": 3300,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Megalith Emergence",
+    "filename": "Megalith_Emergence",
+    "card_text": "You can target 1 \"Megalith\" monster in your GY; Special Summon it in Defense Position, but place it on the bottom of the Deck when it leaves the field (even if this card leaves the field). You can only use this effect of \"Megalith Emergence\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Megalith Anastasis",
+        "Megalith Aratron",
+        "Megalith Bethor",
+        "Megalith Hagith",
+        "Megalith Notrah Plura",
+        "Megalith Och",
+        "Megalith Ophiel",
+        "Megalith Phaleg",
+        "Megalith Phul",
+        "Megalith Phuloch",
+        "Megalith Portal",
+        "Megalith Promotion",
+        "Megalith Unformed"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Madolche Lesson",
+    "filename": "Madolche_Lesson",
+    "card_text": "Target 1 \"Madolche\" monster in your Graveyard; shuffle that target into the Deck, and if you do, all \"Madolche\" monsters you currently control gain 800 ATK and DEF, then you can shuffle 1 other monster from your Graveyard into the Deck.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Madolche Anjelly",
+        "Madolche Baaple",
+        "Madolche Butlerusk",
+        "Madolche Chateau",
+        "Madolche Chickolates",
+        "Madolche Chouxvalier",
+        "Madolche Cruffssant",
+        "Madolche Dessert",
+        "Madolche Fresh Sistart",
+        "Madolche Hootcake",
+        "Madolche Magileine",
+        "Madolche Marmalmaide",
+        "Madolche Messengelato",
+        "Madolche Mewfeuille",
+        "Madolche Mini Meowcaroons",
+        "Madolche Nights",
+        "Madolche Petingcessoeur",
+        "Madolche Promenade",
+        "Madolche Puddingcess",
+        "Madolche Puddingcess Chocolat-a-la-Mode",
+        "Madolche Queen Tiarafraise",
+        "Madolche Queen Tiaramisu",
+        "Madolche Salon",
+        "Madolche Tea Break",
+        "Madolche Teacher Glassouffle",
+        "Madolche Ticket",
+        "Madolche Waltz",
+        "Madolchepalooza"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

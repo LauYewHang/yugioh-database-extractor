@@ -1,0 +1,20 @@
+{
+    "name": "Glow-Up Bloom",
+    "filename": "Glow_Up_Bloom",
+    "card_text": "If this card is sent to the GY: You can banish this card from your GY; add 1 Level 5 or higher Zombie monster from your Deck to your hand, or, if \"Zombie World\" is in a Field Zone, you can Special Summon it from your Deck instead, also, in either case, you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can only use this effect of \"Glow-Up Bloom\" once per turn.",
+    "release_date": "2018-11-02",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "STRUCTURE DECK: ZOMBIE HORDE"
+    ],
+    "related_card": [
+        "Zombie World"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Nephthys, the Sacred Flame",
+    "filename": "Nephthys__the_Sacred_Flame",
+    "card_text": "2+ monsters, including a Ritual Monster\nWhile this card is in the Extra Monster Zone, monsters your opponent controls cannot target \"Nephthys\" monsters in the Main Monster Zones for attacks. This card gains effects based on the number of Ritual Monsters used for its Link Summon.\n\u25cf1+: Cannot be destroyed by battle.\n\u25cf2+: Cannot be destroyed by card effects, also it gains 1200 ATK.\n\u25cf3: Neither player can target this card with card effects, also it gains another 1200 ATK.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS"
+    ],
+    "related_card": [
+        "Awakening of Nephthys",
+        "Cerulean Sacred Phoenix of Nephthys",
+        "Chaos Nephthys",
+        "Chronicler of Nephthys",
+        "Conductor of Nephthys",
+        "Dark Nephthys",
+        "Defender of Nephthys",
+        "Devotee of Nephthys",
+        "Disciple of Nephthys",
+        "Hand of Nephthys",
+        "Last Hope of Nephthys",
+        "Matriarch of Nephthys",
+        "Metaphys Nephthys",
+        "Nephthys, the Sacred Preserver",
+        "Rebirth of Nephthys",
+        "Sacred Phoenix of Nephthys"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": null,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 14
+}

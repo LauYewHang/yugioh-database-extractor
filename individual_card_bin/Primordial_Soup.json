@@ -1,0 +1,21 @@
+{
+    "name": "Primordial Soup",
+    "filename": "Primordial_Soup",
+    "card_text": "Once per turn, during your Main Phase: You can shuffle up to 2 \"Evolsaur\" monsters from your hand into the Deck, then draw the same number of cards. You can only control 1 face-up \"Primordial Soup\".",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Evolsaur Cerato",
+        "Evolsaur Darwino",
+        "Evolsaur Diplo",
+        "Evolsaur Elias",
+        "Evolsaur Lios",
+        "Evolsaur Pelta",
+        "Evolsaur Terias",
+        "Evolsaur Vulcano"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

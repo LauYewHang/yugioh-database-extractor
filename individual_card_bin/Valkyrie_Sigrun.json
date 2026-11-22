@@ -1,0 +1,38 @@
+{
+    "name": "Valkyrie Sigrun",
+    "filename": "Valkyrie_Sigrun",
+    "card_text": "If this card is in your hand: You can target 1 face-up Spell/Trap you control; send it to the GY, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can Special Summon 1 Level 8 or lower \"Valkyrie\" monster from your hand or GY. You can only use each effect of \"Valkyrie Sigrun\" once per turn.",
+    "release_date": "2020-06-19",
+    "available_set": [
+        "TOON CHAOS"
+    ],
+    "related_card": [
+        "Apple of Enlightenment",
+        "Final Light",
+        "Fortune Chariot",
+        "Goddess Skuld's Oracle",
+        "Goddess Urd's Verdict",
+        "Goddess Verdande's Guidance",
+        "Loge's Flame",
+        "Mischief of the Time Goddess",
+        "Pegasus Wing",
+        "Ride of the Valkyries",
+        "Valkyrie Brunhilde",
+        "Valkyrie Chariot",
+        "Valkyrie Dritte",
+        "Valkyrie Erda",
+        "Valkyrie Erste",
+        "Valkyrie Funfte",
+        "Valkyrie Sechste",
+        "Valkyrie Vierte",
+        "Valkyrie Zweite",
+        "Valkyrie's Embrace"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2200,
+    "defense": 2400,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

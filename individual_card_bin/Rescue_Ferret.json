@@ -1,0 +1,19 @@
+{
+    "name": "Rescue Ferret",
+    "filename": "Rescue_Ferret",
+    "card_text": "You can shuffle this card you control into the Deck; Special Summon monster(s) from your Deck, except \"Rescue Ferret\", whose total Levels equal 6, to your zone(s) a Link Monster(s) points to, but those Summoned monsters have their effects negated, also destroy them during the End Phase. You can only use this effect of \"Rescue Ferret\" once per turn.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 100,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

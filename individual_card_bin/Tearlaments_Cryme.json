@@ -1,0 +1,33 @@
+{
+    "name": "Tearlaments Cryme",
+    "filename": "Tearlaments_Cryme",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated, while you control a \"Tearlaments\" monster or \"Visas Starfrost\": Negate the activation, and if you do, shuffle that card into the Deck, then send 1 monster from your hand to the GY. If this card is sent to the GY by card effect: You can target 1 of your banished \"Tearlaments\" monsters; add it to your hand. You can only use 1 \"Tearlaments Cryme\" effect per turn, and only once that turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Primeval Planet Perlereino",
+        "Tearlaments Grief",
+        "Tearlaments Havnis",
+        "Tearlaments Heartbeat",
+        "Tearlaments Kaleido-Heart",
+        "Tearlaments Kashtira",
+        "Tearlaments Kitkallos",
+        "Tearlaments Merrli",
+        "Tearlaments Metanoise",
+        "Tearlaments Perlegia",
+        "Tearlaments Reinoheart",
+        "Tearlaments Rulkallos",
+        "Tearlaments Scheiren",
+        "Tearlaments Scream",
+        "Tearlaments Sulliek",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

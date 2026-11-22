@@ -1,0 +1,35 @@
+{
+    "name": "Cosmic Slicer Zer'oll",
+    "filename": "Cosmic_Slicer_Zer_oll",
+    "card_text": "2+ Reptile monsters\nMonsters your opponent controls with A-Counters are changed to Defense Position, also neither player can activate their effects. You can only use each of the following effects of \"Cosmic Slicer Zer'oll\" once per turn. If this card is Link Summoned: You can add 1 card from your Deck to your hand that has an effect that places A-Counter(s). You can remove 2 A-Counters from anywhere on the field; immediately after this effect resolves, Normal Summon 1 Reptile monster.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "\"A\" Cell Breeding Device",
+        "\"A\" Cell Incubator",
+        "\"A\" Cell Recombination Device",
+        "\"A\" Cell Scatter Burst",
+        "Alien Dog",
+        "Alien Grey",
+        "Alien Kid",
+        "Alien Overlord",
+        "Alien Shocktrooper M-Frame",
+        "Alien Skull",
+        "Alien Stealthbuster",
+        "Alien Warrior",
+        "Code A Ancient Ruins",
+        "Corruption Cell \"A\"",
+        "Cosmic Fortress Gol'gar",
+        "Cosmic Horror Gangi'el",
+        "Planet Pollutant Virus"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2600,
+    "defense": null,
+    "monster_type": "Reptile",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 266
+}

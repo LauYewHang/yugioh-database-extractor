@@ -1,0 +1,17 @@
+{
+    "name": "Bachibachibachi",
+    "filename": "Bachibachibachi",
+    "card_text": "An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n\u25cfIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

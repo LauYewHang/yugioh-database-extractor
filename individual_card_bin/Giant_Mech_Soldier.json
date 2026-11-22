@@ -1,0 +1,17 @@
+{
+    "name": "Giant Mech-Soldier",
+    "filename": "Giant_Mech_Soldier",
+    "card_text": "This monster swings an earth-shaking axe that cannot be blocked by a common sword.",
+    "release_date": "2019-12-06",
+    "available_set": [
+        "SPEED DUEL: TRIALS OF THE KINGDOM"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1750,
+    "defense": 1900,
+    "monster_type": "Machine",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

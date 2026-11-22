@@ -1,0 +1,30 @@
+{
+    "name": "Generaider Boss Loot",
+    "filename": "Generaider_Boss_Loot",
+    "card_text": "While you control a Token, your opponent's monsters cannot target \"Generaider\" Effect Monsters for attacks. If a \"Generaider\" Effect Monster is destroyed by battle: Your opponent draws 1 card. You can only use this effect of \"Generaider Boss Loot\" once per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Dovelgus, Generaider Boss of Iron",
+        "Frodi, Generaider Boss of Swords",
+        "Generaider Boss Bite",
+        "Generaider Boss Fight",
+        "Generaider Boss Quest",
+        "Generaider Boss Room",
+        "Generaider Boss Stage",
+        "Harr, Generaider Boss of Storms",
+        "Hela, Generaider Boss of Doom",
+        "Jormungandr, Generaider Boss of Eternity",
+        "Laevatein, Generaider Boss of Shadows",
+        "Loptr, Shadow of the Generaider Bosses",
+        "Mardel, Generaider Boss of Light",
+        "Naglfar, Generaider Boss of Fire",
+        "Nidhogg, Generaider Boss of Ice",
+        "Utgarda, Generaider Boss of Delusion",
+        "Vala, Seidhr of the Generaider Bosses"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

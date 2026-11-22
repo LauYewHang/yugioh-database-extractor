@@ -1,0 +1,26 @@
+{
+    "name": "Machine Angel Ritual",
+    "filename": "Machine_Angel_Ritual",
+    "card_text": "This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If a LIGHT monster(s) you control would be destroyed by battle or card effect while this card is in your GY, you can banish this card instead.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "SPEED DUEL TOURNAMENT PACK 5",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Cyber Angel Benten",
+        "Cyber Angel Dakini",
+        "Cyber Angel Idaten",
+        "Cyber Angel Izana",
+        "Cyber Angel Natasha",
+        "Cyber Angel Vrash",
+        "Cyber Egg Angel",
+        "Cyber Petit Angel"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

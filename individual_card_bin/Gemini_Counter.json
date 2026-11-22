@@ -1,0 +1,15 @@
+{
+    "name": "Gemini Counter",
+    "filename": "Gemini_Counter",
+    "card_text": "Change 1 face-up Gemini monster you control to face-down Defense Position and negate the activation of an opponent's Spell Card, and destroy it.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Battlin' Boxer Uppercutter",
+        "Geminize Lord Golknight"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

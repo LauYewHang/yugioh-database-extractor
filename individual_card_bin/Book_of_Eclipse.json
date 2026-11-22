@@ -1,0 +1,20 @@
+{
+    "name": "Book of Eclipse",
+    "filename": "Book_of_Eclipse",
+    "card_text": "Change all face-up monsters on the field to face-down Defense Position. During the End Phase of this turn, change as many face-down Defense Position monsters your opponent controls as possible to face-up Defense Position, then your opponent draws cards equal to the number of monsters changed face-up by this effect.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "ASTRAL PACK EIGHT",
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "Duel Devastator",
+        "TACTICAL MASTERS",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "THE DUELIST GENESIS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

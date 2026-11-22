@@ -1,0 +1,29 @@
+{
+    "name": "Lyrilusc - Recital Starling",
+    "filename": "Lyrilusc___Recital_Starling",
+    "card_text": "2+ Level 1 monsters\nIf this card is Xyz Summoned: You can target 1 face-up monster on the field; it gains 300 ATK/DEF for each material attached to this card. Once per turn: You can detach 1 material from this card; add 1 Level 1 Winged Beast monster from your Deck to your hand. All battle damage you take from battles involving this Xyz Summoned card is also inflicted to your opponent.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK",
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
+    ],
+    "related_card": [
+        "Lyrilusc - Assembled Nightingale",
+        "Lyrilusc - Beryl Canary",
+        "Lyrilusc - Bird Call",
+        "Lyrilusc - Bird Strike",
+        "Lyrilusc - Celestine Wagtail",
+        "Lyrilusc - Ensemblue Robin",
+        "Lyrilusc - Independent Nightingale",
+        "Lyrilusc - Phantom Feathers",
+        "Lyrilusc - Sapphire Swallow",
+        "Lyrilusc - Turquoise Warbler"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 1
+}

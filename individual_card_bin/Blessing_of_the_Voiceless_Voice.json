@@ -1,0 +1,23 @@
+{
+    "name": "Blessing of the Voiceless Voice",
+    "filename": "Blessing_of_the_Voiceless_Voice",
+    "card_text": "You can target 1 of your \"Voiceless Voice\" cards that is banished or in your GY, except \"Blessing of the Voiceless Voice\"; add it to your hand. If a non-Ritual Monster(s) is Normal or Special Summoned face-up (except during the Damage Step): You can Ritual Summon 1 LIGHT Ritual Monster (Warrior or Dragon) from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster, and if you do, it cannot be destroyed by battle. You can only use each effect of \"Blessing of the Voiceless Voice\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Barrier of the Voiceless Voice",
+        "Guardian of the Voiceless Voice",
+        "Lo, the Prayers of the Voiceless Voice",
+        "Prayers of the Voiceless Voice",
+        "Radiance of the Voiceless Voice",
+        "Saffira, Divine Dragon of the Voiceless Voice",
+        "Saffira, Dragon Queen of the Voiceless Voice",
+        "Sauravis, Dragon Sage of the Voiceless Voice",
+        "Skull Guardian, Protector of the Voiceless Voice"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

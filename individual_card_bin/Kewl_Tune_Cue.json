@@ -1,0 +1,26 @@
+{
+    "name": "Kewl Tune Cue",
+    "filename": "Kewl_Tune_Cue",
+    "card_text": "If this card on the field would be used as Synchro Material, 1 Tuner in your hand can be used as 1 of the other materials. You can only use each of the following effects of \"Kewl Tune Cue\" once per turn. If this card is Normal Summoned: You can Special Summon 1 Tuner from your hand, Deck, or GY, except \"Kewl Tune Cue\", also for the rest of this turn you cannot Special Summon, except Tuners. If this card is sent to the GY as Synchro Material: You can excavate 2 cards from the top of your opponent's Deck, banish 1 of them, and place the other on the top or bottom of the Deck.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "JJ \"Kewl Tune\"",
+        "Kewl Tune Loudness War",
+        "Kewl Tune Mix",
+        "Kewl Tune Playlist",
+        "Kewl Tune Reco",
+        "Kewl Tune Rotary",
+        "Kewl Tune Synchro",
+        "Kewl Tune Track Maker"
+    ],
+    "attribute": "LIGHT",
+    "attack": 900,
+    "defense": 1900,
+    "monster_type": "Fairy",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

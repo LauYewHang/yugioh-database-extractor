@@ -1,0 +1,28 @@
+{
+    "name": "Giant Trunade",
+    "filename": "Giant_Trunade",
+    "card_text": "Return all Spell and Trap Cards on the field to the hand.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "STARTER DECK JOEY",
+        "GOLD SERIES 2009",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "QUARTER CENTURY BONANZA",
+        "5D's STARTER DECK 2009",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "DARK BEGINNING 1",
+        "SPELLCASTER'S COMMAND STRUCTURE DECK",
+        "RETRO PACK",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "STARTER DECK JADEN YUKI",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STARTER DECK SYRUS TRUESDALE",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

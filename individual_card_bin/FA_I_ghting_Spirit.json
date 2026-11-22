@@ -1,0 +1,39 @@
+{
+    "name": "FA.I.ghting Spirit",
+    "filename": "FA_I_ghting_Spirit",
+    "card_text": "Target 1 \"@Ignister\" monster in your GY; Special Summon it. If an \"@Ignister\" monster(s) you control with 2300 or more ATK would be destroyed by card effect, you can banish this card from your GY instead. If this card is banished: You can activate this effect; your \"@Ignister\" monsters with 2300 or more ATK cannot be destroyed by battle this turn. You can only activate \"FA.I.ghting Spirit\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "A.I.dle Reborn",
+        "Achichi @Ignister",
+        "Allied Code Talker @Ignister",
+        "Backup @Ignister",
+        "Bururu @Ignister",
+        "Code Igniter",
+        "Danmari @Ignister",
+        "Dark Infant @Ignister",
+        "Dark Templar @Ignister",
+        "Donyoribo @Ignister",
+        "Doshin @Ignister",
+        "Doyon @Ignister",
+        "Earth Golem @Ignister",
+        "Fire Phoenix @Ignister",
+        "Firewall Saber Dragon",
+        "Gatchiri @Ignister",
+        "Gussari @Ignister",
+        "Hiyari @Ignister",
+        "Kurikurinku @Ignister",
+        "Light Dragon @Ignister",
+        "Linkslayer @Ignister",
+        "Pikari @Ignister",
+        "The Arrival Cyberse @Ignister",
+        "Water Leviathan @Ignister",
+        "Wind Pegasus @Ignister",
+        "Wizard @Ignister"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

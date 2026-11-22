@@ -1,0 +1,31 @@
+{
+    "name": "Artmage Impasto -Recapture-",
+    "filename": "Artmage_Impasto__Recapture_",
+    "card_text": "If you control an \"Artmage\" monster, you can activate this card the turn it was Set. When your opponent activates a monster effect: You can banish 1 Fusion Monster you control (until the End Phase), and if you do, negate the activation, and if you do that, destroy that monster, then if you have 3 or more different Monster Types on your field, you can return all Spells/Traps your opponent controls to the hand. You can only activate 1 \"Artmage Impasto -Recapture-\" per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "MAGNIFICENT MONSTERS",
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Artmage Academic Arcane Arts Acropolis",
+        "Artmage Diactorus",
+        "Artmage Finmel",
+        "Artmage Graflare",
+        "Artmage Litera",
+        "Artmage Masterwork -Succession-",
+        "Artmage Movement -Pedigree-",
+        "Artmage Non-Finito",
+        "Artmage Pact -Awakening-",
+        "Artmage Peripeteia -Turmoil-",
+        "Artmage Power Patron",
+        "Artmage Vandalism -Assault-",
+        "Artmage Varnish -Alteration-",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Theorealize Past Lull"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

@@ -90,7 +90,11 @@
     "attack": 3500,
     "defense": 3000,
     "monster_type": "Fiend",
-    "monster_card_type": 4130,
+    "monster_card_type": [
+        "Pendulum",
+        "Xyz",
+        "Effect"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 8,
     "pendulum_effect": "Once per turn, if you have a \"D/D\" card in your other Pendulum Zone: You can Special Summon 1 \"D/D/D\" Xyz Monster from your Extra Deck, except \"D/D/D Super Doom King Dark Armageddon\".",

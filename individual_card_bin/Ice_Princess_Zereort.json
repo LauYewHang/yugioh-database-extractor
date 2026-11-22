@@ -1,0 +1,17 @@
+{
+    "name": "Ice Princess Zereort",
+    "filename": "Ice_Princess_Zereort",
+    "card_text": "2 Level 5 Winged Beast-Type monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; its ATK becomes 0.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2500,
+    "defense": 2100,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 5
+}

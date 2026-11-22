@@ -127,7 +127,10 @@
     "attack": 1500,
     "defense": 800,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "If a \"Performapal\" monster(s) is Pendulum Summoned to your field: All \"Performapal\" monsters you currently control gain 1000 ATK until the end of this turn (even if this card leaves the field).",

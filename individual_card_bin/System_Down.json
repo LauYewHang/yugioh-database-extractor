@@ -1,0 +1,16 @@
+{
+    "name": "System Down",
+    "filename": "System_Down",
+    "card_text": "Pay 1000 LP; banish all Machine-Type monsters your opponent controls and in their Graveyard.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "OTS TOURNAMENT PACK 2",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "RA YELLOW MEGA PACK",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

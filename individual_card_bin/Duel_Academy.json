@@ -1,0 +1,13 @@
+{
+    "name": "Duel Academy",
+    "filename": "Duel_Academy",
+    "card_text": "This card gains these effects based on the Monster Types on the field.\n\u25cfWarrior, Beast, or Pyro: Once per turn, if you activate a Trap Card (except during the Damage Step): You can target 1 card your opponent controls; destroy it.\n\u25cfDinosaur, Sea Serpent, or Thunder: Once per turn, if you activate a Spell Card (except during the Damage Step): You can inflict 1000 damage to your opponent.\n\u25cfMachine, Fairy, or Fiend: Once per turn, if you activate a monster effect (except during the Damage Step): You can target 1 face-up monster you control; it gains 1000 ATK (even if this card leaves the field).",
+    "release_date": "2023-03-10",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "MAZE OF MEMORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

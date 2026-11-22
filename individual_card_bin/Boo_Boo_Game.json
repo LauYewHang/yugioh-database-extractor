@@ -1,0 +1,12 @@
+{
+    "name": "Boo-Boo Game",
+    "filename": "Boo_Boo_Game",
+    "card_text": "During damage calculation, if a monster battles: You take no battle damage from that battle. If this Set card in its owner's control is destroyed by your opponent's card effect and sent to the GY: You can target up to 2 Normal Traps in your GY, except \"Boo-Boo Game\"; Set them to your field. They can be activated this turn. You can only use this effect of \"Boo-Boo Game\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

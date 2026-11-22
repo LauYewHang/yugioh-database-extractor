@@ -1,0 +1,19 @@
+{
+    "name": "Pendulum Reborn",
+    "filename": "Pendulum_Reborn",
+    "card_text": "Special Summon 1 face-up Pendulum Monster from your Extra Deck, or 1 Pendulum Monster from your GY.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW",
+        "PENDULUM EVOLUTION",
+        "STARTER DECK YUYA",
+        "LEGENDARY DRAGON DECKS"
+    ],
+    "related_card": [
+        "Duelist Alliance",
+        "PenduLuMoon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

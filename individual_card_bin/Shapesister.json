@@ -1,0 +1,14 @@
+{
+    "name": "Shapesister",
+    "filename": "Shapesister",
+    "card_text": "Special Summon this card as a Normal Monster (Fiend/Tuner/EARTH/Level 2/ATK 0/DEF 0). (This card is also still a Trap.) You can only activate 1 \"Shapesister\" per turn.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT",
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

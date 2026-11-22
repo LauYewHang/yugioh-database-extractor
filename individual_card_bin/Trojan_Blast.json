@@ -1,0 +1,12 @@
+{
+    "name": "Trojan Blast",
+    "filename": "Trojan_Blast",
+    "card_text": "Activate only when an opponent's card effect shifts control of a monster from your side of the field to theirs. Destroy that 1 monster and inflict damage to your opponent equal to its ATK.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

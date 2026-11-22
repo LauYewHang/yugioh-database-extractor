@@ -1,0 +1,29 @@
+{
+    "name": "Magnet Conversion",
+    "filename": "Magnet_Conversion",
+    "card_text": "Target up to 3 Level 4 or lower \"Magnet Warrior\" monsters in your GY; add them to your hand. During either player's turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 of your banished Level 4 or lower \"Magnet Warrior\" monsters; Special Summon it.",
+    "release_date": "2016-10-21",
+    "available_set": [
+        "MAZE OF MUERTOS",
+        "Speed Duel: Battle City Box",
+        "STRUCTURE DECK : YUGI MUTO"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Alpha The Magnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Beta The Magnet Warrior",
+        "Delta The Magnet Warrior",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Gamma The Magnet Warrior",
+        "Magnet Warrior Omega Plus",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Tellusion the Magna Warrior",
+        "Valkyrion the Magna Warrior"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Time Passage",
+    "filename": "Time_Passage",
+    "card_text": "Increase the Level of 1 face-up \"Fortune Lady\" monster you control by 3, until the End Phase.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Fortune Lady Calling",
+        "Fortune Lady Dark",
+        "Fortune Lady Earth",
+        "Fortune Lady Every",
+        "Fortune Lady Fire",
+        "Fortune Lady Light",
+        "Fortune Lady Past",
+        "Fortune Lady Rewind",
+        "Fortune Lady Water",
+        "Fortune Lady Wind"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

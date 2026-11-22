@@ -1,0 +1,22 @@
+{
+    "name": "Knightmare Incarnation Idlee",
+    "filename": "Knightmare_Incarnation_Idlee",
+    "card_text": "Level 9 monsters you control cannot be destroyed by card effects. You can only use each of the following effects of \"Knightmare Incarnation Idlee\" once per turn.\n\u25cfIf the total Link Rating of the monsters on the field is 8 or more (Quick Effect): You can Special Summon this card from your hand.\n\u25cfIf this card is Special Summoned, while your opponent controls more Link Monsters than you do: You can send all Link Monsters on the field to the GY.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Knightmare Mermaid",
+        "Knightmare Unicorn",
+        "World Legacy's Nightmare"
+    ],
+    "attribute": "DARK",
+    "attack": 2100,
+    "defense": 2100,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

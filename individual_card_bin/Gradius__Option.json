@@ -1,0 +1,20 @@
+{
+    "name": "Gradius' Option",
+    "filename": "Gradius__Option",
+    "card_text": "This card cannot be Normal Summoned or Set. This monster can only be Special Summoned by selecting 1 face-up \"Gradius\" on your side of the field. The ATK and DEF of this card becomes the same as the ATK and DEF of the selected \"Gradius\". If the selected \"Gradius\" is removed from the field, destroy this card.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "Gradius"
+    ],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

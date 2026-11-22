@@ -1,0 +1,24 @@
+{
+    "name": "Fossil Dragon Skullgios",
+    "filename": "Fossil_Dragon_Skullgios",
+    "card_text": "1 Rock monster + 1 Level 7 or higher monster in your opponent's GY\nMust first be Special Summoned with \"Fossil Fusion\". Before damage calculation, if this card battles an opponent's monster: You can switch the current ATK and DEF of that opponent's monster until the end of that Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. If this Fusion Summoned card battles an opponent's monster, any battle damage it inflicts to your opponent is doubled.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [
+        "Flint Cragger",
+        "Fossil Fusion",
+        "Time Stream",
+        "Weathering Soldier"
+    ],
+    "attribute": "EARTH",
+    "attack": 3500,
+    "defense": 0,
+    "monster_type": "Rock",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

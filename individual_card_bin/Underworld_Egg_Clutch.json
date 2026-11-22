@@ -1,0 +1,12 @@
+{
+    "name": "Underworld Egg Clutch",
+    "filename": "Underworld_Egg_Clutch",
+    "card_text": "When a face-up Fish, Sea Serpent, or Aqua-Type monster you control is banished: Add 1 Level 4 or lower Fish, Sea Serpent, or Aqua-Type monster from your Deck to your hand.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

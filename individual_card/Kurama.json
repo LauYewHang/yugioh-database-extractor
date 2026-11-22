@@ -12,7 +12,9 @@
     "attack": 800,
     "defense": 800,
     "monster_type": "Winged Beast",
-    "monster_card_type": 1,
+    "monster_card_type": [
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

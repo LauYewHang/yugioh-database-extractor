@@ -1,0 +1,21 @@
+{
+    "name": "Kagetokage",
+    "filename": "Kagetokage",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "NUMBER HUNTERS",
+        "OTS TOURNAMENT PACK 5",
+        "SUPER STARTER V FOR VICTORY",
+        "PHOTON SHOCKWAVE",
+        "STAR PACK 2013"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1100,
+    "defense": 1500,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

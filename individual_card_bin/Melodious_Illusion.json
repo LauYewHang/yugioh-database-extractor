@@ -1,0 +1,39 @@
+{
+    "name": "Melodious Illusion",
+    "filename": "Melodious_Illusion",
+    "card_text": "Target 1 \"Melodious\" monster you control; this turn, that face-up monster you control is unaffected by your opponent's Spell/Trap effects, and it can make a second attack during each Battle Phase.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "1st Movement Solo",
+        "Aria the Melodious Diva",
+        "Bacha the Melodious Maestra",
+        "Bloom Diva the Melodious Choir",
+        "Bloom Harmonist the Melodious Composer",
+        "Bloom Prima the Melodious Choir",
+        "Brilliant Rose",
+        "Canon the Melodious Diva",
+        "Couplet the Melodious Songstress",
+        "Crystal Rose",
+        "Elegy the Melodious Diva",
+        "Flowering Etoile the Melodious Magnificat",
+        "Fortissimo",
+        "Melodious Concerto",
+        "Mozarta the Melodious Maestra",
+        "Opera the Melodious Diva",
+        "Ostinato",
+        "Refrain the Melodious Songstress",
+        "Schuberta the Melodious Maestra",
+        "Score the Melodious Diva",
+        "Serenade the Melodious Diva",
+        "Shopina the Melodious Maestra",
+        "Solo the Melodious Songstress",
+        "Sonata the Melodious Diva",
+        "Soprano the Melodious Songstress",
+        "Tamtam the Melodious Diva"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

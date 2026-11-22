@@ -1,0 +1,38 @@
+{
+    "name": "Legendary Fire King Ponix",
+    "filename": "Legendary_Fire_King_Ponix",
+    "card_text": "If your monster(s) that was originally FIRE is destroyed by battle or card effect: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Fire King\" Spell/Trap from your Deck to your hand. During the next Standby Phase after this card was destroyed and sent to the GY: Add this card from the GY to your hand. You can only use each effect of \"Legendary Fire King Ponix\" once per turn.",
+    "release_date": "2023-12-08",
+    "available_set": [
+        "LIMITED PACK WORLD CHAMPIONSHIP 2025",
+        "2025 MEGA-PACK TIN",
+        "STRUCTURE DECK: FIRE KINGS"
+    ],
+    "related_card": [
+        "Circle of the Fire Kings",
+        "Cursed Fire King Doom Burst",
+        "Echelon of the Fire Kings",
+        "Fire King Avatar Arvata",
+        "Fire King Avatar Barong",
+        "Fire King Avatar Garunix",
+        "Fire King Avatar Kirin",
+        "Fire King Avatar Rangbali",
+        "Fire King Avatar Yaksha",
+        "Fire King Courtier Ulcanix",
+        "Fire King High Avatar Garunix",
+        "Fire King High Avatar Kirin",
+        "Fire King Island",
+        "Fire King Sanctuary",
+        "Fire King Sky Burn",
+        "Garunix Eternity, Hyang of the Fire Kings",
+        "Onslaught of the Fire Kings",
+        "Sacred Fire King Garunix"
+    ],
+    "attribute": "FIRE",
+    "attack": 500,
+    "defense": 200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

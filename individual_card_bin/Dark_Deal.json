@@ -1,0 +1,15 @@
+{
+    "name": "Dark Deal",
+    "filename": "Dark_Deal",
+    "card_text": "When your opponent activates a Normal Spell Card: Pay 1000 LP; the activated effect of that Normal Spell becomes \"Your opponent discards 1 random card\".",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

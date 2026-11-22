@@ -1,0 +1,42 @@
+{
+    "name": "Soaring Eagle Above the Searing Land",
+    "filename": "Soaring_Eagle_Above_the_Searing_Land",
+    "card_text": "If this card is sent to the Graveyard for a Synchro Summon: You can Special Summon this card. You must have 3 or more \"Laval\" monsters with different names in your Graveyard to activate and to resolve this effect. If this card is Special Summoned with this effect, banish it when it leaves the field.",
+    "release_date": "2011-05-29",
+    "available_set": [
+        "DUEL TERMINAL 5A",
+        "HIDDEN ARSENAL 5 STEELSWARM INVASION"
+    ],
+    "related_card": [
+        "Laval Archer",
+        "Laval Blaster",
+        "Laval Burner",
+        "Laval Cannon",
+        "Laval Coatl",
+        "Laval Dual Slasher",
+        "Laval Forest Sprite",
+        "Laval Judgment Lord",
+        "Laval Lakeside Lady",
+        "Laval Lancelord",
+        "Laval Magma Cannoneer",
+        "Laval Miller",
+        "Laval Phlogis",
+        "Laval Stennon",
+        "Laval the Greater",
+        "Laval Volcano Handmaiden",
+        "Laval Warrior",
+        "Lavalval Chain",
+        "Lavalval Dragon",
+        "Lavalval Dragun",
+        "Lavalval Exlord",
+        "Lavalval Ignis",
+        "Lavalval Salamander"
+    ],
+    "attribute": "FIRE",
+    "attack": 100,
+    "defense": 0,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

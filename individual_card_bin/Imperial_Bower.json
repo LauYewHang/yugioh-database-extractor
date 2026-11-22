@@ -1,0 +1,23 @@
+{
+    "name": "Imperial Bower",
+    "filename": "Imperial_Bower",
+    "card_text": "If you control no other monsters: You can Tribute this card; take 2 different monsters from your Deck among \"Queen's Knight\", \"King's Knight\", and/or \"Jack's Knight\", and either add to your hand or Special Summon each monster. You can only use this effect of \"Imperial Bower\" once per turn.",
+    "release_date": "2021-07-09",
+    "available_set": [
+        "KING'S COURT",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [
+        "Jack's Knight",
+        "Joker's Wild",
+        "King's Knight",
+        "Queen's Knight"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

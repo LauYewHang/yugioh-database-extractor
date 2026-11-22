@@ -1,0 +1,20 @@
+{
+    "name": "Trap Trick",
+    "filename": "Trap_Trick",
+    "card_text": "Banish 1 Normal Trap from your Deck, except \"Trap Trick\", and if you do, Set 1 card with the same name from your Deck. It can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 \"Trap Trick\" per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "SECRET SLAYERS",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION",
+        "QUARTER CENTURY BONANZA",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "TACTICAL MASTERS",
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

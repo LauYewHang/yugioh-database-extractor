@@ -1,0 +1,20 @@
+{
+    "name": "Skullbird",
+    "filename": "Skullbird",
+    "card_text": "\"Takuhee\" + \"Temple of Skulls\"",
+    "release_date": "2016-07-15",
+    "available_set": [
+        "OTS TOURNAMENT PACK 2"
+    ],
+    "related_card": [
+        "Takuhee",
+        "Temple of Skulls"
+    ],
+    "attribute": "WIND",
+    "attack": 1900,
+    "defense": 1700,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

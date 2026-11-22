@@ -1,0 +1,29 @@
+{
+    "name": "Amaze Attraction Majestic Merry-Go-Round",
+    "filename": "Amaze_Attraction_Majestic_Merry_Go_Round",
+    "card_text": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. You can apply the following effect, based on which player controls the equipped monster;\n\u25cfYou: The equipped monster gains 500 ATK. If it would be destroyed by battle or card effect, you can send this card to the GY instead.\n\u25cfYour opponent: The equipped monster loses 500 ATK for each of your \"Attraction\" Traps equipped to a monster(s).",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE",
+        "OTS TOURNAMENT PACK 21"
+    ],
+    "related_card": [
+        "Amaze Attraction Cyclo-Coaster",
+        "Amaze Attraction Horror House",
+        "Amaze Attraction Rapid Racing",
+        "Amaze Attraction Thrill Train",
+        "Amaze Attraction Viking Vortex",
+        "Amaze Attraction Wonder Wheel",
+        "Amazement Abomination Arlekino",
+        "Amazement Administrator Arlekino",
+        "Amazement Ambassador Bufo",
+        "Amazement Assistant Delia",
+        "Amazement Attendant Comica",
+        "Amazement Family Faces",
+        "Amazement Precious Park",
+        "Amazement Special Show",
+        "Amazing Time Ticket"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

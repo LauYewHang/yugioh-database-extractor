@@ -1,0 +1,12 @@
+{
+    "name": "Paralyzing Chain",
+    "filename": "Paralyzing_Chain",
+    "card_text": "When a card(s) is sent from your opponent's Deck to the Graveyard by a card effect, inflict 300 damage to your opponent.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

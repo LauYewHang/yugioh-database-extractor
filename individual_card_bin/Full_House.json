@@ -1,0 +1,14 @@
+{
+    "name": "Full House",
+    "filename": "Full_House",
+    "card_text": "Target 2 other face-up Spell/Trap Cards and 3 Set Spell/Trap Cards, on the field; destroy them.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "ASTRAL PACK FIVE",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

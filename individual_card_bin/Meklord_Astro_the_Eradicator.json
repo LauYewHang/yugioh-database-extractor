@@ -1,0 +1,34 @@
+{
+    "name": "Meklord Astro the Eradicator",
+    "filename": "Meklord_Astro_the_Eradicator",
+    "card_text": "Target 3 \"Meklord\" monsters with different names in your GY; add them to your hand, OR Special Summon them, ignoring their Summoning conditions. Until the end of your next turn after this card is activated, you cannot Special Summon monsters, except Machine monsters. If you control a \"Meklord Astro\" monster: You can banish this card from your GY; destroy 1 Synchro Monster your opponent controls, and if you do, inflict damage to your opponent equal to its original ATK. You can only use each effect of \"Meklord Astro the Eradicator\" once per turn.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Boon of the Meklord Emperor",
+        "Chaos Infinity",
+        "Meklord Army Deployer Obbligato",
+        "Meklord Army of Granel",
+        "Meklord Army of Skiel",
+        "Meklord Army of Wisel",
+        "Meklord Assembly",
+        "Meklord Astro Dragon Asterisk",
+        "Meklord Astro Dragon Triskelion",
+        "Meklord Astro Mekanikle",
+        "Meklord Deflection",
+        "Meklord Emperor Granel",
+        "Meklord Emperor Skiel",
+        "Meklord Emperor Wisel",
+        "Meklord Emperor Wisel - Synchro Absorption",
+        "Meklord Factory",
+        "Meklord Fortress",
+        "Meklord Nucleus Infinity Core",
+        "Mektimed Blast",
+        "Reboot",
+        "The Resolute Meklord Army"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

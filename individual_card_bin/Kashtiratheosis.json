@@ -1,0 +1,28 @@
+{
+    "name": "Kashtiratheosis",
+    "filename": "Kashtiratheosis",
+    "card_text": "Target 1 \"Kashtira\" monster you control; Special Summon 1 \"Kashtira\" monster with a different Attribute from your Deck in Defense Position, also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except Xyz Monsters. If this card is banished: You can target 1 of your banished \"Kashtira\" cards, except \"Kashtiratheosis\"; add it to your hand. You can only use each effect of \"Kashtiratheosis\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Kashtira Akstra",
+        "Kashtira Arise-Heart",
+        "Kashtira Big Bang",
+        "Kashtira Birth",
+        "Kashtira Fenrir",
+        "Kashtira Ogre",
+        "Kashtira Overlap",
+        "Kashtira Preparations",
+        "Kashtira Riseheart",
+        "Kashtira Shangri-Ira",
+        "Kashtira Unicorn",
+        "Pressured Planet Wraitsoth",
+        "Scareclaw Kashtira",
+        "Tearlaments Kashtira"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

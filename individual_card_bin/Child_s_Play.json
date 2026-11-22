@@ -1,0 +1,12 @@
+{
+    "name": "Child's Play",
+    "filename": "Child_s_Play",
+    "card_text": "Each time your opponent Summons a monster(s), gain 300 LP. Your monsters cannot be destroyed by battle while you have 10,000 or more LP.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

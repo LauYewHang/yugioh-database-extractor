@@ -1,0 +1,22 @@
+{
+    "name": "Legendary Fiend",
+    "filename": "Legendary_Fiend",
+    "card_text": "Once per turn, during your Standby Phase: This card gains 700 ATK.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "PHANTOM DARKNESS",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "STRUCTURE DECK - MARIK -"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1800,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

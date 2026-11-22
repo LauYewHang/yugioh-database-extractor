@@ -1,0 +1,23 @@
+{
+    "name": "Left-Hand Shark",
+    "filename": "Left_Hand_Shark",
+    "card_text": "If this card is Special Summoned from the GY: This card's Level becomes 4. You can only use each of the following effects of \"Left-Hand Shark\" once per turn. If you control \"Right-Hand Shark\", and this card is in your hand or GY: You can Special Summon this card, but banish it when it leaves the field. An Xyz Monster that was Summoned using only WATER monsters as material, including this card on the field, gains this effect.\n\u25cfThis card cannot be destroyed by card effects.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "OTS TOURNAMENT PACK 26",
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Hydrojet Shark",
+        "Right-Hand Shark",
+        "Surfacing Big Jaws",
+        "Veiss Shark"
+    ],
+    "attribute": "WATER",
+    "attack": 1300,
+    "defense": 1500,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

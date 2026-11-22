@@ -12,7 +12,9 @@
     "attack": 2950,
     "defense": 2800,
     "monster_type": "Reptile",
-    "monster_card_type": 32,
+    "monster_card_type": [
+        "Xyz"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

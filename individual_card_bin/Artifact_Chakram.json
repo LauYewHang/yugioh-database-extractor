@@ -1,0 +1,29 @@
+{
+    "name": "Artifact Chakram",
+    "filename": "Artifact_Chakram",
+    "card_text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your Graveyard: Special Summon it. During either player's turn, when a card or effect is activated that would destroy a Spell/Trap Card(s) you control, while this card is in your hand: You can return 1 Set Spell/Trap Card you control to the hand; Special Summon this card.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Artifact Achilleshield",
+        "Artifact Aegis",
+        "Artifact Caduceus",
+        "Artifact Dagda",
+        "Artifact Failnaught",
+        "Artifact Ignition",
+        "Artifact Labrys",
+        "Artifact Mjollnir",
+        "Artifact Sanctum",
+        "Artifacts Unleashed"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

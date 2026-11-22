@@ -1,0 +1,22 @@
+{
+    "name": "Arionpos, Serpent of the Ghoti",
+    "filename": "Arionpos__Serpent_of_the_Ghoti",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can banish 1 Level 6 or lower Fish monster from your Deck. If this card is sent to the GY as Synchro Material: You can target 1 Fish monster in your GY; banish that target, then you can add 1 Fish monster with an equal or lower Level from your Deck to your hand. You can only use each effect of \"Arionpos, Serpent of the Ghoti\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST"
+    ],
+    "related_card": [
+        "Eanoc, Sentry of the Ghoti",
+        "Ghoti Chain",
+        "Ixeep, Omen of the Ghoti",
+        "The Most Distant, Deepest Depths"
+    ],
+    "attribute": "WATER",
+    "attack": 2100,
+    "defense": 0,
+    "monster_type": "Fish",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

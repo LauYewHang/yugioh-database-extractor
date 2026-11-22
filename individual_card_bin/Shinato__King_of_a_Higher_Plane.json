@@ -1,0 +1,23 @@
+{
+    "name": "Shinato, King of a Higher Plane",
+    "filename": "Shinato__King_of_a_Higher_Plane",
+    "card_text": "You can Ritual Summon this card with \"Shinato's Ark\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. If this card destroys an opponent's Defense Position monster by battle and sends it to the GY: Inflict damage to your opponent equal to the destroyed monster's original ATK.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DARK CRISIS"
+    ],
+    "related_card": [
+        "Shinato's Ark"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3300,
+    "defense": 3000,
+    "monster_type": "Fairy",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

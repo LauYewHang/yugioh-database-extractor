@@ -1,0 +1,19 @@
+{
+    "name": "Backup Supervisor",
+    "filename": "Backup_Supervisor",
+    "card_text": "2 monsters\nIf this card was Link Summoned using \"Backup Secretary\" as material, and your monster this card points to battled an opponent's monster, at the end of the Damage Step: You can Special Summon 1 Cyberse monster from your hand. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 \"Backup Secretary\" from your hand, Deck, or GY. You can only use each effect of \"Backup Supervisor\" once per turn.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER"
+    ],
+    "related_card": [
+        "Backup Secretary"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 68
+}

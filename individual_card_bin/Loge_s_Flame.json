@@ -1,0 +1,27 @@
+{
+    "name": "Loge's Flame",
+    "filename": "Loge_s_Flame",
+    "card_text": "While you control a \"Valkyrie\" monster, monsters your opponent controls with 2000 or less ATK cannot attack. If this card in your possession is destroyed by an opponent's card effect: You can Special Summon 1 Level 5 or higher \"Valkyrie\" monster from your hand or Deck.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Fortune Chariot",
+        "Ride of the Valkyries",
+        "Valkyrie Brunhilde",
+        "Valkyrie Chariot",
+        "Valkyrie Dritte",
+        "Valkyrie Erda",
+        "Valkyrie Erste",
+        "Valkyrie Funfte",
+        "Valkyrie Sechste",
+        "Valkyrie Sigrun",
+        "Valkyrie Vierte",
+        "Valkyrie Zweite",
+        "Valkyrie's Embrace"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

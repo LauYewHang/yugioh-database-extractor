@@ -1,0 +1,19 @@
+{
+    "name": "Dimension Fortress Weapon",
+    "filename": "Dimension_Fortress_Weapon",
+    "card_text": "Neither player can send cards from the Main Deck to the GY.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "ULTIMATE TOURNAMENT PACK 2",
+        "OTS TOURNAMENT PACK 13",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

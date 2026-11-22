@@ -1,0 +1,12 @@
+{
+    "name": "Three in One",
+    "filename": "Three_in_One",
+    "card_text": "During your opponent's End Phase, if your opponent has more total cards in their hand and field than you have in your hand and field: Special Summon 3 Normal Monsters from your GY. You can banish this card from your GY, then target 3 Monster Cards you control with different original names; Set 1 Spell/Trap from your hand or Deck that mentions the original names of all 3 targets.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

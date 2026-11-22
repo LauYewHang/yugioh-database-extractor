@@ -1,0 +1,15 @@
+{
+    "name": "Mischief of the Gnomes",
+    "filename": "Mischief_of_the_Gnomes",
+    "card_text": "This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the GY; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "MACHINE REACTOR STRUCTURE DECK",
+        "2025 MEGA-PACK TIN",
+        "SECRETS OF ETERNITY",
+        "OTS TOURNAMENT PACK 21"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

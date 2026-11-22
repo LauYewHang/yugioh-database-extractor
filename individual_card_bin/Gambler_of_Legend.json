@@ -1,0 +1,17 @@
+{
+    "name": "Gambler of Legend",
+    "filename": "Gambler_of_Legend",
+    "card_text": "Once per turn, you can toss a coin 3 times and apply the appropriate effect:\n\u25cf3 Heads: Destroy all monsters your opponent controls.\n\u25cf2 Heads: Discard 1 random card from your opponent's hand.\n\u25cf1 Head: Destroy 1 card you control.\n\u25cf3 Tails: Discard your entire hand.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 1400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

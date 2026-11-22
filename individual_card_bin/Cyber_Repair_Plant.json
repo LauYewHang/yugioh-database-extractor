@@ -1,0 +1,32 @@
+{
+    "name": "Cyber Repair Plant",
+    "filename": "Cyber_Repair_Plant",
+    "card_text": "If \"Cyber Dragon\" is in your GY: You can activate 1 of these effects. If you have 3 or more \"Cyber Dragon\" in your GY at this card's activation, you can activate both effects and resolve in sequence. You can only activate 1 \"Cyber Repair Plant\" per turn.\n\u25cfAdd 1 LIGHT Machine monster from your Deck to your hand.\n\u25cfTarget 1 LIGHT Machine monster in your GY; shuffle that target into your Deck.",
+    "release_date": "2014-02-07",
+    "available_set": [
+        "LEGENDARY DRAGON DECKS",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "STRUCTURE DECK: CYBER STRIKE",
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Dragon",
+        "Cyber Dragon Core",
+        "Cyber Dragon Drei",
+        "Cyber Dragon Herz",
+        "Cyber Dragon Nachster",
+        "Cyber Dragon Sieger",
+        "Cyber Dragon Vier",
+        "Cyber Dragon Zwei",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Cybernetic Overflow",
+        "Prima Light",
+        "Proto-Cyber Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

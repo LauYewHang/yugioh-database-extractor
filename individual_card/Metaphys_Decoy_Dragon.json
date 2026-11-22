@@ -23,7 +23,10 @@
     "attack": 300,
     "defense": 200,
     "monster_type": "Wyrm",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "When your monster is targeted for an attack: You can target 1 of your \"Metaphys\" monsters that is banished or in your GY; banish this card, and if you do, Special Summon that monster in Attack Position. You can only use this effect of \"Metaphys Decoy Dragon\" once per turn.",

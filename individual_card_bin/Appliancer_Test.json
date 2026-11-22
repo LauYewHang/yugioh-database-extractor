@@ -1,0 +1,25 @@
+{
+    "name": "Appliancer Test",
+    "filename": "Appliancer_Test",
+    "card_text": "Target 1 \"Appliancer\" Link Monster you control; Special Summon as many Link-1 \"Appliancer\" monsters from your GY as possible to your zones that monster points to, but banish them during the End Phase. You can only activate 1 \"Appliancer Test\" per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Appliancer Breakerbuncle",
+        "Appliancer Celtopus",
+        "Appliancer Conversion",
+        "Appliancer Copybokkle",
+        "Appliancer Dryer Drake",
+        "Appliancer Electrilyrical World",
+        "Appliancer Kappa Scale",
+        "Appliancer Laundry Dragon",
+        "Appliancer Propelion",
+        "Appliancer Reuse",
+        "Appliancer Socketroll",
+        "Appliancer Vacculephant"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

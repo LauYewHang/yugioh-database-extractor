@@ -1,0 +1,13 @@
+{
+    "name": "Kishido Spirit",
+    "filename": "Kishido_Spirit",
+    "card_text": "Monsters on your side of the field cannot be destroyed in a battle if the monsters' ATK are equal.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "MAGICIAN'S FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Shield Spear",
+    "filename": "Shield_Spear",
+    "card_text": "Target 1 face-up monster on the field; it gains 400 ATK/DEF until the end of this turn.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "STARTER DECK DAWN OF THE XYZ",
+        "TACTICAL EVOLUTION",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

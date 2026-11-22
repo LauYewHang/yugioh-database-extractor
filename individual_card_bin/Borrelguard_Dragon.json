@@ -1,0 +1,30 @@
+{
+    "name": "Borrelguard Dragon",
+    "filename": "Borrelguard_Dragon",
+    "card_text": "3+ Effect Monsters\nCannot be destroyed by card effects. Once per turn: You can send 1 card from your Spell & Trap Zone to the GY; Special Summon from either GY to your field, 1 monster that was destroyed and sent there this turn, but negate its effects. Once per turn (Quick Effect): You can target 1 monster on the field; change it to face-up Defense Position. Your opponent cannot activate cards or effects in response to this effect's activation.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [
+        "Bayonet Punisher",
+        "Borrel Cooling",
+        "Borrel Reboot",
+        "Borrel Supplier",
+        "Borreload eXcharge Dragon",
+        "Borreload Riot Dragon",
+        "Borrelshroud Dragon",
+        "Breachborrel Dragon",
+        "Execute Protocols",
+        "Miniborrel Dragon",
+        "Rokket Coder"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 332
+}

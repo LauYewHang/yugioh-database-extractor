@@ -1,0 +1,31 @@
+{
+    "name": "Mementotlan Bone Party",
+    "filename": "Mementotlan_Bone_Party",
+    "card_text": "Destroy 1 \"Memento\" monster in your hand or face-up field, take 1 \"Memento\" monster from your Deck with a different name, and either add it to your hand or Special Summon it in Defense Position. During your Main Phase: You can banish this card from your GY, then target 1 \"Memento\" monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. You can only use each effect of \"Mementotlan Bone Party\" once per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Mementoal Tecuhtlica - Combined Creation",
+        "Mementomictlan",
+        "Mementomictlan Tecuhtlica - Creation King",
+        "Mementotlan Akihiron",
+        "Mementotlan Angwitch",
+        "Mementotlan Bone Back",
+        "Mementotlan Cranium Burst",
+        "Mementotlan Dark Blade",
+        "Mementotlan Fracture Dance",
+        "Mementotlan Fusion",
+        "Mementotlan Ghattic",
+        "Mementotlan Goblin",
+        "Mementotlan Mace",
+        "Mementotlan Shleepy",
+        "Mementotlan Tatsunootoshigo",
+        "Mementotlan Twin Dragon",
+        "Mementotlan-Horned Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Armaill",
+    "filename": "Armaill",
+    "card_text": "A strange warrior who manipulates three deadly blades with both hands and his tail.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "LEGEND OF BLUE EYES WHITE DRAGON"
+    ],
+    "related_card": [
+        "Dragoness the Wicked Knight"
+    ],
+    "attribute": "EARTH",
+    "attack": 700,
+    "defense": 1300,
+    "monster_type": "Warrior",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

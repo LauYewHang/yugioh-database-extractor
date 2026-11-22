@@ -1,0 +1,20 @@
+{
+    "name": "Apophis the Swamp Deity",
+    "filename": "Apophis_the_Swamp_Deity",
+    "card_text": "During the Main Phase: Special Summon this card as a Normal Monster (Reptile/EARTH/Level 6/ATK 2000/DEF 2200) (this card is also still a Trap), then, you can negate the effects of face-up cards your opponent controls, up to the number of other Continuous Traps you control, until the end of this turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA",
+        "MAZE OF THE MASTER",
+        "2025 MEGA-PACK TIN",
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Apophis the Serpent",
+        "Divine Serpent Apophis",
+        "The Man with the Mark",
+        "Treasures of the Kings"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

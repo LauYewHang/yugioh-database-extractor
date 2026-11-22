@@ -1,0 +1,28 @@
+{
+    "name": "Dreaming Nemleria",
+    "filename": "Dreaming_Nemleria",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck, except \"Dreaming Nemleria\". You can only Special Summon \"Dreaming Nemleria(s)\" once per turn. If this card is Special Summoned: For every 3 of your face-down banished cards, you can banish up to 1 card from your opponent's field and/or GY, face-down, then shuffle 1 of your face-down banished cards into your Deck for each card you banished by this effect.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Dream Tower of Princess Nemleria",
+        "Dreaming Reality of Nemleria, Realized",
+        "Nemleria Dream Defender - Couette",
+        "Nemleria Dream Defender - Oreiller",
+        "Nemleria Dream Devourer - Reveil",
+        "Nemleria Louve",
+        "Nemleria Repeter",
+        "Sweet Dreams, Nemleria"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 1500,
+    "monster_type": "Fairy",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1,
+    "pendulum_effect": "Once per turn, during your Main Phase: You can place 1 \"Nemleria\" Continuous Spell from your Deck or GY face-up on your field, and if you do, add this card to your Extra Deck face-up. You cannot Special Summon \"Dreaming Nemleria\" the turn you activate this effect.",
+    "pendulum_scale": 8
+}

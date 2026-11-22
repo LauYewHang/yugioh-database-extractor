@@ -1,0 +1,30 @@
+{
+    "name": "Purrely Sleepy Memory",
+    "filename": "Purrely_Sleepy_Memory",
+    "card_text": "The next battle or effect damage you take this turn will become 0. You can also immediately apply the following effect.\n\u25cfDiscard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\nA \"Purrely\" Xyz Monster that has this card as material gains the following effect.\n\u25cfOnce per turn, during your opponent's Standby Phase: You can draw 1 card.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS",
+        "OTS TOURNAMENT PACK 24"
+    ],
+    "related_card": [
+        "Epurrely Beauty",
+        "Epurrely Happiness",
+        "Epurrely Noir",
+        "Epurrely Plump",
+        "Expurrely Happiness",
+        "Expurrely Noir",
+        "My Friend Purrely",
+        "Purrely",
+        "Purrely Delicious Memory",
+        "Purrely Happy Memory",
+        "Purrely Pretty Memory",
+        "Purrely Sharely!?",
+        "Purrelyeap!?",
+        "Purrelyly",
+        "Stray Purrely Street"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

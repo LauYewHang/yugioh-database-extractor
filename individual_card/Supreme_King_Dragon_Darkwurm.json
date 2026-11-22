@@ -28,7 +28,10 @@
     "attack": 1800,
     "defense": 1200,
     "monster_type": "Dragon",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn, if you control no monsters: You can place 1 \"Supreme King Gate\" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Pendulum Summon monsters for the rest of this turn, except DARK monsters.",

@@ -1,0 +1,14 @@
+{
+    "name": "Gryphon's Feather Duster",
+    "filename": "Gryphon_s_Feather_Duster",
+    "card_text": "Destroy all Spell and Trap Cards on your side of the field. Increase your Life Points by the number of destroyed cards x 500 points.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "INVASION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

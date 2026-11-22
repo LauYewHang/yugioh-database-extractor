@@ -1,0 +1,12 @@
+{
+    "name": "Unification",
+    "filename": "Unification",
+    "card_text": "Once per turn, during each player's Standby Phase: The turn player declares a Level from among the face-up monsters they control, then sends all face-up monsters they control with a different Level to the Graveyard.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

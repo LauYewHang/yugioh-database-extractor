@@ -1,0 +1,16 @@
+{
+    "name": "Spell Absorption",
+    "filename": "Spell_Absorption",
+    "card_text": "Each time a Spell Card is activated, gain 500 LP immediately after it resolves.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "DARK REVELATION Volume 3",
+        "FLAMING ETERNITY",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

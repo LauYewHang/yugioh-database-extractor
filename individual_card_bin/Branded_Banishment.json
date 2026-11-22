@@ -1,0 +1,33 @@
+{
+    "name": "Branded Banishment",
+    "filename": "Branded_Banishment",
+    "card_text": "Target 1 \"Despia\" monster or 1 Level 8 or higher Fusion Monster in your GY; Special Summon it, then you can apply this effect.\n\u25cfFusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, by banishing Fusion Materials mentioned on it from either field.\nYou can only activate 1 \"Branded Banishment\" per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Ad Libitum of Despia",
+        "Albion the Branded Dragon",
+        "Albion the Shrouded Dragon",
+        "Aluber the Jester of Despia",
+        "Branded Beast",
+        "Branded Retribution",
+        "Branded Sword",
+        "Bystial Saronir",
+        "Despia, Theater of the Branded",
+        "Despian Comedy",
+        "Despian Luluwalilith",
+        "Despian Proskenion",
+        "Despian Quaeritis",
+        "Despian Tragedy",
+        "Dramaturge of Despia",
+        "Guiding Quem, the Virtuous",
+        "Springans Kitt",
+        "The Bystial Lubellion"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

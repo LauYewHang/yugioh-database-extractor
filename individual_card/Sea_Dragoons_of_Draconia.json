@@ -12,7 +12,10 @@
     "attack": 200,
     "defense": 2100,
     "monster_type": "Sea Serpent",
-    "monster_card_type": 4097,
+    "monster_card_type": [
+        "Pendulum",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.",

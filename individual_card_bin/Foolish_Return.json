@@ -1,0 +1,14 @@
+{
+    "name": "Foolish Return",
+    "filename": "Foolish_Return",
+    "card_text": "Target 1 card in your opponent's GY; shuffle it into the Deck.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "The Lost Art Promotion 6",
+        "MAGNIFICENT MAVENS",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

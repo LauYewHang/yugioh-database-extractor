@@ -1,0 +1,41 @@
+{
+    "name": "Nekroz of Catastor",
+    "filename": "Nekroz_of_Catastor",
+    "card_text": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned without using \"Nekroz of Catastor\", and cannot be Special Summoned by other ways. You can discard this card, then target 1 \"Nekroz\" monster in your Graveyard; Special Summon it. You can only use this effect of \"Nekroz of Catastor\" once per turn. At the start of the Damage Step, if a \"Nekroz\" monster you control battles an opponent's face-up monster that was Special Summoned from the Extra Deck: Destroy that monster.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Ariel, Priestess of the Nekroz",
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Divinemirror",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Brionac",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "attribute": "WATER",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Dragon",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

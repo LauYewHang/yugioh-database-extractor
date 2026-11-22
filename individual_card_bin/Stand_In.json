@@ -1,0 +1,12 @@
+{
+    "name": "Stand In",
+    "filename": "Stand_In",
+    "card_text": "Tribute 1 monster, then target 1 monster in your opponent's GY with the same original Type and Attribute; Special Summon it to your field. You can only activate 1 \"Stand In\" per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Mayakashi Winter",
+    "filename": "Mayakashi_Winter",
+    "card_text": "Monsters your opponent controls lose 100 ATK/DEF for each \"Mayakashi\" monster with a different name in your GY. You can only use 1 of the following effects of \"Mayakashi Winter\" per turn, and only once that turn.\n\u25cfSend this card and 1 \"Mayakashi\" monster you control to the GY; draw 1 card.\n\u25cfBanish this card and 1 Zombie monster from your GY, then target 1 \"Mayakashi\" monster in your GY; Special Summon it.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Dakki, the Graceful Mayakashi",
+        "Gashadokuro, the Skeletal Mayakashi",
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Mayakashi's Manuscript",
+        "Hajun, the Winged Mayakashi",
+        "Mayakashi Mayhem",
+        "Mayakashi Metamorphosis",
+        "Mayakashi Return",
+        "Oboro-Guruma, the Wheeled Mayakashi",
+        "Shafu, the Wheeled Mayakashi",
+        "Tengu, the Winged Mayakashi",
+        "Tsuchigumo, the Poisonous Mayakashi",
+        "Tsukahagi, the Poisonous Mayakashi",
+        "Yasha, the Skeletal Mayakashi",
+        "Yoko, the Graceful Mayakashi",
+        "Yuki-Musume, the Ice Mayakashi",
+        "Yuki-Onna, the Absolute Zero Mayakashi",
+        "Yuki-Onna, the Ice Mayakashi",
+        "Yuki-Onna, the Icicle Mayakashi"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

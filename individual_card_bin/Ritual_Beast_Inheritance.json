@@ -1,0 +1,35 @@
+{
+    "name": "Ritual Beast Inheritance",
+    "filename": "Ritual_Beast_Inheritance",
+    "card_text": "Monsters your opponent controls lose 200 ATK for each different Type among the \"Ritual Beast\" monsters you control. You can only use each of the following effects of \"Ritual Beast Inheritance\" once per turn. You can reveal 1 \"Ritual Beast\" monster in your hand; add 1 \"Ritual Beast\" monster with a different Type from your Deck to your hand, then discard 1 card. If 2 or more monsters are Special Summoned to your field at the same time (except during the Damage Step): You can target 1 monster on the field; change its battle position.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Ritual Beast Ambush",
+        "Ritual Beast Return",
+        "Ritual Beast Steeds",
+        "Ritual Beast Tamer Elder",
+        "Ritual Beast Tamer Lara",
+        "Ritual Beast Tamer Wen",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Ritual Beast Ulti-Apelio",
+        "Ritual Beast Ulti-Cannahawk",
+        "Ritual Beast Ulti-Gaiapelio",
+        "Ritual Beast Ulti-Kimunfalcos",
+        "Ritual Beast Ulti-Nochiudrago",
+        "Ritual Beast Ulti-Pettlephin",
+        "Ritual Beast Ulti-Reirautari",
+        "Ritual Beast's Bond",
+        "Spiritual Beast Apelio",
+        "Spiritual Beast Cannahawk",
+        "Spiritual Beast Pettlephin",
+        "Spiritual Beast Rampengu",
+        "Spiritual Beast Tamer Lara",
+        "Spiritual Beast Tamer Winda"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

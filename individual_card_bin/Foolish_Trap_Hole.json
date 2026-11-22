@@ -1,0 +1,27 @@
+{
+    "name": "Foolish Trap Hole",
+    "filename": "Foolish_Trap_Hole",
+    "card_text": "When a monster effect is activated on your opponent's field, during a turn your opponent has Special Summoned: Destroy the monster that activated its effect, then if your opponent controls a card(s) in its adjacent Monster Zones and/or Spell & Trap Zones, destroy them.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

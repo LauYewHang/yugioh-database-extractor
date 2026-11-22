@@ -1,0 +1,32 @@
+{
+    "name": "Yang Zing Path",
+    "filename": "Yang_Zing_Path",
+    "card_text": "Target 3 \"Yang Zing\" monsters in your Graveyard; shuffle all 3 into the Deck, then draw 2 cards. You can only activate 1 \"Yang Zing Path\" per turn.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Baxia, Brightness of the Yang Zing",
+        "Bi'an, Earth of the Yang Zing",
+        "Bixi, Water of the Yang Zing",
+        "Chaofeng, Phantom of the Yang Zing",
+        "Chiwen, Light of the Yang Zing",
+        "Denglong, First of the Yang Zing",
+        "Jiaotu, Darkness of the Yang Zing",
+        "Nine Pillars of Yang Zing",
+        "Pulao, Wind of the Yang Zing",
+        "Suanni, Fire of the Yang Zing",
+        "Taotie, Shadow of the Yang Zing",
+        "Yang Zing Brutality",
+        "Yang Zing Creation",
+        "Yang Zing Prana",
+        "Yang Zing Unleashed",
+        "Yazi, Evil of the Yang Zing",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Tuner's High",
+    "filename": "Tuner_s_High",
+    "card_text": "Discard 1 monster; Special Summon from your Deck, 1 Tuner monster with the same original Type and Attribute, but 1 Level higher than the discarded monster had in hand.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

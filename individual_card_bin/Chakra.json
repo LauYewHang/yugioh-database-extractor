@@ -1,0 +1,19 @@
+{
+    "name": "Chakra",
+    "filename": "Chakra",
+    "card_text": "You can Ritual Summon this card with \"Resurrection of Chakra\".",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [
+        "Resurrection of Chakra"
+    ],
+    "attribute": "DARK",
+    "attack": 2450,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": 4,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

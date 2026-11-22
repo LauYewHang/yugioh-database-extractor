@@ -1,0 +1,13 @@
+{
+    "name": "Link Burst",
+    "filename": "Link_Burst",
+    "card_text": "Target 1 Link Monster you control and 1 monster your opponent controls; destroy them, then draw 1 card. You can only activate 1 \"Link Burst\" per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "ETERNITY CODE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

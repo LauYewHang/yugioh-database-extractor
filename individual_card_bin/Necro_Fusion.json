@@ -1,0 +1,16 @@
+{
+    "name": "Necro Fusion",
+    "filename": "Necro_Fusion",
+    "card_text": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials mentioned on it from your GY face-down, but it cannot attack this turn.",
+    "release_date": "2018-09-14",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION",
+        "CYBERNETIC HORIZON SPECIAL EDITION",
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN",
+        "STRUCTURE DECK: ALBAZ STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

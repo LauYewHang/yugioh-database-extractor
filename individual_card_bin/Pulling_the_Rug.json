@@ -1,0 +1,14 @@
+{
+    "name": "Pulling the Rug",
+    "filename": "Pulling_the_Rug",
+    "card_text": "When a monster effect is activated that activates when a monster is Normal Summoned: Negate the activation, and if you do, destroy that monster.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "STRIKE OF NEOS",
+        "OTS TOURNAMENT PACK 23",
+        "CHAMPION PACK GAME FIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

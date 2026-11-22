@@ -1,0 +1,28 @@
+{
+    "name": "Kashtira Big Bang",
+    "filename": "Kashtira_Big_Bang",
+    "card_text": "If a \"Kashtira\" Xyz Monster is on the field and a player controls 2 or more monsters: They must banish monsters they control, face-down, so they only control 1 monster. If this card is banished: You can target 1 \"Kashtira\" Xyz Monster you control; add 1 of your \"Kashtira\" monsters attached to it to your hand, then you can Special Summon that monster from your hand. You can only use each effect of \"Kashtira Big Bang\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Kashtira Akstra",
+        "Kashtira Arise-Heart",
+        "Kashtira Birth",
+        "Kashtira Fenrir",
+        "Kashtira Ogre",
+        "Kashtira Overlap",
+        "Kashtira Preparations",
+        "Kashtira Riseheart",
+        "Kashtira Shangri-Ira",
+        "Kashtira Unicorn",
+        "Kashtiratheosis",
+        "Pressured Planet Wraitsoth",
+        "Scareclaw Kashtira",
+        "Tearlaments Kashtira"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -12,7 +12,11 @@
     "attack": 3300,
     "defense": 2500,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4114,
+    "monster_card_type": [
+        "Pendulum",
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 10,
     "pendulum_effect": "If a Pendulum Monster you control attacks, for that battle, it cannot be destroyed by battle, also you take no battle damage. At the end of the Damage Step, if a Pendulum Monster you control attacked: All monsters your opponent currently controls lose ATK equal to that attacking monster's ATK, until the end of this turn.",

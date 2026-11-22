@@ -1,0 +1,17 @@
+{
+    "name": "Ulevo",
+    "filename": "Ulevo",
+    "card_text": "This card cannot be Special Summoned. This card must be Tribute Summoned by offering 3 Winged Beast-Type monsters on your side of the field as Tributes. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.",
+    "release_date": "2004-07-25",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2004"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

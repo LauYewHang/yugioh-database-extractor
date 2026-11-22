@@ -1,0 +1,14 @@
+{
+    "name": "Smoke Grenade of the Thief",
+    "filename": "Smoke_Grenade_of_the_Thief",
+    "card_text": "When this card is destroyed by a card effect while equipped to a monster: Look at your opponent's hand and discard 1 card from their hand.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "OTS TOURNAMENT PACK 14"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Black Wing Revenge",
+    "filename": "Black_Wing_Revenge",
+    "card_text": "When a Winged Beast monster you control is destroyed by battle and sent to the GY: Special Summon 2 \"Blackwing - Black Crest Tokens\" (Winged Beast/DARK/Level 2/ATK 0/DEF 800).",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

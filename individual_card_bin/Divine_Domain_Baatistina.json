@@ -1,0 +1,27 @@
+{
+    "name": "Divine Domain Baatistina",
+    "filename": "Divine_Domain_Baatistina",
+    "card_text": "During your Main Phase: You can send 1 \"Tistina\" monster from your Deck to your GY, then if your opponent controls 3 or more face-up cards, you can Special Summon 1 \"Crystal God Tistina\" from your hand or Deck. You can only use this effect of \"Divine Domain Baatistina\" once per turn. If this card in your Field Zone is destroyed by your opponent's card effect: You can Special Summon 1 \"Tistina\" monster from your Deck or GY.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Breath of the Tistina",
+        "Crystal God Tistina",
+        "Demigod of the Tistina",
+        "Discordance of the Tistina",
+        "Embrace of the Tistina",
+        "Fallen of the Tistina",
+        "Hound of the Tistina",
+        "Miasma Dragon Tistina",
+        "Play of the Tistina",
+        "Returned of the Tistina",
+        "Sentinel of the Tistina",
+        "Signs of the Tistina",
+        "Tainted of the Tistina",
+        "Tistina, the Divinity that Defies Darkness"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

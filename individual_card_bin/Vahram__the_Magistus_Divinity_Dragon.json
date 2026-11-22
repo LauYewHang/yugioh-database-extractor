@@ -1,0 +1,37 @@
+{
+    "name": "Vahram, the Magistus Divinity Dragon",
+    "filename": "Vahram__the_Magistus_Divinity_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nWhile this card is an Equip Card, the equipped monster cannot be destroyed by your opponent's Spell/Trap effects. You can only use each of the following effects of \"Vahram, the Magistus Divinity Dragon\" once per turn. If this Synchro Summoned card is destroyed: You can destroy all face-up cards your opponent controls. At the start of the Damage Step, if the monster this card is equipped to battles an opponent's monster: You can destroy that opponent's monster.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 2900,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

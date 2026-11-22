@@ -1,0 +1,14 @@
+{
+    "name": "Metamorphortress",
+    "filename": "Metamorphortress",
+    "card_text": "Activate this card by targeting 1 Level 4 or higher monster you control; Special Summon this card as an Effect Monster (Rock-Type/EARTH/Level 4/ATK 1000/DEF 1000), then equip that face-up monster to this card. (This card is also still a Trap Card.) If Summoned this way, this card gains ATK and DEF equal to the ATK of the monster equipped to it by this effect, also if it attacks, change it to Defense Position at the end of the Damage Step.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

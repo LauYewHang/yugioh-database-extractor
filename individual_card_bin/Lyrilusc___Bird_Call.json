@@ -1,0 +1,26 @@
+{
+    "name": "Lyrilusc - Bird Call",
+    "filename": "Lyrilusc___Bird_Call",
+    "card_text": "Take 1 \"Lyrilusc\" monster from your Deck, and either add it to your hand or send it to the GY, then you can Special Summon 1 \"Lyrilusc\" monster with a different name from your hand. You can only activate 1 \"Lyrilusc - Bird Call\" per turn.",
+    "release_date": "2021-10-29",
+    "available_set": [
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
+    ],
+    "related_card": [
+        "Lyrilusc - Assembled Nightingale",
+        "Lyrilusc - Beryl Canary",
+        "Lyrilusc - Bird Sanctuary",
+        "Lyrilusc - Bird Strike",
+        "Lyrilusc - Celestine Wagtail",
+        "Lyrilusc - Cobalt Sparrow",
+        "Lyrilusc - Ensemblue Robin",
+        "Lyrilusc - Independent Nightingale",
+        "Lyrilusc - Phantom Feathers",
+        "Lyrilusc - Promenade Thrush",
+        "Lyrilusc - Recital Starling",
+        "Lyrilusc - Sapphire Swallow",
+        "Lyrilusc - Turquoise Warbler"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

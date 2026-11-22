@@ -17,7 +17,9 @@
     "attack": 1400,
     "defense": 2500,
     "monster_type": "Machine",
-    "monster_card_type": 2,
+    "monster_card_type": [
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

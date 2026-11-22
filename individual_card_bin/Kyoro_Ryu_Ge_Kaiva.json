@@ -1,0 +1,28 @@
+{
+    "name": "Kyoro Ryu-Ge Kaiva",
+    "filename": "Kyoro_Ryu_Ge_Kaiva",
+    "card_text": "You can shuffle this card from your hand into the Deck; add 1 \"Ryu-Ge Realm - Dino Domains\" from your Deck to your hand. During the Main Phase, if 2 or more cards were destroyed this turn (Quick Effect): You can Special Summon this card from your hand. You can place 1 \"Ryu-Ge Realm - Dino Domains\" you control on the bottom of the Deck, then target other cards on the field, up to the number of different Monster Types on the field; destroy them. You can only use each effect of \"Kyoro Ryu-Ge Kaiva\" once per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Genro Ryu-Ge Hakva",
+        "Ryu-Ge End",
+        "Ryu-Ge Realm - Dino Domains",
+        "Ryu-Ge Realm - Sea Spires",
+        "Ryu-Ge Realm - Wyrm Winds",
+        "Ryu-Ge Rising",
+        "Ryu-Ge Rivalry",
+        "Ryu-Ge War Zone",
+        "Sosei Ryu-Ge Mistva",
+        "Tensei Ryu-Ge Anva"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 1200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Des Counterblow",
+    "filename": "Des_Counterblow",
+    "card_text": "Destroy any monster that inflicts Battle Damage to a player's Life Points by attacking directly.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Super Solar Nutrient",
+    "filename": "Super_Solar_Nutrient",
+    "card_text": "Activate this card by Tributing 1 Level 2 or lower Plant-Type monster; Special Summon 1 Plant-Type monster from your hand or Deck whose Level is less than or equal to the Level the Tributed monster had on the field +3. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "FUSION ENFORCERS",
+        "DUELIST LEAGUE 3",
+        "ASTRAL PACK THREE",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

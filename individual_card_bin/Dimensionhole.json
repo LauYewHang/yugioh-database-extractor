@@ -1,0 +1,29 @@
+{
+    "name": "Dimensionhole",
+    "filename": "Dimensionhole",
+    "card_text": "Select 1 monster on your side of the field and remove it from play until your next Standby Phase. While the monster is removed from play, the Monster Card Zone of the selected monster cannot be used.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "DARK BEGINNING 1",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

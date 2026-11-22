@@ -40,7 +40,10 @@
     "attack": 2400,
     "defense": 1600,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "All Fusion Monsters you control gain 300 ATK. Once per turn, if a \"Frightfur\" Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can draw 1 card.",

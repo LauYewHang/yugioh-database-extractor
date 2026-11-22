@@ -1,0 +1,28 @@
+{
+    "name": "Atlantean Pikeman",
+    "filename": "Atlantean_Pikeman",
+    "card_text": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "5D's STARTER DECK 2008",
+        "PHANTOM DARKNESS",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Abyss-sting Triaina",
+        "Abyssrhine, the Atlantean Spirit",
+        "Atlantean Marksman",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad",
+        "Neptabyss, the Atlantean Prince",
+        "Poseidra Abyss, the Atlantean Dragon Lord",
+        "Poseidra, the Storming Atlantean"
+    ],
+    "attribute": "WATER",
+    "attack": 1400,
+    "defense": 0,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

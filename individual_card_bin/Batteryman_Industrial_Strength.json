@@ -1,0 +1,31 @@
+{
+    "name": "Batteryman Industrial Strength",
+    "filename": "Batteryman_Industrial_Strength",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 2 \"Batteryman\" monsters from your Graveyard. Once per turn, you can remove from play 1 Thunder-Type monster from your Graveyard to destroy 1 monster and 1 Spell or Trap Card on the field.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Battery Charger",
+        "Batteryman 9-Volt",
+        "Batteryman AA",
+        "Batteryman AAA",
+        "Batteryman C",
+        "Batteryman Charger",
+        "Batteryman D",
+        "Batteryman Fuel Cell",
+        "Batteryman Micro-Cell",
+        "Batteryman Solar",
+        "Portable Battery Pack",
+        "Quick Charger",
+        "Short Circuit"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2600,
+    "defense": 0,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

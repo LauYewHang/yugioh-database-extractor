@@ -1,0 +1,23 @@
+{
+    "name": "The Fang of Critias",
+    "filename": "The_Fang_of_Critias",
+    "card_text": "(This card is also always treated as \"Legendary Dragon Critias\".)\nSend 1 Trap from your hand or field to the GY, that is listed on a Fusion Monster that can only be Special Summoned with \"The Fang of Critias\" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck. You can only activate 1 \"The Fang of Critias\" per turn.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "QUARTER CENTURY STAMPEDE",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "LEGENDARY DRAGON DECKS",
+        "DRAGONS OF LEGEND 2",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Destruction Dragon",
+        "Doom Virus Dragon",
+        "Legend of Heart",
+        "Mirror Force Dragon",
+        "Tyrant Burst Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Sand Stone",
+    "filename": "Sand_Stone",
+    "card_text": "Appears from underground and attacks with long, snake-like tentacles.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "LEGEND OF BLUE EYES WHITE DRAGON"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 1600,
+    "monster_type": "Rock",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

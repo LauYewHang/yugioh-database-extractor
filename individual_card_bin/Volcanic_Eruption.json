@@ -1,0 +1,17 @@
+{
+    "name": "Volcanic Eruption",
+    "filename": "Volcanic_Eruption",
+    "card_text": "(This card is not treated as a \"Volcanic\" card.)\nDuring your End Phase, if you control \"Jurassic World\": Destroy all cards on the field.",
+    "release_date": "2006-10-20",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "STRUCTURE DECK DINOSAUR'S RAGE"
+    ],
+    "related_card": [
+        "Jurassic World"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

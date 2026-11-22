@@ -1,0 +1,40 @@
+{
+    "name": "Flower Cardian Cherry Blossom",
+    "filename": "Flower_Cardian_Cherry_Blossom",
+    "card_text": "If you control a Level 2 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. Once per turn: You can Tribute 1 \"Flower Cardian\" monster; draw 1 card, and if you do, show it, then, if it is a \"Flower Cardian\" monster, you can take 1 \"Flower Cardian\" monster from your Deck, except \"Flower Cardian Cherry Blossom\", and either add it to your hand or Special Summon it. Otherwise, send the card you drew to the GY.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Flower Cardian Boardefly",
+        "Flower Cardian Cherry Blossom with Curtain",
+        "Flower Cardian Clover with Boar",
+        "Flower Cardian Lightflare",
+        "Flower Cardian Lightshower",
+        "Flower Cardian Maple with Deer",
+        "Flower Cardian Moonflowerviewing",
+        "Flower Cardian Paulownia",
+        "Flower Cardian Paulownia with Phoenix",
+        "Flower Cardian Peony with Butterfly",
+        "Flower Cardian Pine",
+        "Flower Cardian Pine with Crane",
+        "Flower Cardian Willow",
+        "Flower Cardian Willow with Calligrapher",
+        "Flower Cardian Zebra Grass",
+        "Flower Cardian Zebra Grass with Moon",
+        "Flower Gathering",
+        "Flower Stacking",
+        "Fraud Freeze",
+        "Recardination",
+        "Super All In!",
+        "Super Koi Koi"
+    ],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Echo Oscillation",
+    "filename": "Echo_Oscillation",
+    "card_text": "You can target 1 card in your Pendulum Zone; destroy it, then draw 1 card. You can only use this effect of \"Echo Oscillation\" once per turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "LEGENDARY DRAGON DECKS",
+        "PENDULUM EVOLUTION",
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

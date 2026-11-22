@@ -73,7 +73,10 @@
     "attack": 200,
     "defense": 100,
     "monster_type": "Machine",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "Once per turn, when your Defense Position monster is targeted for an attack: You can change it to face-up Attack Position, also it cannot be destroyed by battle this turn (even if this card leaves the field).",

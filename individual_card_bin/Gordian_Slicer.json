@@ -1,0 +1,13 @@
+{
+    "name": "Gordian Slicer",
+    "filename": "Gordian_Slicer",
+    "card_text": "This card's activation and effect cannot be negated. At the start of your Main Phase 1 or 2: Target any number of face-up cards on the field; for each targeted card, banish 1 card from your hand, or 6 cards from your Extra Deck, face-down, then return those targeted cards to the hand.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

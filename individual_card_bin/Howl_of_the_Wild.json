@@ -1,0 +1,13 @@
+{
+    "name": "Howl of the Wild",
+    "filename": "Howl_of_the_Wild",
+    "card_text": "If your monster destroys an opponent's monster by battle and sends it to the GY: Inflict 300 damage to your opponent for each Beast monster you control.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

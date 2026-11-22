@@ -1,0 +1,17 @@
+{
+    "name": "Cynet Universe",
+    "filename": "Cynet_Universe",
+    "card_text": "All Link Monsters you control gain 300 ATK. Once per turn: You can target 1 monster in the GY; shuffle it into the Deck. If this card on the field is destroyed by a card effect: Send all monsters in the Extra Monster Zones to the GY.",
+    "release_date": "2017-07-21",
+    "available_set": [
+        "STARTER DECK CODEBREAKER",
+        "STARTER DECK - LINK STRIKE -"
+    ],
+    "related_card": [
+        "Cyberse Reminder",
+        "Firewall Phantom",
+        "Micro Coder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

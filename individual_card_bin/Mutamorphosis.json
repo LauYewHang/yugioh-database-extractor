@@ -1,0 +1,13 @@
+{
+    "name": "Mutamorphosis",
+    "filename": "Mutamorphosis",
+    "card_text": "Tribute 1 Fusion or Synchro Monster; Special Summon 1 monster from your Deck with the same Level as the Tributed monster's original Level, but return it to the hand during the End Phase. You can only activate 1 \"Mutamorphosis\" per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

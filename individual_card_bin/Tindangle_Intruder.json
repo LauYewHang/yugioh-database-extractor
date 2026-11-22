@@ -1,0 +1,31 @@
+{
+    "name": "Tindangle Intruder",
+    "filename": "Tindangle_Intruder",
+    "card_text": "FLIP: You can add 1 \"Tindangle\" card from your Deck to your hand.\nWhen this card is Normal Summoned: You can send 1 \"Tindangle\" card from your Deck to the GY. If a monster(s) is Special Summoned to your field in face-down Defense Position while this card is in your GY: Special Summon this card in face-down Defense Position (this is not optional). You can only use each effect of \"Tindangle Intruder\" once per turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE"
+    ],
+    "related_card": [
+        "Euler's Circuit",
+        "Gergonne's End",
+        "Nagel's Protection",
+        "Stairs of Mail",
+        "Tindangle Acute Cerberus",
+        "Tindangle Angel",
+        "Tindangle Base Gardna",
+        "Tindangle Delaunay",
+        "Tindangle Dholes",
+        "Tindangle Hound",
+        "Tindangle Jhrelth",
+        "Tindangle Protector",
+        "Tindangle Trinity"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

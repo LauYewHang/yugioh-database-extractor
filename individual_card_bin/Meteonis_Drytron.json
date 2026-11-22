@@ -1,0 +1,33 @@
+{
+    "name": "Meteonis Drytron",
+    "filename": "Meteonis_Drytron",
+    "card_text": "This card can be used to Ritual Summon any Ritual Monster from your hand or GY. You must also Tribute Machine monsters from your hand or field whose total ATK equal or exceed the ATK of the Ritual Monster you Ritual Summon. If this card is in your GY: You can target 1 \"Drytron\" monster you control; it loses exactly 1000 ATK until the end of your opponent's turn, and if it does, add this card to your hand. You can only use this effect of \"Meteonis Drytron\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Drytron Alpha Thuban",
+        "Drytron Asterism",
+        "Drytron Beta Rastaban",
+        "Drytron Delta Altais",
+        "Drytron Eclipse",
+        "Drytron Fafnir",
+        "Drytron Gamma Eltanin",
+        "Drytron Meteonis DA Draconids",
+        "Drytron Meteonis Draconids",
+        "Drytron Meteonis Quadrantids",
+        "Drytron Meteor Shower",
+        "Drytron Mu Beta Fafnir",
+        "Drytron Nova",
+        "Drytron Nu II",
+        "Drytron Zeta Aldhibah",
+        "Meteoroa Drytron",
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Drytron"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

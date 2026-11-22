@@ -1,0 +1,39 @@
+{
+    "name": "Ars Magna the Division and the Union",
+    "filename": "Ars_Magna_the_Division_and_the_Union",
+    "card_text": "You can banish this card from your hand; Special Summon 1 non-Spellcaster \"Ars Magna\" monster from your GY or banishment, also your \"Power Patron\" Link Monsters can make up to 3 attacks on monsters during each Battle Phase this turn. If a Synchro or Link Monster(s) is Special Summoned, while this card is banished (except during the Damage Step): You can Special Summon this card. You can banish 1 \"Ars Magna\" card from your GY; draw 1 card. You can only use each effect of \"Ars Magna the Division and the Union\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Ars Magna \"Philosophorum\"",
+        "Ars Magna the Corruption and the Purification",
+        "Ars Magna the Finite and the Infinite",
+        "Artmage Power Patron",
+        "Elfnote Power Patron",
+        "Junoldo the Shadespirit Power Patron",
+        "Junora the Power Patron of Tuning",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Mediclius the Extraordinary Power Patron",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Plundered Power Patron Plane - Vidolia",
+        "Power Patron DoomZ",
+        "Power Patron Shade of the Final Hour",
+        "Prohibited Power Patron Portal - Terminus",
+        "Prohibitive Power Patron Purview - Vilaea",
+        "Purification Power Patron",
+        "Theorealized Medius",
+        "Vidolium the Unstable Power Patron of Unity"
+    ],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

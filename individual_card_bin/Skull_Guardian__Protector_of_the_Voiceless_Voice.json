@@ -1,0 +1,30 @@
+{
+    "name": "Skull Guardian, Protector of the Voiceless Voice",
+    "filename": "Skull_Guardian__Protector_of_the_Voiceless_Voice",
+    "card_text": "You can Ritual Summon this card with \"Prayers of the Voiceless Voice\". Gains 2050 ATK while you have \"Lo, the Prayers of the Voiceless Voice\" on your field or in your GY. You can only use each of the following effects of \"Skull Guardian, Protector of the Voiceless Voice\" once per turn. If this card is Ritual Summoned: You can add 1 \"Voiceless Voice\" monster, or 1 Ritual Monster (Warrior or Dragon), from your Deck to your hand. When your opponent activates a card or effect while you control \"Lo, the Prayers of the Voiceless Voice\" (Quick Effect): You can negate the activation, and if you do, destroy that card.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Barrier of the Voiceless Voice",
+        "Blessing of the Voiceless Voice",
+        "Guardian of the Voiceless Voice",
+        "Lo, the Prayers of the Voiceless Voice",
+        "Prayers of the Voiceless Voice",
+        "Principug",
+        "Radiance of the Voiceless Voice",
+        "Saffira, Divine Dragon of the Voiceless Voice",
+        "Saffira, Dragon Queen of the Voiceless Voice",
+        "Sauravis, Dragon Sage of the Voiceless Voice"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2050,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

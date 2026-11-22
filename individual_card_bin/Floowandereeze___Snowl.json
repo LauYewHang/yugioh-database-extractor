@@ -1,0 +1,23 @@
+{
+    "name": "Floowandereeze & Snowl",
+    "filename": "Floowandereeze___Snowl",
+    "card_text": "Once per turn, while you control this Tribute Summoned card: You can conduct up to 3 Normal Summons/Sets this turn, not just 1. While this Tribute Summoned card is in the Monster Zone, if your monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per opponent's turn (Quick Effect): You can banish 1 card from your hand; change all Special Summoned monsters your opponent controls to face-down Defense Position.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Floowandereeze & Empen",
+        "Floowandereeze & Toccan",
+        "Floowandereeze and the Advent of Adventure",
+        "Floowandereeze and the Magnificent Map"
+    ],
+    "attribute": "WATER",
+    "attack": 2900,
+    "defense": 800,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

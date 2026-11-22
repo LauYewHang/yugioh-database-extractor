@@ -1,0 +1,16 @@
+{
+    "name": "Mirage of Nightmare",
+    "filename": "Mirage_of_Nightmare",
+    "card_text": "Once per turn, during your opponent's Standby Phase: Draw until you have 4 cards in your hand. If you do, once during your next Standby Phase after that: Randomly discard the same number of cards you drew (or your entire hand, if you do not have enough cards).",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "PHARAONIC GUARDIAN",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

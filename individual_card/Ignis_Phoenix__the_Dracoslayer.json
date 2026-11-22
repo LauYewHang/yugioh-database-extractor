@@ -42,7 +42,10 @@
     "attack": 1700,
     "defense": 1900,
     "monster_type": "Warrior",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "During your Main Phase: You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, then add 1 non-Pendulum \"Dracoslayer\" or \"Igknight\" monster from your Deck to your hand. You can only use this effect of \"Ignis Phoenix, the Dracoslayer\" once per turn.",

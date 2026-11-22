@@ -1,0 +1,18 @@
+{
+    "name": "Stellar Wind Wolfrayet",
+    "filename": "Stellar_Wind_Wolfrayet",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 \"Stellar Wind Wolfrayet\". Gains 300 ATK each time another monster's effect is activated, while the ATK of this card is less than 4000. Once per turn, if this card's ATK is 4000 or higher (Quick Effect): You can shuffle both this card and all monsters your opponent controls into the Deck.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2500,
+    "defense": 0,
+    "monster_type": "Beast",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

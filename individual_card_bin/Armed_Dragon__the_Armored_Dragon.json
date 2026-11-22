@@ -1,0 +1,31 @@
+{
+    "name": "Armed Dragon, the Armored Dragon",
+    "filename": "Armed_Dragon__the_Armored_Dragon",
+    "card_text": "When this card destroys an opponent's monster by battle: You can Special Summon 1 Level 5 or lower WIND Dragon monster from your hand or Deck, except \"Armed Dragon, the Armored Dragon\", but it cannot attack directly this turn.",
+    "release_date": "2022-03-11",
+    "available_set": [
+        "HIDDEN ARSENAL CHAPTER 1"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Flash",
+        "Armed Dragon Lightning",
+        "Armed Dragon LV10 White",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon Thunderbolt",
+        "Armed Neos",
+        "Ojama Pajama",
+        "Ojamatch",
+        "Pile Armed Dragon"
+    ],
+    "attribute": "WIND",
+    "attack": 1900,
+    "defense": 1400,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

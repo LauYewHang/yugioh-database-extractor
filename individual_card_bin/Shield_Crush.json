@@ -1,0 +1,18 @@
+{
+    "name": "Shield Crush",
+    "filename": "Shield_Crush",
+    "card_text": "Target 1 Defense Position monster on the field; destroy that target.",
+    "release_date": "2007-07-26",
+    "available_set": [
+        "PREMIUM PACK",
+        "TURBO PACK BOOSTER FIVE",
+        "DEMO DECK 2015",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "STARTER DECK KAIBA RELOADED",
+        "DUEL TERMINAL 2",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

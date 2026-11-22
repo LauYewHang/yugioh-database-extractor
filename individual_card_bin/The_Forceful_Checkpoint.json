@@ -1,0 +1,16 @@
+{
+    "name": "The Forceful Checkpoint",
+    "filename": "The_Forceful_Checkpoint",
+    "card_text": "When an opponent's monster declares an attack: Look at your opponent's hand, and if there is a Monster Card, negate the attack, then discard 1 monster from their hand (your choice).",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "THE DARK ILLUSION",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

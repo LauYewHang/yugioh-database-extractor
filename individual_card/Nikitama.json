@@ -11,7 +11,10 @@
     "attack": 800,
     "defense": 1800,
     "monster_type": "Fairy",
-    "monster_card_type": 130,
+    "monster_card_type": [
+        "Spirit",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

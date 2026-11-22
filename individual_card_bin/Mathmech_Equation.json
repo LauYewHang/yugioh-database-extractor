@@ -1,0 +1,29 @@
+{
+    "name": "Mathmech Equation",
+    "filename": "Mathmech_Equation",
+    "card_text": "Target 1 \"Mathmech\" monster in your GY; Special Summon it, and if you do, it gains 1000 ATK until the end of this turn. You can only activate 1 \"Mathmech Equation\" per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Geomathmech Final Sigma",
+        "Geomathmech Magma",
+        "Mathmech Addition",
+        "Mathmech Billionblade Nayuta",
+        "Mathmech Circular",
+        "Mathmech Diameter",
+        "Mathmech Division",
+        "Mathmech Induction",
+        "Mathmech Multiplication",
+        "Mathmech Nabla",
+        "Mathmech Sigma",
+        "Mathmech Subtraction",
+        "Mathmech Superfactorial",
+        "Primathmech Alembertian",
+        "Primathmech Laplacian"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

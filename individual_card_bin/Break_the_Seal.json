@@ -1,0 +1,18 @@
+{
+    "name": "Break the Seal",
+    "filename": "Break_the_Seal",
+    "card_text": "You can activate 1 of these effects;\n\u25cfPlace 1 \"Break the Seal\" from your Deck or GY, face-up on your field.\n\u25cfSend 2 face-up \"Break the Seal\" you control to the GY, including this card; add 1 \"Forbidden One\" monster from your Deck to your hand.\nIf this card on the field is destroyed: You can reveal up to 5 \"Forbidden One\" monsters in your hand; return that many cards your opponent controls to the hand. You can only use each effect of \"Break the Seal\" once per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Exodia the Forbidden One",
+        "Left Arm of the Forbidden One",
+        "Left Leg of the Forbidden One",
+        "Right Arm of the Forbidden One",
+        "Right Leg of the Forbidden One"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

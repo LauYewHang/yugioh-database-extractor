@@ -1,0 +1,15 @@
+{
+    "name": "Mask of Brutality",
+    "filename": "Mask_of_Brutality",
+    "card_text": "The equipped monster gains 1000 ATK and loses 1000 DEF. Once per turn, during your Standby Phase, pay 1000 LP or destroy this card.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "DARK BEGINNING 1",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

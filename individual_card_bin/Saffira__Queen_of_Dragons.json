@@ -1,0 +1,22 @@
+{
+    "name": "Saffira, Queen of Dragons",
+    "filename": "Saffira__Queen_of_Dragons",
+    "card_text": "You can Ritual Summon this card with \"Hymn of Light\". During the End Phase, if this card was Ritual Summoned this turn, or if a LIGHT monster was sent from the hand or Deck to the GY this turn while this card was face-up on the field: You can activate 1 of these effects;\n\u25cfDraw 2 cards, then discard 1 card.\n\u25cfDiscard 1 random card from your opponent's hand.\n\u25cfAdd 1 LIGHT monster from your GY to your hand.\nYou can only use this effect of \"Saffira, Queen of Dragons\" once per turn.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 24"
+    ],
+    "related_card": [
+        "Hymn of Light",
+        "Prayers of the Voiceless Voice"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2400,
+    "monster_type": "Dragon",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

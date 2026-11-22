@@ -1,0 +1,17 @@
+{
+    "name": "Wicked Serpent Night Dragon",
+    "filename": "Wicked_Serpent_Night_Dragon",
+    "card_text": "You can Tribute 1 DARK monster from your hand or field; Special Summon this card from your hand. You can only use this effect of \"Wicked Serpent Night Dragon\" once per turn. When this card is destroyed by battle: You can target 1 monster your opponent controls; send it to the GY, then you can Special Summon this card.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2350,
+    "defense": 2400,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

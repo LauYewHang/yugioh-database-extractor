@@ -1,0 +1,20 @@
+{
+    "name": "Malevolent Catastrophe",
+    "filename": "Malevolent_Catastrophe",
+    "card_text": "When an opponent's monster declares an attack: Destroy all Spells and Traps on the field.",
+    "release_date": "2007-10-24",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "STRUCTURE DECK - MARIK -",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUELIST PACK - BATTLE CITY -",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "NOBLE KNIGHTS OF THE ROUND TABLE BOX SET",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

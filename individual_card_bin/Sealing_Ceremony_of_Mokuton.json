@@ -1,0 +1,13 @@
+{
+    "name": "Sealing Ceremony of Mokuton",
+    "filename": "Sealing_Ceremony_of_Mokuton",
+    "card_text": "Once per turn: You can Tribute 1 face-up EARTH monster, then target up to 2 cards in the opponent's GY; banish those targets.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

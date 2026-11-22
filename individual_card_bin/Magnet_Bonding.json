@@ -1,0 +1,31 @@
+{
+    "name": "Magnet Bonding",
+    "filename": "Magnet_Bonding",
+    "card_text": "During the Main Phase: Activate 1 of these effects (but you can only use each effect of \"Magnet Bonding\" once per turn);\n\u25cfAdd 1 \"Conduction Warrior Linear Magnum Plus Minus\" or 1 Level 4 or lower \"Magnet Warrior\" monster from your Deck to your hand.\n\u25cfAdd 1 Level 8 \"Magna Warrior\" monster from your Deck to your hand.\n\u25cfFusion Summon 1 Rock Fusion Monster from your Extra Deck, by shuffling Rock monsters from your hand, field, GY, and/or banishment into the Deck as material.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Alpha The Magnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Beta The Magnet Warrior",
+        "Conduction Warrior Linear Magnum Plus Minus",
+        "Conduction Warrior Plasma Magnum",
+        "Delta The Magnet Warrior",
+        "Duoterion",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Gamma The Magnet Warrior",
+        "Magnet Warrior Omega Plus",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Tellusion the Magna Warrior",
+        "Valkyrion the Magna Warrior",
+        "Water Dragon Cluster"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

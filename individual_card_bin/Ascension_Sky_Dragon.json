@@ -1,0 +1,18 @@
+{
+    "name": "Ascension Sky Dragon",
+    "filename": "Ascension_Sky_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: It gains 800 ATK for each card currently in your hand. When this card you control is destroyed by your opponent's card and sent to your GY, if all of the monsters that were used for the Synchro Summon of this card are in your GY: You can Special Summon all of them, but their effects are negated. You can only use this effect of \"Ascension Sky Dragon\" once per turn.",
+    "release_date": "2014-09-05",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2014"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Last Counter",
+    "filename": "Last_Counter",
+    "card_text": "When an attack is declared involving a \"Battlin' Boxer\" monster you control and an opponent's monster: Negate the attack, and if you do, send that monster you control to the GY, then 1 \"Battlin' Boxer\" monster you control (in Attack Position, if you declared the attack) gains ATK equal to the original ATK of that opponent's monster, also proceed to damage calculation using those monsters. Then, you take damage equal to the amount of ATK gained from this effect.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN",
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Battlin' Boxer Big Bandage",
+        "Battlin' Boxer Cheat Commissioner",
+        "Battlin' Boxer Chief Second",
+        "Battlin' Boxer Counterpunch",
+        "Battlin' Boxer Glassjaw",
+        "Battlin' Boxer Headgeared",
+        "Battlin' Boxer King Dempsey",
+        "Battlin' Boxer Lead Yoke",
+        "Battlin' Boxer Promoter",
+        "Battlin' Boxer Rabbit Puncher",
+        "Battlin' Boxer Rib Gardna",
+        "Battlin' Boxer Shadow",
+        "Battlin' Boxer Sparrer",
+        "Battlin' Boxer Switchitter",
+        "Battlin' Boxer Uppercutter",
+        "Battlin' Boxer Veil",
+        "Number 105: Battlin' Boxer Star Cestus",
+        "Number 79: Battlin' Boxer Nova Kaiser",
+        "Number C105: Battlin' Boxer Comet Cestus",
+        "Number C79: Battlin' Boxer General Kaiser"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

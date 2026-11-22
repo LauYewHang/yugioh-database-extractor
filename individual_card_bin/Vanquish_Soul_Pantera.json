@@ -1,0 +1,35 @@
+{
+    "name": "Vanquish Soul Pantera",
+    "filename": "Vanquish_Soul_Pantera",
+    "card_text": "If you control no monsters in your Main Monster Zone: You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n\u25cfEARTH: This card cannot be destroyed by battle this turn.\n\u25cfEARTH & FIRE: Destroy all Spells/Traps in this card's column.\nYou can only use each effect of \"Vanquish Soul Pantera\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Rock of the Vanquisher",
+        "Stake your Soul!",
+        "Vanquish Soul - Continue?",
+        "Vanquish Soul Caesar Valius",
+        "Vanquish Soul Calamity Caesar",
+        "Vanquish Soul Dr. Mad Love",
+        "Vanquish Soul Dust Devil",
+        "Vanquish Soul Heavy Borger",
+        "Vanquish Soul Hollie Sue",
+        "Vanquish Soul Jiaolong",
+        "Vanquish Soul Pluton HG",
+        "Vanquish Soul Razen",
+        "Vanquish Soul Rocks",
+        "Vanquish Soul Snow Devil",
+        "Vanquish Soul Trinity Burst",
+        "Vanquish Soul, Start!"
+    ],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1900,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

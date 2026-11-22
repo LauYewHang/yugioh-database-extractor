@@ -1,0 +1,17 @@
+{
+    "name": "Sacred Spirit Sword Aiwass",
+    "filename": "Sacred_Spirit_Sword_Aiwass",
+    "card_text": "Activate 1 of these effects, but you cannot declare attacks for the rest of this turn, except with Fusion Monsters;\n\u25cfSpecial Summon 1 \"Aiwass, Divine Spirit of the Law\" from your Deck or GY.\n\u25cfTake 1 \"Aleister\" monster from your Deck, and either send it to the GY or banish it.\n\u25cfLook at 3 random face-down cards in your opponent's Extra Deck, and if you do, banish 1 of them.\nYou can only activate 1 \"Sacred Spirit Sword Aiwass\" per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Aiwass, Divine Spirit of the Law",
+        "Aleister the Invoker",
+        "Aleister the Invoker of Madness",
+        "Aleister the Reminiscent"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

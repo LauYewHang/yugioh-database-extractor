@@ -1,0 +1,12 @@
+{
+    "name": "Rainbow Bridge Bifrost",
+    "filename": "Rainbow_Bridge_Bifrost",
+    "card_text": "(This card is not treated as a \"Rainbow Bridge\" card.)\nBanish 3 Level 10 or higher monsters from your Extra Deck, including a LIGHT Synchro Monster; add 1 Field Spell from your Deck to your hand. You can only activate 1 \"Rainbow Bridge Bifrost\" per turn.",
+    "release_date": "2026-09-04",
+    "available_set": [
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

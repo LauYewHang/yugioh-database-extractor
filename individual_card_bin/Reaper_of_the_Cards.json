@@ -1,0 +1,19 @@
+{
+    "name": "Reaper of the Cards",
+    "filename": "Reaper_of_the_Cards",
+    "card_text": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "DARK BEGINNING 1",
+        "LEGEND OF BLUE EYES WHITE DRAGON"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1380,
+    "defense": 1930,
+    "monster_type": "Fiend",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

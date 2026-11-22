@@ -1,0 +1,14 @@
+{
+    "name": "Destruction Ring",
+    "filename": "Destruction_Ring",
+    "card_text": "Destroy 1 face-up monster on your side of the field to inflict 1000 points of damage to both players' Life Points.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "INVASION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

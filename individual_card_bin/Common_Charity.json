@@ -1,0 +1,14 @@
+{
+    "name": "Common Charity",
+    "filename": "Common_Charity",
+    "card_text": "Draw 2 cards, then banish 1 Normal Monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "SPEED DUEL: ARENA OF LOST SOULS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

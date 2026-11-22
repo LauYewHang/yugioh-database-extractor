@@ -1,0 +1,27 @@
+{
+    "name": "Dark Scorpion - Gorg the Strong",
+    "filename": "Dark_Scorpion___Gorg_the_Strong",
+    "card_text": "When this card inflicts battle damage to your opponent, you can activate 1 of these effects:\n\u25cfTarget 1 monster your opponent controls; return that target to the top of the Deck.\n\u25cfSend the top card of their Deck to the GY.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "Speed Duel: Battle City Box",
+        "GOLD SERIES HAUNTED MINE",
+        "DARK CRISIS"
+    ],
+    "related_card": [
+        "Dark Scorpion - Meanae the Thorn",
+        "Dark Scorpion Combination",
+        "Mustering of the Dark Scorpions"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

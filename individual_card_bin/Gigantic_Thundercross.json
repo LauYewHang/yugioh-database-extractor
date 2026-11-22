@@ -1,0 +1,13 @@
+{
+    "name": "Gigantic Thundercross",
+    "filename": "Gigantic_Thundercross",
+    "card_text": "Target a number of monsters on the field and/or in the GYs, equal to the difference between your banished cards and your opponent's; banish them, then your opponent can Special Summon 1 monster from their Deck. You can only activate 1 \"Gigantic Thundercross\" per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

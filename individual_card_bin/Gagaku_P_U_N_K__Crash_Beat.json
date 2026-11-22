@@ -1,0 +1,29 @@
+{
+    "name": "Gagaku-P.U.N.K. Crash Beat",
+    "filename": "Gagaku_P_U_N_K__Crash_Beat",
+    "card_text": "If your opponent activates a card or effect that targets your \"P.U.N.K.\" monster(s): You can target 1 card your opponent controls; destroy it. You can only use this effect of \"Gagaku-P.U.N.K. Crash Beat\" once per turn. If this card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can activate this effect; this turn, your opponent cannot target \"P.U.N.K.\" monsters you control with card effects, and they cannot be destroyed by your opponent's card effects.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "THE GRAND CREATORS"
+    ],
+    "related_card": [
+        "Gagaku-P.U.N.K. Wa Gon",
+        "Gagaku-P.U.N.K. Wild Picking",
+        "Joruri-P.U.N.K. Dangerous Gabu",
+        "Joruri-P.U.N.K. Madame Spider",
+        "Joruri-P.U.N.K. Nashiwari Surprise",
+        "Noh-P.U.N.K. Deer Note",
+        "Noh-P.U.N.K. Foxy Tune",
+        "Noh-P.U.N.K. Ogre Dance",
+        "Noh-P.U.N.K. Rising Scale",
+        "Noh-P.U.N.K. Ze Amin",
+        "P.U.N.K. JAM Dragon Drive",
+        "P.U.N.K. JAM Extreme Session",
+        "P.U.N.K. JAM FEVER!",
+        "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "Ukiyoe-P.U.N.K. Rising Carp",
+        "Ukiyoe-P.U.N.K. Sharakusai"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -30,7 +30,10 @@
     "attack": 2400,
     "defense": 1850,
     "monster_type": "Warrior",
-    "monster_card_type": 6,
+    "monster_card_type": [
+        "Ritual",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

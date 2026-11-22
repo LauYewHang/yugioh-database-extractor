@@ -1,0 +1,41 @@
+{
+    "name": "The Monarchs Masterplan",
+    "filename": "The_Monarchs_Masterplan",
+    "card_text": "Send 1 \"Monarch\" Spell/Trap from your Deck to the GY, except \"The Monarchs Masterplan\". If this card is banished: You can target 1 face-up monster your opponent controls; add 1 monster with the same Attribute that has 2400 ATK/1000 DEF, from your Deck or GY to your hand, then you can apply this effect.\n\u25cfImmediately after this effect resolves, Normal Summon 1 \"Zaborg the Thunder Monarch\", \"Mobius the Frost Monarch\", \"Thestalos the Firestorm Monarch\", \"Granmarg the Rock Monarch\", \"Raiza the Storm Monarch\", or \"Caius the Shadow Monarch\".\nYou can only use this effect of \"The Monarchs Masterplan\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE",
+        "OTS Tournament Pack 29"
+    ],
+    "related_card": [
+        "Caius the Shadow Monarch",
+        "Domain of the True Monarchs",
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Escalation of the Monarchs",
+        "Frost Blast of the Monarchs",
+        "Granmarg the Rock Monarch",
+        "March of the Monarchs",
+        "Mobius the Frost Monarch",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Raiza the Storm Monarch",
+        "Restoration of the Monarchs",
+        "Return of the Monarchs",
+        "Strike of the Monarchs",
+        "Tenacity of the Monarchs",
+        "Tessera the Primal Squire",
+        "The First Monarch",
+        "The Monarchs Awaken",
+        "The Monarchs Erupt",
+        "The Monarchs Revolt",
+        "The Monarchs Stormforth",
+        "The Prime Monarch",
+        "Thestalos the Firestorm Monarch",
+        "Zaborg the Thunder Monarch"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

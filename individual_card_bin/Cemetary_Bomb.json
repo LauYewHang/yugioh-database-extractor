@@ -1,0 +1,14 @@
+{
+    "name": "Cemetary Bomb",
+    "filename": "Cemetary_Bomb",
+    "card_text": "Inflict 100 damage to your opponent for each card in their Graveyard.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "STARTER DECK 2006",
+        "SOUL OF THE DUELIST",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

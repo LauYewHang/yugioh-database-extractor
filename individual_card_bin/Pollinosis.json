@@ -1,0 +1,16 @@
+{
+    "name": "Pollinosis",
+    "filename": "Pollinosis",
+    "card_text": "When a monster(s) would be Normal or Special Summoned, OR a Spell/Trap Card is activated: Tribute 1 Plant monster; negate the Summon or activation, and if you do, destroy that card.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "SECRET SLAYERS",
+        "CROSSROADS OF CHAOS",
+        "TURBO PACK BOOSTER THREE",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "ASTRAL PACK THREE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

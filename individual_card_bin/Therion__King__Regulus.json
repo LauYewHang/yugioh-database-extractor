@@ -1,0 +1,33 @@
+{
+    "name": "Therion \"King\" Regulus",
+    "filename": "Therion__King__Regulus",
+    "card_text": "You can only use each of the following effects of \"Therion \"King\" Regulus\" once per turn.\n\u25cfYou can target 1 \"Therion\" monster or 1 Machine monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card.\n\u25cfWhen your opponent activates a card or effect (Quick Effect): You can send 1 \"Therion\" Monster Card from your hand or face-up field to the GY; negate that effect.\nA \"Therion\" monster equipped with this card gains 700 ATK, also it can activate the 2nd effect listed above as if it were \"Therion \"King\" Regulus\".",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Endless Engine Argyro System",
+        "Gigantic \"Champion\" Sargas",
+        "Gung-Ho! Springans!",
+        "Spright Smashers",
+        "Therion \"Bull\" Ain",
+        "Therion \"Duke\" Yul",
+        "Therion \"Empress\" Alasia",
+        "Therion \"Lily\" Borea",
+        "Therion \"Reaper\" Fum",
+        "Therion Charge",
+        "Therion Cross",
+        "Therion Discolosseum",
+        "Therion Irregular",
+        "Therion Stand Up!"
+    ],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

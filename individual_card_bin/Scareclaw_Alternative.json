@@ -1,0 +1,28 @@
+{
+    "name": "Scareclaw Alternative",
+    "filename": "Scareclaw_Alternative",
+    "card_text": "Tribute 3 \"Scareclaw\" monsters; for the rest of this turn, your opponent can only Special Summon monsters in Defense Position. During your turn: You can banish this card from your GY; inflict 100 damage to your opponent for each Defense Position monster on the field. You can only use this effect of \"Scareclaw Alternative\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Primitive Planet Reichphobia",
+        "Scareclaw Acro",
+        "Scareclaw Arrival",
+        "Scareclaw Astra",
+        "Scareclaw Belone",
+        "Scareclaw Decline",
+        "Scareclaw Defanging",
+        "Scareclaw Kashtira",
+        "Scareclaw Light-Heart",
+        "Scareclaw Reichheart",
+        "Scareclaw Sclash",
+        "Scareclaw Straddle",
+        "Scareclaw Tri-Heart",
+        "Scareclaw Twinsaw"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

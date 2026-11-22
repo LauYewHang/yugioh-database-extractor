@@ -1,0 +1,39 @@
+{
+    "name": "Awakening of the Crystal Ultimates",
+    "filename": "Awakening_of_the_Crystal_Ultimates",
+    "card_text": "Reveal 1 \"Ultimate Crystal\" monster in your hand, then activate 1 of these effects, or if you control an \"Ultimate Crystal\" monster, you can activate 1 or 2 of these effects in sequence, instead (and do not have to reveal a monster);\n\u25cfTake 1 \"Rainbow Bridge\" card or 1 \"Rainbow Refraction\" from your Deck, and either add it to your hand or send it to the GY.\n\u25cfSpecial Summon 1 \"Crystal Beast\" Monster Card from your hand, Deck, GY, or Spell & Trap Zone.\nYou can only activate 1 \"Awakening of the Crystal Ultimates\" per turn.",
+    "release_date": "2022-09-30",
+    "available_set": [
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Crystal Master",
+        "Golden Rule",
+        "Rainbow Bridge",
+        "Rainbow Bridge of Salvation",
+        "Rainbow Bridge of the Heart",
+        "Rainbow Dark Dragon",
+        "Rainbow Dragon",
+        "Rainbow Overdragon",
+        "Rainbow Refraction",
+        "Ultimate Crystal Rainbow Dragon Overdrive"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Archlord Zerato",
+    "filename": "Archlord_Zerato",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 face-up \"Warrior of Zera\" on your side of the field while \"The Sanctuary in the Sky\" is on the field. If \"The Sanctuary in the Sky\" is on your side of the field, by discarding 1 LIGHT Monster Card from your hand to the Graveyard, destroy all monsters on your opponent's side of the field. If \"The Sanctuary in the Sky\" is not on your side of the field, this effect is not applied.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "The Chorus in the Sky",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath",
+        "Warrior of Zera"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2300,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

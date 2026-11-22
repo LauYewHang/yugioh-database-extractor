@@ -1,0 +1,12 @@
+{
+    "name": "Enlightenment",
+    "filename": "Enlightenment",
+    "card_text": "You cannot Summon the turn you activate this card. Activate at the end of the Damage Step, if a Spellcaster-Type monster you control attacked and destroyed an opponent's monster by battle. That monster can attack again (immediately).",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

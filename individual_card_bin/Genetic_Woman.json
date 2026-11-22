@@ -1,0 +1,17 @@
+{
+    "name": "Genetic Woman",
+    "filename": "Genetic_Woman",
+    "card_text": "Once per turn, you can pay 1000 Life Points and select 1 of your removed from play Psychic-Type monsters. Add it to your hand.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1700,
+    "defense": 1200,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

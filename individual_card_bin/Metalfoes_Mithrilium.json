@@ -1,0 +1,41 @@
+{
+    "name": "Metalfoes Mithrilium",
+    "filename": "Metalfoes_Mithrilium",
+    "card_text": "1 \"Metalfoes\" monster + 1 Pendulum Monster\nYou can target 2 \"Metalfoes\" cards in your GY and 1 card on the field; shuffle the targets from your GY into the Deck, and if you do, return the target on the field to the hand. You can only use this effect of \"Metalfoes Mithrilium\" once per turn. If this card is sent from the field to the GY: You can Special Summon 1 \"Metalfoes\" Pendulum Monster from your GY or face-up Extra Deck.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "2017 MEGA-TINS MEGA PACK",
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Fullmetalfoes Alkahest",
+        "Fullmetalfoes Fusion",
+        "Heavymetalfoes Amalgam",
+        "Heavymetalfoes Electrumite",
+        "Metalfoes Adamante",
+        "Metalfoes Combination",
+        "Metalfoes Counter",
+        "Metalfoes Crimsonite",
+        "Metalfoes Fusion",
+        "Metalfoes Goldriver",
+        "Metalfoes Orichalc",
+        "Metalfoes Silverd",
+        "Metalfoes Steelen",
+        "Metalfoes Vanisher",
+        "Metalfoes Volflame",
+        "Metamorformation",
+        "Parametalfoes Azortless",
+        "Parametalfoes Fusion",
+        "Parametalfoes Melcaster",
+        "Raremetalfoes Bismugear"
+    ],
+    "attribute": "FIRE",
+    "attack": 2600,
+    "defense": 1000,
+    "monster_type": "Psychic",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

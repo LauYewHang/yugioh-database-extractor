@@ -1,0 +1,36 @@
+{
+    "name": "Cipher Wing",
+    "filename": "Cipher_Wing",
+    "card_text": "If you control a \"Cipher\" monster, you can Special Summon this card (from your hand). You can Tribute this card; increase the Levels of all \"Cipher\" monsters you control by 4 until the end of this turn.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [
+        "Cipher Biplane",
+        "Cipher Bit",
+        "Cipher Etranger",
+        "Cipher Interference",
+        "Cipher Mirror Knight",
+        "Cipher Soldier (Updated from: Kinetic Soldier)",
+        "Cipher Spectrum",
+        "Cipher Twin Raptor",
+        "Double Cipher",
+        "Double Exposure",
+        "Galaxy-Eyes Cipher Blade Dragon",
+        "Galaxy-Eyes Cipher Dragon",
+        "Galaxy-Eyes Cipher X Dragon",
+        "Neo Galaxy-Eyes Cipher Dragon",
+        "Rank-Up-Magic Cipher Ascension",
+        "Storm Cipher"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

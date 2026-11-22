@@ -15,7 +15,9 @@
     "attack": 1850,
     "defense": 1700,
     "monster_type": "Machine",
-    "monster_card_type": 8,
+    "monster_card_type": [
+        "Fusion"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

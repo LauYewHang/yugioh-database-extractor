@@ -1,0 +1,21 @@
+{
+    "name": "Machine Angel Absolute Ritual",
+    "filename": "Machine_Angel_Absolute_Ritual",
+    "card_text": "This card can be used to Ritual Summon any \"Cyber Angel\" Ritual Monster. You must also Tribute monsters from your hand or field and/or shuffle Fairy or Warrior-Type monsters from your Graveyard into the Deck, whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [
+        "Cyber Angel Benten",
+        "Cyber Angel Dakini",
+        "Cyber Angel Idaten",
+        "Cyber Angel Izana",
+        "Cyber Angel Natasha",
+        "Cyber Angel Vrash",
+        "Cyber Egg Angel"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

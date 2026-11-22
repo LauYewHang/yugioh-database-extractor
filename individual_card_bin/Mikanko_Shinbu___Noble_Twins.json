@@ -1,0 +1,31 @@
+{
+    "name": "Mikanko Shinbu - Noble Twins",
+    "filename": "Mikanko_Shinbu___Noble_Twins",
+    "card_text": "Send 1 \"Mikanko\" card from your Deck to the GY, except \"Mikanko Shinbu - Noble Twins\", then you can Set 1 \"Mikanko\" Spell/Trap from your Deck, except \"Mikanko Shinbu - Noble Twins\". You cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves, except \"Mikanko\" monsters. You can banish this card from your GY and detach 1 material from a monster you control; Special Summon 1 \"Mikanko\" Ritual Monster from your hand or Deck. You can only use 1 \"Mikanko Shinbu - Noble Twins\" effect per turn, and only once that turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Arahime the Manifested Mikanko",
+        "Ha-Re the Sword Mikanko",
+        "Heavenly Gate of the Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Fire Dance",
+        "Mikanko Kagura",
+        "Mikanko Promise",
+        "Mikanko Purification Dance",
+        "Mikanko Reflection Rondo",
+        "Mikanko Rivalry",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Ohime the Manifested Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

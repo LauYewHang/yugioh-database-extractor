@@ -1,0 +1,24 @@
+{
+    "name": "Floowandereeze and the Advent of Adventure",
+    "filename": "Floowandereeze_and_the_Advent_of_Adventure",
+    "card_text": "Banish 1 Winged Beast monster from your hand or face-up field; add 1 \"Floowandereeze\" monster or \"Floowandereeze\" Field Spell from your Deck to your hand, then gain 500 LP. You can only activate 1 \"Floowandereeze and the Advent of Adventure\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Floowandereeze & Eglen",
+        "Floowandereeze & Empen",
+        "Floowandereeze & Robina",
+        "Floowandereeze & Snowl",
+        "Floowandereeze & Stri",
+        "Floowandereeze & Toccan",
+        "Floowandereeze and the Dreaming Town",
+        "Floowandereeze and the Magnificent Map",
+        "Floowandereeze and the Scary Sea",
+        "Floowandereeze and the Unexplored Winds"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -79,7 +79,10 @@
     "attack": 200,
     "defense": 200,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "",

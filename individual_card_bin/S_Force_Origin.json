@@ -1,0 +1,32 @@
+{
+    "name": "S-Force Origin",
+    "filename": "S_Force_Origin",
+    "card_text": "Special Summon 1 \"S-Force\" monster from your hand, GY, or banishment, but banish it when it leaves the field. If another card is banished, while this card is in your GY (except during the Damage Step): You can banish this card; take 2 \"S-Force\" cards from your Deck, except \"S-Force Origin\", banish 1 of them, and send the other to the GY. You can only use each effect of \"S-Force Origin\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

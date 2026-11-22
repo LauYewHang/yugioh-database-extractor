@@ -1,0 +1,37 @@
+{
+    "name": "Yasha, the Skeletal Mayakashi",
+    "filename": "Yasha__the_Skeletal_Mayakashi",
+    "card_text": "You can discard 1 other \"Mayakashi\" monster; Special Summon this card from your hand. You can only use this effect of \"Yasha, the Skeletal Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS"
+    ],
+    "related_card": [
+        "Dakki, the Graceful Mayakashi",
+        "Gashadokuro, the Skeletal Mayakashi",
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Mayakashi's Manuscript",
+        "Hajun, the Winged Mayakashi",
+        "Mayakashi Mayhem",
+        "Mayakashi Metamorphosis",
+        "Mayakashi Return",
+        "Mayakashi Winter",
+        "Oboro-Guruma, the Wheeled Mayakashi",
+        "Shafu, the Wheeled Mayakashi",
+        "Tengu, the Winged Mayakashi",
+        "Tsuchigumo, the Poisonous Mayakashi",
+        "Tsukahagi, the Poisonous Mayakashi",
+        "Yoko, the Graceful Mayakashi",
+        "Yuki-Musume, the Ice Mayakashi",
+        "Yuki-Onna, the Absolute Zero Mayakashi",
+        "Yuki-Onna, the Ice Mayakashi",
+        "Yuki-Onna, the Icicle Mayakashi"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

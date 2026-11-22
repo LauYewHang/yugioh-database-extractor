@@ -1,0 +1,20 @@
+{
+    "name": "Invader of the Throne",
+    "filename": "Invader_of_the_Throne",
+    "card_text": "FLIP: Target 1 monster your opponent controls; switch control of it with this card. This effect cannot be activated during the Battle Phase.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "SPELL RULER",
+        "DARK BEGINNING 1",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1350,
+    "defense": 1700,
+    "monster_type": "Warrior",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

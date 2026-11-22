@@ -1,0 +1,14 @@
+{
+    "name": "Trap of the Imperial Tomb",
+    "filename": "Trap_of_the_Imperial_Tomb",
+    "card_text": "When a Zombie monster(s) is Special Summoned from your opponent's GY to your field: Target 2 cards on the field; destroy them.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "CROSSROADS OF CHAOS",
+        "STRUCTURE DECK: ZOMBIE HORDE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

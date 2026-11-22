@@ -1,0 +1,18 @@
+{
+    "name": "Dark Spirit of Banishment",
+    "filename": "Dark_Spirit_of_Banishment",
+    "card_text": "If your opponent's monster attacks, at the start of the Damage Step: You can send this card from your hand or field to the GY, then target 1 Level 8 Fiend monster in your GY; Special Summon it, but its effects are negated, and if you do, change the attack target to it and perform damage calculation. If a Level 8 Fiend monster(s) is sent to your GY while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use each effect of \"Dark Spirit of Banishment\" once per turn.",
+    "release_date": "2019-09-27",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

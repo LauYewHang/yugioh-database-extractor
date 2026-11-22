@@ -1,0 +1,18 @@
+{
+    "name": "D.D. Assault Carrier",
+    "filename": "D_D__Assault_Carrier",
+    "card_text": "Cannot declare an attack unless you banish 1 card from your GY. If exactly 3 of your cards are banished: You can Special Summon this card from your hand. You can only use this effect of \"D.D. Assault Carrier\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

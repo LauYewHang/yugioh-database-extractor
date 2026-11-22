@@ -28,7 +28,13 @@
     "attack": 1600,
     "defense": null,
     "monster_type": "Dragon",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 2,
-    "link_arrow": 260
+    "link_arrow": [
+        "Top-Center",
+        "Bottom-Center"
+    ]
 }

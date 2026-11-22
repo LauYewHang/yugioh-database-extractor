@@ -1,0 +1,40 @@
+{
+    "name": "Fenrir the Nordic Wolf",
+    "filename": "Fenrir_the_Nordic_Wolf",
+    "card_text": "Cannot be Normal Summoned/Set. During your Main Phase 2, if an \"Aesir\" monster is on the field, you can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position. If an \"Aesir\" monster is not on the field, destroy this card. At the start of your Battle Phase: Change all Defense Position monsters you control to face-up Attack Position. Both players take any battle damage from attacks involving this card.",
+    "release_date": "2014-10-24",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's"
+    ],
+    "related_card": [
+        "Alviss of the Nordic Alfar",
+        "Dverg of the Nordic Alfar",
+        "Gleipnir, the Fetters of Fenrir",
+        "Gullveig of the Nordic Ascendant",
+        "Ljosalf of the Nordic Alfar",
+        "Loki, Lord of the Aesir",
+        "Mara of the Nordic Alfar",
+        "Mimir of the Nordic Ascendant",
+        "Nordic Beast Gullinbursti",
+        "Nordic Relic Draupnir",
+        "Nordic Relic Gungnir",
+        "Nordic Relic Hlidskjalf",
+        "Nordic Relic Megingjord",
+        "Nordic Relic Svalinn",
+        "Nordic Smith Ivaldi",
+        "Odin, Father of the Aesir",
+        "Svartalf of the Nordic Alfar",
+        "The Nordic Lights",
+        "Thor, Lord of the Aesir",
+        "Tyr of the Nordic Champions",
+        "Valkyrie of the Nordic Ascendant",
+        "Vanadis of the Nordic Ascendant"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

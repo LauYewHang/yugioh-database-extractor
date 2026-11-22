@@ -1,0 +1,19 @@
+{
+    "name": "Toon Briefcase",
+    "filename": "Toon_Briefcase",
+    "card_text": "When your opponent Summons a monster(s) while you control a Toon monster: Shuffle that monster(s) into the Deck.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Evil Box",
+        "Funny Dark Rabbit",
+        "Mind Scan",
+        "Toon Dark Magician",
+        "Toon Table of Contents"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

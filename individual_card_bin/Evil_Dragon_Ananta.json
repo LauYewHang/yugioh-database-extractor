@@ -1,0 +1,18 @@
+{
+    "name": "Evil Dragon Ananta",
+    "filename": "Evil_Dragon_Ananta",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by banishing all Reptile monsters you control and in your GY. This card's ATK/DEF become the number of monsters banished for its Special Summon x 600. Once per turn, during your End Phase: Target 1 card on the field; destroy that target.",
+    "release_date": "2008-07-31",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS",
+        "PREMIUM PACK 2"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

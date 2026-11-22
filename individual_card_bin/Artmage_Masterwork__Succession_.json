@@ -1,0 +1,30 @@
+{
+    "name": "Artmage Masterwork -Succession-",
+    "filename": "Artmage_Masterwork__Succession_",
+    "card_text": "During the Main Phase: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, including an \"Artmage\" monster, and if a card is in the Field Zone, that monster gains 500 ATK. During your Main Phase: You can banish this card from your GY, then target 3 \"Artmage\" cards with different names in your GY; shuffle them into the Deck. You can only use each effect of \"Artmage Masterwork -Succession-\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Artmage Academic Arcane Arts Acropolis",
+        "Artmage Diactorus",
+        "Artmage Finmel",
+        "Artmage Graflare",
+        "Artmage Impasto -Recapture-",
+        "Artmage Litera",
+        "Artmage Movement -Pedigree-",
+        "Artmage Non-Finito",
+        "Artmage Pact -Awakening-",
+        "Artmage Peripeteia -Turmoil-",
+        "Artmage Power Patron",
+        "Artmage Vandalism -Assault-",
+        "Artmage Varnish -Alteration-",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Theorealize Past Lull"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

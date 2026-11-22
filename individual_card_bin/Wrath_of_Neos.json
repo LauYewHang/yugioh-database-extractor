@@ -1,0 +1,21 @@
+{
+    "name": "Wrath of Neos",
+    "filename": "Wrath_of_Neos",
+    "card_text": "Target 1 \"Elemental HERO Neos\" in your Monster Zone; shuffle that \"Elemental HERO Neos\" into the Deck, and if you do, destroy all cards on the field.",
+    "release_date": "2009-11-10",
+    "available_set": [
+        "DUEL TERMINAL 1",
+        "HIDDEN ARSENAL",
+        "HIDDEN ARSENAL CHAPTER 1"
+    ],
+    "related_card": [
+        "Elemental HERO Brave Neos",
+        "Elemental HERO Divine Neos",
+        "Elemental HERO Neos",
+        "Elemental HERO Neos Alius",
+        "Elemental HERO Spirit of Neos",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rainbow Kuriboh",
+    "filename": "Rainbow_Kuriboh",
+    "card_text": "You can only use each effect of \"Rainbow Kuriboh\" once per turn.\n\u25cfWhen an opponent's monster declares an attack: You can target that attacking monster; equip this card from your hand to that monster. It cannot attack.\n\u25cfWhen an opponent's monster declares a direct attack while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "ADVENT CALENDAR 2019",
+        "LEGACY OF THE VALIANT",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Generation Next",
+        "Kuribee",
+        "Kuribohrn",
+        "Skilled Brown Magician"
+    ],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

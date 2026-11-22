@@ -1,0 +1,12 @@
+{
+    "name": "D.D.D. - Different Dimension Derby",
+    "filename": "D_D_D____Different_Dimension_Derby",
+    "card_text": "If you control a face-up monster that was Ritual Summoned using a Normal Monster, or was Fusion, Synchro, Xyz, or Link Summoned using a Normal Monster as material: You can target 1 card on the field; banish it.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

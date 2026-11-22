@@ -1,0 +1,21 @@
+{
+    "name": "Twin-Barrel Dragon",
+    "filename": "Twin_Barrel_Dragon",
+    "card_text": "If this card is Summoned: Target 1 card your opponent controls; toss a coin twice, and if the result is 2 heads, destroy it.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "Speed Duel: Battle City Box",
+        "THE DUELIST GENESIS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

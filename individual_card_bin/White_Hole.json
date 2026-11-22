@@ -1,0 +1,30 @@
+{
+    "name": "White Hole",
+    "filename": "White_Hole",
+    "card_text": "When your opponent activates \"Dark Hole\": Monsters you control cannot be destroyed by that \"Dark Hole's\" effect.",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "TOURNAMENT PACK 3RD SEASON",
+        "TURBO PACK BOOSTER FOUR",
+        "TOURNAMENT PACK 1ST SEASON",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [
+        "Dark Hole",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

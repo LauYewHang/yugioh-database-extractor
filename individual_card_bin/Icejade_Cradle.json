@@ -1,0 +1,27 @@
+{
+    "name": "Icejade Cradle",
+    "filename": "Icejade_Cradle",
+    "card_text": "Add 1 \"Icejade\" monster from your Deck to your hand with a different name from the cards you control or in your GY.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Icejade Acti",
+        "Icejade Aegirine",
+        "Icejade Cenote Enion Cradle",
+        "Icejade Creation Aegirocassis",
+        "Icejade Creation Kingfisher",
+        "Icejade Curse",
+        "Icejade Erosion",
+        "Icejade Gymir Aegirine",
+        "Icejade Kosmochlor",
+        "Icejade Manifestation",
+        "Icejade Ran Aegirine",
+        "Icejade Tinola",
+        "Icejade Tremora"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Daidara-Bocchi",
+    "filename": "Daidara_Bocchi",
+    "card_text": "Cannot be Special Summoned. You can Tribute Summon this card face-up by Tributing 1 Zombie monster. Gains 200 ATK for each Zombie monster you control, except this card. At the start of your Main Phase 1, if you have this card, and 2 or more Zombie monsters other than \"Daidara-Bocchi\", in your GY: You can discard 1 card; add this card to your hand.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2900,
+    "defense": 2500,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

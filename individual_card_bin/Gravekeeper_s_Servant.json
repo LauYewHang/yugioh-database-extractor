@@ -1,0 +1,38 @@
+{
+    "name": "Gravekeeper's Servant",
+    "filename": "Gravekeeper_s_Servant",
+    "card_text": "Unless your opponent sends 1 card from the top of his/her Deck to the Graveyard, he/she cannot declare an attack.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "DARK BEGINNING 1",
+        "RETRO PACK",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [
+        "Charm of Shabti",
+        "Gravekeeper's Cannonholder",
+        "Gravekeeper's Chief",
+        "Gravekeeper's Descendant",
+        "Gravekeeper's Headman",
+        "Gravekeeper's Nobleman",
+        "Gravekeeper's Oracle",
+        "Gravekeeper's Priestess",
+        "Gravekeeper's Recruiter",
+        "Gravekeeper's Shaman",
+        "Gravekeeper's Spy",
+        "Gravekeeper's Stele",
+        "Gravekeeper's Supernaturalist",
+        "Gravekeeper's Trap",
+        "Gravekeeper's Visionary",
+        "Hidden Temples of Necrovalley",
+        "Imperial Tombs of Necrovalley",
+        "Necrovalley",
+        "Necrovalley Temple",
+        "Necrovalley Throne",
+        "Rite of Spirit"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

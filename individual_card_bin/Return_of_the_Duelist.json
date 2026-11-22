@@ -1,0 +1,12 @@
+{
+    "name": "Return of the Duelist",
+    "filename": "Return_of_the_Duelist",
+    "card_text": "If an Xyz Monster is on the field or in either GY: Add 1 Equip Spell from your Deck or GY to your hand. You can only activate 1 \"Return of the Duelist\" per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

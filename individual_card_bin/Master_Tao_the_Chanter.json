@@ -1,0 +1,19 @@
+{
+    "name": "Master Tao the Chanter",
+    "filename": "Master_Tao_the_Chanter",
+    "card_text": "If this card battles a monster, neither can be destroyed by that battle. If this card is sent to the GY: You can target 1 Illusion monster in your GY, except \"Master Tao the Chanter\"; Special Summon it in Defense Position, also you cannot Special Summon from the GY for the rest of this turn, except Illusion monsters. You can only use this effect of \"Master Tao the Chanter\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "Phantom Revenge",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 900,
+    "monster_type": "Illusion",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Fire Reaper",
+    "filename": "Fire_Reaper",
+    "card_text": "A reaper with a flaming arrow that burns an enemy to a crisp.",
+    "release_date": "2019-08-02",
+    "available_set": [
+        "SPEED DUEL: SCARS OF BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 700,
+    "defense": 500,
+    "monster_type": "Zombie",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

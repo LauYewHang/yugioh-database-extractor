@@ -1,0 +1,17 @@
+{
+    "name": "Driangle, Dragon of the Dark Deep",
+    "filename": "Driangle__Dragon_of_the_Dark_Deep",
+    "card_text": "If 3 or more Level 10 monsters are in your field, GY, and/or banishment, while this card is in your hand: You can Special Summon this card. If this card is Special Summoned: You can send the top card of your Deck to the GY; this card gains 500 ATK, then if the card sent to the GY was a monster, inflict 1000 damage to your opponent, otherwise, you can send the new top card of your Deck to the GY. You can only use each effect of \"Driangle, Dragon of the Dark Deep\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2100,
+    "defense": 3100,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

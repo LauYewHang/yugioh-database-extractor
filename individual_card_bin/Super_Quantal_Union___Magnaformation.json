@@ -1,0 +1,31 @@
+{
+    "name": "Super Quantal Union - Magnaformation",
+    "filename": "Super_Quantal_Union___Magnaformation",
+    "card_text": "Your opponent cannot target \"Super Quant\" cards on the field with card effects during your Main Phase 1. You can target 1 \"Super Quant\" Xyz Monster you control; attach 1 other face-up monster you control to it as material. You can only use this effect of \"Super Quantal Union - Magnaformation\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphan Spike",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech Beast Aeroboros",
+        "Super Quantal Mech Beast Grampulse",
+        "Super Quantal Mech Beast Lusterrex",
+        "Super Quantal Mech Beast Magnaliger",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

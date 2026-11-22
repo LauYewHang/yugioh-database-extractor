@@ -1,0 +1,39 @@
+{
+    "name": "Crystal Clear Wing Synchro Dragon",
+    "filename": "Crystal_Clear_Wing_Synchro_Dragon",
+    "card_text": "1 Tuner Synchro Monster + 1 non-Tuner \"Clear Wing\" monster\nOnce per turn, when your opponent activates a monster effect (except during the Damage Step) (Quick Effect): You can activate this effect; until the end of this turn, this face-up card is unaffected by the activated effects of your opponent's monsters, also this card gains ATK equal to that opponent's monster's original ATK. Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Synchro Summoned card you control is sent to your GY by an opponent's card: You can add 1 WIND monster from your Deck to your hand.",
+    "release_date": "2021-10-29",
+    "available_set": [
+        "LEGENDARY ARC-V DECKS",
+        "LEGENDARY DUELISTS: SYNCHRO STORM",
+        "2025 MEGA-PACK TIN",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Astrograph Sorcerer",
+        "Chronograph Sorcerer",
+        "Clear Wing Fast Dragon",
+        "Clear Wing Synchro Dragon",
+        "Clear Wing Synchro Dragon, Four Heavenly Dragons",
+        "Crystal Clear Wing Over Synchro Dragon",
+        "Hi-Speedroid Clear Wing Rider",
+        "Hi-Speedroid Glider #2",
+        "Odd-Eyes Wing Dragon",
+        "Soul of the Supreme Celestial King",
+        "Soul of the Supreme King",
+        "Speedroid Clear Wing Wonder",
+        "Speedroid Colonel Clackers",
+        "Speedroid Darumaknocker",
+        "Starving Venom Wing Dragon",
+        "Supreme King Dragon Clear Wing",
+        "Supreme King Gate Magician",
+        "White Wing Magician"
+    ],
+    "attribute": "WIND",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

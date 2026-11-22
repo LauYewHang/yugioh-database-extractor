@@ -1,0 +1,29 @@
+{
+    "name": "Cubic Ascension",
+    "filename": "Cubic_Ascension",
+    "card_text": "When an opponent's monster declares an attack: Special Summon 1 \"Vijam the Cubic Seed\" from your Deck, and if you do, change the attack target to it, and perform damage calculation. If your opponent's LP are at least 2000 higher than yours: You can banish this card from your GY; Special Summon 1 \"Vijam the Cubic Seed\" from your hand, Deck, or GY, then, if only your opponent controlled a monster when this effect was activated, you can Special Summon up to 2 more \"Vijam the Cubic Seed\". You can only use this effect of \"Cubic Ascension\" once per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Blade Garoodia the Cubic Beast",
+        "Buster Gundil the Cubic Behemoth",
+        "Crimson Nova the Dark Cubic Lord",
+        "Cubic Causality",
+        "Cubic Dharma",
+        "Cubic Karma",
+        "Cubic Mandala",
+        "Cubic Rebirth",
+        "Cubic Wave",
+        "Dark Garnex the Cubic Beast",
+        "Duza the Meteor Cubic Vessel",
+        "Geira Guile the Cubic King",
+        "Indiora Doom Volt the Cubic Emperor",
+        "Unification of the Cubic Lords",
+        "Vijam the Cubic Seed",
+        "Vulcan Dragni the Cubic King"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

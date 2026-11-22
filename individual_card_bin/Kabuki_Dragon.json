@@ -1,0 +1,17 @@
+{
+    "name": "Kabuki Dragon",
+    "filename": "Kabuki_Dragon",
+    "card_text": "Once per turn, before damage calculation, if your monster attacked an opponent's monster: You can change the battle position of that monster your opponent controls. Once per turn, before damage calculation, if an opponent's monster attacked your monster: You can change the battle position of that monster you control.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 2100,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

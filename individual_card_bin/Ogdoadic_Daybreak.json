@@ -1,0 +1,19 @@
+{
+    "name": "Ogdoadic Daybreak",
+    "filename": "Ogdoadic_Daybreak",
+    "card_text": "Tribute 1 Reptile monster; for every 2 Levels that Tributed monster had on the field, Special Summon up to 1 \"Ogdoadic Token\" (Reptile/DARK/Level 2/ATK 0/DEF 0). During your Main Phase: You can banish this card from your GY, then target 1 of your banished Reptile monsters; shuffle it into the Deck, then you can send 1 Reptile monster from your Deck to the GY. You can only use each effect of \"Ogdoadic Daybreak\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Keurse, the Ogdoadic Light",
+        "Nauya, the Ogdoadic Remnant",
+        "Nunu, the Ogdoadic Remnant",
+        "Ogdoadic Calling",
+        "Zohah, the Ogdoadic Boundless"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

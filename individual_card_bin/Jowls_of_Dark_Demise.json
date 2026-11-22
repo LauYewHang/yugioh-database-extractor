@@ -1,0 +1,19 @@
+{
+    "name": "Jowls of Dark Demise",
+    "filename": "Jowls_of_Dark_Demise",
+    "card_text": "FLIP: Target 1 monster your opponent controls; gain control of it (until the End Phase), and if you do, it can attack your opponent directly this turn.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 200,
+    "defense": 100,
+    "monster_type": "Fiend",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

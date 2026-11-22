@@ -1,0 +1,23 @@
+{
+    "name": "Fallen Paradise",
+    "filename": "Fallen_Paradise",
+    "card_text": "Your opponent cannot target \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\", or \"Armityle the Chaos Phantasm\" in your Monster Zones with card effects, also those monsters cannot be destroyed by your opponent's card effects while you control them. If you control \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\" or \"Armityle the Chaos Phantasm\" in your Monster Zone: You can draw 2 cards. You can only use this effect of \"Fallen Paradise\" once per turn.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STRUCTURE DECK: SACRED BEASTS",
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Armityle the Chaos Phantasm (Updated from: Armityle the Chaos Phantom)",
+        "Armityle the Chaos Phantasm - Phantom of Fury",
+        "Chaos Summoning Beast",
+        "Dark Beckoning Beast",
+        "Hamon, Lord of Striking Thunder",
+        "Opening of the Spirit Gates",
+        "Raviel, Lord of Phantasms",
+        "Uria, Lord of Searing Flames"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Divine Relic Mjollnir",
+    "filename": "Divine_Relic_Mjollnir",
+    "card_text": "Target 1 \"Aesir\" monster you control; it can make a second attack during each Battle Phase this turn.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Loki, Lord of the Aesir",
+        "Odin, Father of the Aesir",
+        "Thor, Lord of the Aesir"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

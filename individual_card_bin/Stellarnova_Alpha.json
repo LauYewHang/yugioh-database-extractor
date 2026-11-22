@@ -1,0 +1,43 @@
+{
+    "name": "Stellarnova Alpha",
+    "filename": "Stellarnova_Alpha",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated: Send 1 face-up \"tellarknight\" monster you control to the GY; negate the activation, and if you do, destroy that card, then draw 1 card.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Constellar Tellarknights",
+        "Darktellarknight Batlamyus",
+        "Exstellarknight Constellar Ptolemy \u03a97",
+        "Hexatellarknight",
+        "Satellarknight Alsahm",
+        "Satellarknight Altair",
+        "Satellarknight Betelgeuse",
+        "Satellarknight Capella",
+        "Satellarknight Deneb",
+        "Satellarknight Procyon",
+        "Satellarknight Rigel",
+        "Satellarknight Sirius",
+        "Satellarknight Skybridge",
+        "Satellarknight Unukalhai",
+        "Satellarknight Vega",
+        "Satellarknight Zefrathuban",
+        "Stellarknight Alpha",
+        "Stellarknight Constellar Diamond",
+        "Stellarknight Delteros",
+        "Stellarknight Triverr",
+        "Stellarknight Zefraxciton",
+        "Tellarknight Altairan",
+        "Tellarknight Constellar Caduceus",
+        "Tellarknight Constellar Delteros",
+        "Tellarknight Cygnian",
+        "Tellarknight Genesis",
+        "Tellarknight Lyran",
+        "Tellarknight Ptolemaeus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

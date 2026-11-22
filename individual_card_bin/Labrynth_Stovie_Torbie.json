@@ -1,0 +1,34 @@
+{
+    "name": "Labrynth Stovie Torbie",
+    "filename": "Labrynth_Stovie_Torbie",
+    "card_text": "(Quick Effect): You can send this card from your hand or field to the GY and discard 1 card; Set 1 \"Labrynth\" Spell/Trap from your hand or Deck. If a monster(s) leaves the field by your Normal Trap effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Labrynth Stovie Torbie\" once per turn.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "OTS TOURNAMENT PACK 23",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "TACTICAL MASTERS"
+    ],
+    "related_card": [
+        "Ariane the Labrynth Servant",
+        "Arianna the Labrynth Servant",
+        "Arias the Labrynth Butler",
+        "Big Welcome Labrynth",
+        "Farewelcome Labrynth",
+        "Labrynth Archfiend",
+        "Labrynth Barrage",
+        "Labrynth Chandraglier",
+        "Labrynth Cooclock",
+        "Labrynth Labyrinth",
+        "Labrynth Set-Up",
+        "Lady Labrynth of the Silver Castle",
+        "Lovely Labrynth of the Silver Castle",
+        "Welcome Labrynth"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

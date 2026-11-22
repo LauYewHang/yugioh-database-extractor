@@ -1,0 +1,32 @@
+{
+    "name": "Treacherous Trap Hole",
+    "filename": "Treacherous_Trap_Hole",
+    "card_text": "If you have no Traps in your GY: Target 2 monsters on the field; destroy those targets.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "MAZE OF MEMORIES",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "CROSSROADS OF CHAOS",
+        "TURBO PACK BOOSTER THREE",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

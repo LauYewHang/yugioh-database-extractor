@@ -1,0 +1,21 @@
+{
+    "name": "G Golem Invalid Dolmen",
+    "filename": "G_Golem_Invalid_Dolmen",
+    "card_text": "2+ EARTH monsters\nCo-linked monsters you control are unaffected by monster effects activated on your opponent's field. All monsters your opponent controls that can attack must attack this card. Once per turn: You can discard 1 Cyberse monster; draw 1 card. If this co-linked card is destroyed: You can negate the effects of all face-up cards your opponent currently controls.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "G Golem Pebble Dog",
+        "Gouki Gameface",
+        "Gravity Balance"
+    ],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 336
+}

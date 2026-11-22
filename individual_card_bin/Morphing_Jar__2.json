@@ -1,0 +1,23 @@
+{
+    "name": "Morphing Jar #2",
+    "filename": "Morphing_Jar__2",
+    "card_text": "FLIP: Shuffle all monsters on the field into the Deck. Then, each player excavates cards from the top of their Deck, until they excavate the same number of monsters they shuffled into their Main Deck. Special Summon all excavated Level 4 or lower monsters in face-down Defense Position, also send the remaining cards to the GY.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "PHARAOH'S SERVANT",
+        "QUARTER CENTURY BONANZA",
+        "DARK BEGINNING 1",
+        "STAR PACK 2014",
+        "ASTRAL PACK FOUR",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 700,
+    "monster_type": "Rock",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

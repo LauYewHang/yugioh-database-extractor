@@ -1,0 +1,17 @@
+{
+    "name": "Bubble Illusion",
+    "filename": "Bubble_Illusion",
+    "card_text": "You can only activate this card while there is a face-up \"Elemental Hero Bubbleman\" on your side of the field. During this turn, you can activate 1 Trap Card from your hand.",
+    "release_date": "2006-02-08",
+    "available_set": [
+        "DUELIST PACK - JADEN YUKI -"
+    ],
+    "related_card": [
+        "Elemental HERO Bubbleman",
+        "Elemental HERO Neo Bubbleman",
+        "Elemental HERO Spirit of Neos",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

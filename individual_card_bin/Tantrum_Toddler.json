@@ -1,0 +1,17 @@
+{
+    "name": "Tantrum Toddler",
+    "filename": "Tantrum_Toddler",
+    "card_text": "2 Level 1 monsters\nOnce per Chain, if a card or effect activation is negated (except during the Damage Step): You can attach up to 1 card each from your GY and your opponent's GY to this card as material. This card gains effects based on the number of materials attached to it.\n\u25cf1+: Gains 700 ATK/DEF for each material attached to it.\n\u25cf4+: Cannot be destroyed by battle or card effects.\n\u25cf8+: (Quick Effect): You can detach 4 materials from this card; destroy all cards on the field.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Beast",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 1
+}

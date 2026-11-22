@@ -1,0 +1,32 @@
+{
+    "name": "Myutant GB-88",
+    "filename": "Myutant_GB_88",
+    "card_text": "During your opponent's Main Phase, if \"Myutant Evolution Lab\" is in your Field Zone (Quick Effect): You can Special Summon this card from your hand. If this card is Special Summoned during your opponent's turn: You can Tribute this card, then banish 1 card from your hand or face-up field; Special Summon 1 of your Level 8 \"Myutant\" monsters that is banished or in your GY. You can only use each effect of \"Myutant GB-88\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Myutant Arsenal",
+        "Myutant Beast",
+        "Myutant Blast",
+        "Myutant Clash",
+        "Myutant Cry",
+        "Myutant Evolution Lab",
+        "Myutant Expansion",
+        "Myutant Fusion",
+        "Myutant M-05",
+        "Myutant Mist",
+        "Myutant Mutant",
+        "Myutant ST-46",
+        "Myutant Synthesis",
+        "Myutant Ultimus"
+    ],
+    "attribute": "WATER",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

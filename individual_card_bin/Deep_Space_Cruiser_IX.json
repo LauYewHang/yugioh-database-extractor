@@ -1,0 +1,17 @@
+{
+    "name": "Deep-Space Cruiser IX",
+    "filename": "Deep_Space_Cruiser_IX",
+    "card_text": "You can Special Summon this card (from your hand) by sending 1 other Machine-Type monster from your hand to the Graveyard.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 900,
+    "defense": 900,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Geargiaccelerator",
+    "filename": "Geargiaccelerator",
+    "card_text": "If you control a \"Geargia\" monster, you can Special Summon this card (from your hand) in Defense Position. When this card is sent from the field to the Graveyard: You can target 1 \"Geargia\" monster in your Graveyard, except \"Geargiaccelerator\"; add that target to your hand.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "ASTRAL PACK TWO",
+        "GEARGIA RAMPAGE STRUCTURE DECK",
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Gear Gigant X",
+        "Geargia Change",
+        "Geargiagear",
+        "Geargiagear Gigant XG",
+        "Geargianchor",
+        "Geargiano",
+        "Geargiano Mk-II",
+        "Geargiano Mk-III",
+        "Geargiarmor",
+        "Geargiarsenal",
+        "Geargiattacker",
+        "Geargiauger"
+    ],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 800,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

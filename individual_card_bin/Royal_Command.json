@@ -1,0 +1,16 @@
+{
+    "name": "Royal Command",
+    "filename": "Royal_Command",
+    "card_text": "Flip monsters' effects cannot be activated, also their effects are negated.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "TURBO PACK BOOSTER FIVE",
+        "DARK BEGINNING 2",
+        "ASTRAL PACK SIX",
+        "GOLD SERIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

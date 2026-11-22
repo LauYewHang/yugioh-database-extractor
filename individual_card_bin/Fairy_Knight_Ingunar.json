@@ -1,0 +1,17 @@
+{
+    "name": "Fairy Knight Ingunar",
+    "filename": "Fairy_Knight_Ingunar",
+    "card_text": "3 Level 6 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; return all other cards on the field to the hand. Your opponent cannot activate cards or effects in response to this effect's activation.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 3000,
+    "monster_type": "Plant",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

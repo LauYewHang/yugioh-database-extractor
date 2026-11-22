@@ -1,0 +1,39 @@
+{
+    "name": "Luna Light Perfume",
+    "filename": "Luna_Light_Perfume",
+    "card_text": "Target 1 \"Lunalight\" monster in your GY; Special Summon it. You can banish this card from your GY, then discard 1 card; add 1 \"Lunalight\" monster from your Deck to your hand.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "LEGENDARY ARC-V DECKS",
+        "THE DARK ILLUSION",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Lunalight Black Sheep",
+        "Lunalight Blue Cat",
+        "Lunalight Cat Dancer",
+        "Lunalight Crimson Fox",
+        "Lunalight Emerald Bird",
+        "Lunalight Fusion",
+        "Lunalight Gold Leo",
+        "Lunalight Kaleido Chick",
+        "Lunalight Leo Dancer",
+        "Lunalight Liger Dancer",
+        "Lunalight Masquerade",
+        "Lunalight Panther Dancer",
+        "Lunalight Perfume Dancer",
+        "Lunalight Purple Butterfly",
+        "Lunalight Reincarnation Dance",
+        "Lunalight Sabre Dancer",
+        "Lunalight Scarlet Tiger",
+        "Lunalight Serenade Dance",
+        "Lunalight Silver Hound",
+        "Lunalight Tiger",
+        "Lunalight White Rabbit",
+        "Lunalight Wolf",
+        "Lunalight Yellow Marten"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

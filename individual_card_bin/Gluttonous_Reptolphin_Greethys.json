@@ -1,0 +1,18 @@
+{
+    "name": "Gluttonous Reptolphin Greethys",
+    "filename": "Gluttonous_Reptolphin_Greethys",
+    "card_text": "You can target 1 Fish, Sea Serpent, or Aqua monster in your GY with an equal or lower Level than the number of cards in your opponent's hand; Special Summon it, but it cannot activate its effects this turn. You can only use this effect of \"Gluttonous Reptolphin Greethys\" once per turn. If this card is sent to the GY as Synchro Material: You can make the Synchro Monster that used this card as material gain 200 ATK/DEF for each card currently in your opponent's hand.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Fish",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

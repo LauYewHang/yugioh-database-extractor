@@ -1,0 +1,31 @@
+{
+    "name": "Time Thief Temporwhal",
+    "filename": "Time_Thief_Temporwhal",
+    "card_text": "You can Tribute this card, then target 1 monster your opponent controls; banish it until the End Phase. If this card is in your GY: You can target 1 \"Time Thief\" monster you control, except \"Time Thief Temporwhal\"; return that monster to the hand, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Time Thief Temporwhal\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Time Thief Adjuster",
+        "Time Thief Bezel Ship",
+        "Time Thief Chronocorder",
+        "Time Thief Double Barrel",
+        "Time Thief Flyback",
+        "Time Thief Hack",
+        "Time Thief Perpetua",
+        "Time Thief Power Reserve",
+        "Time Thief Redoer",
+        "Time Thief Regulator",
+        "Time Thief Retrograde",
+        "Time Thief Startup",
+        "Time Thief Winder"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

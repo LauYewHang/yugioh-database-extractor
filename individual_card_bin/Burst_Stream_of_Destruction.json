@@ -1,0 +1,32 @@
+{
+    "name": "Burst Stream of Destruction",
+    "filename": "Burst_Stream_of_Destruction",
+    "card_text": "If you control \"Blue-Eyes White Dragon\": Destroy all monsters your opponent controls. \"Blue-Eyes White Dragon\" you control cannot attack the turn you activate this card.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "ANCIENT SANCTUARY",
+        "DUEL TERMINAL - PREVIEW WAVE 1",
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "STRUCTURE DECK : SETO KAIBA",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "LEGENDARY DECKS II",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "STARTER DECK KAIBA RELOADED",
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DUEL TERMINAL 1",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY"
+    ],
+    "related_card": [
+        "Bingo Machine, Go!!!",
+        "Blue-Eyes Alternative White Dragon",
+        "Blue-Eyes White Dragon",
+        "Chronicle Sorceress",
+        "Dictator of D.",
+        "Mausoleum of White"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

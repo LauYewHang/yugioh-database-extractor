@@ -1,0 +1,14 @@
+{
+    "name": "Synchro Ejection",
+    "filename": "Synchro_Ejection",
+    "card_text": "Select 1 face-up Synchro Monster your opponent controls and remove it from play. Then, your opponent draws 1 card.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

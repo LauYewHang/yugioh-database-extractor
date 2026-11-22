@@ -1,0 +1,17 @@
+{
+    "name": "Ancient Rules",
+    "filename": "Ancient_Rules",
+    "card_text": "Special Summon 1 Level 5 or higher Normal Monster from your hand.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "STARTER DECK YUGI RELOADED",
+        "CHAMPION PACK GAME SEVEN",
+        "LEGENDARY DECKS II",
+        "STRIKE OF NEOS",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DUELIST LEAGUE 13"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

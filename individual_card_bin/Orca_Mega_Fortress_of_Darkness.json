@@ -1,0 +1,22 @@
+{
+    "name": "Orca Mega-Fortress of Darkness",
+    "filename": "Orca_Mega_Fortress_of_Darkness",
+    "card_text": "By tributing 1 \"Torpedo Fish\" on your side of the field, destroy 1 monster on the field. By Tributing 1 \"Cannonball Spear Shellfish\" on your side of the field, destroy 1 Spell or Trap Card on the field.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "INVASION OF CHAOS"
+    ],
+    "related_card": [
+        "Cannonball Spear Shellfish",
+        "Torpedo Fish"
+    ],
+    "attribute": "WATER",
+    "attack": 2100,
+    "defense": 1200,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Flamvell Poun",
+    "filename": "Flamvell_Poun",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard: You can add 1 monster with 200 DEF from your Deck to your hand.",
+    "release_date": "2010-01-29",
+    "available_set": [
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "DUEL TERMINAL 1",
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [
+        "Flamvell Archer",
+        "Flamvell Commando",
+        "Neo Flamvell Garuda",
+        "Neo Flamvell Origin",
+        "Neo Flamvell Shaman"
+    ],
+    "attribute": "FIRE",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

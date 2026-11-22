@@ -1,0 +1,13 @@
+{
+    "name": "Attraffic Control",
+    "filename": "Attraffic_Control",
+    "card_text": "If your opponent controls 3 or more monsters, they cannot declare an attack.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "2-PLAYER STARTER SET",
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

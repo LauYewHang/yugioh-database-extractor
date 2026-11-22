@@ -1,0 +1,36 @@
+{
+    "name": "Malefic Rainbow Dragon",
+    "filename": "Malefic_Rainbow_Dragon",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned, except by removing from play 1 \"Rainbow Dragon\" from your hand or Deck. There can only be 1 face-up \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+    "release_date": "2011-02-22",
+    "available_set": [
+        "Yu-Gi-Oh! 3D BONDS BEYOND TIME MOVIE PACK"
+    ],
+    "related_card": [
+        "Malefic Blue-Eyes White Dragon",
+        "Malefic Claw Stream",
+        "Malefic Cyber End Dragon",
+        "Malefic Divide",
+        "Malefic Force",
+        "Malefic Paradigm Dragon",
+        "Malefic Paradigm Shift",
+        "Malefic Paradox Dragon",
+        "Malefic Paradox Gear",
+        "Malefic Parallel Gear",
+        "Malefic Red-Eyes Black Dragon (Updated from: Malefic Red-Eyes B. Dragon)",
+        "Malefic Selector",
+        "Malefic Stardust Dragon",
+        "Malefic Territory",
+        "Malefic Truth Dragon",
+        "Malefic Tune",
+        "Malefic World",
+        "Rainbow Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

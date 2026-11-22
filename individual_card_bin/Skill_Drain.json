@@ -1,0 +1,25 @@
+{
+    "name": "Skill Drain",
+    "filename": "Skill_Drain",
+    "card_text": "Activate this card by paying 1000 LP. Negate the effects of all face-up monsters while they are face-up on the field (but their effects can still be activated).",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "MAGNIFICENT MAVENS",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "STRUCTURE DECK: DARK WORLD",
+        "DARK CRISIS (Reprint)",
+        "OTS TOURNAMENT PACK 19",
+        "DARK CRISIS",
+        "GOLD SERIES",
+        "The Lost Art Promotion",
+        "DUEL TERMINAL 3",
+        "TURBO PACK BOOSTER EIGHT",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

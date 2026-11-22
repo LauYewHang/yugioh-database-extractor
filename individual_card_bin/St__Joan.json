@@ -1,0 +1,21 @@
+{
+    "name": "St. Joan",
+    "filename": "St__Joan",
+    "card_text": "\"The Forgiving Maiden\" + \"Darklord Marie\"",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [
+        "Darklord Marie (Updated from: Marie the Fallen One)",
+        "The Forgiving Maiden"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

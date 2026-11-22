@@ -1,0 +1,24 @@
+{
+    "name": "B.E.F. Zelos",
+    "filename": "B_E_F__Zelos",
+    "card_text": "When this card is activated: You can add 1 \"Boss Rush\" from your Deck to your hand. \"B.E.S.\" monsters you control gain 500 ATK/DEF, your opponent cannot target them with card effects, also they cannot be destroyed by your opponent's card effects. Once per turn: You can Special Summon 1 \"B.E.S.\" monster from your hand. If a \"B.E.S.\" monster(s) is Normal or Special Summoned to your field: Place 1 counter on it.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAZE OF MUERTOS",
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "B.E.S. Big Core (Updated from: Big Core)",
+        "B.E.S. Big Core MK-2",
+        "B.E.S. Big Core MK-3",
+        "B.E.S. Blaster Cannon Core",
+        "B.E.S. Covered Core",
+        "B.E.S. Crystal Core",
+        "B.E.S. Derringer Core",
+        "B.E.S. Tetran",
+        "Boss Rush",
+        "Super B.E.S. Metal Slave"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Booby Trap E",
+    "filename": "Booby_Trap_E",
+    "card_text": "Discard 1 card; Set 1 Continuous Trap Card from your hand or Graveyard to your field. That Set card can be activated during this turn.",
+    "release_date": "2016-02-12",
+    "available_set": [
+        "WING RAIDERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

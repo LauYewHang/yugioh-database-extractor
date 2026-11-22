@@ -1,0 +1,16 @@
+{
+    "name": "Miniaturize",
+    "filename": "Miniaturize",
+    "card_text": "Activate this card by targeting 1 monster on the field with more than 1000 original ATK that has a Level; its Level is reduced by 1, also it loses 1000 ATK. When that monster leaves the field, destroy this card.",
+    "release_date": "2008-08-05",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "5D's STARTER DECK 2009",
+        "5D's STARTER DECK 2008",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

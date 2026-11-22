@@ -1,0 +1,12 @@
+{
+    "name": "Telekinetic Power Well",
+    "filename": "Telekinetic_Power_Well",
+    "card_text": "Special Summon any number of Level 2 or lower Psychic-Type monsters from your Graveyard. You take damage equal to the total Levels of those monsters x 300.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

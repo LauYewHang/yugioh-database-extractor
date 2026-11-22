@@ -88,7 +88,10 @@
     "attack": 2000,
     "defense": 2000,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "You cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn: You can discard 1 \"D/D/D\" monster, then target 1 Level 6 or lower \"D/D\" monster you control; it gains 2000 ATK and DEF until the end of this turn (even if this card leaves the field).",

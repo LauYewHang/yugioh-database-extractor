@@ -1,0 +1,32 @@
+{
+    "name": "Mariamne, the True Dracophoenix",
+    "filename": "Mariamne__the_True_Dracophoenix",
+    "card_text": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up on your field, including a WIND monster, and if you do, Special Summon this card, and if you do that, and both destroyed monsters were WIND, you can also banish exactly 4 cards from the top of your opponent's Deck. If this card is destroyed by card effect: You can add 1 non-WIND Wyrm monster from your Deck to your hand. You can only use each effect of \"Mariamne, the True Dracophoenix\" once per turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "MAXIMUM CRISIS",
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
+    ],
+    "related_card": [
+        "Dinomight Knight, the True Dracofighter",
+        "Disciples of the True Dracophoenix",
+        "Draco Awakening",
+        "Dragonic Diagram",
+        "Dreiath III, the True Dracocavalry General",
+        "Ignis Heat, the True Dracowarrior",
+        "Majesty Maiden, the True Dracocaster",
+        "Mariamne Paradox, the True Dracophoenix Knight",
+        "True Draco Apocalypse",
+        "True Draco Heritage",
+        "True King of All Calamities",
+        "True King's Return"
+    ],
+    "attribute": "WIND",
+    "attack": 2700,
+    "defense": 2100,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

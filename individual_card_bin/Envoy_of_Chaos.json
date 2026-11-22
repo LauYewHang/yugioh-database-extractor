@@ -1,0 +1,39 @@
+{
+    "name": "Envoy of Chaos",
+    "filename": "Envoy_of_Chaos",
+    "card_text": "During the Battle Phase (Quick Effect): You can discard this card, then target 1 \"Black Luster Soldier\" monster or \"Gaia The Fierce Knight\" monster you control; it gains 1500 ATK until the end of this turn, and if it does, every opponent's monster that battles it this turn has its ATK become that monster's original ATK during damage calculation only. Once per turn, during the End Phase, if this card is in your GY: You can banish 1 LIGHT and 1 DARK monster from your GY, except this card; add this card to your hand.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "TOON CHAOS",
+        "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Black Luster Soldier",
+        "Black Luster Soldier - Envoy of the Beginning",
+        "Black Luster Soldier - Envoy of the Evening Twilight",
+        "Black Luster Soldier - Legendary Swordsman",
+        "Black Luster Soldier - Sacred Soldier",
+        "Black Luster Soldier - Soldier of Chaos",
+        "Black Luster Soldier - Soldier of Light and Darkness",
+        "Black Luster Soldier - Super Soldier",
+        "Charging Gaia the Fierce Knight",
+        "Gaia The Fierce Knight",
+        "Gaia the Fierce Knight Origin",
+        "Gaia the Magical Knight",
+        "Heart of Gaia",
+        "Lord Gaia the Fierce Knight",
+        "Soldier Gaia The Fierce Knight",
+        "Super Soldier Soul",
+        "Swift Gaia the Fierce Knight",
+        "Toon Black Luster Soldier"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

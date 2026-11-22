@@ -1,0 +1,21 @@
+{
+    "name": "Materiactor Annulus",
+    "filename": "Materiactor_Annulus",
+    "card_text": "Detach 1 Xyz Material from a monster you control, then if the detached material was sent to your GY, you can Set that card to your field. You can only activate 1 \"Materiactor Annulus\" per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Materiactor Critical",
+        "Materiactor Exagard",
+        "Materiactor Gigaboros",
+        "Materiactor Gigadra",
+        "Materiactor Meltdown",
+        "Materiactor Meltthrough",
+        "Materiactor Zeptwing",
+        "Prima Materiactor"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

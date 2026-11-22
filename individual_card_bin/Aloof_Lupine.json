@@ -1,0 +1,20 @@
+{
+    "name": "Aloof Lupine",
+    "filename": "Aloof_Lupine",
+    "card_text": "When this card is Normal Summoned: You can banish 1 monster from your hand; banish 1 monster from your Deck with the same Type as that monster. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 of your banished monsters; add it to your hand. You can only use each effect of \"Aloof Lupine\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "OTS TOURNAMENT PACK 11",
+        "2020 TIN OF LOST MEMORIES",
+        "SAVAGE STRIKE",
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 300,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

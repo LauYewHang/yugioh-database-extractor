@@ -1,0 +1,21 @@
+{
+    "name": "Cloning",
+    "filename": "Cloning",
+    "card_text": "When your opponent Normal or Flip Summons a monster that has a Level: Target that face-up monster; Special Summon 1 \"Clone Token\", with the same original Type, Attribute, Level, ATK, and DEF as that target. When that target is destroyed and sent to the GY, destroy this Token.",
+    "release_date": "2008-01-18",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DARK LEGENDS",
+        "STRUCTURE DECK : SETO KAIBA",
+        "SHONEN JUMP 4-CARD PACK",
+        "LEGENDARY DECKS II",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "RETRO PACK",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DUELIST PACK - KAIBA -",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

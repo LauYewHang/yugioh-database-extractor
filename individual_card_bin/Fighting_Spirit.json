@@ -1,0 +1,19 @@
+{
+    "name": "Fighting Spirit",
+    "filename": "Fighting_Spirit",
+    "card_text": "The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM",
+        "BATTLE PACK EPIC DAWN",
+        "DUELIST PACK - YUSEI -",
+        "THE DUELIST GENESIS",
+        "2-PLAYER STARTER SET",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "SPEED DUEL: SCARS OF BATTLE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

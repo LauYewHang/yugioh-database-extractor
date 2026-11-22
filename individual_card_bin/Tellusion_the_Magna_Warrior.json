@@ -1,0 +1,32 @@
+{
+    "name": "Tellusion the Magna Warrior",
+    "filename": "Tellusion_the_Magna_Warrior",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your GY) by banishing 1 \"Magnet Warrior Sigma Plus\" and 1 \"Magnet Warrior Sigma Minus\" from your hand, face-up Monster Zone, and/or GY. Once per turn, when your opponent activates a card or effect (Quick Effect): You can target 1 monster your opponent controls; destroy it, or if you targeted an EARTH monster, you can take control of it instead. During your opponent's turn (Quick Effect): You can Tribute this card; Special Summon 2 of your banished \"Magnet Warrior Sigma\" monsters.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Conduction Warrior Linear Magnum Plus Minus",
+        "Conduction Warrior Plasma Magnum",
+        "Delta The Magnet Warrior",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Magnet Bonding",
+        "Magnet Conversion",
+        "Magnet Induction",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Magnetic Field"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

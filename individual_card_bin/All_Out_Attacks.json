@@ -1,0 +1,13 @@
+{
+    "name": "All-Out Attacks",
+    "filename": "All_Out_Attacks",
+    "card_text": "If a monster(s) is Special Summoned while this card is face-up on the field: Change that monster to face-up Attack Position, and must attack, if able, during the turn they are Special Summoned.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "OTS TOURNAMENT PACK 11",
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

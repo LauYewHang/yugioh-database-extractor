@@ -1,0 +1,24 @@
+{
+    "name": "Blitzclique Alternator",
+    "filename": "Blitzclique_Alternator",
+    "card_text": "Monsters your opponent controls lose 300 ATK/DEF for each Thunder monster you control. You can only use each of the following effects of \"Blitzclique Alternator\" once per turn. You can shuffle 1 other \"Blitzclique\" card from your hand or face-up field into the Deck; add 1 Thunder monster with a different name from your Deck to your hand. You can banish this card from your GY; add 1 \"Blitzclique\" Spell or \"Hideout in the Sky, Coulomb\" from your Deck to your hand.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Blitzclique - Breakaway",
+        "Blitzclique - Steppleader",
+        "Blitzclique Overvolt",
+        "Blitzclique Return Stroke",
+        "Crackle Blitzclique",
+        "Emi Blitzclique",
+        "Grain Blitzclique",
+        "Hideout in the Sky, Coulomb",
+        "Surge Blitzclique",
+        "Whisker Blitzclique"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

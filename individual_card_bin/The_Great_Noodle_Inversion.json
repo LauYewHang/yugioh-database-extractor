@@ -1,0 +1,13 @@
+{
+    "name": "The Great Noodle Inversion",
+    "filename": "The_Great_Noodle_Inversion",
+    "card_text": "Add the bottom card of your Deck to your hand, then take 1 card from your Deck, shuffle, and place that card on the bottom of the Deck.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

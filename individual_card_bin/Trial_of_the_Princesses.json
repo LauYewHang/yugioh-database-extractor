@@ -1,0 +1,18 @@
+{
+    "name": "Trial of the Princesses",
+    "filename": "Trial_of_the_Princesses",
+    "card_text": "Equip only to \"White Magician Pikeru\" or \"Ebon Magician Curran\"; it gains 800 ATK. During a turn that the equipped monster destroyed a Level 5 or higher monster by battle, you can Tribute the equipped monster and this card to Special Summon from your hand or Deck: 1 \"Princess Pikeru\" if you Tributed \"White Magician Pikeru\", or 1 \"Princess Curran\" if you Tributed \"Ebon Magician Curran\".",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "SHADOW OF INFINITY",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "Ebon Magician Curran",
+        "Princess Curran",
+        "Princess Pikeru",
+        "White Magician Pikeru"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

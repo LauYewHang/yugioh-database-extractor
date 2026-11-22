@@ -1,0 +1,23 @@
+{
+    "name": "Stoic of Prophecy",
+    "filename": "Stoic_of_Prophecy",
+    "card_text": "When this card is sent to the Graveyard: Add 1 Level 3 \"Prophecy\" monster from your Deck to your hand.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Amores of Prophecy",
+        "Fool of Prophecy",
+        "Hermit of Prophecy",
+        "Justice of Prophecy",
+        "Temperance of Prophecy"
+    ],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

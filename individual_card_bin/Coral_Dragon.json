@@ -1,0 +1,20 @@
+{
+    "name": "Coral Dragon",
+    "filename": "Coral_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can discard 1 card, then target 1 card your opponent controls; destroy it. If this Synchro Summoned card is sent from the field to the GY: You can draw 1 card. You can only use this effect of \"Coral Dragon\" once per turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "2-PLAYER STARTER SET",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2400,
+    "defense": 500,
+    "monster_type": "Dragon",
+    "monster_card_type": 1042,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

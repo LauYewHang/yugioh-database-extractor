@@ -80,7 +80,10 @@
     "attack": 800,
     "defense": 800,
     "monster_type": "Beast",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.",

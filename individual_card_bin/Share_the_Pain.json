@@ -1,0 +1,19 @@
+{
+    "name": "Share the Pain",
+    "filename": "Share_the_Pain",
+    "card_text": "Tribute 1 monster; make your opponent Tribute 1 monster (for no effect).",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DUEL TERMINAL 1",
+        "SPEED DUEL: TRIALS OF THE KINGDOM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

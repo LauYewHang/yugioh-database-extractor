@@ -1,0 +1,19 @@
+{
+    "name": "Feather Shot",
+    "filename": "Feather_Shot",
+    "card_text": "Target 1 face-up \"Elemental HERO Avian\" you control; during this turn, that target can attack a number of times equal to the number of monsters you control when this card resolves, but cannot attack directly, and other monsters you control cannot attack this turn.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "ELEMENTAL ENERGY",
+        "DUELIST PACK - JADEN YUKI -",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Elemental HERO Avian",
+        "Elemental HERO Spirit of Neos",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Red Arrows",
+    "filename": "Red_Arrows",
+    "card_text": "Target up to 2 face-up monsters in the Extra Monster Zone(s); banish them until the End Phase. You can only activate 1 \"Red Arrows\" per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

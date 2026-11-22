@@ -1,0 +1,21 @@
+{
+    "name": "Triamid Pulse",
+    "filename": "Triamid_Pulse",
+    "card_text": "Once per turn: You can banish 2 cards from your Graveyard (any combination of Rock-Type monsters or Field Spell Cards), then activate 1 of these effects;\n\u25cfTarget 1 other face-up card on the field; destroy it.\n\u25cfTarget 1 Rock-Type monster in your Graveyard; Special Summon it in Defense Position.\n\u25cfTarget up to 3 Field Spell Cards in your Graveyard; shuffle them into the Deck, then draw 1 card.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION"
+    ],
+    "related_card": [
+        "Triamid Cruiser",
+        "Triamid Dancer",
+        "Triamid Fortress",
+        "Triamid Hunter",
+        "Triamid Kingolem",
+        "Triamid Loading",
+        "Triamid Master",
+        "Triamid Sphinx"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

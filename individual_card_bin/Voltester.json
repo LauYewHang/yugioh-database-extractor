@@ -1,0 +1,17 @@
+{
+    "name": "Voltester",
+    "filename": "Voltester",
+    "card_text": "If this card is Special Summoned to a zone a Link Monster points to: Destroy all Link Monsters that point to this card, then destroy all other monsters that those Link Monsters pointed to, and follow the Link Arrows of all those destroyed monsters, destroying everything they point to, and repeating the process, until there are no more to destroy. (This card cannot be destroyed by this effect.) You can only use this effect of \"Voltester\" once per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 1000,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

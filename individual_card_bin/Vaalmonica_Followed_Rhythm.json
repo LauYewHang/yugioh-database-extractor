@@ -1,0 +1,28 @@
+{
+    "name": "Vaalmonica Followed Rhythm",
+    "filename": "Vaalmonica_Followed_Rhythm",
+    "card_text": "Apply 1 of these effects. You must control a \"Vaalmonica\" Monster Card to activate and to resolve this effect. If you control a \"Vaalmonica\" Link Monster, you can apply both effects in sequence.\n\u25cfGain 500 LP, then you can destroy 1 Spell/Trap on the field.\n\u25cfTake 500 damage, then you can return 1 monster from the field to the hand.\nYou can only activate 1 \"Vaalmonica Followed Rhythm\" per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Dimonno Vaalmonica",
+        "Duralume, Vaalmonican Heathen Hallow",
+        "Selettrice Vaalmonica",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Disarmonia",
+        "Vaalmonica Ereditare",
+        "Vaalmonica Intonare",
+        "Vaalmonica Invitare",
+        "Vaalmonica Scelta",
+        "Vaalmonica Versare",
+        "Vaalmonica, the Agathokakological Voice",
+        "Varar, Vaalmonican Concord",
+        "Zebufera, Vaalmonican Hallow Heathen"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Madolchepalooza",
+    "filename": "Madolchepalooza",
+    "card_text": "Special Summon any number of \"Madolche\" monsters from your hand, but shuffle them into the Deck during the End Phase.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Madolche Anjelly",
+        "Madolche Baaple",
+        "Madolche Butlerusk",
+        "Madolche Chateau",
+        "Madolche Chickolates",
+        "Madolche Chouxvalier",
+        "Madolche Cruffssant",
+        "Madolche Dessert",
+        "Madolche Fresh Sistart",
+        "Madolche Hootcake",
+        "Madolche Lesson",
+        "Madolche Magileine",
+        "Madolche Marmalmaide",
+        "Madolche Messengelato",
+        "Madolche Mewfeuille",
+        "Madolche Mini Meowcaroons",
+        "Madolche Nights",
+        "Madolche Petingcessoeur",
+        "Madolche Promenade",
+        "Madolche Puddingcess",
+        "Madolche Puddingcess Chocolat-a-la-Mode",
+        "Madolche Queen Tiarafraise",
+        "Madolche Queen Tiaramisu",
+        "Madolche Salon",
+        "Madolche Tea Break",
+        "Madolche Teacher Glassouffle",
+        "Madolche Ticket",
+        "Madolche Waltz"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

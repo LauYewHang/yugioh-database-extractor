@@ -1,0 +1,17 @@
+{
+    "name": "Puzzlomino, the Drop-n-Deleter",
+    "filename": "Puzzlomino__the_Drop_n_Deleter",
+    "card_text": "2 monsters with different Levels\nIf a monster is Special Summoned face-up to a zone this card points to while you control this monster (except during the Damage Step): You can declare a Level from 1 to 8; that monster becomes that Level until the end of the turn. You can target 2 monsters with the same Level (1 from each field); destroy them. You can only use each effect of \"Puzzlomino, the Drop-n-Deleter\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1300,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 68
+}

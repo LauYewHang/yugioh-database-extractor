@@ -1,0 +1,33 @@
+{
+    "name": "Qebehsenuef, Protection of Horus",
+    "filename": "Qebehsenuef__Protection_of_Horus",
+    "card_text": "If you control \"King's Sarcophagus\", you can Special Summon this card (from your GY). You can only Special Summon \"Qebehsenuef, Protection of Horus\" once per turn this way. If another card(s) you control leaves the field by an opponent's card effect, while this card is in your Monster Zone (except during the Damage Step): You can activate this effect; this turn, your opponent's monsters cannot target \"Horus\" monsters for attacks, also your opponent cannot target \"Horus\" monsters on the field with card effects. You can only use this effect of \"Qebehsenuef, Protection of Horus\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Canopic Protector",
+        "Dark Horus",
+        "Duamutef, Blessing of Horus",
+        "Hapi, Guidance of Horus",
+        "Horus the Black Flame Deity",
+        "Horus the Black Flame Dragon LV4",
+        "Horus the Black Flame Dragon LV6",
+        "Horus the Black Flame Dragon LV8",
+        "Horus' Servant",
+        "Imsety, Glory of Horus",
+        "King's Sarcophagus",
+        "Metaphys Horus",
+        "Walls of the Imperial Tomb"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

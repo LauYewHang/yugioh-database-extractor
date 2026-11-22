@@ -1,0 +1,43 @@
+{
+    "name": "Dante, Traveler of the Burning Abyss",
+    "filename": "Dante__Traveler_of_the_Burning_Abyss",
+    "card_text": "2 Level 3 monsters\nOnce per turn: You can detach 1 material from this card and choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; until the end of this turn, this card gains 500 ATK for each card sent to the GY this way. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card is sent to the GY: You can target 1 \"Burning Abyss\" card in your GY, except this card; add it to your hand.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK",
+        "Yu-Gi-Oh! Championship Prize Cards 2025",
+        "LEGENDARY HERO DECKS",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Alich, Malebranche of the Burning Abyss",
+        "Barbar, Malebranche of the Burning Abyss",
+        "Beatrice, Lady of the Eternal",
+        "Cagna, Malebranche of the Burning Abyss",
+        "Calcab, Malebranche of the Burning Abyss",
+        "Cherubini, Ebon Angel of the Burning Abyss",
+        "Cir, Malebranche of the Burning Abyss",
+        "Dante, Pilgrim of the Burning Abyss",
+        "Draghig, Malebranche of the Burning Abyss",
+        "Farfa, Malebranche of the Burning Abyss",
+        "Fire Lake of the Burning Abyss",
+        "Good & Evil in the Burning Abyss",
+        "Graff, Malebranche of the Burning Abyss",
+        "Libic, Malebranche of the Burning Abyss",
+        "Malacoda, Netherlord of the Burning Abyss",
+        "Rubic, Malebranche of the Burning Abyss",
+        "Scarm, Malebranche of the Burning Abyss",
+        "The Terminus of the Burning Abyss",
+        "The Traveler and the Burning Abyss",
+        "Virgil, Rock Star of the Burning Abyss"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

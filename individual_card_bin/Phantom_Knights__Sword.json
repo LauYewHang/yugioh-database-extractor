@@ -1,0 +1,41 @@
+{
+    "name": "Phantom Knights' Sword",
+    "filename": "Phantom_Knights__Sword",
+    "card_text": "Activate this card by targeting 1 face-up monster on the field; it gains 800 ATK, also if that target would be destroyed by battle or card effect, you can destroy this card instead. When it leaves the field, destroy this card. You can banish this card from your GY, then target 1 \"The Phantom Knights\" monster in your GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Phantom Knights' Sword\" once per turn.",
+    "release_date": "2016-02-12",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "WING RAIDERS"
+    ],
+    "related_card": [
+        "Dark Rebellion Xyz Dragon, Four Heavenly Dragons",
+        "Raider's Knight",
+        "Raider's Unbreakable Mind",
+        "Raider's Wing",
+        "The Phantom Knights of Ancient Cloak",
+        "The Phantom Knights of Break Sword",
+        "The Phantom Knights of Cloven Helm",
+        "The Phantom Knights of Cursed Javelin",
+        "The Phantom Knights of Dark Gauntlets",
+        "The Phantom Knights of Decayed Cloak",
+        "The Phantom Knights of Doomed Soleret",
+        "The Phantom Knights of Fragile Armor",
+        "The Phantom Knights of Lost Vambrace",
+        "The Phantom Knights of Malevolent Scythe",
+        "The Phantom Knights of Mist Claws",
+        "The Phantom Knights of Ragged Gloves",
+        "The Phantom Knights of Rusty Bardiche",
+        "The Phantom Knights of Shade Brigandine",
+        "The Phantom Knights of Shadow Veil",
+        "The Phantom Knights of Silent Boots",
+        "The Phantom Knights of Stained Greaves",
+        "The Phantom Knights of Tomb Shield",
+        "The Phantom Knights of Torn Scales",
+        "The Phantom Knights of Umbrage Veil",
+        "The Phantom Knights of Wrong Magnetring",
+        "The Phantom Knights' Rank-Up-Magic Launch",
+        "The Phantom Knights' Rank-Up-Magic Requiem"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

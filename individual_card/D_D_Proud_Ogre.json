@@ -87,7 +87,10 @@
     "attack": 2300,
     "defense": 1500,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "Once per turn: You can pay 500 LP, then target 1 \"D/D\" monster you control; it gains 500 ATK (even if this card leaves the field). Unless you have a \"D/D\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 5.",

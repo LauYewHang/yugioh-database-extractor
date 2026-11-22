@@ -1,0 +1,34 @@
+{
+    "name": "Super Quantal Mech Beast Grampulse",
+    "filename": "Super_Quantal_Mech_Beast_Grampulse",
+    "card_text": "2 Level 3 monsters\nCannot attack unless it has material. Once per turn: You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it. This is a Quick Effect if this card has \"Super Quantum Blue Layer\" as material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card.",
+    "release_date": "2016-02-12",
+    "available_set": [
+        "OTS TOURNAMENT PACK 3",
+        "RARITY COLLECTION 5",
+        "WING RAIDERS"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

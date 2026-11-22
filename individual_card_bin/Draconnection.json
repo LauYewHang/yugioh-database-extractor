@@ -1,0 +1,12 @@
+{
+    "name": "Draconnection",
+    "filename": "Draconnection",
+    "card_text": "Reveal 1 Dragon-Type monster in your hand, add 1 Dragon-Type monster with the same Level from your Deck to your hand, then shuffle the revealed monster into the Deck.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "The Hidden City",
+    "filename": "The_Hidden_City",
+    "card_text": "When this card is activated: You can add 1 \"Subterror\" monster from your Deck to your hand. Once per turn: You can change 1 face-down Defense Position \"Subterror\" monster you control to face-up Attack or Defense Position. Once per turn, when an opponent's monster declares an attack: You can change 1 face-down Defense Position \"Subterror\" monster you control to face-up Attack or Defense Position, then you can negate the attack. You can only activate 1 \"The Hidden City\" per turn.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "THE DARK ILLUSION",
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Subterror Behemoth Burrowing",
+        "Subterror Behemoth Dragossuary",
+        "Subterror Behemoth Fiendess",
+        "Subterror Behemoth Phospheroglacier",
+        "Subterror Behemoth Speleogeist",
+        "Subterror Behemoth Stalagmo",
+        "Subterror Behemoth Stygokraken",
+        "Subterror Behemoth Ultramafus",
+        "Subterror Behemoth Umastryx",
+        "Subterror Behemoth Voltelluric",
+        "Subterror Cave Clash",
+        "Subterror Fiendess",
+        "Subterror Final Battle",
+        "Subterror Guru",
+        "Subterror Nemesis Archer",
+        "Subterror Nemesis Defender",
+        "Subterror Nemesis Warrior",
+        "Subterror Succession"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

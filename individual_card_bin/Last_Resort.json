@@ -1,0 +1,15 @@
+{
+    "name": "Last Resort",
+    "filename": "Last_Resort",
+    "card_text": "Activate only when your opponent's monster declares an attack. You can select 1 \"Ancient City - Rainbow Ruins\" from your Deck and activate it. If your opponent had an active Field Spell Card when this card was activated, they can draw 1 card.",
+    "release_date": "2007-05-16",
+    "available_set": [
+        "DUELIST PACK - JESSE ANDERSON -",
+        "FORCE OF THE BREAKER"
+    ],
+    "related_card": [
+        "Ancient City - Rainbow Ruins"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

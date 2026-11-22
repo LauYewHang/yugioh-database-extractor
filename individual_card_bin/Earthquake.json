@@ -1,0 +1,18 @@
+{
+    "name": "Earthquake",
+    "filename": "Earthquake",
+    "card_text": "Change all face-up monsters on the field to Defense Position.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "ANCIENT SANCTUARY",
+        "DARK REVELATION Volume 2",
+        "DUEL TERMINAL 2",
+        "STARTER DECK SYRUS TRUESDALE",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

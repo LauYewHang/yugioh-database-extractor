@@ -1,0 +1,15 @@
+{
+    "name": "Ultimate Slayer",
+    "filename": "Ultimate_Slayer",
+    "card_text": "Your opponent cannot activate monster effects in response to this card's activation. Send 1 monster from your Extra Deck to the GY, then target 1 monster your opponent controls with the same card type (Fusion, Synchro, Xyz, Pendulum, or Link); shuffle it into the Deck.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "MAZE OF MUERTOS",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

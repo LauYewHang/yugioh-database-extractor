@@ -1,0 +1,18 @@
+{
+    "name": "Holding Legs",
+    "filename": "Holding_Legs",
+    "card_text": "If this card is Summoned: Return all Set Spells/Traps on the field to the hand. You can banish this card from your GY, then target 1 Set Spell/Trap your opponent controls; it cannot be activated until the end of the next turn.",
+    "release_date": "2016-04-15",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "MILLENNIUM PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 600,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

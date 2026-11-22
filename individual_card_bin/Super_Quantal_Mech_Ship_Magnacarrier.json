@@ -1,0 +1,32 @@
+{
+    "name": "Super Quantal Mech Ship Magnacarrier",
+    "filename": "Super_Quantal_Mech_Ship_Magnacarrier",
+    "card_text": "Discard 1 card, then target 1 \"Super Quantum\" monster you control; Special Summon from your Extra Deck, 1 \"Super Quantal Mech Beast\" Xyz Monster with the same Attribute as that monster you control by using it as material. (This is treated as an Xyz Summon.) You can send this card from the Field Zone to the GY, then target 3 \"Super Quantal Mech Beast\" Xyz Monsters with different names you control and/or in your GY; Special Summon 1 \"Super Quantal Mech King Great Magnus\" from your Extra Deck, and if you do, attach the targeted monsters and their materials to it as material.",
+    "release_date": "2016-02-12",
+    "available_set": [
+        "OTS TOURNAMENT PACK 10",
+        "WING RAIDERS"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphan Spike",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech Beast Aeroboros",
+        "Super Quantal Mech Beast Grampulse",
+        "Super Quantal Mech Beast Lusterrex",
+        "Super Quantal Mech Beast Magnaliger",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

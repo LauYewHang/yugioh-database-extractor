@@ -1,0 +1,35 @@
+{
+    "name": "Crystron Inclusion",
+    "filename": "Crystron_Inclusion",
+    "card_text": "When this card is activated: You can add 1 \"Crystron\" card from your Deck to your hand, except \"Crystron Inclusion\". The first time each \"Crystron\" monster you control would be destroyed by battle each turn, it is not destroyed. You can banish this card from your GY, then target 1 \"Crystron\" monster in your GY; Special Summon it. You can only use this effect of \"Crystron Inclusion\" once per turn. You can only activate 1 \"Crystron Inclusion\" per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "OTS Tournament Pack 29",
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Crystolic Potential",
+        "Crystron Ametrix",
+        "Crystron Citree",
+        "Crystron Cluster",
+        "Crystron Eleskeletus",
+        "Crystron Entry",
+        "Crystron Halqifibrax",
+        "Crystron Halqifibrax Prism",
+        "Crystron Impact",
+        "Crystron Phoenix",
+        "Crystron Prasiortle",
+        "Crystron Quan",
+        "Crystron Quandax",
+        "Crystron Quariongandrax",
+        "Crystron Rion",
+        "Crystron Rosenix",
+        "Crystron Smiger",
+        "Crystron Sulfador",
+        "Crystron Sulfefnir",
+        "Crystron Thystvern",
+        "Crystron Tristaros"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

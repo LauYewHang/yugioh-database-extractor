@@ -1,0 +1,20 @@
+{
+    "name": "Fishborg Planter",
+    "filename": "Fishborg_Planter",
+    "card_text": "Once, while this card is in the GY: You can send the top card of your Deck to the GY, then, if it is a WATER monster, Special Summon this card from the GY. You can only use this effect of \"Fishborg Planter\" once per turn.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING",
+        "SPEED DUEL: ATTACK FROM THE DEEP"
+    ],
+    "related_card": [
+        "Fishborg Doctor"
+    ],
+    "attribute": "WATER",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Regenesis Sage",
+    "filename": "Regenesis_Sage",
+    "card_text": "If a monster with 2500 original ATK or DEF is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Regenesis Sage\" once per turn this way. You can only use each of the following effects of \"Regenesis Sage\" once per turn. When your opponent activates a card or effect (Quick Effect): You can send 1 other \"Regenesis\" card from your hand or face-up field to the GY; negate the activation, and if you do, destroy that card. During your opponent's End Phase, if this card is in the GY because it was sent there this turn: You can add this card to your hand.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Regenesis",
+        "Regenesis Archfiend",
+        "Regenesis Birth",
+        "Regenesis Code",
+        "Regenesis Commands",
+        "Regenesis Cycle",
+        "Regenesis Dragon",
+        "Regenesis Lord",
+        "Regenesis Overlord",
+        "Regenesis Warrior"
+    ],
+    "attribute": "WATER",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

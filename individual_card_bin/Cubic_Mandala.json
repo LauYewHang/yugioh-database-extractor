@@ -1,0 +1,32 @@
+{
+    "name": "Cubic Mandala",
+    "filename": "Cubic_Mandala",
+    "card_text": "If you control a \"Cubic\" monster: Activate this card by targeting any number of monsters that are in your opponent's Graveyard because they were destroyed and sent there this turn; Special Summon them to your opponent's field, but each becomes ATK 0 and has 1 Cubic Counter placed on it. (Monsters with a Cubic Counter cannot attack, also negate their effects.) While your opponent controls any of the monsters Summoned by this effect, negate any monster effects your opponent activates. When the last of these monsters leaves the field, destroy this card.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Blade Garoodia the Cubic Beast",
+        "Buster Gundil the Cubic Behemoth",
+        "Crimson Nova the Dark Cubic Lord",
+        "Crimson Nova Trinity the Dark Cubic Lord",
+        "Cubic Ascension",
+        "Cubic Causality",
+        "Cubic Dharma",
+        "Cubic Karma",
+        "Cubic Rebirth",
+        "Cubic Wave",
+        "Dark Garnex the Cubic Beast",
+        "Duza the Meteor Cubic Vessel",
+        "Geira Guile the Cubic King",
+        "Indiora Doom Volt the Cubic Emperor",
+        "Unification of the Cubic Lords",
+        "Vijam the Cubic Seed",
+        "Vulcan Dragni the Cubic King"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

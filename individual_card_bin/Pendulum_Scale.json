@@ -1,0 +1,15 @@
+{
+    "name": "Pendulum Scale",
+    "filename": "Pendulum_Scale",
+    "card_text": "If you have 2 cards in your Pendulum Zones: Apply the following effect, based on the difference in the Pendulum Scales.\n\u25cf0: Destroy 2 Spells/Traps on the field.\n\u25cf1, 2, or 3: Add 1 Level 2, 3, or 4 Pendulum Monster from your Deck to your hand.\n\u25cf4, 5, or 6: Add 1 Level 5, 6, or 7 Pendulum Monster from your Deck to your hand.\n\u25cf7+: Return up to 2 cards from your Pendulum Zone(s) to the hand, then you can Special Summon 1 Pendulum Monster from your hand.\nYou can only activate 1 \"Pendulum Scale\" per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Duelist Alliance",
+        "PenduLuMoon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

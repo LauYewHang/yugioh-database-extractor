@@ -1,0 +1,32 @@
+{
+    "name": "Blessed Winds",
+    "filename": "Blessed_Winds",
+    "card_text": "You can activate 1 of the following effects;\n\u25cfSend 1 Plant monster from your hand or face-up field to the GY; gain 500 LP.\n\u25cfTarget 1 Plant monster in your GY; shuffle it into the Deck, then gain 500 LP.\n\u25cfPay 1000 LP; Special Summon 1 \"Aroma\" monster from your GY.\nYou can only use this effect of \"Blessed Winds\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "OTS TOURNAMENT PACK 25",
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Aroma Blend",
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aroma Jar",
+        "Aromage Bergamot",
+        "Aromage Cananga",
+        "Aromage Jasmine",
+        "Aromage Laurel",
+        "Aromage Marjoram",
+        "Aromage Rosemary",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromalilith Rosemary",
+        "Aromaseraphy Angelica",
+        "Aromaseraphy Jasmine",
+        "Aromaseraphy Rosemary",
+        "Aromaseraphy Sweet Marjoram"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

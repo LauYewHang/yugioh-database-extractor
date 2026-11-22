@@ -1,0 +1,39 @@
+{
+    "name": "A.I.'s Show",
+    "filename": "A_I__s_Show",
+    "card_text": "While you control a Link-3 or higher \"@Ignister\" monster in the Extra Monster Zone, when an opponent's monster declares an attack: Special Summon from your Extra Deck any number of non-Link Cyberse monster(s) with 2300 ATK, whose combined ATK is less than or equal to the attacking monster's ATK, then end the Battle Phase.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "A.I.dle Reborn",
+        "Achichi @Ignister",
+        "Allied Code Talker @Ignister",
+        "Backup @Ignister",
+        "Bururu @Ignister",
+        "Code Igniter",
+        "Danmari @Ignister",
+        "Dark Infant @Ignister",
+        "Dark Templar @Ignister",
+        "Donyoribo @Ignister",
+        "Doshin @Ignister",
+        "Doyon @Ignister",
+        "Earth Golem @Ignister",
+        "Fire Phoenix @Ignister",
+        "Firewall Saber Dragon",
+        "Gatchiri @Ignister",
+        "Gussari @Ignister",
+        "Hiyari @Ignister",
+        "Kurikurinku @Ignister",
+        "Light Dragon @Ignister",
+        "Linkslayer @Ignister",
+        "Pikari @Ignister",
+        "The Arrival Cyberse @Ignister",
+        "Water Leviathan @Ignister",
+        "Wind Pegasus @Ignister",
+        "Wizard @Ignister"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

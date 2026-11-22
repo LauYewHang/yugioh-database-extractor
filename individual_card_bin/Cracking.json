@@ -1,0 +1,12 @@
+{
+    "name": "Cracking",
+    "filename": "Cracking",
+    "card_text": "Once per turn, when a monster(s) is sent from the field to the Graveyard by a card effect: Inflict 800 damage to the owner of the monster(s).",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

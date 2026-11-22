@@ -1,0 +1,19 @@
+{
+    "name": "Jade Knight",
+    "filename": "Jade_Knight",
+    "card_text": "While this card is in Attack Position, Machine monsters you control with 1200 or less ATK cannot be destroyed by Trap effects. When this card is destroyed by battle and sent to the GY: You can add 1 Level 4 LIGHT Machine monster from your Deck to your hand.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "CROSSROADS OF CHAOS",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

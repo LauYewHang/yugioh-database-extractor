@@ -1,0 +1,36 @@
+{
+    "name": "Unchained Firelord of Yama",
+    "filename": "Unchained_Firelord_of_Yama",
+    "card_text": "2+ monsters, including an \"Unchained Soul\" monster\nDuring your End Phase: You can target up to 2 Fiend monsters in your GY that were destroyed this turn; Special Summon them, but for each one, as long as it remains face-up in your Monster Zone, you cannot Special Summon, except Fiend monsters. If this card on the field would be destroyed by battle or card effect, you can destroy 1 other face-up card on either field instead. You can only use each effect of \"Unchained Firelord of Yama\" once per turn.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abominable Unchained Soul",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Hunger",
+        "Unchained Oni of Shyma",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Anguish",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Rage",
+        "Unchained Soul of Sharvara",
+        "Unchained Soul of Shyama",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Wailing of the Unchained Souls"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 270
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Mask of Dispel",
+    "filename": "Mask_of_Dispel",
+    "card_text": "Select 1 face-up Spell Card on the field. The controller of the Spell Card takes 500 points of damage during each of your Standby Phases. When the selected card is removed from the field, destroy this card.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

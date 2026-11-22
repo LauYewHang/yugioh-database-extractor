@@ -1,0 +1,33 @@
+{
+    "name": "Meteoroa Drytron",
+    "filename": "Meteoroa_Drytron",
+    "card_text": "If a \"Drytron\" card(s) is banished (except during the Damage Step): You can Tribute 1 \"Drytron\" monster, then target up to 2 of your banished \"Drytron\" cards; add them to your hand. You can reveal 1 \"Meteonis Drytron\" in your hand; Ritual Summon 1 Machine Ritual Monster from your hand or GY, by Tributing Machine monsters from your hand or field whose total ATK equals or exceeds its ATK. You can only use each effect of \"Meteoroa Drytron\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Drytron Alpha Thuban",
+        "Drytron Asterism",
+        "Drytron Beta Rastaban",
+        "Drytron Delta Altais",
+        "Drytron Eclipse",
+        "Drytron Fafnir",
+        "Drytron Gamma Eltanin",
+        "Drytron Meteonis DA Draconids",
+        "Drytron Meteonis Draconids",
+        "Drytron Meteonis Quadrantids",
+        "Drytron Meteor Shower",
+        "Drytron Mu Beta Fafnir",
+        "Drytron Nova",
+        "Drytron Nu II",
+        "Drytron Zeta Aldhibah",
+        "Meteonis Drytron",
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Drytron"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

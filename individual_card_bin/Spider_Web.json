@@ -1,0 +1,12 @@
+{
+    "name": "Spider Web",
+    "filename": "Spider_Web",
+    "card_text": "If a monster declares an attack, it is changed to Defense Position at the end of the Damage Step. It cannot change its battle position until the End Phase of its controller's next turn, while this card remains on the field.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

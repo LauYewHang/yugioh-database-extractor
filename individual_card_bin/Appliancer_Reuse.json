@@ -1,0 +1,25 @@
+{
+    "name": "Appliancer Reuse",
+    "filename": "Appliancer_Reuse",
+    "card_text": "Target 1 \"Appliancer\" monster in your GY; Special Summon it, but place it on the bottom of the Deck when it leaves the field.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Appliancer Breakerbuncle",
+        "Appliancer Celtopus",
+        "Appliancer Conversion",
+        "Appliancer Copybokkle",
+        "Appliancer Dryer Drake",
+        "Appliancer Electrilyrical World",
+        "Appliancer Kappa Scale",
+        "Appliancer Laundry Dragon",
+        "Appliancer Propelion",
+        "Appliancer Socketroll",
+        "Appliancer Test",
+        "Appliancer Vacculephant"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

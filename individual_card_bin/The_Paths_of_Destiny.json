@@ -1,0 +1,12 @@
+{
+    "name": "The Paths of Destiny",
+    "filename": "The_Paths_of_Destiny",
+    "card_text": "Both players toss a coin once. If a player's result is Heads, they gain 2000 Life Points, and if their result is Tails, they take 2000 damage.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

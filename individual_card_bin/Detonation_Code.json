@@ -1,0 +1,18 @@
+{
+    "name": "Detonation Code",
+    "filename": "Detonation_Code",
+    "card_text": "If you control a \"Topologic\" Link Monster: You can target 1 DARK non-Link Dragon, Machine, or Cyberse monster in your GY; Special Summon it. During the Standby Phase of the next turn after this card was banished from the Spell & Trap Zone: You can Set this card. You can only use each effect of \"Detonation Code\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Topologic Blaster Dragon",
+        "Topologic Bomber Dragon",
+        "Topologic Gumblar Dragon",
+        "Topologic Trisbaena",
+        "Topologic Zeroboros"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

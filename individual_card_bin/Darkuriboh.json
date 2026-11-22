@@ -1,0 +1,24 @@
+{
+    "name": "Darkuriboh",
+    "filename": "Darkuriboh",
+    "card_text": "When a Fiend monster(s) and/or Fusion Monster(s) you control are targeted for an attack, or a card or effect is activated that targets them (Quick Effect): You can discard this card, then target 1 of those monsters; until the end of this turn, it cannot be destroyed by battle or card effects, also its effects activated in the Monster Zone cannot be negated. If this card is sent from the hand to the GY by card effect: You can add 1 \"Polymerization\" from your Deck or GY to your hand. You can only use each effect of \"Darkuriboh\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Fusion Substitute",
+        "Generation Next",
+        "Kuribee",
+        "Kuribohrn",
+        "Polymerization",
+        "Skilled Brown Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

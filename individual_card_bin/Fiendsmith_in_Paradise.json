@@ -1,0 +1,25 @@
+{
+    "name": "Fiendsmith in Paradise",
+    "filename": "Fiendsmith_in_Paradise",
+    "card_text": "Target 1 Level 7 or higher LIGHT Fiend monster you control; send all cards on the field to the GY that are not that monster. If your opponent Special Summons a monster(s), while this card is in your GY: You can banish this card; send 1 \"Fiendsmith\" monster from your Deck or Extra Deck to the GY. You can only use each effect of \"Fiendsmith in Paradise\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Fiendsmith Engraver",
+        "Fiendsmith Kyrie",
+        "Fiendsmith's Agnumday",
+        "Fiendsmith's Desirae",
+        "Fiendsmith's Lacrima",
+        "Fiendsmith's Requiem",
+        "Fiendsmith's Rextremende",
+        "Fiendsmith's Sanct",
+        "Fiendsmith's Sequence",
+        "Fiendsmith's Tract",
+        "Lacrima the Crimson Tears"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

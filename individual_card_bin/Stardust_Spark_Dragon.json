@@ -1,0 +1,37 @@
+{
+    "name": "Stardust Spark Dragon",
+    "filename": "Stardust_Spark_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn (Quick Effect): You can target 1 face-up card you control; once during this turn, it cannot be destroyed by battle or card effects.",
+    "release_date": "2013-11-05",
+    "available_set": [
+        "Yu-Gi-Oh! 5D's volume 5 Promotional Card",
+        "Duel Devastator",
+        "HIGH-SPEED RIDERS"
+    ],
+    "related_card": [
+        "Cosmic Flare",
+        "Final Cross",
+        "Junk Armor",
+        "Junk Mail",
+        "Junk Meister",
+        "Necroid Synchro",
+        "Satellite Synchron",
+        "Satellite Warrior",
+        "Shooting Star",
+        "Stardust Dragon - Victim Sanctuary",
+        "Stardust Flash",
+        "Stardust Illumination",
+        "Stardust Re-Spark",
+        "Stardust Sifr Divine Dragon",
+        "Stardust Trail",
+        "Stardust Wish",
+        "Synchro Chase"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

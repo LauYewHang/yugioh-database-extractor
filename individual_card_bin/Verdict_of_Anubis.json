@@ -1,0 +1,19 @@
+{
+    "name": "Verdict of Anubis",
+    "filename": "Verdict_of_Anubis",
+    "card_text": "When your opponent activates a Spell/Trap Card, while you control 3 or more other Spells/Traps: Negate the activation, and if you do, destroy that card, then if you control \"Temple of the Kings\", you can destroy as many monsters your opponent controls as possible, then inflict damage to your opponent equal to half the total original ATK of those destroyed monsters. You can only activate 1 \"Verdict of Anubis\" per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Defense of the Temple",
+        "Divine Serpent Apophis",
+        "Merciless Scorpion of Serket",
+        "Temple of the Kings",
+        "The Man with the Mark",
+        "Treasures of the Kings"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

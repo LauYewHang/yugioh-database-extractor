@@ -1,0 +1,29 @@
+{
+    "name": "Minor Goblin Official",
+    "filename": "Minor_Goblin_Official",
+    "card_text": "You can only activate this card when your opponent's Life Points are 3000 or less. Inflict 500 points of damage to your opponent's Life Points during each of his/her Standby Phases.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "DARK BEGINNING 1",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Amorphage Wrath",
+    "filename": "Amorphage_Wrath",
+    "card_text": "If this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES"
+    ],
+    "related_card": [
+        "Amorphage Envy",
+        "Amorphage Gluttony",
+        "Amorphage Goliath",
+        "Amorphage Greed",
+        "Amorphage Infection",
+        "Amorphage Lechery",
+        "Amorphage Lysis",
+        "Amorphage Pride",
+        "Amorphage Sloth",
+        "Amorphous Persona"
+    ],
+    "attribute": "EARTH",
+    "attack": 1650,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "While you control an \"Amorphage\" monster, neither player can Tribute monsters, except \"Amorphage\" monsters. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+    "pendulum_scale": 3
+}

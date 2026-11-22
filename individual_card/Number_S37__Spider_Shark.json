@@ -77,7 +77,10 @@
     "attack": 2600,
     "defense": 2100,
     "monster_type": "Sea Serpent",
-    "monster_card_type": 34,
+    "monster_card_type": [
+        "Xyz",
+        "Effect"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

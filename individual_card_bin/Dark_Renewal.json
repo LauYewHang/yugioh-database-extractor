@@ -1,0 +1,14 @@
+{
+    "name": "Dark Renewal",
+    "filename": "Dark_Renewal",
+    "card_text": "When your opponent Normal or Special Summons a monster(s): Target 1 of those monsters and 1 Spellcaster monster you control; send both monsters to the GY, then you can Special Summon 1 DARK Spellcaster monster from your Deck or GY.",
+    "release_date": "2015-11-13",
+    "available_set": [
+        "LEGENDARY DRAGON DECKS",
+        "YUGI'S LEGENDARY DECKS",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

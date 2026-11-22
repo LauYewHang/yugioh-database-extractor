@@ -1,0 +1,37 @@
+{
+    "name": "Counter Gem",
+    "filename": "Counter_Gem",
+    "card_text": "Send all cards in your Spell & Trap Zone to the GY. Place as many \"Crystal Beast\" monsters as possible from your GY face-up in your Spell & Trap Zone as Continuous Spells. During the End Phase of this turn, destroy all \"Crystal Beast\" cards you control.",
+    "release_date": "2008-01-26",
+    "available_set": [
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "DUELIST PACK - JESSE ANDERSON -"
+    ],
+    "related_card": [
+        "Advanced Crystal Beast Amber Mammoth",
+        "Advanced Crystal Beast Amethyst Cat",
+        "Advanced Crystal Beast Cobalt Eagle",
+        "Advanced Crystal Beast Emerald Tortoise",
+        "Advanced Crystal Beast Ruby Carbuncle",
+        "Advanced Crystal Beast Sapphire Pegasus",
+        "Advanced Crystal Beast Topaz Tiger",
+        "Crystal Beast Amber Mammoth",
+        "Crystal Beast Amethyst Cat",
+        "Crystal Beast Cobalt Eagle",
+        "Crystal Beast Emerald Tortoise",
+        "Crystal Beast Rainbow Dragon",
+        "Crystal Beast Ruby Carbuncle",
+        "Crystal Beast Sapphire Pegasus",
+        "Crystal Beast Topaz Tiger",
+        "Gem-Knight Dispersion",
+        "Gem-Knight Iolite",
+        "Gem-Knight Master Diamond",
+        "Gem-Knight Master Diamond Dispersion",
+        "Gem-Knight Nepyrim",
+        "Gem-Knight Phantom Quartz",
+        "Gem-Knight Ruby"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

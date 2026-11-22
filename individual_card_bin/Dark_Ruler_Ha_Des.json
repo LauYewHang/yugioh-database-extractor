@@ -1,0 +1,26 @@
+{
+    "name": "Dark Ruler Ha Des",
+    "filename": "Dark_Ruler_Ha_Des",
+    "card_text": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "CHAMPION PACK GAME FIVE",
+        "The Lost Art Promotion",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "BATTLE PACK EPIC DAWN",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2450,
+    "defense": 1600,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

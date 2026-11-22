@@ -1,0 +1,15 @@
+{
+    "name": "Back-Up Rider",
+    "filename": "Back_Up_Rider",
+    "card_text": "Target 1 face-up monster on the field; it gains 1500 ATK until the end of this turn.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2-PLAYER STARTER SET",
+        "CLASH OF REBELLIONS",
+        "2016 MEGA-TINS MEGA PACK",
+        "STARTER DECK YUYA"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

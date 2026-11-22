@@ -1,0 +1,42 @@
+{
+    "name": "Madolche Ticket",
+    "filename": "Madolche_Ticket",
+    "card_text": "If another \"Madolche\" card(s) in your face-up field or GY is added to your hand or shuffled into your Main Deck by card effect: Add 1 \"Madolche\" monster from your Deck to your hand, or if you control a Fairy \"Madolche\" monster, you can Special Summon that monster in Attack Position instead. You can only use this effect of \"Madolche Ticket\" once per turn.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Madolche Anjelly",
+        "Madolche Baaple",
+        "Madolche Butlerusk",
+        "Madolche Chateau",
+        "Madolche Chickolates",
+        "Madolche Chouxvalier",
+        "Madolche Cruffssant",
+        "Madolche Dessert",
+        "Madolche Fresh Sistart",
+        "Madolche Hootcake",
+        "Madolche Lesson",
+        "Madolche Magileine",
+        "Madolche Marmalmaide",
+        "Madolche Messengelato",
+        "Madolche Mewfeuille",
+        "Madolche Mini Meowcaroons",
+        "Madolche Nights",
+        "Madolche Petingcessoeur",
+        "Madolche Promenade",
+        "Madolche Puddingcess",
+        "Madolche Puddingcess Chocolat-a-la-Mode",
+        "Madolche Queen Tiarafraise",
+        "Madolche Queen Tiaramisu",
+        "Madolche Salon",
+        "Madolche Tea Break",
+        "Madolche Teacher Glassouffle",
+        "Madolche Waltz",
+        "Madolchepalooza"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

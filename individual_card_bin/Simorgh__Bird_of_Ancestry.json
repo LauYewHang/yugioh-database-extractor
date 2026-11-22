@@ -1,0 +1,25 @@
+{
+    "name": "Simorgh, Bird of Ancestry",
+    "filename": "Simorgh__Bird_of_Ancestry",
+    "card_text": "Both players Tribute Summon WIND monsters with 1 less Tribute than required. If you Tribute Summon this card by Tributing only WIND monsters, return up to 2 cards your opponent controls to their owner's hand. This card is treated as a Normal Monster while in your hand.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Simorgh Onslaught",
+        "Simorgh Sky Battle",
+        "Simorgh, Bird of Beginning",
+        "Simorgh, Bird of Bringing",
+        "Simorgh, Bird of Calamity",
+        "Simorgh, Bird of Perfection",
+        "Simorgh, Bird of Sovereignty"
+    ],
+    "attribute": "WIND",
+    "attack": 2900,
+    "defense": 2000,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

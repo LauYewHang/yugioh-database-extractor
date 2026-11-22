@@ -1,0 +1,40 @@
+{
+    "name": "Capricious Darklord",
+    "filename": "Capricious_Darklord",
+    "card_text": "During the Main Phase (Quick Effect): You can activate this effect; Tribute Summon 1 Fairy monster face-up. If this card is sent to the GY: You can make all monsters your opponent currently controls lose 500 ATK/DEF for each Fairy monster on the field, until the end of this turn. You can only use each effect of \"Capricious Darklord\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Banishment of the Darklords",
+        "Condemned Darklord",
+        "Darklord Amdusc",
+        "Darklord Contact",
+        "Darklord Dance",
+        "Darklord Descent",
+        "Darklord Djehuty",
+        "Darklord Enchantment",
+        "Darklord Eveningstar",
+        "Darklord Gulgolet",
+        "Darklord Ixchel",
+        "Darklord Morningstar",
+        "Darklord Nasten",
+        "Darklord Nergal",
+        "Darklord Rebellion",
+        "Darklord Tezcatlipoca",
+        "Darklord Ukoback",
+        "Darklord Uprising",
+        "Fallen Angel in Darkness",
+        "Indulged Darklord",
+        "The Sanctified Darklord"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 1600,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

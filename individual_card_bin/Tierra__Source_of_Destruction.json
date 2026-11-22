@@ -1,0 +1,17 @@
+{
+    "name": "Tierra, Source of Destruction",
+    "filename": "Tierra__Source_of_Destruction",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling 10 other cards with different names from your hand and/or field into the Deck and/or Extra Deck, and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. If this card is Special Summoned: Shuffle all cards into the Deck, except this card, from each player's hand, field, Graveyard, and face-up Pendulum Monsters from the Extra Deck. Neither player can activate cards or effects in response to this effect's activation.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3400,
+    "defense": 3600,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

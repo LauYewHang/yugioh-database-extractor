@@ -11,7 +11,13 @@
     "attack": 0,
     "defense": null,
     "monster_type": "Dinosaur",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 2,
-    "link_arrow": 12
+    "link_arrow": [
+        "Bottom-Right",
+        "Bottom-Center"
+    ]
 }

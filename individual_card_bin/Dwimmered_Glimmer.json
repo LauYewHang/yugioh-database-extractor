@@ -1,0 +1,13 @@
+{
+    "name": "Dwimmered Glimmer",
+    "filename": "Dwimmered_Glimmer",
+    "card_text": "Activate this card by banishing 1 face-up monster you control or 1 monster in your GY; Special Summon this card as a Normal Monster (Spellcaster/LIGHT/ATK 0/DEF 0) with the same Level as that banished monster. (This card is also still a Trap.) You can only activate 1 \"Dwimmered Glimmer\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "RISING RAMPAGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

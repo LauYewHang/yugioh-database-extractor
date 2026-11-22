@@ -1,0 +1,12 @@
+{
+    "name": "BIG Win!?",
+    "filename": "BIG_Win__",
+    "card_text": "Declare a Level between 1 and 12; each player tosses a coin, and if both are Heads, the Levels of all face-up monsters you currently control become the declared Level. If both are tails, you lose Life Points equal to the declared Level x 500.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Rite of Aramesir",
+    "filename": "Rite_of_Aramesir",
+    "card_text": "If you control no \"Adventurer Token\": Special Summon 1 \"Adventurer Token\" (Fairy/EARTH/Level 4/ATK 2000/DEF 2000), then if you do not control \"Fateful Adventure\", you can place 1 \"Fateful Adventure\" from your Deck face-up in your Spell & Trap Zone. You cannot activate the effects of monsters on the field the turn you activate this card, except Special Summoned monsters'. You can only activate 1 \"Rite of Aramesir\" per turn.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "THE GRAND CREATORS",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Breath of Resurrection",
+        "Celestial Apparatus Tesea",
+        "Curse of Aramatir",
+        "Dracoback, the Rideable Dragon",
+        "Dunnell, the Noble Arms of Light",
+        "Fateful Adventure",
+        "Forest of Lost Flowers",
+        "Illegal Knight",
+        "Magicore Warrior of the Relics",
+        "Starlit Papillon",
+        "Thunder Discharge",
+        "Wandering Gryphon Rider",
+        "Water Enchantress of the Temple",
+        "Zaralaam the Dark Palace"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Plunder Patroll Booty",
+    "filename": "Plunder_Patroll_Booty",
+    "card_text": "You can declare 1 Attribute, then target 1 face-up monster your opponent controls; it becomes that Attribute until the end of this turn (even if this card leaves the field), then you can take 1 \"Plunder Patroll\" monster from your GY, and either shuffle it into the Deck or Special Summon it. You can only use this effect of \"Plunder Patroll Booty\" once per turn. Once per turn, during the End Phase, if you control no \"Plunder Patroll\" monsters: Send this card to the GY.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Blackbeard, the Plunder Patroll Captain",
+        "Blackeyes, the Plunder Patroll Seaguide",
+        "Bluebeard, the Plunder Patroll Shipwright",
+        "Emblem of the Plunder Patroll",
+        "Goldenhair, the Newest Plunder Patroll",
+        "Plunder Patroll Parrrty",
+        "Plunder Patroll Shipshape Ships Shipping",
+        "Plunder Patroll Shipyarrrd",
+        "Plunder Patrollship Brann",
+        "Plunder Patrollship Jord",
+        "Plunder Patrollship Lys",
+        "Plunder Patrollship Moerk",
+        "Pride of the Plunder Patroll",
+        "Redbeard, the Plunder Patroll Matey",
+        "Whitebeard, the Plunder Patroll Helm"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

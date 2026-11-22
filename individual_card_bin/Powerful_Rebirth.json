@@ -1,0 +1,15 @@
+{
+    "name": "Powerful Rebirth",
+    "filename": "Powerful_Rebirth",
+    "card_text": "Activate this card by targeting 1 Level 4 or lower monster in your GY; Special Summon that target. Increase its Level by 1 and ATK/DEF by 100. When that monster is destroyed, destroy this card.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "MASTER OF PENDULUM STRUCTURE DECK",
+        "CROSSED SOULS",
+        "STRUCTURE DECK : CYBERSE LINK",
+        "STRUCTURE DECK: THE CRIMSON KING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

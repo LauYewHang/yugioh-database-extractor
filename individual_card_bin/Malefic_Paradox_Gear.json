@@ -1,0 +1,35 @@
+{
+    "name": "Malefic Paradox Gear",
+    "filename": "Malefic_Paradox_Gear",
+    "card_text": "If a face-up Field Spell is on the field: You can Tribute this card; Special Summon 1 \"Malefic Parallel Gear\" from your Deck, then, add 1 \"Malefic\" monster from your Deck to your hand, except \"Malefic Paradox Gear\". If a \"Malefic\" monster would banish a monster to Special Summon itself by its own way, you can banish this card you control or in your GY instead. You can only use each effect of \"Malefic Paradox Gear\" once per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Malefic Blue-Eyes White Dragon",
+        "Malefic Claw Stream",
+        "Malefic Cyber End Dragon",
+        "Malefic Divide",
+        "Malefic Force",
+        "Malefic Paradigm Dragon",
+        "Malefic Paradigm Shift",
+        "Malefic Paradox Dragon",
+        "Malefic Parallel Gear",
+        "Malefic Rainbow Dragon",
+        "Malefic Red-Eyes Black Dragon (Updated from: Malefic Red-Eyes B. Dragon)",
+        "Malefic Selector",
+        "Malefic Stardust Dragon",
+        "Malefic Territory",
+        "Malefic Truth Dragon",
+        "Malefic Tune",
+        "Malefic World"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

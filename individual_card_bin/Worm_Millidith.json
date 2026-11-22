@@ -1,0 +1,33 @@
+{
+    "name": "Worm Millidith",
+    "filename": "Worm_Millidith",
+    "card_text": "FLIP: You can equip this card to a monster your opponent controls as an Equip Card. Inflict 400 damage to the controller of the equipped monster during each Standby Phase.",
+    "release_date": "2010-05-25",
+    "available_set": [
+        "HIDDEN ARSENAL 2",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "LIGHT",
+    "attack": 400,
+    "defense": 1600,
+    "monster_type": "Reptile",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

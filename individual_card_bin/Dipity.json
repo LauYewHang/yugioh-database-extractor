@@ -1,0 +1,17 @@
+{
+    "name": "Dipity",
+    "filename": "Dipity",
+    "card_text": "A cute little thing who lives in a glass bottle and is said to bring good luck to the one who makes a contract with it. The lid must never be opened, no matter what happens\u2026",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

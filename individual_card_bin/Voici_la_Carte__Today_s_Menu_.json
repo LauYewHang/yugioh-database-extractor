@@ -1,0 +1,25 @@
+{
+    "name": "Voici la Carte (Today's Menu)",
+    "filename": "Voici_la_Carte__Today_s_Menu_",
+    "card_text": "Reveal 2 \"Nouvelles\" monsters with different names from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the other into your Deck, then you can add 1 of these cards from your Deck or GY to your hand based on the Monster Type added to your hand by this effect.\n\u25cfBeast-Warrior: \"Recette de Poisson (Fish Recipe)\"\n\u25cfWarrior: \"Recette de Viande (Meat Recipe)\"\nYou can only activate 1 \"Voici la Carte (Today's Menu)\" per turn.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Baelgrill de Nouvelles",
+        "Balameuniere de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef de Nouvelles",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Poisson (Fish Recipe)",
+        "Recette de Viande (Meat Recipe)"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

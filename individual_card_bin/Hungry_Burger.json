@@ -1,0 +1,24 @@
+{
+    "name": "Hungry Burger",
+    "filename": "Hungry_Burger",
+    "card_text": "You can Ritual Summon this card with \"Hamburger Recipe\".",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "WILD SURVIVORS",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Baelgrill de Nouvelles",
+        "Chef's Special Recipe",
+        "Hamburger Recipe"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1850,
+    "monster_type": "Warrior",
+    "monster_card_type": 4,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Ghost Bird of Bewitchment",
+    "filename": "Ghost_Bird_of_Bewitchment",
+    "card_text": "This card gains an effect based on your Main Monster Zone it is in.\n\u25cfLeftmost: Gains 1000 ATK/DEF.\n\u25cfRightmost: Can make up to 2 attacks on monsters during each Battle Phase.\n\u25cfCenter: Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects.\n\u25cfOthers: Monsters in this column cannot activate their effects.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 1500,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

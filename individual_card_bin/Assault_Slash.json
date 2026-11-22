@@ -1,0 +1,24 @@
+{
+    "name": "Assault Slash",
+    "filename": "Assault_Slash",
+    "card_text": "Activate only while you control an \"/Assault Mode\" monster. Destroy all face-up monsters on the field.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Arcanite Magician/Assault Mode",
+        "Assault Lich",
+        "Colossal Fighter/Assault Mode",
+        "Crimson Blader/Assault Mode",
+        "Doomkaiser Dragon/Assault Mode",
+        "Hyper Psychic Blaster/Assault Mode",
+        "Junk Warrior/Assault Mode",
+        "Red Dragon Archfiend/Assault Mode",
+        "Red Nova Dragon/Assault Mode",
+        "Stardust Dragon/Assault Mode",
+        "T.G. Halberd Cannon/Assault Mode"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

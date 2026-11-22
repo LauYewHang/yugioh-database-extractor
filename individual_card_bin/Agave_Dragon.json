@@ -1,0 +1,18 @@
+{
+    "name": "Agave Dragon",
+    "filename": "Agave_Dragon",
+    "card_text": "2+ monsters, except Tokens\nIf this card is Link Summoned: You can apply these effects in sequence, depending on the Types of monsters in the GYs (skip over any that do not apply). You can only use this effect of \"Agave Dragon\" once per turn.\n\u25cfInflict 100 damage to your opponent for each Dragon.\n\u25cfThis card gains 200 ATK for each Dinosaur.\n\u25cfAll monsters your opponent currently controls lose 300 ATK for each Sea Serpent.\n\u25cfYou gain 400 LP for each Wyrm.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Wyrm",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 90
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Forest of Lost Flowers",
+    "filename": "Forest_of_Lost_Flowers",
+    "card_text": "Monsters you control equipped with \"Starlit Papillon\" are unaffected by your opponent's activated effects. Once per turn, when your \"Adventurer Token\" destroys a monster by battle: You can draw 1 card. Once per turn, during your Main Phase, if the previous effect was activated this turn: You can add 1 Field Spell that mentions \"Adventurer Token\" from your Deck or GY to your hand, except \"Forest of Lost Flowers\".",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "THE GRAND CREATORS",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Breath of Resurrection",
+        "Celestial Apparatus Tesea",
+        "Curse of Aramatir",
+        "Dracoback, the Rideable Dragon",
+        "Dunnell, the Noble Arms of Light",
+        "Fateful Adventure",
+        "Illegal Knight",
+        "Magicore Warrior of the Relics",
+        "Rite of Aramesir",
+        "Starlit Papillon",
+        "Thunder Discharge",
+        "Wandering Gryphon Rider",
+        "Water Enchantress of the Temple",
+        "Zaralaam the Dark Palace"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

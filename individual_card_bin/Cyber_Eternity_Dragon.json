@@ -1,0 +1,38 @@
+{
+    "name": "Cyber Eternity Dragon",
+    "filename": "Cyber_Eternity_Dragon",
+    "card_text": "1 \"Cyber Dragon\" monster + 2 Machine monsters\nIf you have a Machine Fusion Monster(s) in your GY, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Cyber Dragon\" from your hand, Deck, or GY. You can banish this card from your GY; this turn, your opponent cannot target Fusion Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
+    "release_date": "2018-09-28",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Dragon",
+        "Cyber Dragon Core",
+        "Cyber Dragon Drei",
+        "Cyber Dragon Herz",
+        "Cyber Dragon Infinity",
+        "Cyber Dragon Nachster",
+        "Cyber Dragon Nova",
+        "Cyber Dragon Sieger",
+        "Cyber Dragon Vier",
+        "Cyber Dragon Zwei",
+        "Cyber Dragon, the Luminous Mech Dragon",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light",
+        "Proto-Cyber Dragon",
+        "Toon Cyber Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 4000,
+    "monster_type": "Machine",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

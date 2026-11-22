@@ -1,0 +1,18 @@
+{
+    "name": "Machine Lord \u00dcr",
+    "filename": "Machine_Lord_\u00dcr",
+    "card_text": "This card can attack all monsters your opponent controls once each. If this card attacks or is attacked, your opponent takes no battle damage.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

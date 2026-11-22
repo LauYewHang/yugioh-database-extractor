@@ -1,0 +1,19 @@
+{
+    "name": "Ogdoadic Water Lily",
+    "filename": "Ogdoadic_Water_Lily",
+    "card_text": "Send 1 Reptile monster from your Deck to the GY, then if you have 5 or more Reptile monsters with different names in your GY, you can Special Summon 1 Reptile monster from your GY. You can only activate 1 \"Ogdoadic Water Lily\" per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "OTS TOURNAMENT PACK 23",
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Keurse, the Ogdoadic Light",
+        "Nauya, the Ogdoadic Remnant",
+        "Nunu, the Ogdoadic Remnant",
+        "Ogdoadic Calling",
+        "Zohah, the Ogdoadic Boundless"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

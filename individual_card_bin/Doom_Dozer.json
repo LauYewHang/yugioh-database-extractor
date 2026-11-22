@@ -1,0 +1,21 @@
+{
+    "name": "Doom Dozer",
+    "filename": "Doom_Dozer",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 Insect monsters from your GY. If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "SHADOW OF INFINITY",
+        "DARK REVELATION Volume 4",
+        "DUELIST LEAGUE 14",
+        "GOLD SERIES"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2800,
+    "defense": 2600,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

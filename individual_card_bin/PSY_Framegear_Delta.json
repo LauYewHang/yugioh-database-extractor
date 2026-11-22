@@ -1,0 +1,28 @@
+{
+    "name": "PSY-Framegear Delta",
+    "filename": "PSY_Framegear_Delta",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. Once per Chain, when your opponent activates a Spell Card while you control no monsters (Quick Effect): You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or GY, and if you do, negate that activation, and if you do that, destroy that Spell. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
+    "release_date": "2015-10-02",
+    "available_set": [
+        "OTS TOURNAMENT PACK 25",
+        "RARITY COLLECTION 5",
+        "HIGH-SPEED RIDERS"
+    ],
+    "related_card": [
+        "PSY-Frame Accelerator",
+        "PSY-Frame Circuit",
+        "PSY-Frame Driver",
+        "PSY-Frame Multi-Threader",
+        "PSY-Frame Overload",
+        "PSY-Framegear Alpha",
+        "PSY-Framelord Lambda",
+        "PSY-Framelord Zeta"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 0,
+    "monster_type": "Psychic",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

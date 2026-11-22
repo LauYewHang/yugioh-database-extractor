@@ -1,0 +1,19 @@
+{
+    "name": "Buio the Dawn's Light",
+    "filename": "Buio_the_Dawn_s_Light",
+    "card_text": "Monsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects. You can only use each of the following effects of \"Buio the Dawn's Light\" once per turn. If this card is in your hand: You can target 1 Fiend Effect Monster you control; negate its effects, and if you do, Special Summon this card. If this card is sent to the GY: You can add 1 \"Mutiny in the Sky\" from your Deck to your hand.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Mutiny in the Sky"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

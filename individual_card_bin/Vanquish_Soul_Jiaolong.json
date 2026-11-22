@@ -1,0 +1,35 @@
+{
+    "name": "Vanquish Soul Jiaolong",
+    "filename": "Vanquish_Soul_Jiaolong",
+    "card_text": "If you reveal a card(s) in your hand to activate a \"Vanquish Soul\" card or effect (except during the Damage Step): You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\n\u25cfFIRE: Change the battle position of 1 monster on the field.\n\u25cf2 FIRE: Add 1 \"Vanquish Soul\" card from your Deck to your hand, except \"Vanquish Soul Jiaolong\".\nYou can only use each effect of \"Vanquish Soul Jiaolong\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "LIMITED PACK WORLD CHAMPIONSHIP 2026",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Rock of the Vanquisher",
+        "Stake your Soul!",
+        "Vanquish Soul - Continue?",
+        "Vanquish Soul Caesar Valius",
+        "Vanquish Soul Calamity Caesar",
+        "Vanquish Soul Dr. Mad Love",
+        "Vanquish Soul Dust Devil",
+        "Vanquish Soul Heavy Borger",
+        "Vanquish Soul Hollie Sue",
+        "Vanquish Soul Pantera",
+        "Vanquish Soul Pluton HG",
+        "Vanquish Soul Razen",
+        "Vanquish Soul Rocks",
+        "Vanquish Soul Snow Devil",
+        "Vanquish Soul Trinity Burst",
+        "Vanquish Soul, Start!"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 2100,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

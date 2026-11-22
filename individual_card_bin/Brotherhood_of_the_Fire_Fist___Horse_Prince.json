@@ -1,0 +1,40 @@
+{
+    "name": "Brotherhood of the Fire Fist - Horse Prince",
+    "filename": "Brotherhood_of_the_Fire_Fist___Horse_Prince",
+    "card_text": "1 FIRE Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can Special Summon 1 Level 3 FIRE monster from your Deck. After you Synchro Summon this card, you cannot Special Summon Level 5 or higher monsters for the rest of the turn.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "OTS TOURNAMENT PACK 12",
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Brotherhood of the Fire Fist - Boar",
+        "Brotherhood of the Fire Fist - Buffalo",
+        "Brotherhood of the Fire Fist - Cardinal",
+        "Brotherhood of the Fire Fist - Caribou",
+        "Brotherhood of the Fire Fist - Dragon",
+        "Brotherhood of the Fire Fist - Eagle",
+        "Brotherhood of the Fire Fist - Eland",
+        "Brotherhood of the Fire Fist - Elephant",
+        "Brotherhood of the Fire Fist - Hawk",
+        "Brotherhood of the Fire Fist - Kirin",
+        "Brotherhood of the Fire Fist - Leopard",
+        "Brotherhood of the Fire Fist - Panda",
+        "Brotherhood of the Fire Fist - Peacock",
+        "Brotherhood of the Fire Fist - Ram",
+        "Brotherhood of the Fire Fist - Rhino",
+        "Brotherhood of the Fire Fist - Rooster",
+        "Fire Formation - Domei",
+        "Fire Formation - Ingen",
+        "Fire Fortress atop Liang Peak",
+        "Ultimate Fire Formation - Seito",
+        "Ultimate Fire Formation - Sinto"
+    ],
+    "attribute": "FIRE",
+    "attack": 2200,
+    "defense": 2200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

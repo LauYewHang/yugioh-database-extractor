@@ -1,0 +1,13 @@
+{
+    "name": "Super Junior Confrontation",
+    "filename": "Super_Junior_Confrontation",
+    "card_text": "Activate only when an opponent's monster declares an attack. Negate the battle, and 1 monster with the lowest ATK in face-up Attack Position your opponent controls battles against 1 monster with the lowest DEF in face-up Defense Position you control. After that battle, end the Battle Phase.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "SHADOW OF INFINITY",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

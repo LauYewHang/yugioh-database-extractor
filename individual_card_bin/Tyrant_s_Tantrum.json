@@ -1,0 +1,12 @@
+{
+    "name": "Tyrant's Tantrum",
+    "filename": "Tyrant_s_Tantrum",
+    "card_text": "Activate by Tributing 2 monsters. Your opponent cannot activate a Spell Card unless they also send 1 Spell Card from the Deck to the Graveyard.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

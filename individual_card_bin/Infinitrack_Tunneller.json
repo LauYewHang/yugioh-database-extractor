@@ -1,0 +1,25 @@
+{
+    "name": "Infinitrack Tunneller",
+    "filename": "Infinitrack_Tunneller",
+    "card_text": "You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. You can banish this card from your GY, then target 5 EARTH Machine monsters in your GY; shuffle them into the Deck, then draw 2 cards. You can only use each effect of \"Infinitrack Tunneller\" once per turn.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Heavy Forward",
+        "Infinitrack Brutal Dozer",
+        "Infinitrack Goliath",
+        "Infinitrack Harvester",
+        "Infinitrack Trencher",
+        "Outrigger Extension"
+    ],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

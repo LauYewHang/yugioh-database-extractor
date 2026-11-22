@@ -1,0 +1,14 @@
+{
+    "name": "Dark Factory of More Production",
+    "filename": "Dark_Factory_of_More_Production",
+    "card_text": "You can send 1 monster from your hand or field to the GY; draw 1 card. You can only use this effect of \"Dark Factory of More Production\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "SAVAGE STRIKE",
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

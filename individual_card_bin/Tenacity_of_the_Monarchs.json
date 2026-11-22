@@ -1,0 +1,37 @@
+{
+    "name": "Tenacity of the Monarchs",
+    "filename": "Tenacity_of_the_Monarchs",
+    "card_text": "Reveal 1 monster in your hand with 2400 ATK/1000 DEF, or 2800 ATK/1000 DEF; add 1 \"Monarch\" Spell/Trap from your Deck to your hand, except \"Tenacity of the Monarchs\". You can only activate 1 \"Tenacity of the Monarchs\" per turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "2015 MEGA-TINS MEGA PACK",
+        "2025 MEGA-PACK TIN",
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "Domain of the True Monarchs",
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Escalation of the Monarchs",
+        "Frost Blast of the Monarchs",
+        "March of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Restoration of the Monarchs",
+        "Return of the Monarchs",
+        "Strike of the Monarchs",
+        "Tessera the Primal Squire",
+        "The First Monarch",
+        "The Monarchs Awaken",
+        "The Monarchs Erupt",
+        "The Monarchs Masterplan",
+        "The Monarchs Revolt",
+        "The Monarchs Stormforth",
+        "The Prime Monarch"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

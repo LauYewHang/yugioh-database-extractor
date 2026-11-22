@@ -1,0 +1,24 @@
+{
+    "name": "Ghost Sister & Spooky Dogwood",
+    "filename": "Ghost_Sister___Spooky_Dogwood",
+    "card_text": "During either turn, except the End Phase (Quick Effect): You can discard this card; apply this effect this turn. You can only use this effect of \"Ghost Sister & Spooky Dogwood\" once per turn.\n\u25cfEach time your opponent Special Summons an Effect Monster(s) during the Main Phase or Battle Phase, you gain LP equal to that monster's ATK. If you did not gain LP by this effect, your LP are halved during the End Phase.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "VALIANT SMASHERS",
+        "Gold Series: Maximum Gold",
+        "Legendary 5D's Decks",
+        "QUARTER CENTURY BONANZA",
+        "DARK NEOSTORM",
+        "Duel Devastator",
+        "The Lost Art Promotion",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 1800,
+    "monster_type": "Zombie",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

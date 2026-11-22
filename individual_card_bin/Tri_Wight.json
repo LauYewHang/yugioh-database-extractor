@@ -1,0 +1,14 @@
+{
+    "name": "Tri-Wight",
+    "filename": "Tri_Wight",
+    "card_text": "Target 3 Level 2 or lower Normal Monsters in your GY; Special Summon them.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "PHOTON SHOCKWAVE",
+        "OTS TOURNAMENT PACK 15"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

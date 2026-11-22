@@ -1,0 +1,21 @@
+{
+    "name": "Nemleria Repeter",
+    "filename": "Nemleria_Repeter",
+    "card_text": "If you control another \"Nemleria\" card: You can banish the following number of cards from your Extra Deck face-down, except \"Dreaming Nemleria\", then activate the appropriate effect;\n\u25cf1: Add 1 \"Nemleria\" card from your GY to your hand.\n\u25cf2: Any damage you take this turn is halved.\n\u25cf3: Send 1 Level 10 Beast monster you control to the GY, and if you do, negate the effects of all face-up monsters your opponent currently controls, until the end of this turn.\nYou can only use the effect of \"Nemleria Repeter\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Dream Tower of Princess Nemleria",
+        "Dreaming Nemleria",
+        "Dreaming Reality of Nemleria, Realized",
+        "Nemleria Dream Defender - Couette",
+        "Nemleria Dream Defender - Oreiller",
+        "Nemleria Dream Devourer - Reveil",
+        "Nemleria Louve",
+        "Sweet Dreams, Nemleria"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Paleozoic Anomalocaris",
+    "filename": "Paleozoic_Anomalocaris",
+    "card_text": "3+ Level 2 monsters\nUnaffected by other monsters' effects. Once per turn, if a Trap(s) is sent from your Spell & Trap Zone to the GY (except during the Damage Step): You can excavate the top card of your Deck, and if it is a Trap, add it to your hand. Otherwise, send it to the GY. Once per turn, if this card has a Trap as material (Quick Effect): You can detach 1 material from this card, then target 1 card on the field; destroy it.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION",
+        "2017 MEGA-TINS MEGA PACK",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Paleozoic Cambroraster",
+        "Paleozoic Opabinia",
+        "Paleozoic Pikaia"
+    ],
+    "attribute": "WATER",
+    "attack": 2400,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 2
+}

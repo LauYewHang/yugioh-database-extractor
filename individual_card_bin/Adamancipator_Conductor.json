@@ -1,0 +1,36 @@
+{
+    "name": "Adamancipator Conductor",
+    "filename": "Adamancipator_Conductor",
+    "card_text": "If this card is in your hand: You can place 1 other \"Adamancipator\" card from your hand on top of the Deck; Special Summon this card. During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Level 4 or lower Rock monster, also place the rest on the bottom of your Deck in any order. You can only use each effect of \"Adamancipator Conductor\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Adamancipator Analyzer",
+        "Adamancipator Crystal - Dragite",
+        "Adamancipator Crystal - Leonite",
+        "Adamancipator Crystal - Raptite",
+        "Adamancipator Crystal - Tiamite",
+        "Adamancipator Friends",
+        "Adamancipator Laputite",
+        "Adamancipator Luminous",
+        "Adamancipator Mates",
+        "Adamancipator Relief",
+        "Adamancipator Researcher",
+        "Adamancipator Resonance",
+        "Adamancipator Risen - Dragite",
+        "Adamancipator Risen - Leonite",
+        "Adamancipator Risen - Raptite",
+        "Adamancipator Risen - Tiamite",
+        "Adamancipator Seeker",
+        "Adamancipator Signs"
+    ],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1100,
+    "monster_type": "Rock",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

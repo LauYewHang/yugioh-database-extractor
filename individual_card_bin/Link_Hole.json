@@ -1,0 +1,13 @@
+{
+    "name": "Link Hole",
+    "filename": "Link_Hole",
+    "card_text": "If you control a Link-4 or higher monster: Destroy monsters your opponent controls, up to the number of Link-3 or higher monsters you control. You can only activate 1 \"Link Hole\" per turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

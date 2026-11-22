@@ -1,0 +1,13 @@
+{
+    "name": "Cattle Call",
+    "filename": "Cattle_Call",
+    "card_text": "Send 1 face-up monster you control to the GY, whose original Type is Beast, Beast-Warrior, or Winged Beast; Special Summon 1 monster from your Extra Deck with the same original Type, but it cannot attack, its effects are negated, also it is destroyed during the End Phase. You can only activate 1 \"Cattle Call\" per turn.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "OTS TOURNAMENT PACK 14"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

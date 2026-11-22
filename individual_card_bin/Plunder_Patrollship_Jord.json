@@ -1,0 +1,35 @@
+{
+    "name": "Plunder Patrollship Jord",
+    "filename": "Plunder_Patrollship_Jord",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf your opponent Special Summons a monster(s) (except during the Damage Step): You can add 1 \"Plunder Patroll\" card from your Deck to your hand, then if this card is equipped with a \"Plunder Patroll\" card, you can Special Summon 1 \"Plunder Patroll\" monster from your Deck. You can target 1 \"Plunder Patroll\" card in your GY; add it to your hand, and if you do, place this card in your Pendulum Zone. You can only use each effect of \"Plunder Patrollship Jord\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Blackbeard, the Plunder Patroll Captain",
+        "Blackeyes, the Plunder Patroll Seaguide",
+        "Bluebeard, the Plunder Patroll Shipwright",
+        "Emblem of the Plunder Patroll",
+        "Goldenhair, the Newest Plunder Patroll",
+        "Plunder Patroll Booty",
+        "Plunder Patroll Parrrty",
+        "Plunder Patroll Shipshape Ships Shipping",
+        "Plunder Patroll Shipyarrrd",
+        "Plunder Patrollship Brann",
+        "Plunder Patrollship Lys",
+        "Plunder Patrollship Moerk",
+        "Pride of the Plunder Patroll",
+        "Redbeard, the Plunder Patroll Matey",
+        "Whitebeard, the Plunder Patroll Helm"
+    ],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 3000,
+    "monster_type": "Fiend",
+    "monster_card_type": 4114,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8,
+    "pendulum_effect": "You can declare 1 Attribute; return this card to the Extra Deck, and if you do, Special Summon 1 \"Plunder Patroll Token\" (Fiend/Level 4/ATK 0/DEF 0) with that Attribute to both players' fields in Defense Position. You can only use this effect of \"Plunder Patrollship Jord\" once per turn.",
+    "pendulum_scale": 1
+}

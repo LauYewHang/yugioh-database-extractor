@@ -1,0 +1,20 @@
+{
+    "name": "Venom Burn",
+    "filename": "Venom_Burn",
+    "card_text": "Select 1 monster with a Venom Counter(s). Remove all Venom Counters from that card, and inflict 700 damage to your opponent for each Venom Counter removed.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Ambush Fangs",
+        "Snake Deity's Command",
+        "Venom Boa",
+        "Venom Serpent",
+        "Venom Shot",
+        "Venom Snake",
+        "Venom Swamp"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

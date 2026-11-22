@@ -1,0 +1,33 @@
+{
+    "name": "Prank-Kids Bow-Wow-Bark",
+    "filename": "Prank_Kids_Bow_Wow_Bark",
+    "card_text": "2 \"Prank-Kids\" monsters\nA \"Prank-Kids\" monster this card points to gains 1000 ATK. During your opponent's turn (Quick Effect): You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand, also \"Prank-Kids\" monsters you control cannot be destroyed by your opponent's card effects this turn. You can only use this effect of \"Prank-Kids Bow-Wow-Bark\" once per turn.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Prank-Kids Battle Butler",
+        "Prank-Kids Dodo-Doodle-Doo",
+        "Prank-Kids Dropsies",
+        "Prank-Kids Fansies",
+        "Prank-Kids Lampsies",
+        "Prank-Kids Meow-Meow-Mu",
+        "Prank-Kids Pandemonium",
+        "Prank-Kids Place",
+        "Prank-Kids Plan",
+        "Prank-Kids Pranks",
+        "Prank-Kids Rip-Roarin-Roaster",
+        "Prank-Kids Rocket Ride",
+        "Prank-Kids Rocksies",
+        "Prank-Kids Weather Washer"
+    ],
+    "attribute": "FIRE",
+    "attack": 2000,
+    "defense": null,
+    "monster_type": "Pyro",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 68
+}

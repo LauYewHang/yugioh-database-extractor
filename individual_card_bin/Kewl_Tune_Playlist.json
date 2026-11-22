@@ -1,0 +1,26 @@
+{
+    "name": "Kewl Tune Playlist",
+    "filename": "Kewl_Tune_Playlist",
+    "card_text": "Target 1 \"Kewl Tune\" monster in your field or GY; apply these effects in sequence, also for the rest of this turn after this card resolves, you cannot Special Summon, except Tuners.\n\u25cfApply that target's effect that activates when it is sent to the GY as Synchro Material.\n\u25cfReturn that target to the hand.\nYou can activate up to 2 \"Kewl Tune Playlist\" per turn.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "JJ \"Kewl Tune\"",
+        "Kewl Tune B2B",
+        "Kewl Tune Clip",
+        "Kewl Tune Crackle",
+        "Kewl Tune Cue",
+        "Kewl Tune Loudness War",
+        "Kewl Tune Mix",
+        "Kewl Tune Reco",
+        "Kewl Tune Remix",
+        "Kewl Tune Rotary",
+        "Kewl Tune RS",
+        "Kewl Tune Synchro",
+        "Kewl Tune Track Maker"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

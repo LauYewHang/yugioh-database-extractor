@@ -1,0 +1,30 @@
+{
+    "name": "The Agent of Destruction - Venus",
+    "filename": "The_Agent_of_Destruction___Venus",
+    "card_text": "You can banish 1 \"The Agent of Creation - Venus\" from your GY; Special Summon this card from your hand. You can pay LP in multiples of 500, then for every 500 LP paid, target 1 of your \"Mystical Shine Ball\" that is banished or in your GY; Special Summon them, but place them on the bottom of the Deck when they leave the field. You can only use 1 \"The Agent of Destruction - Venus\" effect per turn, and only once that turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Majesty Hyperion",
+        "Master Hyperion",
+        "Masterflare Hyperion",
+        "Mystical Shine Ball",
+        "The Agent of Creation - Venus",
+        "The Agent of Entropy - Uranus",
+        "The Agent of Life - Neptune",
+        "The Agent of Miracles - Jupiter",
+        "The Agent of Mystery - Earth",
+        "The Executor of the Underworld - Pluto",
+        "The Sacred Waters in the Sky"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 1600,
+    "monster_type": "Fairy",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

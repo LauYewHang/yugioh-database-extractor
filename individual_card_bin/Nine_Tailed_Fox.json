@@ -1,0 +1,19 @@
+{
+    "name": "Nine-Tailed Fox",
+    "filename": "Nine_Tailed_Fox",
+    "card_text": "If this card is in your hand or GY: You can Tribute 2 monsters; Special Summon this card. You can only use this effect of \"Nine-Tailed Fox\" once per turn. If this card that was Special Summoned from the GY attacks a Defense Position monster, inflict piercing battle damage. If this card is destroyed by battle or card effect and sent to the GY: You can Special Summon 2 \"Fox Tokens\" (Zombie/FIRE/Level 2/ATK 500/DEF 500).",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "SECRET SLAYERS",
+        "DUEL POWER",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2200,
+    "defense": 2000,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

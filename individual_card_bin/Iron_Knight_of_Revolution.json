@@ -1,0 +1,17 @@
+{
+    "name": "Iron Knight of Revolution",
+    "filename": "Iron_Knight_of_Revolution",
+    "card_text": "3+ Machine Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+    "release_date": "2017-08-13",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2017"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 340
+}

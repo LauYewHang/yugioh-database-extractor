@@ -1,0 +1,24 @@
+{
+    "name": "Rescue Cat",
+    "filename": "Rescue_Cat",
+    "card_text": "You can send this card to the GY; Special Summon 2 Level 3 or lower Beast monsters from your Deck, but their effects are negated, also they are destroyed during the End Phase. You can only use this effect of \"Rescue Cat\" once per turn.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "TURBO PACK BOOSTER ONE",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "DARK REVELATION Volume 3",
+        "DUELIST SAGA",
+        "TURBO PACK BOOSTER THREE",
+        "CHAMPION PACK GAME FIVE",
+        "FLAMING ETERNITY",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 100,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

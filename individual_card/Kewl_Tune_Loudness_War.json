@@ -25,7 +25,11 @@
     "attack": 0,
     "defense": 3000,
     "monster_type": "Machine",
-    "monster_card_type": 1042,
+    "monster_card_type": [
+        "Tuner",
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

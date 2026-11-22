@@ -1,0 +1,28 @@
+{
+    "name": "Batteryman AAA",
+    "filename": "Batteryman_AAA",
+    "card_text": "When this card is Normal Summoned or flipped face-up, you can Special Summon 1 \"Batteryman AAA\" from your hand or Graveyard.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Battery Charger",
+        "Batteryman 9-Volt",
+        "Batteryman Charger",
+        "Batteryman Fuel Cell",
+        "Batteryman Industrial Strength",
+        "Batteryman Micro-Cell",
+        "Batteryman Solar",
+        "Portable Battery Pack",
+        "Quick Charger",
+        "Short Circuit"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

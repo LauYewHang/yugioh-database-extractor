@@ -1,0 +1,43 @@
+{
+    "name": "Ariel, Priestess of the Nekroz",
+    "filename": "Ariel__Priestess_of_the_Nekroz",
+    "card_text": "Once per turn: You can reveal a number of \"Nekroz\" cards in your hand; increase or decrease this card's Level by the number revealed, until the end of this turn. If this card is Tributed by card effect: You can add 1 \"Nekroz\" monster from your Deck to your hand, except a Ritual Monster. You can only use this effect of \"Ariel, Priestess of the Nekroz\" once per turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "MAXIMUM CRISIS",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Avance, Swordsman of the Nekroz",
+        "Dance Princess of the Nekroz",
+        "Emilia, Dance Priestess of the Nekroz",
+        "Exa, Enforcer of the Nekroz",
+        "Great Sorcerer of the Nekroz",
+        "Nekroz Cycle",
+        "Nekroz Divinemirror",
+        "Nekroz Kaleidoscope",
+        "Nekroz Mirror",
+        "Nekroz of Areadbhair",
+        "Nekroz of Brionac",
+        "Nekroz of Catastor",
+        "Nekroz of Clausolas",
+        "Nekroz of Decisive Armor",
+        "Nekroz of Gungnir",
+        "Nekroz of Metaltron",
+        "Nekroz of Sophia",
+        "Nekroz of Trishula",
+        "Nekroz of Unicore",
+        "Nekroz of Valkyrus",
+        "Shurit, Strategist of the Nekroz",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 1800,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

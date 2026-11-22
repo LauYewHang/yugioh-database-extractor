@@ -1,0 +1,30 @@
+{
+    "name": "Exosister Returnia",
+    "filename": "Exosister_Returnia",
+    "card_text": "If all monsters you control are \"Exosister\" monsters (min. 1): Pay 800 LP, then target 1 card your opponent controls or in their GY; banish it, then you can apply 1 of the following effects.\n\u25cfImmediately after this effect resolves, Xyz Summon 1 \"Exosister\" Xyz Monster using monsters you control.\n\u25cfIf you Xyz Summoned this turn, banish 1 card your opponent controls.\nYou can only activate 1 \"Exosister Returnia\" per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Exosister Arment",
+        "Exosister Asophiel",
+        "Exosister Betrayal",
+        "Exosister Carpedivem",
+        "Exosister Elis",
+        "Exosister Gibrine",
+        "Exosister Irene",
+        "Exosister Karmael",
+        "Exosister Kaspitell",
+        "Exosister Martha",
+        "Exosister Mikailis",
+        "Exosister Pax",
+        "Exosister Sophia",
+        "Exosister Stella",
+        "Exosister Vadis",
+        "Exosisters Magnifica"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "World Soul - Carbon",
+    "filename": "World_Soul___Carbon",
+    "card_text": "You can Tribute this Normal Summoned/Set card; add 1 EARTH Fairy monster from your Deck to your hand, except \"World Soul - Carbon\". If a face-up Fairy monster(s) you control is sent to the GY, while this card is in your GY (except during the Damage Step): You can place this card on top of your Deck. You can only use 1 \"World Soul - Carbon\" effect per turn, and only once that turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1200,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

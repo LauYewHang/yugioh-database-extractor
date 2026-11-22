@@ -1,0 +1,28 @@
+{
+    "name": "Kuribandit",
+    "filename": "Kuribandit",
+    "card_text": "During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "DRAGONS OF LEGEND",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "STARTER DECK - LINK STRIKE -",
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "ADVENT CALENDAR 2019",
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN",
+        "DARK SAVIORS",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Kuribeh"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 700,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Vylon Component",
+    "filename": "Vylon_Component",
+    "card_text": "Equip only to a \"Vylon\" monster. If it attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. If this face-up card on the field is sent to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+    "release_date": "2012-02-03",
+    "available_set": [
+        "DUEL TERMINAL 6A",
+        "HIDDEN ARSENAL 6 OMEGA XYZ"
+    ],
+    "related_card": [
+        "Vylon Alpha",
+        "Vylon Charger",
+        "Vylon Cube",
+        "Vylon Delta",
+        "Vylon Disigma",
+        "Vylon Element",
+        "Vylon Epsilon",
+        "Vylon Filament",
+        "Vylon Hept",
+        "Vylon Material",
+        "Vylon Matter",
+        "Vylon Ohm",
+        "Vylon Omega",
+        "Vylon Pentachloro",
+        "Vylon Polytope",
+        "Vylon Prism",
+        "Vylon Segment",
+        "Vylon Sigma",
+        "Vylon Soldier",
+        "Vylon Sphere",
+        "Vylon Stella",
+        "Vylon Stigma",
+        "Vylon Tesseract",
+        "Vylon Tetra",
+        "Vylon Vanguard"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

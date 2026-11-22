@@ -1,0 +1,39 @@
+{
+    "name": "Ignis Heat, the True Dracowarrior",
+    "filename": "Ignis_Heat__the_True_Dracowarrior",
+    "card_text": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap you control, instead of a monster. Once per turn, when your opponent activates a card or effect while you control this Tribute Summoned monster (Quick Effect): You can take 1 \"True Draco\" or \"True King\" Continuous Spell from your Deck, and either activate it or add it to your hand.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS",
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Dinomight Knight, the True Dracofighter",
+        "Disciples of the True Dracophoenix",
+        "Draco Awakening",
+        "Dragonic Diagram",
+        "Dreiath III, the True Dracocavalry General",
+        "Forge of the True Dracos",
+        "Majesty Maiden, the True Dracocaster",
+        "Mariamne Paradox, the True Dracophoenix Knight",
+        "Mariamne, the True Dracophoenix",
+        "Master Peace, the True Dracoslayer",
+        "Master Peace, the True Dracoslaying King",
+        "Master Peace, the True Dracoverlord",
+        "Metaltron XII, the True Dracombatant",
+        "True Draco Apocalypse",
+        "True Draco Heritage",
+        "True King Agnimazud, the Vanisher",
+        "True King Bahrastos, the Fathomer",
+        "True King Lithosagym, the Disaster",
+        "True King of All Calamities",
+        "True King's Return"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

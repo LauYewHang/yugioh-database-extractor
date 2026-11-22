@@ -1,0 +1,27 @@
+{
+    "name": "Icejade Erosion",
+    "filename": "Icejade_Erosion",
+    "card_text": "You can target 1 face-up card your opponent controls; destroy 1 \"Icejade\" monster you control, and if you do, negate the targeted card's effects until the end of this turn. If a face-up WATER monster you control leaves the field by an opponent's card, except by being destroyed (and except during the Damage Step): You can add to your hand or Special Summon, 1 \"Icejade\" monster from your Deck. You can only use each effect of \"Icejade Erosion\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Icejade Acti",
+        "Icejade Aegirine",
+        "Icejade Cenote Enion Cradle",
+        "Icejade Cradle",
+        "Icejade Creation Aegirocassis",
+        "Icejade Creation Kingfisher",
+        "Icejade Curse",
+        "Icejade Gymir Aegirine",
+        "Icejade Kosmochlor",
+        "Icejade Manifestation",
+        "Icejade Ran Aegirine",
+        "Icejade Tinola",
+        "Icejade Tremora"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

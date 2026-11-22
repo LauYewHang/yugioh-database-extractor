@@ -1,0 +1,30 @@
+{
+    "name": "Qlipper Launch",
+    "filename": "Qlipper_Launch",
+    "card_text": "Until the end of this turn, all Normal Summoned/Set \"Qli\" monsters currently on the field gain 300 ATK, but are unaffected by other Spell/Trap effects, also their effects are negated.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "Apoqliphort Skybase",
+        "Apoqliphort Towers",
+        "Laser Qlip",
+        "Qlife's End",
+        "Qlimate Change",
+        "Qliphort Carrier",
+        "Qliphort Cephalopod",
+        "Qliphort Disk",
+        "Qliphort Genius",
+        "Qliphort Helix",
+        "Qliphort Monolith",
+        "Qliphort Scout",
+        "Qliphort Shell",
+        "Qliphort Stealth",
+        "Re-qliate",
+        "Saqlifice"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

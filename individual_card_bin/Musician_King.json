@@ -1,0 +1,21 @@
+{
+    "name": "Musician King",
+    "filename": "Musician_King",
+    "card_text": "\"Witch of the Black Forest\" + \"Lady of Faith\"",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "METAL RAIDERS",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Lady of Faith",
+        "Witch of the Black Forest"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1750,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

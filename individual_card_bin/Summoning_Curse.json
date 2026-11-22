@@ -1,0 +1,14 @@
+{
+    "name": "Summoning Curse",
+    "filename": "Summoning_Curse",
+    "card_text": "If a monster(s) is Special Summoned: The current controller of that monster(s) banishes 1 card from their hand. Once per turn, during your End Phase, pay 500 LP or destroy this card.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "OTS TOURNAMENT PACK 1",
+        "QUARTER CENTURY BONANZA",
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

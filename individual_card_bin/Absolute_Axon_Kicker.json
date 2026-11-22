@@ -1,0 +1,17 @@
+{
+    "name": "Absolute Axon Kicker",
+    "filename": "Absolute_Axon_Kicker",
+    "card_text": "1 Psychic Synchro Monster + 1 Synchro Monster\nMust first be Fusion Summoned. Cannot be destroyed by card effects. If this card is Fusion Summoned: You can pay 2000 LP; banish all face-up cards your opponent controls. If this card is in your GY, except the turn it was sent there: You can banish it; Special Summon 1 Level 10 Psychic Fusion Monster from your Extra Deck (this is treated as a Fusion Summon). You can only use this effect of \"Absolute Axon Kicker\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3400,
+    "defense": 2200,
+    "monster_type": "Psychic",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

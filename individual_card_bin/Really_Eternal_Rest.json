@@ -1,0 +1,16 @@
+{
+    "name": "Really Eternal Rest",
+    "filename": "Really_Eternal_Rest",
+    "card_text": "Destroy all monsters equipped with an Equip Card(s).",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "TURBO PACK BOOSTER EIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

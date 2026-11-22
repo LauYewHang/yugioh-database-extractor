@@ -1,0 +1,40 @@
+{
+    "name": "Koa'ki Meiru Tornado",
+    "filename": "Koa_ki_Meiru_Tornado",
+    "card_text": "You can return 1 \"Iron Core of Koa'ki Meiru\" from your hand to the top of the Deck to destroy all Special Summoned monsters your opponent controls.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [
+        "Core Blast",
+        "Core Blaster",
+        "Core Compression",
+        "Core Overclock",
+        "Core Reinforcement",
+        "Diamond Core of Koa'ki Meiru",
+        "Iron Core Armor",
+        "Iron Core of Koa'ki Meiru",
+        "Iron Core Specimen Lab",
+        "Koa'ki Meiru Boulder",
+        "Koa'ki Meiru Crusader",
+        "Koa'ki Meiru Ghoulungulate",
+        "Koa'ki Meiru Hydro Barrier",
+        "Koa'ki Meiru Initialize!",
+        "Koa'ki Meiru Maximus",
+        "Koa'ki Meiru Prototype",
+        "Koa'ki Meiru Rooklord",
+        "Koa'ki Meiru Supplier",
+        "Koa'ki Meiru Urnight",
+        "Koa'ki Meiru Valafar",
+        "Nega-Ton Corepanel",
+        "Urgent Synthesis"
+    ],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

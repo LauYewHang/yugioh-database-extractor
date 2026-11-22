@@ -1,0 +1,23 @@
+{
+    "name": "Inferno Fire Blast",
+    "filename": "Inferno_Fire_Blast",
+    "card_text": "Target 1 \"Red-Eyes Black Dragon\" in your Monster Zone; inflict damage to your opponent equal to the original ATK of that \"Red-Eyes Black Dragon\". \"Red-Eyes Black Dragon\" cannot attack the turn you activate this card.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "SOUL OF THE DUELIST",
+        "DUEL TERMINAL - PREVIEW WAVE 1",
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "LEGENDARY DECKS II",
+        "DARK REVELATION Volume 3",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "DUEL TERMINAL 1",
+        "LEGENDARY DUELISTS"
+    ],
+    "related_card": [
+        "Red-Eyes Black Dragon",
+        "Red-Eyes Soul"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

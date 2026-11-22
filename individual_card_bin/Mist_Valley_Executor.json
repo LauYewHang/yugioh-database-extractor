@@ -1,0 +1,23 @@
+{
+    "name": "Mist Valley Executor",
+    "filename": "Mist_Valley_Executor",
+    "card_text": "If this card is Normal Summoned: Return all face-up Spells and Traps from the field to the hand.",
+    "release_date": "2010-05-25",
+    "available_set": [
+        "HIDDEN ARSENAL 2",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [
+        "Mist Condor",
+        "Mist Valley Apex Avian",
+        "Mist Valley Thunder Lord"
+    ],
+    "attribute": "WIND",
+    "attack": 2100,
+    "defense": 1600,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

@@ -1,0 +1,34 @@
+{
+    "name": "The Traveler and the Burning Abyss",
+    "filename": "The_Traveler_and_the_Burning_Abyss",
+    "card_text": "Target any number of \"Burning Abyss\" monsters in your Graveyard that were sent there this turn; Special Summon them in Defense Position. You can only activate 1 \"The Traveler and the Burning Abyss\" per turn.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [
+        "Alich, Malebranche of the Burning Abyss",
+        "Barbar, Malebranche of the Burning Abyss",
+        "Beatrice, Lady of the Eternal",
+        "Cagna, Malebranche of the Burning Abyss",
+        "Calcab, Malebranche of the Burning Abyss",
+        "Cherubini, Ebon Angel of the Burning Abyss",
+        "Cir, Malebranche of the Burning Abyss",
+        "Dante, Pilgrim of the Burning Abyss",
+        "Dante, Traveler of the Burning Abyss",
+        "Draghig, Malebranche of the Burning Abyss",
+        "Farfa, Malebranche of the Burning Abyss",
+        "Fire Lake of the Burning Abyss",
+        "Good & Evil in the Burning Abyss",
+        "Graff, Malebranche of the Burning Abyss",
+        "Libic, Malebranche of the Burning Abyss",
+        "Malacoda, Netherlord of the Burning Abyss",
+        "Rubic, Malebranche of the Burning Abyss",
+        "Scarm, Malebranche of the Burning Abyss",
+        "The Terminus of the Burning Abyss",
+        "Virgil, Rock Star of the Burning Abyss"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

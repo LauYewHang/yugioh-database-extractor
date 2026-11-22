@@ -1,0 +1,41 @@
+{
+    "name": "Flower Cardian Willow with Calligrapher",
+    "filename": "Flower_Cardian_Willow_with_Calligrapher",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 11 \"Flower Cardian\" monster, except \"Flower Cardian Willow with Calligrapher\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the GY. When this card is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Flower Cardian Boardefly",
+        "Flower Cardian Cherry Blossom",
+        "Flower Cardian Cherry Blossom with Curtain",
+        "Flower Cardian Clover with Boar",
+        "Flower Cardian Lightflare",
+        "Flower Cardian Lightshower",
+        "Flower Cardian Maple with Deer",
+        "Flower Cardian Moonflowerviewing",
+        "Flower Cardian Paulownia",
+        "Flower Cardian Paulownia with Phoenix",
+        "Flower Cardian Peony with Butterfly",
+        "Flower Cardian Pine",
+        "Flower Cardian Pine with Crane",
+        "Flower Cardian Willow",
+        "Flower Cardian Zebra Grass",
+        "Flower Cardian Zebra Grass with Moon",
+        "Flower Gathering",
+        "Flower Stacking",
+        "Fraud Freeze",
+        "Recardination",
+        "Super All In!",
+        "Super Koi Koi"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

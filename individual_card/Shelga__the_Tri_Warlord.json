@@ -11,7 +11,10 @@
     "attack": 2800,
     "defense": 2500,
     "monster_type": "Psychic",
-    "monster_card_type": 4097,
+    "monster_card_type": [
+        "Pendulum",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "Once per turn: You can banish 3 Psychic-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.",

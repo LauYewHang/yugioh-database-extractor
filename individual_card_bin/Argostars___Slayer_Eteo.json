@@ -1,0 +1,20 @@
+{
+    "name": "Argostars - Slayer Eteo",
+    "filename": "Argostars___Slayer_Eteo",
+    "card_text": "While this card is face-up in the Spell & Trap Zone, Warrior monsters you control cannot be destroyed by card effects. Once per turn, when your opponent activates a card or effect: You can Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 800/DEF 800) with the following effect (this card is also still a Trap), then if you have a banished \"Argostars\" monster, you can return 1 card on the field to the hand.\n\u25cfOnce per turn (Quick Effect): You can place this card face-up in your Spell & Trap Zone.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Argostars - Adventurous Arion",
+        "Argostars - Fierce Parthe",
+        "Argostars - Giantslaying",
+        "Argostars - Glorious Adra",
+        "Argostars - Home Stadium",
+        "Argostars - Lightning Tydeu",
+        "Argostars - Swift Capane"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

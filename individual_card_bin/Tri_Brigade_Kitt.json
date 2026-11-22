@@ -1,0 +1,41 @@
+{
+    "name": "Tri-Brigade Kitt",
+    "filename": "Tri_Brigade_Kitt",
+    "card_text": "You can banish any number of Beast, Beast-Warrior, and/or Winged Beast monsters in your GY; Special Summon 1 Beast, Beast-Warrior, or Winged Beast Link Monster from your Extra Deck, with Link Rating equal to the number banished, also you can only use Beast, Beast-Warrior, and Winged Beast monsters as Link Material for the rest of this turn. If this card is sent to the GY: You can send 1 \"Tri-Brigade\" card from your Deck to the GY, except \"Tri-Brigade Kitt\". You can only use each effect of \"Tri-Brigade Kitt\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX",
+        "RARITY COLLECTION 5",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Airborne Assault",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Ferrijit the Barren Blossom",
+        "Tri-Brigade Fraktall",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kerass",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Oath",
+        "Tri-Brigade Rendezvous",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Rugal the Silver Sheller",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Shuraig the Ominous Omen",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "attribute": "FIRE",
+    "attack": 700,
+    "defense": 1000,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

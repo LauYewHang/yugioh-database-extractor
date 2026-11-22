@@ -1,0 +1,15 @@
+{
+    "name": "Piri Reis Map",
+    "filename": "Piri_Reis_Map",
+    "card_text": "At the start of your Main Phase 1: Add 1 monster with 0 ATK from your Deck to your hand, but halve your LP. After adding it to your hand, until the end of the next turn after this card resolves, you cannot activate the added monster's effects, or the effects of cards with its name, until you Normal Summon that monster or a card with its name.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND",
+        "2025 MEGA-PACK TIN",
+        "Justice Hunters",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

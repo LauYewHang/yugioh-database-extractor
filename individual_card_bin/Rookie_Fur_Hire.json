@@ -1,0 +1,36 @@
+{
+    "name": "Rookie Fur Hire",
+    "filename": "Rookie_Fur_Hire",
+    "card_text": "Tribute 1 monster; Special Summon 1 monster \"Fur Hire\" from your hand or Deck, whose Level is 1 higher or 1 lower than the Tributed monster had on the field. You cannot declare attacks the turn you activate this card, except with monsters \"Fur Hire\". You can only activate 1 \"Rookie Fur Hire\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Beat, Bladesman Fur Hire",
+        "Bravo, Fighter Fur Hire",
+        "Donner, Dagger Fur Hire",
+        "Donpa, Marksman Fur Hire",
+        "Dyna, Hero Fur Hire",
+        "Fandora, the Flying Fighting Furtress",
+        "Fandora, the Flying Furtress",
+        "Filo, Messenger Fur Hire",
+        "Folgo, Justice Fur Hire",
+        "Furtive Techniques Fur Hire, Fur All Your Ultimate Moves",
+        "Helmer, Helmsman Fur Hire",
+        "Keel, Shipwright Fur Hire",
+        "Mayhem Fur Hire",
+        "Rafale, Champion Fur Hire",
+        "Recon, Scout Fur Hire",
+        "Rex, Freight Fur Hire",
+        "Rex, Ride Fur Hire",
+        "Sagitta, Maverick Fur Hire",
+        "Seal, Strategist Fur Hire",
+        "Training Fur Hire, Fur All Your Training Needs",
+        "Whirlwind Fur Hire",
+        "Wiz, Sage Fur Hire"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

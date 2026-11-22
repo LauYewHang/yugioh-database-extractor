@@ -1,0 +1,12 @@
+{
+    "name": "Gravity Blaster",
+    "filename": "Gravity_Blaster",
+    "card_text": "Equip only to a Machine-Type monster. Once per turn: You can activate this effect; it permanently gains 400 ATK. (This ATK gain remains even if this card leaves the field or the monster becomes unaffected by card effects.) If it battles an opponent's monster, that monster's effect is negated during the Battle Phase only.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

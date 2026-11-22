@@ -1,0 +1,26 @@
+{
+    "name": "Angelechy Brilliant Move",
+    "filename": "Angelechy_Brilliant_Move",
+    "card_text": "Return 1 \"Angelechy\" Monster Card you own from your Spell & Trap Zone to the Extra Deck, then you can Special Summon it. You can banish this card from your GY, then send 1 \"Angelechy\" card from your hand or face-up field to the GY; Special Summon 1 \"Angelechy\" monster from your Extra Deck. You can only use each effect of \"Angelechy Brilliant Move\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Angelechy Bastion",
+        "Angelechy Castellan",
+        "Angelechy Destrier",
+        "Angelechy Disturbance",
+        "Angelechy Endgame Problem",
+        "Angelechy Enlisted",
+        "Angelechy Opening to e4",
+        "Angelechy Opposition",
+        "Angelechy Problem",
+        "Angelechy Seneschal",
+        "Angelechy Shatranga",
+        "Angelechy Strategy Score",
+        "Angelechy Verdict"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Magicians' Defense",
+    "filename": "Magicians__Defense",
+    "card_text": "While you control a Spellcaster-Type monster, any damage you take is halved. (You cannot halve the same damage twice this way.) If this card is sent from the field to the Graveyard: You can target 1 Spellcaster-Type monster in your Graveyard; Special Summon it.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

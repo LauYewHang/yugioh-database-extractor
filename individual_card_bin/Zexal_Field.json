@@ -1,0 +1,18 @@
+{
+    "name": "Zexal Field",
+    "filename": "Zexal_Field",
+    "card_text": "Your opponent cannot activate cards or effects in response to the activation of your cards and effects that target an Xyz Monster you control. During your Draw Phase, before you draw: You can place 1 \"Shining Draw\" from your Deck on top of your Deck. If an Xyz Monster(s) is Special Summoned to your field (except during the Damage Step): You can target 1 of those monsters; attach 1 Xyz Monster from your Extra Deck or GY to that monster as material. You can only use this effect of \"Zexal Field\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Shining Draw",
+        "Zexal Construction",
+        "Zexal Entrust",
+        "ZW - Dragonic Halberd"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

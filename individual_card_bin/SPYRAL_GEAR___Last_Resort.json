@@ -1,0 +1,33 @@
+{
+    "name": "SPYRAL GEAR - Last Resort",
+    "filename": "SPYRAL_GEAR___Last_Resort",
+    "card_text": "You can target 1 \"SPYRAL\" monster you control; equip this monster from your hand or field to that target. While this card is equipped to a monster by this effect, the equipped monster cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. Once per turn, if this card is equipped to a monster by this effect: You can send 1 other card you control to the Graveyard; the equipped monster can attack directly this turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "SPYRAL Double Agent",
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

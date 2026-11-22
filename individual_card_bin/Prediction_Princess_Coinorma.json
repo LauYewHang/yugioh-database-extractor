@@ -1,0 +1,30 @@
+{
+    "name": "Prediction Princess Coinorma",
+    "filename": "Prediction_Princess_Coinorma",
+    "card_text": "FLIP: You can Special Summon 1 Level 3 or higher Flip monster from your hand or Deck in face-down Defense Position, also you cannot activate monster effects for the rest of this turn, except \"Prediction Princess\" monsters'.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "OTS TOURNAMENT PACK 2",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Black Cat-astrophe",
+        "Prediction Princess Arrowsylph",
+        "Prediction Princess Astromorrigan",
+        "Prediction Princess Bibliomuse",
+        "Prediction Princess Crystaldine",
+        "Prediction Princess Petalelf",
+        "Prediction Princess Tarotrei",
+        "Prediction Princess Tarotreith",
+        "Prediction Ritual",
+        "Underworld Ritual of Prediction"
+    ],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 1400,
+    "monster_type": "Fairy",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

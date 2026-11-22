@@ -1,0 +1,12 @@
+{
+    "name": "Uni-Song Tuning",
+    "filename": "Uni_Song_Tuning",
+    "card_text": "Target 1 Tuner in either GY and 1 face-up monster on the field; banish that Tuner in the GY, then, until the end of this turn, the Level of the targeted monster on the field becomes the Level of the banished Tuner, also it is treated as a Tuner. You can only activate 1 \"Uni-Song Tuning\" per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

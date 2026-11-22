@@ -1,0 +1,17 @@
+{
+    "name": "Divine Dragon Titanomakhia",
+    "filename": "Divine_Dragon_Titanomakhia",
+    "card_text": "This Special Summoned card cannot be destroyed by battle. You can only use each of the following effects of \"Divine Dragon Titanomakhia\" once per turn. You can banish 3 \"Divine Dragon Titanomakhia\" from your GY and/or face-up field, including this card on the field; destroy all cards your opponent controls. During the End Phase: You can send cards from the top of your Deck to your GY, equal to the number of Dragon monsters you control.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

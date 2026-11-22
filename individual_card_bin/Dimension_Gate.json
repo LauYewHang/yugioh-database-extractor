@@ -1,0 +1,14 @@
+{
+    "name": "Dimension Gate",
+    "filename": "Dimension_Gate",
+    "card_text": "Activate this card by targeting 1 monster you control; banish that target face-up. When an opponent's monster declares a direct attack: You can send this face-up card on the field to the Graveyard. If this card is sent to the Graveyard: You can Special Summon the monster banished by this card's effect.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

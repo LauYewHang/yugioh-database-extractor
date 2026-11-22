@@ -1,0 +1,32 @@
+{
+    "name": "The Fiend Megacyber",
+    "filename": "The_Fiend_Megacyber",
+    "card_text": "If your opponent controls at least 2 more monsters than you do, you can Special Summon this card (from your hand).",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "TOURNAMENT PACK 4",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "PHARAOH'S SERVANT",
+        "DEMO DECK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 1",
+        "Speed Duel: Battle City Box",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Prima Light"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

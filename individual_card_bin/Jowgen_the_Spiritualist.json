@@ -1,0 +1,21 @@
+{
+    "name": "Jowgen the Spiritualist",
+    "filename": "Jowgen_the_Spiritualist",
+    "card_text": "You can discard 1 random card from your hand to the GY; destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "DARK BEGINNING 2",
+        "TOURNAMENT PACK 5",
+        "ASTRAL PACK THREE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 200,
+    "defense": 1300,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

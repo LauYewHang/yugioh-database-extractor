@@ -1,0 +1,22 @@
+{
+    "name": "Avenging Knight Parshath",
+    "filename": "Avenging_Knight_Parshath",
+    "card_text": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nOnce per turn: You can target 1 face-up monster your opponent controls; change that target's battle position. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2008-08-09",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "THE DUELIST GENESIS Sneak Peek",
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [
+        "Rebirth of Parshath",
+        "Sacred Arch-Airknight Parshath"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2600,
+    "defense": 2100,
+    "monster_type": "Fairy",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

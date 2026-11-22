@@ -1,0 +1,15 @@
+{
+    "name": "Barrel Behind the Door",
+    "filename": "Barrel_Behind_the_Door",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated that would inflict damage to you: Your opponent takes the damage instead.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

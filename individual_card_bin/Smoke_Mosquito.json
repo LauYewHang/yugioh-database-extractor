@@ -1,0 +1,18 @@
+{
+    "name": "Smoke Mosquito",
+    "filename": "Smoke_Mosquito",
+    "card_text": "During damage calculation, if you would take battle damage from an opponent's monster's attack (Quick Effect): You can Special Summon this card from your hand, and if you do, the damage you take from that battle is halved, also end the Battle Phase after the Damage Step. You can target 1 face-up monster you control; this card's Level becomes the same as that monster's, until the end of this turn. You can only use each effect of \"Smoke Mosquito\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

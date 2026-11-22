@@ -1,0 +1,31 @@
+{
+    "name": "Dracotail Mululu",
+    "filename": "Dracotail_Mululu",
+    "card_text": "During the Main Phase (Quick Effect): You can Fusion Summon 1 \"Dracotail\" Fusion Monster from your Extra Deck, using monsters from your hand or field, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion Monsters. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck, then you can negate the effects of 1 face-up monster your opponent controls. You can only use each effect of \"Dracotail Mululu\" once per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Dracotail Arthalion",
+        "Dracotail Faimena",
+        "Dracotail Flame",
+        "Dracotail Gulamel",
+        "Dracotail Horn",
+        "Dracotail Lukias",
+        "Dracotail Pan",
+        "Dracotail Phryxul",
+        "Dracotail Shaulas",
+        "Dracotail Sting",
+        "Dracotail Urgula",
+        "Ketu Dracotail",
+        "Rahu Dracotail"
+    ],
+    "attribute": "DARK",
+    "attack": 1100,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

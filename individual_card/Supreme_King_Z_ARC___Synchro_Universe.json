@@ -32,7 +32,11 @@
     "attack": 4000,
     "defense": 4000,
     "monster_type": "Dragon",
-    "monster_card_type": 4114,
+    "monster_card_type": [
+        "Pendulum",
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 12,
     "pendulum_effect": "You can Tribute 1 \"Supreme King Dragon\" or \"Supreme King Gate\" Pendulum Monster; Special Summon this card. You can only use this effect of \"Supreme King Z-ARC - Synchro Universe\" once per turn.",

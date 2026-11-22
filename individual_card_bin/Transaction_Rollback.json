@@ -1,0 +1,14 @@
+{
+    "name": "Transaction Rollback",
+    "filename": "Transaction_Rollback",
+    "card_text": "Pay half your LP, then target 1 Normal Trap in your opponent's GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can banish this card from your GY and pay half your LP, then target 1 Normal Trap in your GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can only use 1 \"Transaction Rollback\" effect per turn, and only once that turn.",
+    "release_date": "2024-01-19",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "MAZE OF MILLENNIA",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

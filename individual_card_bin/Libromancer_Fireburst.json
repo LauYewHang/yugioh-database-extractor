@@ -1,0 +1,33 @@
+{
+    "name": "Libromancer Fireburst",
+    "filename": "Libromancer_Fireburst",
+    "card_text": "You can Ritual Summon this card with a \"Libromancer\" card. If this card was Ritual Summoned by using a monster(s) on the field, it cannot be destroyed by battle, also any battle damage it inflicts to your opponent is doubled. This card can make up to 2 attacks on monsters during each Battle Phase. When a monster declares an attack: You can banish 1 \"Libromancer\" Ritual Monster from your GY; this card gains 200 ATK.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Libromancer Agent",
+        "Libromancer Bonded",
+        "Libromancer Displaced",
+        "Libromancer Doombroker",
+        "Libromancer Fire",
+        "Libromancer Firestarter",
+        "Libromancer First Appearance",
+        "Libromancer Geek Boy",
+        "Libromancer Intervention",
+        "Libromancer Magigirl",
+        "Libromancer Mystigirl",
+        "Libromancer Origin Story",
+        "Libromancer Prevented",
+        "Libromancer Realized"
+    ],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 2800,
+    "monster_type": "Cyberse",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

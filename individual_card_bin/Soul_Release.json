@@ -1,0 +1,20 @@
+{
+    "name": "Soul Release",
+    "filename": "Soul_Release",
+    "card_text": "Target up to 5 cards in any GY(s); banish them.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "METAL RAIDERS",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STARTER DECK PEGASUS",
+        "DARK BEGINNING 1",
+        "OTS TOURNAMENT PACK 25",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "THE SECRET FORCES",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

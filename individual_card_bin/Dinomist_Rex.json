@@ -1,0 +1,34 @@
+{
+    "name": "Dinomist Rex",
+    "filename": "Dinomist_Rex",
+    "card_text": "If this card attacks, at the end of the Damage Step: You can Tribute 1 other \"Dinomist\" monster, then activate 1 of these effects;\n\u25cfThis card can attack an opponent's monster again in a row, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\u25cfShuffle 1 card from your opponent's hand (at random) or their side of the field into the Deck, then this card gains 100 ATK.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Dinomic Powerload",
+        "Dinomight Powerload, the Dracoslayer",
+        "Dinomist Ankylos",
+        "Dinomist Brachion",
+        "Dinomist Ceratops",
+        "Dinomist Charge",
+        "Dinomist Eruption",
+        "Dinomist Plesios",
+        "Dinomist Pteran",
+        "Dinomist Rush",
+        "Dinomist Spinos",
+        "Dinomist Stegosaur",
+        "Dinomists Howling"
+    ],
+    "attribute": "WATER",
+    "attack": 2400,
+    "defense": 2200,
+    "monster_type": "Machine",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.",
+    "pendulum_scale": 6
+}

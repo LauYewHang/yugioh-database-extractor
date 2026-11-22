@@ -1,0 +1,12 @@
+{
+    "name": "End of the Line",
+    "filename": "End_of_the_Line",
+    "card_text": "If your LP are lower than 100: Draw 2 cards, then, if your LP are lower than 10, draw 2 additional cards.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

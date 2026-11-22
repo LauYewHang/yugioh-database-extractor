@@ -1,0 +1,23 @@
+{
+    "name": "Sauravis, the Ancient and Ascended",
+    "filename": "Sauravis__the_Ancient_and_Ascended",
+    "card_text": "You can Ritual Summon this card with \"Sprite's Blessing\". When your opponent activates a card or effect that targets a monster you control (Quick Effect): You can discard this card; negate the activation. When your opponent would Special Summon a monster(s) (Quick Effect): You can return this card to the hand; negate the Special Summon, and if you do, banish that monster(s).",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE",
+        "DUEL OVERLOAD",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Prayers of the Voiceless Voice",
+        "Sprite's Blessing"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2600,
+    "defense": 2800,
+    "monster_type": "Dragon",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

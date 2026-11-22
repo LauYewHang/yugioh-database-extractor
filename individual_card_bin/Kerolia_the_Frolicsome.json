@@ -1,0 +1,17 @@
+{
+    "name": "Kerolia the Frolicsome",
+    "filename": "Kerolia_the_Frolicsome",
+    "card_text": "If a Spell/Trap(s) on the field is returned to the hand (except during the Damage Step): You can Special Summon this card from your GY (if it was there when that card was returned) or hand (even if not), in face-up or face-down Defense Position, but if you Summoned it from the GY, banish it when it leaves the field. If another card(s) on the field is returned to the hand, while this card is in the Monster Zone (except during the Damage Step): You can target 1 of your banished Normal Traps; Set it. You can only use each effect of \"Kerolia the Frolicsome\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Aqua",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

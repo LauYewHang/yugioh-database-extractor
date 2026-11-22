@@ -1,0 +1,38 @@
+{
+    "name": "Dreiath III, the True Dracocavalry General",
+    "filename": "Dreiath_III__the_True_Dracocavalry_General",
+    "card_text": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Your opponent cannot target face-up \"True Draco\" or \"True King\" monsters on the field with card effects, except this one, also they cannot be destroyed by your opponent's card effects. If this face-up Tribute Summoned monster leaves the field: You can Special Summon 1 \"True Draco\" or \"True King\" monster from your Deck in Defense Position.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Dinomight Knight, the True Dracofighter",
+        "Disciples of the True Dracophoenix",
+        "Draco Awakening",
+        "Dragonic Diagram",
+        "Forge of the True Dracos",
+        "Ignis Heat, the True Dracowarrior",
+        "Majesty Maiden, the True Dracocaster",
+        "Mariamne Paradox, the True Dracophoenix Knight",
+        "Mariamne, the True Dracophoenix",
+        "Master Peace, the True Dracoslayer",
+        "Master Peace, the True Dracoslaying King",
+        "Master Peace, the True Dracoverlord",
+        "Metaltron XII, the True Dracombatant",
+        "True Draco Apocalypse",
+        "True Draco Heritage",
+        "True King Agnimazud, the Vanisher",
+        "True King Bahrastos, the Fathomer",
+        "True King Lithosagym, the Disaster",
+        "True King of All Calamities",
+        "True King's Return"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 2800,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

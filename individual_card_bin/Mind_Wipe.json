@@ -1,0 +1,13 @@
+{
+    "name": "Mind Wipe",
+    "filename": "Mind_Wipe",
+    "card_text": "Activate only if your opponent has 3 or less cards in their hand. Your opponent adds their hand to the Deck and shuffles it, then draws the same number of cards they added to the Deck.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

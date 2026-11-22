@@ -1,0 +1,24 @@
+{
+    "name": "Heraldry Change",
+    "filename": "Heraldry_Change",
+    "card_text": "When an opponent's monster declares an attack: Special Summon 1 \"Heraldic Beast\" monster from your hand, then end the Battle Phase.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Augmented Heraldry",
+        "Heraldic Beast Aberconway",
+        "Heraldic Beast Amphisbaena",
+        "Heraldic Beast Basilisk",
+        "Heraldic Beast Berners Falcon",
+        "Heraldic Beast Eale",
+        "Heraldic Beast Gryphon",
+        "Heraldic Beast Leo",
+        "Heraldic Beast Stad Whale",
+        "Heraldic Beast Twin-Headed Eagle",
+        "Heraldic Beast Unicorn"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -11,7 +11,10 @@
     "attack": 1400,
     "defense": 1300,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "If you have a Pendulum Monster Card with the same Level as this card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card. You can only use this effect of \"Saambell the Star Bonder\" once per turn.",

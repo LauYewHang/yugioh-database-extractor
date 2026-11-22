@@ -1,0 +1,35 @@
+{
+    "name": "Hojo the Vaylantz Warrior",
+    "filename": "Hojo_the_Vaylantz_Warrior",
+    "card_text": "You can target 1 face-up card in either Spell & Trap Zone; return it to the hand. If this card in the Monster Zone moves to another Monster Zone (except during the Damage Step): You can Fusion Summon 1 \"Vaylantz\" Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or Pendulum Zones. You can only use each effect of \"Hojo the Vaylantz Warrior\" once per turn.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "TACTICAL MASTERS"
+    ],
+    "related_card": [
+        "Arktos XII - Chronochasm Vaylantz",
+        "Mamonaka the Vaylantz United",
+        "Nazuki the Vaylantz Ninja",
+        "Saion the Vaylantz Archer",
+        "Shinonome the Vaylantz Priestess",
+        "Vaylantz Buster Baron",
+        "Vaylantz Dominator Duke",
+        "Vaylantz Genesis Grand Duke",
+        "Vaylantz Mad Marquess",
+        "Vaylantz Voltage Viscount",
+        "Vaylantz Wakening - Solo Activation",
+        "Vaylantz Wars - The Place of Beginning",
+        "Vaylantz Wave - Master Phase",
+        "Vaylantz World - Konig Wissen",
+        "Vaylantz World - Shinra Bansho"
+    ],
+    "attribute": "WATER",
+    "attack": 1900,
+    "defense": 1900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8,
+    "pendulum_effect": "If \"Vaylantz World - Shinra Bansho\" is in a Field Zone or if you control a WATER \"Vaylantz\" monster: You can Special Summon this card to your Main Monster Zone in its same column. You can only use this effect of \"Hojo the Vaylantz Warrior\" once per turn.",
+    "pendulum_scale": 1
+}

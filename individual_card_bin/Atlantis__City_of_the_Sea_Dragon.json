@@ -1,0 +1,36 @@
+{
+    "name": "Atlantis, City of the Sea Dragon",
+    "filename": "Atlantis__City_of_the_Sea_Dragon",
+    "card_text": "While a monster that mentions \"Atlantis, City of the Sea Dragon\" is on the field, the Levels of all monsters in both players' hands and on the field are reduced by 1. When you Link Summon a \"Daedalus\" Link Monster, you can reduce the total number of materials by 1 (from Link Rating and from mentioned materials). If this card is in your GY and you control \"Umi\": You can place this card face-up on your field. You can only use this effect of \"Atlantis, City of the Sea Dragon\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Call of Atlantis",
+        "Chaos Daedalus",
+        "Daedalus Maelstrom",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon - Daedalus",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Lightray Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Metaphys Daedalus",
+        "Monster Arms of Atlantis",
+        "Ocean Dragon Lord - Neo-Daedalus",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

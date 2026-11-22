@@ -1,0 +1,18 @@
+{
+    "name": "Seed of Flame",
+    "filename": "Seed_of_Flame",
+    "card_text": "When this card you control is destroyed by a card effect and sent to your Graveyard: You can target 1 Level 4 or lower Plant-Type monster in your Graveyard, except \"Seed of Flame\"; Special Summon that target, and if you do, Special Summon 1 \"Seed Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0) to your opponent's side of the field in Defense Position. This Token cannot be Tributed for a Tribute Summon.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Plant",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Magician of Dark Chaos - Black Chaos",
+    "filename": "Magician_of_Dark_Chaos___Black_Chaos",
+    "card_text": "You can Ritual Summon this card with \"Light and Darkness Ritual\". Unaffected by your opponent's activated effects, unless they target this card, also Spells/Traps you control cannot be destroyed, or banished, by your opponent's card effects. You can only use each of the following effects of \"Magician of Dark Chaos - Black Chaos\" once per turn. If this card is Special Summoned: You can add 1 Spell from your GY to your hand. You can target 1 card your opponent controls; banish it face-down.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Black Chaos",
+        "Black Skull Dragon, the Archfiend of Unity",
+        "Celtic Mystic",
+        "Chaos Form",
+        "Chaos Magical Hats",
+        "Chaos Mystic Box",
+        "Griffoh",
+        "Light and Darkness Ritual",
+        "Magician of Chaos",
+        "Master of Chaos",
+        "Mind Shuffle",
+        "Skull Archfiend of Chaos"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

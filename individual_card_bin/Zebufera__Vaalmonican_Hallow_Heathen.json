@@ -1,0 +1,33 @@
+{
+    "name": "Zebufera, Vaalmonican Hallow Heathen",
+    "filename": "Zebufera__Vaalmonican_Hallow_Heathen",
+    "card_text": "1 Effect Monster\nCannot be Link Summoned unless you have 3 or more Resonance Counters on Fiend Monster Card(s) in your Pendulum Zone. You can only Special Summon \"Zebufera, Vaalmonican Hallow Heathen\" once per turn. If a card(s) you control would be destroyed by battle or card effect, you can remove 3 Resonance Counters from your Pendulum Zone instead. Once per opponent's turn (Quick Effect): You can target 1 of your \"Vaalmonica\" Normal Spells/Traps that is banished or in your GY; apply that card's activation effect.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Dimonno Vaalmonica",
+        "Duralume, Vaalmonican Heathen Hallow",
+        "Selettrice Vaalmonica",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Disarmonia",
+        "Vaalmonica Ereditare",
+        "Vaalmonica Followed Rhythm",
+        "Vaalmonica Intonare",
+        "Vaalmonica Invitare",
+        "Vaalmonica Scelta",
+        "Vaalmonica Versare",
+        "Vaalmonica, the Agathokakological Voice",
+        "Varar, Vaalmonican Concord"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": 8194,
+    "link_rating": 1,
+    "link_arrow": 8
+}

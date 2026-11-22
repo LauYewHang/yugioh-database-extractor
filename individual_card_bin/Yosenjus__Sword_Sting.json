@@ -1,0 +1,33 @@
+{
+    "name": "Yosenjus' Sword Sting",
+    "filename": "Yosenjus__Sword_Sting",
+    "card_text": "If you control no monsters: Reveal up to 2 \"Yosenju\" monsters with different names in your hand, then target the same number of face-up cards your opponent controls; return them to the hand. You can only activate 1 \"Yosenjus' Sword Sting\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Dizzying Winds of Yosen Village",
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosen Training Grounds",
+        "Yosen Whirlwind",
+        "Yosenju Izna",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Kodam",
+        "Yosenju Magat",
+        "Yosenju Misak",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Shinchu R",
+        "Yosenju Tsujik",
+        "Yosenju Wind Worship",
+        "Yosenjus' Secret Move"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

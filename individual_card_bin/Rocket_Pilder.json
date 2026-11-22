@@ -1,0 +1,13 @@
+{
+    "name": "Rocket Pilder",
+    "filename": "Rocket_Pilder",
+    "card_text": "While the equipped monster is attacking, it cannot be destroyed by battle. At the end of the Damage Step, if the equipped monster attacked: The attack target loses ATK equal to the ATK of the equipped monster, until the End Phase.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

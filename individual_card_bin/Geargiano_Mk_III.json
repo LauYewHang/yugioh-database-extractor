@@ -1,0 +1,30 @@
+{
+    "name": "Geargiano Mk-III",
+    "filename": "Geargiano_Mk_III",
+    "card_text": "When this card is Special Summoned by the effect of a \"Geargia\" card: You can Special Summon 1 \"Geargia\" monster from your hand or Graveyard in Defense Position, except \"Geargiano Mk-III\", but its effects are negated. You can only use this effect of \"Geargiano Mk-III\" once per turn. You cannot Special Summon monsters the turn you activate this effect, except \"Geargia\" monsters.",
+    "release_date": "2014-10-17",
+    "available_set": [
+        "GEARGIA RAMPAGE STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Gear Gigant X",
+        "Geargia Change",
+        "Geargiaccelerator",
+        "Geargiagear",
+        "Geargiagear Gigant XG",
+        "Geargianchor",
+        "Geargiano",
+        "Geargiano Mk-II",
+        "Geargiarmor",
+        "Geargiarsenal",
+        "Geargiattacker",
+        "Geargiauger"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

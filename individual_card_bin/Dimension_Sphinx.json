@@ -1,0 +1,16 @@
+{
+    "name": "Dimension Sphinx",
+    "filename": "Dimension_Sphinx",
+    "card_text": "Activate this card by targeting 1 face-up Attack Position monster you control. Once per battle, during the Battle Step, if it is attacked by an opponent's monster with higher ATK: You can inflict damage to your opponent equal to the difference between the attacking monster's ATK and the targeted monster's. If the targeted monster leaves the field, destroy this card.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Exxod, Master of The Guard"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

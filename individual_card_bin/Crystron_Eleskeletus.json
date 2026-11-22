@@ -1,0 +1,40 @@
+{
+    "name": "Crystron Eleskeletus",
+    "filename": "Crystron_Eleskeletus",
+    "card_text": "1 Tuner + 1+ non-Tuners\nAll monsters your opponent controls lose 500 ATK/DEF. You can only use each of the following effects of \"Crystron Eleskeletus\" once per turn. If this card is Synchro Summoned: You can add 1 \"Crystron\" card from your GY or banishment to your hand. If this Synchro Summoned card is destroyed by battle or card effect: You can Special Summon 1 \"Crystron\" monster from your GY or banishment.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "OTS TOURNAMENT PACK 30",
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Crystolic Potential",
+        "Crystron Ametrix",
+        "Crystron Citree",
+        "Crystron Cluster",
+        "Crystron Entry",
+        "Crystron Halqifibrax",
+        "Crystron Halqifibrax Prism",
+        "Crystron Impact",
+        "Crystron Inclusion",
+        "Crystron Phoenix",
+        "Crystron Prasiortle",
+        "Crystron Quan",
+        "Crystron Quandax",
+        "Crystron Quariongandrax",
+        "Crystron Rion",
+        "Crystron Rosenix",
+        "Crystron Smiger",
+        "Crystron Sulfador",
+        "Crystron Sulfefnir",
+        "Crystron Thystvern",
+        "Crystron Tristaros"
+    ],
+    "attribute": "WATER",
+    "attack": 2600,
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

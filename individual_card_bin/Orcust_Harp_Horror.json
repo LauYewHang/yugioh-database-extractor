@@ -1,0 +1,39 @@
+{
+    "name": "Orcust Harp Horror",
+    "filename": "Orcust_Harp_Horror",
+    "card_text": "You can banish this card from your GY; Special Summon 1 \"Orcust\" monster from your Deck, except \"Orcust Harp Horror\", also you cannot Special Summon for the rest of this turn, except DARK monsters. You can only use this effect of \"Orcust Harp Horror\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "OTS TOURNAMENT PACK 11",
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "SOUL FUSION",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Dingirsu, the Orcust of the Evening Star",
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Galatea, the Orcust Automaton",
+        "Galatea-I, the Orcust Automaton",
+        "Girsu, the Orcust Mekk-Knight",
+        "Longirsu, the Orcust Orchestrator",
+        "Orcust Brass Bombard",
+        "Orcust Crescendo",
+        "Orcust Cymbal Skeleton",
+        "Orcust Knightmare",
+        "Orcustrated Attack",
+        "Orcustrated Babel",
+        "Orcustrated Core",
+        "Orcustrated Einsatz",
+        "Orcustrated Release",
+        "Orcustrated Return",
+        "Orcustrion",
+        "World Legacy - \"World Wand\""
+    ],
+    "attribute": "DARK",
+    "attack": 1700,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

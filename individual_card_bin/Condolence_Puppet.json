@@ -1,0 +1,39 @@
+{
+    "name": "Condolence Puppet",
+    "filename": "Condolence_Puppet",
+    "card_text": "Send \"Gimmick Puppet\" monsters with different names from your Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck +1. You can banish this card from your GY, then target 1 Machine Xyz Monster you control; it cannot be destroyed by your opponent's card effects while face-up on the field. You can only use each effect of \"Condolence Puppet\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "CXyz Gimmick Puppet Fanatix Machinix",
+        "Gimmick Puppet Bisque Doll",
+        "Gimmick Puppet Cattle Scream",
+        "Gimmick Puppet Chimera Doll",
+        "Gimmick Puppet Des Troy",
+        "Gimmick Puppet Dreary Doll",
+        "Gimmick Puppet Egg Head",
+        "Gimmick Puppet Fantasix Machinix",
+        "Gimmick Puppet Fiendish Knight",
+        "Gimmick Puppet Gear Changer",
+        "Gimmick Puppet Gigantes Doll",
+        "Gimmick Puppet Humpty Dumpty",
+        "Gimmick Puppet Little Soldiers",
+        "Gimmick Puppet Magnet Doll",
+        "Gimmick Puppet Nightmare",
+        "Gimmick Puppet Rouge Doll",
+        "Gimmick Puppet Scissor Arms",
+        "Gimmick Puppet Shadow Feeler",
+        "Gimmick Puppet Terror Baby",
+        "Gimmick Puppet Twilight Joker",
+        "Number 15: Gimmick Puppet Giant Grinder",
+        "Number 40: Gimmick Puppet of Strings",
+        "Number 88: Gimmick Puppet of Leo",
+        "Number C15: Gimmick Puppet Giant Hunter",
+        "Number C40: Gimmick Puppet of Dark Strings",
+        "Number C88: Gimmick Puppet Disaster Leo"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

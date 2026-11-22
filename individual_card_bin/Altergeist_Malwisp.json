@@ -1,0 +1,42 @@
+{
+    "name": "Altergeist Malwisp",
+    "filename": "Altergeist_Malwisp",
+    "card_text": "If this card is added to your hand, except by drawing it: You can Special Summon it. If this card is Normal or Special Summoned: You can target 1 \"Altergeist\" monster in your GY, except \"Altergeist Malwisp\"; Special Summon it in Defense Position, but for the rest of this turn, it cannot activate its effects. You can only use each effect of \"Altergeist Malwisp\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Altergeist Adminia",
+        "Altergeist Camouflage",
+        "Altergeist Dragvirion",
+        "Altergeist Emulatelf",
+        "Altergeist Failover",
+        "Altergeist Fifinellag",
+        "Altergeist Fijialert",
+        "Altergeist Haunted Rock",
+        "Altergeist Hexstia",
+        "Altergeist Kidolga",
+        "Altergeist Kunquery",
+        "Altergeist Manifestation",
+        "Altergeist Marionetter",
+        "Altergeist Meluseek",
+        "Altergeist Memorygant",
+        "Altergeist Multifaker",
+        "Altergeist Peritrator",
+        "Altergeist Pixiel",
+        "Altergeist Pookuery",
+        "Altergeist Primebanshee",
+        "Altergeist Protocol",
+        "Altergeist Revitalization",
+        "Altergeist Silquitous",
+        "Personal Spoofing"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -18,7 +18,11 @@
     "attack": 2500,
     "defense": 3000,
     "monster_type": "Winged Beast",
-    "monster_card_type": 134,
+    "monster_card_type": [
+        "Spirit",
+        "Ritual",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

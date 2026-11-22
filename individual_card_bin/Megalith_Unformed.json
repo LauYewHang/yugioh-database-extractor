@@ -1,0 +1,26 @@
+{
+    "name": "Megalith Unformed",
+    "filename": "Megalith_Unformed",
+    "card_text": "Activate 1 of these effects;\n\u25cfAll monsters your opponent controls lose 500 ATK for each Ritual Monster on the field, until the end of this turn.\n\u25cfRitual Summon 1 \"Megalith\" Ritual Monster from your Deck in Defense Position, by Tributing monsters from your hand or field whose total Levels equal exactly twice its Level.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Megalith Anastasis",
+        "Megalith Aratron",
+        "Megalith Bethor",
+        "Megalith Emergence",
+        "Megalith Hagith",
+        "Megalith Notrah Plura",
+        "Megalith Och",
+        "Megalith Ophiel",
+        "Megalith Phaleg",
+        "Megalith Phul",
+        "Megalith Phuloch",
+        "Megalith Portal",
+        "Megalith Promotion"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

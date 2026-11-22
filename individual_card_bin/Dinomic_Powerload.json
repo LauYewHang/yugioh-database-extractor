@@ -1,0 +1,27 @@
+{
+    "name": "Dinomic Powerload",
+    "filename": "Dinomic_Powerload",
+    "card_text": "All \"Dinomist\" monsters on the field gain 300 ATK and DEF. If a \"Dinomist\" monster you control battles, your opponent cannot activate cards or effects until the end of the Damage Step.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Dinomight Powerload, the Dracoslayer",
+        "Dinomist Ankylos",
+        "Dinomist Brachion",
+        "Dinomist Ceratops",
+        "Dinomist Charge",
+        "Dinomist Eruption",
+        "Dinomist Plesios",
+        "Dinomist Pteran",
+        "Dinomist Rex",
+        "Dinomist Rush",
+        "Dinomist Spinos",
+        "Dinomist Stegosaur",
+        "Dinomists Howling"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

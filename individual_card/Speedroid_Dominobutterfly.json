@@ -58,7 +58,11 @@
     "attack": 100,
     "defense": 300,
     "monster_type": "Machine",
-    "monster_card_type": 5122,
+    "monster_card_type": [
+        "Pendulum",
+        "Tuner",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "You cannot Pendulum Summon monsters, except WIND monsters. This effect cannot be negated. You can discard 1 WIND monster, then target 1 of your banished WIND monsters; add it to your hand. You can only use this effect of \"Speedroid Dominobutterfly\" once per turn.",

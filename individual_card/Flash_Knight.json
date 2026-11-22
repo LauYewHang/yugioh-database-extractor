@@ -14,7 +14,10 @@
     "attack": 1800,
     "defense": 600,
     "monster_type": "Warrior",
-    "monster_card_type": 4097,
+    "monster_card_type": [
+        "Pendulum",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "",

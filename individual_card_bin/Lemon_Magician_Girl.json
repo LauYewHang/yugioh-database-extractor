@@ -1,0 +1,29 @@
+{
+    "name": "Lemon Magician Girl",
+    "filename": "Lemon_Magician_Girl",
+    "card_text": "Once per turn: You can Tribute 1 \"Magician Girl\" monster, except \"Lemon Magician Girl\"; add 1 Spellcaster-Type monster from your Deck to your hand. Once per turn, if this card is targeted for an attack: You can Special Summon 1 Spellcaster-Type monster from your hand, but its effects (if any) are negated, then change the attack target to it, and if you do, the attacking monster's ATK becomes half its current ATK.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Apple Magician Girl",
+        "Berry Magician Girl",
+        "Chocolate Magician Girl",
+        "Dark Magician Girl",
+        "Dark Magician Girl the Dragon Knight",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Kiwi Magician Girl",
+        "Performapal Sky Magician Girl",
+        "Toon Dark Magician Girl"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

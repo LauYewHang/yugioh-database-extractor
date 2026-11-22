@@ -1,0 +1,31 @@
+{
+    "name": "Lava Golem",
+    "filename": "Lava_Golem",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn, during your Standby Phase: Take 1000 damage.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUELIST PACK - BATTLE CITY -",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "DUEL TERMINAL 3",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "STRUCTURE DECK - MARIK -",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

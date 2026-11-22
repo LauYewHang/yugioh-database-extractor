@@ -1,0 +1,12 @@
+{
+    "name": "Extra Net",
+    "filename": "Extra_Net",
+    "card_text": "If a monster(s) is Special Summoned from the Extra Deck: The opponent of the player that conducted the Special Summon can apply this effect.\n\u25cfDraw 1 card.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

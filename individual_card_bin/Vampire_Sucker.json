@@ -1,0 +1,37 @@
+{
+    "name": "Vampire Sucker",
+    "filename": "Vampire_Sucker",
+    "card_text": "2 Zombie monsters\nIf you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of \"Vampire Sucker\" once per turn. You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster. If a Zombie monster(s) is Special Summoned from either GY: Draw 1 card.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "MAZE OF MUERTOS",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Shadow Vampire",
+        "Vampire Awakening",
+        "Vampire Domination",
+        "Vampire Duke",
+        "Vampire Familiar",
+        "Vampire Fascinator",
+        "Vampire Ghost",
+        "Vampire Kingdom",
+        "Vampire Red Baron",
+        "Vampire Retainer",
+        "Vampire Scarlet Scourge",
+        "Vampire Sorcerer",
+        "Vampire Takeover",
+        "Vampire Vamp",
+        "Vampire's Desire",
+        "Vampire's Domain"
+    ],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": null,
+    "monster_type": "Zombie",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

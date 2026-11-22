@@ -1,0 +1,26 @@
+{
+    "name": "Sephylon, the Ultimate Timelord",
+    "filename": "Sephylon__the_Ultimate_Timelord",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 10 or more monsters in your GY. Once per turn: You can Special Summon 1 Level 8 or higher Fairy monster from your hand or GY, but its effects are negated, also its ATK becomes 4000.",
+    "release_date": "2012-06-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "SHONEN JUMP Subscription Promotional Card - December 2011 -",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "GOLD SERIES HAUNTED MINE"
+    ],
+    "related_card": [
+        "Empty Machine",
+        "Infinite Light",
+        "Infinite Machine",
+        "Time Maiden"
+    ],
+    "attribute": "LIGHT",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

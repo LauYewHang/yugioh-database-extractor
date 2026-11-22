@@ -1,0 +1,25 @@
+{
+    "name": "Labrynth Barrage",
+    "filename": "Labrynth_Barrage",
+    "card_text": "When you activate a Set Normal Trap Card, except \"Labrynth Barrage\": This effect becomes that Normal Trap's effect when that card is activated, also until the end of your opponent's next turn after this card resolves, your opponent takes no effect damage from your card effects.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "TACTICAL MASTERS"
+    ],
+    "related_card": [
+        "Arianna the Labrynth Servant",
+        "Arias the Labrynth Butler",
+        "Big Welcome Labrynth",
+        "Farewelcome Labrynth",
+        "Labrynth Chandraglier",
+        "Labrynth Cooclock",
+        "Labrynth Labyrinth",
+        "Labrynth Set-Up",
+        "Labrynth Stovie Torbie",
+        "Lady Labrynth of the Silver Castle",
+        "Welcome Labrynth"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

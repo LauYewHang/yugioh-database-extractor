@@ -1,0 +1,14 @@
+{
+    "name": "Recycle",
+    "filename": "Recycle",
+    "card_text": "During your Standby Phase, by paying 300 Life Points, select 1 non-Monster Card in your Graveyard and return it to the bottom of your Deck.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "INVASION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Division",
+    "filename": "Division",
+    "card_text": "You can Tribute all face-up \"Division(s)\" you control: Special Summon up to twice that many \"Machine Tokens\" (Machine/FIRE/Level 1/ATK 200/DEF 200), and each time 1 is destroyed, your opponent takes 500 damage. If this card is banished: You can target any number of Tokens you control; destroy them. You can only use each effect of \"Division\" once per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

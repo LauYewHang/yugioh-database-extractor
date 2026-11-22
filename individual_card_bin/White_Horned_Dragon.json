@@ -1,0 +1,21 @@
+{
+    "name": "White-Horned Dragon",
+    "filename": "White_Horned_Dragon",
+    "card_text": "When this card is Normal or Special Summoned: Target up to 5 Spell Cards in your opponent's Graveyard; banish those target(s), and if you do, this card gains 300 ATK for each card banished by this effect.",
+    "release_date": "2006-12-26",
+    "available_set": [
+        "DUEL TERMINAL 7A",
+        "GX NEXT GENERATION",
+        "Promotional Cards 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 1400,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

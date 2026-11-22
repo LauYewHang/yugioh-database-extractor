@@ -1,0 +1,20 @@
+{
+    "name": "Breaking of the World",
+    "filename": "Breaking_of_the_World",
+    "card_text": "Once per turn: You can target 1 Ritual Monster you control; show 1 Ritual Monster in your hand, until the end of this turn. The Level of the shown Ritual Monster becomes the targeted monster's Level, until the end of this turn (even if this card leaves the field). Once per turn, if \"Ruin, Queen of Oblivion\" or \"Demise, King of Armageddon\" is Ritual Summoned to your field (except during the Damage Step): You can activate 1 of these effects;\n\u25cfDraw 1 card.\n\u25cfDestroy 1 card on the field.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Demise, Agent of Armageddon",
+        "Demise, King of Armageddon",
+        "Demise, Supreme King of Armageddon",
+        "Ruin, Angel of Oblivion",
+        "Ruin, Queen of Oblivion",
+        "Ruin, Supreme Queen of Oblivion",
+        "Ruler of the End of the World"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

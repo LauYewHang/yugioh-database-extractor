@@ -1,0 +1,12 @@
+{
+    "name": "Oni-Gami Combo",
+    "filename": "Oni_Gami_Combo",
+    "card_text": "Target 1 face-up Xyz Monster you control and detach all of its Xyz Material; this turn, that target can attack twice during the same Battle Phase.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

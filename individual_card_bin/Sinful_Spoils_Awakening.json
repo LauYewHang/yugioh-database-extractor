@@ -1,0 +1,29 @@
+{
+    "name": "Sinful Spoils Awakening",
+    "filename": "Sinful_Spoils_Awakening",
+    "card_text": "If your opponent controls 3 or more monsters and you control a Level 5 or higher Illusion monster: Target up to 3 cards your opponent controls; return them to the hand. If you control a Level 5 or higher Illusion monster and this card is in your GY: You can Set this card, but banish it when it leaves the field. You can only use 1 \"Sinful Spoils Awakening\" effect per turn, and only once that turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Azamina Debtors",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Diabellze the Original Sinkeeper",
+        "Diabellze the White Witch",
+        "Elzette, Azamina of the White Forest",
+        "Queen Azamina",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils Struggle",
+        "The Hallowed Azamina",
+        "WANTED: Seeker of Sinful Spoils"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Fire Formation - Tensen",
+    "filename": "Fire_Formation___Tensen",
+    "card_text": "When this card is activated: Target 1 Beast-Warrior-Type monster you control; it gains 700 ATK until the end of this turn. (This ATK gain remains even if this card leaves the field.) All Beast-Warrior-Type monsters you control gain 300 ATK.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "DUELIST LEAGUE 18",
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Brotherhood of the Fire Fist - Bear",
+        "Brotherhood of the Fire Fist - Boar",
+        "Brotherhood of the Fire Fist - Buffalo",
+        "Brotherhood of the Fire Fist - Cardinal",
+        "Brotherhood of the Fire Fist - Caribou",
+        "Brotherhood of the Fire Fist - Coyote",
+        "Brotherhood of the Fire Fist - Dragon",
+        "Brotherhood of the Fire Fist - Eagle",
+        "Brotherhood of the Fire Fist - Eland",
+        "Brotherhood of the Fire Fist - Elephant",
+        "Brotherhood of the Fire Fist - Gorilla",
+        "Brotherhood of the Fire Fist - Hawk",
+        "Brotherhood of the Fire Fist - Kirin",
+        "Brotherhood of the Fire Fist - Leopard",
+        "Brotherhood of the Fire Fist - Panda",
+        "Brotherhood of the Fire Fist - Peacock",
+        "Brotherhood of the Fire Fist - Ram",
+        "Brotherhood of the Fire Fist - Raven",
+        "Brotherhood of the Fire Fist - Rhino",
+        "Brotherhood of the Fire Fist - Rooster",
+        "Brotherhood of the Fire Fist - Snake",
+        "Brotherhood of the Fire Fist - Swallow",
+        "Brotherhood of the Fire Fist - Swan",
+        "Brotherhood of the Fire Fist - Tiger King",
+        "Brotherhood of the Fire Fist - Wolf",
+        "Fire Fortress atop Liang Peak",
+        "Ultimate Fire Formation - Seito",
+        "Ultimate Fire Formation - Sinto"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

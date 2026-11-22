@@ -1,0 +1,14 @@
+{
+    "name": "Link Restart",
+    "filename": "Link_Restart",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated that would inflict damage to you: Negate the activation, and if you do, Special Summon 1 Link Monster from your GY.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "STAR PACK: VRAINS",
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

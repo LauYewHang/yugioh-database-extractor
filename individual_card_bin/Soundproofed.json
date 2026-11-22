@@ -1,0 +1,12 @@
+{
+    "name": "Soundproofed",
+    "filename": "Soundproofed",
+    "card_text": "This card can only be activated at the start of Main Phase 1, and only if you control no face-up Synchro Monsters. Neither player can Special Summon a Synchro Monster until your opponent's next End Phase.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

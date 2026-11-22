@@ -1,0 +1,18 @@
+{
+    "name": "Beautunaful Princess",
+    "filename": "Beautunaful_Princess",
+    "card_text": "When this card is Normal or Special Summoned: You can banish this card; Special Summon 1 Level 4 or lower Fish monster from your Deck, except \"Beautunaful Princess\". You can only use this effect of \"Beautunaful Princess\" once per turn.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

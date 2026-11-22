@@ -1,0 +1,14 @@
+{
+    "name": "Virus Cannon",
+    "filename": "Virus_Cannon",
+    "card_text": "Tribute any number of monsters, except Tokens; your opponent sends an equal number of Spells from their Deck to the GY (or all their Spells, if lower than the number of Tributes).",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "CROSSROADS OF CHAOS",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

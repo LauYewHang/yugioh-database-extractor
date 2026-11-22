@@ -14,7 +14,9 @@
     "attack": 2600,
     "defense": 2000,
     "monster_type": "Zombie",
-    "monster_card_type": 2,
+    "monster_card_type": [
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

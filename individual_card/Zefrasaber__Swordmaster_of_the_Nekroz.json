@@ -59,7 +59,10 @@
     "attack": 1500,
     "defense": 800,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "You cannot Pendulum Summon monsters, except \"Nekroz\" and \"Zefra\" monsters. This effect cannot be negated.",

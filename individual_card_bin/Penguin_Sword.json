@@ -1,0 +1,31 @@
+{
+    "name": "Penguin Sword",
+    "filename": "Penguin_Sword",
+    "card_text": "Equip only to a \"Penguin\" monster. It gains 800 ATK. When the equipped monster inflicts battle damage to your opponent: You can return 1 card your opponent controls to the hand. If a face-up card your opponent controls leaves the field by a \"Penguin\" card's effect and returns to the hand or is banished: Negate the activated effects and effects on the field of cards with that original name, until the end of the next turn. You can only use this effect of \"Penguin Sword\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Bolt Penguin",
+        "First Penguin",
+        "Fluffal Penguin",
+        "Flying Penguin",
+        "Glacial Beast Polar Penguin",
+        "Guard Penguin",
+        "Nightmare Penguin",
+        "Nopenguin",
+        "Penguin Brave",
+        "Penguin Cleric",
+        "Penguin Knight",
+        "Penguin Ninja",
+        "Penguin Soldier",
+        "Penguin Squire",
+        "Penguin Torpedo",
+        "Puny Penguin",
+        "Royal Penguins Garden",
+        "The Great Emperor Penguin"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Patrician of Darkness",
+    "filename": "Patrician_of_Darkness",
+    "card_text": "You choose the attack targets for your opponent's attacks.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "DARK BEGINNING 2",
+        "GOLD SERIES HAUNTED MINE",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL: TRIALS OF THE KINGDOM"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1400,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

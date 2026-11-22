@@ -1,0 +1,18 @@
+{
+    "name": "Spiritual Fire Art - Kurenai",
+    "filename": "Spiritual_Fire_Art___Kurenai",
+    "card_text": "Tribute 1 FIRE monster; inflict damage to your opponent equal to that monster's original ATK.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "STRUCTURE DECK: FIRE KINGS",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Awakening of the Possessed - Greater Inari Fire"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

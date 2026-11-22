@@ -79,7 +79,10 @@
     "attack": 2300,
     "defense": 1000,
     "monster_type": "Beast",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "If a face-up non-Pendulum Monster(s) you control that was Special Summoned from the Extra Deck would be destroyed by battle or card effect, you can destroy this card instead.",

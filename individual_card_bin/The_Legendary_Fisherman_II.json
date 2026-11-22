@@ -1,0 +1,41 @@
+{
+    "name": "The Legendary Fisherman II",
+    "filename": "The_Legendary_Fisherman_II",
+    "card_text": "This card's name becomes \"The Legendary Fisherman\" while on the field or in the GY. While \"Umi\" is on the field, this card is unaffected by other monsters' effects. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can add 1 Level 7 WATER monster from your Deck to your hand.",
+    "release_date": "2017-09-08",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL TOURNAMENT PACK 4",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "LEGENDARY DUELISTS",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "The Legendary Fisherman",
+        "The Legendary Fisherman III",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "attribute": "WATER",
+    "attack": 2200,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

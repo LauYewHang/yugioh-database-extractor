@@ -1,0 +1,14 @@
+{
+    "name": "Wall of Revealing Light",
+    "filename": "Wall_of_Revealing_Light",
+    "card_text": "Activate by paying any multiple of 1000 Life Points. Monsters your opponent controls cannot attack if their ATK is less than or equal to the amount you paid.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY",
+        "DUEL TERMINAL 6A"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

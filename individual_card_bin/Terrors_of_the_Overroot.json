@@ -1,0 +1,17 @@
+{
+    "name": "Terrors of the Overroot",
+    "filename": "Terrors_of_the_Overroot",
+    "card_text": "Target 1 card your opponent controls and 1 card in their GY; send that card on the field to the GY, and if you do, Set the other card from the GY to your opponent's field. You can only activate 1 \"Terrors of the Overroot\" per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "OTS TOURNAMENT PACK 24",
+        "STRUCTURE DECK: THE CRIMSON KING"
+    ],
+    "related_card": [
+        "Terrors of the Afterroot"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

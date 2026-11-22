@@ -1,0 +1,24 @@
+{
+    "name": "Clear Cube",
+    "filename": "Clear_Cube",
+    "card_text": "You are unaffected by the effects of \"Clear World\". During your Main Phase, you can Normal Summon 1 monster that mentions \"Clear World\", in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 monster that mentions \"Clear World\" from your Deck.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Clear Phantom",
+        "Clear Rage Golem",
+        "Clear Vice Dragon",
+        "Clear Vicious Knight",
+        "Clear Wall",
+        "Clear World"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

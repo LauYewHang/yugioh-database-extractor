@@ -1,0 +1,15 @@
+{
+    "name": "Wavering Eyes",
+    "filename": "Wavering_Eyes",
+    "card_text": "Destroy as many cards in each player's Pendulum Zones as possible, then apply these effects, in sequence, depending on the number of cards destroyed by this effect.\n\u25cf1+: Inflict 500 damage to your opponent.\n\u25cf2+: You can add 1 Pendulum Monster from your Main Deck to your hand.\n\u25cf3+: You can banish 1 card on the field.\n\u25cf4: You can add 1 \"Wavering Eyes\" from your Deck to your hand.",
+    "release_date": "2015-07-03",
+    "available_set": [
+        "CROSSED SOULS ADVANCE EDITION",
+        "CLASH OF REBELLIONS",
+        "ANCIENT\u3000GUARDIANS",
+        "OTS TOURNAMENT PACK 7"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

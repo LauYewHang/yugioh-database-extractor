@@ -19,7 +19,14 @@
     "attack": 2400,
     "defense": null,
     "monster_type": "Cyberse",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 3,
-    "link_arrow": 84
+    "link_arrow": [
+        "Middle-Right",
+        "Middle-Left",
+        "Bottom-Center"
+    ]
 }

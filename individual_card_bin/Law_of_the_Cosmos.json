@@ -1,0 +1,26 @@
+{
+    "name": "Law of the Cosmos",
+    "filename": "Law_of_the_Cosmos",
+    "card_text": "Your opponent can Set 1 Trap directly from their hand or Deck. Then, if they did, Special Summon 1 \"Jinzo\" from your Deck. If they did not, add 1 \"Jinzo\", or 1 monster that specifically lists that card in its text, from your Deck to your hand. You can only activate 1 \"Law of the Cosmos\" per turn.",
+    "release_date": "2020-09-25",
+    "available_set": [
+        "LEGENDARY DUELISTS: RAGE OF RA"
+    ],
+    "related_card": [
+        "Amplifier",
+        "Cosmos Channelling",
+        "Cyber Energy Shock",
+        "Everlasting Alloy",
+        "Jinzo",
+        "Jinzo - Energy Shocker",
+        "Jinzo - Jector",
+        "Jinzo - Lord",
+        "Jinzo - Returner",
+        "Jinzo the Machine Menace",
+        "Psychic Bounder",
+        "Psychic Megacyber",
+        "Psychic Wave"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

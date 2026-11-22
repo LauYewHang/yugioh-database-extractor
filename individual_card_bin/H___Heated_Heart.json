@@ -1,0 +1,21 @@
+{
+    "name": "H - Heated Heart",
+    "filename": "H___Heated_Heart",
+    "card_text": "Target 1 face-up monster you control; until the end of this turn, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "ENEMY OF JUSTICE",
+        "HERO STRIKE STRUCTURE DECK",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "RA YELLOW MEGA PACK",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "DARK REVELATION Volume 4",
+        "DUELIST PACK - JADEN YUKI 2 -"
+    ],
+    "related_card": [
+        "Hero Flash!!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

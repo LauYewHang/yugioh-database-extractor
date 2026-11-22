@@ -1,0 +1,35 @@
+{
+    "name": "Artifact Achilleshield",
+    "filename": "Artifact_Achilleshield",
+    "card_text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your Graveyard: Special Summon it. If this card is Special Summoned during your opponent's turn: Your opponent cannot target \"Artifact\" monsters you control for attacks for the rest of this turn.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN",
+        "2015 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Artifact Aegis",
+        "Artifact Beagalltach",
+        "Artifact Caduceus",
+        "Artifact Chakram",
+        "Artifact Dagda",
+        "Artifact Durendal",
+        "Artifact Failnaught",
+        "Artifact Ignition",
+        "Artifact Labrys",
+        "Artifact Lancea",
+        "Artifact Mjollnir",
+        "Artifact Moralltach",
+        "Artifact Sanctum",
+        "Artifact Scythe",
+        "Artifact Vajra",
+        "Artifacts Unleashed"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 2200,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

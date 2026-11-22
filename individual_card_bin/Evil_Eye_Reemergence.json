@@ -1,0 +1,30 @@
+{
+    "name": "Evil Eye Reemergence",
+    "filename": "Evil_Eye_Reemergence",
+    "card_text": "Special Summon 1 \"Familiar of the Evil Eye Token\" (Fiend/DARK/Level 1/ATK 400/DEF 400), or, if \"Evil Eye of Selene\" is in your Spell & Trap Zone, you can Special Summon 2 instead, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except Fiend monsters. You can banish this card from your GY; your opponent cannot target \"Evil Eye\" Spells/Traps you control with card effects this turn. You can only use each effect of \"Evil Eye Reemergence\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Basilius, Familiar of the Evil Eye",
+        "Basiltrice, Familiar of the Evil Eye",
+        "Catoblepas, Familiar of the Evil Eye",
+        "Evil Eye Awakening",
+        "Evil Eye Confrontation",
+        "Evil Eye Defeat",
+        "Evil Eye Domain - Pareidolia",
+        "Evil Eye Mesmerism",
+        "Evil Eye of Gorgoneio",
+        "Evil Eye of Selene",
+        "Evil Eye Repose",
+        "Evil Eye Retribution",
+        "Evil Eyes Unleashed",
+        "Gorgon, Empress of the Evil Eyed",
+        "Medusa, Watcher of the Evil Eye",
+        "Serziel, Watcher of the Evil Eye",
+        "Zerrziel, Ruler of the Evil Eyed"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

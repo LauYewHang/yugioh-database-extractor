@@ -1,0 +1,30 @@
+{
+    "name": "Malefic Claw Stream",
+    "filename": "Malefic_Claw_Stream",
+    "card_text": "Activate only if you control a face-up \"Malefic\" monster. Select 1 monster your opponent controls, and destroy it.",
+    "release_date": "2011-02-22",
+    "available_set": [
+        "Yu-Gi-Oh! 3D BONDS BEYOND TIME MOVIE PACK"
+    ],
+    "related_card": [
+        "Malefic Blue-Eyes White Dragon",
+        "Malefic Cyber End Dragon",
+        "Malefic Divide",
+        "Malefic Force",
+        "Malefic Paradigm Dragon",
+        "Malefic Paradigm Shift",
+        "Malefic Paradox Dragon",
+        "Malefic Paradox Gear",
+        "Malefic Parallel Gear",
+        "Malefic Rainbow Dragon",
+        "Malefic Red-Eyes Black Dragon (Updated from: Malefic Red-Eyes B. Dragon)",
+        "Malefic Selector",
+        "Malefic Stardust Dragon",
+        "Malefic Territory",
+        "Malefic Truth Dragon",
+        "Malefic Tune",
+        "Malefic World"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

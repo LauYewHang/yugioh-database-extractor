@@ -1,0 +1,33 @@
+{
+    "name": "Infinitrack Goliath",
+    "filename": "Infinitrack_Goliath",
+    "card_text": "1 non-Link \"Infinitrack\" monster\nIf this card is sent from the field to the GY: You can target 1 Xyz Monster you control; attach this card to that monster as material. You can only use this effect of \"Infinitrack Goliath\" once per turn. An Xyz Monster whose original Type is Machine and has this card as material gains this effect.\n\u25cfThis card cannot be destroyed by card effects.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Heavy Forward",
+        "Infinitrack Anchor Drill",
+        "Infinitrack Brutal Dozer",
+        "Infinitrack Crab Crane",
+        "Infinitrack Drag Shovel",
+        "Infinitrack Earth Slicer",
+        "Infinitrack Fortress Megaclops",
+        "Infinitrack Harvester",
+        "Infinitrack Mountain Smasher",
+        "Infinitrack River Stormer",
+        "Infinitrack Road Roller",
+        "Infinitrack Trencher",
+        "Infinitrack Tunneller",
+        "Outrigger Extension"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": 8194,
+    "link_rating": 1,
+    "link_arrow": 8
+}

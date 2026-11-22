@@ -1,0 +1,18 @@
+{
+    "name": "Vermillion Dragon Mech",
+    "filename": "Vermillion_Dragon_Mech",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can banish 1 Tuner from your hand, GY, or face-up field, then target 1 card on the field; destroy it. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can target 1 of your banished Tuners; add it to your hand.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE",
+        "Duel Devastator"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2700,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

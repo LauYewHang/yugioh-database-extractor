@@ -1,0 +1,13 @@
+{
+    "name": "Spring of Rebirth",
+    "filename": "Spring_of_Rebirth",
+    "card_text": "Increase your Life Points by 500 points every time monsters return from the field to the owner's hand.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

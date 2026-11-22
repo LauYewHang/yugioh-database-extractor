@@ -1,0 +1,19 @@
+{
+    "name": "Mysterious Puppeteer",
+    "filename": "Mysterious_Puppeteer",
+    "card_text": "(This card is not treated as a \"Puppet\" card.)\nIf another monster is Normal or Flip Summoned: Gain 500 LP.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK KAIBA Evolution",
+        "STARTER DECK KAIBA",
+        "OTS TOURNAMENT PACK 21"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

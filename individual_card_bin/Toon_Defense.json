@@ -1,0 +1,21 @@
+{
+    "name": "Toon Defense",
+    "filename": "Toon_Defense",
+    "card_text": "When an opponent's monster declares an attack targeting a face-up Level 4 or lower Toon monster you control: You can make the attack a direct attack instead.",
+    "release_date": "2005-07-27",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "DARK BEGINNING 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS"
+    ],
+    "related_card": [
+        "Evil Box",
+        "Funny Dark Rabbit",
+        "Mind Scan",
+        "Toon Dark Magician",
+        "Toon Table of Contents"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

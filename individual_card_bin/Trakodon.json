@@ -1,0 +1,19 @@
+{
+    "name": "Trakodon",
+    "filename": "Trakodon",
+    "card_text": "A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.",
+    "release_date": "2006-12-26",
+    "available_set": [
+        "Promotional Cards 2"
+    ],
+    "related_card": [
+        "Pragtical"
+    ],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 800,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

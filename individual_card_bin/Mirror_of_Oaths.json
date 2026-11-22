@@ -1,0 +1,13 @@
+{
+    "name": "Mirror of Oaths",
+    "filename": "Mirror_of_Oaths",
+    "card_text": "When your opponent Special Summons a monster(s) from their Main Deck: Destroy that monster(s), and if you do, draw 1 card.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "TURBO PACK BOOSTER EIGHT",
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

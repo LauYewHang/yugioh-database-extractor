@@ -1,0 +1,31 @@
+{
+    "name": "U.A. Stadium",
+    "filename": "U_A__Stadium",
+    "card_text": "If a \"U.A.\" monster is Normal Summoned to your side of the field: You can add 1 \"U.A.\" monster from your Deck to your hand. Once per turn, if a \"U.A.\" monster(s) is Special Summoned to your side of the field: All monsters you currently control gain 500 ATK (even if this card leaves the field).",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "ASTRAL PACK EIGHT"
+    ],
+    "related_card": [
+        "U.A. Blockbacker",
+        "U.A. Dreadnought Dunker",
+        "U.A. Goalkeeper",
+        "U.A. Hyper Stadium",
+        "U.A. Libero Spiker",
+        "U.A. Locker Room",
+        "U.A. Man of the Match",
+        "U.A. Midfielder",
+        "U.A. Mighty Slugger",
+        "U.A. Penalty Box",
+        "U.A. Perfect Ace",
+        "U.A. Player Manager",
+        "U.A. Playmaker",
+        "U.A. Powered Jersey",
+        "U.A. Rival Rebounder",
+        "U.A. Signing Deal",
+        "U.A. Turnover Tactics"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

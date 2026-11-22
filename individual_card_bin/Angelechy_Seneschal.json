@@ -1,0 +1,31 @@
+{
+    "name": "Angelechy Seneschal",
+    "filename": "Angelechy_Seneschal",
+    "card_text": "1 Tuner + 1+ non-Tuners\nIf this card is Special Summoned: Activate this effect; each player can Special Summon 1 Fairy Synchro Monster from their Extra Deck (but negate its effects), also this card, and monsters Special Summoned by this effect, cannot be used as material for an Xyz or Link Summon, and return them to the Extra Deck when they leave the field. If an \"Angelechy\" monster targets this card for an attack: Negate that attack, and if you do, give control of this card to your opponent. You can only use each effect of \"Angelechy Seneschal\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Angelechy Bastion",
+        "Angelechy Brilliant Move",
+        "Angelechy Castellan",
+        "Angelechy Destrier",
+        "Angelechy Disturbance",
+        "Angelechy Endgame Problem",
+        "Angelechy Enlisted",
+        "Angelechy Opening to e4",
+        "Angelechy Opposition",
+        "Angelechy Problem",
+        "Angelechy Shatranga",
+        "Angelechy Strategy Score",
+        "Angelechy Verdict"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

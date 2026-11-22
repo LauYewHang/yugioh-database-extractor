@@ -1,0 +1,17 @@
+{
+    "name": "Power Injector",
+    "filename": "Power_Injector",
+    "card_text": "Once per turn you can pay 600 Life Points to have all face-up Psychic-Type monsters gain 500 ATK during this turn.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1300,
+    "defense": 1400,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

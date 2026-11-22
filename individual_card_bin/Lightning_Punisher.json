@@ -1,0 +1,17 @@
+{
+    "name": "Lightning Punisher",
+    "filename": "Lightning_Punisher",
+    "card_text": "After a Chain with 3 or more Links resolves, destroy 1 card on your opponent's side of the field. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 1600,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

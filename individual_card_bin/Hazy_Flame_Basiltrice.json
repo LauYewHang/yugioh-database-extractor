@@ -1,0 +1,23 @@
+{
+    "name": "Hazy Flame Basiltrice",
+    "filename": "Hazy_Flame_Basiltrice",
+    "card_text": "2 or more (max. 5) Level 6 FIRE monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 monster your opponent controls or is in their Graveyard; banish that target. This card gains effects based on the number of Xyz Materials attached to it.\n\u25cf3 or more: This card gains 200 ATK and DEF for each Xyz Material attached to it.\n\u25cf4 or more: This card cannot be targeted by your opponent's card effects.\n\u25cf5: This card cannot be destroyed by card effects.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Hazy Flame Cerbereus",
+        "Hazy Flame Hydra",
+        "Hazy Flame Peryton",
+        "Hazy Glory",
+        "Hazy Pillar"
+    ],
+    "attribute": "FIRE",
+    "attack": 2500,
+    "defense": 1800,
+    "monster_type": "Pyro",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

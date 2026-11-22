@@ -1,0 +1,28 @@
+{
+    "name": "Plunder Patroll Parrrty",
+    "filename": "Plunder_Patroll_Parrrty",
+    "card_text": "If you control a \"Plunder Patroll\" monster: Draw cards equal to the number of Equip Cards you control +1, then shuffle cards from your hand into the Deck equal to the number of Equip Cards you control. You can only use this effect of \"Plunder Patroll Parrrty\" once per turn. If you Special Summon a \"Plunder Patroll\" monster(s) from the Extra Deck, while this card is in your GY: You can equip this card to that Special Summoned monster as an Equip Card with this effect.\n\u25cfThe equipped monster gains 500 ATK.\nYou can only use this effect of \"Plunder Patroll Parrrty\" once per Duel.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Blackbeard, the Plunder Patroll Captain",
+        "Blackeyes, the Plunder Patroll Seaguide",
+        "Bluebeard, the Plunder Patroll Shipwright",
+        "Emblem of the Plunder Patroll",
+        "Goldenhair, the Newest Plunder Patroll",
+        "Plunder Patroll Booty",
+        "Plunder Patroll Shipshape Ships Shipping",
+        "Plunder Patroll Shipyarrrd",
+        "Plunder Patrollship Brann",
+        "Plunder Patrollship Jord",
+        "Plunder Patrollship Lys",
+        "Plunder Patrollship Moerk",
+        "Pride of the Plunder Patroll",
+        "Redbeard, the Plunder Patroll Matey",
+        "Whitebeard, the Plunder Patroll Helm"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

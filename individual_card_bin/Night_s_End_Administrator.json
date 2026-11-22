@@ -1,0 +1,19 @@
+{
+    "name": "Night's End Administrator",
+    "filename": "Night_s_End_Administrator",
+    "card_text": "\"Night's End Sorcerer\" + 1+ non-Tuner monsters\nIf this card is Special Summoned, or if another Spellcaster monster(s) is Special Summoned to your field: You can target 1 card in your opponent's GY; banish it. If this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon it. You can only use this effect of \"Night's End Administrator\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY"
+    ],
+    "related_card": [
+        "Night's End Sorcerer"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 1400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Super Quantum Black Layer",
+    "filename": "Super_Quantum_Black_Layer",
+    "card_text": "When your opponent activates a monster effect (Quick Effect): You can discard 1 other card, and if you do, Special Summon this card from your hand. If this card is Special Summoned: You can Special Summon 1 \"Super Quantal Mech Beast\" Xyz Monster from your Extra Deck using this card you control as material (this is treated as an Xyz Summon), and if you do, attach 1 \"Super Quant\" monster from your GY to it. If this card is sent to the GY: You can add 1 \"Super Quant\" Spell from your Deck to your hand. You can only use each effect of \"Super Quantum Black Layer\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphan Spike",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech Beast Aeroboros",
+        "Super Quantal Mech Beast Grampulse",
+        "Super Quantal Mech Beast Lusterrex",
+        "Super Quantal Mech Beast Magnaliger",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 2400,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

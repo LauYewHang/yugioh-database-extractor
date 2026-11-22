@@ -1,0 +1,18 @@
+{
+    "name": "Baby Mudragon",
+    "filename": "Baby_Mudragon",
+    "card_text": "If this card you control is used as Synchro Material, you can treat it as a non-Tuner. If this card is sent to the GY as Synchro Material: You can declare 1 Type or Attribute, then target 1 Synchro Monster you control; it becomes the declared Type/Attribute, until the end of this turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 200,
+    "monster_type": "Dragon",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

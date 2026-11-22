@@ -1,0 +1,19 @@
+{
+    "name": "Trishula, the Dragon of Icy Imprisonment",
+    "filename": "Trishula__the_Dragon_of_Icy_Imprisonment",
+    "card_text": "3 monsters with different names\nMust first be either Fusion Summoned using only monsters in your hand and/or field, or Special Summoned (from your Extra Deck) by banishing the above cards you control. If this card was Special Summoned using only monsters that were originally Dragons: You can reveal and banish 3 cards (1 from your Deck, 1 from the top of your opponent's Deck, and 1 from their Extra Deck). You can only use this effect of \"Trishula, the Dragon of Icy Imprisonment\" once per turn.",
+    "release_date": "2019-06-30",
+    "available_set": [
+        "SHONEN JUMP membership Promotional Card - June 2019  - \u30102\u3011",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2700,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

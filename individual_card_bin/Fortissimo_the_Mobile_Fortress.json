@@ -1,0 +1,19 @@
+{
+    "name": "Fortissimo the Mobile Fortress",
+    "filename": "Fortissimo_the_Mobile_Fortress",
+    "card_text": "Once per turn: You can Special Summon 1 \"Meklord Army\" monster from your hand.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Meklord Army Deployer Obbligato",
+        "Meklord Army of Granel",
+        "Meklord Army of Skiel",
+        "Meklord Army of Wisel",
+        "The Resolute Meklord Army"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Witchcrafter Scroll",
+    "filename": "Witchcrafter_Scroll",
+    "card_text": "Once per turn, when your Spellcaster monster destroys a monster by battle: You can draw 1 card. You can only use 1 of the following effects of \"Witchcrafter Scroll\" per turn, and only once that turn.\n\u25cfIf a \"Witchcrafter\" monster you control would discard to activate an effect, you can send this card from your field to the GY instead.\n\u25cfDuring your End Phase, if you control a \"Witchcrafter\" monster, while this card is in your GY: You can place this card face-up in your Spell & Trap Zone.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Genni, the Maid of Endymion",
+        "Verre Magic - Lacrima of Light",
+        "Verre, the Maid of Endymion",
+        "Witchcrafter Bystreet",
+        "Witchcrafter Celebration",
+        "Witchcrafter Collaboration",
+        "Witchcrafter Confusion Confession",
+        "Witchcrafter Creation",
+        "Witchcrafter Distortion",
+        "Witchcrafter Draping",
+        "Witchcrafter Edel",
+        "Witchcrafter Genni",
+        "Witchcrafter Golem Aruru",
+        "Witchcrafter Haine",
+        "Witchcrafter Holiday",
+        "Witchcrafter Madame Rilliona",
+        "Witchcrafter Madame Verre",
+        "Witchcrafter Marka",
+        "Witchcrafter Masterpiece",
+        "Witchcrafter Patronus",
+        "Witchcrafter Pittore",
+        "Witchcrafter Potterie",
+        "Witchcrafter Pupils",
+        "Witchcrafter Schmietta",
+        "Witchcrafter Terracottan",
+        "Witchcrafter Unveiling",
+        "Witchcrafter Vice-Madame",
+        "Witchcrafter Walpurgis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

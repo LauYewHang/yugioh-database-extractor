@@ -1,0 +1,23 @@
+{
+    "name": "Interdimensional Matter Transporter",
+    "filename": "Interdimensional_Matter_Transporter",
+    "card_text": "Target 1 face-up monster you control; banish that target until the End Phase.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK REVELATION Volume 1",
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "DARK CRISIS (Reprint)",
+        "STRUCTURE DECK : SETO KAIBA",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "DARK CRISIS",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "DUELIST PACK - KAIBA -",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

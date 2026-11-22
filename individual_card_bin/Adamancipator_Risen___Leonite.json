@@ -1,0 +1,37 @@
+{
+    "name": "Adamancipator Risen - Leonite",
+    "filename": "Adamancipator_Risen___Leonite",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nDuring your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can add 1 excavated \"Adamancipator\" card to your hand, also place the rest on the bottom of your Deck in any order. During your opponent's turn, if a FIRE monster is in your GY (Quick Effect): You can target 1 Rock monster in your GY; Special Summon it. You can only use each effect of \"Adamancipator Risen - Leonite\" once per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Adamancipator Analyzer",
+        "Adamancipator Conductor",
+        "Adamancipator Crystal - Dragite",
+        "Adamancipator Crystal - Leonite",
+        "Adamancipator Crystal - Raptite",
+        "Adamancipator Crystal - Tiamite",
+        "Adamancipator Friends",
+        "Adamancipator Laputite",
+        "Adamancipator Luminous",
+        "Adamancipator Mates",
+        "Adamancipator Relief",
+        "Adamancipator Researcher",
+        "Adamancipator Resonance",
+        "Adamancipator Risen - Dragite",
+        "Adamancipator Risen - Raptite",
+        "Adamancipator Risen - Tiamite",
+        "Adamancipator Seeker",
+        "Adamancipator Signs"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 2200,
+    "monster_type": "Rock",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

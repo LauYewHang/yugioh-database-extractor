@@ -1,0 +1,16 @@
+{
+    "name": "Tail Swipe",
+    "filename": "Tail_Swipe",
+    "card_text": "Target 1 Level 5 or higher Dinosaur monster you control; if that Dinosaur monster is still face-up on the field, choose up to 2 monsters your opponent controls that have a lower Level than it, or are face-down, and return the chosen monsters to the hand.",
+    "release_date": "2006-10-20",
+    "available_set": [
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "TURBO PACK BOOSTER SEVEN",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL: TRIALS OF THE KINGDOM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

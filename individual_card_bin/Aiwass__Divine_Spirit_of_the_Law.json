@@ -1,0 +1,36 @@
+{
+    "name": "Aiwass, Divine Spirit of the Law",
+    "filename": "Aiwass__Divine_Spirit_of_the_Law",
+    "card_text": "You can banish this card from your hand or field; add 1 \"Aleister\" monster from your Deck to your hand, then if this effect was activated on the field, immediately after this effect resolves, you can Normal Summon 1 Spellcaster monster. If a face-up Fusion Monster(s) you control is sent to the GY, except by battle, while this card is in your GY (except during the Damage Step): You can Special Summon this card, then you can Fusion Summon 1 \"Invoked\" monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Aiwass, Divine Spirit of the Law\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Aleister the Invoker",
+        "Aleister the Invoker of Madness",
+        "Aleister the Reminiscent",
+        "Hyperinvoked Aeon",
+        "Invoked Augoeides",
+        "Invoked Baybarron",
+        "Invoked Caliga",
+        "Invoked Cocytus",
+        "Invoked De Anima",
+        "Invoked Elysium",
+        "Invoked Magellanica",
+        "Invoked Magistus Omega",
+        "Invoked Mechaba",
+        "Invoked Oceanus",
+        "Invoked Purgatrio",
+        "Invoked Raidjin",
+        "Invoked Sorath",
+        "Sacred Spirit Sword Aiwass"
+    ],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 2800,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

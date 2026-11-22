@@ -1,0 +1,12 @@
+{
+    "name": "Pig Iron vs. Pen Peg",
+    "filename": "Pig_Iron_vs__Pen_Peg",
+    "card_text": "Target 1 face-up monster on the field; if that monster's ATK, DEF, or Level is higher than its original value, it becomes its original value, then pay LP in multiples of 100 (min. 100, max. 1000). During your Main Phase, if both players have the same LP and this card is in your GY: You can Set this card. You can only use this effect of \"Pig Iron vs. Pen Peg\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

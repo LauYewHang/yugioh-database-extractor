@@ -1,0 +1,31 @@
+{
+    "name": "Maliss <Q> Hearts Crypter",
+    "filename": "Maliss__Q__Hearts_Crypter",
+    "card_text": "3 monsters, including a \"Maliss\" monster\n(Quick Effect): You can target 1 of your banished \"Maliss\" cards; shuffle it into the Deck, and if you do, banish 1 card on the field (while this card points to a monster, this effect and its activation cannot be negated). If this card is banished: You can pay 900 LP; Special Summon it and double its ATK. You can only use each effect of \"Maliss <Q> Hearts Crypter\" once per turn.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "LIMITED PACK WORLD CHAMPIONSHIP 2025",
+        "2025 MEGA-PACK TIN",
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Maliss <C> GWC-06",
+        "Maliss <C> MTP-07",
+        "Maliss <C> TB-11",
+        "Maliss <P> Chessy Cat",
+        "Maliss <P> Dormouse",
+        "Maliss <P> March Hare",
+        "Maliss <P> White Rabbit",
+        "Maliss <Q> Red Ransom",
+        "Maliss <Q> White Binder",
+        "Maliss in the Mirror",
+        "Maliss in Underground"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 266
+}

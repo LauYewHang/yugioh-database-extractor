@@ -1,0 +1,14 @@
+{
+    "name": "Disappear",
+    "filename": "Disappear",
+    "card_text": "Remove from play 1 card from your opponent's Graveyard.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "STARTER DECK YUGI Evolution",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

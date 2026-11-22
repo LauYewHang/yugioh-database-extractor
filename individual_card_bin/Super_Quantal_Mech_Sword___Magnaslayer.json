@@ -1,0 +1,31 @@
+{
+    "name": "Super Quantal Mech Sword - Magnaslayer",
+    "filename": "Super_Quantal_Mech_Sword___Magnaslayer",
+    "card_text": "Target 1 \"Super Quant\" Xyz Monster you control; equip this card to it. It gains ATK equal to its Rank x 100, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. During your Battle Phase: You can send this Equip Card to the Graveyard; the monster that was equipped with this card can make 3 attacks during each Battle Phase this turn.",
+    "release_date": "2016-02-12",
+    "available_set": [
+        "WING RAIDERS"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphan Spike",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech Beast Aeroboros",
+        "Super Quantal Mech Beast Grampulse",
+        "Super Quantal Mech Beast Lusterrex",
+        "Super Quantal Mech Beast Magnaliger",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

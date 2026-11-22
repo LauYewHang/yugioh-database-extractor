@@ -1,0 +1,19 @@
+{
+    "name": "Dark Anthelion Dragon",
+    "filename": "Dark_Anthelion_Dragon",
+    "card_text": "2 Level 7 monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; until the end of this turn, its ATK becomes half its current ATK, and if it does, this card gains that lost ATK. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": 4130,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 7,
+    "pendulum_effect": "Once per turn: You can target 1 face-up monster your opponent controls; halve its original ATK until the end of this turn (even if this card leaves the field).",
+    "pendulum_scale": 10
+}

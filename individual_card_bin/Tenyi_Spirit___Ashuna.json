@@ -1,0 +1,39 @@
+{
+    "name": "Tenyi Spirit - Ashuna",
+    "filename": "Tenyi_Spirit___Ashuna",
+    "card_text": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY; Special Summon 1 \"Tenyi\" monster from your Deck, except \"Tenyi Spirit - Ashuna\", also you cannot Special Summon for the rest of this turn, except Wyrm monsters. You can only use each effect of \"Tenyi Spirit - Ashuna\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "2020 TIN OF LOST MEMORIES",
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Berserker of the Tenyi",
+        "Draco Berserker of the Tenyi",
+        "Draco Masters of the Tenyi",
+        "Fists of the Unrivaled Tenyi",
+        "Flawless Perfection of the Tenyi",
+        "Heavenly Dragon Circle",
+        "Monk of the Tenyi",
+        "Shaman of the Tenyi",
+        "Tenyi Spirit - Adhara",
+        "Tenyi Spirit - Mapura",
+        "Tenyi Spirit - Mula Adhara",
+        "Tenyi Spirit - Nahata",
+        "Tenyi Spirit - Sahasrara",
+        "Tenyi Spirit - Shthana",
+        "Tenyi Spirit - Suruya",
+        "Tenyi Spirit - Vishuda",
+        "Tenyinfinity",
+        "Vessel for the Dragon Cycle"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 2600,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

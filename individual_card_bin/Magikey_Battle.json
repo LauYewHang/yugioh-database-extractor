@@ -1,0 +1,28 @@
+{
+    "name": "Magikey Battle",
+    "filename": "Magikey_Battle",
+    "card_text": "Target 1 Normal Monster, 1 \"Magikey\" monster, or 1 \"Magikey Maftea\" in your GY; shuffle it into the Deck, then if you activated this card in response to your opponent's card or effect activation, Normal Monsters and \"Magikey\" monsters you control (except Tokens) are unaffected by that opponent's card effect.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Clavkiys, the Magikey Skyblaster",
+        "Magikey Beast - Ansyalabolas",
+        "Magikey Deity - Ashtartu",
+        "Magikey Dragon - Andrabime",
+        "Magikey Duo",
+        "Magikey Fiend - Transfurlmine",
+        "Magikey Locking",
+        "Magikey Maftea",
+        "Magikey Mechmortar - Garesglasser",
+        "Magikey Mechmusket - Batosbuster",
+        "Magikey Spirit - Vepartu",
+        "Magikey Unlocking",
+        "Magikey World",
+        "Maginificent Magikey Mafteal"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Iron Call",
+    "filename": "Iron_Call",
+    "card_text": "If you control a Machine monster: Target 1 Level 4 or lower Machine monster in your GY; Special Summon that target, but its effects are negated, also destroy it during the End Phase.",
+    "release_date": "2013-02-01",
+    "available_set": [
+        "DUEL TERMINAL 7B",
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

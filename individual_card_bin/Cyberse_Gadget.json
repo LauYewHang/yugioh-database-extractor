@@ -1,0 +1,37 @@
+{
+    "name": "Cyberse Gadget",
+    "filename": "Cyberse_Gadget",
+    "card_text": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your GY; Special Summon it in Defense Position, but its effects are negated. If this card is sent from the field to the GY: You can Special Summon 1 \"Gadget Token\" (Cyberse/LIGHT/Level 2/ATK 0/DEF 0). You can only use this effect of \"Cyberse Gadget\" once per turn.",
+    "release_date": "2018-08-10",
+    "available_set": [
+        "GENESIS IMPACT",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Ancient Gear Gadget",
+        "Ancient Gear Hydra",
+        "Ancient Gear Reactor Dragon",
+        "Attachment Cybern",
+        "Boot-Up Admiral - Destroyer Dynamo",
+        "Boot-Up Corporal - Command Dynamo",
+        "Boot-Up Order - Gear Charge",
+        "Boot-Up Soldier - Dread Dynamo",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Gold Gadget",
+        "Platinum Gadget",
+        "Powerhold the Moving Battery",
+        "Prima Light",
+        "Silver Gadget"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 300,
+    "monster_type": "Cyberse",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

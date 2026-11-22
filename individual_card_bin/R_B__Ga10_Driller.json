@@ -1,0 +1,31 @@
+{
+    "name": "R.B. Ga10 Driller",
+    "filename": "R_B__Ga10_Driller",
+    "card_text": "If you control no face-up monsters, or the only face-up monsters you control are \"R.B.\" monsters, you can Special Summon this card (from your hand). You can only Special Summon \"R.B. Ga10 Driller\" once per turn this way. During the Main Phase, if this card is linked to an \"R.B.\" Link Monster (Quick Effect): You can pay 500 LP, then target 1 monster your opponent controls; destroy both that monster and this card. You can only use this effect of \"R.B. Ga10 Driller\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "R.B. Funk Dock",
+        "R.B. Ga10 Cutter",
+        "R.B. Ga10 Pile Bunker",
+        "R.B. Lambda Blade",
+        "R.B. Lambda Cannon",
+        "R.B. Last Stand",
+        "R.B. Next Phase",
+        "R.B. Operation Test",
+        "R.B. Shepherd's Crook",
+        "R.B. Stage Landing",
+        "R.B. The Brute Blues",
+        "R.B. VALCan Booster",
+        "R.B. VALCan Rocket"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Jinzo - Returner",
+    "filename": "Jinzo___Returner",
+    "card_text": "This card can attack directly. When this card is sent to the GY: You can target 1 \"Jinzo\" in your GY; Special Summon it, but destroy it during your End Phase.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Jinzo",
+        "Jinzo - Energy Shocker",
+        "Jinzo - Jector",
+        "Law of the Cosmos",
+        "Psychic Bounder",
+        "Psychic Wave"
+    ],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

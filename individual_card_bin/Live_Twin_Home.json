@@ -1,0 +1,29 @@
+{
+    "name": "Live\u2606Twin Home",
+    "filename": "Live_Twin_Home",
+    "card_text": "Discard 1 card; Special Summon 1 \"Ki-sikil\" monster or 1 \"Lil-la\" monster from your Deck, also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except \"Evil\u2605Twin\" monsters. You can only activate 1 \"Live\u2606Twin Home\" per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Evil\u2605Twin Challenge",
+        "Evil\u2605Twin GG EZ",
+        "Evil\u2605Twin Ki-sikil",
+        "Evil\u2605Twin Ki-sikil Deal",
+        "Evil\u2605Twin Lil-la",
+        "Evil\u2605Twin Present",
+        "Evil\u2605Twin's Trouble Sunny",
+        "Evil\u2605Twins Ki-sikil & Lil-la",
+        "Lil-la Rap",
+        "Live\u2606Twin Ki-sikil",
+        "Live\u2606Twin Ki-sikil Frost",
+        "Live\u2606Twin Lil-la",
+        "Live\u2606Twin Lil-la Sweet",
+        "Live\u2606Twin Lil-la Treat",
+        "Live\u2606Twin Sunny's Snitch",
+        "Secret Password"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

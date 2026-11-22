@@ -1,0 +1,34 @@
+{
+    "name": "Wattlemur",
+    "filename": "Wattlemur",
+    "card_text": "If this card in its owner's possession is destroyed by your opponent's card (either by battle or by card effect): Your opponent cannot conduct their Battle Phase during their next turn.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DUELIST REVOLUTION",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [
+        "Wattcancel",
+        "Wattcastle",
+        "Wattchimera",
+        "Wattcobra",
+        "Wattdragonfly",
+        "Watthopper",
+        "Watthydra",
+        "Wattkeeper",
+        "Wattkey",
+        "Wattkingdom",
+        "Wattkiwi",
+        "Wattkyuki",
+        "Wattrain",
+        "Wattuna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 100,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

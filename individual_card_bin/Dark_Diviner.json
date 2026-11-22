@@ -1,0 +1,17 @@
+{
+    "name": "Dark Diviner",
+    "filename": "Dark_Diviner",
+    "card_text": "1 DARK Tuner + 1 non-Tuner Insect-Type monster\nThis card cannot be destroyed by battle. When this card declares an attack, if the ATK of the attack target is higher than this card: The ATK of the attack target becomes equal to this face-up card's current ATK. This change lasts until the end of the Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Send the top 3 cards of your opponent's Deck to the Graveyard.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Call of Atlantis",
+    "filename": "Call_of_Atlantis",
+    "card_text": "Add 1 monster that mentions \"Atlantis, City of the Sea Dragon\" from your Deck to your hand, then if you control \"Atlantis, City of the Sea Dragon\", you can negate the effects of 1 Effect Monster your opponent controls, until the end of this turn. If you control \"Umi\": You can banish this card from your GY; WATER monsters you control gain 500 ATK/DEF. You can only use each effect of \"Call of Atlantis\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Atlantis, City of the Sea Dragon",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Daedalus Maelstrom",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Zoroa, the Magistus Verethragna",
+    "filename": "Zoroa__the_Magistus_Verethragna",
+    "card_text": "1 \"Magistus\" monster + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can target 1 Effect Monster in your GY or your opponent controls; equip that Effect Monster to this card. When a monster effect is activated (Quick Effect): You can send 1 face-up \"Magistus\" Monster Card you control to the GY; negate that effect, then you can destroy 1 card your opponent controls. You can only use each effect of \"Zoroa, the Magistus Verethragna\" once per turn.",
+    "release_date": "2025-06-13",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Spenta, the Magistus Sealer",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame"
+    ],
+    "attribute": "FIRE",
+    "attack": 2900,
+    "defense": 2900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Grave of the Super Ancient Organism",
+    "filename": "Grave_of_the_Super_Ancient_Organism",
+    "card_text": "Level 6 or higher Special Summoned monsters on the field cannot declare attacks, nor can players activate their effects.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "OTS TOURNAMENT PACK 20",
+        "RAGING BATTLE",
+        "OTS TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

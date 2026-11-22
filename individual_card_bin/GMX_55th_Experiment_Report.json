@@ -1,0 +1,26 @@
+{
+    "name": "GMX 55th Experiment Report",
+    "filename": "GMX_55th_Experiment_Report",
+    "card_text": "Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck using monsters from your hand or field. If your opponent controls a monster, you can also use 1 \"GMX\" monster in your Deck as material. During your Main Phase: You can banish this card from your GY; excavate the top cards of your Deck until you excavate a \"GMX\" card, add that \"GMX\" card to your hand, also shuffle the rest into the Deck. You can only use 1 \"GMX 55th Experiment Report\" effect per turn, and only once that turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Anti-GMX Final Experiment",
+        "Evolved Daneen",
+        "GMX - ALLOS",
+        "GMX - COMPREX",
+        "GMX - VELOX",
+        "GMX Applied Experiment #55",
+        "GMX Associate Noma",
+        "GMX Chairman Kimridge",
+        "GMX Lab #5",
+        "GMX Partner Selandea",
+        "GMX Researcher Selande",
+        "GMX Suppression Squad",
+        "Returned Dino Daneen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

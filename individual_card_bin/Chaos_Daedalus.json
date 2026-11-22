@@ -1,0 +1,20 @@
+{
+    "name": "Chaos Daedalus",
+    "filename": "Chaos_Daedalus",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. While a Field Spell is face-up on the field, your opponent cannot target LIGHT or DARK monsters you control with card effects. You can target cards on the field, up to the number of face-up Field Spells on the field; banish them. You can only use this effect of \"Chaos Daedalus\" once per turn.",
+    "release_date": "2020-06-19",
+    "available_set": [
+        "TOON CHAOS",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Atlantis, City of the Sea Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 1500,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

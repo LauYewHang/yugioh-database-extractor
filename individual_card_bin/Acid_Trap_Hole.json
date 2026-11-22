@@ -1,0 +1,32 @@
+{
+    "name": "Acid Trap Hole",
+    "filename": "Acid_Trap_Hole",
+    "card_text": "Target 1 face-down Defense Position monster on the field; flip it face-up, then destroy it if its DEF is 2000 or less, or return it face-down if its DEF is more than 2000.",
+    "release_date": "2002-03-19",
+    "available_set": [
+        "Yu-Gi-Oh! Dark Duel Stories Bundles",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "Speed Duel: Battle City Box",
+        "SHADOW OF INFINITY SPECIAL EDITION",
+        "STRUCTURE DECK - MARIK -",
+        "MILLENNIUM PACK"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Performage Stilts Launcher",
+    "filename": "Performage_Stilts_Launcher",
+    "card_text": "If there are no monsters on the field, you can Special Summon this card (from your hand), but you cannot Normal Summon/Set for the rest of this turn. During either player's turn, when a card or effect is activated that would inflict damage to your opponent, while you have another \"Performage\" monster in your Graveyard: You can banish this card from your Graveyard; inflict 2000 damage to your opponent. You can only use this effect of \"Performage Stilts Launcher\" once per turn.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [
+        "Bubble Barrier",
+        "Performage Ball Balancer",
+        "Performage Cup Tricker",
+        "Performage Damage Juggler",
+        "Performage Fire Dancer",
+        "Performage Flame Eater",
+        "Performage Hat Tricker",
+        "Performage Mirror Conductor",
+        "Performage Plushfire",
+        "Performage Shadow Maker",
+        "Performage Trapeze High Magician",
+        "Performage Trapeze Magician",
+        "Performage Trapeze Witch",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Performage Wind Drainer",
+        "Trick Box"
+    ],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

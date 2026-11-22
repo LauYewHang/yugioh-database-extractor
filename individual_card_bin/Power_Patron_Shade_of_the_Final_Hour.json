@@ -1,0 +1,35 @@
+{
+    "name": "Power Patron Shade of the Final Hour",
+    "filename": "Power_Patron_Shade_of_the_Final_Hour",
+    "card_text": "Special Summon 1 \"Power Patron\" monster from your hand, face-up Extra Deck, or GY, then you can apply these effects in sequence, based on the number of different card types (Fusion, Synchro, or Xyz) you control.\n\u25cf1+: Banish (face-down) 3 cards from the top of your opponent's Deck.\n\u25cf2+: Banish (face-down) 1 card your opponent controls.\n\u25cf3: Banish (face-down) 1 random card from your opponent's hand.\nYou can only activate 1 \"Power Patron Shade of the Final Hour\" per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Ars Magna \"Philosophorum\"",
+        "Ars Magna the Corruption and the Purification",
+        "Ars Magna the Division and the Union",
+        "Ars Magna the Finite and the Infinite",
+        "Artmage Power Patron",
+        "Elfnote Power Patron",
+        "Junoldo the Shadespirit Power Patron",
+        "Junora the Power Patron of Tuning",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Mediclius the Extraordinary Power Patron",
+        "Medius the Pure",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Plundered Power Patron Plane - Vidolia",
+        "Power Patron DoomZ",
+        "Prohibited Power Patron Portal - Terminus",
+        "Prohibitive Power Patron Purview - Vilaea",
+        "Purification Power Patron",
+        "Theorealized Medius",
+        "Vidolium the Unstable Power Patron of Unity"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

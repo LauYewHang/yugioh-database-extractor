@@ -1,0 +1,12 @@
+{
+    "name": "Stardust Shimmer",
+    "filename": "Stardust_Shimmer",
+    "card_text": "Select 1 Dragon-Type Synchro Monster in your Graveyard. Remove from play other monsters in your Graveyard whose total Levels equal the Level of the selected monster and Special Summon it from the Graveyard.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

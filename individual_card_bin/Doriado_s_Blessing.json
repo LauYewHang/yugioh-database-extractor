@@ -1,0 +1,15 @@
+{
+    "name": "Doriado's Blessing",
+    "filename": "Doriado_s_Blessing",
+    "card_text": "This card is used to Ritual Summon \"Elemental Mistress Doriado\". You must also Tribute monsters whose total Levels equal 3 or more from the field or your hand.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 3",
+        "THE LOST MILLENNIUM"
+    ],
+    "related_card": [
+        "Elemental Mistress Doriado"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

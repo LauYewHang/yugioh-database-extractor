@@ -1,0 +1,28 @@
+{
+    "name": "Therion Discolosseum",
+    "filename": "Therion_Discolosseum",
+    "card_text": "When this card is activated: You can add 1 \"Therion\" monster from your Deck to your hand. Once per turn, if your monster would be destroyed by battle, you can send 1 \"Therion\" card or 1 \"Endless Engine Argyro System\" from your Deck to the GY instead. Once per turn, when a monster is destroyed by battle and sent to the GY: You can target 1 \"Therion\" monster in your GY; add it to your hand. You can only activate 1 \"Therion Discolosseum\" per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Endless Engine Argyro System",
+        "Gigantic \"Champion\" Sargas",
+        "Gung-Ho! Springans!",
+        "Spright Smashers",
+        "Therion \"Bull\" Ain",
+        "Therion \"Duke\" Yul",
+        "Therion \"Empress\" Alasia",
+        "Therion \"King\" Regulus",
+        "Therion \"Lily\" Borea",
+        "Therion \"Reaper\" Fum",
+        "Therion Charge",
+        "Therion Cross",
+        "Therion Irregular",
+        "Therion Stand Up!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

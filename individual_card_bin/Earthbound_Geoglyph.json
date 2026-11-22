@@ -1,0 +1,36 @@
+{
+    "name": "Earthbound Geoglyph",
+    "filename": "Earthbound_Geoglyph",
+    "card_text": "While any Level 10 monsters are on the field, neither player can target this card with card effects, also it cannot be destroyed by card effects. You can treat 1 Synchro Monster as 2 Tributes for the Tribute Summon of an \"Earthbound Immortal\" monster. If a Synchro Monster(s) is Special Summoned (except during the Damage Step): You can add 1 \"Earthbound Immortal\" Spell/Trap from your Deck to your hand. You can only use this effect of \"Earthbound Geoglyph\" once per turn.",
+    "release_date": "2019-09-27",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "Earthbound Fusion",
+        "Earthbound Immortal Aslla piscu",
+        "Earthbound Immortal Ccapac Apu",
+        "Earthbound Immortal Ccarayhua",
+        "Earthbound Immortal Chacu Challhua",
+        "Earthbound Immortal Cusillu",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Immortal Revival",
+        "Earthbound Immortal Uru",
+        "Earthbound Immortal Wiraqocha Rasca",
+        "Earthbound Prison",
+        "Earthbound Prisoner Ground Keeper",
+        "Earthbound Prisoner Line Walker",
+        "Earthbound Release",
+        "Earthbound Servant Geo Grasha",
+        "Earthbound Servant Geo Gremlin",
+        "Earthbound Servant Geo Gremlina",
+        "Earthbound Servant Geo Gryphon",
+        "Earthbound Servant Geo Kraken",
+        "Roar of the Earthbound Immortal",
+        "Ultimate Earthbound Immortal"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

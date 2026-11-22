@@ -1,0 +1,17 @@
+{
+    "name": "Crow Tengu",
+    "filename": "Crow_Tengu",
+    "card_text": "If this card in your possession is destroyed by an opponent's card effect and sent to your GY, or if this card is Special Summoned from the GY: You can target 1 Attack Position monster your opponent controls; destroy it. You can only use this effect of \"Crow Tengu\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

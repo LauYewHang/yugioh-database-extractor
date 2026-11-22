@@ -1,0 +1,18 @@
+{
+    "name": "Five Star Twilight",
+    "filename": "Five_Star_Twilight",
+    "card_text": "If the only monster you control is 1 Level 5 monster: Tribute that monster; Special Summon 5 monsters (1 \"Kuribah\", 1 \"Kuribee\", 1 \"Kuriboo\", 1 \"Kuribeh\", and 1 \"Kuriboh\") from your hand, Deck, and/or GY, but they cannot be Tributed for a Tribute Summon. You can only activate 1 \"Five Star Twilight\" per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Kuribah",
+        "Kuribee",
+        "Kuribeh",
+        "Kuriboh",
+        "Kuriboo"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

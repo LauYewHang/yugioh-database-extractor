@@ -1,0 +1,34 @@
+{
+    "name": "Rescue-ACE Arbitrator",
+    "filename": "Rescue_ACE_Arbitrator",
+    "card_text": "2+ FIRE monsters\nYou can only Special Summon \"Rescue-ACE Arbitrator(s)\" once per turn. If this card is Link Summoned: You can add 1 \"Rescue-ACE Hydrant\" or \"Rescue-ACE HQ\" from your Deck or GY to your hand. If you activate a \"Rescue-ACE\" Quick-Play Spell Card or a \"Rescue-ACE\" Normal Trap Card (except during the Damage Step): You can target 1 card your opponent controls; destroy it. You can only use this effect of \"Rescue-ACE Arbitrator\" twice per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "ALERT!",
+        "CONTAIN!",
+        "EMERGENCY!",
+        "EXTINGUISH!",
+        "REINFORCE!",
+        "RESCUE!",
+        "Rescue-ACE Air Lifter",
+        "Rescue-ACE Fire Attacker",
+        "Rescue-ACE Fire Engine",
+        "Rescue-ACE HQ",
+        "Rescue-ACE Hydrant",
+        "Rescue-ACE Impulse",
+        "Rescue-ACE Monitor",
+        "Rescue-ACE Preventer",
+        "Rescue-ACE Quick Attacker",
+        "Rescue-ACE Turbulence"
+    ],
+    "attribute": "FIRE",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 90
+}

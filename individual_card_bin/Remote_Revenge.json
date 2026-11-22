@@ -1,0 +1,13 @@
+{
+    "name": "Remote Revenge",
+    "filename": "Remote_Revenge",
+    "card_text": "Activate only when a monster you control is targeted by a Spell, Trap or Effect Monster's effect that destroys 1 monster on the field. Switch the target to an appropriate monster your opponent controls.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "DUELIST PACK - YUSEI -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

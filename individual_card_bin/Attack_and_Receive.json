@@ -1,0 +1,14 @@
+{
+    "name": "Attack and Receive",
+    "filename": "Attack_and_Receive",
+    "card_text": "You can only activate this card when you take damage to your Life Points. Inflict 700 points of damage to your opponent's Life Points. Also, inflict 300 points of damage to your opponent's Life Points for each \"Attack and Receive\" card in your Graveyard.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "DARK BEGINNING 1",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -78,7 +78,11 @@
     "attack": 2700,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": 4102,
+    "monster_card_type": [
+        "Pendulum",
+        "Ritual",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "During the End Phase: You can add 1 Ritual Spell from your Deck or GY to your hand, then return this card to the hand. You can only use this effect of \"Odd-Eyes Pendulumgraph Dragon\" once per turn.",

@@ -11,7 +11,11 @@
     "attack": 100,
     "defense": 800,
     "monster_type": "Fairy",
-    "monster_card_type": 1042,
+    "monster_card_type": [
+        "Tuner",
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

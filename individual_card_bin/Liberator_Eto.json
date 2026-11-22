@@ -1,0 +1,17 @@
+{
+    "name": "Liberator Eto",
+    "filename": "Liberator_Eto",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by paying half your LP, while your opponent has a Monster Card in their field or GY with an effect that activates in the hand or Monster Zone in response to a card or effect activation. You can only Special Summon \"Liberator Eto\" once per turn this way. This card's Special Summon cannot be negated. This face-up card cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon, also during your turn only, it is unaffected by monster effects activated on your opponent's field.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 4000,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

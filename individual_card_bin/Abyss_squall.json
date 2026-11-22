@@ -1,0 +1,35 @@
+{
+    "name": "Abyss-squall",
+    "filename": "Abyss_squall",
+    "card_text": "Target 3 \"Mermail\" monsters in your Graveyard; Special Summon those targets in face-up Defense Position. Their effects are negated and they cannot declare an attack. Destroy them during the End Phase.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Abyssrhine, the Atlantean Spirit",
+        "Abysstrite, the Atlantean Spirit",
+        "Mermail Abyssalacia",
+        "Mermail Abyssbalaen",
+        "Mermail Abyssdine",
+        "Mermail Abyssgaios",
+        "Mermail Abyssgunde",
+        "Mermail Abysshilde",
+        "Mermail Abyssleed",
+        "Mermail Abysslinde",
+        "Mermail Abysslung",
+        "Mermail Abyssmander",
+        "Mermail Abyssmegalo",
+        "Mermail Abyssnerei",
+        "Mermail Abyssnose",
+        "Mermail Abyssocea",
+        "Mermail Abysspike",
+        "Mermail Abyssteus",
+        "Mermail Abysstrite",
+        "Mermail Abyssturge",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

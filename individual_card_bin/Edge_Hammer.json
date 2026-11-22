@@ -1,0 +1,17 @@
+{
+    "name": "Edge Hammer",
+    "filename": "Edge_Hammer",
+    "card_text": "Tribute 1 \"Elemental HERO Bladedge\" to target 1 monster your opponent controls; destroy that target and inflict damage to your opponent equal to that target's original ATK.",
+    "release_date": "2007-02-07",
+    "available_set": [
+        "DUELIST PACK - JADEN YUKI 2 -",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Elemental HERO Bladedge",
+        "Elemental HERO Spirit of Neos",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

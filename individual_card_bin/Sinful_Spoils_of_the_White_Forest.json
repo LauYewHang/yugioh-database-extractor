@@ -1,0 +1,40 @@
+{
+    "name": "Sinful Spoils of the White Forest",
+    "filename": "Sinful_Spoils_of_the_White_Forest",
+    "card_text": "If you control a Fiend, Illusion, or Spellcaster monster: Activate 1 of these effects;\n\u25cfSpecial Summon 1 Fiend, Illusion, or Spellcaster monster from your hand.\n\u25cfFusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field.\nIf this card is sent to the GY to activate a monster effect: You can Set this card.\nYou can only use each effect of \"Sinful Spoils of the White Forest\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "MAGNIFICENT MONSTERS",
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Azamina Aphes",
+        "Azamina Debtors",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Diabellze the Original Sinkeeper",
+        "Diabellze the White Witch",
+        "Elzette of the White Forest",
+        "Elzette, Azamina of the White Forest",
+        "Poplar of the White Forest",
+        "Queen Azamina",
+        "Rciela, Sinister Soul of the White Forest",
+        "Rucia of the White Forest",
+        "Scourge of the White Forest",
+        "Silvy of the White Forest",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils Struggle",
+        "Tales of the White Forest",
+        "The Hallowed Azamina",
+        "WANTED: Seeker of Sinful Spoils",
+        "Witch of the White Forest",
+        "Woes of the White Forest"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

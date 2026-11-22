@@ -1,0 +1,14 @@
+{
+    "name": "Beastly Mirror Ritual",
+    "filename": "Beastly_Mirror_Ritual",
+    "card_text": "This card is used to Ritual Summon \"Fiend's Mirror\". You must also Tribute monsters from the field or your hand whose total Levels equal 6 or more.",
+    "release_date": "2012-03-20",
+    "available_set": [
+        "PREMIUM COLLECTION TIN"
+    ],
+    "related_card": [
+        "Fiend's Mirror"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

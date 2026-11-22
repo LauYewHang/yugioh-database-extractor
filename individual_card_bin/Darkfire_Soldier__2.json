@@ -1,0 +1,18 @@
+{
+    "name": "Darkfire Soldier #2",
+    "filename": "Darkfire_Soldier__2",
+    "card_text": "A warrior who gained immeasurable power from the heart of a volcano.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 1100,
+    "monster_type": "Pyro",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

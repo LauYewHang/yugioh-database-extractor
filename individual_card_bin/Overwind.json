@@ -1,0 +1,34 @@
+{
+    "name": "Overwind",
+    "filename": "Overwind",
+    "card_text": "Target 1 face-up \"Wind-Up\" monster you control; its ATK and DEF are doubled, and it returns to the hand during the End Phase. You can only activate 1 \"Overwind\" per turn.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [
+        "Legendary Wind-Up Key",
+        "Wind-Up Arsenal Zenmaioh",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Dog",
+        "Wind-Up Factory",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Juggler",
+        "Wind-Up Kitten",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Snail",
+        "Wind-Up Soldier",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaines",
+        "Wind-Up Zenmaintenance",
+        "Wind-Up Zenmaister"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

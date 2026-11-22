@@ -1,0 +1,24 @@
+{
+    "name": "Amaze Attraction Cyclo-Coaster",
+    "filename": "Amaze_Attraction_Cyclo_Coaster",
+    "card_text": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. You can activate the following effect, based on which player controls the equipped monster;\n\u25cfYou: Target 1 Spell/Trap your opponent controls; send both it and this card to the GY.\n\u25cfYour opponent: Add 1 \"Amazement\" monster from your Deck to your hand, and if you do, send this card to the GY.\nYou can only use this effect of \"Amaze Attraction Cyclo-Coaster\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "Amaze Attraction Majestic Merry-Go-Round",
+        "Amaze Attraction Thrill Train",
+        "Amazement Abomination Arlekino",
+        "Amazement Administrator Arlekino",
+        "Amazement Ambassador Bufo",
+        "Amazement Assistant Delia",
+        "Amazement Attendant Comica",
+        "Amazement Family Faces",
+        "Amazement Precious Park",
+        "Amazement Special Show",
+        "Amazing Time Ticket"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

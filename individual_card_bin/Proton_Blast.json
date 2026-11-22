@@ -1,0 +1,14 @@
+{
+    "name": "Proton Blast",
+    "filename": "Proton_Blast",
+    "card_text": "Once per turn, if an activated card effect tosses coins, immediately after it resolves, apply the following effect(s), depending on the number of heads.\n\u25cf1+: Inflict 500 damage to your opponent.\n\u25cf2+: Destroy 1 card your opponent controls.\n\u25cf3+: Look at your opponent's hand and discard 1 card from their hand.\nWhen an effect is activated that tosses a coin 2 or more times: You can banish this card from the GY; treat all results as heads.",
+    "release_date": "2018-02-23",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

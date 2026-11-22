@@ -16,7 +16,9 @@
     "attack": 2200,
     "defense": 1800,
     "monster_type": "Zombie",
-    "monster_card_type": 8,
+    "monster_card_type": [
+        "Fusion"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

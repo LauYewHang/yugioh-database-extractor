@@ -1,0 +1,25 @@
+{
+    "name": "Magical Dimension",
+    "filename": "Magical_Dimension",
+    "card_text": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
+    "release_date": "2006-01-18",
+    "available_set": [
+        "STRUCTURE DECK: ORDER OF THE SPELLCASTERS",
+        "STARTER DECK YUGI RELOADED",
+        "CHAMPION PACK GAME TWO",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "YUGI'S LEGENDARY DECKS",
+        "LEGENDARY DECKS II",
+        "TURBO PACK BOOSTER TWO",
+        "SPELLCASTER'S COMMAND STRUCTURE DECK",
+        "MAXIMUM GOLD: EL DORADO",
+        "TURBO PACK BOOSTER SIX",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Dimension Conjurer",
+        "Verre, the Maid of Endymion"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Majespecter Cyclone",
+    "filename": "Majespecter_Cyclone",
+    "card_text": "Tribute 1 WIND Spellcaster monster, then target 1 monster your opponent controls; destroy it.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "DIMENSION OF CHAOS",
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "Majespecter Cat - Nekomata",
+        "Majespecter Crow - Yata",
+        "Majespecter Draco - Ryu",
+        "Majespecter Fox - Kyubi",
+        "Majespecter Gust",
+        "Majespecter Orthrus - Nue",
+        "Majespecter Porcupine - Yamarashi",
+        "Majespecter Raccoon - Bunbuku",
+        "Majespecter Sonics",
+        "Majespecter Supercell",
+        "Majespecter Toad - Ogama",
+        "Majespecter Wind",
+        "Majesty Pegasus, the Dracoslayer",
+        "Majesty's Pegasus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

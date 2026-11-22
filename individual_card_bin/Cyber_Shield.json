@@ -1,0 +1,41 @@
+{
+    "name": "Cyber Shield",
+    "filename": "Cyber_Shield",
+    "card_text": "Equip only to \"Harpie Lady\" or \"Harpie Lady Sisters\". It gains 500 ATK.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Dragon Core",
+        "Cyber Eternal",
+        "Cyber Harpie Lady",
+        "Cyber Slash Harpie Lady",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Cybernetic Overflow",
+        "Harpie Channeler",
+        "Harpie Conductor",
+        "Harpie Dancer",
+        "Harpie Harpist",
+        "Harpie Lady",
+        "Harpie Lady 1",
+        "Harpie Lady 2",
+        "Harpie Lady 3",
+        "Harpie Lady Elegance",
+        "Harpie Lady Phoenix Formation",
+        "Harpie Lady Sisters",
+        "Harpie Oracle",
+        "Harpie Perfumer",
+        "Harpie Queen",
+        "Prima Light",
+        "Toon Harpie Lady"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

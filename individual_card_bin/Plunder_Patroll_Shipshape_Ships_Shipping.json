@@ -1,0 +1,28 @@
+{
+    "name": "Plunder Patroll Shipshape Ships Shipping",
+    "filename": "Plunder_Patroll_Shipshape_Ships_Shipping",
+    "card_text": "Fusion Summon 1 Fiend Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can banish this card from your GY, then target 1 \"Plunder Patroll\" monster you control; equip 1 \"Emblem of the Plunder Patroll\", or 1 \"Plunder Patroll\" monster, from your Deck to that target. You can only use this effect of \"Plunder Patroll Shipshape Ships Shipping\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Blackbeard, the Plunder Patroll Captain",
+        "Blackeyes, the Plunder Patroll Seaguide",
+        "Bluebeard, the Plunder Patroll Shipwright",
+        "Emblem of the Plunder Patroll",
+        "Goldenhair, the Newest Plunder Patroll",
+        "Plunder Patroll Booty",
+        "Plunder Patroll Parrrty",
+        "Plunder Patroll Shipyarrrd",
+        "Plunder Patrollship Brann",
+        "Plunder Patrollship Jord",
+        "Plunder Patrollship Lys",
+        "Plunder Patrollship Moerk",
+        "Pride of the Plunder Patroll",
+        "Redbeard, the Plunder Patroll Matey",
+        "Whitebeard, the Plunder Patroll Helm"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

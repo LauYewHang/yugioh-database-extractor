@@ -11,7 +11,10 @@
     "attack": 2500,
     "defense": 3000,
     "monster_type": "Cyberse",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "Any card sent to the GY is banished instead, except Monster Cards.",

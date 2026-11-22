@@ -11,7 +11,10 @@
     "attack": 3000,
     "defense": 3000,
     "monster_type": "Fairy",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "Once per turn: You can banish 3 Fairy-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.",

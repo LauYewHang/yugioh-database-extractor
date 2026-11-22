@@ -1,0 +1,29 @@
+{
+    "name": "Purrely Delicious Memory",
+    "filename": "Purrely_Delicious_Memory",
+    "card_text": "Choose 1 monster on the field, and until the end of the next turn, it cannot be destroyed by battle. After choosing a card, then you can apply the following effect.\n\u25cfDiscard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\nA \"Purrely\" Xyz Monster that has this card as material gains the following effect.\n\u25cfGains 300 ATK/DEF for each material attached to it.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Epurrely Beauty",
+        "Epurrely Happiness",
+        "Epurrely Noir",
+        "Epurrely Plump",
+        "Expurrely Happiness",
+        "Expurrely Noir",
+        "My Friend Purrely",
+        "Purrely",
+        "Purrely Happy Memory",
+        "Purrely Pretty Memory",
+        "Purrely Sharely!?",
+        "Purrely Sleepy Memory",
+        "Purrelyeap!?",
+        "Purrelyly",
+        "Stray Purrely Street"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

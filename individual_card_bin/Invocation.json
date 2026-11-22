@@ -1,0 +1,38 @@
+{
+    "name": "Invocation",
+    "filename": "Invocation",
+    "card_text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as material. If Summoning an \"Invoked\" Fusion Monster this way, you can also banish monsters from your field and/or either player's GY as material. If this card is in your GY: You can target 1 of your banished \"Aleister the Invoker\"; shuffle this card into the Deck, and if you do, add that monster to your hand. You can only use this effect of \"Invocation\" once per turn.",
+    "release_date": "2017-02-24",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "OTS TOURNAMENT PACK 6",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "FUSION ENFORCERS",
+        "SHADOWS IN VALHALLA",
+        "MAXIMUM GOLD: EL DORADO",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Aleister the Invoker",
+        "Aleister the Invoker of Madness",
+        "Aleister the Reminiscent",
+        "Hyperinvoked Aeon",
+        "Invocation - \"Sword\"",
+        "Invoked Augoeides",
+        "Invoked Baybarron",
+        "Invoked Caliga",
+        "Invoked Cocytus",
+        "Invoked De Anima",
+        "Invoked Elysium",
+        "Invoked Magellanica",
+        "Invoked Magistus Omega",
+        "Invoked Mechaba",
+        "Invoked Oceanus",
+        "Invoked Purgatrio",
+        "Invoked Raidjin",
+        "Invoked Sorath",
+        "Virakam, the Divine Spirit of Artifice"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

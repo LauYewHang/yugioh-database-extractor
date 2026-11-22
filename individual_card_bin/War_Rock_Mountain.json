@@ -1,0 +1,27 @@
+{
+    "name": "War Rock Mountain",
+    "filename": "War_Rock_Mountain",
+    "card_text": "When this card is activated: You can add 1 \"War Rock\" monster from your Deck to your hand. At the start of the Battle Phase, if you control no monsters, or all monsters you control are Warrior monsters: You can Special Summon 1 \"War Rock\" monster from your hand with a different name than the cards you control. If your Warrior monster would be destroyed by battle, you can send this card to the GY instead. You can only activate 1 \"War Rock Mountain\" per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "War Rock Bashileos",
+        "War Rock Big Blow",
+        "War Rock Dignity",
+        "War Rock Fortia",
+        "War Rock Gactos",
+        "War Rock Generations",
+        "War Rock Mammud",
+        "War Rock Medium",
+        "War Rock Meteoragon",
+        "War Rock Ordeal",
+        "War Rock Orpis",
+        "War Rock Skyler",
+        "War Rock Spirit",
+        "War Rock Wento"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

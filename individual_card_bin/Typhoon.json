@@ -1,0 +1,15 @@
+{
+    "name": "Typhoon",
+    "filename": "Typhoon",
+    "card_text": "Target 1 face-up Spell/Trap on the field; destroy it. If your opponent controls 2 or more Spells/Traps and you control no Spells/Traps, you can activate this card from your hand.",
+    "release_date": "2014-08-01",
+    "available_set": [
+        "OTS TOURNAMENT PACK 1",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "Duel Devastator",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Synchro Boost",
+    "filename": "Synchro_Boost",
+    "card_text": "The equipped monster gains 500 ATK, and its Level is increased by 1.",
+    "release_date": "2008-08-05",
+    "available_set": [
+        "5D's STARTER DECK 2008",
+        "5D's STARTER DECK 2009",
+        "5D's STARTER DECK DUELIST TOOLBOX"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Codebreaker Zero Day",
+    "filename": "Codebreaker_Zero_Day",
+    "card_text": "All Link Monsters pointing to this card lose 1000 ATK, except \"Codebreaker\" Link Monsters. If a \"Codebreaker\" Link Monster(s) on the field is destroyed by battle or card effect, while this card is on the field: Destroy this card. If this card is destroyed by battle or card effect: You can add 1 \"Codebreaker Zero Day\" from your Deck to your hand.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Codebreaker Virus Berserker",
+        "Codebreaker Virus Swordsman"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

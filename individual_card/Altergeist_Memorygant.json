@@ -36,7 +36,15 @@
     "attack": 2800,
     "defense": null,
     "monster_type": "Spellcaster",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 4,
-    "link_arrow": 90
+    "link_arrow": [
+        "Middle-Right",
+        "Middle-Left",
+        "Bottom-Right",
+        "Bottom-Left"
+    ]
 }

@@ -1,0 +1,28 @@
+{
+    "name": "Limit Code",
+    "filename": "Limit_Code",
+    "card_text": "If you have any Cyberse Link Monsters in your GY: Place 1 counter on this card for each of those monsters, and if you do, Special Summon 1 \"Code Talker\" monster from your Extra Deck, and equip it with this card. When this card leaves the field, destroy the equipped monster. Once per turn, during your End Phase: Remove 1 counter from this card. If you cannot, destroy it. You can only activate \"Limit Code\" once per Duel.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Accesscode Talker",
+        "Allied Code Talker @Ignister",
+        "Code Talker",
+        "Code Talker Inverted",
+        "Decode Talker",
+        "Decode Talker Extended",
+        "Decode Talker Heatsoul",
+        "Decode Talker Integration",
+        "Encode Talker",
+        "Excode Talker",
+        "Powercode Talker",
+        "Protectcode Talker",
+        "Shootingcode Talker",
+        "Transcode Talker"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

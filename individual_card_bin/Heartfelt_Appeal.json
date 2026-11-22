@@ -1,0 +1,14 @@
+{
+    "name": "Heartfelt Appeal",
+    "filename": "Heartfelt_Appeal",
+    "card_text": "When you take battle damage from your opponent's direct attack: Take control of the 1 face-up monster your opponent controls with the highest DEF, until your next End Phase. (If it's a tie, you get to choose.) Its effects are negated, also it cannot declare an attack.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "STARTER DECK XYZ SYMPHONY",
+        "PHOTON SHOCKWAVE",
+        "STAR PACK 2013"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

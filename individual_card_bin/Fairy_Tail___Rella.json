@@ -1,0 +1,29 @@
+{
+    "name": "Fairy Tail - Rella",
+    "filename": "Fairy_Tail___Rella",
+    "card_text": "Neither player can target monsters on the field with Spell Cards or effects, except this one. Once per turn: You can discard 1 Spell; equip 1 Equip Spell from your hand, Deck, or GY to this card, but return that Equip Spell to the hand during the End Phase.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "OTS TOURNAMENT PACK 6",
+        "RAGING TEMPEST",
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Fairy Tail - Matchgiru",
+        "Fairy Tail - Wiccat",
+        "Fairy Tail Ball",
+        "Once Upon a Fairy Tail",
+        "Tails of the Fairy Tails",
+        "Teller of Fairy Tails",
+        "Weaver of Fairy Tails"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1850,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

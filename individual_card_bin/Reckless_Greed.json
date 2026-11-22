@@ -1,0 +1,25 @@
+{
+    "name": "Reckless Greed",
+    "filename": "Reckless_Greed",
+    "card_text": "Draw 2 cards and skip your next 2 Draw Phases.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DEMO DECK 2016 (UK)",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "PHARAONIC GUARDIAN",
+        "RETRO PACK 2",
+        "DARK BEGINNING 2",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "BATTLE PACK EPIC DAWN",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "TACTICAL MASTERS",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

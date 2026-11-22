@@ -1,0 +1,20 @@
+{
+    "name": "Beyond the Pendulum",
+    "filename": "Beyond_the_Pendulum",
+    "card_text": "2 Effect Monsters, including a Pendulum Monster\nIf this card is Link Summoned in the Extra Monster Zone: You can pay 1200 LP; add 1 Pendulum Monster from your Deck to your hand, but for the rest of this turn, unless you Pendulum Summon after this effect resolves, you cannot activate monster effects, and the effects of any cards in your Pendulum Zones are negated. If 2 monsters with different original Levels are Pendulum Summoned at the same time to the zones this card points to: You can target 2 cards on the field; destroy them. You can only use this effect of \"Beyond the Pendulum\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "LEGENDARY ARC-V DECKS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "LEGENDARY ARC-V DECKS  - bonus card",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

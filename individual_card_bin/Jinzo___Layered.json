@@ -1,0 +1,20 @@
+{
+    "name": "Jinzo - Layered",
+    "filename": "Jinzo___Layered",
+    "card_text": "2 Level 6 monsters\nYou can detach 1 material from this card, then target 1 face-up monster your opponent controls; take control of it until the End Phase, but it cannot activate its effects or declare an attack. If a Trap is on the field: You can Tribute 1 monster, and if you do, destroy 1 face-up card on the field. You can only use each effect of \"Jinzo - Layered\" once per turn.",
+    "release_date": "2020-09-11",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES"
+    ],
+    "related_card": [
+        "Jinzo - Jector",
+        "Psychic Wave"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1500,
+    "monster_type": "Machine",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

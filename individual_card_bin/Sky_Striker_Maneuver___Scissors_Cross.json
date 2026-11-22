@@ -1,0 +1,40 @@
+{
+    "name": "Sky Striker Maneuver - Scissors Cross",
+    "filename": "Sky_Striker_Maneuver___Scissors_Cross",
+    "card_text": "If you control no monsters in your Main Monster Zone: Target 1 Level 4 \"Sky Striker Ace\" monster in your GY; add it to your hand, or if you have 3 or more Spells in your GY, you can Special Summon it instead.",
+    "release_date": "2020-01-25",
+    "available_set": [
+        "IGNITION ASSAULT",
+        "IGNITION ASSAULT Sneak Peek"
+    ],
+    "related_card": [
+        "Aileron",
+        "Combined Maneuver - Engage Zero!",
+        "Pillar of the Future - Cyanos",
+        "Prototype Sky Striker Ace - Amatsu",
+        "Sage of Benevolence - Ciela",
+        "Sage of Strength - Akash",
+        "Sage of Wisdom - Himmel",
+        "Sky Striker Ace - Azalea",
+        "Sky Striker Ace - Azalea Temperance",
+        "Sky Striker Ace - Camellia",
+        "Sky Striker Ace - Hayate",
+        "Sky Striker Ace - Kagari",
+        "Sky Striker Ace - Kaina",
+        "Sky Striker Ace - Raye",
+        "Sky Striker Ace - Roze",
+        "Sky Striker Ace - Shizuku",
+        "Sky Striker Ace - Zeke",
+        "Sky Striker Ace = Zero",
+        "Sky Striker Airspace - Area Zero",
+        "Sky Striker Mecha - Adil Saber",
+        "Sky Striker Mecha Modules - Multirole",
+        "Sky Striker Mecharmory - Hercules Base",
+        "Sky Striker Mobilize - Engage!",
+        "Sky Striker Special Maneuver - Lemnisgate!",
+        "Surgical Striker - H.A.M.P.",
+        "Surgical Striker - S.P.E.C.T.R.A."
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

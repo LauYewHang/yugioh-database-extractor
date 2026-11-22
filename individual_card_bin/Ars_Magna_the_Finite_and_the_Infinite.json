@@ -1,0 +1,39 @@
+{
+    "name": "Ars Magna the Finite and the Infinite",
+    "filename": "Ars_Magna_the_Finite_and_the_Infinite",
+    "card_text": "You can banish this card from your hand; add 1 non-Warrior \"Ars Magna\" monster from your Deck to your hand, also for the rest of this turn, the original ATK of all \"Power Patron\" Link Monsters you control become tripled. If a Fusion or Link Monster(s) is Special Summoned, while this card is banished (except during the Damage Step): You can Special Summon this card. If you control a \"Power Patron\" Link Monster: You can target 1 monster on the field; banish it. You can only use each effect of \"Ars Magna the Finite and the Infinite\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "Ars Magna \"Philosophorum\"",
+        "Ars Magna the Corruption and the Purification",
+        "Ars Magna the Division and the Union",
+        "Artmage Power Patron",
+        "Elfnote Power Patron",
+        "Junoldo the Shadespirit Power Patron",
+        "Junora the Power Patron of Tuning",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Mediclius the Extraordinary Power Patron",
+        "Nerva the Power Patron of Creation",
+        "Nervedo the Shadebeast Power Patron",
+        "Plundered Power Patron Plane - Vidolia",
+        "Power Patron DoomZ",
+        "Power Patron Shade of the Final Hour",
+        "Prohibited Power Patron Portal - Terminus",
+        "Prohibitive Power Patron Purview - Vilaea",
+        "Purification Power Patron",
+        "Theorealized Medius",
+        "Vidolium the Unstable Power Patron of Unity"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 2400,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Yakusa, Lord of the Eight Thunders",
+    "filename": "Yakusa__Lord_of_the_Eight_Thunders",
+    "card_text": "You can Special Summon this card (from your hand) by banishing 1 Level/Rank 8 monster from your GY. You can target 1 Level/Rank 8 Ritual, Fusion, Synchro, or Xyz Monster in your GY; shuffle it into the Deck, then apply the following effect depending on the returned monster's card type.\n\u25cfRitual/Fusion: Draw 1 card.\n\u25cfSynchro/Xyz: This card gains 1000 ATK.\nYou can only use this effect of \"Yakusa, Lord of the Eight Thunders\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -78,7 +78,10 @@
     "attack": 2400,
     "defense": 1400,
     "monster_type": "Warrior",
-    "monster_card_type": 34,
+    "monster_card_type": [
+        "Xyz",
+        "Effect"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 5
 }

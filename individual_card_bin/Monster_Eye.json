@@ -1,0 +1,20 @@
+{
+    "name": "Monster Eye",
+    "filename": "Monster_Eye",
+    "card_text": "You can pay 1000 Life Points; add 1 \"Polymerization\" from your Graveyard to your hand.",
+    "release_date": "2010-08-14",
+    "available_set": [
+        "WORLD CHAMPIONSHIP 2010 CARD PACK"
+    ],
+    "related_card": [
+        "Fusion Substitute",
+        "Polymerization"
+    ],
+    "attribute": "DARK",
+    "attack": 250,
+    "defense": 350,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -26,7 +26,9 @@
     "attack": 1500,
     "defense": 3000,
     "monster_type": "Aqua",
-    "monster_card_type": 2,
+    "monster_card_type": [
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 10
 }

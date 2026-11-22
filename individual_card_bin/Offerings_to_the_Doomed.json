@@ -1,0 +1,24 @@
+{
+    "name": "Offerings to the Doomed",
+    "filename": "Offerings_to_the_Doomed",
+    "card_text": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "LABYRINTH OF NIGHTMARE",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "OTS TOURNAMENT PACK 1",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "STARTER DECK KAIBA RELOADED",
+        "BATTLE PACK EPIC DAWN",
+        "The Lost Art Promotion",
+        "DUEL TERMINAL 2",
+        "GOLD SERIES",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "STRUCTURE DECK: POWERCODE LINK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

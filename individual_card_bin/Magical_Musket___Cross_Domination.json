@@ -1,0 +1,27 @@
+{
+    "name": "Magical Musket - Cross-Domination",
+    "filename": "Magical_Musket___Cross_Domination",
+    "card_text": "If you control a \"Magical Musket\" monster: Target 1 face-up monster on the field; until the end of this turn, change its ATK/DEF to 0, also it has its effects negated. You can only activate 1 \"Magical Musket - Cross-Domination\" per turn.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Desperado",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Starfire",
+        "Magical Musketeer Wild"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "The King of D.",
+    "filename": "The_King_of_D_",
+    "card_text": "This card's name becomes \"Lord of D.\" while on the field. When this card is Normal Summoned: You can discard 1 Spell/Trap; add 1 \"The Flute of Summoning Dragon\", \"The Melody of Awakening Dragon\", or \"Dragon Revival Rhapsody\" from your Deck to your hand.",
+    "release_date": "2018-03-09",
+    "available_set": [
+        "LEGENDARY COLLECTION KAIBA",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "2025 MEGA-PACK TIN",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [
+        "Dragon Revival Rhapsody",
+        "King Dragun",
+        "Lord of D.",
+        "The Flute of Summoning Dragon",
+        "The Melody of Awakening Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

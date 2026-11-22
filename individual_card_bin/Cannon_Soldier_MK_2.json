@@ -1,0 +1,17 @@
+{
+    "name": "Cannon Soldier MK-2",
+    "filename": "Cannon_Soldier_MK_2",
+    "card_text": "You can Tribute 2 monsters to inflict 1500 damage to your opponent.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

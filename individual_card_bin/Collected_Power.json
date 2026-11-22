@@ -1,0 +1,14 @@
+{
+    "name": "Collected Power",
+    "filename": "Collected_Power",
+    "card_text": "Target 1 face-up monster on the field; equip it with all Equip Cards on the field. If any of those Equip Cards is now equipped to an incorrect target, destroy that Equip Card.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

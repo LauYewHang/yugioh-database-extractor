@@ -1,0 +1,32 @@
+{
+    "name": "Hound of the Tistina",
+    "filename": "Hound_of_the_Tistina",
+    "card_text": "If this card is in your hand or GY and you control a LIGHT \"Tistina\" monster: You can Special Summon this card. You can only use this effect of \"Hound of the Tistina\" once per turn. \"Tistina\" monsters you control can attack directly while your opponent controls a face-down Defense Position monster.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Breath of the Tistina",
+        "Crystal God Tistina",
+        "Demigod of the Tistina",
+        "Discordance of the Tistina",
+        "Divine Domain Baatistina",
+        "Embrace of the Tistina",
+        "Fallen of the Tistina",
+        "Miasma Dragon Tistina",
+        "Play of the Tistina",
+        "Returned of the Tistina",
+        "Sentinel of the Tistina",
+        "Signs of the Tistina",
+        "Tainted of the Tistina",
+        "Tistina, the Divinity that Defies Darkness"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 700,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Obliterate!!! Blaze",
+    "filename": "Obliterate____Blaze",
+    "card_text": "One Level 10 or higher monster on the field with \"Exodia\" in its original name gains these effects.\n\u25cfYou can pay half your LP; destroy as many cards in the Spell & Trap Zones as possible, then equip 5 \"Forbidden One\" monsters from your hand and/or Deck to this card as Equip Spells that each give it 2000 ATK, also you cannot activate other cards' effects for the rest of this turn.\n\u25cfIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Contract with Exodia",
+        "Exodia Necross",
+        "Exodia the Forbidden One",
+        "Exodia, the Legendary Defender",
+        "Exxod Fires of Rage",
+        "Left Arm of the Forbidden One",
+        "Left Leg of the Forbidden One",
+        "Right Arm of the Forbidden One",
+        "Right Leg of the Forbidden One",
+        "The Legendary Exodia Incarnate",
+        "The Unstoppable Exodia Incarnate"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

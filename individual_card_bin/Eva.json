@@ -1,0 +1,18 @@
+{
+    "name": "Eva",
+    "filename": "Eva",
+    "card_text": "If this card is sent to the GY: You can banish up to 2 other LIGHT Fairy monsters from your field and/or GY; add the same number of Level 2 or lower LIGHT Fairy monsters with different names from your Deck to your hand, except \"Eva\". You can only use this effect of \"Eva\" once per turn.",
+    "release_date": "2018-01-19",
+    "available_set": [
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 200,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

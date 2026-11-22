@@ -35,7 +35,11 @@
     "attack": 4000,
     "defense": 4000,
     "monster_type": "Dragon",
-    "monster_card_type": 4106,
+    "monster_card_type": [
+        "Pendulum",
+        "Fusion",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 12,
     "pendulum_effect": "Fusion, Synchro, and Xyz Monsters your opponent controls cannot activate their effects. Once per turn, when a card(s) is added from the Main Deck to your opponent's hand (except during the Draw Phase or the Damage Step): You can destroy that card(s).",

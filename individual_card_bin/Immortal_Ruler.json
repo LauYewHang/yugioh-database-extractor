@@ -1,0 +1,20 @@
+{
+    "name": "Immortal Ruler",
+    "filename": "Immortal_Ruler",
+    "card_text": "Cannot be Special Summoned. You can Tribute this card, then target 1 \"Zombie World\" in your GY; add that target to your hand.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "RAGING BATTLE"
+    ],
+    "related_card": [
+        "Zombie World"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 200,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

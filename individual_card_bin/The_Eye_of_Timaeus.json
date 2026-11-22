@@ -1,0 +1,31 @@
+{
+    "name": "The Eye of Timaeus",
+    "filename": "The_Eye_of_Timaeus",
+    "card_text": "(This card is also always treated as \"Legendary Dragon Timaeus\".)\nTarget 1 \"Dark Magician\" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions that monster on the field as material, using it as the Fusion Material. You can only activate 1 \"The Eye of Timaeus\" per turn.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "QUARTER CENTURY STAMPEDE",
+        "LEGENDARY DRAGON DECKS",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Amulet Dragon",
+        "Dark Magician",
+        "Dark Magician Girl",
+        "Dark Magician Girl the Dragon Knight",
+        "Dark Magician Girl the Magician's Apprentice",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Legend of Heart",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "The Gaze of Timaeus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

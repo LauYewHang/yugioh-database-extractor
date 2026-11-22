@@ -1,0 +1,21 @@
+{
+    "name": "Clear World",
+    "filename": "Clear_World",
+    "card_text": "Once per turn, during your End Phase, pay 500 LP or destroy this card. Each player receives effects, depending on the monster Attributes they control.\n\u25cfLIGHT: Play with your hand revealed at all times.\n\u25cfDARK: If you control 2 or more monsters, you cannot declare an attack.\n\u25cfEARTH: During your Standby Phase, destroy 1 face-up Defense Position monster you control.\n\u25cfWATER: During your End Phase, discard 1 card.\n\u25cfFIRE: During your End Phase, take 1000 damage.\n\u25cfWIND: You must pay 500 LP to activate a Spell Card.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "MAZE OF THE MASTER",
+        "STARDUST OVERDRIVE",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Clear Cube",
+        "Clear Phantom",
+        "Clear Rage Golem",
+        "Clear Vice Dragon",
+        "Clear Vicious Knight",
+        "Clear Wall"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Kaiju Capture Mission",
+    "filename": "Kaiju_Capture_Mission",
+    "card_text": "Once per turn, if there are less than 3 Kaiju Counters on this card: You can target 1 \"Kaiju\" monster on the field; change it to face-down Defense Position, then place 1 Kaiju Counter on this card (max. 3). If this card in your possession is destroyed by an opponent's card and sent to your GY: You can draw 2 cards. You can only use this effect of \"Kaiju Capture Mission\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS",
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Dogoran, the Mad Flame Kaiju",
+        "Gadarla, the Mystery Dust Kaiju",
+        "Gameciel, the Sea Turtle Kaiju",
+        "Interrupted Kaiju Slumber",
+        "Jizukiru, the Star Destroying Kaiju",
+        "Kumongous, the Sticky String Kaiju",
+        "Kyoutou Waterfront",
+        "Radian, the Multidimensional Kaiju",
+        "Super Anti-Kaiju War Machine Mecha-Dogoran",
+        "Super Anti-Kaiju War Machine Mecha-Thunder-King",
+        "The Kaiju Files",
+        "Thunder King, the Lightningstrike Kaiju"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

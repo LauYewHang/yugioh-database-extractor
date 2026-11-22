@@ -1,0 +1,28 @@
+{
+    "name": "Grain Blitzclique",
+    "filename": "Grain_Blitzclique",
+    "card_text": "You can reveal this card in your hand, then target 1 Spell/Trap on the field; destroy it, and if you do, Special Summon 1 Thunder monster from your hand, also for the rest of this turn, you cannot Special Summon Effect Monsters, except from the hand. If another card(s) is destroyed by card effect, while this card is in the Monster Zone (except during the Damage Step): You can add 1 \"Blitzclique\" Spell or 1 \"Hideout in the Sky, Coulomb\" from your Deck to your hand. You can only use each effect of \"Grain Blitzclique\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Blitzclique - Breakaway",
+        "Blitzclique - Steppleader",
+        "Blitzclique Alternator",
+        "Blitzclique Overvolt",
+        "Blitzclique Return Stroke",
+        "Crackle Blitzclique",
+        "Emi Blitzclique",
+        "Hideout in the Sky, Coulomb",
+        "Surge Blitzclique",
+        "Whisker Blitzclique"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 600,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

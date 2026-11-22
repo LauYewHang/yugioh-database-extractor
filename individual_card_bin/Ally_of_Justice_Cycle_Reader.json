@@ -1,0 +1,25 @@
+{
+    "name": "Ally of Justice Cycle Reader",
+    "filename": "Ally_of_Justice_Cycle_Reader",
+    "card_text": "(Quick Effect): You can discard this card to the GY, then target up to 2 LIGHT monsters in your opponent's GY; banish those targets.",
+    "release_date": "2010-09-25",
+    "available_set": [
+        "HIDDEN ARSENAL 3",
+        "DUEL TERMINAL 3",
+        "OTS TOURNAMENT PACK 3",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unlimiter",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Machine",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

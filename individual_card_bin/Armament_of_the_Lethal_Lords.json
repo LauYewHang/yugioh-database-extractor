@@ -1,0 +1,17 @@
+{
+    "name": "Armament of the Lethal Lords",
+    "filename": "Armament_of_the_Lethal_Lords",
+    "card_text": "This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Warrior-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.",
+    "release_date": "2006-07-02",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2006"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

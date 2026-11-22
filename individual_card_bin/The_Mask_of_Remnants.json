@@ -1,0 +1,15 @@
+{
+    "name": "The Mask of Remnants",
+    "filename": "The_Mask_of_Remnants",
+    "card_text": "When this card is activated: Shuffle this card from the field into the Deck. While this card is equipped to a monster by the effect of \"Masked Beast Des Gardius\", take control of that monster.",
+    "release_date": "2007-09-12",
+    "available_set": [
+        "TACTICAL EVOLUTION SPECIAL EDITION",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [
+        "Masked Beast Des Gardius"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

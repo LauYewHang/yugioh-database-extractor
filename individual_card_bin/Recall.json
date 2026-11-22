@@ -1,0 +1,14 @@
+{
+    "name": "Recall",
+    "filename": "Recall",
+    "card_text": "When your opponent activates a monster effect: Your opponent draws 1 card, also negate the activation, and if you do, destroy it.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST",
+        "STRUCTURE DECK WAVE OF LIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

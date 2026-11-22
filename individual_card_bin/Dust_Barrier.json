@@ -1,0 +1,13 @@
+{
+    "name": "Dust Barrier",
+    "filename": "Dust_Barrier",
+    "card_text": "Face-up Normal Monsters on the field are unaffected by your opponent's Spell Cards. This card is destroyed during your second Standby Phase after activation.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Prologue of the Destruction Swordsman",
+    "filename": "Prologue_of_the_Destruction_Swordsman",
+    "card_text": "Send 1 \"Destruction Sword\" card and 1 \"Buster Blader\" monster from your Deck to the Graveyard, except \"Prologue of the Destruction Swordsman\"; Special Summon 1 \"Buster Dragon\" from your Extra Deck or Graveyard, but destroy it during the End Phase of the next turn. You can banish this card from your Graveyard; this turn, \"Destruction Sword\" cards you control cannot be destroyed by battle or card effects. You can only activate 1 \"Prologue of the Destruction Swordsman\" per turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [
+        "Buster Blader",
+        "Buster Blader, the Destruction Swordmaster",
+        "Buster Dragon",
+        "Buster Whelp of the Destruction Swordsman",
+        "Destruction Sword Flash",
+        "Destruction Sword Memories",
+        "Destruction Swordsman Fusion",
+        "Dragon Buster Destruction Sword",
+        "Karma of the Destruction Swordsman",
+        "Protector Whelp of the Destruction Swordsman",
+        "Robot Buster Destruction Sword",
+        "Wizard Buster Destruction Sword"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

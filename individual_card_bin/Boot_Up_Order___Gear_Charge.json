@@ -1,0 +1,29 @@
+{
+    "name": "Boot-Up Order - Gear Charge",
+    "filename": "Boot_Up_Order___Gear_Charge",
+    "card_text": "When this card is activated: You can target any number of \"Gadget\" Monster Cards you control that are equipped to a monster; Special Summon them. You can discard 1 card; add 1 \"Boot-Up Admiral - Destroyer Dynamo\" from your Deck to your hand. You can only use this effect of \"Boot-Up Order - Gear Charge\" once per turn. You can only activate 1 \"Boot-Up Order - Gear Charge\" per turn.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Ancient Gear Gadget",
+        "Boot-Up Admiral - Destroyer Dynamo",
+        "Cyberse Gadget",
+        "Gadget Arms",
+        "Gadget Box",
+        "Gadget Driver",
+        "Gadget Gamer",
+        "Gadget Hauler",
+        "Gadget Soldier",
+        "Gadget Trio",
+        "Gold Gadget",
+        "Green Gadget",
+        "Platinum Gadget",
+        "Red Gadget",
+        "Silver Gadget",
+        "Yellow Gadget"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

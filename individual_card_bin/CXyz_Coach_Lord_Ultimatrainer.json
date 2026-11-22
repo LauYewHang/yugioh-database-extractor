@@ -1,0 +1,32 @@
+{
+    "name": "CXyz Coach Lord Ultimatrainer",
+    "filename": "CXyz_Coach_Lord_Ultimatrainer",
+    "card_text": "4 Level 9 monsters\nThis card cannot be targeted by card effects. If this card has an Xyz Monster as an Xyz Material, it gains this effect.\n\u25cfOnce per turn: You can detach 1 Xyz Material from this card; draw 1 card and reveal it, then if it was a monster, inflict 800 damage to your opponent.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Barian Untopia",
+        "Barian's Seal",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Rank-Up-Magic Admiration of the Thousands",
+        "Rank-Up-Magic Argent Chaos Force",
+        "Rank-Up-Magic Barian's Force",
+        "Resurgam Xyz",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "attribute": "FIRE",
+    "attack": 3800,
+    "defense": 2300,
+    "monster_type": "Warrior",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 9
+}

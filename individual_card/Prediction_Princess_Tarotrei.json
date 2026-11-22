@@ -20,7 +20,10 @@
     "attack": 2700,
     "defense": 1200,
     "monster_type": "Fairy",
-    "monster_card_type": 6,
+    "monster_card_type": [
+        "Ritual",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 9
 }

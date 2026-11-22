@@ -1,0 +1,34 @@
+{
+    "name": "Artifact Dagda",
+    "filename": "Artifact_Dagda",
+    "card_text": "2 monsters with different names\nWhen an effect of another card on the field is activated (Quick Effect): You can Set 1 \"Artifact\" monster from your hand or Deck to your Spell & Trap Zone as a Spell, but destroy it during your opponent's next End Phase. During your opponent's turn, if this Link Summoned card is destroyed: You can Special Summon 1 \"Artifact\" monster from your GY in Defense Position. You can only use each effect of \"Artifact Dagda\" once per turn.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Artifact Achilleshield",
+        "Artifact Aegis",
+        "Artifact Beagalltach",
+        "Artifact Caduceus",
+        "Artifact Chakram",
+        "Artifact Durendal",
+        "Artifact Failnaught",
+        "Artifact Ignition",
+        "Artifact Labrys",
+        "Artifact Lancea",
+        "Artifact Mjollnir",
+        "Artifact Moralltach",
+        "Artifact Sanctum",
+        "Artifact Scythe",
+        "Artifact Vajra",
+        "Artifacts Unleashed"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": null,
+    "monster_type": "Fairy",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

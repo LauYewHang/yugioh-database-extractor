@@ -1,0 +1,16 @@
+{
+    "name": "Pendulum Halt",
+    "filename": "Pendulum_Halt",
+    "card_text": "If you have 3 or more face-up Pendulum Monsters with different names in your Extra Deck: Draw 2 cards. You cannot add cards from the Deck to your hand for the rest of this turn after this card resolves.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [
+        "Duelist Alliance",
+        "PenduLuMoon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

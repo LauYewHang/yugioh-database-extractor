@@ -1,0 +1,13 @@
+{
+    "name": "Different Dimension Encounter",
+    "filename": "Different_Dimension_Encounter",
+    "card_text": "If both players have at least 1 banished monster that can be Special Summoned: Each player Special Summons 1 of their banished monsters in face-down Defense Position.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

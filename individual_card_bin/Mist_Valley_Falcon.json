@@ -1,0 +1,25 @@
+{
+    "name": "Mist Valley Falcon",
+    "filename": "Mist_Valley_Falcon",
+    "card_text": "Cannot declare an attack unless you return 1 card you control to the hand.",
+    "release_date": "2010-05-25",
+    "available_set": [
+        "HIDDEN ARSENAL 2",
+        "DUEL TERMINAL 2",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "Mist Condor",
+        "Mist Valley Apex Avian",
+        "Mist Valley Thunder Lord"
+    ],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": 1200,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

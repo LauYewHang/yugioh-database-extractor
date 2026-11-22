@@ -22,7 +22,13 @@
     "attack": 2600,
     "defense": null,
     "monster_type": "Machine",
-    "monster_card_type": 8192,
+    "monster_card_type": [
+        "Link"
+    ],
     "link_rating": 3,
-    "link_arrow": 84
+    "link_arrow": [
+        "Middle-Right",
+        "Middle-Left",
+        "Bottom-Center"
+    ]
 }

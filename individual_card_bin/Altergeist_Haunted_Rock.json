@@ -1,0 +1,37 @@
+{
+    "name": "Altergeist Haunted Rock",
+    "filename": "Altergeist_Haunted_Rock",
+    "card_text": "If this card was Set by the effect of an \"Altergeist\" card, you can activate it the turn it was Set. When this card is activated: Send 1 \"Altergeist\" monster from your hand to the GY. When your opponent activates a Trap Card (except during the Damage Step): You can send 1 \"Altergeist\" monster from your hand to the GY; negate that effect, and if you do, destroy that card. You can only use each effect of \"Altergeist Haunted Rock\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Altergeist Adminia",
+        "Altergeist Camouflage",
+        "Altergeist Dragvirion",
+        "Altergeist Emulatelf",
+        "Altergeist Failover",
+        "Altergeist Fifinellag",
+        "Altergeist Fijialert",
+        "Altergeist Hexstia",
+        "Altergeist Kidolga",
+        "Altergeist Kunquery",
+        "Altergeist Malwisp",
+        "Altergeist Manifestation",
+        "Altergeist Marionetter",
+        "Altergeist Meluseek",
+        "Altergeist Memorygant",
+        "Altergeist Multifaker",
+        "Altergeist Peritrator",
+        "Altergeist Pixiel",
+        "Altergeist Pookuery",
+        "Altergeist Primebanshee",
+        "Altergeist Protocol",
+        "Altergeist Revitalization",
+        "Altergeist Silquitous",
+        "Personal Spoofing"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

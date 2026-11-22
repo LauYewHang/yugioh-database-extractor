@@ -31,7 +31,10 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "If a face-up \"Performage\" monster(s) you control is destroyed by battle or card effect: You can Special Summon this card, then take 500 damage. You can only use this effect of \"Performage Plushfire\" once per turn.",

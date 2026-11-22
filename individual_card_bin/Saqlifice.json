@@ -1,0 +1,31 @@
+{
+    "name": "Saqlifice",
+    "filename": "Saqlifice",
+    "card_text": "Equip only to a \"Qli\" monster. It gains 300 ATK and cannot be destroyed by battle. The equipped monster can be treated as 2 Tributes for the Tribute Summon of a \"Qli\" monster. If this card is sent from the field to the GY: You can add 1 \"Qli\" monster from your Deck to your hand.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "THE NEW CHALLENGERS",
+        "2015 MEGA-TINS MEGA PACK",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Apoqliphort Skybase",
+        "Apoqliphort Towers",
+        "Laser Qlip",
+        "Qlife's End",
+        "Qlimate Change",
+        "Qliphort Carrier",
+        "Qliphort Cephalopod",
+        "Qliphort Disk",
+        "Qliphort Genius",
+        "Qliphort Helix",
+        "Qliphort Monolith",
+        "Qliphort Scout",
+        "Qliphort Shell",
+        "Qliphort Stealth",
+        "Qlipper Launch",
+        "Re-qliate"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

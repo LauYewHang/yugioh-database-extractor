@@ -1,0 +1,31 @@
+{
+    "name": "Mimighoul Cerberus",
+    "filename": "Mimighoul_Cerberus",
+    "card_text": "FLIP: If it is the Main Phase: Apply these effects in sequence.\n\u25cfBanish the top 3 cards of your Deck, then Special Summon 1 of your banished monsters to your opponent's field in Defense Position.\n\u25cfGive control of this card to your opponent.\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position. You can only use each effect of \"Mimighoul Cerberus\" once per turn. Your opponent cannot target face-up Spells you control with card effects.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Giant Mimighoul",
+        "Mimighoul Armor",
+        "Mimighoul Charm",
+        "Mimighoul Dragon",
+        "Mimighoul Dungeon",
+        "Mimighoul Fairy",
+        "Mimighoul Flower",
+        "Mimighoul Maker",
+        "Mimighoul Master",
+        "Mimighoul Room",
+        "Mimighoul Slime",
+        "Mimighoul Throne"
+    ],
+    "attribute": "EARTH",
+    "attack": 400,
+    "defense": 1800,
+    "monster_type": "Beast",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Fire King Island",
+    "filename": "Fire_King_Island",
+    "card_text": "If this face-up card in the Field Zone is sent to the GY or banished: Destroy all monsters you control. You can only use 1 of the following effects of \"Fire King Island\" per turn, and only once that turn.\n\u25cfDuring your Main Phase: You can destroy 1 monster in your hand or field, and if you do, add 1 \"Fire King\" monster from your Deck to your hand.\n\u25cfIf you control no monsters: You can Special Summon 1 FIRE Winged Beast monster from your hand.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "QUARTER CENTURY BONANZA",
+        "OTS TOURNAMENT PACK 25",
+        "STRUCTURE DECK: FIRE KINGS"
+    ],
+    "related_card": [
+        "Circle of the Fire Kings",
+        "Cursed Fire King Doom Burst",
+        "Echelon of the Fire Kings",
+        "Fire King Avatar Arvata",
+        "Fire King Avatar Barong",
+        "Fire King Avatar Garunix",
+        "Fire King Avatar Kirin",
+        "Fire King Avatar Rangbali",
+        "Fire King Avatar Yaksha",
+        "Fire King Courtier Ulcanix",
+        "Fire King High Avatar Garunix",
+        "Fire King High Avatar Kirin",
+        "Fire King Sanctuary",
+        "Fire King Sky Burn",
+        "Garunix Eternity, Hyang of the Fire Kings",
+        "Legendary Fire King Ponix",
+        "Onslaught of the Fire Kings",
+        "Sacred Fire King Garunix"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

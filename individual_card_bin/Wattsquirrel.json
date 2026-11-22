@@ -1,0 +1,32 @@
+{
+    "name": "Wattsquirrel",
+    "filename": "Wattsquirrel",
+    "card_text": "This card can attack twice during each Battle Phase. If this card battles, negate the effects of the monster it battled, after damage calculation (including in the Graveyard).",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [
+        "Wattcancel",
+        "Wattcastle",
+        "Wattchimera",
+        "Wattcobra",
+        "Wattdragonfly",
+        "Watthopper",
+        "Watthydra",
+        "Wattkeeper",
+        "Wattkey",
+        "Wattkingdom",
+        "Wattkiwi",
+        "Wattkyuki",
+        "Wattrain",
+        "Wattuna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 700,
+    "defense": 100,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

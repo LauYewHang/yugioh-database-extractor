@@ -1,0 +1,28 @@
+{
+    "name": "Breath of Resurrection",
+    "filename": "Breath_of_Resurrection",
+    "card_text": "If you control an \"Adventurer Token\": Special Summon up to 2 monsters from your hand and/or GY with different names (but banish them when they leave the field), then you can equip 1 Equip Spell that mentions \"Adventurer Token\" from your hand or GY to 1 monster you control. You can only activate 1 \"Breath of Resurrection\" per turn.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "THE GRAND CREATORS"
+    ],
+    "related_card": [
+        "Celestial Apparatus Tesea",
+        "Curse of Aramatir",
+        "Dracoback, the Rideable Dragon",
+        "Dunnell, the Noble Arms of Light",
+        "Fateful Adventure",
+        "Forest of Lost Flowers",
+        "Illegal Knight",
+        "Magicore Warrior of the Relics",
+        "Rite of Aramesir",
+        "Starlit Papillon",
+        "Thunder Discharge",
+        "Wandering Gryphon Rider",
+        "Water Enchantress of the Temple",
+        "Zaralaam the Dark Palace"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

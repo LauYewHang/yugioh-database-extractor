@@ -1,0 +1,22 @@
+{
+    "name": "Hyper-Ancient Shark Megalodon",
+    "filename": "Hyper_Ancient_Shark_Megalodon",
+    "card_text": "When this card inflicts battle damage to your opponent: You can target 1 monster your opponent controls; destroy that target.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Hydrojet Shark",
+        "Surfacing Big Jaws",
+        "Veiss Shark"
+    ],
+    "attribute": "WATER",
+    "attack": 2900,
+    "defense": 1300,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

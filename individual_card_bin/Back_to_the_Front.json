@@ -1,0 +1,17 @@
+{
+    "name": "Back to the Front",
+    "filename": "Back_to_the_Front",
+    "card_text": "Target 1 monster in your GY; Special Summon it in Defense Position.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "2-PLAYER STARTER SET",
+        "STRUCTURE DECK: ALBAZ STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

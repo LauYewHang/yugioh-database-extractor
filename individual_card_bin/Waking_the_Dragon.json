@@ -1,0 +1,18 @@
+{
+    "name": "Waking the Dragon",
+    "filename": "Waking_the_Dragon",
+    "card_text": "If this Set card in its owner's control has left the field because of an opponent's effect, and is now in the GY or banished: You can Special Summon 1 monster from your Deck or Extra Deck.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "MYSTIC FIGHTERS",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "FLAMES OF DESTRUCTION",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "OTS TOURNAMENT PACK 8",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "STRUCTURE DECK: ALBAZ STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

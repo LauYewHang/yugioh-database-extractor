@@ -1,0 +1,17 @@
+{
+    "name": "Autonomous Action Unit",
+    "filename": "Autonomous_Action_Unit",
+    "card_text": "Pay 1500 LP, then target 1 monster in your opponent's GY; Special Summon it to your field in Attack Position, and equip it with this card. When this card leaves the field, destroy the equipped monster.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "TURBO PACK BOOSTER TWO",
+        "MAGICIAN'S FORCE",
+        "Phantom Revenge",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

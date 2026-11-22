@@ -1,0 +1,15 @@
+{
+    "name": "Tragedy",
+    "filename": "Tragedy",
+    "card_text": "When a face-up Attack Position monster(s) your opponent controls is changed to face-up Defense Position: Destroy all Defense Position monsters your opponent controls.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "RISE OF DESTINY",
+        "The Lost Art Promotion",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

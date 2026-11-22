@@ -1,0 +1,33 @@
+{
+    "name": "Invoked Raidjin",
+    "filename": "Invoked_Raidjin",
+    "card_text": "\"Aleister the Invoker\" + 1 WIND monster\nOnce per turn (Quick Effect): You can target 1 face-up monster on the field; change it to face-down Defense Position.",
+    "release_date": "2017-02-24",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "FUSION ENFORCERS"
+    ],
+    "related_card": [
+        "Aiwass, Divine Spirit of the Law",
+        "Aleister the Invoker",
+        "Aleister the Invoker of Madness",
+        "Aleister the Reminiscent",
+        "Crowley, the Gifted Magistus",
+        "Gamma Summon",
+        "Invocation",
+        "Invocation - \"Grail\"",
+        "Invocation - \"Sword\"",
+        "Invoked Elysium",
+        "Invoked Sorath",
+        "Omega Summon",
+        "The Book of the Law"
+    ],
+    "attribute": "WIND",
+    "attack": 2200,
+    "defense": 2400,
+    "monster_type": "Warrior",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

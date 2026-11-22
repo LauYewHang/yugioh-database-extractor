@@ -1,0 +1,36 @@
+{
+    "name": "Mementotlan Tatsunootoshigo",
+    "filename": "Mementotlan_Tatsunootoshigo",
+    "card_text": "If you do not control any face-up monsters, other than \"Memento\" monsters: You can Special Summon this card from your hand. During your Main Phase: You can destroy 1 \"Memento\" monster you control, and send any number of \"Memento\" monster(s) (with different names) from your Deck to the GY whose total Levels are less than or equal to the destroyed monster's original Level. You can only use each effect of \"Mementotlan Tatsunootoshigo\" once per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Mementoal Tecuhtlica - Combined Creation",
+        "Mementomictlan",
+        "Mementomictlan Tecuhtlica - Creation King",
+        "Mementotlan Akihiron",
+        "Mementotlan Angwitch",
+        "Mementotlan Bone Back",
+        "Mementotlan Bone Party",
+        "Mementotlan Cranium Burst",
+        "Mementotlan Dark Blade",
+        "Mementotlan Fracture Dance",
+        "Mementotlan Fusion",
+        "Mementotlan Ghattic",
+        "Mementotlan Goblin",
+        "Mementotlan Mace",
+        "Mementotlan Shleepy",
+        "Mementotlan Twin Dragon",
+        "Mementotlan-Horned Dragon"
+    ],
+    "attribute": "EARTH",
+    "attack": 1350,
+    "defense": 1600,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

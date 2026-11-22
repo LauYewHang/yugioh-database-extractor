@@ -1,0 +1,13 @@
+{
+    "name": "Mordschlag",
+    "filename": "Mordschlag",
+    "card_text": "Equip only to a Normal Summoned/Set monster you control. It is unaffected by your opponent's activated effects of Special Summoned monsters. During damage calculation, if the equipped monster battles an opponent's Special Summoned monster: That opponent's monster loses ATK/DEF equal to the equipped monster's original ATK, during that damage calculation only.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

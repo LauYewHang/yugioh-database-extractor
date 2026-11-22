@@ -1,0 +1,15 @@
+{
+    "name": "Vanity's Emptiness",
+    "filename": "Vanity_s_Emptiness",
+    "card_text": "Neither player can Special Summon monsters. If a card is sent from the Deck or the field to your GY: Destroy this card.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "STARSTRIKE BLAST",
+        "THE SECRET FORCES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

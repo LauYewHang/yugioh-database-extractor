@@ -170,7 +170,10 @@
     "attack": 1600,
     "defense": 1000,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn, if a monster is Fusion Summoned to your field (except during the Damage Step): You can add 1 \"Performapal\", \"Odd-Eyes\", or \"Magician\" Pendulum Monster from your GY or face-up in your Extra Deck to your hand.",

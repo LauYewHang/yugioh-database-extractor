@@ -1,0 +1,27 @@
+{
+    "name": "Gate Guardian of Wind and Water",
+    "filename": "Gate_Guardian_of_Wind_and_Water",
+    "card_text": "\"Kazejin\" + \"Suijin\"\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control. Once per Chain, when your opponent activates a Spell/Trap Card or effect on the field (Quick Effect): You can negate that effect. You can only use this effect of \"Gate Guardian of Wind and Water\" twice per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your banished \"Kazejin\" or \"Suijin\".",
+    "release_date": "2023-03-10",
+    "available_set": [
+        "MAZE OF MEMORIES"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Dark Element",
+        "Dark Guardian",
+        "Double Attack! Wind and Thunder!!",
+        "Gate Guardians Combined",
+        "Kazejin",
+        "Principug",
+        "Riryoku Guardian",
+        "Suijin"
+    ],
+    "attribute": "WIND",
+    "attack": 2450,
+    "defense": 2300,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

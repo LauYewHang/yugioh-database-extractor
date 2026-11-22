@@ -1,0 +1,30 @@
+{
+    "name": "Power Tool Dragon",
+    "filename": "Power_Tool_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can reveal 3 Equip Spells from your Deck, then your opponent randomly adds 1 of them to your hand, and shuffle the other cards into the Deck. If this card would be destroyed while equipped with an Equip Spell(s), you can send 1 of those cards to the GY instead.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "RAGING BATTLE",
+        "COLLECTIBLE TIN 2009 WAVE 1",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Double Tool C&D",
+        "Duel Link Dragon, the Duel Dragon",
+        "Gathering Light",
+        "Life Extreme",
+        "Life Stream Dragon",
+        "Power Break",
+        "Revolution Synchron",
+        "Ultimaya Tzolkin"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 2500,
+    "monster_type": "Machine",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

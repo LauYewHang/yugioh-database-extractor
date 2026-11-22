@@ -1,0 +1,13 @@
+{
+    "name": "Creature Seizure",
+    "filename": "Creature_Seizure",
+    "card_text": "Each player gives their opponent control of 1 of their monsters (controller's choice). You must choose a face-up Normal Monster.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

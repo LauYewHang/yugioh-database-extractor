@@ -1,0 +1,14 @@
+{
+    "name": "Stygian Dirge",
+    "filename": "Stygian_Dirge",
+    "card_text": "Reduce the Levels of all monsters your opponent controls by 1.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "DUELIST LEAGUE 16",
+        "STARDUST OVERDRIVE",
+        "The Lost Art Promotion 8"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Vorticular Drumgon",
+    "filename": "Vorticular_Drumgon",
+    "card_text": "3 DARK Dragon monsters\nIf this card is Special Summoned: You can draw 1 card. You can only use this effect of \"Vorticular Drumgon\" once per turn. If this effect resolves, the unused Monster Zones this card points to cannot be used for the rest of this turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 84
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Majestic Star Dragon",
+    "filename": "Majestic_Star_Dragon",
+    "card_text": "\"Majestic Dragon\" + \"Stardust Dragon\" + 1 non-Tuner monster\nDuring either player's turn, when your opponent activates a card or effect: You can Tribute this card; negate the activation, and if you do, destroy all cards your opponent controls. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn, and you can activate 1 of its effects as this card's effect once this turn. During the End Phase: Target 1 \"Stardust Dragon\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.",
+    "release_date": "2009-11-03",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STARDUST OVERDRIVE",
+        "COLLECTIBLE TIN 2009 WAVE 2",
+        "DUELIST PACK - YUSEI 3 -"
+    ],
+    "related_card": [
+        "Arrive in Light",
+        "Converging Wills Dragon",
+        "Junk Signal",
+        "Majestic Absorption",
+        "Majestic Dragon",
+        "Majestic Mirage",
+        "Shooting Majestic Star Dragon",
+        "Stardust Dragon",
+        "Stardust Illumination",
+        "Stardust Synchron",
+        "Synchro Fellowship"
+    ],
+    "attribute": "WIND",
+    "attack": 3800,
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

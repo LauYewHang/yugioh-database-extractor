@@ -1,0 +1,19 @@
+{
+    "name": "Triple Tactics Talent",
+    "filename": "Triple_Tactics_Talent",
+    "card_text": "If your opponent has activated a monster effect during your Main Phase this turn: Activate 1 of these effects;\n\u25cfDraw 2 cards.\n\u25cfTake control of 1 monster your opponent controls until the End Phase.\n\u25cfLook at your opponent's hand, and choose 1 card from it to shuffle into the Deck.\nYou can only activate 1 \"Triple Tactics Talent\" per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "MAGNIFICENT MAVENS",
+        "WINNER'S PACK 2026-2027",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "RISE OF THE DUELIST",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "LEGENDARY ARC-V DECKS",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

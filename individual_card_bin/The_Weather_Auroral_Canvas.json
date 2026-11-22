@@ -1,0 +1,28 @@
+{
+    "name": "The Weather Auroral Canvas",
+    "filename": "The_Weather_Auroral_Canvas",
+    "card_text": "\"The Weather\" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.\n\u25cfWhen exactly 1 card is added to one player's hand (except during the Damage Step): You can banish this card; banish the added card, and if you do, that player draws 1 card.\nYou can only control 1 \"The Weather Auroral Canvas\".",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "The Weather Cloudy Canvas",
+        "The Weather Forecast",
+        "The Weather Painter Aurora",
+        "The Weather Painter Cloud",
+        "The Weather Painter Moonbow",
+        "The Weather Painter Rain",
+        "The Weather Painter Rainbow",
+        "The Weather Painter Snow",
+        "The Weather Painter Sun",
+        "The Weather Painter Thunder",
+        "The Weather Rainbowed Canvas",
+        "The Weather Rainy Canvas",
+        "The Weather Snowy Canvas",
+        "The Weather Sunny Canvas",
+        "The Weather Thundery Canvas"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

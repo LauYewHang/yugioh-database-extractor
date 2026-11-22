@@ -1,0 +1,36 @@
+{
+    "name": "Noh-P.U.N.K. Foxy Tune",
+    "filename": "Noh_P_U_N_K__Foxy_Tune",
+    "card_text": "Once per turn, when this card destroys an opponent's monster by battle: You can gain LP equal to that monster's original ATK. You can only use each of the following effects of \"Noh-P.U.N.K. Foxy Tune\" once per turn. You can Tribute 1 \"P.U.N.K.\" monster; Special Summon this card from your hand. You can send this card from your hand or field to the GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 \"P.U.N.K.\" monster from your Deck, except a Level 8 monster.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "THE GRAND CREATORS",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Gagaku-P.U.N.K. Crash Beat",
+        "Gagaku-P.U.N.K. Wa Gon",
+        "Gagaku-P.U.N.K. Wild Picking",
+        "Joruri-P.U.N.K. Dangerous Gabu",
+        "Joruri-P.U.N.K. Madame Spider",
+        "Joruri-P.U.N.K. Nashiwari Surprise",
+        "Noh-P.U.N.K. Deer Note",
+        "Noh-P.U.N.K. Ogre Dance",
+        "Noh-P.U.N.K. Rising Scale",
+        "Noh-P.U.N.K. Ze Amin",
+        "P.U.N.K. JAM Dragon Drive",
+        "P.U.N.K. JAM Extreme Session",
+        "P.U.N.K. JAM FEVER!",
+        "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "Ukiyoe-P.U.N.K. Rising Carp",
+        "Ukiyoe-P.U.N.K. Sharakusai"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 2600,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

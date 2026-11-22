@@ -48,7 +48,10 @@
     "attack": 2400,
     "defense": 1000,
     "monster_type": "Plant",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "While this card is in your Pendulum Zone, if you Fusion Summon a DARK Fusion Monster, you can also use cards in your Pendulum Zones as monsters on the field, as material for its Fusion Summon.",

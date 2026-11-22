@@ -1,0 +1,13 @@
+{
+    "name": "Dragon's Bind",
+    "filename": "Dragon_s_Bind",
+    "card_text": "Activate this card by targeting 1 Dragon-Type monster you control with 2500 or less ATK and DEF; neither player can Special Summon monsters with ATK less than or equal to the original ATK of that monster. When that monster leaves the field, destroy this card.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Rider of the Storm Winds",
+    "filename": "Rider_of_the_Storm_Winds",
+    "card_text": "You can target 1 Dragon Normal Monster you control; equip this monster from your hand or field to that target. If a monster equipped with this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If a monster equipped with this card would be destroyed, destroy this card instead.",
+    "release_date": "2013-09-13",
+    "available_set": [
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "LEGENDARY DECKS II",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 500,
+    "defense": 200,
+    "monster_type": "Dragon",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

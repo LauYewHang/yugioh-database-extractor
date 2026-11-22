@@ -1,0 +1,16 @@
+{
+    "name": "Unexpected Dai",
+    "filename": "Unexpected_Dai",
+    "card_text": "If you control no monsters: Special Summon 1 Level 4 or lower Normal Monster from the Deck.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "KING'S COURT",
+        "Gold Series: Maximum Gold",
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "LEGENDARY DECKS II",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

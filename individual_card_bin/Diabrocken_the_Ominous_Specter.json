@@ -1,0 +1,17 @@
+{
+    "name": "Diabrocken the Ominous Specter",
+    "filename": "Diabrocken_the_Ominous_Specter",
+    "card_text": "If this card is in your hand (Quick Effect): You can banish 1 FIRE monster from your face-up field or GY; Special Summon this card. If this card is Special Summoned: You can target 1 face-up card on the field; negate its effects until the end of this turn. If this card is sent to the GY as Link Material: You can Set 1 Quick-Play Spell or Normal Trap from your GY that was sent there this turn. You can only use each effect of \"Diabrocken the Ominous Specter\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

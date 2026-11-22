@@ -33,7 +33,11 @@
     "attack": 1000,
     "defense": null,
     "monster_type": "Wyrm",
-    "monster_card_type": 8192,
+    "monster_card_type": [
+        "Link"
+    ],
     "link_rating": 1,
-    "link_arrow": 4
+    "link_arrow": [
+        "Bottom-Center"
+    ]
 }

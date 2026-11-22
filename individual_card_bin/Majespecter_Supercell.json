@@ -1,0 +1,31 @@
+{
+    "name": "Majespecter Supercell",
+    "filename": "Majespecter_Supercell",
+    "card_text": "While you have a \"Majespecter\" card in your Pendulum Zone, the activation and effects of other \"Majespecter\" cards activated on your side of the field cannot be negated. Once per turn: You can target 5 \"Majespecter\" cards in your Graveyard; shuffle all 5 into the Deck, then draw 1 card.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Majespecter Cat - Nekomata",
+        "Majespecter Crow - Yata",
+        "Majespecter Cyclone",
+        "Majespecter Draco - Ryu",
+        "Majespecter Fox - Kyubi",
+        "Majespecter Gust",
+        "Majespecter Orthrus - Nue",
+        "Majespecter Porcupine - Yamarashi",
+        "Majespecter Raccoon - Bunbuku",
+        "Majespecter Sonics",
+        "Majespecter Storm",
+        "Majespecter Tempest",
+        "Majespecter Toad - Ogama",
+        "Majespecter Tornado",
+        "Majespecter Unicorn - Kirin",
+        "Majespecter Wind",
+        "Majesty Pegasus, the Dracoslayer",
+        "Majesty's Pegasus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

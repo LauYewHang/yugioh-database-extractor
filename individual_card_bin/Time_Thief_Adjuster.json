@@ -1,0 +1,31 @@
+{
+    "name": "Time Thief Adjuster",
+    "filename": "Time_Thief_Adjuster",
+    "card_text": "If you Normal or Special Summon a \"Time Thief\" monster(s), except \"Time Thief Adjuster\" (except during the Damage Step): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Time Thief\" card from your Deck to the GY, except \"Time Thief Adjuster\". You can only use 1 \"Time Thief Adjuster\" effect per turn, and only once that turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Time Thief Bezel Ship",
+        "Time Thief Chronocorder",
+        "Time Thief Double Barrel",
+        "Time Thief Flyback",
+        "Time Thief Hack",
+        "Time Thief Perpetua",
+        "Time Thief Power Reserve",
+        "Time Thief Redoer",
+        "Time Thief Regulator",
+        "Time Thief Retrograde",
+        "Time Thief Startup",
+        "Time Thief Temporwhal",
+        "Time Thief Winder"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 1800,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

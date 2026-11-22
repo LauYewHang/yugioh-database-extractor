@@ -1,0 +1,12 @@
+{
+    "name": "Beast Rising",
+    "filename": "Beast_Rising",
+    "card_text": "Once per turn, you can remove from play 1 face-up Beast-Type or Beast-Warrior-Type monster you control to select 1 other face-up Beast-Type or Beast-Warrior-Type monster you control. The selected monster gains the original ATK of the monster removed from play for this effect.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

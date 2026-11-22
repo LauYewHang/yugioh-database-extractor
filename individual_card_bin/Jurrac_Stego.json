@@ -1,0 +1,40 @@
+{
+    "name": "Jurrac Stego",
+    "filename": "Jurrac_Stego",
+    "card_text": "During your Main Phase: You can destroy 1 card you control, and if you do, send 1 Dinosaur monster from your Deck to the GY, then you can Special Summon \"Jurrac\" monster(s) from your hand and/or Deck, except \"Jurrac Stego\", whose total Levels equal the sent monster's Level, ignoring their Summoning conditions, also for the rest of this turn, you cannot Special Summon, except Dinosaur monsters. You can only use this effect of \"Jurrac Stego\" once per turn. When this card is destroyed by battle: You can return 1 face-up card on the field to the hand.",
+    "release_date": "2025-06-13",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Jurrac Aeolo",
+        "Jurrac Astero",
+        "Jurrac Brachis",
+        "Jurrac Dino",
+        "Jurrac Gallim",
+        "Jurrac Giganoto",
+        "Jurrac Guaiba",
+        "Jurrac Herra",
+        "Jurrac Iguanon",
+        "Jurrac Impact",
+        "Jurrac Megalo",
+        "Jurrac Meteor",
+        "Jurrac Monoloph",
+        "Jurrac Protops",
+        "Jurrac Ptera",
+        "Jurrac Spinos",
+        "Jurrac Stauriko",
+        "Jurrac Titano",
+        "Jurrac Tyrannus",
+        "Jurrac Velo",
+        "Jurrac Velphito",
+        "Jurrac Volcano"
+    ],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": 900,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Cynet Optimization",
+    "filename": "Cynet_Optimization",
+    "card_text": "If your \"Code Talker\" monster battles, your opponent cannot activate cards or effects until the end of the Damage Step. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 Cyberse monster, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Cyberse monsters (even if this card leaves the field). You can only use this effect of \"Cynet Optimization\" once per turn.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Accesscode Talker",
+        "Allied Code Talker @Ignister",
+        "Code Talker",
+        "Code Talker Inverted",
+        "Cyberse Reminder",
+        "Decode Talker",
+        "Decode Talker Extended",
+        "Decode Talker Heatsoul",
+        "Decode Talker Integration",
+        "Encode Talker",
+        "Excode Talker",
+        "Firewall Phantom",
+        "Micro Coder",
+        "Powercode Talker",
+        "Protectcode Talker",
+        "Shootingcode Talker",
+        "Transcode Talker"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

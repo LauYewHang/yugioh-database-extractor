@@ -1,0 +1,14 @@
+{
+    "name": "Forbidden Apocrypha",
+    "filename": "Forbidden_Apocrypha",
+    "card_text": "Declare 1 monster card type (Fusion, Synchro, or Xyz); if 2 or more monsters of the declared type are on the field, make each player send all monsters of that type from their field to the GY.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "Duel Devastator",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

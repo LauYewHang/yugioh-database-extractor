@@ -1,0 +1,12 @@
+{
+    "name": "Revenge of the Paper Dolls",
+    "filename": "Revenge_of_the_Paper_Dolls",
+    "card_text": "Target 1 monster you control and 1 face-up card your opponent controls; destroy your monster, and if you do, negate the effects of that opponent's card until the end of this turn. If this Set card is sent to the GY: You can target 1 face-up card your opponent controls; negate its effects. You can only use each effect of \"Revenge of the Paper Dolls\" once per turn.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

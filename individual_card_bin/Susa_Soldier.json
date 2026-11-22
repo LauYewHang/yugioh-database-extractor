@@ -1,0 +1,19 @@
+{
+    "name": "Susa Soldier",
+    "filename": "Susa_Soldier",
+    "card_text": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. The Battle Damage this card inflicts to your opponent's Life Points is halved.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "TOURNAMENT PACK 6",
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 1600,
+    "monster_type": "Thunder",
+    "monster_card_type": 130,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

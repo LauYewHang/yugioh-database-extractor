@@ -1,0 +1,12 @@
+{
+    "name": "Fleeting Flower of the Magician",
+    "filename": "Fleeting_Flower_of_the_Magician",
+    "card_text": "Target 1 face-up Spell/Trap your opponent controls, or 1 Spell/Trap you control; destroy it, then if you targeted a card you control, you can apply 1 of these effects.\n\u25cfPlace 1 monster from your GY in your Spell & Trap Zone as a face-up Continuous Spell.\n\u25cfAdd 1 Equip or Continuous Spell from your GY to your hand.\nYou can only activate 1 \"Fleeting Flower of the Magician\" per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

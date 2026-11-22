@@ -1,0 +1,19 @@
+{
+    "name": "Glife the Phantom Bird",
+    "filename": "Glife_the_Phantom_Bird",
+    "card_text": "You can discard this card; add 1 \"Golden Castle of Stromberg\" from your Deck to your hand. If this card is Normal or Special Summoned: You can target 1 card in your opponent's Spell & Trap Zone; destroy it. You can only use this effect of \"Glife the Phantom Bird\" once per turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Golden Castle of Stromberg"
+    ],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

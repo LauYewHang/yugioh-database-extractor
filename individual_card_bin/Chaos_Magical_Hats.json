@@ -1,0 +1,24 @@
+{
+    "name": "Chaos Magical Hats",
+    "filename": "Chaos_Magical_Hats",
+    "card_text": "When your opponent activates a monster effect, or a Normal Spell/Trap Card: Choose 3 Spells/Traps with different names from your Deck and 1 monster in your Main Monster Zone that mentions \"Light and Darkness Ritual\". Special Summon the Spells/Traps as Normal Monsters (Spellcaster/DARK/Level 8/ATK 0/DEF 0) in face-down Defense Position (their names become \"Chaos Magical Hats\" even while face-down), Set the chosen monster if it is face-up, and shuffle them on the field. Then your opponent's activated effect becomes \"Destroy 1 monster your opponent controls in face-down Defense Position\".",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Black Chaos",
+        "Black Luster Soldier - Soldier of Light and Darkness",
+        "Black Skull Dragon, the Archfiend of Unity",
+        "Celtic Mystic",
+        "Chaos Mystic Box",
+        "Griffoh",
+        "Light and Darkness Ritual",
+        "Magician of Dark Chaos - Black Chaos",
+        "Mind Shuffle",
+        "Skull Archfiend of Chaos",
+        "Spell Shattering Sword"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

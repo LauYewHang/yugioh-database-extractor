@@ -1,0 +1,31 @@
+{
+    "name": "Danger! Dogman!",
+    "filename": "Danger__Dogman_",
+    "card_text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Dogman!\", Special Summon 1 \"Danger! Dogman!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can have all face-up monsters your opponent currently controls lose 1000 ATK until the end of this turn. You can only use this effect of \"Danger! Dogman!\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
+    ],
+    "related_card": [
+        "Danger! Chupacabra!",
+        "Danger! Disturbance! Disorder!",
+        "Danger! Excitement! Mystery!",
+        "Danger! Feets of Strength!",
+        "Danger! Nessie!",
+        "Danger! Ogopogo!",
+        "Danger! Response Team",
+        "Danger! Zone",
+        "Danger!? Jackalope?",
+        "Realm of Danger!",
+        "Second Expedition into Danger!",
+        "You're in Danger!"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

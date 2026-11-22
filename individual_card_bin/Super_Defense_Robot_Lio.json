@@ -1,0 +1,23 @@
+{
+    "name": "Super Defense Robot Lio",
+    "filename": "Super_Defense_Robot_Lio",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 \"Super Defense Robot\" monster or \"Orbital 7\" from your hand. Once per turn, when exactly 1 \"Super Defense Robot\" monster or \"Orbital 7\" (and no other cards) is added from your Graveyard to your hand (except during the Damage Step): You can Special Summon it from your hand.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Googly-Eyes Drum Dragon",
+        "Orbital 7",
+        "Super Defense Robot Elephan",
+        "Super Defense Robot Monki"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

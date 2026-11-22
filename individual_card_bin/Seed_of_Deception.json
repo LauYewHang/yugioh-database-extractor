@@ -1,0 +1,12 @@
+{
+    "name": "Seed of Deception",
+    "filename": "Seed_of_Deception",
+    "card_text": "Special Summon 1 Level 2 or lower Plant-Type monster from your hand.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

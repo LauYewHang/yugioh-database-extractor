@@ -1,0 +1,36 @@
+{
+    "name": "Subterror Behemoth Dragossuary",
+    "filename": "Subterror_Behemoth_Dragossuary",
+    "card_text": "FLIP: You can activate this effect; this turn, \"Subterror\" cards you control cannot be destroyed by your opponent's card effects. You can only use this effect of \"Subterror Behemoth Dragossuary\" once per turn.\nWhen a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Subterror Behemoth Burrowing",
+        "Subterror Behemoth Fiendess",
+        "Subterror Behemoth Phospheroglacier",
+        "Subterror Behemoth Speleogeist",
+        "Subterror Behemoth Stalagmo",
+        "Subterror Behemoth Stygokraken",
+        "Subterror Behemoth Ultramafus",
+        "Subterror Behemoth Umastryx",
+        "Subterror Behemoth Voltelluric",
+        "Subterror Cave Clash",
+        "Subterror Fiendess",
+        "Subterror Final Battle",
+        "Subterror Guru",
+        "Subterror Nemesis Archer",
+        "Subterror Nemesis Defender",
+        "Subterror Nemesis Warrior",
+        "Subterror Succession",
+        "The Hidden City"
+    ],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 1600,
+    "monster_type": "Zombie",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

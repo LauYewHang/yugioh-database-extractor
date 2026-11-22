@@ -1,0 +1,22 @@
+{
+    "name": "White Reincarnation",
+    "filename": "White_Reincarnation",
+    "card_text": "When this card is activated: Add 1 Fish monster with an effect that treats itself as a Tuner from your Deck to your hand. Once per turn, at the end of the Damage Step, if your \"White Aura\" monster attacked: You can activate this effect; the attacking monster can make a second attack in a row. Once per turn, if a Level 8 or higher Fish Synchro Monster(s) is Special Summoned from your GY, even during the Damage Step: You can destroy all monsters your opponent controls. You can only activate 1 \"White Reincarnation\" per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "White Aura Dolphin",
+        "White Aura Monoceros",
+        "White Aura Porpoise",
+        "White Aura Whale",
+        "White Moray",
+        "White Sardine",
+        "White Stingray",
+        "White Sunfish"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

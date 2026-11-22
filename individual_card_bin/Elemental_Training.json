@@ -1,0 +1,27 @@
+{
+    "name": "Elemental Training",
+    "filename": "Elemental_Training",
+    "card_text": "Your opponent cannot target \"Palace of the Elemental Lords\" you control with card effects, also it cannot be destroyed by card effects. Once per turn: You can Tribute 1 monster; Special Summon 1 \"Elementsaber\" monster from your Deck with a different original Attribute than that monster's. You can send this face-up card from the field to the GY; discard your entire hand, then add \"Elemental Lord\" monsters from your GY to your hand, equal to the number of cards discarded.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Elementsaber Aina",
+        "Elementsaber Lapauila",
+        "Elementsaber Lapauila Mana",
+        "Elementsaber Makani",
+        "Elementsaber Malo",
+        "Elementsaber Molehu",
+        "Elementsaber Nalu",
+        "Grandsoil the Elemental Lord",
+        "Moulinglacia the Elemental Lord",
+        "Palace of the Elemental Lords",
+        "Phosphorage the Elemental Lord",
+        "Pyrorex the Elemental Lord",
+        "Umbramirage the Elemental Lord",
+        "Windrose the Elemental Lord"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

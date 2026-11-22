@@ -23,7 +23,10 @@
     "attack": 1500,
     "defense": 1000,
     "monster_type": "Wyrm",
-    "monster_card_type": 1026,
+    "monster_card_type": [
+        "Tuner",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

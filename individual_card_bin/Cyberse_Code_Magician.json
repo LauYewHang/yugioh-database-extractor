@@ -1,0 +1,25 @@
+{
+    "name": "Cyberse Code Magician",
+    "filename": "Cyberse_Code_Magician",
+    "card_text": "You can Ritual Summon this card with \"Cynet Ritual\". If a Link Monster you control would be used as Link Material for a Cyberse monster, this card in your hand can also be used as material. If this card is sent from the hand or field to the GY: You can send 1 Cyberse monster from your Deck to the GY, or if this Ritual Summoned card was sent to the GY, you can Special Summon that monster instead, also in either case, you cannot Special Summon for the rest of this turn, except Cyberse monsters. You can only use each effect of \"Cyberse Code Magician\" once per turn.",
+    "release_date": "2026-09-04",
+    "available_set": [
+        "MAGNIFICENT MONSTERS"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Cynet Ritual",
+        "Prima Light"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Cyberse",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

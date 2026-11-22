@@ -1,0 +1,17 @@
+{
+    "name": "Perfectron Hydradrive Dragon",
+    "filename": "Perfectron_Hydradrive_Dragon",
+    "card_text": "1+ Link Monsters\nWhile face-up on the field, this card is also LIGHT, WATER, FIRE, and WIND-Attribute, also it is unaffected by the activated effects of monsters with the same Attribute. If this card is Link Summoned, or at the end of the Damage Step if this card battled: Destroy as many monsters your opponent controls as possible, then inflict 300 damage to your opponent for each Link Monster in your GY. If this card with 1000 or more ATK would be destroyed by battle or card effect, you can change its ATK to be 1000 less than its current ATK instead.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 5000,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 5,
+    "link_arrow": 94
+}

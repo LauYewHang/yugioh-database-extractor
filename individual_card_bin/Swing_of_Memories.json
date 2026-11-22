@@ -1,0 +1,17 @@
+{
+    "name": "Swing of Memories",
+    "filename": "Swing_of_Memories",
+    "card_text": "Target 1 Normal Monster in your GY; Special Summon it, but destroy it during the End Phase of this turn.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "DUELIST PACK - JADEN YUKI 3 -",
+        "OTS TOURNAMENT PACK 5",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "2-PLAYER STARTER SET",
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

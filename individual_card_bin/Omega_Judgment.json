@@ -1,0 +1,12 @@
+{
+    "name": "Omega Judgment",
+    "filename": "Omega_Judgment",
+    "card_text": "Target 1 face-up Monster Card in your Spell & Trap Zone and 2 cards your opponent controls; destroy them.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

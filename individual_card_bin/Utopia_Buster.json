@@ -1,0 +1,28 @@
+{
+    "name": "Utopia Buster",
+    "filename": "Utopia_Buster",
+    "card_text": "If you control a \"Utopia\" monster: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied), and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
+    "release_date": "2014-03-28",
+    "available_set": [
+        "PREMIUM GOLD"
+    ],
+    "related_card": [
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

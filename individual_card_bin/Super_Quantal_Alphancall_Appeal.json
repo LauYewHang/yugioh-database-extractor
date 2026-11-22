@@ -1,0 +1,31 @@
+{
+    "name": "Super Quantal Alphancall Appeal",
+    "filename": "Super_Quantal_Alphancall_Appeal",
+    "card_text": "If a \"Super Quant\" monster you control is destroyed by battle: Special Summon 1 \"Super Quantal Mech Beast\" Xyz Monster from your Extra Deck, then you can Special Summon 1 \"Super Quantum\" monster from your hand, Deck, or GY, that is specifically listed on that Xyz Monster in its text, but negate its effects. You can only activate 1 \"Super Quantal Alphancall Appeal\" per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphan Spike",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech Beast Aeroboros",
+        "Super Quantal Mech Beast Grampulse",
+        "Super Quantal Mech Beast Lusterrex",
+        "Super Quantal Mech Beast Magnaliger",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "The Gates of Dark World",
+    "filename": "The_Gates_of_Dark_World",
+    "card_text": "All Fiend monsters gain 300 ATK/DEF. Once per turn: You can banish 1 Fiend monster from your GY; discard 1 Fiend monster, then draw 1 card.",
+    "release_date": "2011-10-18",
+    "available_set": [
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STRUCTURE DECK: DARK WORLD",
+        "ASTRAL PACK ONE"
+    ],
+    "related_card": [
+        "Ceruli, Guru of Dark World",
+        "Dark Corridor",
+        "Dark World Accession",
+        "Dark World Archives",
+        "Dark World Brainwashing",
+        "Dark World Punishment",
+        "Gateway to Dark World",
+        "Genta, Gateman of Dark World",
+        "Grapha, Dragon Lord of Dark World",
+        "Parl, Hermit of Dark World",
+        "Reign-Beaux, Overking of Dark World",
+        "Scarr, Scout of Dark World",
+        "Snoww, Unlight of Dark World",
+        "The Forces of Darkness"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

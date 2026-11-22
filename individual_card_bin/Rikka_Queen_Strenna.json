@@ -1,0 +1,34 @@
+{
+    "name": "Rikka Queen Strenna",
+    "filename": "Rikka_Queen_Strenna",
+    "card_text": "2 Level 4 monsters\nYou can detach 1 material from this card, then target 1 Plant monster or \"Rikka\" card in your GY; add it to your hand. If this card with Xyz Material is Tributed: You can Special Summon 1 Rank 5 or higher Plant Xyz Monster from your Extra Deck or GY, then you can attach this card to it as material. You can only use each effect of \"Rikka Queen Strenna\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Cyclamen the Rikka Fairy",
+        "Erica the Rikka Fairy",
+        "Hellebore the Rikka Fairy",
+        "Kanzashi the Rikka Queen",
+        "Mudan the Rikka Fairy",
+        "Primula the Rikka Fairy",
+        "Rikka Flurries",
+        "Rikka Glamour",
+        "Rikka Konkon",
+        "Rikka Petal",
+        "Rikka Princess",
+        "Rikka Sheet",
+        "Rikka Tranquility",
+        "Snowdrop the Rikka Fairy",
+        "Teardrop the Rikka Queen"
+    ],
+    "attribute": "WATER",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Plant",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

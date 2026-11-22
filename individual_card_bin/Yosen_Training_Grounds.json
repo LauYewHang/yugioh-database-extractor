@@ -1,0 +1,31 @@
+{
+    "name": "Yosen Training Grounds",
+    "filename": "Yosen_Training_Grounds",
+    "card_text": "Each time a \"Yosenju\" monster(s) is Normal or Special Summoned, place 1 Yosen Counter on this card. You can remove any number of Yosen Counters from this card; apply this effect, depending on the number of Yosen Counters removed. You can only use this effect of \"Yosen Training Grounds\" once per turn.\n\u25cf1 Counter: All \"Yosenju\" monsters you currently control gain 300 ATK until the end of this turn (even if this card leaves the field).\n\u25cf3 Counters: Add 1 \"Yosenju\" card from your Deck or Graveyard to your hand.",
+    "release_date": "2015-02-13",
+    "available_set": [
+        "THE SECRET FORCES"
+    ],
+    "related_card": [
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosenju Izna",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Kodam",
+        "Yosenju Magat",
+        "Yosenju Misak",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Shinchu R",
+        "Yosenju Tsujik",
+        "Yosenju Wind Worship",
+        "Yosenjus' Secret Move",
+        "Yosenjus' Sword Sting"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

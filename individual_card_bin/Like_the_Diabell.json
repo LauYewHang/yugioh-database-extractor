@@ -1,0 +1,23 @@
+{
+    "name": "Like the Diabell",
+    "filename": "Like_the_Diabell",
+    "card_text": "If a Spell/Trap(s) is sent to the GY by a card effect: Set 1 Spell/Trap from your hand or GY, but it cannot be activated this turn. During your Main Phase: You can banish 3 Spells/Traps from your GY, including this card; Special Summon 1 \"Diabell\" monster from your hand or GY. You can only use each effect of \"Like the Diabell\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Curse of Diabell",
+        "Diabell, Queen of the White Forest",
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Diabellze the Original Sinkeeper",
+        "Diabellze the White Witch",
+        "Filia Diabell",
+        "Play the Diabell",
+        "Sinful Spoils Sanctification",
+        "Snake-Eyes Diabellstar"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

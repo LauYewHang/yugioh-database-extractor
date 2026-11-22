@@ -1,0 +1,39 @@
+{
+    "name": "Abyss Playhouse - Fantastic Theater",
+    "filename": "Abyss_Playhouse___Fantastic_Theater",
+    "card_text": "You can reveal 1 \"Abyss Actor\" Pendulum Monster and 1 \"Abyss Script\" Spell in your hand; add 1 \"Abyss Script\" Spell from your Deck to your hand, with a different name than that revealed Spell. While you control a Pendulum Summoned \"Abyss Actor\" Pendulum Monster, any monster effect activated by your opponent becomes \"Destroy 1 Set Spell/Trap your opponent controls\". You can only use each effect of \"Abyss Playhouse - Fantastic Theater\" once per turn.",
+    "release_date": "2018-09-28",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
+    ],
+    "related_card": [
+        "Abyss Actor - Comic Relief",
+        "Abyss Actor - Curtain Raiser",
+        "Abyss Actor - Evil Heel",
+        "Abyss Actor - Extras",
+        "Abyss Actor - Funky Comedian",
+        "Abyss Actor - Hyper Director",
+        "Abyss Actor - Leading Lady",
+        "Abyss Actor - Liberty Dramatist",
+        "Abyss Actor - Mellow Madonna",
+        "Abyss Actor - Sassy Rookie",
+        "Abyss Actor - Super Producer",
+        "Abyss Actor - Superstar",
+        "Abyss Actor - Trendy Understudy",
+        "Abyss Actor - Twinkle Little Star",
+        "Abyss Actor - Wild Hope",
+        "Abyss Actors Back Stage",
+        "Abyss Actors' Curtain Call",
+        "Abyss Actors' Dress Rehearsal",
+        "Abyss Script - Abysstainment",
+        "Abyss Script - Dramatic Story",
+        "Abyss Script - Fantasy Magic",
+        "Abyss Script - Fire Dragon's Lair",
+        "Abyss Script - Opening Ceremony",
+        "Abyss Script - Rise of the Abyss King",
+        "Abyss Script - Romantic Terror"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

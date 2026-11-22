@@ -1,0 +1,19 @@
+{
+    "name": "Muckraker From the Underworld",
+    "filename": "Muckraker_From_the_Underworld",
+    "card_text": "2 Effect Monsters\nCannot be used as Link Material the turn it is Link Summoned. If a monster(s) you control would be destroyed by battle or card effect, you can Tribute 1 Fiend monster instead. You can target 1 Fiend monster in your GY, except \"Muckraker From the Underworld\"; discard 1 card, and if you do, Special Summon that monster, also you cannot Special Summon monsters for the rest of this turn, except Fiend monsters. You can only use this effect of \"Muckraker From the Underworld\" once per turn.",
+    "release_date": "2022-10-15",
+    "available_set": [
+        "DARKWING BLAST",
+        "DARKWING BLAST Core Booster Premiere!",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 20
+}

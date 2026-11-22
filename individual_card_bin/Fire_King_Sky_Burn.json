@@ -1,0 +1,31 @@
+{
+    "name": "Fire King Sky Burn",
+    "filename": "Fire_King_Sky_Burn",
+    "card_text": "Target an equal number of \"Fire King\" monsters you control and cards your opponent controls; destroy them. If a \"Fire King\" card(s) you control would be destroyed by card effect, you can banish this card from your GY instead. You can only use 1 \"Fire King Sky Burn\" effect per turn, and only once that turn.",
+    "release_date": "2023-12-08",
+    "available_set": [
+        "STRUCTURE DECK: FIRE KINGS"
+    ],
+    "related_card": [
+        "Circle of the Fire Kings",
+        "Cursed Fire King Doom Burst",
+        "Echelon of the Fire Kings",
+        "Fire King Avatar Arvata",
+        "Fire King Avatar Barong",
+        "Fire King Avatar Garunix",
+        "Fire King Avatar Kirin",
+        "Fire King Avatar Rangbali",
+        "Fire King Avatar Yaksha",
+        "Fire King Courtier Ulcanix",
+        "Fire King High Avatar Garunix",
+        "Fire King High Avatar Kirin",
+        "Fire King Island",
+        "Fire King Sanctuary",
+        "Garunix Eternity, Hyang of the Fire Kings",
+        "Legendary Fire King Ponix",
+        "Onslaught of the Fire Kings",
+        "Sacred Fire King Garunix"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

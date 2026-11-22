@@ -1,0 +1,13 @@
+{
+    "name": "Mass Driver",
+    "filename": "Mass_Driver",
+    "card_text": "Tribute 1 monster on your side of the field to inflict 400 points of damage to your opponent's Life Points.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "MAGICIAN'S FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

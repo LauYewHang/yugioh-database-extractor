@@ -1,0 +1,20 @@
+{
+    "name": "Supply Squad",
+    "filename": "Supply_Squad",
+    "card_text": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: Draw 1 card.",
+    "release_date": "2014-07-11",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON",
+        "VALIANT SMASHERS",
+        "STARTER DECK - LINK STRIKE -",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "2-PLAYER STARTER SET",
+        "STARTER DECK CODEBREAKER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

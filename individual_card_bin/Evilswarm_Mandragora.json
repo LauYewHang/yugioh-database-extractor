@@ -1,0 +1,32 @@
+{
+    "name": "Evilswarm Mandragora",
+    "filename": "Evilswarm_Mandragora",
+    "card_text": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand).",
+    "release_date": "2012-09-28",
+    "available_set": [
+        "DUEL TERMINAL 7A",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "STARTER DECK - LINK STRIKE -",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS",
+        "STARTER DECK CODEBREAKER"
+    ],
+    "related_card": [
+        "Evilswarm Bahamut",
+        "Evilswarm Castor",
+        "Evilswarm Kerykeion",
+        "Evilswarm Ophion",
+        "Infestation Infection",
+        "Infestation Pandemic",
+        "Infestation Terminus",
+        "Steelswarm Origin"
+    ],
+    "attribute": "DARK",
+    "attack": 1550,
+    "defense": 1450,
+    "monster_type": "Plant",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

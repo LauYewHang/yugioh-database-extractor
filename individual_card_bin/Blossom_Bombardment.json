@@ -1,0 +1,13 @@
+{
+    "name": "Blossom Bombardment",
+    "filename": "Blossom_Bombardment",
+    "card_text": "When a Plant-Type monster you control destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the destroyed monster's ATK in the Graveyard.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

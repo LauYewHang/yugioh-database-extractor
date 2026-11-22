@@ -1,0 +1,13 @@
+{
+    "name": "Guard Mines",
+    "filename": "Guard_Mines",
+    "card_text": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "DUELIST PACK - CROW -",
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

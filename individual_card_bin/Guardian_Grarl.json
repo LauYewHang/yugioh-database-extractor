@@ -1,0 +1,25 @@
+{
+    "name": "Guardian Grarl",
+    "filename": "Guardian_Grarl",
+    "card_text": "Cannot be Summoned unless you control a face-up \"Gravity Axe - Grarl\". If this is the only card in your hand, you can Special Summon it (from your hand).",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Gravity Axe - Grarl",
+        "Principug"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 1000,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

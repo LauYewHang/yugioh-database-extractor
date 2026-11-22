@@ -1,0 +1,33 @@
+{
+    "name": "Crusadia Arboria",
+    "filename": "Crusadia_Arboria",
+    "card_text": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Arboria\" once per turn this way. If a \"Crusadia\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your field or GY instead. You can only use this effect of \"Crusadia Arboria\" once per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Crusadia Draco",
+        "Crusadia Equimax",
+        "Crusadia Krawler",
+        "Crusadia Leonis",
+        "Crusadia Magius",
+        "Crusadia Maximus",
+        "Crusadia Power",
+        "Crusadia Reclusia",
+        "Crusadia Regulex",
+        "Crusadia Revival",
+        "Crusadia Spatha",
+        "Crusadia Testament",
+        "Crusadia Vanguard",
+        "Mekk-Knight Crusadia Avramax"
+    ],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

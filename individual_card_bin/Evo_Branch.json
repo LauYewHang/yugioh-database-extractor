@@ -1,0 +1,23 @@
+{
+    "name": "Evo-Branch",
+    "filename": "Evo_Branch",
+    "card_text": "Target 1 face-up Reptile-Type monster you control; destroy it and Special Summon 1 \"Evoltile\" monster in face-down Defense Position from your Deck.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Evoltile Casinerio",
+        "Evoltile Elginero",
+        "Evoltile Gephyro",
+        "Evoltile Lagosucho",
+        "Evoltile Megachirella",
+        "Evoltile Najasho",
+        "Evoltile Odonto",
+        "Evoltile Pholis",
+        "Evoltile Pleuro",
+        "Evoltile Westlo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

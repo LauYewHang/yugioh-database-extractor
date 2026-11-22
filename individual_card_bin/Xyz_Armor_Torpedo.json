@@ -1,0 +1,26 @@
+{
+    "name": "Xyz Armor Torpedo",
+    "filename": "Xyz_Armor_Torpedo",
+    "card_text": "2 Level 3 monsters\nCannot attack unless it has material. You can detach 2 materials from this card; draw 1 card. You can only use this effect of \"Xyz Armor Torpedo\" once per turn. Apply these effects while this card is equipped to a monster.\n\u25cfIf the equipped monster battles, until the end of the Damage Step, your opponent cannot activate cards or effects, also negate the effects of all face-up monsters they control.\n\u25cfIf the equipped monster is an Xyz Monster, your opponent cannot target it with card effects.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "attribute": "WATER",
+    "attack": 2500,
+    "defense": 800,
+    "monster_type": "Warrior",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

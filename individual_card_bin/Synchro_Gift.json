@@ -1,0 +1,14 @@
+{
+    "name": "Synchro Gift",
+    "filename": "Synchro_Gift",
+    "card_text": "Select 2 face-up monsters you control (1 Synchro Monster and 1 non-Synchro monster). Until the End Phase of this turn, reduce the ATK of the Synchro Monster to 0, and the other monster gains ATK equal to the Synchro Monster's original ATK.",
+    "release_date": "2011-01-25",
+    "available_set": [
+        "DUELIST PACK - YUSEI 3 -"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

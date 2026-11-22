@@ -1,0 +1,39 @@
+{
+    "name": "Upstart Goblin",
+    "filename": "Upstart_Goblin",
+    "card_text": "Draw 1 card, then your opponent gains 1000 LP.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "LEGENDARY MODERN DECKS 2026",
+        "SECRET SLAYERS",
+        "QUARTER CENTURY BONANZA",
+        "DEMO DECK",
+        "DARK BEGINNING 1",
+        "RETRO PACK",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "MAXIMUM GOLD: EL DORADO",
+        "SPELL RULER",
+        "TURBO PACK BOOSTER EIGHT",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DEMO DECK 2026"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

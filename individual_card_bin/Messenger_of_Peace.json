@@ -1,0 +1,19 @@
+{
+    "name": "Messenger of Peace",
+    "filename": "Messenger_of_Peace",
+    "card_text": "Monsters with 1500 or more ATK cannot declare an attack. Once per turn, during your Standby Phase, pay 100 LP or destroy this card.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "LEGENDARY DECKS II",
+        "DARK BEGINNING 1",
+        "RETRO PACK",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "DUELIST LEAGUE 3",
+        "SPELL RULER",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Parasite Paracide",
+    "filename": "Parasite_Paracide",
+    "card_text": "FLIP: Shuffle this card face-up into your opponent's Deck.\nIf you draw this card after it was added to your Deck by its effect: Special Summon it in Defense Position, and if you do, take 1000 damage. All monsters controlled by the player that Summoned this card by its effect become Insect monsters.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "PHARAOH'S SERVANT",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 1",
+        "The Lost Art Promotion 7",
+        "RETRO PACK 2"
+    ],
+    "related_card": [
+        "Drill Bug"
+    ],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 300,
+    "monster_type": "Insect",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

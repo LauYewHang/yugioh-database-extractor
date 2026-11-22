@@ -1,0 +1,22 @@
+{
+    "name": "Lost Guardian",
+    "filename": "Lost_Guardian",
+    "card_text": "The original DEF of this card equals the number of your banished Rock-Type monsters x 700.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "TURBO PACK BOOSTER EIGHT",
+        "DARK REVELATION Volume 3",
+        "THE LOST MILLENNIUM"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug"
+    ],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": "?",
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

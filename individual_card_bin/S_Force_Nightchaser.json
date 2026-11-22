@@ -1,0 +1,37 @@
+{
+    "name": "S-Force Nightchaser",
+    "filename": "S_Force_Nightchaser",
+    "card_text": "1 non-Link \"S-Force\" monster\nEach of your opponent's monsters in the same column as one of your \"S-Force\" monsters cannot target the monsters in its same column for attacks. During the Main Phase (Quick Effect): You can target 1 \"S-Force\" monster you control; shuffle it into the Deck, then you can Special Summon 1 of your banished \"S-Force\" monsters. You can only use this effect of \"S-Force Nightchaser\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 1,
+    "link_arrow": 4
+}

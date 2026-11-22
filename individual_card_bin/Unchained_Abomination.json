@@ -1,0 +1,35 @@
+{
+    "name": "Unchained Abomination",
+    "filename": "Unchained_Abomination",
+    "card_text": "2+ monsters, including a Link Monster\nIf a card(s) on the field is destroyed by card effect, except by \"Unchained Abomination\" (except during the Damage Step): You can target 1 card on the field; destroy it. When another monster is destroyed by battle: You can target 1 card on the field; destroy it. During the End Phase: You can target 1 card on the field; destroy it. You can only use each effect of \"Unchained Abomination\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT",
+        "2020 TIN OF LOST MEMORIES",
+        "OTS TOURNAMENT PACK 22",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Hunger",
+        "Unchained Oni of Shyma",
+        "Unchained Soul Lord of Yama",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Sharvara",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Wailing of the Unchained Souls"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 270
+}

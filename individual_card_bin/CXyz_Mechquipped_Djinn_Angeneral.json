@@ -1,0 +1,39 @@
+{
+    "name": "CXyz Mechquipped Djinn Angeneral",
+    "filename": "CXyz_Mechquipped_Djinn_Angeneral",
+    "card_text": "3 Level 4 monsters\nWhen this card is Xyz Summoned: You can target 1 Defense Position monster on the field; change that target to face-up Attack Position. If this card has \"Mechquipped Angineer\" as an Xyz Material, it gains this effect.\n\u25cfWhen this card inflicts battle damage to your opponent: You can detach 1 Xyz Material from this card; inflict 1000 damage to your opponent.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "NUMBER HUNTERS"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Barian Untopia",
+        "Barian's Seal",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Humhumming the Key Djinn",
+        "Hydrojet Shark",
+        "Maestroke the Symphony Djinn",
+        "Mechquipped Angineer",
+        "Melomelody the Brass Djinn",
+        "Muzurhythm the String Djinn",
+        "Rank-Up-Magic Admiration of the Thousands",
+        "Rank-Up-Magic Argent Chaos Force",
+        "Rank-Up-Magic Barian's Force",
+        "Resurgam Xyz",
+        "Temtempo the Percussion Djinn",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "attribute": "DARK",
+    "attack": 2600,
+    "defense": 1600,
+    "monster_type": "Fairy",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

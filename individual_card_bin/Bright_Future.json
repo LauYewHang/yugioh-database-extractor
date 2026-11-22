@@ -1,0 +1,12 @@
+{
+    "name": "Bright Future",
+    "filename": "Bright_Future",
+    "card_text": "Target 2 of your banished Psychic-Type monsters; return both those targets to the Graveyard and draw 1 card.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

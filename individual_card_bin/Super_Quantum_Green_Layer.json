@@ -1,0 +1,36 @@
+{
+    "name": "Super Quantum Green Layer",
+    "filename": "Super_Quantum_Green_Layer",
+    "card_text": "When this card is Normal or Special Summoned: You can Special Summon 1 \"Super Quant\" monster from your hand. If this card is sent to the Graveyard: You can discard 1 \"Super Quant\" card; draw 1 card. You can only use each effect of \"Super Quantum Green Layer\" once per turn.",
+    "release_date": "2016-02-12",
+    "available_set": [
+        "WING RAIDERS"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphan Spike",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech Beast Aeroboros",
+        "Super Quantal Mech Beast Grampulse",
+        "Super Quantal Mech Beast Lusterrex",
+        "Super Quantal Mech Beast Magnaliger",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Red Layer",
+        "Super Quantum White Layer"
+    ],
+    "attribute": "WIND",
+    "attack": 1600,
+    "defense": 1400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

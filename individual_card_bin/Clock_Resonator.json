@@ -1,0 +1,33 @@
+{
+    "name": "Clock Resonator",
+    "filename": "Clock_Resonator",
+    "card_text": "Once per turn, this face-up Defense Position card cannot be destroyed by battle or by card effects.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Chain Resonator",
+        "Crimson Blade Dragon",
+        "Crimson Resonator",
+        "Darkness Resonator",
+        "Power Vice Dragon",
+        "Red Carpet",
+        "Red Rising Dragon",
+        "Red Warg",
+        "Resonant Destruction",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Synkron Resonator",
+        "Time to Stand Up"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 600,
+    "monster_type": "Fiend",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

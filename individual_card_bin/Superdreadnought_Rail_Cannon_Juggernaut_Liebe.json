@@ -1,0 +1,20 @@
+{
+    "name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+    "filename": "Superdreadnought_Rail_Cannon_Juggernaut_Liebe",
+    "card_text": "3 Level 11 monsters\nOnce per turn, you can also Xyz Summon \"Superdreadnought Rail Cannon Juggernaut Liebe\" by using 1 Rank 10 Machine Xyz Monster you control as material. (Transfer its materials to this card.) Once per turn: You can detach 1 material from this card; it gains 2000 ATK/DEF, also for the rest of this turn, you can only declare an attack with this card. During each Battle Phase, this card can make attacks on monsters up to the number of materials it has +1.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "QUARTER CENTURY BONANZA",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Machine",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 11
+}

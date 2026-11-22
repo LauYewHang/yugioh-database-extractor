@@ -1,0 +1,36 @@
+{
+    "name": "Ritual Beast Return",
+    "filename": "Ritual_Beast_Return",
+    "card_text": "Banish 1 \"Ritual Beast\" monster from your hand, then target 1 of your \"Ritual Beast\" monsters, that is banished or is in your Graveyard; Special Summon it.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Ritual Beast Ambush",
+        "Ritual Beast Inheritance",
+        "Ritual Beast Steeds",
+        "Ritual Beast Tamer Elder",
+        "Ritual Beast Tamer Lara",
+        "Ritual Beast Tamer Wen",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Ritual Beast Ulti-Apelio",
+        "Ritual Beast Ulti-Cannahawk",
+        "Ritual Beast Ulti-Gaiapelio",
+        "Ritual Beast Ulti-Kimunfalcos",
+        "Ritual Beast Ulti-Nochiudrago",
+        "Ritual Beast Ulti-Pettlephin",
+        "Ritual Beast Ulti-Reirautari",
+        "Ritual Beast's Bond",
+        "Spiritual Beast Apelio",
+        "Spiritual Beast Cannahawk",
+        "Spiritual Beast Pettlephin",
+        "Spiritual Beast Rampengu",
+        "Spiritual Beast Tamer Lara",
+        "Spiritual Beast Tamer Winda"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

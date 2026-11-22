@@ -1,0 +1,14 @@
+{
+    "name": "Miracle Dig",
+    "filename": "Miracle_Dig",
+    "card_text": "If at least 5 of your monsters are banished: Target 3 of them; return them to the GY.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 2",
+        "OTS TOURNAMENT PACK 16",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

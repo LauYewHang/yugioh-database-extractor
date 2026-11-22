@@ -1,0 +1,21 @@
+{
+    "name": "Trap Jammer",
+    "filename": "Trap_Jammer",
+    "card_text": "When your opponent activates a Trap Card during the Battle Phase: Negate the activation, and if you do, destroy it.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "DARK REVELATION Volume 2",
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "DUEL TERMINAL 2",
+        "INVASION OF CHAOS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

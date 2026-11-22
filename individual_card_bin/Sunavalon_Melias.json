@@ -1,0 +1,35 @@
+{
+    "name": "Sunavalon Melias",
+    "filename": "Sunavalon_Melias",
+    "card_text": "2+ Plant monsters, including a Link Monster\nIf this card is Link Summoned: You can Special Summon 1 \"Sunseed Genius Loci\" from your GY. This card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Once per turn: You can target 1 \"Sunvine\" Link Monster you control that this card points to; this turn, it can attack a number of times each Battle Phase, up to the number of \"Sunavalon\" Link Monsters you currently control.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Sunavalon Bloom",
+        "Sunavalon Daphne",
+        "Sunavalon Dryades",
+        "Sunavalon Dryanome",
+        "Sunavalon Dryas",
+        "Sunavalon Dryatrentiay",
+        "Sunseed Genius Loci",
+        "Sunseed Shadow",
+        "Sunseed Twin",
+        "Sunvine Cross Breed",
+        "Sunvine Gardna",
+        "Sunvine Healer",
+        "Sunvine Maiden",
+        "Sunvine Shrine",
+        "Sunvine Sowing",
+        "Sunvine Thrasher"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": null,
+    "monster_type": "Plant",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 336
+}

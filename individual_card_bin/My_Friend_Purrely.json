@@ -1,0 +1,29 @@
+{
+    "name": "My Friend Purrely",
+    "filename": "My_Friend_Purrely",
+    "card_text": "You can pay 500 LP; reveal 3 \"Purrely\" cards from your Deck, except \"My Friend Purrely\", and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. If a face-up \"Purrely\" Xyz Monster(s) you control leaves the field because of an opponent's card, even during the Damage Step: You can add up to 3 \"Purrely\" Quick-Play Spells with different names from your GY to your hand. You can only use each effect of \"My Friend Purrely\" once per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Epurrely Beauty",
+        "Epurrely Happiness",
+        "Epurrely Noir",
+        "Epurrely Plump",
+        "Expurrely Happiness",
+        "Expurrely Noir",
+        "Purrely",
+        "Purrely Delicious Memory",
+        "Purrely Happy Memory",
+        "Purrely Pretty Memory",
+        "Purrely Sharely!?",
+        "Purrely Sleepy Memory",
+        "Purrelyeap!?",
+        "Purrelyly",
+        "Stray Purrely Street"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

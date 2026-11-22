@@ -1,0 +1,17 @@
+{
+    "name": "Vivid Knight",
+    "filename": "Vivid_Knight",
+    "card_text": "During either player's turn (except during the Damage Step), when your opponent targets exactly 1 LIGHT Beast-Warrior-Type monster you control (and no other cards) for an attack, or with a card effect: Banish that monster you control until your next Standby Phase, and if you do, Special Summon this card from your hand.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 800,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

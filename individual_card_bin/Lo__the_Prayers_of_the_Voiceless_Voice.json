@@ -1,0 +1,29 @@
+{
+    "name": "Lo, the Prayers of the Voiceless Voice",
+    "filename": "Lo__the_Prayers_of_the_Voiceless_Voice",
+    "card_text": "If you Ritual Summon exactly 1 LIGHT Ritual Monster (Warrior or Dragon) with a card effect that requires use of monsters, this card can be used as the entire Tribute. You can only use each of the following effects of \"Lo, the Prayers of the Voiceless Voice\" once per turn. If this card is Normal or Special Summoned: You can place 1 \"Voiceless Voice\" Continuous Spell/Trap from your Deck face-up in your Spell & Trap Zone. If a LIGHT Ritual Monster (Warrior or Dragon) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can Special Summon this card.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "OTS TOURNAMENT PACK 26",
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Barrier of the Voiceless Voice",
+        "Blessing of the Voiceless Voice",
+        "Guardian of the Voiceless Voice",
+        "Prayers of the Voiceless Voice",
+        "Radiance of the Voiceless Voice",
+        "Saffira, Divine Dragon of the Voiceless Voice",
+        "Saffira, Dragon Queen of the Voiceless Voice",
+        "Sauravis, Dragon Sage of the Voiceless Voice",
+        "Skull Guardian, Protector of the Voiceless Voice"
+    ],
+    "attribute": "LIGHT",
+    "attack": 50,
+    "defense": 2050,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

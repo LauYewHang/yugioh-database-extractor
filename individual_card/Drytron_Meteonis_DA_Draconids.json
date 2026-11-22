@@ -32,7 +32,10 @@
     "attack": 5000,
     "defense": 5000,
     "monster_type": "Machine",
-    "monster_card_type": 6,
+    "monster_card_type": [
+        "Ritual",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 12
 }

@@ -1,0 +1,32 @@
+{
+    "name": "Rage of Kairyu-Shin",
+    "filename": "Rage_of_Kairyu_Shin",
+    "card_text": "If \"Umi\" is on the field: Target monsters your opponent controls, up to the number of WATER monsters you control whose original Levels are 5 or higher; destroy them, and if you do, the zones they were in cannot be used until the end of the next turn. You can only activate 1 \"Rage of Kairyu-Shin\" per turn.",
+    "release_date": "2017-09-08",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "LEGENDARY DUELISTS",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Ocean Dragon Lord - Kairyu-Shin",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Fish and Swaps",
+    "filename": "Fish_and_Swaps",
+    "card_text": "Discard 1 card to target 2 of your banished Fish, Sea Serpent, or Aqua-Type monsters; add them to your hand.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

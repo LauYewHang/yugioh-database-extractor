@@ -1,0 +1,13 @@
+{
+    "name": "Chain Dispel",
+    "filename": "Chain_Dispel",
+    "card_text": "When a Spell/Trap Card is activated: Destroy all cards in the controller's Deck with the same name as the activated card.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

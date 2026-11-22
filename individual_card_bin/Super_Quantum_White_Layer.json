@@ -1,0 +1,36 @@
+{
+    "name": "Super Quantum White Layer",
+    "filename": "Super_Quantum_White_Layer",
+    "card_text": "You can send 1 non-LIGHT \"Super Quant\" monster from your hand or face-up field to the GY; Special Summon this card from your hand in Defense Position. When this card is Normal or Special Summoned: You can send 1 \"Super Quant\" monster from your Deck to the GY, and if you do, this card's Attribute and Level become the same as that monster's. If this card is sent to the GY: You can add 1 \"Super Quantal Fairy Alphan\" from your Deck or GY to your hand. You can only use each effect of \"Super Quantum White Layer\" once per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Layer 19 \"Sudden Incursion! Super Quantum Black!!\"",
+        "Neo Super Quantal Mech King Blaster Magna",
+        "Super Quantal Alphan Spike",
+        "Super Quantal Alphancall Appeal",
+        "Super Quantal Fairy Alphan",
+        "Super Quantal Fairy Zetan",
+        "Super Quantal Mech Beast Aeroboros",
+        "Super Quantal Mech Beast Grampulse",
+        "Super Quantal Mech Beast Lusterrex",
+        "Super Quantal Mech Beast Magnaliger",
+        "Super Quantal Mech King Great Magnus",
+        "Super Quantal Mech Ship Magnacarrier",
+        "Super Quantal Mech Sword - Magnaslayer",
+        "Super Quantal Union - Magnaformation",
+        "Super Quantum Black Layer",
+        "Super Quantum Blue Layer",
+        "Super Quantum Green Layer",
+        "Super Quantum Red Layer"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2400,
+    "defense": 2400,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

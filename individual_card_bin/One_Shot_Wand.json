@@ -1,0 +1,13 @@
+{
+    "name": "One-Shot Wand",
+    "filename": "One_Shot_Wand",
+    "card_text": "Equip only to a Spellcaster-Type monster. It gains 800 ATK. If the equipped monster attacks or is attacked, after damage calculation: You can destroy this card, and if you do, draw 1 card.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

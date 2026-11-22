@@ -1,0 +1,28 @@
+{
+    "name": "Windwitch - Snow Bell",
+    "filename": "Windwitch___Snow_Bell",
+    "card_text": "If you control 2 or more WIND monsters, and no non-WIND monsters: You can Special Summon this card from your hand. A WIND Synchro Monster that was Summoned using this card as Synchro Material cannot be destroyed by your opponent's card effects.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST",
+        "OTS TOURNAMENT PACK 8"
+    ],
+    "related_card": [
+        "Icy Breeze Refrain",
+        "Windwitch - Blizzard Bell",
+        "Windwitch - Crystal Bell",
+        "Windwitch - Diamond Bell",
+        "Windwitch - Freeze Bell",
+        "Windwitch - Glass Bell",
+        "Windwitch - Ice Bell",
+        "Windwitch - Winter Bell",
+        "Windwitch Chimes"
+    ],
+    "attribute": "WIND",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

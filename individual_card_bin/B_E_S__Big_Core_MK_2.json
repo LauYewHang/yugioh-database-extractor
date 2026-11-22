@@ -1,0 +1,24 @@
+{
+    "name": "B.E.S. Big Core MK-2",
+    "filename": "B_E_S__Big_Core_MK_2",
+    "card_text": "If you control no monsters, you can Normal Summon this card without Tributing.When this card is Special Summoned, place 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "B.E.F. Zelos",
+        "B.E.S. Big Core MK-3",
+        "B.E.S. Derringer Core",
+        "Boss on Parade",
+        "Boss Rush",
+        "Super B.E.S. Metal Slave"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 1100,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

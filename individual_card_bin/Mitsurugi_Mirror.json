@@ -1,0 +1,24 @@
+{
+    "name": "Mitsurugi Mirror",
+    "filename": "Mitsurugi_Mirror",
+    "card_text": "This card can be used to Ritual Summon any Reptile Ritual Monster from your hand or GY. You must also Tribute Reptile monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. If \"Ame no Murakumo no Mitsurugi\", \"Futsu no Mitama no Mitsurugi\", or \"Ame no Habakiri no Mitsurugi\" you control is Tributed, while this card is in your GY: You can shuffle this card into the Deck. You can only use each effect of \"Mitsurugi Mirror\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Ame no Habakiri no Mitsurugi",
+        "Ame no Murakumo no Mitsurugi",
+        "Futsu no Mitama no Mitsurugi",
+        "Mitsurugi Magatama",
+        "Mitsurugi no Mikoto, Aramasa",
+        "Mitsurugi no Mikoto, Kusanagi",
+        "Mitsurugi no Mikoto, Saji",
+        "Mitsurugi Prayers",
+        "Mitsurugi Sacred Boundary",
+        "Mitsurugi Tempest"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Fragrance Storm",
+    "filename": "Fragrance_Storm",
+    "card_text": "Target 1 Plant monster on the field; destroy that target, and if you do, draw 1 card, then if that card is a Plant monster, you can reveal it and draw 1 more card.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "CROSSROADS OF CHAOS",
+        "Legendary 5D's Decks"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

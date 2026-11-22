@@ -1,0 +1,13 @@
+{
+    "name": "Dragon Shield",
+    "filename": "Dragon_Shield",
+    "card_text": "Equip only to a Dragon-Type monster. It cannot be destroyed by battle or by card effects. Neither player takes any battle damage from attacks involving it.",
+    "release_date": "2013-09-23",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT DELUXE EDITION",
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

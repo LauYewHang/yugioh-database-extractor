@@ -1,0 +1,17 @@
+{
+    "name": "Sorcerer of the Doomed",
+    "filename": "Sorcerer_of_the_Doomed",
+    "card_text": "A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1450,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

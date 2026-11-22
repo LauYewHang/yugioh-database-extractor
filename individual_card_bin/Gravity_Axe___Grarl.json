@@ -1,0 +1,22 @@
+{
+    "name": "Gravity Axe - Grarl",
+    "filename": "Gravity_Axe___Grarl",
+    "card_text": "The equipped monster gains 500 ATK. Monsters your opponent controls cannot change their battle positions.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "STARTER DECK XYZ SYMPHONY",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "2-PLAYER STARTER SET",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL: SCARS OF BATTLE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Guardian Grarl"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

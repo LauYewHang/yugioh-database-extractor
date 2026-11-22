@@ -27,7 +27,10 @@
     "attack": 2400,
     "defense": 1800,
     "monster_type": "Reptile",
-    "monster_card_type": 6,
+    "monster_card_type": [
+        "Ritual",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8
 }

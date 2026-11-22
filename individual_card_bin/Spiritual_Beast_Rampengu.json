@@ -1,0 +1,42 @@
+{
+    "name": "Spiritual Beast Rampengu",
+    "filename": "Spiritual_Beast_Rampengu",
+    "card_text": "Once per turn, during your Main Phase: You can banish 1 \"Ritual Beast\" monster from your Extra Deck and send 1 \"Ritual Beast\" monster with the same Type as that monster from your Deck to the GY. You can only Special Summon \"Spiritual Beast Rampengu(s)\" once per turn.",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "ASTRAL PACK EIGHT",
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "Ritual Beast Ambush",
+        "Ritual Beast Inheritance",
+        "Ritual Beast Return",
+        "Ritual Beast Steeds",
+        "Ritual Beast Tamer Elder",
+        "Ritual Beast Tamer Lara",
+        "Ritual Beast Tamer Wen",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Ritual Beast Ulti-Apelio",
+        "Ritual Beast Ulti-Cannahawk",
+        "Ritual Beast Ulti-Gaiapelio",
+        "Ritual Beast Ulti-Kimunfalcos",
+        "Ritual Beast Ulti-Nochiudrago",
+        "Ritual Beast Ulti-Pettlephin",
+        "Ritual Beast Ulti-Reirautari",
+        "Ritual Beast's Bond",
+        "Spiritual Beast Apelio",
+        "Spiritual Beast Cannahawk",
+        "Spiritual Beast Pettlephin",
+        "Spiritual Beast Tamer Lara",
+        "Spiritual Beast Tamer Winda"
+    ],
+    "attribute": "WIND",
+    "attack": 1600,
+    "defense": 400,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

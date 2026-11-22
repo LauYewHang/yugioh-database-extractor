@@ -1,0 +1,31 @@
+{
+    "name": "Zubaba General",
+    "filename": "Zubaba_General",
+    "card_text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; equip 1 Warrior-Type monster from your hand to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.",
+    "release_date": "2013-07-09",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "SHONEN JUMP membership Promotional Card - July 2013 -",
+        "WING RAIDERS"
+    ],
+    "related_card": [
+        "Dodododo Warrior",
+        "Dodododwarf Gogogoglove",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Onomatokage",
+        "Onomatopaira",
+        "Onomatopia",
+        "Onomatopickup",
+        "Utopic Onomatopoeia",
+        "Zubababa Knight",
+        "Zubababancho Gagagacoat"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

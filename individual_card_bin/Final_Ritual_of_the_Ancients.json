@@ -1,0 +1,15 @@
+{
+    "name": "Final Ritual of the Ancients",
+    "filename": "Final_Ritual_of_the_Ancients",
+    "card_text": "This card is used to Ritual Summon \"Reshef the Dark Being\". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 3",
+        "THE LOST MILLENNIUM"
+    ],
+    "related_card": [
+        "Reshef the Dark Being"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

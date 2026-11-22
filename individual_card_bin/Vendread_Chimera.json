@@ -1,0 +1,40 @@
+{
+    "name": "Vendread Chimera",
+    "filename": "Vendread_Chimera",
+    "card_text": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. When a card or effect is activated that would destroy a card on the field (Quick Effect): You can banish 1 Zombie monster from your GY; negate the activation, and if you do, destroy that card. If this card is Tributed, or banished, for a Ritual Summon: All monsters your opponent controls lose 500 ATK/DEF. You can only use each effect of \"Vendread Chimera\" once per turn.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [
+        "Avendread Savior",
+        "Ravenous Vendread",
+        "Revendread Evolution",
+        "Revendread Executor",
+        "Revendread Origin",
+        "Revendread Slayer",
+        "Scar of the Vendread",
+        "Vendread Anima",
+        "Vendread Battlelord",
+        "Vendread Charge",
+        "Vendread Core",
+        "Vendread Daybreak",
+        "Vendread Houndhorde",
+        "Vendread Nightmare",
+        "Vendread Nights",
+        "Vendread Reorigin",
+        "Vendread Reunion",
+        "Vendread Revenants",
+        "Vendread Revolution",
+        "Vendread Scavenger",
+        "Vendread Striges"
+    ],
+    "attribute": "DARK",
+    "attack": 2300,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

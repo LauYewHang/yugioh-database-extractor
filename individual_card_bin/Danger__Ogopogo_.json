@@ -1,0 +1,35 @@
+{
+    "name": "Danger! Ogopogo!",
+    "filename": "Danger__Ogopogo_",
+    "card_text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Ogopogo!\", Special Summon 1 \"Danger! Ogopogo!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can send 1 \"Danger!\" card from your Deck to the GY, except \"Danger! Ogopogo!\". You can only use this effect of \"Danger! Ogopogo!\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Danger! Bigfoot!",
+        "Danger! Chupacabra!",
+        "Danger! Disturbance! Disorder!",
+        "Danger! Dogman!",
+        "Danger! Excitement! Mystery!",
+        "Danger! Feets of Strength!",
+        "Danger! Mothman!",
+        "Danger! Nessie!",
+        "Danger! Response Team",
+        "Danger! Thunderbird!",
+        "Danger! Zone",
+        "Danger!? Jackalope?",
+        "Danger!? Tsuchinoko?",
+        "Realm of Danger!",
+        "Second Expedition into Danger!",
+        "You're in Danger!"
+    ],
+    "attribute": "DARK",
+    "attack": 1200,
+    "defense": 3000,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

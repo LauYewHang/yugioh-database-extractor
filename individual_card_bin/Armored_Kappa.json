@@ -1,0 +1,17 @@
+{
+    "name": "Armored Kappa",
+    "filename": "Armored_Kappa",
+    "card_text": "2 Level 2 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 1000 ATK or DEF. During either player's Battle Step, while an attack involving your monster is occurring: You can discard 1 card; for the rest of this turn, monsters you control cannot be destroyed by battle, also you take no battle damage. You can only use this effect of \"Armored Kappa\" once per Duel.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 400,
+    "defense": 1000,
+    "monster_type": "Psychic",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 2
+}

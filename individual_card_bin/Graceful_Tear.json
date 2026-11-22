@@ -1,0 +1,13 @@
+{
+    "name": "Graceful Tear",
+    "filename": "Graceful_Tear",
+    "card_text": "Add 1 card from your hand to your opponent's hand, then gain 2000 LP.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Starliege Paladynamo",
+    "filename": "Starliege_Paladynamo",
+    "card_text": "2 Level 4 LIGHT monsters\nOnce per turn: You can detach 2 Xyz Materials from this card, then target 1 face-up monster your opponent controls; change its ATK to 0, and if you do, it has its effects negated. If this card you control is destroyed by an opponent's card (by battle or card effect) and sent to your GY: Draw 1 card.",
+    "release_date": "2013-03-08",
+    "available_set": [
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -",
+        "ZEXAL COLLECTION TIN",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

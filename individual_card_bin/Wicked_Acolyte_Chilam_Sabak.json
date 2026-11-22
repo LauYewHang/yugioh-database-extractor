@@ -1,0 +1,18 @@
+{
+    "name": "Wicked Acolyte Chilam Sabak",
+    "filename": "Wicked_Acolyte_Chilam_Sabak",
+    "card_text": "If you have 5 or more cards in your hand, you can Normal Summon this card without Tributing. When this card is destroyed by battle and sent to the GY: You can Special Summon this card in Defense Position, and if you do, it is treated as a Tuner. You can only use this effect of \"Wicked Acolyte Chilam Sabak\" once per turn.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

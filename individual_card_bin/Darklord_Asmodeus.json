@@ -1,0 +1,41 @@
+{
+    "name": "Darklord Asmodeus",
+    "filename": "Darklord_Asmodeus",
+    "card_text": "Cannot be Special Summoned from the Deck or Graveyard. Once per turn: You can send 1 Fairy-Type monster from your Deck to the Graveyard. If this card you control is destroyed and sent to your Graveyard: Special Summon 1 \"Asmo Token\" (Fairy-Type/DARK/Level 5/ATK 1800/DEF 1300) and 1 \"Deus Token\" (Fairy-Type/DARK/Level 3/ATK 1200/DEF 1200). \"Asmo Token\" cannot be destroyed by card effects. \"Deus Token\" cannot be destroyed by battle.",
+    "release_date": "2010-05-15",
+    "available_set": [
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2010",
+        "DESTINY SOLDIERS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS"
+    ],
+    "related_card": [
+        "Banishment of the Darklords",
+        "Condemned Darklord",
+        "Darklord Amdusc",
+        "Darklord Contact",
+        "Darklord Dance",
+        "Darklord Descent",
+        "Darklord Djehuty",
+        "Darklord Enchantment",
+        "Darklord Eveningstar",
+        "Darklord Gulgolet",
+        "Darklord Ixchel",
+        "Darklord Morningstar",
+        "Darklord Nasten",
+        "Darklord Nergal",
+        "Darklord Rebellion",
+        "Darklord Tezcatlipoca",
+        "Darklord Ukoback",
+        "Darklord Uprising",
+        "Fallen Angel in Darkness",
+        "Indulged Darklord",
+        "The Sanctified Darklord"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

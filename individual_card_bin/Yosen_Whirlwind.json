@@ -1,0 +1,31 @@
+{
+    "name": "Yosen Whirlwind",
+    "filename": "Yosen_Whirlwind",
+    "card_text": "Activate this card by paying 800 LP. Once per turn, if a face-up \"Yosenju\" monster you control returns to the hand (except during the Damage Step): You can target 1 card your opponent controls; return it to the hand. During your End Phase, unless this effect was activated this turn (and was not negated), destroy this card.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "Mayosenju Daibak",
+        "Mayosenju Hitot",
+        "Yosenju Izna",
+        "Yosenju Kama 1",
+        "Yosenju Kama 2",
+        "Yosenju Kama 3",
+        "Yosenju Kodam",
+        "Yosenju Magat",
+        "Yosenju Misak",
+        "Yosenju Oroshi Channeling",
+        "Yosenju Oyam",
+        "Yosenju Sabu",
+        "Yosenju Shinchu L",
+        "Yosenju Shinchu R",
+        "Yosenju Tsujik",
+        "Yosenju Wind Worship",
+        "Yosenjus' Secret Move",
+        "Yosenjus' Sword Sting"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

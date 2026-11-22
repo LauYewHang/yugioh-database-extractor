@@ -1,0 +1,33 @@
+{
+    "name": "Krawler Ranvier",
+    "filename": "Krawler_Ranvier",
+    "card_text": "FLIP: You can target up to 2 \"Krawler\" monsters in your GY; add them to your hand.\nIf this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Krawler\" monsters with different names from your Deck in face-down Defense Position, except \"Krawler Ranvier\". You can only use each effect of \"Krawler Ranvier\" once per turn.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [
+        "Crusadia Krawler",
+        "Deus X-Krawler",
+        "Krawler Axon",
+        "Krawler Dendrite",
+        "Krawler Glial",
+        "Krawler Receptor",
+        "Krawler Soma",
+        "Krawler Spine",
+        "World Legacy in Shadow",
+        "World Legacy Pawns",
+        "World Legacy Survivor",
+        "World Legacy's Mind Meld",
+        "X-Krawler Neurogos",
+        "X-Krawler Qualiark",
+        "X-Krawler Synaphysis"
+    ],
+    "attribute": "EARTH",
+    "attack": 1100,
+    "defense": 900,
+    "monster_type": "Insect",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Steelswarm Sting",
+    "filename": "Steelswarm_Sting",
+    "card_text": "When this card you control is sent to your Graveyard: Target 1 face-up Ritual, Fusion or Synchro Monster on the field; destroy that target.",
+    "release_date": "2012-02-03",
+    "available_set": [
+        "DUEL TERMINAL 6A",
+        "HIDDEN ARSENAL 6 OMEGA XYZ"
+    ],
+    "related_card": [
+        "Evilswarm Bahamut",
+        "Evilswarm Castor",
+        "Evilswarm Kerykeion",
+        "Evilswarm Ophion",
+        "First Step Towards Infestation",
+        "Infestation Infection",
+        "Infestation Pandemic",
+        "Infestation Ripples",
+        "Infestation Terminus",
+        "Infestation Tool",
+        "Infestation Wave",
+        "Steelswarm Caller",
+        "Steelswarm Caucastag",
+        "Steelswarm Cell",
+        "Steelswarm Gatekeeper",
+        "Steelswarm Genome",
+        "Steelswarm Girastag",
+        "Steelswarm Hercules",
+        "Steelswarm Longhorn",
+        "Steelswarm Mantis",
+        "Steelswarm Moth",
+        "Steelswarm Origin",
+        "Steelswarm Scout"
+    ],
+    "attribute": "DARK",
+    "attack": 1850,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

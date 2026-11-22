@@ -1,0 +1,21 @@
+{
+    "name": "Xyz Bento",
+    "filename": "Xyz_Bento",
+    "card_text": "If a monster(s) your opponent controls is destroyed by battle or sent to the GY: You can target 1 Xyz Monster you control; attach 1 monster from your opponent's GY to that monster as material. You can banish this card from your GY, then target 1 monster on the field Special Summoned from the Extra Deck; change its battle position.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

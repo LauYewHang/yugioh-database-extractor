@@ -1,0 +1,32 @@
+{
+    "name": "Invocation - \"Sword\"",
+    "filename": "Invocation____Sword_",
+    "card_text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control. If Summoning an \"Invoked\" Fusion Monster this way, you can also return monsters from any banishment to the GY as material. During your Main Phase, if this card is in your GY: You can target 1 \"Aleister\" monster or \"Invocation\" in your GY; shuffle this card into the Deck, and if you do, add that target to your hand. You can only use each effect of \"Invocation - \"Sword\"\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Aleister the Invoker",
+        "Aleister the Invoker of Madness",
+        "Aleister the Reminiscent",
+        "Hyperinvoked Aeon",
+        "Invocation",
+        "Invoked Augoeides",
+        "Invoked Baybarron",
+        "Invoked Caliga",
+        "Invoked Cocytus",
+        "Invoked De Anima",
+        "Invoked Elysium",
+        "Invoked Magellanica",
+        "Invoked Magistus Omega",
+        "Invoked Mechaba",
+        "Invoked Oceanus",
+        "Invoked Purgatrio",
+        "Invoked Raidjin",
+        "Invoked Sorath",
+        "Virakam, the Divine Spirit of Artifice"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Incandescent Ordeal",
+    "filename": "Incandescent_Ordeal",
+    "card_text": "This card is used to Ritual Summon \"Legendary Flame Lord\". You must also Tribute monsters whose total Levels equal 7 or more from the field or your hand.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS",
+        "DARK CRISIS (Reprint)"
+    ],
+    "related_card": [
+        "Legendary Flame Lord"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

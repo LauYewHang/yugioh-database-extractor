@@ -1,0 +1,38 @@
+{
+    "name": "Gogogo Goram",
+    "filename": "Gogogo_Goram",
+    "card_text": "If this card is Summoned: Change the battle position of this card. If this card on the field is destroyed and sent to the Graveyard: Send 1 \"Gogogo\" monster from your Deck to the Graveyard.",
+    "release_date": "2014-11-07",
+    "available_set": [
+        "THE NEW CHALLENGERS"
+    ],
+    "related_card": [
+        "Dodododwarf Gogogoglove",
+        "Gagaga Ganbara Knight",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Gogogo Aristera & Dexia",
+        "Gogogo Ghost",
+        "Gogogo Giant",
+        "Gogogo Gigas",
+        "Gogogo Goblindbergh",
+        "Gogogo Golem",
+        "Gogogo Golem - Golden Form",
+        "Gogogo Talisman",
+        "Guard Go!",
+        "Number 55: Gogogo Goliath",
+        "Onomatokage",
+        "Onomatopaira",
+        "Onomatopia",
+        "Onomatopickup",
+        "Utopic Onomatopoeia",
+        "Zubababancho Gagagacoat"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 0,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

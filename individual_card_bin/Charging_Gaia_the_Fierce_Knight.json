@@ -1,0 +1,42 @@
+{
+    "name": "Charging Gaia the Fierce Knight",
+    "filename": "Charging_Gaia_the_Fierce_Knight",
+    "card_text": "You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, its original ATK becomes 1900. If this card is Tributed: You can add 1 \"Black Luster Soldier\" monster from your Deck to your hand. You can only use this effect of \"Charging Gaia the Fierce Knight\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM"
+    ],
+    "related_card": [
+        "Artillery Catapult Turtle",
+        "Beginning of Heaven and Earth",
+        "Black Luster Soldier",
+        "Black Luster Soldier - Envoy of the Beginning",
+        "Black Luster Soldier - Envoy of the Evening Twilight",
+        "Black Luster Soldier - Legendary Swordsman",
+        "Black Luster Soldier - Sacred Soldier",
+        "Black Luster Soldier - Soldier of Chaos",
+        "Black Luster Soldier - Soldier of Light and Darkness",
+        "Black Luster Soldier - Super Soldier",
+        "Envoy of Chaos",
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight",
+        "Gaia the Magical Knight of Dragons",
+        "Galloping Gaia",
+        "Gateway to Chaos",
+        "Skilled Blue Magician",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Spiral Spear Strike",
+        "Super Soldier Soul",
+        "Toon Black Luster Soldier"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Succumbing-Song Morganite",
+    "filename": "Succumbing_Song_Morganite",
+    "card_text": "For the rest of this Duel, apply the following effects.\n\u25cfYou cannot activate monster effects in the hand.\n\u25cfMonsters you control can make up to 2 attacks on monsters during each Battle Phase.\n\u25cfIf your monster battles an opponent's monster, any battle damage it inflicts to your opponent is doubled.\nYou can banish this card from your GY; add 1 \"Morganite\" card from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS"
+    ],
+    "related_card": [
+        "Guilt-Gripping Morganite",
+        "Morgana the Witch of Eyes",
+        "Time-Tearing Morganite"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

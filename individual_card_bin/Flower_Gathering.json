@@ -1,0 +1,31 @@
+{
+    "name": "Flower Gathering",
+    "filename": "Flower_Gathering",
+    "card_text": "Special Summon 4 \"Flower Cardian\" monsters with 100 ATK and different names from your Deck in Attack Position, but their effects are negated, also they cannot be Tributed for a Tribute Summon. You can only activate 1 \"Flower Gathering\" per turn. You cannot Normal or Special Summon other monsters during the turn you activate this card, except \"Flower Cardian\" monsters.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Flower Cardian Boardefly",
+        "Flower Cardian Cherry Blossom",
+        "Flower Cardian Cherry Blossom with Curtain",
+        "Flower Cardian Clover with Boar",
+        "Flower Cardian Lightflare",
+        "Flower Cardian Lightshower",
+        "Flower Cardian Maple with Deer",
+        "Flower Cardian Moonflowerviewing",
+        "Flower Cardian Paulownia",
+        "Flower Cardian Paulownia with Phoenix",
+        "Flower Cardian Peony with Butterfly",
+        "Flower Cardian Pine",
+        "Flower Cardian Pine with Crane",
+        "Flower Cardian Willow",
+        "Flower Cardian Willow with Calligrapher",
+        "Flower Cardian Zebra Grass",
+        "Flower Cardian Zebra Grass with Moon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

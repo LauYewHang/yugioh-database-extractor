@@ -1,0 +1,13 @@
+{
+    "name": "Psychic Eraser Laser",
+    "filename": "Psychic_Eraser_Laser",
+    "card_text": "Send 1 monster your opponent controls that was Special Summoned from the Extra Deck to the GY, then your opponent gains LP equal to the original ATK or DEF of that monster (whichever is higher). You can only activate 1 \"Psychic Eraser Laser\" per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

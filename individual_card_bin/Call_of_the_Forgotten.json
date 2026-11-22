@@ -1,0 +1,17 @@
+{
+    "name": "Call of the Forgotten",
+    "filename": "Call_of_the_Forgotten",
+    "card_text": "When this card is activated: You can Set up to 3 \"Call of the Haunted\" from your Deck and/or GY, and if you do, until the end of your opponent's turn, you cannot Special Summon, except Zombie monsters, or monsters from the GY. Once per turn, if you activate \"Call of the Haunted\": You can target 1 monster your opponent controls; send it to the GY. You can only activate 1 \"Call of the Forgotten\" per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Call of the Haunted",
+        "Ectoplasmic Fortification",
+        "Pumpking the Great Ghost King",
+        "Stare of the Snake Hair"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

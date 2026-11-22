@@ -1,0 +1,14 @@
+{
+    "name": "Red Reign",
+    "filename": "Red_Reign",
+    "card_text": "If you control a Level 8 or higher Synchro Monster: Banish all monsters on the field, except the monster(s) with the highest Level, also the remaining face-up monsters on the field are unaffected by other card effects, except their own, until the end of this turn. If a DARK Dragon Synchro Monster is Synchro Summoned to your field while this card is in your GY: You can add this card to your hand. You can only use this effect of \"Red Reign\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "ETERNITY CODE",
+        "STRUCTURE DECK: THE CRIMSON KING"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

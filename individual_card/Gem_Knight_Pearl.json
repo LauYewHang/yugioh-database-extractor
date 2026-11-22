@@ -51,7 +51,9 @@
     "attack": 2600,
     "defense": 1900,
     "monster_type": "Rock",
-    "monster_card_type": 32,
+    "monster_card_type": [
+        "Xyz"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 4
 }

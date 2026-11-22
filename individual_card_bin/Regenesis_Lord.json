@@ -1,0 +1,28 @@
+{
+    "name": "Regenesis Lord",
+    "filename": "Regenesis_Lord",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 face-up monster you control with 2500 original ATK and DEF. You can only Special Summon \"Regenesis Lord\" once per turn this way. If this card is Special Summoned: You can Set 1 \"Regenesis\" Spell/Trap from your Deck. Gains 2500 ATK during the Battle Phase only. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [
+        "Regenesis",
+        "Regenesis Archfiend",
+        "Regenesis Birth",
+        "Regenesis Code",
+        "Regenesis Commands",
+        "Regenesis Cycle",
+        "Regenesis Dragon",
+        "Regenesis Overlord",
+        "Regenesis Sage",
+        "Regenesis Warrior"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Illusion",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Maha Vailo",
+    "filename": "Maha_Vailo",
+    "card_text": "Gains 500 ATK for each Equip Card equipped to this card.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "DARK LEGENDS",
+        "STARTER DECK JOEY",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "DUEL TERMINAL 5A",
+        "DARK BEGINNING 1",
+        "Speed Duel: Battle City Box",
+        "RETRO PACK",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "STARTER DECK SABER FORCE (US)",
+        "SPELL RULER",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1550,
+    "defense": 1400,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

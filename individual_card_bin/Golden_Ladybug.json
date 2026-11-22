@@ -1,0 +1,20 @@
+{
+    "name": "Golden Ladybug",
+    "filename": "Golden_Ladybug",
+    "card_text": "During your Standby Phase: You can reveal this card in your hand, and it will remain revealed until the end of this turn; gain 500 LP.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "DUEL TERMINAL 3",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

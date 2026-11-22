@@ -1,0 +1,18 @@
+{
+    "name": "Chaos Witch",
+    "filename": "Chaos_Witch",
+    "card_text": "You can Tribute this card; Special Summon 2 \"Dark Beast Tokens\" (Fiend/DARK/Level 2/ATK 1000/DEF 500). If this card is banished from the hand or GY: You can Special Summon 2 \"Light Beast Tokens\" (Fairy/Tuner/LIGHT/Level 2/ATK 500/DEF 1000). You can only use 1 \"Chaos Witch\" effect per turn, and only once that turn, also you cannot Special Summon monsters from the Extra Deck, except LIGHT or DARK Synchro Monsters, the turn you activate either effect.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

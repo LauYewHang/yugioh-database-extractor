@@ -1,0 +1,32 @@
+{
+    "name": "Magnet Warrior Omega Plus",
+    "filename": "Magnet_Warrior_Omega_Plus",
+    "card_text": "If this card is in your hand or GY: You can destroy 1 other Rock monster in your hand or face-up field, and if you do, Special Summon this card, but banish it when it leaves the field. When an EARTH monster's effect is activated on the field (Quick Effect): You can Tribute this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can only use each effect of \"Magnet Warrior Omega Plus\" once per turn.",
+    "release_date": "2026-02-20",
+    "available_set": [
+        "MAZE OF MUERTOS"
+    ],
+    "related_card": [
+        "Alpha The Electromagnet Warrior",
+        "Berserkion the Electromagna Warrior",
+        "Beta The Electromagnet Warrior",
+        "Conduction Warrior Linear Magnum Plus Minus",
+        "Conduction Warrior Plasma Magnum",
+        "Delta The Magnet Warrior",
+        "Epsilon The Magnet Warrior",
+        "Gamma The Electromagnet Warrior",
+        "Magnet Bonding",
+        "Magnet Conversion",
+        "Magnet Induction",
+        "Magnet Warrior Sigma Minus",
+        "Magnet Warrior Sigma Plus",
+        "Magnetic Field"
+    ],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 1900,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

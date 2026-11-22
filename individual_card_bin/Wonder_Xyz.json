@@ -1,0 +1,22 @@
+{
+    "name": "Wonder Xyz",
+    "filename": "Wonder_Xyz",
+    "card_text": "Immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control as Materials.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

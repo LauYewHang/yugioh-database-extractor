@@ -1,0 +1,18 @@
+{
+    "name": "Zalamander Catalyzer",
+    "filename": "Zalamander_Catalyzer",
+    "card_text": "You can reveal this card and 1 Fiend monster in your hand; Special Summon 1 of them and discard the other. When a monster is destroyed by battle involving your Fiend monster, while this card is in your GY: You can add this card to your hand. You can only use each effect of \"Zalamander Catalyzer\" once per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 200,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

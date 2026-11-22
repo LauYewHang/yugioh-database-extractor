@@ -1,0 +1,20 @@
+{
+    "name": "Terratiger, the Empowered Warrior",
+    "filename": "Terratiger__the_Empowered_Warrior",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Normal Monster from your hand in Defense Position.",
+    "release_date": "2014-07-11",
+    "available_set": [
+        "SUPER STARTER SPACE-TIME SHOWDOWN"
+    ],
+    "related_card": [
+        "Aether, the Evil Empowering Dragon",
+        "Empowerment"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Goblin Recon Squad",
+    "filename": "Goblin_Recon_Squad",
+    "card_text": "If this card successfully attacks directly, you can look at 1 random card in your opponent's hand. If it is a Spell Card, send it to the Graveyard. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "attribute": "WIND",
+    "attack": 1700,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

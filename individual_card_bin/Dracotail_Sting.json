@@ -1,0 +1,27 @@
+{
+    "name": "Dracotail Sting",
+    "filename": "Dracotail_Sting",
+    "card_text": "Target 1 monster and/or 1 Spell/Trap in your opponent's GY; banish them, then you can place 1 \"Dracotail\" card from your GY or banishment on the bottom of your Deck, except \"Dracotail Sting\", then draw 1 card. You can only activate 1 \"Dracotail Sting\" per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Dracotail Arthalion",
+        "Dracotail Faimena",
+        "Dracotail Flame",
+        "Dracotail Gulamel",
+        "Dracotail Horn",
+        "Dracotail Lukias",
+        "Dracotail Mululu",
+        "Dracotail Pan",
+        "Dracotail Phryxul",
+        "Dracotail Shaulas",
+        "Dracotail Urgula",
+        "Ketu Dracotail",
+        "Rahu Dracotail"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

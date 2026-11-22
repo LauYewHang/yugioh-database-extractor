@@ -1,0 +1,42 @@
+{
+    "name": "Iron Core Armor",
+    "filename": "Iron_Core_Armor",
+    "card_text": "Equip only to a \"Koa'ki Meiru\" monster. During damage calculation only, monsters that battle with the equipped monster lose ATK equal to the equipped monster's Level x 100. If the equipped monster would be destroyed during the End Phase, you can send this card to the Graveyard instead.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Diamond Core of Koa'ki Meiru",
+        "Iron Core of Koa'ki Meiru",
+        "Koa'ki Meiru Beetle",
+        "Koa'ki Meiru Bergzak",
+        "Koa'ki Meiru Boulder",
+        "Koa'ki Meiru Crusader",
+        "Koa'ki Meiru Doom",
+        "Koa'ki Meiru Drago",
+        "Koa'ki Meiru Ghoulungulate",
+        "Koa'ki Meiru Gravirose",
+        "Koa'ki Meiru Guardian",
+        "Koa'ki Meiru Hydro Barrier",
+        "Koa'ki Meiru Ice",
+        "Koa'ki Meiru Initialize!",
+        "Koa'ki Meiru Maximus",
+        "Koa'ki Meiru Overload",
+        "Koa'ki Meiru Powerhand",
+        "Koa'ki Meiru Prototype",
+        "Koa'ki Meiru Rooklord",
+        "Koa'ki Meiru Sandman",
+        "Koa'ki Meiru Sea Panther",
+        "Koa'ki Meiru Shield",
+        "Koa'ki Meiru Speeder",
+        "Koa'ki Meiru Supplier",
+        "Koa'ki Meiru Tornado",
+        "Koa'ki Meiru Urnight",
+        "Koa'ki Meiru Valafar",
+        "Koa'ki Meiru Wall",
+        "Koa'ki Meiru War Arms"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

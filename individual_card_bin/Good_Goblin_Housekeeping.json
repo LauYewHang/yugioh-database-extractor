@@ -1,0 +1,28 @@
+{
+    "name": "Good Goblin Housekeeping",
+    "filename": "Good_Goblin_Housekeeping",
+    "card_text": "Draw cards equal to the number of \"Good Goblin Housekeeping\" cards in your Graveyard +1, then select 1 card from your hand and return it to the bottom of your Deck.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [
+        "Goblin Biker Big Gabonga",
+        "Goblin Biker Clatter Sploder",
+        "Goblin Biker Grand Bash",
+        "Goblin Biker Grand Breakout",
+        "Goblin Biker Grand Crisis",
+        "Goblin Biker Grand Entrance",
+        "Goblin Biker Grand Pileup",
+        "Goblin Biker Grand Stampede",
+        "Goblin Biker Mean Merciless",
+        "Goblin Biker Troika Griare",
+        "Goblin Bikers Gone Bonkers",
+        "Goblin Bikers Gone Wild",
+        "Goblin's Crazy Beast",
+        "Scrounging Goblin"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Couple of Aces",
+    "filename": "Couple_of_Aces",
+    "card_text": "If this card is in your hand: You can toss a coin and if the result is heads, Special Summon this card to your field, or if the result is tails, Special Summon this card to your opponent's field. You can only use this effect of \"Couple of Aces\" once per turn. If this card is Special Summoned by its effect: Draw 2 cards.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

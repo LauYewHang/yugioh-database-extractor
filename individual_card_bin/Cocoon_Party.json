@@ -1,0 +1,27 @@
+{
+    "name": "Cocoon Party",
+    "filename": "Cocoon_Party",
+    "card_text": "Special Summon 1 \"Chrysalis\" monster from your Deck for each \"Neo-Spacian\" monster with a different name in your Graveyard.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Chrysalis Chicky",
+        "Chrysalis Dolphin",
+        "Chrysalis Larva",
+        "Chrysalis Mole",
+        "Chrysalis Pantail",
+        "Chrysalis Pinny",
+        "Neo-Spacian Air Hummingbird",
+        "Neo-Spacian Aqua Dolphin",
+        "Neo-Spacian Dark Panther",
+        "Neo-Spacian Flare Scarab",
+        "Neo-Spacian Glow Moss",
+        "Neo-Spacian Grand Mole",
+        "Neo-Spacian Marine Dolphin",
+        "Neo-Spacian Twinkle Moss"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

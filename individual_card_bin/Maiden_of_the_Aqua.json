@@ -1,0 +1,36 @@
+{
+    "name": "Maiden of the Aqua",
+    "filename": "Maiden_of_the_Aqua",
+    "card_text": "While there is no face-up Field Spell, the field is treated as \"Umi\".",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "attribute": "WATER",
+    "attack": 700,
+    "defense": 2000,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

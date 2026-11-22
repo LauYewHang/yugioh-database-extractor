@@ -1,0 +1,18 @@
+{
+    "name": "Fantastic Striborg",
+    "filename": "Fantastic_Striborg",
+    "card_text": "Monsters Tributed for the face-up Tribute Summon of this card are returned to the hand instead of going to the GY. Once per turn: You can discard 1 card; return all cards your opponent controls in this card's column to the hand.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2200,
+    "defense": 2200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

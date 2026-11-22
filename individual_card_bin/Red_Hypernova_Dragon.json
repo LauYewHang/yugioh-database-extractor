@@ -1,0 +1,19 @@
+{
+    "name": "Red Hypernova Dragon",
+    "filename": "Red_Hypernova_Dragon",
+    "card_text": "4 Tuners + 1+ non-Tuner Synchro Monsters\nMust first be Synchro Summoned with the above materials. Gains 500 ATK for each Tuner in your GY. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. Once per turn (Quick Effect): You can banish this card, also banish as many cards in your opponent's field and GY as possible, then you can Special Summon 1 \"Red Nova Dragon\" from your Extra Deck (this is treated as a Synchro Summon).",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Red Nova Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 4500,
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

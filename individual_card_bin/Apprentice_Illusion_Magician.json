@@ -1,0 +1,38 @@
+{
+    "name": "Apprentice Illusion Magician",
+    "filename": "Apprentice_Illusion_Magician",
+    "card_text": "You can Special Summon this card (from your hand) by discarding 1 card. If this card is Normal or Special Summoned: You can add 1 \"Dark Magician\" from your Deck to your hand. During damage calculation, if your other DARK Spellcaster monster battles an opponent's monster (Quick Effect): You can send this card from your hand or face-up field to the GY; that monster you control gains 2000 ATK/DEF during that damage calculation only.",
+    "release_date": "2017-05-01",
+    "available_set": [
+        "Shonen Jump Scholastic Edition",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "SHONEN JUMP membership Promotional Card - May 2017 -",
+        "LEGENDARY DRAGON DECKS",
+        "LEGENDARY DUELISTS: MAGICAL HERO",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1700,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

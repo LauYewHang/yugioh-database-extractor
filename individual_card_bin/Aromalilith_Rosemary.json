@@ -1,0 +1,38 @@
+{
+    "name": "Aromalilith Rosemary",
+    "filename": "Aromalilith_Rosemary",
+    "card_text": "2+ Plant monsters\nIf this card is Special Summoned: You can add 1 \"Aroma\" card from your Deck to your hand. If you gain LP, even during the Damage Step: You can Special Summon up to 3 \"Aroma\" monsters from your hand to your zones this card points to. You can Tribute 1 monster this card points to, then target 1 card on the field; banish it, and if you do, gain 1000 LP. You can only use each effect of \"Aromalilith Rosemary\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE"
+    ],
+    "related_card": [
+        "Aroma Blend",
+        "Aroma Garden",
+        "Aroma Gardening",
+        "Aroma Healing",
+        "Aroma Jar",
+        "Aromage Bergamot",
+        "Aromage Cananga",
+        "Aromage Jasmine",
+        "Aromage Laurel",
+        "Aromage Marjoram",
+        "Aromage Rosemary",
+        "Aromalilith Magnolia",
+        "Aromalilith Rosalina",
+        "Aromaseraphy Angelica",
+        "Aromaseraphy Jasmine",
+        "Aromaseraphy Rosemary",
+        "Aromaseraphy Sweet Marjoram",
+        "Blessed Winds",
+        "Dried Winds",
+        "Humid Winds"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": null,
+    "monster_type": "Plant",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 14
+}

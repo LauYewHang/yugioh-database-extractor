@@ -27,7 +27,10 @@
     "attack": 500,
     "defense": 500,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "During your Main Phase: You can Special Summon this card to your Main Monster Zone in its same column, also you cannot Special Summon non-\"Vaylantz\" monsters for the rest of this turn, except from the Extra Deck. You can only use this effect of \"Shinonome the Vaylantz Priestess\" once per turn.",

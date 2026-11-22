@@ -1,0 +1,27 @@
+{
+    "name": "Melomelody the Brass Djinn",
+    "filename": "Melomelody_the_Brass_Djinn",
+    "card_text": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 \"Djinn\" Xyz Monster you control; it can make a second attack during each Battle Phase this turn.",
+    "release_date": "2012-04-17",
+    "available_set": [
+        "STARTER DECK XYZ SYMPHONY",
+        "STAR PACK 2014"
+    ],
+    "related_card": [
+        "CXyz Mechquipped Djinn Angeneral",
+        "Gagaga Magician - Gagaga Magic",
+        "Humhumming the Key Djinn",
+        "Maestroke the Symphony Djinn",
+        "Muzurhythm the String Djinn",
+        "Number 65: Djinn Buster",
+        "Queen Dragun Djinn",
+        "Temtempo the Percussion Djinn"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1600,
+    "monster_type": "Fiend",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

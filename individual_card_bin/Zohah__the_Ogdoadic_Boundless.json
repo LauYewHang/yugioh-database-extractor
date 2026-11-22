@@ -1,0 +1,33 @@
+{
+    "name": "Zohah, the Ogdoadic Boundless",
+    "filename": "Zohah__the_Ogdoadic_Boundless",
+    "card_text": "If this card is sent from the field to the GY, or Special Summoned from the GY: You can activate this effect; your opponent draws 1 card, and if they do, you add 1 \"Ogdoadic\" monster from your Deck to your hand, except \"Zohah, the Ogdoadic Boundless\", then, each player sends 1 card from their hand to the GY. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Zohah, the Ogdoadic Boundless\" once per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Aleirtt, the Ogdoadic Dark",
+        "Amunessia, the Ogdoadic Queen",
+        "Aron, the Ogdoadic King",
+        "Flogos, the Ogdoadic Boundless",
+        "Keurse, the Ogdoadic Light",
+        "Nauya, the Ogdoadic Remnant",
+        "Nephilabyss, the Ogdoadic Overlord",
+        "Nunu, the Ogdoadic Remnant",
+        "Ogdoabyss, the Ogdoadic Overlord",
+        "Ogdoadic Calling",
+        "Ogdoadic Daybreak",
+        "Ogdoadic Hollow",
+        "Ogdoadic Origin",
+        "Ogdoadic Serpent Strike",
+        "Ogdoadic Water Lily"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1700,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

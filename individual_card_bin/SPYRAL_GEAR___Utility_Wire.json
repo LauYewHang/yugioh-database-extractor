@@ -1,0 +1,27 @@
+{
+    "name": "SPYRAL GEAR - Utility Wire",
+    "filename": "SPYRAL_GEAR___Utility_Wire",
+    "card_text": "If you control \"SPYRAL Super Agent\": Target 1 face-up card your opponent controls; place it on top of the Deck. You can only activate 1 \"SPYRAL GEAR - Utility Wire\" per turn.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "SPYRAL Double Agent",
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

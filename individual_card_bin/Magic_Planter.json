@@ -1,0 +1,17 @@
+{
+    "name": "Magic Planter",
+    "filename": "Magic_Planter",
+    "card_text": "Send 1 face-up Continuous Trap you control to the GY; draw 2 cards.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "VALIANT SMASHERS",
+        "MAZE OF MUERTOS",
+        "RAGING BATTLE",
+        "SHADOWS IN VALHALLA",
+        "STRUCTURE DECK: SOULBURNER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

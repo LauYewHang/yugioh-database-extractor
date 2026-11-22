@@ -1,0 +1,31 @@
+{
+    "name": "Chosen of Zefra",
+    "filename": "Chosen_of_Zefra",
+    "card_text": "This card gains these effects depending on the number of face-up \"Zefra\" monsters with different names in your Extra Deck.\n\u25cf3 or more: Monsters you control gain 100 ATK for each face-up card in any Extra Deck.\n\u25cf5 or more: Monsters you control cannot be destroyed by an opponent's card effects.\n\u25cf8 or more: Monsters you control cannot be targeted by an opponent's card effects.\n\u25cf10: You can send this card to the Graveyard; shuffle all cards from your opponent's hand, field, and Graveyard into the Deck.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "CROSSED SOULS ADVANCE EDITION",
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "Oracle of Zefra",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Satellarknight Zefrathuban",
+        "Shaddoll Zefracore",
+        "Shaddoll Zefranaga",
+        "Stellarknight Zefraxciton",
+        "Zefra Divine Strike",
+        "Zefra Metaltron",
+        "Zefra Path",
+        "Zefra Providence",
+        "Zefra War",
+        "Zefraath",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefrasaber, Swordmaster of the Nekroz",
+        "Zefraxa, Flame Beast of the Nekroz",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

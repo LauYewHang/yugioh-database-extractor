@@ -1,0 +1,42 @@
+{
+    "name": "Saber Slash",
+    "filename": "Saber_Slash",
+    "card_text": "Destroy face-up cards on the field equal to the number of Attack Position \"X-Saber\" monsters you control.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "TURBO PACK BOOSTER THREE",
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [
+        "Commander Gottoms, Swordmaster",
+        "Commander Souza, Swordmaster",
+        "M-X-Saber Invoker",
+        "Saber Reflection",
+        "X-Saber Airbellum",
+        "X-Saber Anu Piranha",
+        "X-Saber Axel",
+        "X-Saber Bruno",
+        "X-Saber Galahad",
+        "X-Saber Gottoms",
+        "X-Saber Palomuro",
+        "X-Saber Pashuul",
+        "X-Saber Pellina",
+        "X-Saber Souza",
+        "X-Saber Urbellum",
+        "X-Saber Uruz",
+        "X-Saber Wayne",
+        "XX-Saber Boggart Knight",
+        "XX-Saber Darksoul",
+        "XX-Saber Emmersblade",
+        "XX-Saber Faultroll",
+        "XX-Saber Fulhelmknight",
+        "XX-Saber Gardestrike",
+        "XX-Saber Garsem",
+        "XX-Saber Gottoms",
+        "XX-Saber Hyunlei",
+        "XX-Saber Ragigura"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

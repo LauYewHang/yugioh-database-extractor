@@ -1,0 +1,24 @@
+{
+    "name": "Veda Kalarcanum",
+    "filename": "Veda_Kalarcanum",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own Pendulum Effect. You can only Special Summon \"Veda Kalarcanum(s)\" once per turn. Once per turn, if your opponent Special Summons a monster(s) from the Extra Deck (except during the Damage Step): You can banish 12 cards from your hand, field, and/or GY, face-down; it becomes the End Phase of this turn. Once per turn, during your Standby Phase: Return this card to the hand, then you can Special Summon 1 of your \"Veda\" monsters that is banished or in your hand, Deck, or GY.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Realm Elegy",
+        "Realm Eulogy",
+        "Sharv Sarga",
+        "Veda Kalanta"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 4000,
+    "monster_type": "Warrior",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 12,
+    "pendulum_effect": "Once per Chain, if a monster(s) is destroyed: Place 3 counters on this card. This card's Pendulum Scale is increased by the number of counters on it. You can remove 12 counters from this card; Special Summon it.",
+    "pendulum_scale": 0
+}

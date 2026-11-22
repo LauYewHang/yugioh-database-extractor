@@ -1,0 +1,42 @@
+{
+    "name": "Battlin' Boxer King Dempsey",
+    "filename": "Battlin__Boxer_King_Dempsey",
+    "card_text": "2 Level 4 monsters\nIf this card is Special Summoned: You can take 1 Level 4 or lower FIRE Warrior monster or 1 \"Battlin' Boxing\" Spell/Trap from your Deck, and either add it to your hand or send it to the GY. (Quick Effect): You can detach 1 material from a monster you control, and if you do, apply the following effect.\n\u25cfYour opponent cannot target \"Battlin' Boxer\" monsters you control with card effects for the rest of this turn.\nYou can only use each effect of \"Battlin' Boxer King Dempsey\" once per turn.",
+    "release_date": "2023-08-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Battlin' Boxer Big Bandage",
+        "Battlin' Boxer Cheat Commissioner",
+        "Battlin' Boxer Chief Second",
+        "Battlin' Boxer Counterpunch",
+        "Battlin' Boxer Glassjaw",
+        "Battlin' Boxer Headgeared",
+        "Battlin' Boxer Lead Yoke",
+        "Battlin' Boxer Promoter",
+        "Battlin' Boxer Rabbit Puncher",
+        "Battlin' Boxer Rib Gardna",
+        "Battlin' Boxer Shadow",
+        "Battlin' Boxer Sparrer",
+        "Battlin' Boxer Switchitter",
+        "Battlin' Boxer Uppercutter",
+        "Battlin' Boxer Veil",
+        "Battlin' Boxing Cross Counter",
+        "Battlin' Boxing Spirits",
+        "Jolt Counter",
+        "Last Counter",
+        "Number 105: Battlin' Boxer Star Cestus",
+        "Number 79: Battlin' Boxer Nova Kaiser",
+        "Number C105: Battlin' Boxer Comet Cestus",
+        "Number C79: Battlin' Boxer General Kaiser",
+        "Ring Announcer"
+    ],
+    "attribute": "FIRE",
+    "attack": 2300,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Quarantine",
+    "filename": "Quarantine",
+    "card_text": "Once per turn, during the End Phase: You can target 1 Set Spell/Trap Card your opponent controls; reveal it, then return it to its original position.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

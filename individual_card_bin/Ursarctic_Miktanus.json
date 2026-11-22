@@ -1,0 +1,35 @@
+{
+    "name": "Ursarctic Miktanus",
+    "filename": "Ursarctic_Miktanus",
+    "card_text": "During the Main Phase (Quick Effect): You can Tribute 1 other Level 7 or higher monster from your hand; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except monsters with a Level. If this card is Special Summoned: You can target 1 \"Ursarctic\" monster in your GY, except \"Ursarctic Miktanus\"; add it to your hand. You can only use each effect of \"Ursarctic Miktanus\" once per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Big Dipper",
+        "Ursarctic Departure",
+        "Ursarctic Drytron",
+        "Ursarctic Grand Chariot",
+        "Ursarctic Megabilis",
+        "Ursarctic Megapolar",
+        "Ursarctic Megatanus",
+        "Ursarctic Mikbilis",
+        "Ursarctic Mikpolar",
+        "Ursarctic Polar Star",
+        "Ursarctic Polari",
+        "Ursarctic Quint Charge",
+        "Ursarctic Radiation",
+        "Ursarctic Septentrion",
+        "Ursarctic Slider"
+    ],
+    "attribute": "WATER",
+    "attack": 700,
+    "defense": 1700,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,30 @@
+{
+    "name": "First Step Towards Infestation",
+    "filename": "First_Step_Towards_Infestation",
+    "card_text": "Return 1 face-up Tribute Summoned \"Steelswarm\" monster you control to the hand; draw 1 card.",
+    "release_date": "2011-09-29",
+    "available_set": [
+        "DUEL TERMINAL 5B",
+        "HIDDEN ARSENAL 5 STEELSWARM INVASION"
+    ],
+    "related_card": [
+        "Evilswarm Ophion",
+        "Steelswarm Caller",
+        "Steelswarm Caucastag",
+        "Steelswarm Cell",
+        "Steelswarm Gatekeeper",
+        "Steelswarm Genome",
+        "Steelswarm Girastag",
+        "Steelswarm Hercules",
+        "Steelswarm Longhorn",
+        "Steelswarm Mantis",
+        "Steelswarm Moth",
+        "Steelswarm Origin",
+        "Steelswarm Roach",
+        "Steelswarm Scout",
+        "Steelswarm Sentinel",
+        "Steelswarm Sting"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

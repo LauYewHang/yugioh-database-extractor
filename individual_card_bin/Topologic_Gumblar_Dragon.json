@@ -1,0 +1,20 @@
+{
+    "name": "Topologic Gumblar Dragon",
+    "filename": "Topologic_Gumblar_Dragon",
+    "card_text": "2+ Effect Monsters\nIf another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Discard 1 or 2 random cards, then your opponent discards the same number. During your Main Phase, if this card is Extra Linked and your opponent has at least 1 card in their hand: You can make your opponent discard 1 or 2 cards (whichever is higher), then, if they have no more cards in their hand, inflict 3000 damage to them. You can only use 1 \"Topologic Gumblar Dragon\" effect per turn, and only once that turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "BATTLES OF LEGEND: RELENTLESS REVENGE"
+    ],
+    "related_card": [
+        "Borrelcode Dragon",
+        "Detonation Code"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 340
+}

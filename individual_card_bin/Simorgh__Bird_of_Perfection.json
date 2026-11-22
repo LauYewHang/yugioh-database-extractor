@@ -1,0 +1,33 @@
+{
+    "name": "Simorgh, Bird of Perfection",
+    "filename": "Simorgh__Bird_of_Perfection",
+    "card_text": "While face-up on the field, this card is also WIND-Attribute. You can only use each of the following effects of \"Simorgh, Bird of Perfection\" once per turn. During your Main Phase, if you Normal or Special Summon a Winged Beast monster(s): You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 \"Simorgh\" monster. If this card is Normal Summoned: You can send 1 \"Simorgh\" monster from your Deck to the GY; add 1 \"Simorgh\" Spell/Trap from your Deck to your hand.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Dark Simorgh",
+        "Elborz, the Sacred Lands of Simorgh",
+        "Simorgh of Darkness",
+        "Simorgh Onslaught",
+        "Simorgh Repulsion",
+        "Simorgh Sky Battle",
+        "Simorgh, Bird of Ancestry",
+        "Simorgh, Bird of Beginning",
+        "Simorgh, Bird of Bringing",
+        "Simorgh, Bird of Calamity",
+        "Simorgh, Bird of Divinity",
+        "Simorgh, Bird of Protection",
+        "Simorgh, Bird of Sovereignty",
+        "Simorgh, Lord of the Storm"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 500,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

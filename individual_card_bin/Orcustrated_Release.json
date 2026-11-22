@@ -1,0 +1,30 @@
+{
+    "name": "Orcustrated Release",
+    "filename": "Orcustrated_Release",
+    "card_text": "Tribute 2 Machine monsters, then target 1 monster in your GY; Special Summon it. If your opponent controls a Link Monster, you can target 2 monsters, instead. You can only activate 1 \"Orcustrated Release\" per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Dingirsu, the Orcust of the Evening Star",
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Galatea, the Orcust Automaton",
+        "Galatea-I, the Orcust Automaton",
+        "Girsu, the Orcust Mekk-Knight",
+        "Longirsu, the Orcust Orchestrator",
+        "Orcust Brass Bombard",
+        "Orcust Crescendo",
+        "Orcust Cymbal Skeleton",
+        "Orcust Harp Horror",
+        "Orcustrated Attack",
+        "Orcustrated Babel",
+        "Orcustrated Core",
+        "Orcustrated Einsatz",
+        "Orcustrated Return",
+        "Orcustrion",
+        "World Legacy - \"World Wand\""
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

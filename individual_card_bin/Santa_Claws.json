@@ -1,0 +1,22 @@
+{
+    "name": "Santa Claws",
+    "filename": "Santa_Claws",
+    "card_text": "You can Special Summon this card (from your hand) to your opponent's field in Defense Position, by Tributing 1 monster they control. If Summoned this way, once, during the End Phase of this turn: You can draw 1 card.",
+    "release_date": "2015-03-20",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "MAZE OF MUERTOS",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "YU-GI-OH! ADVENT CALENDAR 2018",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 2500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

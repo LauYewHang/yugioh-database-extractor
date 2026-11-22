@@ -37,7 +37,10 @@
     "attack": 800,
     "defense": 2300,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "When a monster(s) you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Acrobatic Magician\" once per turn.",

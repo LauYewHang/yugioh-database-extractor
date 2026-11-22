@@ -1,0 +1,12 @@
+{
+    "name": "Spell Reclamation",
+    "filename": "Spell_Reclamation",
+    "card_text": "Discard 1 card and chain this card to a Spell Card you activated. Whenever that Spell Card is sent to the Graveyard, return it to its owner's hand.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

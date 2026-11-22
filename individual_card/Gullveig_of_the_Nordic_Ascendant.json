@@ -42,7 +42,12 @@
     "attack": 800,
     "defense": null,
     "monster_type": "Fairy",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 1,
-    "link_arrow": 2
+    "link_arrow": [
+        "Bottom-Left"
+    ]
 }

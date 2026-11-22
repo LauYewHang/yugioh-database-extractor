@@ -1,0 +1,19 @@
+{
+    "name": "Shield Wing",
+    "filename": "Shield_Wing",
+    "card_text": "Twice per turn, this card cannot be destroyed by battle.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "ABSOLUTE POWERFORCE",
+        "DUELIST PACK - YUSEI 3 -"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 900,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

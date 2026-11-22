@@ -1,0 +1,17 @@
+{
+    "name": "Vic Viper Type-L",
+    "filename": "Vic_Viper_Type_L",
+    "card_text": "At the start of your Battle Phase: You can activate 1 of these effects;\n\u25cfSpecial Summon 1 Machine monster from your hand.\n\u25cfSend 1 Level 4 or lower LIGHT Machine monster from your Deck to the GY.\nIf this card is destroyed: You can target 1 LIGHT Machine monster in your GY; Special Summon it, and if you Special Summoned a monster with 1200 or less original ATK, it gains 1200 ATK. You can only use each effect of \"Vic Viper Type-L\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 800,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

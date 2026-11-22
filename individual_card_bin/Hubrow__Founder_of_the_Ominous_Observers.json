@@ -1,0 +1,17 @@
+{
+    "name": "Hubrow, Founder of the Ominous Observers",
+    "filename": "Hubrow__Founder_of_the_Ominous_Observers",
+    "card_text": "You can Normal Summon this card without Tributing. You can only use each of the following effects of \"Hubrow, Founder of the Ominous Observers\" once per turn. If this card is Normal or Special Summoned: You can send 1 Level 6 or higher Zombie monster from your Deck to the GY, except \"Hubrow, Founder of the Ominous Observers\", then you can add 1 Level 6 or higher Zombie monster from your GY to your hand. If a monster(s) is Special Summoned from the GY, while this card is in the Monster Zone, you can (except during the Damage Step): Immediately after this effect resolves, Xyz Summon 1 Zombie Xyz Monster.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 1800,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

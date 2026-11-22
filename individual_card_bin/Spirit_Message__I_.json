@@ -1,0 +1,22 @@
+{
+    "name": "Spirit Message \"I\"",
+    "filename": "Spirit_Message__I_",
+    "card_text": "Can only be placed on the field by the effect of \"Destiny Board\".",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "RETRO PACK 2"
+    ],
+    "related_card": [
+        "Dark Sanctuary",
+        "Dark Spirit's Mastery",
+        "Destiny Board",
+        "Sentence of Doom"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Magikey Duo",
+    "filename": "Magikey_Duo",
+    "card_text": "You can target 1 Normal Monster or 1 \"Magikey\" monster in your GY; add it to your hand, then you can apply 1 of these effects.\n\u25cfFusion Summon 1 \"Magikey\" Fusion Monster from your Extra Deck in Defense Position, using monsters from your hand or field as Fusion Material.\n\u25cfRitual Summon 1 \"Magikey\" Ritual Monster from your hand in Defense Position, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Clavkiys, the Magikey Skyblaster",
+        "Magikey Battle",
+        "Magikey Beast - Ansyalabolas",
+        "Magikey Deity - Ashtartu",
+        "Magikey Dragon - Andrabime",
+        "Magikey Fiend - Transfurlmine",
+        "Magikey Locking",
+        "Magikey Maftea",
+        "Magikey Mechmortar - Garesglasser",
+        "Magikey Mechmusket - Batosbuster",
+        "Magikey Spirit - Vepartu",
+        "Magikey Unlocking",
+        "Magikey World",
+        "Maginificent Magikey Mafteal"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

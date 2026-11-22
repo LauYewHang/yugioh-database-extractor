@@ -1,0 +1,12 @@
+{
+    "name": "Edge of the Ring",
+    "filename": "Edge_of_the_Ring",
+    "card_text": "If your LP is lower than your opponent's: Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half of the original ATK of that monster, also, for the rest of this turn after this card resolves, your opponent takes no damage.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

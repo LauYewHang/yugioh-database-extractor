@@ -1,0 +1,13 @@
+{
+    "name": "Forced Ceasefire",
+    "filename": "Forced_Ceasefire",
+    "card_text": "Discard 1 card from your hand. No Trap Cards can be activated until the end of this turn.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

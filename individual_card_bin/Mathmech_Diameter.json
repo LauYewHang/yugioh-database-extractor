@@ -1,0 +1,33 @@
+{
+    "name": "Mathmech Diameter",
+    "filename": "Mathmech_Diameter",
+    "card_text": "When this card is Normal Summoned: You can target 1 Level 4 Cyberse monster in your GY; Special Summon it, but it cannot activate its effects. A \"Mathmech\" monster that was Synchro or Xyz Summoned using this card on the field as material gains the following effect.\n\u25cfOnce per turn, during the turn this card was Special Summoned, when your opponent activates a card or effect (Quick Effect): You can negate that effect.\nYou can only use each effect of \"Mathmech Diameter\" once per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Geomathmech Final Sigma",
+        "Geomathmech Magma",
+        "Mathmech Addition",
+        "Mathmech Billionblade Nayuta",
+        "Mathmech Circular",
+        "Mathmech Division",
+        "Mathmech Equation",
+        "Mathmech Induction",
+        "Mathmech Multiplication",
+        "Mathmech Nabla",
+        "Mathmech Sigma",
+        "Mathmech Subtraction",
+        "Mathmech Superfactorial",
+        "Primathmech Alembertian",
+        "Primathmech Laplacian"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1500,
+    "monster_type": "Cyberse",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Rainbow Bridge",
+    "filename": "Rainbow_Bridge",
+    "card_text": "Add 1 \"Crystal\" Spell/Trap from your Deck to your hand.",
+    "release_date": "2018-02-23",
+    "available_set": [
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "LEGENDARY DUELISTS: SEASON 1",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Awakening of the Crystal Ultimates",
+        "Crystal Abundance",
+        "Crystal Aegis",
+        "Crystal Beacon",
+        "Crystal Blessing",
+        "Crystal Bond",
+        "Crystal Boon",
+        "Crystal Brilliance",
+        "Crystal Conclave",
+        "Crystal Miracle",
+        "Crystal Pair",
+        "Crystal Promise",
+        "Crystal Raigeki",
+        "Crystal Release",
+        "Crystal Tree",
+        "Golden Rule",
+        "Ultimate Crystal Magic"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

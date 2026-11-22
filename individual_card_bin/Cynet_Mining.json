@@ -1,0 +1,21 @@
+{
+    "name": "Cynet Mining",
+    "filename": "Cynet_Mining",
+    "card_text": "Send 1 card from your hand to the GY; add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 \"Cynet Mining\" per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "OTS TOURNAMENT PACK 24",
+        "QUARTER CENTURY BONANZA",
+        "2020 TIN OF LOST MEMORIES",
+        "DARK NEOSTORM",
+        "MAXIMUM GOLD: EL DORADO",
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Cyberse Reminder",
+        "Firewall Phantom",
+        "Micro Coder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

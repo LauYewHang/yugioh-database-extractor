@@ -1,0 +1,12 @@
+{
+    "name": "Slip of Fortune",
+    "filename": "Slip_of_Fortune",
+    "card_text": "Activate only when your opponent's monster declares an attack targeting a monster. Negate the attack and remove from play the attack target monster until the next Standby Phase.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Weed Out",
+    "filename": "Weed_Out",
+    "card_text": "Pay 500 Life Points. Destroy all face-up Attack Position Level 3 monsters.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "ELEMENTAL ENERGY",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Chaos End",
+    "filename": "Chaos_End",
+    "card_text": "You can only activate this card if 7 or more of your cards are currently removed from play. Destroy all Monster Cards on the field.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "INVASION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

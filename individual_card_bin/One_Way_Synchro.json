@@ -1,0 +1,26 @@
+{
+    "name": "One-Way Synchro",
+    "filename": "One_Way_Synchro",
+    "card_text": "Take 1 Level 1 Tuner from your Deck or GY, and either add it to your hand or Special Summon it. If you control \"Junk Warrior\" or a monster that mentions it, and this card is in your GY: You can Set this card, but banish it when it leaves the field. You can only use 1 \"One-Way Synchro\" effect per turn, and only once that turn.",
+    "release_date": "2025-11-07",
+    "available_set": [
+        "Legendary 5D's Decks"
+    ],
+    "related_card": [
+        "Anchorbolt Hedgehog",
+        "Assault Sonic Warrior",
+        "Crossroad Sonic Chick",
+        "Duelist Genesis",
+        "Full-Speed Warrior",
+        "Junk Signal",
+        "Junk Warrior",
+        "Junk Warrior/Assault Mode",
+        "Scrap Fist",
+        "Scrap Synchron",
+        "Scrap Warrior",
+        "Starjunk Synchron",
+        "Synchro Fellowship"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

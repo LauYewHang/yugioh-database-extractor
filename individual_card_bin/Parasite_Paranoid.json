@@ -1,0 +1,21 @@
+{
+    "name": "Parasite Paranoid",
+    "filename": "Parasite_Paranoid",
+    "card_text": "(Quick Effect): You can target 1 face-up monster on the field; equip this card from your hand to that target. The equipped monster becomes an Insect monster, cannot attack Insect monsters, also its effects that activate by targeting an Insect monster(s) are negated. You can only use this effect of \"Parasite Paranoid\" once per turn. If this Equip Card is sent to the GY: You can Special Summon 1 Level 7 or higher Insect monster from your hand, ignoring its Summoning conditions.",
+    "release_date": "2018-02-23",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 1",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "LEGENDARY DUELISTS: ANCIENT MILLENNIUM",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "SPEED DUEL: TRIALS OF THE KINGDOM"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 500,
+    "defense": 300,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

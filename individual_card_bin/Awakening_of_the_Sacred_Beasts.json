@@ -1,0 +1,29 @@
+{
+    "name": "Awakening of the Sacred Beasts",
+    "filename": "Awakening_of_the_Sacred_Beasts",
+    "card_text": "This card gains these effects based on the number of \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", and/or \"Raviel, Lord of Phantasms\" with different names you control.\n\u25cf1+: Each time your opponent Normal or Special Summons a monster(s): Gain LP equal to the ATK of that monster(s).\n\u25cf2+: Negate the activated effects of monsters your opponent controls.\n\u25cf3: Any monsters sent to your opponent's GY are banished instead.\nOnce per your turn, if you control a Level 10 monster: You can add 1 Continuous Trap from your GY to your hand.",
+    "release_date": "2020-07-10",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [
+        "Calamity of the Sacred Beasts - Hamon, Lord of Striking Thunder",
+        "Dark Beckoning Beast",
+        "Fallen Paradise of the Sacred Beasts",
+        "Hamon, Lord of Striking Thunder",
+        "Inferno of the Sacred Beasts - Uria, Lord of Searing Flames",
+        "Infinity of the Sacred Beasts - Raviel, Lord of Phantasms",
+        "Martyr of the Sacred Beasts",
+        "Opening of the Spirit Gates",
+        "Raviel, Lord of Phantasms",
+        "Sacred Beasts Combined Assault",
+        "Sacred Beasts Released",
+        "Sacred Beasts Skyfall",
+        "Sacred Beasts Thunderclap",
+        "Summoner of the Sacred Beasts",
+        "Uria, Lord of Searing Flames"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

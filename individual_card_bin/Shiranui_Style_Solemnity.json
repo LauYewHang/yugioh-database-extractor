@@ -1,0 +1,25 @@
+{
+    "name": "Shiranui Style Solemnity",
+    "filename": "Shiranui_Style_Solemnity",
+    "card_text": "This card's name becomes \"Shiranui Style Synthesis\" while in the Spell & Trap Zone. Once per turn, you can activate 1 of these effects.\n\u25cfBanish 1 Zombie monster from your GY; the Normal and Special Summons of your Zombie monsters cannot be negated for the rest of this turn (even if this card leaves the field).\n\u25cfTarget 1 Zombie monster you control; banish it, then you can send 1 Zombie monster with 0 DEF from your Deck to the GY.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Style Samsara",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Style Synthesis",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

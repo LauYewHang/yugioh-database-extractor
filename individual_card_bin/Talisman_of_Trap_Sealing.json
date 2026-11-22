@@ -1,0 +1,16 @@
+{
+    "name": "Talisman of Trap Sealing",
+    "filename": "Talisman_of_Trap_Sealing",
+    "card_text": "Activate this card only if you control \"Sealmaster Meisei\". Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field. If you do not control \"Sealmaster Meisei\", destroy this card.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY",
+        "SPEED DUEL: STREETS OF BATTLE CITY"
+    ],
+    "related_card": [
+        "Sealmaster Meisei"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -89,7 +89,11 @@
     "attack": 700,
     "defense": 1400,
     "monster_type": "Spellcaster",
-    "monster_card_type": 5122,
+    "monster_card_type": [
+        "Pendulum",
+        "Tuner",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "Unless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.",

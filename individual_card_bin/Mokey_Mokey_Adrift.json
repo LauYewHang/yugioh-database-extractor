@@ -1,0 +1,22 @@
+{
+    "name": "Mokey Mokey Adrift",
+    "filename": "Mokey_Mokey_Adrift",
+    "card_text": "This card's name becomes \"Mokey Mokey\" and is treated as a Normal Monster while face-up on the field or in the GY. You can discard this card; add 1 \"Mokey Mokey\" card from your Deck to your hand, except \"Mokey Mokey Adrift\".",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Mokey Mokey",
+        "Mokey Mokey King",
+        "Mokey Mokey Smackdown"
+    ],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 100,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

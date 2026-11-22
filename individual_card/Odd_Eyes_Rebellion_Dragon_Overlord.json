@@ -92,7 +92,11 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": 4130,
+    "monster_card_type": [
+        "Pendulum",
+        "Xyz",
+        "Effect"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 7,
     "pendulum_effect": "Once per turn: You can Special Summon this card from your Pendulum Zone, then Special Summon from your Extra Deck, 1 \"Rebellion\" or \"The Phantom Knights\" monster, using this card as material (this is treated as an Xyz Summon), then you can attach 1 card from your Pendulum Zone to it as material.",

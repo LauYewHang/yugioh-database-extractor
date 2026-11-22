@@ -1,0 +1,12 @@
+{
+    "name": "Sound the Retreat!",
+    "filename": "Sound_the_Retreat_",
+    "card_text": "Return all monsters you control to the hand.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

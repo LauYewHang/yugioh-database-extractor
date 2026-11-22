@@ -1,0 +1,22 @@
+{
+    "name": "Xyz Burst",
+    "filename": "Xyz_Burst",
+    "card_text": "If you control a Rank 6 or higher Xyz Monster: Destroy all Set cards your opponent controls.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "GHOSTS FROM THE PAST",
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

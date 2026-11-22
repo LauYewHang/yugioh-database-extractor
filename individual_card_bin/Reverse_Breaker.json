@@ -1,0 +1,28 @@
+{
+    "name": "Reverse Breaker",
+    "filename": "Reverse_Breaker",
+    "card_text": "Equip only to a \"Utopia\" monster. When the equipped monster declares an attack: Target 1 Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

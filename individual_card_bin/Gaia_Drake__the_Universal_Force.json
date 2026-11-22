@@ -1,0 +1,19 @@
+{
+    "name": "Gaia Drake, the Universal Force",
+    "filename": "Gaia_Drake__the_Universal_Force",
+    "card_text": "1 \"Gaia Knight, the Force of Earth\" + 1 non-Effect Synchro Monster\nThis card cannot be targeted by, or destroyed by, the effects of Effect Monsters.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [
+        "Gaia Knight, the Force of Earth"
+    ],
+    "attribute": "EARTH",
+    "attack": 3500,
+    "defense": 2800,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

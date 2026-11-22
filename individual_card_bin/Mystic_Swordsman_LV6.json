@@ -1,0 +1,26 @@
+{
+    "name": "Mystic Swordsman LV6",
+    "filename": "Mystic_Swordsman_LV6",
+    "card_text": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster, and if you do, you can place it on top of your opponent's Deck instead of sending it to the Graveyard.",
+    "release_date": "2004-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 3",
+        "RISE OF DESTINY",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Level Down!?",
+        "Level Modulation",
+        "Level Up!",
+        "Mystic Swordsman LV4",
+        "Silent Paladin",
+        "The Graveyard in the Fourth Dimension"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 1700,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

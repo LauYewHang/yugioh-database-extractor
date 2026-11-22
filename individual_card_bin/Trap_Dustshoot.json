@@ -1,0 +1,17 @@
+{
+    "name": "Trap Dustshoot",
+    "filename": "Trap_Dustshoot",
+    "card_text": "If your opponent has 4 or more cards in their hand: Look at your opponent's hand and choose 1 monster from it to shuffle into the Deck.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "DARK BEGINNING 2",
+        "CHAMPION PACK GAME FIVE",
+        "DUEL TERMINAL 4",
+        "RARITY COLLECTION 5",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

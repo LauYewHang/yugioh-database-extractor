@@ -1,0 +1,14 @@
+{
+    "name": "Gravity Collapse",
+    "filename": "Gravity_Collapse",
+    "card_text": "When your opponent would Summon a monster(s): Send 1 face-up Synchro Monster you control to the GY; negate the Summon, and if you do, destroy that monster, and your opponent cannot Summon a monster until the end of this turn.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "OTS TOURNAMENT PACK 13",
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

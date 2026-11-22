@@ -1,0 +1,35 @@
+{
+    "name": "Sengenjin Wakes from a Millennium",
+    "filename": "Sengenjin_Wakes_from_a_Millennium",
+    "card_text": "Cannot be destroyed by monster effects. You can only use each of the following effects of \"Sengenjin Wakes from a Millennium\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. While this card is a Continuous Spell: You can either pay 2000 LP, or reveal 1 \"Millennium Ankh\" in your hand; Special Summon this card, then you can add 1 \"Millennium\" monster from your Deck to your hand.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Fiend Reflection of the Millennium",
+        "Golem that Guards the Millennium Treasures",
+        "Heart of Gaia",
+        "Heart of the Blue-Eyes",
+        "Maiden of the Millennium Moon",
+        "Millennium Ankh",
+        "Millennium Golem",
+        "Millennium Revelation",
+        "Millennium Scorpion",
+        "Millennium Seeker",
+        "Millennium Shield",
+        "Millennium-Eyes Illusionist",
+        "Millennium-Eyes Restrict",
+        "Sengenjin",
+        "Shield of the Millennium Dynasty",
+        "Wedju Temple"
+    ],
+    "attribute": "EARTH",
+    "attack": 2750,
+    "defense": 2500,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

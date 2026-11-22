@@ -1,0 +1,32 @@
+{
+    "name": "Light Barrier",
+    "filename": "Light_Barrier",
+    "card_text": "Once per turn, during your Standby Phase: Toss a coin. If the result is Tails, the following effects are negated until your next Standby Phase.\n\u25cfWhen you Summon an \"Arcana Force\" monster, choose which effect to apply without tossing a coin.\n\u25cfIf your \"Arcana Force\" monster destroys an opponent's monster by battle: You gain LP equal to the destroyed monster's original ATK.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Arcana Force 0 - The Fool",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force EX - The Dark Ruler",
+        "Arcana Force EX - The Light Ruler",
+        "Arcana Force I - The Magician",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Force VII - The Chariot",
+        "Arcana Force XIV - Temperance",
+        "Arcana Force XIX - The Sun",
+        "Arcana Force XV - The Fiend",
+        "Arcana Force XVIII - The Moon",
+        "Arcana Force XXI - The World",
+        "Arcana Reading",
+        "Arcana Spread",
+        "Light Force"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Necrovalley Throne",
+    "filename": "Necrovalley_Throne",
+    "card_text": "Activate 1 of these effects.\n\u25cfAdd 1 \"Gravekeeper's\" monster from your Deck to your hand.\n\u25cfImmediately after this effect resolves, Normal Summon 1 \"Gravekeeper's\" monster.\nYou can only activate 1 \"Necrovalley Throne\" per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "SOUL FUSION",
+        "Gold Series: Maximum Gold"
+    ],
+    "related_card": [
+        "Gravekeeper's Ambusher",
+        "Gravekeeper's Assailant",
+        "Gravekeeper's Cannonholder",
+        "Gravekeeper's Chief",
+        "Gravekeeper's Commandant",
+        "Gravekeeper's Curse",
+        "Gravekeeper's Descendant",
+        "Gravekeeper's Guard",
+        "Gravekeeper's Headman",
+        "Gravekeeper's Heretic",
+        "Gravekeeper's Inscription",
+        "Gravekeeper's Nobleman",
+        "Gravekeeper's Oracle",
+        "Gravekeeper's Priestess",
+        "Gravekeeper's Recruiter",
+        "Gravekeeper's Servant",
+        "Gravekeeper's Shaman",
+        "Gravekeeper's Spear Soldier",
+        "Gravekeeper's Spiritualist",
+        "Gravekeeper's Spy",
+        "Gravekeeper's Stele",
+        "Gravekeeper's Supernaturalist",
+        "Gravekeeper's Trap",
+        "Gravekeeper's Vassal",
+        "Gravekeeper's Visionary",
+        "Gravekeeper's Watcher",
+        "Necrovalley Temple"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

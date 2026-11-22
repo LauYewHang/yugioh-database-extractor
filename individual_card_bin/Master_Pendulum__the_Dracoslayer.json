@@ -1,0 +1,37 @@
+{
+    "name": "Master Pendulum, the Dracoslayer",
+    "filename": "Master_Pendulum__the_Dracoslayer",
+    "card_text": "\"Luster Pendulum, the Dracoslayer\" continues his journey to uncover the secrets of Dragon Alchemy, believing it is the key to dispelling his curse and restoring his memory. His power continues to grow... perhaps the same power used by the Dracofiends?",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "PENDULUM EVOLUTION",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Dinomight Powerload, the Dracoslayer",
+        "Dinoster Power, the Mighty Dracoslayer",
+        "Draco Awakening",
+        "Draco Face-Off",
+        "Dragonic Pendulum",
+        "Duelist Alliance",
+        "Forge of the True Dracos",
+        "Ignis Phoenix, the Dracoslayer",
+        "Ignister Prominence, the Blasting Dracoslayer",
+        "Luster Pendulum, the Dracoslayer",
+        "Majespecter Draco - Ryu",
+        "Majespecter Orthrus - Nue",
+        "Majester Paladin, the Ascending Dracoslayer",
+        "Majesty Pegasus, the Dracoslayer",
+        "Master Peace, the True Dracoslayer",
+        "PenduLuMoon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1950,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": 4097,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Once, while this card is in your Pendulum Zone: You can target 1 card in a Pendulum Zone; destroy it.",
+    "pendulum_scale": 3
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Battle Instinct",
+    "filename": "Battle_Instinct",
+    "card_text": "Activate only when your opponent declares a direct attack and you control no monsters. Special Summon 1 Level 4 or lower Beast-Type monster from your hand, in face-up Attack Position.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

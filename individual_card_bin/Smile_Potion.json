@@ -1,0 +1,15 @@
+{
+    "name": "Smile Potion",
+    "filename": "Smile_Potion",
+    "card_text": "If your opponent controls a monster whose current ATK is higher than its original ATK, while you control no monsters: Draw 2 cards. You can only activate 1 \"Smile Potion\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Performapal Smile Sorcerer"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

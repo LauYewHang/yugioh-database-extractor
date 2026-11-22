@@ -1,0 +1,40 @@
+{
+    "name": "Chamber Dragonmaid",
+    "filename": "Chamber_Dragonmaid",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Dragonmaid\" Spell/Trap from your Deck to your hand. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 or higher \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Chamber Dragonmaid\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "OTS TOURNAMENT PACK 28",
+        "BATTLES OF LEGEND: MONSTER MAYHEM",
+        "MAXIMUM GOLD: EL DORADO",
+        "ETERNITY CODE",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Dragonmaid Cehrmba",
+        "Dragonmaid Changeover",
+        "Dragonmaid Downtime",
+        "Dragonmaid Ernus",
+        "Dragonmaid Hospitality",
+        "Dragonmaid Lorpar",
+        "Dragonmaid Nudyarl",
+        "Dragonmaid Send-Off",
+        "Dragonmaid Sheou",
+        "Dragonmaid Tidying",
+        "Dragonmaid Tinkhec",
+        "Dragonmaid Welcome",
+        "House Dragonmaid",
+        "Kitchen Dragonmaid",
+        "Lady's Dragonmaid",
+        "Laundry Dragonmaid",
+        "Nurse Dragonmaid",
+        "Parlor Dragonmaid"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

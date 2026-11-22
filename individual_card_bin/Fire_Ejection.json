@@ -1,0 +1,30 @@
+{
+    "name": "Fire Ejection",
+    "filename": "Fire_Ejection",
+    "card_text": "Send 1 Pyro monster from your Deck to the GY, then, if you sent a \"Volcanic\" monster to the GY, you can apply 1 of these effects.\n\u25cfInflict damage to your opponent equal to its Level x 100.\n\u25cfSpecial Summon 1 \"Bomb Token\" (Pyro/FIRE/Level 1/ATK 1000/DEF 1000) to your opponent's field. Each time 1 is destroyed, its controller takes 500 damage.\nYou can only activate 1 \"Fire Ejection\" per turn.",
+    "release_date": "2023-08-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Counter",
+        "Volcanic Doomfire",
+        "Volcanic Emission",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Queen",
+        "Volcanic Rat",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Rocket",
+        "Volcanic Scattershot",
+        "Volcanic Shell",
+        "Volcanic Slicer",
+        "Volcanic Trooper"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

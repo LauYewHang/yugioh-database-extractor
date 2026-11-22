@@ -1,0 +1,26 @@
+{
+    "name": "Shiranui Style Synthesis",
+    "filename": "Shiranui_Style_Synthesis",
+    "card_text": "Once per turn, if you control no monsters: You can send 1 card from your hand to the Graveyard, then activate 1 of these effects.\n\u25cfTarget 1 Zombie-Type monster with 0 DEF in your Graveyard; Special Summon it.\n\u25cfTarget 1 of your banished Zombie-Type monsters with 0 DEF; return it to the Graveyard.\nYou can only activate 1 \"Shiranui Style Synthesis\" per turn.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Style Samsara",
+        "Shiranui Style Solemnity",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Metaphys Executor",
+    "filename": "Metaphys_Executor",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 5 \"Metaphys\" cards with different names from your GY and/or face-up from your field. Cannot be destroyed, or banished, by card effects. Once per turn, if your opponent controls more cards than you do: You can target 1 of your banished \"Metaphys\" monsters; Special Summon it, but banish it during the End Phase of the next turn.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [
+        "Asymmetaphys",
+        "Metaphys Armed Dragon",
+        "Metaphys Ascension",
+        "Metaphys Daedalus",
+        "Metaphys Decoy Dragon",
+        "Metaphys Dimension",
+        "Metaphys Factor",
+        "Metaphys Horus",
+        "Metaphys Nephthys",
+        "Metaphys Ragnarok",
+        "Metaphys Tyrant Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

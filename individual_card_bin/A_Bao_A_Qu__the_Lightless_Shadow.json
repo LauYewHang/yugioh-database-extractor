@@ -1,0 +1,18 @@
+{
+    "name": "A Bao A Qu, the Lightless Shadow",
+    "filename": "A_Bao_A_Qu__the_Lightless_Shadow",
+    "card_text": "2+ monsters, including a Fiend monster\nDuring the Main Phase (Quick Effect): You can discard 1 card, then activate 1 of these effects;\n\u25cfDestroy 1 card on the field.\n\u25cfBanish this card (until the End Phase), and if you do, Special Summon 1 LIGHT or DARK monster from your GY.\nDuring your Standby Phase: You can draw cards equal to the number of different Monster Types in your GY, then place cards from your hand on the bottom of the Deck in any order, equal to the number of cards you drew. You can only use each effect of \"A Bao A Qu, the Lightless Shadow\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "MAGNIFICENT MONSTERS",
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 90
+}

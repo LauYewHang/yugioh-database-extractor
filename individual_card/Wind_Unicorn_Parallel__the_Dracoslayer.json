@@ -26,7 +26,10 @@
     "attack": 2000,
     "defense": 2000,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "If you have a card in your other Pendulum Zone: You can activate 1 of these effects;\n\u25cfSpecial Summon this card.\n\u25cfDestroy this card, and if you do, Special Summon 1 Level 5 or lower Pendulum Monster Card from your Pendulum Zone.\nYou can only use this effect of \"Wind Unicorn Parallel, the Dracoslayer\" once per turn.",

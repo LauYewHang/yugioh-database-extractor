@@ -1,0 +1,13 @@
+{
+    "name": "Muko (Updated from: Null and Void)",
+    "filename": "Muko__Updated_from__Null_and_Void_",
+    "card_text": "Activate only when an effect of drawing card(s) is activated. Both players see the cards drawn by the effect and discard them all to the Graveyard.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

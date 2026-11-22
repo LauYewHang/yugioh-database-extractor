@@ -1,0 +1,27 @@
+{
+    "name": "Linkuriboh",
+    "filename": "Linkuriboh",
+    "card_text": "1 Level 1 monster\nWhen an opponent's monster declares an attack: You can Tribute this card; change that opponent's monster's ATK to 0, until the end of this turn. If this card is in your GY (Quick Effect): You can Tribute 1 Level 1 monster; Special Summon this card. You can only use this effect of \"Linkuriboh\" once per turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "ADVENT CALENDAR 2019",
+        "SHONEN JUMP membership Promotional Card - February 2018 -",
+        "DUEL POWER",
+        "STARTER DECK CODEBREAKER",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Generation Next",
+        "Kuribee",
+        "Kuribohrn",
+        "Skilled Brown Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 300,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 1,
+    "link_arrow": 4
+}

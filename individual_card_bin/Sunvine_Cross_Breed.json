@@ -1,0 +1,20 @@
+{
+    "name": "Sunvine Cross Breed",
+    "filename": "Sunvine_Cross_Breed",
+    "card_text": "Tribute 1 Link Monster, then target 1 other Plant monster in your GY; Special Summon it, but negate its effects. You can only use this effect of \"Sunvine Cross Breed\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Sunavalon Dryades",
+        "Sunavalon Dryanome",
+        "Sunavalon Dryas",
+        "Sunavalon Melias",
+        "Sunseed Shadow",
+        "Sunvine Maiden"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Hapi, Guidance of Horus",
+    "filename": "Hapi__Guidance_of_Horus",
+    "card_text": "If you control \"King's Sarcophagus\", you can Special Summon this card (from your GY). You can only Special Summon \"Hapi, Guidance of Horus\" once per turn this way. If another card(s) you control leaves the field by an opponent's card effect, while this card is in your Monster Zone (except during the Damage Step): You can target 2 cards that are banished and/or in the GYs; either add both to the hand or shuffle both into the Deck. You can only use this effect of \"Hapi, Guidance of Horus\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "THE CHRONICLES DECK: SPIRIT CHARMERS (ALL-FOIL EDITION)",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Canopic Protector",
+        "Duamutef, Blessing of Horus",
+        "Horus the Black Flame Deity",
+        "King's Sarcophagus",
+        "Qebehsenuef, Protection of Horus",
+        "Walls of the Imperial Tomb"
+    ],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1600,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

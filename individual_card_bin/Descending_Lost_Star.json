@@ -1,0 +1,14 @@
+{
+    "name": "Descending Lost Star",
+    "filename": "Descending_Lost_Star",
+    "card_text": "Target 1 Synchro Monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated, its Level is reduced by 1, its DEF becomes 0, also its battle position cannot be changed.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI 2 -",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

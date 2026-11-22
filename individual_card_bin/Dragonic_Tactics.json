@@ -1,0 +1,15 @@
+{
+    "name": "Dragonic Tactics",
+    "filename": "Dragonic_Tactics",
+    "card_text": "Tribute 2 Dragon monsters; Special Summon 1 Level 8 Dragon monster from your Deck.",
+    "release_date": "2011-10-04",
+    "available_set": [
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "STARTER DECK KAIBA RELOADED",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Centrifugal Field",
+    "filename": "Centrifugal_Field",
+    "card_text": "When a Fusion Monster(s) is destroyed by a card effect and sent to the Graveyard: Its owner targets 1 Fusion Material Monster in their Graveyard that is listed on that Fusion Monster; that player Special Summons that target.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 3",
+        "FLAMING ETERNITY",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

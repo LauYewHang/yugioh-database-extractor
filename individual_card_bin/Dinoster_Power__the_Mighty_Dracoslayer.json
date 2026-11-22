@@ -1,0 +1,35 @@
+{
+    "name": "Dinoster Power, the Mighty Dracoslayer",
+    "filename": "Dinoster_Power__the_Mighty_Dracoslayer",
+    "card_text": "1 \"Dracoslayer\" Pendulum Monster + 1 Pendulum Monster\nMust first be Special Summoned (from your Extra Deck) by Tributing the above cards you control. Pendulum Monster Cards in your Monster Zones and Pendulum Zones cannot be destroyed by battle or your opponent's card effects. Once per turn: You can Special Summon 1 \"Dracoslayer\" Pendulum Monster from your hand or GY, but it cannot be used as a Fusion Material.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "OTS TOURNAMENT PACK 1",
+        "BREAKERS OF SHADOW",
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Dinomight Powerload, the Dracoslayer",
+        "Draco Awakening",
+        "Draco Face-Off",
+        "Dragonic Pendulum",
+        "Forge of the True Dracos",
+        "Ignis Phoenix, the Dracoslayer",
+        "Ignister Prominence, the Blasting Dracoslayer",
+        "Luster Pendulum, the Dracoslayer",
+        "Majespecter Draco - Ryu",
+        "Majespecter Orthrus - Nue",
+        "Majester Paladin, the Ascending Dracoslayer",
+        "Majesty Pegasus, the Dracoslayer",
+        "Master Peace, the True Dracoslayer",
+        "Master Pendulum, the Dracoslayer",
+        "Wind Unicorn Parallel, the Dracoslayer"
+    ],
+    "attribute": "WATER",
+    "attack": 2000,
+    "defense": 2950,
+    "monster_type": "Dragon",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

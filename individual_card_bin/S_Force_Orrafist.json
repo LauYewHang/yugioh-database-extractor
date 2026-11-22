@@ -1,0 +1,37 @@
+{
+    "name": "S-Force Orrafist",
+    "filename": "S_Force_Orrafist",
+    "card_text": "Your opponent cannot target any of their monsters in the same column as one of your \"S-Force\" monsters with card effects. When a monster your opponent controls activates its effect (Quick Effect): You can banish 1 \"S-Force\" card from your hand; destroy that monster. You can only use this effect of \"S-Force Orrafist\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Cyberse",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

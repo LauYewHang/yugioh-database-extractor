@@ -1,0 +1,16 @@
+{
+    "name": "Damage Gate",
+    "filename": "Damage_Gate",
+    "card_text": "When you take Battle Damage: Target 1 monster in your Graveyard with ATK less than or equal to the amount of damage you took; Special Summon that target.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "STARTER DECK KAIBA RELOADED",
+        "THE SHINING DARKNESS",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

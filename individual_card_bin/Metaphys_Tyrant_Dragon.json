@@ -1,0 +1,29 @@
+{
+    "name": "Metaphys Tyrant Dragon",
+    "filename": "Metaphys_Tyrant_Dragon",
+    "card_text": "If this card was Special Summoned by the effect of a \"Metaphys\" monster, it is unaffected by Trap effects, also if it attacks a monster, it can make a second attack in a row. If this card is banished, during the Standby Phase of the next turn: You can shuffle this banished card into the Deck; Special Summon 1 \"Metaphys\" monster from your hand, but banish it during the End Phase of the next turn.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [
+        "Asymmetaphys",
+        "Metaphys Armed Dragon",
+        "Metaphys Ascension",
+        "Metaphys Daedalus",
+        "Metaphys Decoy Dragon",
+        "Metaphys Dimension",
+        "Metaphys Executor",
+        "Metaphys Factor",
+        "Metaphys Horus",
+        "Metaphys Nephthys",
+        "Metaphys Ragnarok"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2900,
+    "defense": 2500,
+    "monster_type": "Wyrm",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

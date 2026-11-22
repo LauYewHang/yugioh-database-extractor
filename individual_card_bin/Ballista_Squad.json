@@ -1,0 +1,13 @@
+{
+    "name": "Ballista Squad",
+    "filename": "Ballista_Squad",
+    "card_text": "Tribute 1 monster, then target 1 card your opponent controls; destroy it.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Valkyrian Knight",
+    "filename": "Valkyrian_Knight",
+    "card_text": "Monsters your opponent controls cannot target Warrior monsters for attacks, except \"Valkyrian Knight\". When this card is destroyed by battle and sent to the GY: You can banish this card and 1 Warrior monster from your GY, then target 1 Level 5 or higher Warrior monster in your GY; Special Summon that target.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "COSMO BLAZER",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1900,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

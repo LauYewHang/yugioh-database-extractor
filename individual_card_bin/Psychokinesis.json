@@ -1,0 +1,14 @@
+{
+    "name": "Psychokinesis",
+    "filename": "Psychokinesis",
+    "card_text": "If you control a Psychic-Type monster: Target 1 card on the field; destroy it, and if you do, take 1000 damage.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "HIGH-SPEED RIDERS",
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -33,7 +33,10 @@
     "attack": 3000,
     "defense": 300,
     "monster_type": "Beast",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 10,
     "pendulum_effect": "When a \"Yosenju\" monster you control declares an attack: You can have that attacking monster gain 300 ATK until the end of the Battle Phase.",

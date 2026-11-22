@@ -1,0 +1,16 @@
+{
+    "name": "Clear New World",
+    "filename": "Clear_New_World",
+    "card_text": "Target 1 face-up monster you control; destroy it, and if you do, Special Summon 1 monster from your Deck in Defense Position, with a different original Type and Attribute, whose Level is lower than that monster's original Level, but negate its effects. You can only activate 1 \"Clear New World\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "OTS TOURNAMENT PACK 22"
+    ],
+    "related_card": [
+        "Veda Kalanta"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

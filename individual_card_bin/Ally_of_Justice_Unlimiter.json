@@ -1,0 +1,41 @@
+{
+    "name": "Ally of Justice Unlimiter",
+    "filename": "Ally_of_Justice_Unlimiter",
+    "card_text": "You can Tribute this card, then target 1 \"Ally of Justice\" monster you control; that target's ATK becomes double its original ATK until the end of this turn.",
+    "release_date": "2010-05-25",
+    "available_set": [
+        "HIDDEN ARSENAL 2",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [
+        "Ally of Justice Catastor",
+        "Ally of Justice Clausolas",
+        "Ally of Justice Core Destroyer",
+        "Ally of Justice Cosmic Gateway",
+        "Ally of Justice Cycle Reader",
+        "Ally of Justice Cyclone Creator",
+        "Ally of Justice Decisive Armor",
+        "Ally of Justice Enemy Catcher",
+        "Ally of Justice Field Marshal",
+        "Ally of Justice Garadholg",
+        "Ally of Justice Light Gazer",
+        "Ally of Justice Nullfier",
+        "Ally of Justice Omni-Weapon",
+        "Ally of Justice Quarantine",
+        "Ally of Justice Reverse Break",
+        "Ally of Justice Rudra",
+        "Ally of Justice Searcher",
+        "Ally of Justice Thousand Arms",
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unknown Crusher",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 600,
+    "defense": 200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

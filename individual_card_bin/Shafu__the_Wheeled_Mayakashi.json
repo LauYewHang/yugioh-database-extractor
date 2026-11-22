@@ -1,0 +1,37 @@
+{
+    "name": "Shafu, the Wheeled Mayakashi",
+    "filename": "Shafu__the_Wheeled_Mayakashi",
+    "card_text": "If this card is Normal or Special Summoned: You can target 1 \"Mayakashi\" monster in your GY, except \"Shafu, the Wheeled Mayakashi\"; Special Summon it in Defense Position, but negate its effects. You can only use this effect of \"Shafu, the Wheeled Mayakashi\" once per turn. You cannot Special Summon monsters from the Extra Deck, except \"Mayakashi\" monsters.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS"
+    ],
+    "related_card": [
+        "Dakki, the Graceful Mayakashi",
+        "Gashadokuro, the Skeletal Mayakashi",
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Mayakashi's Manuscript",
+        "Hajun, the Winged Mayakashi",
+        "Mayakashi Mayhem",
+        "Mayakashi Metamorphosis",
+        "Mayakashi Return",
+        "Mayakashi Winter",
+        "Oboro-Guruma, the Wheeled Mayakashi",
+        "Tengu, the Winged Mayakashi",
+        "Tsuchigumo, the Poisonous Mayakashi",
+        "Tsukahagi, the Poisonous Mayakashi",
+        "Yasha, the Skeletal Mayakashi",
+        "Yoko, the Graceful Mayakashi",
+        "Yuki-Musume, the Ice Mayakashi",
+        "Yuki-Onna, the Absolute Zero Mayakashi",
+        "Yuki-Onna, the Ice Mayakashi",
+        "Yuki-Onna, the Icicle Mayakashi"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 400,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

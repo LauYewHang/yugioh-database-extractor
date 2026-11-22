@@ -93,7 +93,10 @@
     "attack": 3500,
     "defense": 3000,
     "monster_type": "Fiend",
-    "monster_card_type": 34,
+    "monster_card_type": [
+        "Xyz",
+        "Effect"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 8
 }

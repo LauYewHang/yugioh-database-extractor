@@ -1,0 +1,13 @@
+{
+    "name": "Whitefish Salvage",
+    "filename": "Whitefish_Salvage",
+    "card_text": "You can target 1 Fish monster in your GY; add it to your hand. You can only use this effect of \"Whitefish Salvage\" once per turn. If this card in your possession is destroyed by an opponent's card effect and sent to your GY: Take 1 Fish monster from your Deck, and either add it to your hand or Special Summon it.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM",
+        "2020 TIN OF LOST MEMORIES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

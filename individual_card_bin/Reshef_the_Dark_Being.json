@@ -1,0 +1,20 @@
+{
+    "name": "Reshef the Dark Being",
+    "filename": "Reshef_the_Dark_Being",
+    "card_text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Final Ritual of the Ancients\". Once per turn, by discarding 1 Spell Card from your hand, take control of 1 monster on your opponent's side of the field until the end of this turn.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 3",
+        "THE LOST MILLENNIUM"
+    ],
+    "related_card": [
+        "Final Ritual of the Ancients"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

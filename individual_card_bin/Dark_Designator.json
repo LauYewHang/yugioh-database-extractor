@@ -1,0 +1,14 @@
+{
+    "name": "Dark Designator",
+    "filename": "Dark_Designator",
+    "card_text": "Declare 1 Monster Card name. If the declared card is in your opponent's Deck, add 1 of that card to your opponent's hand.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "PHARAONIC GUARDIAN",
+        "TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

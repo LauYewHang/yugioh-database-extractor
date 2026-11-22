@@ -121,7 +121,10 @@
     "attack": 2000,
     "defense": 600,
     "monster_type": "Warrior",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "During your Main Phase, if this card was activated this turn: You can target 1 \"Performapal\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Performapal Dag Daggerman\" once per turn.",

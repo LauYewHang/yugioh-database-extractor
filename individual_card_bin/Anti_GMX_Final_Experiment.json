@@ -1,0 +1,26 @@
+{
+    "name": "Anti-GMX Final Experiment",
+    "filename": "Anti_GMX_Final_Experiment",
+    "card_text": "Activate only if you control a \"GMX\" monster. Once per turn, when your opponent activates a monster effect on the field (except during the Damage Step): You can excavate the top 5 cards of your Deck, then if you excavated a \"GMX\" card(s), negate that activated effect, also place all the excavated cards on the top or bottom of the Deck in any order.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Evolved Daneen",
+        "GMX - ALLOS",
+        "GMX - COMPREX",
+        "GMX - VELOX",
+        "GMX 55th Experiment Report",
+        "GMX Applied Experiment #55",
+        "GMX Associate Noma",
+        "GMX Chairman Kimridge",
+        "GMX Lab #5",
+        "GMX Partner Selandea",
+        "GMX Researcher Selande",
+        "GMX Suppression Squad",
+        "Returned Dino Daneen"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -59,7 +59,9 @@
     "attack": 4500,
     "defense": 3800,
     "monster_type": "Dragon",
-    "monster_card_type": 8,
+    "monster_card_type": [
+        "Fusion"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 12
 }

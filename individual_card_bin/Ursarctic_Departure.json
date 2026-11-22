@@ -1,0 +1,30 @@
+{
+    "name": "Ursarctic Departure",
+    "filename": "Ursarctic_Departure",
+    "card_text": "Discard 1 card; add 2 \"Ursarctic\" monsters from your Deck to your hand. If you would Tribute a monster(s) to activate an \"Ursarctic\" monster's effect, except the turn this card was sent to the GY, you can banish this card from your GY instead. You can only use each effect of \"Ursarctic Departure\" once per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Big Dipper",
+        "Ursarctic Drytron",
+        "Ursarctic Grand Chariot",
+        "Ursarctic Megabilis",
+        "Ursarctic Megapolar",
+        "Ursarctic Megatanus",
+        "Ursarctic Mikbilis",
+        "Ursarctic Mikpolar",
+        "Ursarctic Miktanus",
+        "Ursarctic Polar Star",
+        "Ursarctic Polari",
+        "Ursarctic Quint Charge",
+        "Ursarctic Radiation",
+        "Ursarctic Septentrion",
+        "Ursarctic Slider"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

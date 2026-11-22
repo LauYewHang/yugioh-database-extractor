@@ -1,0 +1,33 @@
+{
+    "name": "Void Imagination",
+    "filename": "Void_Imagination",
+    "card_text": "\"Infernoid\" monsters you control whose original Levels are 2 or higher become Level 1 and all battle damage they inflict to your opponent is halved. You can send this card to the GY; Fusion Summon 1 \"Infernoid\" Fusion Monster from your Extra Deck, using monsters from your hand or field as material. If your opponent controls a monster that was Special Summoned from the Extra Deck, and you do not, you can also use up to 6 monsters in your Deck as Fusion Materials.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "CLASH OF REBELLIONS",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "El Shaddoll Meshachrer",
+        "Infernity Pawn",
+        "Infernoid Antra",
+        "Infernoid Attondel",
+        "Infernoid Decatron",
+        "Infernoid Devyaty",
+        "Infernoid Evil",
+        "Infernoid Flood",
+        "Infernoid Harmadik",
+        "Infernoid Onuncu",
+        "Infernoid Patrulea",
+        "Infernoid Piaty",
+        "Infernoid Pirmais",
+        "Infernoid Seitsemas",
+        "Infernoid Sjette",
+        "Infernoid Tierra",
+        "Void Feast",
+        "Void Reignition",
+        "Void Vanishment"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

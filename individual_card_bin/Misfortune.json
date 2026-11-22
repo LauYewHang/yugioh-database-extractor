@@ -1,0 +1,14 @@
+{
+    "name": "Misfortune",
+    "filename": "Misfortune",
+    "card_text": "Select 1 face-up monster your opponent controls. Inflict damage to your opponent equal to half that monster's original ATK. Your monsters cannot attack this turn.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "ENEMY OF JUSTICE",
+        "DUELIST PACK - ASTER PHOENIX -",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

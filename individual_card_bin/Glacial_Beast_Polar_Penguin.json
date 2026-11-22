@@ -1,0 +1,27 @@
+{
+    "name": "Glacial Beast Polar Penguin",
+    "filename": "Glacial_Beast_Polar_Penguin",
+    "card_text": "If this card is Special Summoned: You can target 1 monster your opponent controls; return it to the hand. If this card on the field is destroyed by battle or card effect: You can target 1 card your opponent controls; return it to the hand. You can only use 1 \"Glacial Beast Polar Penguin\" effect per turn, and only once that turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Nopenguin",
+        "Penguin Brave",
+        "Penguin Cleric",
+        "Penguin Ninja",
+        "Penguin Squire",
+        "Penguin Sword",
+        "Puny Penguin",
+        "Royal Penguins Garden",
+        "The Great Emperor Penguin"
+    ],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Aqua",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

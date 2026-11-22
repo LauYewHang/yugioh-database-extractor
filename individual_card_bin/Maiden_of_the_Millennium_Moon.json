@@ -1,0 +1,22 @@
+{
+    "name": "Maiden of the Millennium Moon",
+    "filename": "Maiden_of_the_Millennium_Moon",
+    "card_text": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Maiden of the Millennium Moon\" once per turn. If this card is in your hand: You can place it in your Spell & Trap Zone as a face-up Continuous Spell. If your opponent activates a card or effect, while this card is a Continuous Spell (except during the Damage Step): You can Special Summon this card, and if you do, for the rest of this turn, your opponent cannot target Level 5 or higher Illusion or Spellcaster monsters you control with card effects.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Millennium Ankh",
+        "Sengenjin Wakes from a Millennium",
+        "Wedju Temple"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1300,
+    "monster_type": "Illusion",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

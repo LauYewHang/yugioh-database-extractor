@@ -1,0 +1,33 @@
+{
+    "name": "The Weather Painter Aurora",
+    "filename": "The_Weather_Painter_Aurora",
+    "card_text": "When this card is Normal Summoned: You can place 1 \"The Weather\" Spell/Trap from your hand, Deck, or GY face-up in your Spell & Trap Zone. Your opponent cannot target \"The Weather\" Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "The Weather Auroral Canvas",
+        "The Weather Cloudy Canvas",
+        "The Weather Forecast",
+        "The Weather Painter Cloud",
+        "The Weather Painter Moonbow",
+        "The Weather Painter Rain",
+        "The Weather Painter Rainbow",
+        "The Weather Painter Snow",
+        "The Weather Painter Sun",
+        "The Weather Painter Thunder",
+        "The Weather Rainbowed Canvas",
+        "The Weather Rainy Canvas",
+        "The Weather Snowy Canvas",
+        "The Weather Sunny Canvas",
+        "The Weather Thundery Canvas"
+    ],
+    "attribute": "DARK",
+    "attack": 2200,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

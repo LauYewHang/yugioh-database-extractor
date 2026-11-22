@@ -1,0 +1,12 @@
+{
+    "name": "First Striker Advantage",
+    "filename": "First_Striker_Advantage",
+    "card_text": "Once per turn, when an attack is declared involving your monster: You can roll a six-sided die and apply this effect to your monster based on the result, until the end of this turn. If both monsters were in the same column when this effect was activated, choose the effect instead of rolling.\n\u25cf1 or 4: The first time it would be destroyed by battle or card effect, it is not destroyed.\n\u25cf2 or 5: It loses 500 ATK, also it is unaffected by activated Spell/Trap effects, except \"First Striker Advantage\".\n\u25cf3 or 6: It gains 1000 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

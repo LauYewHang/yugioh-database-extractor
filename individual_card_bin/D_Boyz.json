@@ -1,0 +1,18 @@
+{
+    "name": "D-Boyz",
+    "filename": "D_Boyz",
+    "card_text": "FLIP: You can Special Summon any number of \"D-Boyz\" from your Deck in Attack Position, then you take 1000 damage for each monster Special Summoned by this effect.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 1000,
+    "monster_type": "Fiend",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

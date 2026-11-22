@@ -1,0 +1,20 @@
+{
+    "name": "Old Entity Cthugua",
+    "filename": "Old_Entity_Cthugua",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can return all Rank 4 Xyz Monsters on the field to the Extra Deck. If you Fusion Summon using this card as Fusion Material: Draw 1 card. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n\u25cfIf it is Xyz Summoned: Draw 1 card.",
+    "release_date": "2018-08-17",
+    "available_set": [
+        "SHADOWS IN VALHALLA"
+    ],
+    "related_card": [
+        "Forbidden Trapezohedron",
+        "Outer Entity Azathot"
+    ],
+    "attribute": "FIRE",
+    "attack": 2200,
+    "defense": 200,
+    "monster_type": "Pyro",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

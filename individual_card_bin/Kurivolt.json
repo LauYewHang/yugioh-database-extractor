@@ -1,0 +1,21 @@
+{
+    "name": "Kurivolt",
+    "filename": "Kurivolt",
+    "card_text": "You can target 1 Xyz Monster that has material; detach 1 material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. Cannot be used as Synchro Material.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "NUMBER HUNTERS",
+        "DUELIST LEAGUE 15",
+        "ORDER OF CHAOS",
+        "ADVENT CALENDAR 2019",
+        "STAR PACK 2013"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Lord Gaia the Fierce Knight",
+    "filename": "Lord_Gaia_the_Fierce_Knight",
+    "card_text": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). Once per turn, if a monster(s) with ATK higher than this card is Special Summoned to your opponent's field (except during the Damage Step): You can make this card gain 700 ATK until the end of this turn.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Artillery Catapult Turtle",
+        "Beginning of Heaven and Earth",
+        "Black Luster Soldier - Super Soldier",
+        "Envoy of Chaos",
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight",
+        "Gaia the Magical Knight of Dragons",
+        "Galloping Gaia",
+        "Gateway to Chaos",
+        "Skilled Blue Magician",
+        "Sky Galloping Gaia the Dragon Champion",
+        "Spiral Spear Strike"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 2100,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Ketu Dracotail",
+    "filename": "Ketu_Dracotail",
+    "card_text": "Add 1 \"Dracotail\" monster from your Deck to your hand, then if your opponent controls a monster, you can Fusion Summon 1 Dragon or Spellcaster monster from your Extra Deck, using monsters from your hand or field. You can only activate 1 \"Ketu Dracotail\" per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "LIMITED PACK WORLD CHAMPIONSHIP 2026",
+        "Justice Hunters",
+        "OTS Tournament Pack 29"
+    ],
+    "related_card": [
+        "Dracotail Arthalion",
+        "Dracotail Faimena",
+        "Dracotail Flame",
+        "Dracotail Gulamel",
+        "Dracotail Horn",
+        "Dracotail Lukias",
+        "Dracotail Mululu",
+        "Dracotail Pan",
+        "Dracotail Phryxul",
+        "Dracotail Shaulas",
+        "Dracotail Sting",
+        "Dracotail Urgula",
+        "Rahu Dracotail"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

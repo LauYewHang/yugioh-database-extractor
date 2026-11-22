@@ -1,0 +1,34 @@
+{
+    "name": "Junk Archer",
+    "filename": "Junk_Archer",
+    "card_text": "\"Junk Synchron\" + 1+ non-Tuner monsters\nOnce per turn: You can target 1 monster your opponent controls; banish it. The banished monster returns to the opponent's field during the End Phase of this turn.",
+    "release_date": "2010-01-26",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI 2 -",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [
+        "Catapult Warrior",
+        "Jet Synchron",
+        "Junk Anchor",
+        "Junk Armor",
+        "Junk Berserker",
+        "Junk Blader",
+        "Junk Changer",
+        "Junk Connector",
+        "Junk Meister",
+        "Junk Servant",
+        "Junk Synchron",
+        "Junk Warrior Extreme",
+        "Scrap-Iron Statue",
+        "Stardust Assault Warrior"
+    ],
+    "attribute": "EARTH",
+    "attack": 2300,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

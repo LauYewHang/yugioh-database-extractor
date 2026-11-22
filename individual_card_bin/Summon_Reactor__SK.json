@@ -1,0 +1,23 @@
+{
+    "name": "Summon Reactor \u30fbSK",
+    "filename": "Summon_Reactor__SK",
+    "card_text": "The first time a monster(s) is Summoned to your opponent's side of the field each turn, inflict 800 damage to your opponent. During the Battle Phase of the turn this effect is activated, you can negate the attack of 1 monster your opponent controls. You can send 1 face-up \"Trap Reactor \u30fbY FI\", 1 face-up \"Spell Reactor \u30fbRE\", and this face-up card you control to the Graveyard to Special Summon 1 \"Flying Fortress SKY FIRE\" from your hand, Deck, or Graveyard.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Dark Flattop",
+        "Fake Explosion",
+        "Flying Fortress SKY FIRE",
+        "Spell Reactor \u30fbRE",
+        "Trap Reactor \u30fbY FI"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

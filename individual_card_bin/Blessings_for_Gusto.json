@@ -1,0 +1,40 @@
+{
+    "name": "Blessings for Gusto",
+    "filename": "Blessings_for_Gusto",
+    "card_text": "Target 2 \"Gusto\" monsters in your Graveyard, plus a third \"Gusto\" monster in your Graveyard; shuffle both of the first 2 targets into your Deck, then Special Summon the third target.",
+    "release_date": "2011-09-29",
+    "available_set": [
+        "DUEL TERMINAL 5B",
+        "HIDDEN ARSENAL 5 STEELSWARM INVASION"
+    ],
+    "related_card": [
+        "Caam, Serenity of Gusto",
+        "Contact with Gusto",
+        "Daigusto Eguls",
+        "Daigusto Emeral",
+        "Daigusto Falcos",
+        "Daigusto Gulldos",
+        "Daigusto Laplampilica",
+        "Daigusto Phoenix",
+        "Daigusto Sphreez",
+        "Dust Storm of Gusto",
+        "Gusto Codor",
+        "Gusto Egul",
+        "Gusto Falco",
+        "Gusto Griffin",
+        "Gusto Gulldo",
+        "Gusto Squirro",
+        "Gusto Thunbolt",
+        "Gusto Vedir",
+        "Kamui, Hope of Gusto",
+        "Musto, Oracle of Gusto",
+        "Pilica, Descendant of Gusto",
+        "Reeze, Whirlwind of Gusto",
+        "Tailwind of Gusto",
+        "Whirlwind of Gusto",
+        "Winda, Priestess of Gusto",
+        "Windaar, Sage of Gusto"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Vaalmonica, the Agathokakological Voice",
+    "filename": "Vaalmonica__the_Agathokakological_Voice",
+    "card_text": "When this card is activated: You can add 1 \"Vaalmonica\" monster from your Deck to your hand. If a card in your Pendulum Zone has a 3rd Resonance Counter placed on it: You can target 1 monster your opponent controls; take control of it until the End Phase, but it cannot declare an attack. You can only use this effect of \"Vaalmonica, the Agathokakological Voice\" once per turn. You can only activate 1 \"Vaalmonica, the Agathokakological Voice\" per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Dimonno Vaalmonica",
+        "Duralume, Vaalmonican Heathen Hallow",
+        "Selettrice Vaalmonica",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Disarmonia",
+        "Vaalmonica Ereditare",
+        "Vaalmonica Followed Rhythm",
+        "Vaalmonica Intonare",
+        "Vaalmonica Invitare",
+        "Vaalmonica Scelta",
+        "Vaalmonica Versare",
+        "Varar, Vaalmonican Concord",
+        "Zebufera, Vaalmonican Hallow Heathen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

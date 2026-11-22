@@ -1,0 +1,30 @@
+{
+    "name": "Exosister Vadis",
+    "filename": "Exosister_Vadis",
+    "card_text": "Pay 800 LP; choose 1 \"Exosister\" monster from your Deck, then take 1 other \"Exosister\" monster from your Deck that is mentioned on that monster, and Special Summon both, but shuffle them into the Deck during the End Phase, also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except \"Exosister\" monsters. You can only activate 1 \"Exosister Vadis\" per turn.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "THE GRAND CREATORS"
+    ],
+    "related_card": [
+        "Exosister Arment",
+        "Exosister Asophiel",
+        "Exosister Betrayal",
+        "Exosister Carpedivem",
+        "Exosister Elis",
+        "Exosister Gibrine",
+        "Exosister Irene",
+        "Exosister Karmael",
+        "Exosister Kaspitell",
+        "Exosister Martha",
+        "Exosister Mikailis",
+        "Exosister Pax",
+        "Exosister Returnia",
+        "Exosister Sophia",
+        "Exosister Stella",
+        "Exosisters Magnifica"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

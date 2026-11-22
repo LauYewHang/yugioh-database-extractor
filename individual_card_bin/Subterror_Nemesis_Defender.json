@@ -1,0 +1,29 @@
+{
+    "name": "Subterror Nemesis Defender",
+    "filename": "Subterror_Nemesis_Defender",
+    "card_text": "During either player's turn, when your opponent activates a card or effect that targets exactly 1 Set monster you control (and no other cards), or when a Set monster you control is targeted for an attack by an opponent's monster: You can send this card from your hand or face-up from your field to the Graveyard, then target another monster you control that would be an appropriate target; that card/effect/attack now targets the new target. While you control a Set monster, this card cannot be destroyed by battle or card effects.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST"
+    ],
+    "related_card": [
+        "Subterror Behemoth Burrowing",
+        "Subterror Behemoth Dragossuary",
+        "Subterror Behemoth Fiendess",
+        "Subterror Behemoth Stalagmo",
+        "Subterror Cave Clash",
+        "Subterror Fiendess",
+        "Subterror Final Battle",
+        "Subterror Guru",
+        "Subterror Nemesis Archer",
+        "Subterror Nemesis Warrior",
+        "The Hidden City"
+    ],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 2000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

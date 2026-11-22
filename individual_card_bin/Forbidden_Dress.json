@@ -1,0 +1,23 @@
+{
+    "name": "Forbidden Dress",
+    "filename": "Forbidden_Dress",
+    "card_text": "Target 1 face-up monster on the field; until the end of this turn, that target loses 600 ATK, but cannot be targeted or destroyed by other card effects.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "LEGENDARY HERO DECKS",
+        "PREMIUM GOLD",
+        "ABYSS RISING",
+        "MASTER OF PENDULUM STRUCTURE DECK",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Condemned Witch",
+        "Darklord Djehuty",
+        "Darklord Gulgolet"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

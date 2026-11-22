@@ -1,0 +1,29 @@
+{
+    "name": "The Man with the Mark",
+    "filename": "The_Man_with_the_Mark",
+    "card_text": "If this card is Normal or Special Summoned: You can take 1 \"Temple of the Kings\", or 1 Spell/Trap that mentions it, from your Deck and either add it to your hand or send it to the GY. You can only use this effect of \"The Man with the Mark\" once per turn. While you control \"Temple of the Kings\", this card and \"Apophis\" monsters you control cannot be destroyed by battle or card effects. \"Temple of the Kings\" you control cannot be destroyed by card effects.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Anubis the Last Judge",
+        "Apophis the Serpent",
+        "Apophis the Swamp Deity",
+        "Defense of the Temple",
+        "Divine Serpent Apophis",
+        "Embodiment of Apophis",
+        "Merciless Scorpion of Serket",
+        "Mystical Beast of Serket",
+        "Temple of the Kings",
+        "Treasures of the Kings",
+        "Verdict of Anubis"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

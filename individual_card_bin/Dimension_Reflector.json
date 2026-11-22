@@ -1,0 +1,14 @@
+{
+    "name": "Dimension Reflector",
+    "filename": "Dimension_Reflector",
+    "card_text": "Activate this card by banishing 2 monsters you control, then target 1 face-up monster your opponent controls; Special Summon this card in Attack Position as an Effect Monster (Spellcaster-Type/DARK/Level 4/ATK ?/DEF ?) with ATK and DEF equal to that face-up monster's ATK. (This card is also still a Trap Card.) If this monster is Summoned this way: Inflict damage to your opponent equal to this card's ATK.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -13,7 +13,10 @@
     "attack": 2200,
     "defense": 1800,
     "monster_type": "Zombie",
-    "monster_card_type": 1032,
+    "monster_card_type": [
+        "Tuner",
+        "Fusion"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

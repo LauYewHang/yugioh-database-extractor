@@ -1,0 +1,35 @@
+{
+    "name": "Basiltrice, Familiar of the Evil Eye",
+    "filename": "Basiltrice__Familiar_of_the_Evil_Eye",
+    "card_text": "If you control an \"Evil Eye\" monster and this card is in your hand or GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. During your opponent's turn, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 \"Evil Eye\" Link Monster using monsters you control as material. When you do, you can also use \"Evil Eye\" Equip Spells you control as \"Evil Eye\" monsters. You can only use each effect of \"Basiltrice, Familiar of the Evil Eye\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Basilius, Familiar of the Evil Eye",
+        "Catoblepas, Familiar of the Evil Eye",
+        "Evil Eye Awakening",
+        "Evil Eye Confrontation",
+        "Evil Eye Defeat",
+        "Evil Eye Domain - Pareidolia",
+        "Evil Eye Mesmerism",
+        "Evil Eye of Gorgoneio",
+        "Evil Eye of Selene",
+        "Evil Eye Reemergence",
+        "Evil Eye Repose",
+        "Evil Eye Retribution",
+        "Evil Eyes Unleashed",
+        "Gorgon, Empress of the Evil Eyed",
+        "Medusa, Watcher of the Evil Eye",
+        "Serziel, Watcher of the Evil Eye",
+        "Zerrziel, Ruler of the Evil Eyed"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

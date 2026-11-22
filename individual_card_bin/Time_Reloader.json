@@ -1,0 +1,19 @@
+{
+    "name": "Time Reloader",
+    "filename": "Time_Reloader",
+    "card_text": "During the Main Phase, if a monster on the field is flipped face-up: You can Special Summon this card from your hand, then change 1 face-up monster on the field to face-down Defense Position. During the Main Phase, if this card is flipped face-up: You can target 1 monster in your GY; Special Summon it in Defense Position, then change 1 face-up monster on the field to face-down Defense Position. You can only use each effect of \"Time Reloader\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "Phantom Revenge",
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 2400,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

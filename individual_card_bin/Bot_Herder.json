@@ -1,0 +1,12 @@
+{
+    "name": "Bot Herder",
+    "filename": "Bot_Herder",
+    "card_text": "Target 1 monster your opponent controls, that is a face-up monster you own or a face-down Defense Position monster; if that monster is no longer on the field, or is a monster you own (if face-down, reveal it briefly to check), apply these effects in sequence.\n\u25cfInflict 200 damage to your opponent.\n\u25cfTake control of all monsters your opponent controls, except that monster.",
+    "release_date": "2025-09-05",
+    "available_set": [
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

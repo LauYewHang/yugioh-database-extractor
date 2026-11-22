@@ -1,0 +1,30 @@
+{
+    "name": "Fairy Tail - Matchgiru",
+    "filename": "Fairy_Tail___Matchgiru",
+    "card_text": "If a Spellcaster monster with 1850 original ATK is on the field: You can Special Summon this card from your hand or GY, also you cannot Special Summon for the rest of this turn, except Spellcaster monsters. If this card is Normal or Special Summoned: You can add 1 \"Fairy Tail\" Spell/Trap or 1 \"Fairy Tale Tails\" from your Deck to your hand. You can pay 500 LP; the name of 1 Effect Monster your opponent controls becomes \"Prince of Fairies\". You can only use each effect of \"Fairy Tail - Matchgiru\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Fairy Tail - Luna",
+        "Fairy Tail - Rella",
+        "Fairy Tail - Rochka",
+        "Fairy Tail - Sleeper",
+        "Fairy Tail - Snow",
+        "Fairy Tail - Wiccat",
+        "Fairy Tail Ball",
+        "Fairy Tale Tails",
+        "Once Upon a Fairy Tail",
+        "Tails of the Fairy Tails",
+        "Teller of Fairy Tails",
+        "Weaver of Fairy Tails"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1850,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

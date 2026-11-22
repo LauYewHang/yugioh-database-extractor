@@ -1,0 +1,25 @@
+{
+    "name": "Guardian Kay'est",
+    "filename": "Guardian_Kay_est",
+    "card_text": "Cannot be Summoned unless you control a face-up \"Rod of Silence - Kay'est\". This card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug",
+        "Rod of Silence - Kay'est"
+    ],
+    "attribute": "WATER",
+    "attack": 1000,
+    "defense": 1800,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

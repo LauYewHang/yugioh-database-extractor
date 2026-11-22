@@ -1,0 +1,17 @@
+{
+    "name": "There Can Be Only One",
+    "filename": "There_Can_Be_Only_One",
+    "card_text": "Each player can only control 1 monster of each Type. If a player controls 2 or more monsters of the same Type, they must send some to the GY so they control no more than 1 monster of that Type.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "Gold Series: Maximum Gold",
+        "VALIANT SMASHERS",
+        "WILD SURVIVORS",
+        "Duel Devastator",
+        "EXTREME FORCE",
+        "STRUCTURE DECK: ALBAZ STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

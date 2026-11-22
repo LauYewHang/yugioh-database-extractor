@@ -1,0 +1,20 @@
+{
+    "name": "Viser Des",
+    "filename": "Viser_Des",
+    "card_text": "If this card is Normal Summoned: Target 1 monster your opponent controls; during your third Standby Phase after this effect's activation, destroy that monster. This card cannot be destroyed by battle while the targeted monster is on the field.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "STRUCTURE DECK - MARIK -",
+        "MILLENNIUM PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

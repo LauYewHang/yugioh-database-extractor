@@ -1,0 +1,39 @@
+{
+    "name": "Abyss Script - Romantic Terror",
+    "filename": "Abyss_Script___Romantic_Terror",
+    "card_text": "Return 1 \"Abyss Actor\" Pendulum Monster you control to the hand, and if you do, Special Summon from your Extra Deck in Defense Position, 1 face-up \"Abyss Actor\" Pendulum Monster with a different original name from that monster. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can Set any number of \"Abyss Script\" Spells directly from your Deck. You can only activate 1 \"Abyss Script - Romantic Terror\" per turn.",
+    "release_date": "2018-09-28",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
+    ],
+    "related_card": [
+        "Abyss Actor - Comic Relief",
+        "Abyss Actor - Curtain Raiser",
+        "Abyss Actor - Evil Heel",
+        "Abyss Actor - Extras",
+        "Abyss Actor - Funky Comedian",
+        "Abyss Actor - Hyper Director",
+        "Abyss Actor - Leading Lady",
+        "Abyss Actor - Liberty Dramatist",
+        "Abyss Actor - Mellow Madonna",
+        "Abyss Actor - Sassy Rookie",
+        "Abyss Actor - Super Producer",
+        "Abyss Actor - Superstar",
+        "Abyss Actor - Trendy Understudy",
+        "Abyss Actor - Twinkle Little Star",
+        "Abyss Actor - Wild Hope",
+        "Abyss Actors Back Stage",
+        "Abyss Actors' Curtain Call",
+        "Abyss Actors' Dress Rehearsal",
+        "Abyss Playhouse - Fantastic Theater",
+        "Abyss Script - Abysstainment",
+        "Abyss Script - Dramatic Story",
+        "Abyss Script - Fantasy Magic",
+        "Abyss Script - Fire Dragon's Lair",
+        "Abyss Script - Opening Ceremony",
+        "Abyss Script - Rise of the Abyss King"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

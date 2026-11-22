@@ -1,0 +1,27 @@
+{
+    "name": "Xyz Remora",
+    "filename": "Xyz_Remora",
+    "card_text": "You can Special Summon this card (from your hand) by detaching 2 materials from monster(s) you control. When Summoned this way: You can target 2 Level 4 Fish monsters in your GY; Special Summon those targets in Defense Position. Their effects are negated, they cannot attack or change their battle positions, and cannot be used as material for an Xyz Summon, except for the Xyz Summon of a WATER monster.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "LEGENDARY DUELISTS: DUELS FROM THE DEEP"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

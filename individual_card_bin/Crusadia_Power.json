@@ -1,0 +1,28 @@
+{
+    "name": "Crusadia Power",
+    "filename": "Crusadia_Power",
+    "card_text": "Target 1 \"Crusadia\" monster you control; that \"Crusadia\" monster is unaffected by card effects this turn, except its own. You can only activate 1 \"Crusadia Power\" per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Crusadia Arboria",
+        "Crusadia Draco",
+        "Crusadia Equimax",
+        "Crusadia Krawler",
+        "Crusadia Leonis",
+        "Crusadia Magius",
+        "Crusadia Maximus",
+        "Crusadia Reclusia",
+        "Crusadia Regulex",
+        "Crusadia Revival",
+        "Crusadia Spatha",
+        "Crusadia Testament",
+        "Crusadia Vanguard",
+        "Mekk-Knight Crusadia Avramax"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

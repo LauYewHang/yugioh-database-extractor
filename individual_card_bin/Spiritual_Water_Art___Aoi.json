@@ -1,0 +1,18 @@
+{
+    "name": "Spiritual Water Art - Aoi",
+    "filename": "Spiritual_Water_Art___Aoi",
+    "card_text": "Tribute 1 WATER monster; look at your opponent's hand, then send 1 card from their hand to the GY.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION",
+        "ASTRAL PACK TWO"
+    ],
+    "related_card": [
+        "Awakening of the Possessed - Gagigobyte"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

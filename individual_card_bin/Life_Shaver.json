@@ -1,0 +1,12 @@
+{
+    "name": "Life Shaver",
+    "filename": "Life_Shaver",
+    "card_text": "You can only control 1 \"Life Shaver\". Once per turn, during your opponent's End Phase: Place 1 counter on this card. During the Main or Battle Phase, if this card has a counter(s) on it: You can send this card to the GY, then make your opponent discard as many cards as possible, up to the number of counters that were on this card.",
+    "release_date": "2024-03-01",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Enraged Battle Ox",
+    "filename": "Enraged_Battle_Ox",
+    "card_text": "If your Beast, Beast-Warrior, or Winged Beast monster attacks a Defense Position monster, inflict piercing battle damage.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "STRUCTURE DECK : SETO KAIBA",
+        "DUELIST LEAGUE 15",
+        "Speed Duel: Battle City Box",
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "DUELIST PACK - KAIBA -",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

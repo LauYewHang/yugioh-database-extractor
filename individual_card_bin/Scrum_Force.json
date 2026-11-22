@@ -1,0 +1,13 @@
+{
+    "name": "Scrum Force",
+    "filename": "Scrum_Force",
+    "card_text": "While you control 2 or more face-up Defense Position monsters, your opponent cannot target Defense Position monsters you control with card effects, and they cannot be destroyed by your opponent's card effects. If this card would be destroyed by card effect, you can destroy 1 card in your Spell & Trap Zone instead.",
+    "release_date": "2016-08-19",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

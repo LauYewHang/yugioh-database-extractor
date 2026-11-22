@@ -1,0 +1,13 @@
+{
+    "name": "Pot of Sloth",
+    "filename": "Pot_of_Sloth",
+    "card_text": "Draw cards equal to the number of cards your opponent controls, then if you drew 2 or more cards, place cards from your hand on the bottom of the Deck in any order, equal to the number you drew -1. For the rest of this turn after this card resolves, you cannot activate \"Pot of Sloth\".",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS",
+        "WINNER'S PACK 2026-2027"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

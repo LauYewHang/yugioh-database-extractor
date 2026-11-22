@@ -1,0 +1,17 @@
+{
+    "name": "Brute Enforcer",
+    "filename": "Brute_Enforcer",
+    "card_text": "2 Effect Monsters\nYou can discard 1 card, then target 1 face-up card your opponent controls; your opponent can discard 1 card with the same original type (Monster/Spell/Trap) as that face-up card to negate this effect, otherwise destroy that face-up card. You can only use this effect of \"Brute Enforcer\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

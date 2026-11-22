@@ -1,0 +1,27 @@
+{
+    "name": "Tri-Brigade Oath",
+    "filename": "Tri_Brigade_Oath",
+    "card_text": "Target 1 Link Monster you control; Special Summon 1 Beast, Beast-Warrior, or Winged Beast monster with a different Type from your hand or GY. If you control at least 1 each of Beast, Beast-Warrior, and Winged Beast monsters: You can banish this card from your GY, then target 1 face-up Spell/Trap your opponent controls; negate its effects until the end of this turn. You can only use 1 \"Tri-Brigade Oath\" effect per turn, and only once that turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

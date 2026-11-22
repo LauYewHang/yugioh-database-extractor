@@ -1,0 +1,32 @@
+{
+    "name": "Resonant Destruction",
+    "filename": "Resonant_Destruction",
+    "card_text": "Each time a \"Resonator\" monster(s) is sent to the Graveyard as a Synchro Material: Target 1 card your opponent controls; destroy that target. Destroy this card during your 2nd End Phase after activation.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "EXTREME VICTORY"
+    ],
+    "related_card": [
+        "Barrier Resonator",
+        "Chain Resonator",
+        "Clock Resonator",
+        "Creation Resonator",
+        "Crimson Resonator",
+        "Dark Resonator",
+        "Darkness Resonator",
+        "Double Resonator",
+        "Flare Resonator",
+        "Force Resonator",
+        "Mirror Resonator",
+        "Red Resonator",
+        "Resonator Call",
+        "Resonator Command",
+        "Resonator Engine",
+        "Soul Resonator",
+        "Synkron Resonator",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Jolt Counter",
+    "filename": "Jolt_Counter",
+    "card_text": "During the Battle Phase, when a Spell/Trap Card, or monster effect, is activated while you control a \"Battlin' Boxer\" monster: Negate the activation, and if you do, destroy that card.",
+    "release_date": "2015-04-17",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "WORLD SUPERSTARS"
+    ],
+    "related_card": [
+        "Battlin' Boxer Big Bandage",
+        "Battlin' Boxer Cheat Commissioner",
+        "Battlin' Boxer Chief Second",
+        "Battlin' Boxer Counterpunch",
+        "Battlin' Boxer Glassjaw",
+        "Battlin' Boxer Headgeared",
+        "Battlin' Boxer King Dempsey",
+        "Battlin' Boxer Lead Yoke",
+        "Battlin' Boxer Promoter",
+        "Battlin' Boxer Rabbit Puncher",
+        "Battlin' Boxer Rib Gardna",
+        "Battlin' Boxer Shadow",
+        "Battlin' Boxer Sparrer",
+        "Battlin' Boxer Switchitter",
+        "Battlin' Boxer Uppercutter",
+        "Battlin' Boxer Veil",
+        "Number 105: Battlin' Boxer Star Cestus",
+        "Number 79: Battlin' Boxer Nova Kaiser",
+        "Number C105: Battlin' Boxer Comet Cestus",
+        "Number C79: Battlin' Boxer General Kaiser"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

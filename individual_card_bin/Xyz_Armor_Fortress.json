@@ -1,0 +1,30 @@
+{
+    "name": "Xyz Armor Fortress",
+    "filename": "Xyz_Armor_Fortress",
+    "card_text": "2 Level 5 monsters\nOnce per turn, you can also Xyz Summon \"Xyz Armor Fortress\" by using 1 Rank 3 or 4 Xyz Monster you control. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon while it has material. Once per turn: You can detach up to 2 materials from this card; add \"Armored Xyz\" cards with different names from your Deck to your hand, equal to the number detached. If a monster equipped with this card battles a monster, any battle damage it inflicts to your opponent is doubled.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Armored Shark",
+        "Armored Xyz",
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Full-Armored Xyz",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Reincarnation Unveiling Mail",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "attribute": "WATER",
+    "attack": 2500,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 5
+}

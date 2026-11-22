@@ -1,0 +1,16 @@
+{
+    "name": "Cold Wave",
+    "filename": "Cold_Wave",
+    "card_text": "This card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set any Spell or Trap Cards.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "QUARTER CENTURY BONANZA",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "CHAMPION PACK GAME SIX"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

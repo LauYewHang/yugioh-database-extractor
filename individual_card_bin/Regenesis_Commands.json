@@ -1,0 +1,23 @@
+{
+    "name": "Regenesis Commands",
+    "filename": "Regenesis_Commands",
+    "card_text": "Apply these effects to all cards your opponent controls in the same column as your \"Regenesis\" monsters.\n\u25cfFace-up cards: Negate their effects.\n\u25cfFace-down monsters: Cannot change their battle positions.\n\u25cfFace-down Spells/Traps: Cannot be activated until the end of the next turn.\nYou can only activate 1 \"Regenesis Commands\" per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Regenesis",
+        "Regenesis Archfiend",
+        "Regenesis Birth",
+        "Regenesis Code",
+        "Regenesis Cycle",
+        "Regenesis Dragon",
+        "Regenesis Lord",
+        "Regenesis Overlord",
+        "Regenesis Sage",
+        "Regenesis Warrior"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

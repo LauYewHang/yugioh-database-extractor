@@ -1,0 +1,21 @@
+{
+    "name": "NEX",
+    "filename": "NEX",
+    "card_text": "Send 1 face-up \"Neo-Spacian\" monster you control to the Graveyard. Special Summon 1 Level 4 monster with the same name from your Extra Deck.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Neo-Spacian Air Hummingbird",
+        "Neo-Spacian Aqua Dolphin",
+        "Neo-Spacian Dark Panther",
+        "Neo-Spacian Flare Scarab",
+        "Neo-Spacian Glow Moss",
+        "Neo-Spacian Grand Mole",
+        "Neo-Spacian Marine Dolphin",
+        "Neo-Spacian Twinkle Moss"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Cooky\u2606Yummy",
+    "filename": "Cooky_Yummy",
+    "card_text": "If you control a Link-1 monster or a Level 2 Synchro Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Cooky\u2606Yummy\" once per turn this way. If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; it loses 1000 ATK, or, if this card was Special Summoned by the effect of a Synchro Monster, you can destroy that monster instead. You can only use this effect of \"Cooky\u2606Yummy\" once per turn.",
+    "release_date": "2025-08-01",
+    "available_set": [
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Assist\u2605Yummy!",
+        "Cooky\u2605Yummy Way",
+        "Cupsy\u2605Yummy Way",
+        "Cupsy\u2606Yummy",
+        "Lollipo\u2605Yummy Way",
+        "Marshmao\u2606Yummy",
+        "Yummyusment\u2605Acroquey",
+        "Yummyusment\u2606Mignon",
+        "Yummy\u2605Redemption",
+        "Yummy\u2605Snatchy",
+        "Yummy\u2606Surprise",
+        "Yum\u2606Yum\u2606Yummys"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 0,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

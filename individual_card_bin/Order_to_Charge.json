@@ -1,0 +1,15 @@
+{
+    "name": "Order to Charge",
+    "filename": "Order_to_Charge",
+    "card_text": "Target 1 non-Token Normal Monster you control; Tribute that Normal Monster, and if you do, destroy 1 monster your opponent controls.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "ANCIENT SANCTUARY",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

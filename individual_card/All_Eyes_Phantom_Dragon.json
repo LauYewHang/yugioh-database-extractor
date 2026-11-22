@@ -11,7 +11,10 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 10,
     "pendulum_effect": "Once per turn, at the end of the Damage Step, if your Dragon Pendulum Monster attacked an opponent's monster: You can activate this effect; it can attack again in a row. You cannot declare attacks the turn you activate this effect, except with that monster.",

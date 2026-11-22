@@ -37,7 +37,10 @@
     "attack": 1200,
     "defense": 800,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "Once per turn: You can target 1 \"Lunalight\" monster in your GY; Special Summon it, but it cannot attack, its effects are negated, also it is destroyed during the End Phase.",

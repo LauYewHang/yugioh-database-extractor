@@ -1,0 +1,15 @@
+{
+    "name": "Energy Drain",
+    "filename": "Energy_Drain",
+    "card_text": "Target 1 face-up monster you control; it gains 200 ATK/DEF for each card your opponent currently has in their hand, until the end of this turn.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "INVASION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

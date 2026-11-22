@@ -1,0 +1,30 @@
+{
+    "name": "P.U.N.K. JAM Extreme Session",
+    "filename": "P_U_N_K__JAM_Extreme_Session",
+    "card_text": "Once per turn: You can banish 1 \"P.U.N.K.\" card from your GY; Special Summon 1 \"P.U.N.K.\" monster from your hand. If a Psychic monster you control paid LP to activate its effect: You can draw 1 card. You can use this effect of \"P.U.N.K. JAM Extreme Session\" twice per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Gagaku-P.U.N.K. Crash Beat",
+        "Gagaku-P.U.N.K. Wa Gon",
+        "Gagaku-P.U.N.K. Wild Picking",
+        "Joruri-P.U.N.K. Dangerous Gabu",
+        "Joruri-P.U.N.K. Madame Spider",
+        "Joruri-P.U.N.K. Nashiwari Surprise",
+        "Noh-P.U.N.K. Deer Note",
+        "Noh-P.U.N.K. Foxy Tune",
+        "Noh-P.U.N.K. Ogre Dance",
+        "Noh-P.U.N.K. Rising Scale",
+        "Noh-P.U.N.K. Ze Amin",
+        "P.U.N.K. JAM Dragon Drive",
+        "P.U.N.K. JAM FEVER!",
+        "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "Ukiyoe-P.U.N.K. Rising Carp",
+        "Ukiyoe-P.U.N.K. Sharakusai"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

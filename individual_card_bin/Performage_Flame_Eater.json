@@ -1,0 +1,36 @@
+{
+    "name": "Performage Flame Eater",
+    "filename": "Performage_Flame_Eater",
+    "card_text": "During either player's turn, when a card or effect is activated that would inflict damage to you: You can activate this effect; you cannot Special Summon monsters for the rest of this turn, except \"Performage\" monsters, also Special Summon this card from your hand, and if you do, make that effect damage to you 0. If Summoned this way, banish it when it leaves the field. If this card is Normal or Special Summoned: Each player takes 500 damage.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [
+        "Bubble Barrier",
+        "Performage Ball Balancer",
+        "Performage Cup Tricker",
+        "Performage Damage Juggler",
+        "Performage Fire Dancer",
+        "Performage Hat Tricker",
+        "Performage Mirror Conductor",
+        "Performage Plushfire",
+        "Performage Shadow Maker",
+        "Performage Stilts Launcher",
+        "Performage Trapeze High Magician",
+        "Performage Trapeze Magician",
+        "Performage Trapeze Witch",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Performage Wind Drainer",
+        "Trick Box"
+    ],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": 1600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

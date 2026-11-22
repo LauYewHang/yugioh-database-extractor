@@ -1,0 +1,31 @@
+{
+    "name": "Rescue-ACE HQ",
+    "filename": "Rescue_ACE_HQ",
+    "card_text": "While your opponent controls a monster, all \"Rescue-ACE\" monsters you control gain 500 ATK/DEF. During your Main Phase, you can Normal Summon 1 \"Rescue-ACE\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 4 of your \"Rescue-ACE\" cards that are banished and/or in your GY; shuffle them into the Deck, then draw 1 card.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AMAZING DEFENDERS",
+        "OTS TOURNAMENT PACK 21"
+    ],
+    "related_card": [
+        "ALERT!",
+        "CONTAIN!",
+        "EMERGENCY!",
+        "EXTINGUISH!",
+        "REINFORCE!",
+        "RESCUE!",
+        "Rescue-ACE Air Lifter",
+        "Rescue-ACE Arbitrator",
+        "Rescue-ACE Fire Attacker",
+        "Rescue-ACE Fire Engine",
+        "Rescue-ACE Hydrant",
+        "Rescue-ACE Impulse",
+        "Rescue-ACE Monitor",
+        "Rescue-ACE Preventer",
+        "Rescue-ACE Quick Attacker",
+        "Rescue-ACE Turbulence"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

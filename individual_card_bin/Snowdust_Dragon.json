@@ -1,0 +1,23 @@
+{
+    "name": "Snowdust Dragon",
+    "filename": "Snowdust_Dragon",
+    "card_text": "You can Special Summon this card (from your hand) by removing 4 Ice Counters from anywhere on the field. Other monsters with Ice Counters cannot attack or change their battle positions.",
+    "release_date": "2012-11-09",
+    "available_set": [
+        "ABYSS RISING"
+    ],
+    "related_card": [
+        "Cold Enchanter",
+        "Ice Master",
+        "Snow Dragon",
+        "Snowdust Giant",
+        "Snowman Creator"
+    ],
+    "attribute": "WATER",
+    "attack": 2800,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

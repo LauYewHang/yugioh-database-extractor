@@ -1,0 +1,32 @@
+{
+    "name": "Tri-Brigade Ferrijit the Barren Blossom",
+    "filename": "Tri_Brigade_Ferrijit_the_Barren_Blossom",
+    "card_text": "2 Beast, Beast-Warrior, and/or Winged Beast monsters\nDuring your Main Phase: You can Special Summon 1 Level 4 or lower Beast, Beast-Warrior, or Winged Beast monster from your hand, also you cannot use monsters as Link Material for the rest of this turn, except Beast, Beast-Warrior, or Winged Beast monsters. If this card is sent to the GY: You can draw 1 card, then place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Tri-Brigade Ferrijit the Barren Blossom\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Bearbrumm the Rampant Rampager",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": null,
+    "monster_type": "Beast",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 18
+}

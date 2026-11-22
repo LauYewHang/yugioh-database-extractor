@@ -1,0 +1,14 @@
+{
+    "name": "Storm",
+    "filename": "Storm",
+    "card_text": "Destroy as many Spells/Traps you control as possible, then destroy as many Spells/Traps your opponent controls as possible, up to the number of cards destroyed by this effect.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD",
+        "Speed Duel: Battle City Box",
+        "ASTRAL PACK SEVEN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Kuro-Obi Karate Spirit",
+    "filename": "Kuro_Obi_Karate_Spirit",
+    "card_text": "When this card is Normal Summoned: You can send to the GY all Spells/Traps your opponent controls in the same column as the card(s) in your Pendulum Zones. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 4226,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5,
+    "pendulum_effect": "If a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.",
+    "pendulum_scale": 9
+}

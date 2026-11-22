@@ -1,0 +1,35 @@
+{
+    "name": "Sky Striker Mecha - Hornet Drones",
+    "filename": "Sky_Striker_Mecha___Hornet_Drones",
+    "card_text": "If you control no monsters in your Main Monster Zone: Special Summon 1 \"Sky Striker Ace Token\" (Warrior/DARK/Level 1/ATK 0/DEF 0) in Defense Position, which cannot be Tributed, and if you have 3 or more Spells in your GY when this effect resolves, the Token's ATK/DEF become 1500 instead.",
+    "release_date": "2018-05-25",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "DARK SAVIORS",
+        "Justice Hunters"
+    ],
+    "related_card": [
+        "Aileron",
+        "Pillar of the Future - Cyanos",
+        "Sage of Benevolence - Ciela",
+        "Sage of Strength - Akash",
+        "Sage of Wisdom - Himmel",
+        "Sky Striker Ace - Azalea Temperance",
+        "Sky Striker Ace - Camellia",
+        "Sky Striker Ace - Hayate",
+        "Sky Striker Ace - Kagari",
+        "Sky Striker Ace - Kaina",
+        "Sky Striker Ace - Shizuku",
+        "Sky Striker Ace = Zero",
+        "Sky Striker Airspace - Area Zero",
+        "Sky Striker Mecha - Adil Saber",
+        "Sky Striker Mecha Modules - Multirole",
+        "Sky Striker Mecharmory - Hercules Base",
+        "Sky Striker Mobilize - Engage!",
+        "Sky Striker Special Maneuver - Lemnisgate!",
+        "Surgical Striker - H.A.M.P."
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

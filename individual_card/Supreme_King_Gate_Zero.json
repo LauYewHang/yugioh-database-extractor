@@ -114,7 +114,10 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "If you control \"Supreme King Z-ARC\", you take no damage. Once per turn, if you have \"Supreme King Gate Infinity\" in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 \"Polymerization\" Spell or \"Fusion\" Spell from your Deck to your hand.",

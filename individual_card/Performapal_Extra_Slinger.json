@@ -79,7 +79,10 @@
     "attack": 800,
     "defense": 1100,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "During your Main Phase: You can inflict 300 damage to your opponent for each face-up Pendulum Monster in your Extra Deck. You can only use this effect of \"Performapal Extra Slinger\" once per turn. You cannot Pendulum Summon the turn you activate this effect.",

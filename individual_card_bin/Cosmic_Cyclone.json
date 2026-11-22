@@ -1,0 +1,25 @@
+{
+    "name": "Cosmic Cyclone",
+    "filename": "Cosmic_Cyclone",
+    "card_text": "Pay 1000 LP, then target 1 Spell/Trap on the field; banish it.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "STRUCTURE DECK: LEGEND OF THE CRYSTAL BEASTS",
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "25TH ANNIVERSARY RARITY COLLECTION 2",
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "THE DARK ILLUSION",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "2017 MEGA-TINS MEGA PACK",
+        "Speed Duel: Battle City Box",
+        "Duel Devastator",
+        "TACTICAL MASTERS",
+        "OTS TOURNAMENT PACK 7",
+        "STRUCTURE DECK : CYBERSE LINK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

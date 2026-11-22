@@ -1,0 +1,30 @@
+{
+    "name": "Time-Space Trap Hole",
+    "filename": "Time_Space_Trap_Hole",
+    "card_text": "When your opponent Special Summons a monster(s) from the hand or Extra Deck: Shuffle that monster(s) into the Deck, then you lose 1000 LP for each returned monster.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "2015 MEGA-TINS MEGA PACK",
+        "OTS TOURNAMENT PACK 21"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

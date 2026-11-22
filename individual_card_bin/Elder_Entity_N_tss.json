@@ -1,0 +1,23 @@
+{
+    "name": "Elder Entity N'tss",
+    "filename": "Elder_Entity_N_tss",
+    "card_text": "1 Synchro Monster + 1 Xyz Monster\nMust be Special Summoned (from your Extra Deck) by sending the above cards you control to the GY. Once per turn: You can Special Summon 1 Level 4 monster from your hand. If this card is sent to the GY: You can target 1 card on the field; destroy it. You can only Special Summon \"Elder Entity N'tss(s)\" once per turn.",
+    "release_date": "2017-08-25",
+    "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "MAGNIFICENT MAVENS",
+        "2017 MEGA-TINS",
+        "Gold Series: Maximum Gold"
+    ],
+    "related_card": [
+        "Forbidden Trapezohedron",
+        "Outer Entity Azathot"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 1200,
+    "monster_type": "Fairy",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

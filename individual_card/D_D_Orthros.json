@@ -90,7 +90,11 @@
     "attack": 600,
     "defense": 1800,
     "monster_type": "Fiend",
-    "monster_card_type": 5122,
+    "monster_card_type": [
+        "Pendulum",
+        "Tuner",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn: You can target 1 Spell/Trap Card on the field and 1 other \"D/D\" or \"Dark Contract\" card you control; destroy them.",

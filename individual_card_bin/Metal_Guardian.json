@@ -1,0 +1,20 @@
+{
+    "name": "Metal Guardian",
+    "filename": "Metal_Guardian",
+    "card_text": "A fiend guarding the treasures of the netherworld, it's most at home in the dark.",
+    "release_date": "2006-12-26",
+    "available_set": [
+        "Promotional Cards 2"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Principug"
+    ],
+    "attribute": "DARK",
+    "attack": 1150,
+    "defense": 2150,
+    "monster_type": "Fiend",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

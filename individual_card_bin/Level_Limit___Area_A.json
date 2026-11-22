@@ -1,0 +1,15 @@
+{
+    "name": "Level Limit - Area A",
+    "filename": "Level_Limit___Area_A",
+    "card_text": "Change all face-up Level 3 or lower monsters to Attack Position.",
+    "release_date": "2005-11-05",
+    "available_set": [
+        "ELEMENTAL ENERGY",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 4",
+        "ASTRAL PACK SEVEN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

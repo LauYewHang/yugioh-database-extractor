@@ -1,0 +1,29 @@
+{
+    "name": "Vanquish Soul Calamity Caesar",
+    "filename": "Vanquish_Soul_Calamity_Caesar",
+    "card_text": "When an opponent's Spell/Trap Card, or monster effect, is activated that targets a card(s) you control, while you control a \"Vanquish Soul\" monster: Negate the activation, and if you do, destroy that card, then you can inflict damage to your opponent equal to the ATK of 1 \"Vanquish Soul\" monster you control. You can only activate 1 \"Vanquish Soul Calamity Caesar\" per turn.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Rock of the Vanquisher",
+        "Stake your Soul!",
+        "Vanquish Soul - Continue?",
+        "Vanquish Soul Caesar Valius",
+        "Vanquish Soul Dr. Mad Love",
+        "Vanquish Soul Dust Devil",
+        "Vanquish Soul Heavy Borger",
+        "Vanquish Soul Hollie Sue",
+        "Vanquish Soul Jiaolong",
+        "Vanquish Soul Pantera",
+        "Vanquish Soul Pluton HG",
+        "Vanquish Soul Razen",
+        "Vanquish Soul Rocks",
+        "Vanquish Soul Snow Devil",
+        "Vanquish Soul Trinity Burst",
+        "Vanquish Soul, Start!"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

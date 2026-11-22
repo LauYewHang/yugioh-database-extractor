@@ -42,7 +42,15 @@
     "attack": 2800,
     "defense": null,
     "monster_type": "Warrior",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 4,
-    "link_arrow": 78
+    "link_arrow": [
+        "Middle-Right",
+        "Bottom-Right",
+        "Bottom-Center",
+        "Bottom-Left"
+    ]
 }

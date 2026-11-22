@@ -1,0 +1,35 @@
+{
+    "name": "Dogmatika Genesis",
+    "filename": "Dogmatika_Genesis",
+    "card_text": "Target 1 banished Fusion, Synchro, Xyz, or Link Monster, and 1 Effect Monster your opponent controls of the same type (Fusion, Synchro, Xyz, or Link); return that banished monster to the Extra Deck, and if you do, negate the effects of that monster your opponent controls. You can only activate 1 \"Dogmatika Genesis\" per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Dogmatika Adin, the Enlightened",
+        "Dogmatika Alba Zoa",
+        "Dogmatika Ashiyan",
+        "Dogmatika Ecclesia, the Virtuous",
+        "Dogmatika Encounter",
+        "Dogmatika Fleurdelis, the Knighted",
+        "Dogmatika Fleurdelis, the Thunderbolt",
+        "Dogmatika Lawbringer",
+        "Dogmatika Nation",
+        "Dogmatikacism",
+        "Dogmatikalamity",
+        "Dogmatikamacabre",
+        "Dogmatikamatrix",
+        "Dogmatikaturgy",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Nadir Servant",
+        "Quadogmatika Beast",
+        "The Dragon that Devours the Dogma",
+        "Titaniklad the Ash Dragon",
+        "White Relic of Dogmatika"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

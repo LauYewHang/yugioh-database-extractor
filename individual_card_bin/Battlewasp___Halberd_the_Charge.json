@@ -1,0 +1,33 @@
+{
+    "name": "Battlewasp - Halberd the Charge",
+    "filename": "Battlewasp___Halberd_the_Charge",
+    "card_text": "1 Insect Tuner + 1+ non-Tuner monsters\nOnce per battle, during damage calculation, if this card attacks an opponent's monster with equal or higher ATK (Quick Effect): You can halve the ATK of that opponent's monster, during that damage calculation only. When this card inflicts battle damage to your opponent: You can inflict 200 damage to your opponent for each \"Battlewasp\" monster you control. You can only use this effect of \"Battlewasp - Halberd the Charge\" once per turn.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Battlewasp - Arbalest the Rapidfire",
+        "Battlewasp - Azusa the Ghost Bow",
+        "Battlewasp - Ballista the Armageddon",
+        "Battlewasp - Dart the Hunter",
+        "Battlewasp - Grand Partisan the Revolution",
+        "Battlewasp - Hama the Conquering Bow",
+        "Battlewasp - Nest",
+        "Battlewasp - Pin the Bullseye",
+        "Battlewasp - Rapier the Onslaught",
+        "Battlewasp - Sachi the Ceremonial Bow",
+        "Battlewasp - Sting the Poison",
+        "Battlewasp - Twinbow the Attacker",
+        "Battlewasp Wind",
+        "Revival Swarm",
+        "Summoning Swarm"
+    ],
+    "attribute": "WIND",
+    "attack": 2500,
+    "defense": 800,
+    "monster_type": "Insect",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Myutant Expansion",
+    "filename": "Myutant_Expansion",
+    "card_text": "When you activate this card: You can take 1 Level 4 or lower \"Myutant\" monster from your Deck, and either add it to your hand or Special Summon it. If a Level 8 or higher \"Myutant\" monster(s) you control would be destroyed by card effect, you can banish this card you control instead. You can only activate 1 \"Myutant Expansion\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Myutant Arsenal",
+        "Myutant Beast",
+        "Myutant Blast",
+        "Myutant Clash",
+        "Myutant Cry",
+        "Myutant Evolution Lab",
+        "Myutant Fusion",
+        "Myutant GB-88",
+        "Myutant M-05",
+        "Myutant Mist",
+        "Myutant Mutant",
+        "Myutant ST-46",
+        "Myutant Synthesis",
+        "Myutant Ultimus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

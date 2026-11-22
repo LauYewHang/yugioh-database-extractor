@@ -1,0 +1,12 @@
+{
+    "name": "Beast Rage",
+    "filename": "Beast_Rage",
+    "card_text": "All monsters you control gain 200 ATK for each of your removed from play Beast-Type and Winged Beast-Type monsters.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

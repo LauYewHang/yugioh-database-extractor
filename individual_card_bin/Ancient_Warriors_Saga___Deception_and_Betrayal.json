@@ -1,0 +1,32 @@
+{
+    "name": "Ancient Warriors Saga - Deception and Betrayal",
+    "filename": "Ancient_Warriors_Saga___Deception_and_Betrayal",
+    "card_text": "During your Main Phase: You can Special Summon 1 \"Ancient Warriors\" monster from your hand, and if you do, take damage equal to its Level x 100. You can send this face-up card from the Spell & Trap Zone to the GY, then target 1 \"Ancient Warriors\" monster on the field; change it to any Attribute, then, if you targeted an opponent's monster, you can take control of it. You can only use each effect of \"Ancient Warriors Saga - Deception and Betrayal\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Ancient Warriors - Ambitious Cao De",
+        "Ancient Warriors - Deceptive Jia Wen",
+        "Ancient Warriors - Eccentric Lu Jing",
+        "Ancient Warriors - Fearsome Zhang Yuan",
+        "Ancient Warriors - Graceful Zhou Gong",
+        "Ancient Warriors - Ingenious Zhuge Kong",
+        "Ancient Warriors - Loyal Guan Yun",
+        "Ancient Warriors - Masterful Sun Mou",
+        "Ancient Warriors - Rebellious Lu Feng",
+        "Ancient Warriors - Savage Don Ying",
+        "Ancient Warriors - Valiant Zhang De",
+        "Ancient Warriors - Virtuous Liu Xuan",
+        "Ancient Warriors Oath - Double Dragon Lords",
+        "Ancient Warriors Saga - Borrowing of Arrows",
+        "Ancient Warriors Saga - Chivalrous Path",
+        "Ancient Warriors Saga - Defense of Changban",
+        "Ancient Warriors Saga - East-by-South Winds",
+        "Ancient Warriors Saga - Sun-Liu Alliance",
+        "Ancient Warriors Saga - Three Visits"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

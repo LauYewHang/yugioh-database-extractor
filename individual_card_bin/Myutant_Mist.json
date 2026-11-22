@@ -1,0 +1,32 @@
+{
+    "name": "Myutant Mist",
+    "filename": "Myutant_Mist",
+    "card_text": "Cannot be Special Summoned, except with the effect of a \"Myutant\" card. Your opponent cannot target this card with Spell effects. You can only use each of the following effects of \"Myutant Mist\" once per turn. When your opponent activates a Trap Card or effect (Quick Effect): You can banish 1 card from your hand or field; draw 2 cards. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 of your banished \"Myutant\" monsters; add it to your hand.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Myutant Arsenal",
+        "Myutant Beast",
+        "Myutant Blast",
+        "Myutant Clash",
+        "Myutant Cry",
+        "Myutant Evolution Lab",
+        "Myutant Expansion",
+        "Myutant Fusion",
+        "Myutant GB-88",
+        "Myutant M-05",
+        "Myutant Mutant",
+        "Myutant ST-46",
+        "Myutant Synthesis",
+        "Myutant Ultimus"
+    ],
+    "attribute": "WIND",
+    "attack": 2700,
+    "defense": 2900,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

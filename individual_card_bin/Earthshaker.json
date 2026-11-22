@@ -1,0 +1,13 @@
+{
+    "name": "Earthshaker",
+    "filename": "Earthshaker",
+    "card_text": "Select 2 Monster Card Attributes. Your opponent then selects 1 of the 2 Attributes and destroys all face-up monsters with that Attribute on the field.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Turnabout",
+    "filename": "Turnabout",
+    "card_text": "If there is a face-up monster on the field whose current Level is different from its original Level: Change all monsters on the field to face-down Defense Position.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

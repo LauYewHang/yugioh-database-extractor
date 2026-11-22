@@ -1,0 +1,19 @@
+{
+    "name": "Veil of Darkness",
+    "filename": "Veil_of_Darkness",
+    "card_text": "During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the GY, then you can draw 1 more card.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "STRUCTURE DECK : LAIR OF DARKNESS",
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "DESTINY SOLDIERS",
+        "GLADIATOR'S ASSAULT",
+        "GOLD SERIES 2009"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

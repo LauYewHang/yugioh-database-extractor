@@ -1,0 +1,22 @@
+{
+    "name": "Motor Frenzy",
+    "filename": "Motor_Frenzy",
+    "card_text": "If this card is Normal or Special Summoned, or if another Machine monster(s) is Normal or Special Summoned to your field: You can activate this effect; until the end of your opponent's turn, that Normal or Special Summoned monster(s) gains ATK equal to half its original DEF, also its battle position cannot be changed. If this Tribute Summoned card is sent to the GY: You can Special Summon 2 \"Engine Tokens\" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use each effect of \"Motor Frenzy\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Fiendish Engine \u03a9",
+        "Motor Kaiser",
+        "Motor Shell",
+        "Two-for-One Repair Job"
+    ],
+    "attribute": "DARK",
+    "attack": 2100,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -89,7 +89,10 @@
     "attack": 2700,
     "defense": 2000,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "You can banish 2 \"D/D\" monsters from your Graveyard; Special Summon this card from your Pendulum Zone.",

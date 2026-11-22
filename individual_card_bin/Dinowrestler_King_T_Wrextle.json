@@ -1,0 +1,37 @@
+{
+    "name": "Dinowrestler King T Wrextle",
+    "filename": "Dinowrestler_King_T_Wrextle",
+    "card_text": "2+ \"Dinowrestler\" monsters\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. At the start of your opponent's Battle Phase: You can target 1 Attack Position monster your opponent controls; this Battle Phase, your opponent cannot attack with other monsters until that one has, and if it does not declare an attack, destroy it at the end of the Battle Phase.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
+    ],
+    "related_card": [
+        "Dinowrestler Capaptera",
+        "Dinowrestler Capoeiraptor",
+        "Dinowrestler Chimera T Wrextle",
+        "Dinowrestler Coelasilat",
+        "Dinowrestler Eskrimamenchi",
+        "Dinowrestler Giga Spinosavate",
+        "Dinowrestler Iguanodraka",
+        "Dinowrestler Martial Ampelo",
+        "Dinowrestler Martial Anga",
+        "Dinowrestler Martial Ankylo",
+        "Dinowrestler Pankratops",
+        "Dinowrestler Rambrachio",
+        "Dinowrestler Systegosaur",
+        "Dinowrestler Terra Parkourio",
+        "Dinowrestler Valeonyx",
+        "Gouki Gameface",
+        "Tyrant Dino Fusion",
+        "World Dino Wrestling"
+    ],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 14
+}

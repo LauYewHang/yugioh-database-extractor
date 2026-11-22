@@ -1,0 +1,32 @@
+{
+    "name": "Reptilianne Ramifications",
+    "filename": "Reptilianne_Ramifications",
+    "card_text": "Send 1 card from your hand to the GY and activate 2 of these effects, in sequence;\n\u25cfAdd 1 \"Reptilianne\" monster from your Deck to your hand.\n\u25cfAdd 1 \"Reptilianne\" Spell/Trap from your Deck to your hand, except \"Reptilianne Ramifications\".\n\u25cfChange the ATK of 1 monster your opponent controls to 0.\nYou can only activate 1 \"Reptilianne Ramifications\" per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Echidna",
+        "Reptilianne Gardna",
+        "Reptilianne Gorgon",
+        "Reptilianne Hydra",
+        "Reptilianne Lamia",
+        "Reptilianne Medusa",
+        "Reptilianne Melusine",
+        "Reptilianne Naga",
+        "Reptilianne Nyami",
+        "Reptilianne Poison",
+        "Reptilianne Rage",
+        "Reptilianne Recoil",
+        "Reptilianne Scylla",
+        "Reptilianne Servant",
+        "Reptilianne Spawn",
+        "Reptilianne Vaskii",
+        "Reptilianne Viper",
+        "Serpent Suppression"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

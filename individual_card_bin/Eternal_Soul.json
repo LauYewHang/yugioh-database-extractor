@@ -1,0 +1,35 @@
+{
+    "name": "Eternal Soul",
+    "filename": "Eternal_Soul",
+    "card_text": "Every \"Dark Magician\" in your Monster Zone is unaffected by your opponent's card effects. If this face-up card leaves the field: Destroy all monsters you control. You can only use the following effect of \"Eternal Soul\" once per turn. You can activate 1 of these effects;\n\u25cfSpecial Summon 1 \"Dark Magician\" from your hand or GY.\n\u25cfAdd 1 \"Dark Magic Attack\" or \"Thousand Knives\" from your Deck to your hand.",
+    "release_date": "2016-10-07",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "LEGENDARY DECKS II",
+        "LEGENDARY DRAGON DECKS",
+        "DUEL POWER",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Attack",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Magician's Salvation",
+        "Soul Servant",
+        "Thousand Knives",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

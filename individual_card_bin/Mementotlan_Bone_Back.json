@@ -1,0 +1,30 @@
+{
+    "name": "Mementotlan Bone Back",
+    "filename": "Mementotlan_Bone_Back",
+    "card_text": "If a face-up \"Memento\" monster(s) you control leaves the field because of an opponent's card: Special Summon 1 \"Mementoal Tecuhtlica - Combined Creation\" from your hand or Deck, ignoring its Summoning conditions. If your opponent moves a \"Memento\" monster(s) out of your GY, while this card is in your GY (except during the Damage Step): You can banish this card; Special Summon as many \"Memento\" monsters as possible with different names from your hand and/or Deck. You can only use each effect of \"Mementotlan Bone Back\" once per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Mementoal Tecuhtlica - Combined Creation",
+        "Mementomictlan",
+        "Mementomictlan Tecuhtlica - Creation King",
+        "Mementotlan Akihiron",
+        "Mementotlan Angwitch",
+        "Mementotlan Bone Party",
+        "Mementotlan Cranium Burst",
+        "Mementotlan Dark Blade",
+        "Mementotlan Fracture Dance",
+        "Mementotlan Fusion",
+        "Mementotlan Ghattic",
+        "Mementotlan Goblin",
+        "Mementotlan Mace",
+        "Mementotlan Shleepy",
+        "Mementotlan Tatsunootoshigo",
+        "Mementotlan Twin Dragon",
+        "Mementotlan-Horned Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

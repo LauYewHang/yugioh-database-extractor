@@ -1,0 +1,19 @@
+{
+    "name": "Miracle Stone",
+    "filename": "Miracle_Stone",
+    "card_text": "You can only control 1 \"Miracle Stone\". All Spellcaster monsters you control gain 500 ATK/DEF for each \"Fortune Fairy\" monster you control with different names. Once per turn, when an attack is declared involving your \"Fortune Fairy\" monster: You can draw 1 card.",
+    "release_date": "2019-07-12",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE"
+    ],
+    "related_card": [
+        "Fortune Fairy Ann",
+        "Fortune Fairy Chee",
+        "Fortune Fairy En",
+        "Fortune Fairy Hikari",
+        "Fortune Fairy Hu",
+        "Fortune Fairy Swee"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

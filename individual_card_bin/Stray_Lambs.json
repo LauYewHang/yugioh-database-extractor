@@ -1,0 +1,18 @@
+{
+    "name": "Stray Lambs",
+    "filename": "Stray_Lambs",
+    "card_text": "Special Summon 2 \"Lamb Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "CHAMPION PACK GAME TWO",
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "INVASION OF CHAOS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

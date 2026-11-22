@@ -1,0 +1,36 @@
+{
+    "name": "Gravekeeper's Inscription",
+    "filename": "Gravekeeper_s_Inscription",
+    "card_text": "At the start of your Main Phase 1: Apply 1 of the following effects until the end of your opponent's turn.\n\u25cfNeither player can activate card effects in the GY.\n\u25cfNeither player can banish cards from the GY.\n\u25cfNeither player can Special Summon monsters from the GYs.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Charm of Shabti",
+        "Gravekeeper's Cannonholder",
+        "Gravekeeper's Chief",
+        "Gravekeeper's Descendant",
+        "Gravekeeper's Headman",
+        "Gravekeeper's Nobleman",
+        "Gravekeeper's Oracle",
+        "Gravekeeper's Priestess",
+        "Gravekeeper's Recruiter",
+        "Gravekeeper's Shaman",
+        "Gravekeeper's Spy",
+        "Gravekeeper's Stele",
+        "Gravekeeper's Supernaturalist",
+        "Gravekeeper's Trap",
+        "Gravekeeper's Visionary",
+        "Hidden Temples of Necrovalley",
+        "Imperial Tombs of Necrovalley",
+        "Necrovalley",
+        "Necrovalley Temple",
+        "Necrovalley Throne",
+        "Rite of Spirit"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -17,7 +17,9 @@
     "attack": 300,
     "defense": 250,
     "monster_type": "Reptile",
-    "monster_card_type": 2,
+    "monster_card_type": [
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

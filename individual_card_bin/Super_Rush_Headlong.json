@@ -1,0 +1,13 @@
+{
+    "name": "Super Rush Headlong",
+    "filename": "Super_Rush_Headlong",
+    "card_text": "Target 1 face-up monster you control and declare 1 Attribute; if that target battles an opponent's monster with that Attribute this turn, destroy that opponent's monster at the start of the Damage Step.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

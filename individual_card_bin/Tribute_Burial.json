@@ -1,0 +1,13 @@
+{
+    "name": "Tribute Burial",
+    "filename": "Tribute_Burial",
+    "card_text": "Once during this turn, you can Tribute Summon a monster that requires 2 Tributes by banishing 1 monster from each GY instead, also you cannot Special Summon monsters for the rest of this turn.",
+    "release_date": "2016-09-16",
+    "available_set": [
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "The Lost Art Promotion 7"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

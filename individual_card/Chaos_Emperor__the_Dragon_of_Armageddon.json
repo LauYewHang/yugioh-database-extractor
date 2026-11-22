@@ -13,7 +13,10 @@
     "attack": 3000,
     "defense": 2500,
     "monster_type": "Dragon",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "You can pay 1000 LP, then target 1 of your banished Dragon monsters; destroy this card, and if you do, add that monster to your hand. You can only use this effect of \"Chaos Emperor, the Dragon of Armageddon\" once per turn.",

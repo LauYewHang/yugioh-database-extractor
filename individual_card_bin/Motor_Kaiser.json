@@ -1,0 +1,22 @@
+{
+    "name": "Motor Kaiser",
+    "filename": "Motor_Kaiser",
+    "card_text": "You can reveal this card in your hand; immediately after this effect resolves, Normal Summon 1 DARK Machine monster. You can target 1 monster you control; destroy it, then you can Special Summon 1 \"Engine Token\" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use each effect of \"Motor Kaiser\" once per turn.",
+    "release_date": "2025-06-13",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Fiendish Engine \u03a9",
+        "Motor Frenzy",
+        "Motor Shell",
+        "Two-for-One Repair Job"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1400,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

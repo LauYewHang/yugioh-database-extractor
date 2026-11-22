@@ -1,0 +1,20 @@
+{
+    "name": "Bonding - DHO",
+    "filename": "Bonding___DHO",
+    "card_text": "Shuffle 1 \"Duoterion\", 1 \"Hydrogeddon\", and 1 \"Oxygeddon\" from your hand and/or GY into the Deck; Special Summon 1 \"Water Dragon Cluster\" from your hand or GY. You can banish this card from your GY; add 1 \"Water Dragon\" or \"Water Dragon Cluster\" from your Deck or GY to your hand.",
+    "release_date": "2017-09-08",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "LEGENDARY DUELISTS"
+    ],
+    "related_card": [
+        "Duoterion",
+        "Hydrogeddon",
+        "Light Water Dragon",
+        "Oxygeddon",
+        "Water Dragon",
+        "Water Dragon Cluster"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

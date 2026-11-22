@@ -1,0 +1,13 @@
+{
+    "name": "Gift Exchange",
+    "filename": "Gift_Exchange",
+    "card_text": "Both players banish 1 card from their Decks, face-down, and if they do, during the End Phase of this turn, both players add to their hands the card their opponent banished by this effect.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "MAXIMUM CRISIS",
+        "YU-GI-OH! ADVENT CALENDAR 2018"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

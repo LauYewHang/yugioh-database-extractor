@@ -1,0 +1,28 @@
+{
+    "name": "Fortune Lady Rewind",
+    "filename": "Fortune_Lady_Rewind",
+    "card_text": "Target any number of your banished \"Fortune Lady\" monsters with different names; Special Summon them, but shuffle them into the Deck during the End Phase. You can only activate 1 \"Fortune Lady Rewind\" per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Bending Destiny",
+        "Fortune Lady Calling",
+        "Fortune Lady Dark",
+        "Fortune Lady Earth",
+        "Fortune Lady Every",
+        "Fortune Lady Fire",
+        "Fortune Lady Light",
+        "Fortune Lady Past",
+        "Fortune Lady Water",
+        "Fortune Lady Wind",
+        "Fortune Vision",
+        "Fortune's Future",
+        "Inherited Fortune",
+        "Solitaire Magician",
+        "Time Passage"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

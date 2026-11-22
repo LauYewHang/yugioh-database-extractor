@@ -1,0 +1,18 @@
+{
+    "name": "Dimension Jar",
+    "filename": "Dimension_Jar",
+    "card_text": "FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "MAGICIAN'S FORCE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Machine",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

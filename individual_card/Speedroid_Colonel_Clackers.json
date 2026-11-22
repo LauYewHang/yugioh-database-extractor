@@ -75,7 +75,10 @@
     "attack": 200,
     "defense": 1800,
     "monster_type": "Machine",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "You can banish 1 \"Speedroid\" card from your GY; place 1 \"Speedroid\" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Special Summon for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Colonel Clackers\" once per turn.",

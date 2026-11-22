@@ -1,0 +1,19 @@
+{
+    "name": "Shelga, the Tri-Warlord",
+    "filename": "Shelga__the_Tri_Warlord",
+    "card_text": "The shockwaves of powerful battles have warped reality, allowing the proud valiant to emerge from the Dimensional Sea.",
+    "release_date": "2016-08-20",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2016"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2800,
+    "defense": 2500,
+    "monster_type": "Psychic",
+    "monster_card_type": 4097,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7,
+    "pendulum_effect": "Once per turn: You can banish 3 Psychic-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.",
+    "pendulum_scale": 10
+}

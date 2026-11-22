@@ -1,0 +1,16 @@
+{
+    "name": "Release Restraint Wave",
+    "filename": "Release_Restraint_Wave",
+    "card_text": "Target 1 face-up Equip Spell Card you control; destroy the Equip Spell Card and all face-down Spell and Trap Cards your opponent controls.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "NOBLE KNIGHTS OF THE ROUND TABLE BOX SET",
+        "DUELIST PACK - YUSEI 2 -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

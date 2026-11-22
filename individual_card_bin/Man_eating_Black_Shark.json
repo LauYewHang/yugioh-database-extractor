@@ -1,0 +1,21 @@
+{
+    "name": "Man-eating Black Shark",
+    "filename": "Man_eating_Black_Shark",
+    "card_text": "\"Sea Kamen\" + \"Gruesome Goo\" + \"Amazon of the Seas\"",
+    "release_date": "2014-12-05",
+    "available_set": [
+        "ASTRAL PACK SIX"
+    ],
+    "related_card": [
+        "Amazon of the Seas",
+        "Gruesome Goo",
+        "Sea Kamen"
+    ],
+    "attribute": "WATER",
+    "attack": 2100,
+    "defense": 1300,
+    "monster_type": "Fish",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

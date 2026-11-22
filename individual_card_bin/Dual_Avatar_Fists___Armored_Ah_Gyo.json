@@ -1,0 +1,30 @@
+{
+    "name": "Dual Avatar Fists - Armored Ah-Gyo",
+    "filename": "Dual_Avatar_Fists___Armored_Ah_Gyo",
+    "card_text": "2 \"Dual Avatar\" monsters\nIf this card is Special Summoned: You can target 1 Attack Position monster your opponent controls; destroy it, also this card cannot attack directly for the rest of this turn. You can only use this effect of \"Dual Avatar Fists - Armored Ah-Gyo\" once per turn. While you control a \"Dual Avatar\" Fusion Monster that was Fusion Summoned using an Effect Monster as material, all \"Dual Avatar\" Fusion Monsters you control gain 300 ATK/DEF.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Dual Avatar - Empowered Kon-Gyo",
+        "Dual Avatar - Empowered Mitsu-Jaku",
+        "Dual Avatar - Manifested A-Un",
+        "Dual Avatar Ascendance",
+        "Dual Avatar Compact",
+        "Dual Avatar Defeating Evil",
+        "Dual Avatar Feet - Armored Un-Gyo",
+        "Dual Avatar Feet - Kokoku",
+        "Dual Avatar Fists - Yuhi",
+        "Dual Avatar Invitation",
+        "Dual Avatar Return",
+        "Perfect Sync - A-Un"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2100,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

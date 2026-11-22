@@ -1,0 +1,13 @@
+{
+    "name": "Harmonic Oscillation",
+    "filename": "Harmonic_Oscillation",
+    "card_text": "If your opponent has 2 cards in their Pendulum Zones: Target those 2 cards; while both targets are in their Pendulum Zones, you can Pendulum Summon using their Pendulum Scales this turn, but only from the Extra Deck.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

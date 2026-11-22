@@ -1,0 +1,12 @@
+{
+    "name": "Mirage Tube",
+    "filename": "Mirage_Tube",
+    "card_text": "This card cannot be activated from your hand. Activate only when a face-up monster you control is selected as an attack target. Inflict 1000 damage to your opponent.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

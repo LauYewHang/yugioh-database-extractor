@@ -29,7 +29,10 @@
     "attack": 1950,
     "defense": 0,
     "monster_type": "Dragon",
-    "monster_card_type": 4097,
+    "monster_card_type": [
+        "Pendulum",
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once, while this card is in your Pendulum Zone: You can target 1 card in a Pendulum Zone; destroy it.",

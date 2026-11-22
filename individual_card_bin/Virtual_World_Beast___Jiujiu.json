@@ -1,0 +1,29 @@
+{
+    "name": "Virtual World Beast - Jiujiu",
+    "filename": "Virtual_World_Beast___Jiujiu",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nCannot be destroyed by battle or card effects while you have 2 or more monsters in your GY with the same original Type and Attribute, but different names. You can banish 2 monsters from your GY with the same original Type and Attribute, but different names, then target 1 card on the field; send it to the GY. You can only use this effect of \"Virtual World Beast - Jiujiu\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Virtual World City - Kauwloon",
+        "Virtual World Gate - Chuche",
+        "Virtual World Gate - Qinglong",
+        "Virtual World Gate - Xuanwu",
+        "Virtual World Kirin - Lili",
+        "Virtual World Mai-Hime - Lulu",
+        "Virtual World Phoenix - Fanfan",
+        "Virtual World Roshi - Laolao",
+        "Virtual World Tiger - Fufu",
+        "Virtual World Xiezhi - Jiji"
+    ],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 1700,
+    "monster_type": "Psychic",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

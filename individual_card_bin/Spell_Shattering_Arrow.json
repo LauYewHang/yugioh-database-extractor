@@ -1,0 +1,21 @@
+{
+    "name": "Spell Shattering Arrow",
+    "filename": "Spell_Shattering_Arrow",
+    "card_text": "Destroy as many face-up Spells your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each.",
+    "release_date": "2008-10-21",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "YUGI'S LEGENDARY DECKS",
+        "TURBO PACK BOOSTER FIVE",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "STRUCTURE DECK : YUGI MUTO",
+        "ASTRAL PACK SEVEN",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

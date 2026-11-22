@@ -1,0 +1,14 @@
+{
+    "name": "Spiritual Swords of Revealing Light",
+    "filename": "Spiritual_Swords_of_Revealing_Light",
+    "card_text": "Once per attack, when an opponent's monster declares an attack: You can pay 1000 LP; negate that attack. During your opponent's turn: You can banish this card from your Graveyard; this turn, your opponent's monsters cannot attack directly.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Battlin' Boxer Rabbit Puncher",
+    "filename": "Battlin__Boxer_Rabbit_Puncher",
+    "card_text": "At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO",
+        "2014 MEGA-TINS MEGA PACK",
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [
+        "Battlin' Boxer Big Bandage",
+        "Battlin' Boxer Cheat Commissioner",
+        "Battlin' Boxer Chief Second",
+        "Battlin' Boxer Counterpunch",
+        "Battlin' Boxer Glassjaw",
+        "Battlin' Boxer Headgeared",
+        "Battlin' Boxer King Dempsey",
+        "Battlin' Boxer Lead Yoke",
+        "Battlin' Boxer Promoter",
+        "Battlin' Boxer Rib Gardna",
+        "Battlin' Boxer Shadow",
+        "Battlin' Boxer Sparrer",
+        "Battlin' Boxer Switchitter",
+        "Battlin' Boxer Uppercutter",
+        "Battlin' Boxing Cross Counter",
+        "Battlin' Boxing Spirits",
+        "Jolt Counter",
+        "Last Counter",
+        "Number 105: Battlin' Boxer Star Cestus",
+        "Number 79: Battlin' Boxer Nova Kaiser",
+        "Number C79: Battlin' Boxer General Kaiser",
+        "Ring Announcer"
+    ],
+    "attribute": "FIRE",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Basilius, Familiar of the Evil Eye",
+    "filename": "Basilius__Familiar_of_the_Evil_Eye",
+    "card_text": "If you control an \"Evil Eye\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Basilius, Familiar of the Evil Eye\" once per turn this way. During your Main Phase: You can send 1 \"Evil Eye\" Spell/Trap from your Deck to the GY. You can only use this effect of \"Basilius, Familiar of the Evil Eye\" once per turn.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Basiltrice, Familiar of the Evil Eye",
+        "Catoblepas, Familiar of the Evil Eye",
+        "Evil Eye Awakening",
+        "Evil Eye Confrontation",
+        "Evil Eye Defeat",
+        "Evil Eye Domain - Pareidolia",
+        "Evil Eye Mesmerism",
+        "Evil Eye of Gorgoneio",
+        "Evil Eye of Selene",
+        "Evil Eye Reemergence",
+        "Evil Eye Repose",
+        "Evil Eye Retribution",
+        "Evil Eyes Unleashed",
+        "Gorgon, Empress of the Evil Eyed",
+        "Medusa, Watcher of the Evil Eye",
+        "Serziel, Watcher of the Evil Eye",
+        "Zerrziel, Ruler of the Evil Eyed"
+    ],
+    "attribute": "DARK",
+    "attack": 400,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

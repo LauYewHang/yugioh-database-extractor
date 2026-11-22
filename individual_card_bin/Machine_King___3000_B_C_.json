@@ -1,0 +1,15 @@
+{
+    "name": "Machine King - 3000 B.C.",
+    "filename": "Machine_King___3000_B_C_",
+    "card_text": "Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK 1000/DEF 1000). (This card is also still a Trap.) If Summoned this way, once per turn, during your Main Phase: You can Tribute 1 Machine monster; this card gains ATK equal to the ATK the Tributed monster had on the field, until the end of this turn. You cannot Normal or Special Summon other monsters the turn you activate this card.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "GOLD SERIES HAUNTED MINE",
+        "ABSOLUTE POWERFORCE",
+        "MACHINE REACTOR STRUCTURE DECK",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

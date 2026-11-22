@@ -1,0 +1,40 @@
+{
+    "name": "Master Hyperion",
+    "filename": "Master_Hyperion",
+    "card_text": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or GY. Once per turn: You can banish 1 LIGHT Fairy monster from your GY, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can activate this effect up to twice per turn.",
+    "release_date": "2011-06-14",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "GOLD SERIES HAUNTED MINE",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "The Agent of Creation - Venus",
+        "The Agent of Destruction - Venus",
+        "The Agent of Entropy - Uranus",
+        "The Agent of Force - Mars",
+        "The Agent of Judgment - Saturn",
+        "The Agent of Life - Neptune",
+        "The Agent of Miracles - Jupiter",
+        "The Agent of Mystery - Earth",
+        "The Agent of Wisdom - Mercury",
+        "The Chorus in the Sky",
+        "The Executor of the Underworld - Pluto",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2700,
+    "defense": 2100,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

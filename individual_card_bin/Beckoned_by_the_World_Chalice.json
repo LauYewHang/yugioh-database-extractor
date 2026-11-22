@@ -1,0 +1,28 @@
+{
+    "name": "Beckoned by the World Chalice",
+    "filename": "Beckoned_by_the_World_Chalice",
+    "card_text": "His battle with the Mekkstrosities never seems to end. Even when their forest was invaded by Mekkstrocious Insects, he stood his ground and inspired the other defenders around him.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Auram the World Chalice Blademaster",
+        "Ib the World Chalice Justiciar",
+        "Ib the World Chalice Priestess",
+        "Imduk the World Chalice Dragon",
+        "Lee the World Chalice Fairy",
+        "Ningirsu the World Chalice Warrior",
+        "World Legacy - \"World Chalice\"",
+        "World Legacy Discovery",
+        "World Legacy's Heart"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

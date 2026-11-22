@@ -1,0 +1,14 @@
+{
+    "name": "Needle Wall",
+    "filename": "Needle_Wall",
+    "card_text": "Once per turn, during your Standby Phase: Roll a six-sided die. Treat your opponent's Main Monster Zones as numbers 1-5, counting from your right, and destroy the monster that is in the same Main Monster Zone as the result. If the result is 6, roll again.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "PHARAONIC GUARDIAN",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

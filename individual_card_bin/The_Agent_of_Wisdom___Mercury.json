@@ -1,0 +1,31 @@
+{
+    "name": "The Agent of Wisdom - Mercury",
+    "filename": "The_Agent_of_Wisdom___Mercury",
+    "card_text": "Once per turn, during your Standby Phase, if you controlled this face-up card in your Monster Zone and had no cards in your hand at the end of the opponent's last turn: Draw 1 card.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "ANCIENT SANCTUARY",
+        "DARK REVELATION Volume 2",
+        "LOST SANCTUARY STRUCTURE DECK",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Majesty Hyperion",
+        "Master Hyperion",
+        "Masterflare Hyperion",
+        "The Agent of Entropy - Uranus",
+        "The Agent of Life - Neptune",
+        "The Agent of Miracles - Jupiter",
+        "The Agent of Mystery - Earth",
+        "The Executor of the Underworld - Pluto",
+        "The Sacred Waters in the Sky"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 1700,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

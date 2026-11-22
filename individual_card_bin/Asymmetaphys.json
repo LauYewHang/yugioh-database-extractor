@@ -1,0 +1,24 @@
+{
+    "name": "Asymmetaphys",
+    "filename": "Asymmetaphys",
+    "card_text": "Once per turn: You can banish 1 \"Metaphys\" card from your hand, and if you do, draw 1 card. Once per turn, if your \"Metaphys\" card in its owner's possession is banished: Apply this effect depending on whose turn it is.\n\u25cfYour turn: All monsters on the field lose 500 ATK/DEF, except \"Metaphys\" monsters.\n\u25cfOpponent's turn: Change the battle positions of all monsters on the field, except \"Metaphys\" monsters.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [
+        "Metaphys Armed Dragon",
+        "Metaphys Ascension",
+        "Metaphys Daedalus",
+        "Metaphys Decoy Dragon",
+        "Metaphys Dimension",
+        "Metaphys Executor",
+        "Metaphys Factor",
+        "Metaphys Horus",
+        "Metaphys Nephthys",
+        "Metaphys Ragnarok",
+        "Metaphys Tyrant Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

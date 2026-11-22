@@ -1,0 +1,14 @@
+{
+    "name": "Acid Rain",
+    "filename": "Acid_Rain",
+    "card_text": "Destroy all Machine monsters on the field.",
+    "release_date": "2005-06-30",
+    "available_set": [
+        "DUELIST LEAGUE SERIES 8",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DUEL TERMINAL 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

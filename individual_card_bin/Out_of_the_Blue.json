@@ -1,0 +1,12 @@
+{
+    "name": "Out of the Blue",
+    "filename": "Out_of_the_Blue",
+    "card_text": "Destroy this card if your opponent activates a card or effect that targets a card(s) in the Graveyard. When this card is destroyed by this effect and sent to the Graveyard, your opponent shuffles all cards in their Graveyard into the Deck.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -12,7 +12,10 @@
     "attack": 200,
     "defense": 1800,
     "monster_type": "Dragon",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "If a monster(s) is Special Summoned by your Trap effect (except during the Damage Step): You can target 1 card on the field; return it to the hand, then you can Special Summon this card. You can only use this effect of \"Vulmina, Statue of the Sacred Dragon\" once per turn.",

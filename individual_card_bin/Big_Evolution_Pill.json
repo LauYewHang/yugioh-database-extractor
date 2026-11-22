@@ -1,0 +1,20 @@
+{
+    "name": "Big Evolution Pill",
+    "filename": "Big_Evolution_Pill",
+    "card_text": "After this card's activation, it remains on the field, but destroy it during your opponent's 3rd End Phase. Tribute 1 Dinosaur monster to activate this card; while this card is face-up on the field, you can Normal Summon Level 5 or higher Dinosaur monsters without Tributing.",
+    "release_date": "2006-10-20",
+    "available_set": [
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "TURBO PACK BOOSTER SEVEN",
+        "DUEL TERMINAL 2",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Animadorned Archosaur",
+        "Overtex Qoatlus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

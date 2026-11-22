@@ -1,0 +1,12 @@
+{
+    "name": "Curse of the Circle",
+    "filename": "Curse_of_the_Circle",
+    "card_text": "Target 1 monster your opponent controls; your opponent cannot Tribute it, or use it as a Synchro Material Monster.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Crackdown",
+    "filename": "Crackdown",
+    "card_text": "Activate by targeting 1 face-up monster your opponent controls; take control of that monster. While you control that monster, it cannot attack or activate effects. When that monster leaves the field, destroy this card.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "Phantom Revenge",
+        "2020 TIN OF LOST MEMORIES",
+        "DARK NEOSTORM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

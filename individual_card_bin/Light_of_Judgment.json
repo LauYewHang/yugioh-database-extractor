@@ -1,0 +1,24 @@
+{
+    "name": "Light of Judgment",
+    "filename": "Light_of_Judgment",
+    "card_text": "If \"The Sanctuary in the Sky\" is on the field: Discard 1 LIGHT monster to the GY; apply 1 of the following effects.\n\u25cfLook at your opponent's hand and discard 1 card from their hand.\n\u25cfSend 1 card your opponent controls to the GY.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "DUELIST LEAGUE 3"
+    ],
+    "related_card": [
+        "Celestial Knightlord Parshath",
+        "Fallen Sanctuary",
+        "Masterflare Hyperion",
+        "Protector of The Agents - Moon",
+        "The Chorus in the Sky",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "The Sanctum of Parshath"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

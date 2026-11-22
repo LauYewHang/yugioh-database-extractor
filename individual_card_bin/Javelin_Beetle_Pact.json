@@ -1,0 +1,14 @@
+{
+    "name": "Javelin Beetle Pact",
+    "filename": "Javelin_Beetle_Pact",
+    "card_text": "This card is used to Ritual Summon \"Javelin Beetle\". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.",
+    "release_date": "2007-07-26",
+    "available_set": [
+        "PREMIUM PACK"
+    ],
+    "related_card": [
+        "Javelin Beetle"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

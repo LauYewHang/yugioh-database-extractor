@@ -1,0 +1,34 @@
+{
+    "name": "Silent Swordsman LV5",
+    "filename": "Silent_Swordsman_LV5",
+    "card_text": "Unaffected by your opponent's Spell effects. During your next Standby Phase after this card inflicts battle damage to your opponent by a direct attack: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV7\" from your hand or Deck.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "STARTER DECK YUGI RELOADED",
+        "ELEMENTAL ENERGY SPECIAL EDITION",
+        "YUGI'S LEGENDARY DECKS",
+        "DARK REVELATION Volume 3",
+        "DUEL TERMINAL 5B",
+        "FLAMING ETERNITY",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -"
+    ],
+    "related_card": [
+        "Level Down!?",
+        "Level Modulation",
+        "Level Up!",
+        "Silent Paladin",
+        "Silent Sword Slash",
+        "Silent Swordsman",
+        "Silent Swordsman LV3",
+        "Silent Swordsman LV7",
+        "The Graveyard in the Fourth Dimension"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2300,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

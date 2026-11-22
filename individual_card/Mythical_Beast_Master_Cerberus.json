@@ -83,7 +83,10 @@
     "attack": 2800,
     "defense": 2800,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "If you have no card in your other Pendulum Zone: You can destroy this card, and if you do, add 1 Level 7 or lower \"Mythical Beast\" Effect Monster from your Deck to your hand. You can only use this effect of \"Mythical Beast Master Cerberus\" once per turn.",

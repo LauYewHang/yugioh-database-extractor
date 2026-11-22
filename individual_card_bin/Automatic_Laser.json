@@ -1,0 +1,15 @@
+{
+    "name": "Automatic Laser",
+    "filename": "Automatic_Laser",
+    "card_text": "When your opponent Normal or Special Summons a monster(s) with 1000 or more ATK, reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand to activate this card. Destroy that Summoned monster(s).",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [
+        "Iron Core of Koa'ki Meiru",
+        "Koa'ki Meiru Supplier"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

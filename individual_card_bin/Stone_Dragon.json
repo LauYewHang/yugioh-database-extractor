@@ -1,0 +1,17 @@
+{
+    "name": "Stone Dragon",
+    "filename": "Stone_Dragon",
+    "card_text": "A dragon formed by huge boulders that are also used to attack the enemy.",
+    "release_date": "2006-12-26",
+    "available_set": [
+        "Promotional Cards 2"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 2300,
+    "monster_type": "Rock",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

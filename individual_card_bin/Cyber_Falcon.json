@@ -1,0 +1,18 @@
+{
+    "name": "Cyber Falcon",
+    "filename": "Cyber_Falcon",
+    "card_text": "A jet-powered hawk that travels at the speed of sound.\n\n(This card is not treated as a \"Cyber\" card.)",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Machine",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

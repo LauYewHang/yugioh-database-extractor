@@ -1,0 +1,30 @@
+{
+    "name": "Dragonic Pendulum",
+    "filename": "Dragonic_Pendulum",
+    "card_text": "All \"Dracoslayer\" monsters on the field gain 300 ATK/DEF. You can only use each of the following effects of \"Dragonic Pendulum\" once per turn. If a Dragon \"Dracoslayer\" monster you control activates its effect (except during the Damage Step): You can target 1 card on the field; destroy it. If this card on the field is destroyed: You can either add to your hand or Special Summon 1 \"Dracoslayer\" or \"Dracoverlord\" monster from your Deck.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Amorphactor Pain, the Imagination Dracoverlord",
+        "Dinomight Powerload, the Dracoslayer",
+        "Dinoster Power, the Mighty Dracoslayer",
+        "Duelist Alliance",
+        "Ignis Phoenix, the Dracoslayer",
+        "Ignister Prominence, the Blasting Dracoslayer",
+        "Lector Pendulum, the Dracoverlord",
+        "Luster Pendulum, the Dracoslayer",
+        "Majester Paladin, the Ascending Dracoslayer",
+        "Majesty Pegasus, the Dracoslayer",
+        "Master Peace, the True Dracoslayer",
+        "Master Peace, the True Dracoverlord",
+        "Master Pendulum, the Dracoslayer",
+        "PenduLuMoon",
+        "Vector Pendulum, the Dracoverlord",
+        "Wind Unicorn Parallel, the Dracoslayer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

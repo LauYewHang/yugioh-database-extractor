@@ -1,0 +1,16 @@
+{
+    "name": "Begone, Knave!",
+    "filename": "Begone__Knave_",
+    "card_text": "If a monster inflicts battle damage to a player: Return that monster to the hand.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "GOLD SERIES 2009",
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

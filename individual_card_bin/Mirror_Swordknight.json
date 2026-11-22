@@ -1,0 +1,27 @@
+{
+    "name": "Mirror Swordknight",
+    "filename": "Mirror_Swordknight",
+    "card_text": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Mirror Swordknight\" once per turn. (Quick Effect): You can Tribute this card; Special Summon 1 monster from your Deck that mentions \"Chimera Fusion\", except \"Mirror Swordknight\". When a monster your opponent controls activates its effect, while you control \"Chimera the Flying Mythical Beast\" (Quick Effect): You can banish this card from your field or GY; negate that effect.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Berfomet the Mythical King of Phantom Beasts",
+        "Big-Winged Berfomet",
+        "Chimera Fusion",
+        "Chimera the Flying Mythical Beast",
+        "Chimera the Illusion Beast",
+        "Chimera the King of Phantom Beasts",
+        "Cornfield Coatl",
+        "Gazelle the King of Mythical Claws"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1900,
+    "defense": 300,
+    "monster_type": "Illusion",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

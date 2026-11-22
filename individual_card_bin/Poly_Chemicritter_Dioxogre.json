@@ -1,0 +1,20 @@
+{
+    "name": "Poly-Chemicritter Dioxogre",
+    "filename": "Poly_Chemicritter_Dioxogre",
+    "card_text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.\n\u25cfThe Normal Summon of a Gemini monster cannot be negated.\n\u25cfOnce per turn: You can banish 1 Gemini monster from your Graveyard, then target 1 card your opponent controls; destroy it.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Burnout",
+        "Dimer Synthesis"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 200,
+    "monster_type": "Fiend",
+    "monster_card_type": 514,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

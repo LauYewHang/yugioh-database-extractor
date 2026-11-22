@@ -1,0 +1,13 @@
+{
+    "name": "Gravelstorm",
+    "filename": "Gravelstorm",
+    "card_text": "Target 1 Spell/Trap on each field; return them to the hand.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "SPEED DUEL GX: DUEL ACADEMY BOX"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

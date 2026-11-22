@@ -1,0 +1,28 @@
+{
+    "name": "Bazoo the Soul-Eater",
+    "filename": "Bazoo_the_Soul_Eater",
+    "card_text": "Once per turn: You can banish up to 3 monsters from your GY; this card gains 300 ATK for each, until the end of your opponent's turn.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "LABYRINTH OF NIGHTMARE",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "QUARTER CENTURY BONANZA",
+        "RETRO PACK 2",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "BATTLE PACK EPIC DAWN",
+        "TOURNAMENT PACK 5",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 900,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

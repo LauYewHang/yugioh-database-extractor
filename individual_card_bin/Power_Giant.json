@@ -1,0 +1,19 @@
+{
+    "name": "Power Giant",
+    "filename": "Power_Giant",
+    "card_text": "You can Special Summon this card (from your hand) by sending 1 Level 4 or lower monster from your hand to the Graveyard. If you do, decrease this card's Level by the Level of that monster. If this card attacks or is attacked, until the end of the Damage Step any effect damage you take becomes 0.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": 0,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

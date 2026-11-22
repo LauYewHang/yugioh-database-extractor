@@ -1,0 +1,38 @@
+{
+    "name": "Mekk-Knight Blue Sky",
+    "filename": "Mekk_Knight_Blue_Sky",
+    "card_text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Blue Sky\" once per turn this way. If this card is Normal or Special Summoned from the hand: You can add \"Mekk-Knight\" monsters with different names, except \"Mekk-Knight Blue Sky\", from your Deck to your hand, equal to the number of your opponent's cards in this card's column. You can only use this effect of \"Mekk-Knight Blue Sky\" once per turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "EXTREME FORCE",
+        "MAZE OF MEMORIES",
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX"
+    ],
+    "related_card": [
+        "Enlilgirsu, the Orcust Mekk-Knight",
+        "Girsu, the Orcust Mekk-Knight",
+        "Mekk-Knight Avram",
+        "Mekk-Knight Crusadia Avramax",
+        "Mekk-Knight Green Horizon",
+        "Mekk-Knight Indigo Eclipse",
+        "Mekk-Knight of the Morning Star",
+        "Mekk-Knight Orange Sunset",
+        "Mekk-Knight Purple Nightfall",
+        "Mekk-Knight Red Moon",
+        "Mekk-Knight Spectrum Supreme",
+        "Mekk-Knight Yellow Star",
+        "World Legacy Key",
+        "World Legacy Scars",
+        "World Legacy Whispers",
+        "World Legacy's Memory",
+        "World Legacy's Secret"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 2500,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

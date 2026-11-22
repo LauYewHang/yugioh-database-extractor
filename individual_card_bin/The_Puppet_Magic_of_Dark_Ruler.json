@@ -1,0 +1,14 @@
+{
+    "name": "The Puppet Magic of Dark Ruler",
+    "filename": "The_Puppet_Magic_of_Dark_Ruler",
+    "card_text": "Target 1 Fiend monster in your GY; banish face-up monsters you control whose total Levels exactly equal the Level of that monster, then Special Summon it.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

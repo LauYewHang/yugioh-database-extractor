@@ -1,0 +1,14 @@
+{
+    "name": "Sargasso the D.D. Battlefield",
+    "filename": "Sargasso_the_D_D__Battlefield",
+    "card_text": "Each time a monster is Xyz Summoned: The Summoning player takes 500 damage. During each player's End Phase, the turn player takes 500 damage if they control a face-up Xyz Monster.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Sargasso Lighthouse"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

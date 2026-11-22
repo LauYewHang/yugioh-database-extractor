@@ -1,0 +1,14 @@
+{
+    "name": "Monster Rebirth",
+    "filename": "Monster_Rebirth",
+    "card_text": "If a monster(s) was destroyed by battle this turn: Send 1 \"Monster Reborn\" from your hand or Deck to the GY, then target 1 monster in either GY; Special Summon that monster to your field. (This is treated as a Special Summon by the effect of \"Monster Reborn\".)",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS"
+    ],
+    "related_card": [
+        "Monster Reborn"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

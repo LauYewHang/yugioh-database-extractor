@@ -1,0 +1,33 @@
+{
+    "name": "Sonic Boom",
+    "filename": "Sonic_Boom",
+    "card_text": "During your turn: Target 1 \"Mecha Phantom Beast\" monster on the field; this turn, its ATK becomes double its original ATK, it is unaffected by other Spell/Trap effects, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this effect is applied to that monster, destroy all Machine-Type monsters you control during the End Phase of this turn. Other monsters cannot attack during the turn you activate this card.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "2014 MEGA-TINS MEGA PACK",
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Mecha Phantom Beast Aerosguin",
+        "Mecha Phantom Beast Auroradon",
+        "Mecha Phantom Beast Blackfalcon",
+        "Mecha Phantom Beast Blue Impala",
+        "Mecha Phantom Beast Coltwing",
+        "Mecha Phantom Beast Concoruda",
+        "Mecha Phantom Beast Dracossack",
+        "Mecha Phantom Beast Hamstrat",
+        "Mecha Phantom Beast Harrliard",
+        "Mecha Phantom Beast Jaculuslan",
+        "Mecha Phantom Beast Kalgriffin",
+        "Mecha Phantom Beast Megaraptor",
+        "Mecha Phantom Beast O-Lion",
+        "Mecha Phantom Beast Raiten",
+        "Mecha Phantom Beast Sabre Hawk",
+        "Mecha Phantom Beast Stealthray",
+        "Mecha Phantom Beast Tetherwolf",
+        "Mecha Phantom Beast Turtletracer",
+        "Mecha Phantom Beast Warbluran"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

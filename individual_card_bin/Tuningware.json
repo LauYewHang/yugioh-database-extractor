@@ -1,0 +1,20 @@
+{
+    "name": "Tuningware",
+    "filename": "Tuningware",
+    "card_text": "This card can be treated as a Level 2 monster when used for a Synchro Summon. If this card is sent to the Graveyard for a Synchro Summon: Draw 1 card.",
+    "release_date": "2009-02-24",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI -",
+        "SYNCHRON EXTREME STRUCTURE DECK",
+        "DUELIST LEAGUE 14"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 300,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

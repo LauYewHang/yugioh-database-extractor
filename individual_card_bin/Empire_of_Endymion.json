@@ -1,0 +1,21 @@
+{
+    "name": "Empire of Endymion",
+    "filename": "Empire_of_Endymion",
+    "card_text": "When this card is activated: Add 1 \"Regulus, the Prince of Endymion\" or 1 monster that mentions it from your Deck to your hand, then if your opponent controls a monster, you can Special Summon 1 Spellcaster monster from your hand. If a card(s) you control would be destroyed by battle or card effect, you can destroy 1 \"Regulus, the Prince of Endymion\" in your hand or face-up field instead. You can only use this effect of \"Empire of Endymion\" once per turn. You can only activate 1 \"Empire of Endymion\" per turn.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [
+        "Arrow of Regulus",
+        "Magia Magic - Thunder of Judgment",
+        "Reflection of Endymion",
+        "Regulus, the Prince of Endymion",
+        "Selene, Queen of the Master Magicians",
+        "Spell Power Attainment",
+        "Spell Power Mastery",
+        "Verre, the Maid of Endymion"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

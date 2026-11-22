@@ -1,0 +1,28 @@
+{
+    "name": "Sacred Beasts Combined Assault",
+    "filename": "Sacred_Beasts_Combined_Assault",
+    "card_text": "Special Summon 1 \"Sacred Beast\" monster from your hand or GY in Defense Position, then if you control 2 or more \"Sacred Beast\" monsters whose original Levels are 10, you can negate the effects of 1 face-up card your opponent controls, and if you do, destroy it. You can banish this card from your GY; Fusion Summon 1 \"Phantasm\" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Sacred Beasts Combined Assault\" once per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Abyss of the Sacred Beasts",
+        "Armityle the Chaos Phantasm (Updated from: Armityle the Chaos Phantom)",
+        "Armityle the Chaos Phantasm - Phantom of Fury",
+        "Awakening of the Sacred Beasts",
+        "Calamity of the Sacred Beasts - Hamon, Lord of Striking Thunder",
+        "Fallen Paradise of the Sacred Beasts",
+        "Inferno of the Sacred Beasts - Uria, Lord of Searing Flames",
+        "Infinity of the Sacred Beasts - Raviel, Lord of Phantasms",
+        "Martyr of the Sacred Beasts",
+        "Phantasm Emperor Trilojig",
+        "Sacred Beasts Released",
+        "Sacred Beasts Skyfall",
+        "Sacred Beasts Thunderclap",
+        "Summoner of the Sacred Beasts",
+        "The Chaotic Phantasmal Sacred Beasts"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

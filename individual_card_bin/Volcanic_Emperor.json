@@ -1,0 +1,39 @@
+{
+    "name": "Volcanic Emperor",
+    "filename": "Volcanic_Emperor",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 Pyro monsters or 1 \"Blaze Accelerator\" card from your face-up field and/or GY. You can only Special Summon \"Volcanic Emperor\" once per turn. When Summoned this way: You can inflict 500 damage to your opponent for each banished Pyro monster, then you can Set 1 \"Volcanic\" Trap directly from your Deck. Each time your opponent Special Summons a monster(s), inflict 500 damage to your opponent.",
+    "release_date": "2023-08-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Blaze Accelerator",
+        "Blaze Accelerator Reload",
+        "Blaze Cannon",
+        "Fire Ejection",
+        "Tri-Blaze Accelerator",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Counter",
+        "Volcanic Doomfire",
+        "Volcanic Emission",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Queen",
+        "Volcanic Rat",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Rocket",
+        "Volcanic Scattershot",
+        "Volcanic Shell",
+        "Volcanic Slicer",
+        "Volcanic Trooper"
+    ],
+    "attribute": "FIRE",
+    "attack": 3100,
+    "defense": 2400,
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

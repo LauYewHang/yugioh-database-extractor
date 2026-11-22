@@ -1,0 +1,22 @@
+{
+    "name": "Duston Roller",
+    "filename": "Duston_Roller",
+    "card_text": "Target 1 monster on the field; this turn, it cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. If this Set card you control is destroyed by your opponent's card effect and sent to your Graveyard: You can add 1 \"Duston\" monster from your Deck to your hand.",
+    "release_date": "2014-01-24",
+    "available_set": [
+        "LEGACY OF THE VALIANT"
+    ],
+    "related_card": [
+        "Blue Duston",
+        "Diamond Duston",
+        "Green Duston",
+        "House Duston",
+        "Magicalized Duston Mop",
+        "Red Duston",
+        "Starduston",
+        "White Duston",
+        "Yellow Duston"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Mad Sword Beast",
+    "filename": "Mad_Sword_Beast",
+    "card_text": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "SPEED DUEL TOURNAMENT PACK 7",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "TOURNAMENT PACK 4",
+        "PHARAOH'S SERVANT",
+        "DARK BEGINNING 1",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STARTER DECK KAIBA Evolution",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

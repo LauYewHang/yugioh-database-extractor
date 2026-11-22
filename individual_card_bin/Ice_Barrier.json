@@ -1,0 +1,43 @@
+{
+    "name": "Ice Barrier",
+    "filename": "Ice_Barrier",
+    "card_text": "When an attack is declared involving your opponent's monster: Change that opponent's monster's ATK to 0, negate its effects, also it cannot change its battle position. You can banish this card from your GY; send 1 Level 5 or higher WATER monster from your Deck to the GY, then, you can add 1 WATER monster from your GY to your hand, also, until the end of your next turn after this effect resolves, you cannot Special Summon monsters, except WATER monsters. You can only use this effect of \"Ice Barrier\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Caravan of the Ice Barrier",
+        "Cryomancer of the Ice Barrier",
+        "Dai-sojo of the Ice Barrier",
+        "Dance Princess of the Ice Barrier",
+        "Defender of the Ice Barrier",
+        "Freezing Chains of the Ice Barrier",
+        "Frozen Domain of the Ice Barrier",
+        "General Gantala of the Ice Barrier",
+        "General Grunard of the Ice Barrier",
+        "General Wayne of the Ice Barrier",
+        "Georgius, Swordman of the Ice Barrier",
+        "Hexa Spirit of the Ice Barrier",
+        "Judge of the Ice Barrier",
+        "Lancea, Ancestral Dragon of the Ice Mountain",
+        "Magic Triangle of the Ice Barrier",
+        "Medallion of the Ice Barrier",
+        "Mirror Mage of the Ice Barrier",
+        "Prior of the Ice Barrier",
+        "Revealer of the Ice Barrier",
+        "Sacred Spirit of the Ice Barrier",
+        "Secret Guards of the Ice Barrier",
+        "Shock Troops of the Ice Barrier",
+        "Speaker for the Ice Barriers",
+        "Spellbreaker of the Ice Barrier",
+        "Strategist of the Ice Barrier",
+        "Terror of Trishula",
+        "Warlock of the Ice Barrier",
+        "Winds Over the Ice Barrier",
+        "Zuijin of the Ice Barrier"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

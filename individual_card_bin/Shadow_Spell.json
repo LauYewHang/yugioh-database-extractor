@@ -1,0 +1,23 @@
+{
+    "name": "Shadow Spell",
+    "filename": "Shadow_Spell",
+    "card_text": "Activate this card by targeting 1 face-up monster your opponent controls; it loses 700 ATK, also it cannot attack or change its battle position. When it leaves the field, destroy this card.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DEMO PROGRESSION SET 2026",
+        "STARTER DECK KAIBA Evolution",
+        "LEGENDARY DECKS II",
+        "SUPER STARTER V FOR VICTORY",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "BATTLE PACK EPIC DAWN",
+        "STARTER DECK KAIBA RELOADED",
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "DUEL TERMINAL 3",
+        "STARTER DECK CODEBREAKER",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

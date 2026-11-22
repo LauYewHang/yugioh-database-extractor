@@ -1,0 +1,33 @@
+{
+    "name": "Lovely Labrynth of the Silver Castle",
+    "filename": "Lovely_Labrynth_of_the_Silver_Castle",
+    "card_text": "Your opponent cannot activate monster effects in response to the activation of your Normal Trap Cards. You can only use each of the following effects of \"Lovely Labrynth of the Silver Castle\" once per turn. You can target 1 Normal Trap in your GY; Set it to your field, but it cannot be activated unless you control a Fiend monster. If another monster(s) leaves the field by your Normal Trap effect (except during the Damage Step): You can destroy 1 card in your opponent's hand (at random) or their field.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "TACTICAL MASTERS",
+        "RARITY COLLECTION 5",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "MAGNIFICENT MAESTROS",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Arianna the Labrynth Servant",
+        "Arias the Labrynth Butler",
+        "Big Welcome Labrynth",
+        "Farewelcome Labrynth",
+        "Labrynth Chandraglier",
+        "Labrynth Cooclock",
+        "Labrynth Labyrinth",
+        "Labrynth Set-Up",
+        "Labrynth Stovie Torbie",
+        "Lady Labrynth of the Silver Castle",
+        "Welcome Labrynth"
+    ],
+    "attribute": "DARK",
+    "attack": 2900,
+    "defense": 1900,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

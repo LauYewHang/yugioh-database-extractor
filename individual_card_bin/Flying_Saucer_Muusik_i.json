@@ -1,0 +1,37 @@
+{
+    "name": "Flying Saucer Muusik'i",
+    "filename": "Flying_Saucer_Muusik_i",
+    "card_text": "While this card is face-up on the field, you can select and add 1 \"Alien\" card from your Deck to your hand instead of conducting your normal draw during your Draw Phase.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [
+        "Alien Ammonite",
+        "Alien Brain",
+        "Alien Dog",
+        "Alien Grey",
+        "Alien Hunter",
+        "Alien Hypno",
+        "Alien Infiltrator",
+        "Alien Kid",
+        "Alien Mars",
+        "Alien Mother",
+        "Alien Overlord",
+        "Alien Psychic",
+        "Alien Shocktrooper",
+        "Alien Shocktrooper M-Frame",
+        "Alien Skull",
+        "Alien Stealthbuster",
+        "Alien Telepath",
+        "Alien Warrior",
+        "I.A.S. -Invasive Alien Species-"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

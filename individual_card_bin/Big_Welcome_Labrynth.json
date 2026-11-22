@@ -1,0 +1,30 @@
+{
+    "name": "Big Welcome Labrynth",
+    "filename": "Big_Welcome_Labrynth",
+    "card_text": "Special Summon 1 \"Labrynth\" monster from your hand, Deck, or GY, then return 1 monster you control to the hand. You can banish this card from your GY, then target 1 Fiend monster you control, or, if you control a Level 8 or higher Fiend monster, you can target 1 card your opponent controls instead; return that card to the hand. You can only use 1 \"Big Welcome Labrynth\" effect per turn, and only once that turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "OTS TOURNAMENT PACK 23",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Ariane the Labrynth Servant",
+        "Arianna the Labrynth Servant",
+        "Arias the Labrynth Butler",
+        "Farewelcome Labrynth",
+        "Labrynth Archfiend",
+        "Labrynth Barrage",
+        "Labrynth Chandraglier",
+        "Labrynth Cooclock",
+        "Labrynth Labyrinth",
+        "Labrynth Set-Up",
+        "Labrynth Stovie Torbie",
+        "Lady Labrynth of the Silver Castle",
+        "Lovely Labrynth of the Silver Castle",
+        "Welcome Labrynth"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

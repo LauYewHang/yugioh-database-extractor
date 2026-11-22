@@ -1,0 +1,21 @@
+{
+    "name": "Xyz Dimension Splash",
+    "filename": "Xyz_Dimension_Splash",
+    "card_text": "If this Set card is banished: You can Special Summon 2 Level 8 WATER monsters from your Deck. Their effects are negated, also they cannot declare an attack or be Tributed.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

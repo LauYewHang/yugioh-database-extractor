@@ -1,0 +1,33 @@
+{
+    "name": "Ad Libitum of Despia",
+    "filename": "Ad_Libitum_of_Despia",
+    "card_text": "During your Main Phase: You can make all monsters currently on the field gain ATK equal to their own Level x 100, until the end of the opponent's turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or Level 8 or higher Fusion Monsters, that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Aluber the Jester of Despia",
+        "Branded Banishment",
+        "Branded in Red",
+        "Branded Opening",
+        "Despia, Theater of the Branded",
+        "Despian Comedy",
+        "Despian Luluwalilith",
+        "Despian Proskenion",
+        "Despian Quaeritis",
+        "Despian Tragedy",
+        "Dramaturge of Despia",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Masquerade the Blazing Dragon"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

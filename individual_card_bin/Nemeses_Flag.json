@@ -1,0 +1,25 @@
+{
+    "name": "Nemeses Flag",
+    "filename": "Nemeses_Flag",
+    "card_text": "You can target 1 of your banished monsters, except \"Nemeses Flag\"; Special Summon this card from your hand, and if you do, shuffle that target into the Deck. During your Main Phase: You can add 1 \"Nemeses\" monster from your Deck to your hand, except \"Nemeses Flag\". You can only use each effect of \"Nemeses Flag\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "QUARTER CENTURY BONANZA",
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "Archnemeses Eschatos",
+        "Archnemeses Protos",
+        "Nemeses Adrastea",
+        "Nemeses Corridor",
+        "Nemeses Keystone",
+        "Nemeses Umbrella"
+    ],
+    "attribute": "FIRE",
+    "attack": 1100,
+    "defense": 200,
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

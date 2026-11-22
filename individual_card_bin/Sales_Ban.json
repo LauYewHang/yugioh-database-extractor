@@ -1,0 +1,14 @@
+{
+    "name": "Sales Ban",
+    "filename": "Sales_Ban",
+    "card_text": "Declare 1 card name; for the rest of this turn, your opponent cannot activate cards, or the effects of cards, with the same original name as that declared card. The same restrictions apply to you, but for the rest of this Duel instead of just this turn. You can only activate 1 \"Sales Ban\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "OTS Tournament Pack 29",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

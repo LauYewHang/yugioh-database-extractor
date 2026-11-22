@@ -1,0 +1,42 @@
+{
+    "name": "Graff, Malebranche of the Burning Abyss",
+    "filename": "Graff__Malebranche_of_the_Burning_Abyss",
+    "card_text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. You can only use 1 of these effects of \"Graff, Malebranche of the Burning Abyss\" per turn, and only once that turn.\n\u25cfIf you control no Spells/Traps: You can Special Summon this card from your hand.\n\u25cfIf this card is sent to the GY: You can Special Summon 1 \"Burning Abyss\" monster from your Deck, except \"Graff, Malebranche of the Burning Abyss\".",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "DUELIST ALLIANCE",
+        "ASTRAL PACK EIGHT",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Alich, Malebranche of the Burning Abyss",
+        "Barbar, Malebranche of the Burning Abyss",
+        "Beatrice, Lady of the Eternal",
+        "Cagna, Malebranche of the Burning Abyss",
+        "Calcab, Malebranche of the Burning Abyss",
+        "Cherubini, Ebon Angel of the Burning Abyss",
+        "Cir, Malebranche of the Burning Abyss",
+        "Dante, Pilgrim of the Burning Abyss",
+        "Dante, Traveler of the Burning Abyss",
+        "Draghig, Malebranche of the Burning Abyss",
+        "Farfa, Malebranche of the Burning Abyss",
+        "Fire Lake of the Burning Abyss",
+        "Good & Evil in the Burning Abyss",
+        "Libic, Malebranche of the Burning Abyss",
+        "Malacoda, Netherlord of the Burning Abyss",
+        "Rubic, Malebranche of the Burning Abyss",
+        "Scarm, Malebranche of the Burning Abyss",
+        "The Terminus of the Burning Abyss",
+        "The Traveler and the Burning Abyss",
+        "Virgil, Rock Star of the Burning Abyss"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Evilswarm Zahak",
+    "filename": "Evilswarm_Zahak",
+    "card_text": "If this face-up card you control is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: Target 1 Special Summoned Level 5 or higher monster on the field; destroy that target.",
+    "release_date": "2012-09-28",
+    "available_set": [
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "DUEL TERMINAL 7A",
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS"
+    ],
+    "related_card": [
+        "Evilswarm Bahamut",
+        "Evilswarm Castor",
+        "Evilswarm Kerykeion",
+        "Evilswarm Ophion",
+        "Infestation Infection",
+        "Infestation Pandemic",
+        "Infestation Terminus",
+        "Steelswarm Origin"
+    ],
+    "attribute": "DARK",
+    "attack": 1850,
+    "defense": 850,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Eclipse Wyvern",
+    "filename": "Eclipse_Wyvern",
+    "card_text": "If this card is sent to the GY: Banish 1 Level 7 or higher LIGHT or DARK Dragon monster from your Deck. If this card is banished from your GY: You can add the monster banished by this card's effect to your hand.",
+    "release_date": "2012-02-07",
+    "available_set": [
+        "PREMIUM GOLD",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1000,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

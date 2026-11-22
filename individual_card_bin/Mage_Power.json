@@ -1,0 +1,26 @@
+{
+    "name": "Mage Power",
+    "filename": "Mage_Power",
+    "card_text": "The equipped monster gains 500 ATK/DEF for each Spell/Trap you control.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "LABYRINTH OF NIGHTMARE",
+        "Gold Series: Maximum Gold",
+        "STARTER DECK YUGI RELOADED",
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "QUARTER CENTURY BONANZA",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 1",
+        "Speed Duel: Battle City Box",
+        "OTS TOURNAMENT PACK 1",
+        "SPELLCASTER'S COMMAND STRUCTURE DECK",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "2-PLAYER STARTER SET",
+        "CHAMPION PACK GAME SIX",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

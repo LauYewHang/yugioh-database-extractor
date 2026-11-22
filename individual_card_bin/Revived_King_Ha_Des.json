@@ -1,0 +1,22 @@
+{
+    "name": "Revived King Ha Des",
+    "filename": "Revived_King_Ha_Des",
+    "card_text": "\"Plaguespreader Zombie\" + 1+ non-Tuner Zombie monsters\nNegate the effects of Effect Monsters destroyed by battle with Zombie monsters you control.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Mad Mauler",
+        "Pain Painter",
+        "Plaguespreader Zombie"
+    ],
+    "attribute": "DARK",
+    "attack": 2450,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

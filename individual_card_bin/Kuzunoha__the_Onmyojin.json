@@ -1,0 +1,19 @@
+{
+    "name": "Kuzunoha, the Onmyojin",
+    "filename": "Kuzunoha__the_Onmyojin",
+    "card_text": "Cannot be Special Summoned, except by Pendulum Summon. Requires 3 Spellcaster-Type Tributes to Normal Summon (cannot be Normal Set). If this card attacks your opponent directly and reduces their LP to 0, while you control no other monsters, you win the Match.",
+    "release_date": "2015-08-16",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2015"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2300,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8,
+    "pendulum_effect": "Once per turn: You can banish 3 Spellcaster-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.",
+    "pendulum_scale": 1
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Diabell, Queen of the White Forest",
+    "filename": "Diabell__Queen_of_the_White_Forest",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned using a Tuner Synchro Monster: You can target 1 Spell/Trap in your GY; add it to your hand. When your opponent activates a card or effect (Quick Effect): You can send 1 Spell/Trap from your hand or field to the GY; Special Summon 1 Level 7 or lower Tuner Synchro Monster from your Extra Deck, GY, or banishment. You can only use each effect of \"Diabell, Queen of the White Forest\" once per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Azamina Aphes",
+        "Curse of Diabell",
+        "Diabellstar Vengeance",
+        "Diabellze the White Witch",
+        "Elzette of the White Forest",
+        "Elzette, Azamina of the White Forest",
+        "Filia Diabell",
+        "Like the Diabell",
+        "Play the Diabell",
+        "Poplar of the White Forest",
+        "Queen Azamina",
+        "Rciela, Sinister Soul of the White Forest",
+        "Rucia of the White Forest",
+        "Scourge of the White Forest",
+        "Silvy of the White Forest",
+        "Sinful Spoils Sanctification",
+        "Tales of the White Forest",
+        "Witch of the White Forest",
+        "Woes of the White Forest"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Illusion",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

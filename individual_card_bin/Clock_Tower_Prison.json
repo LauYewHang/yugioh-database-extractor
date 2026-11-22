@@ -1,0 +1,25 @@
+{
+    "name": "Clock Tower Prison",
+    "filename": "Clock_Tower_Prison",
+    "card_text": "Once per turn, during your opponent's Standby Phase: Place 1 Clock Counter on this card. While this card has 4 or more Clock Counters, you take no battle damage. If this card with 4 or more Clock Counters is destroyed and sent to the GY: Special Summon 1 \"Destiny HERO - Dreadmaster\" from your hand or Deck.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "LEGENDARY HERO DECKS",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "DUELIST PACK - ASTER PHOENIX -",
+        "DARK REVELATION Volume 4",
+        "ENEMY OF JUSTICE"
+    ],
+    "related_card": [
+        "Break the Destiny",
+        "Dark City at Midnight",
+        "Destiny HERO - Doom Overlord",
+        "Destiny HERO - Dread Servant",
+        "Destiny HERO - Dreadmaster",
+        "Destiny HERO - Dreadnought Master",
+        "Eternal Dread"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

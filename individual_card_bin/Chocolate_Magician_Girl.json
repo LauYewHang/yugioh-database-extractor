@@ -1,0 +1,25 @@
+{
+    "name": "Chocolate Magician Girl",
+    "filename": "Chocolate_Magician_Girl",
+    "card_text": "Once per turn: You can discard 1 Spellcaster monster; draw 1 card. Once per turn, if this card is targeted for an attack: You can target 1 Spellcaster monster in your GY, except \"Chocolate Magician Girl\"; Special Summon it, then change the attack target to it, and if you do, the attacking monster's ATK becomes half its current ATK.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION",
+        "The Lost Art Promotion 7"
+    ],
+    "related_card": [
+        "Apple Magician Girl",
+        "Berry Magician Girl",
+        "Kiwi Magician Girl",
+        "Lemon Magician Girl"
+    ],
+    "attribute": "WATER",
+    "attack": 1600,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

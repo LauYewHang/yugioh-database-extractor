@@ -1,0 +1,17 @@
+{
+    "name": "Alchemic Magician",
+    "filename": "Alchemic_Magician",
+    "card_text": "3 Level 4 Spellcaster-Type monsters\nThis card gains 200 ATK for each Spell Card in your Graveyard. Once per turn, during your End Phase: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard; choose 1 Spell Card from your Deck, then Set it in your Spell & Trap Card Zone.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

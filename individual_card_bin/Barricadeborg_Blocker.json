@@ -1,0 +1,20 @@
+{
+    "name": "Barricadeborg Blocker",
+    "filename": "Barricadeborg_Blocker",
+    "card_text": "2 monsters with different names\nIf this card is Link Summoned: You can discard 1 card; during the End Phase of this turn, add 1 Continuous or Field Spell from your GY to your hand. You can only use this effect of \"Barricadeborg Blocker\" once per turn. Face-up Spells you control cannot be destroyed by your opponent's card effects.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "RISING RAMPAGE",
+        "2020 TIN OF LOST MEMORIES",
+        "OTS TOURNAMENT PACK 15"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 20
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ragnaraika Armored Lizard",
+    "filename": "Ragnaraika_Armored_Lizard",
+    "card_text": "You can Special Summon this card (from your hand) by banishing 1 Insect, Plant, or Reptile monster from your GY. You can only Special Summon \"Ragnaraika Armored Lizard\" once per turn this way. You can discard 1 Insect, Plant, or Reptile monster, then target 1 face-up monster your opponent controls, except an Insect, Plant, or Reptile monster; return it to the hand. You can only use this effect of \"Ragnaraika Armored Lizard\" once per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Ragnaraika Bloom",
+        "Ragnaraika Mantis Monk",
+        "Ragnaraika Samurai Beetle",
+        "Ragnaraika Skeletal Soldier",
+        "Ragnaraika the Evil Seed",
+        "Ragnaraika Wisteria of Woe"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 2300,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

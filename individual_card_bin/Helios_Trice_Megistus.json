@@ -1,0 +1,20 @@
+{
+    "name": "Helios Trice Megistus",
+    "filename": "Helios_Trice_Megistus",
+    "card_text": "You can Special Summon this card (from your hand) by Tributing 1 \"Helios Duo Megistus\". This card's ATK/DEF become the number of banished monsters x 300. After this card attacks, if your opponent controls a monster, this card can make a second attack in a row. During the End Phase, if this card is in the GY because it was destroyed by battle and sent there this turn: You can Special Summon this card, and it gains 500 ATK/DEF.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Helios Duo Megistus"
+    ],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": "?",
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

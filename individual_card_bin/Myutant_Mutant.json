@@ -1,0 +1,32 @@
+{
+    "name": "Myutant Mutant",
+    "filename": "Myutant_Mutant",
+    "card_text": "If you control a \"Myutant\" card: You can Special Summon this card from your hand. You can Tribute this card, then banish 1 \"Myutant\" card from your hand or Deck; Special Summon 1 monster from your hand or Deck, based on the banished card, but lose LP equal to that Special Summoned monster's original ATK.\n\u25cfMonster: \"Myutant Beast\"\n\u25cfSpell: \"Myutant Mist\"\n\u25cfTrap: \"Myutant Arsenal\"\nYou can only use each effect of \"Myutant Mutant\" once per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS"
+    ],
+    "related_card": [
+        "Myutant Arsenal",
+        "Myutant Beast",
+        "Myutant Blast",
+        "Myutant Clash",
+        "Myutant Cry",
+        "Myutant Evolution Lab",
+        "Myutant Expansion",
+        "Myutant Fusion",
+        "Myutant GB-88",
+        "Myutant M-05",
+        "Myutant Mist",
+        "Myutant ST-46",
+        "Myutant Synthesis",
+        "Myutant Ultimus"
+    ],
+    "attribute": "WATER",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

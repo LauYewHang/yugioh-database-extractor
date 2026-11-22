@@ -1,0 +1,29 @@
+{
+    "name": "Floowandereeze & Toccan",
+    "filename": "Floowandereeze___Toccan",
+    "card_text": "If this face-up card would leave the field, banish it instead. You can only use each of the following effects of \"Floowandereeze & Toccan\" once per turn, and cannot Special Summon during the turn you activate either effect. If this card is Normal Summoned: You can target 1 of your banished \"Floowandereeze\" cards; add it to your hand, then immediately after this effect resolves, you can Normal Summon 1 Winged Beast monster. If a Winged Beast monster is Normal Summoned to your field while this card is banished: You can add this card to your hand.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Floowandereeze & Eglen",
+        "Floowandereeze & Empen",
+        "Floowandereeze & Robina",
+        "Floowandereeze & Snowl",
+        "Floowandereeze & Stri",
+        "Floowandereeze and the Advent of Adventure",
+        "Floowandereeze and the Dreaming Town",
+        "Floowandereeze and the Magnificent Map",
+        "Floowandereeze and the Scary Sea",
+        "Floowandereeze and the Unexplored Winds"
+    ],
+    "attribute": "WIND",
+    "attack": 500,
+    "defense": 1300,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

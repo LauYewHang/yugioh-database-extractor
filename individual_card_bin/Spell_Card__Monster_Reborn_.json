@@ -1,0 +1,13 @@
+{
+    "name": "Spell Card \"Monster Reborn\"",
+    "filename": "Spell_Card__Monster_Reborn_",
+    "card_text": "Target 1 monster in either GY; Special Summon it to your field, but for the rest of this turn, it cannot attack and neither player can activate its effects. You can only activate 1 \"Spell Card \"Monster Reborn\"\" per turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

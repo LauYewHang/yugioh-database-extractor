@@ -1,0 +1,20 @@
+{
+    "name": "Legendary Dragon of White",
+    "filename": "Legendary_Dragon_of_White",
+    "card_text": "3 Level 8 monsters\nMust be Xyz Summoned and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their LP to 0, while it has an Xyz Material attached that was originally Dragon-Type, you win the Match.",
+    "release_date": "2012-08-11",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2012",
+        "WORLD CHAMPIONSHIP 2012 Prize and Participation Cards",
+        "WORLD SUPERSTARS",
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2013"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 8
+}

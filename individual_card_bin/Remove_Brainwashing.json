@@ -1,0 +1,14 @@
+{
+    "name": "Remove Brainwashing",
+    "filename": "Remove_Brainwashing",
+    "card_text": "The control of all monsters on the field returns to the owners.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "MAGICIAN'S FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

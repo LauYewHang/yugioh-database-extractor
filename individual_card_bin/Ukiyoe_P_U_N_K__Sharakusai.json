@@ -1,0 +1,36 @@
+{
+    "name": "Ukiyoe-P.U.N.K. Sharakusai",
+    "filename": "Ukiyoe_P_U_N_K__Sharakusai",
+    "card_text": "You can pay 600 LP; Fusion Summon 1 \"P.U.N.K.\" Fusion Monster from your Extra Deck, using monsters from your hand or field as material. During your opponent's turn (Quick Effect): You can pay 600 LP; immediately after this effect resolves, Synchro Summon 1 \"P.U.N.K.\" Synchro Monster using monsters you control as material. You can only use each effect of \"Ukiyoe-P.U.N.K. Sharakusai\" once per turn.",
+    "release_date": "2022-01-28",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "THE GRAND CREATORS",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Gagaku-P.U.N.K. Crash Beat",
+        "Gagaku-P.U.N.K. Wa Gon",
+        "Gagaku-P.U.N.K. Wild Picking",
+        "Joruri-P.U.N.K. Dangerous Gabu",
+        "Joruri-P.U.N.K. Madame Spider",
+        "Joruri-P.U.N.K. Nashiwari Surprise",
+        "Noh-P.U.N.K. Deer Note",
+        "Noh-P.U.N.K. Foxy Tune",
+        "Noh-P.U.N.K. Ogre Dance",
+        "Noh-P.U.N.K. Rising Scale",
+        "Noh-P.U.N.K. Ze Amin",
+        "P.U.N.K. JAM Dragon Drive",
+        "P.U.N.K. JAM Extreme Session",
+        "P.U.N.K. JAM FEVER!",
+        "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "Ukiyoe-P.U.N.K. Rising Carp"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 600,
+    "monster_type": "Psychic",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

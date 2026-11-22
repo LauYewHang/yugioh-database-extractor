@@ -1,0 +1,12 @@
+{
+    "name": "Black and White Wave",
+    "filename": "Black_and_White_Wave",
+    "card_text": "If there is a face-up Xyz Monster on the field with a Synchro Monster as Xyz Material: Target 1 card on the field; banish that target, and if you do, draw 1 card.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

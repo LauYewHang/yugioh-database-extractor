@@ -1,0 +1,33 @@
+{
+    "name": "Prank-Kids Dodo-Doodle-Doo",
+    "filename": "Prank_Kids_Dodo_Doodle_Doo",
+    "card_text": "2 \"Prank-Kids\" monsters\nIf this card is Link Summoned: You can add 1 \"Prank-Kids\" Spell/Trap from your Deck to your hand. You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand. You can only use each effect of \"Prank-Kids Dodo-Doodle-Doo\" once per turn.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Prank-Kids Battle Butler",
+        "Prank-Kids Bow-Wow-Bark",
+        "Prank-Kids Dropsies",
+        "Prank-Kids Fansies",
+        "Prank-Kids Lampsies",
+        "Prank-Kids Meow-Meow-Mu",
+        "Prank-Kids Pandemonium",
+        "Prank-Kids Place",
+        "Prank-Kids Plan",
+        "Prank-Kids Pranks",
+        "Prank-Kids Rip-Roarin-Roaster",
+        "Prank-Kids Rocket Ride",
+        "Prank-Kids Rocksies",
+        "Prank-Kids Weather Washer"
+    ],
+    "attribute": "WIND",
+    "attack": 2000,
+    "defense": null,
+    "monster_type": "Thunder",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 20
+}

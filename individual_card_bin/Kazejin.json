@@ -1,0 +1,38 @@
+{
+    "name": "Kazejin",
+    "filename": "Kazejin",
+    "card_text": "Once while face-up on the field, during damage calculation in your opponent's turn, if this card is being attacked (Quick Effect): You can target the attacking monster; make that target's ATK 0 during damage calculation only.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "DARK LEGENDS",
+        "MAZE OF MEMORIES",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "METAL RAIDERS",
+        "DARK BEGINNING 1",
+        "RETRO PACK",
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Dark Element",
+        "Dark Guardian",
+        "Double Attack! Wind and Thunder!!",
+        "Gate Guardian",
+        "Gate Guardian of Thunder and Wind",
+        "Gate Guardian of Wind and Water",
+        "Gate Guardians Combined",
+        "Labyrinth Heavy Tank",
+        "Labyrinth Wall Shadow",
+        "Prey of the Jirai Gumo",
+        "Riryoku Guardian"
+    ],
+    "attribute": "WIND",
+    "attack": 2400,
+    "defense": 2200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

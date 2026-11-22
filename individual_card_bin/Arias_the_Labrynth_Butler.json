@@ -1,0 +1,34 @@
+{
+    "name": "Arias the Labrynth Butler",
+    "filename": "Arias_the_Labrynth_Butler",
+    "card_text": "During the Main Phase (Quick Effect): You can send this card from your hand or field to the GY; Special Summon 1 \"Labrynth\" monster, or Set 1 Normal Trap, from your hand. The Set Normal Trap can be activated this turn. When your opponent activates a card or effect in response to your card or effect activation of a Normal Trap or a \"Labrynth\" card, except \"Arias the Labrynth Butler\" (Quick Effect): You can activate this effect in the GY; Special Summon this card. You can only use each effect of \"Arias the Labrynth Butler\" once per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "RARITY COLLECTION 5",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Ariane the Labrynth Servant",
+        "Arianna the Labrynth Servant",
+        "Big Welcome Labrynth",
+        "Farewelcome Labrynth",
+        "Labrynth Archfiend",
+        "Labrynth Barrage",
+        "Labrynth Chandraglier",
+        "Labrynth Cooclock",
+        "Labrynth Labyrinth",
+        "Labrynth Set-Up",
+        "Labrynth Stovie Torbie",
+        "Lady Labrynth of the Silver Castle",
+        "Lovely Labrynth of the Silver Castle",
+        "Welcome Labrynth"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 2500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

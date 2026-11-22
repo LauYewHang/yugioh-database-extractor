@@ -1,0 +1,25 @@
+{
+    "name": "Water Dragon Cluster",
+    "filename": "Water_Dragon_Cluster",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Bonding\" Spell/Trap. If this card is Special Summoned: You can activate this effect; Effect Monsters your opponent currently controls cannot activate their effects for the rest of this turn, also change their ATK to 0 until the end of this turn. (Quick Effect): You can Tribute this card; Special Summon 2 \"Water Dragon\" from your hand and/or Deck in Defense Position, ignoring their Summoning conditions.",
+    "release_date": "2017-09-08",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "LEGENDARY DUELISTS"
+    ],
+    "related_card": [
+        "Bonding - D2O",
+        "Bonding - DHO",
+        "Bonding - H2O",
+        "Light Water Dragon",
+        "Magnet Bonding",
+        "Water Dragon"
+    ],
+    "attribute": "WATER",
+    "attack": 2800,
+    "defense": 2600,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

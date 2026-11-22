@@ -1,0 +1,33 @@
+{
+    "name": "Traptrix Trap Hole Nightmare",
+    "filename": "Traptrix_Trap_Hole_Nightmare",
+    "card_text": "When a monster that was Special Summoned this turn activates its effect on your opponent's field: Negate that effect, and if you do, destroy that card.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "2014 MEGA-TINS MEGA PACK",
+        "MASTER OF PENDULUM STRUCTURE DECK",
+        "ASTRAL PACK SIX",
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX",
+        "STRUCTURE DECK: POWERCODE LINK"
+    ],
+    "related_card": [
+        "Goblin Pothole Squad",
+        "Terrifying Trap Hole Nightmare",
+        "Traptrix Arachnocampa",
+        "Traptrix Atrax",
+        "Traptrix Cularia",
+        "Traptrix Dionaea",
+        "Traptrix Genlisea",
+        "Traptrix Mantis",
+        "Traptrix Myrmeleo",
+        "Traptrix Nepenthes",
+        "Traptrix Pudica",
+        "Traptrix Rafflesia",
+        "Traptrix Sera",
+        "Traptrix Vesiculo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Quill Pen of Gulldos",
+    "filename": "Quill_Pen_of_Gulldos",
+    "card_text": "Target 2 WIND monsters in your GY and 1 card on the field; shuffle both of those first 2 targets into your Deck, and if you do, return the other to the hand.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "LEGENDARY DUELISTS: SYNCHRO STORM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

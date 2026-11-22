@@ -1,0 +1,15 @@
+{
+    "name": "Needlebug Nest",
+    "filename": "Needlebug_Nest",
+    "card_text": "Send the top 5 cards of your Deck to the GY.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "STRUCTURE DECK: ZOMBIE HORDE",
+        "WING RAIDERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

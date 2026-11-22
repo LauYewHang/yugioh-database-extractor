@@ -1,0 +1,23 @@
+{
+    "name": "Black Garden",
+    "filename": "Black_Garden",
+    "card_text": "If a monster(s) is Normal or Special Summoned face-up, except by the effect of \"Black Garden\": Halve its ATK, then, the controller of that monster Special Summons 1 \"Rose Token\" (Plant/DARK/Level 2/ATK 800/DEF 800) to their opponent's field in Attack Position. (This ATK loss remains even if this card leaves the field.) You can target 1 monster in your GY with ATK equal to the total ATK of all Plant monsters on the field; destroy this card and as many Plant monsters on the field as possible, then, if you destroyed all of them, Special Summon that targeted monster.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "Legendary 5D's Decks",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "CROSSROADS OF CHAOS",
+        "LEGENDARY DUELISTS: SEASON 2",
+        "ASTRAL PACK FOUR",
+        "TURBO PACK BOOSTER SIX",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Blooming of the Darkest Rose",
+        "Garden Rose Flora",
+        "Garden Rose Maiden"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

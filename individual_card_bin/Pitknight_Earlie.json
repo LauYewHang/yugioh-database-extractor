@@ -1,0 +1,18 @@
+{
+    "name": "Pitknight Earlie",
+    "filename": "Pitknight_Earlie",
+    "card_text": "2 Effect Monsters\nWhen a monster this card points to activates its effect (except during the Damage Step) (Quick Effect): You can target 1 Effect Monster your opponent controls; until the end of this turn, change its ATK to 0, also negate its effects. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there this turn: You can Special Summon this card. You can only use each effect of \"Pitknight Earlie\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 576
+}

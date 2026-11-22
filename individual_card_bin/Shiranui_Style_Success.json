@@ -1,0 +1,23 @@
+{
+    "name": "Shiranui Style Success",
+    "filename": "Shiranui_Style_Success",
+    "card_text": "Special Summon 1 Zombie monster from your hand, but banish it when it leaves the field. You can banish this card from your GY, then target 1 Zombie monster you control; that Zombie monster is unaffected by card effects this turn, except its own. You can only use 1 \"Shiranui Style Success\" effect per turn, and only once that turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "V Salamander",
+    "filename": "V_Salamander",
+    "card_text": "When this card is Normal Summoned: You can target 1 \"Utopia\" monster in your Graveyard; Special Summon that target. You can target 1 \"Number C39: Utopia Ray V\" you control; equip this monster you control to that target. Once per turn, while this card is equipped to a monster: You can detach 1 Xyz Material from the equipped monster; negate the equipped monster's effects (even after this card leaves the field or the monster becomes unaffected by card effects), and if you do, destroy all monsters your opponent controls, and if you do that, inflict 1000 damage to your opponent for each monster destroyed by this effect.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 1300,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

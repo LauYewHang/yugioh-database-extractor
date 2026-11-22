@@ -1,0 +1,17 @@
+{
+    "name": "Darkest Diabolos, Lord of the Lair",
+    "filename": "Darkest_Diabolos__Lord_of_the_Lair",
+    "card_text": "Your opponent cannot Tribute this face-up card on the field, and cannot target it with card effects. You can only use each of these effects of \"Darkest Diabolos, Lord of the Lair\" once per turn.\n\u25cfIf a DARK monster you control is Tributed (except during the Damage Step): You can Special Summon this card from your GY (if it was there when you Tributed) or hand (even if not).\n\u25cfYou can Tribute 1 DARK monster; your opponent places 1 card from their hand on either the top or bottom of the Deck.",
+    "release_date": "2018-04-20",
+    "available_set": [
+        "STRUCTURE DECK : LAIR OF DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

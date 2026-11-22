@@ -13,7 +13,14 @@
     "attack": 100,
     "defense": null,
     "monster_type": "Reptile",
-    "monster_card_type": 8194,
+    "monster_card_type": [
+        "Link",
+        "Effect"
+    ],
     "link_rating": 3,
-    "link_arrow": 896
+    "link_arrow": [
+        "Top-right",
+        "Top-Center",
+        "Top-Left"
+    ]
 }

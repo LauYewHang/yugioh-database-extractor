@@ -1,0 +1,22 @@
+{
+    "name": "Light and Darkness Dragon",
+    "filename": "Light_and_Darkness_Dragon",
+    "card_text": "Cannot be Special Summoned. While face-up on the field, this card is also DARK-Attribute. Once per Chain, when a Spell/Trap Card, or monster effect, is activated (Quick Effect): This card loses exactly 500 ATK/DEF and that activation is negated. When this card is destroyed and sent to the GY: Target 1 monster in your GY (if possible); destroy all cards you control, also Special Summon that monster (if any).",
+    "release_date": "2007-11-06",
+    "available_set": [
+        "LIGHT & DARKNESS - POWER PACK -",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "Yu-Gi-Oh! GX volume 1 Promotional Card",
+        "STORM OF RAGNAROK SPECIAL EDITION",
+        "ASTRAL PACK TWO",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2400,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

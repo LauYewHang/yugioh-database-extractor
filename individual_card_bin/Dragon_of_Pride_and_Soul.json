@@ -1,0 +1,17 @@
+{
+    "name": "Dragon of Pride and Soul",
+    "filename": "Dragon_of_Pride_and_Soul",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while your opponent has 25 or more cards in their GY. While you have 25 or more cards in your GY, this card gains 2500 ATK/DEF.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Crashbug Z",
+    "filename": "Crashbug_Z",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 \"Crashbug Y\" from your Deck. You must control a face-up \"Crashbug X\" to activate and to resolve this effect.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [
+        "Crashbug X",
+        "Crashbug Y",
+        "Super Crashbug"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 1500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

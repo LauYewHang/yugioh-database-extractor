@@ -122,7 +122,10 @@
     "attack": 500,
     "defense": 2000,
     "monster_type": "Plant",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn: You can target 1 face-up monster your opponent controls, and 1 \"Performapal\" monster you control; that opponent's monster loses ATK equal to the ATK of that \"Performapal\" monster you control (even if this card leaves the field).",

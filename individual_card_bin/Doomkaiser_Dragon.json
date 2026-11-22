@@ -1,0 +1,24 @@
+{
+    "name": "Doomkaiser Dragon",
+    "filename": "Doomkaiser_Dragon",
+    "card_text": "\"Plaguespreader Zombie\" + 1+ non-Tuner Zombie monsters\nWhen this card is Special Summoned: You can target 1 Zombie monster in your opponent's GY; Special Summon that target to your field in Attack Position, but destroy it when this card leaves the field.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "DUELIST LEAGUE 16",
+        "CROSSROADS OF CHAOS",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [
+        "Doomkaiser Dragon/Assault Mode",
+        "Mad Mauler",
+        "Pain Painter",
+        "Plaguespreader Zombie"
+    ],
+    "attribute": "FIRE",
+    "attack": 2400,
+    "defense": 1500,
+    "monster_type": "Zombie",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -12,7 +12,10 @@
     "attack": 500,
     "defense": 500,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 1,
     "pendulum_effect": "Once per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.",

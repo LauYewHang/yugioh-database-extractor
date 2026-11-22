@@ -1,0 +1,24 @@
+{
+    "name": "Power Bond",
+    "filename": "Power_Bond",
+    "card_text": "Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, and it gains ATK equal to its original ATK. During the End Phase of the turn this card is activated, you take damage equal to the amount of ATK gained from this effect at the time of the Summon.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "STRUCTURE DECK: CYBER STRIKE",
+        "OTS TOURNAMENT PACK 17",
+        "RA YELLOW MEGA PACK",
+        "DUELIST PACK - ZANE TRUESDALE -",
+        "CYBERNETIC REVOLUTION",
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS",
+        "DARK REVELATION Volume 4",
+        "LEGENDARY DRAGON DECKS"
+    ],
+    "related_card": [
+        "Cyber Pharos",
+        "Cyberdark Chimera"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

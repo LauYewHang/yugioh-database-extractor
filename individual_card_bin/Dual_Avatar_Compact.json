@@ -1,0 +1,25 @@
+{
+    "name": "Dual Avatar Compact",
+    "filename": "Dual_Avatar_Compact",
+    "card_text": "During the Main Phase: Banish 1 \"Dual Avatar\" Spell/Trap from your GY, except \"Dual Avatar Compact\"; this card's effect becomes that Spell/Trap's effect when that card is activated. You can only activate 1 \"Dual Avatar Compact\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Dual Avatar - Empowered Kon-Gyo",
+        "Dual Avatar - Empowered Mitsu-Jaku",
+        "Dual Avatar - Manifested A-Un",
+        "Dual Avatar Ascendance",
+        "Dual Avatar Defeating Evil",
+        "Dual Avatar Feet - Armored Un-Gyo",
+        "Dual Avatar Feet - Kokoku",
+        "Dual Avatar Fists - Armored Ah-Gyo",
+        "Dual Avatar Fists - Yuhi",
+        "Dual Avatar Invitation",
+        "Dual Avatar Return",
+        "Perfect Sync - A-Un"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

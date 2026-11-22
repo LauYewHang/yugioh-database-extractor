@@ -1,0 +1,22 @@
+{
+    "name": "Serpent Night Dragon",
+    "filename": "Serpent_Night_Dragon",
+    "card_text": "A dragon created from the soul of a wicked knight.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "SPEED DUEL TOURNAMENT PACK 02",
+        "TURBO PACK BOOSTER SEVEN",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2350,
+    "defense": 2400,
+    "monster_type": "Dragon",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

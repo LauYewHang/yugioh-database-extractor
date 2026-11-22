@@ -1,0 +1,37 @@
+{
+    "name": "Searing Fire Wall",
+    "filename": "Searing_Fire_Wall",
+    "card_text": "Banish any number of \"Laval\" monsters from your Graveyard; Special Summon an equal number of \"Laval Tokens\" (Pyro-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position.",
+    "release_date": "2011-05-29",
+    "available_set": [
+        "DUEL TERMINAL 5A",
+        "HIDDEN ARSENAL 5 STEELSWARM INVASION"
+    ],
+    "related_card": [
+        "Laval Archer",
+        "Laval Blaster",
+        "Laval Burner",
+        "Laval Cannon",
+        "Laval Coatl",
+        "Laval Dual Slasher",
+        "Laval Forest Sprite",
+        "Laval Judgment Lord",
+        "Laval Lakeside Lady",
+        "Laval Lancelord",
+        "Laval Magma Cannoneer",
+        "Laval Miller",
+        "Laval Phlogis",
+        "Laval Stennon",
+        "Laval the Greater",
+        "Laval Volcano Handmaiden",
+        "Laval Warrior",
+        "Lavalval Chain",
+        "Lavalval Dragon",
+        "Lavalval Dragun",
+        "Lavalval Exlord",
+        "Lavalval Ignis",
+        "Lavalval Salamander"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

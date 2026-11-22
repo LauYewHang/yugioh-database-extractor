@@ -1,0 +1,12 @@
+{
+    "name": "Downbeat",
+    "filename": "Downbeat",
+    "card_text": "Tribute 1 face-up monster; Special Summon from your Deck, 1 monster with the same original Type and Attribute that the Tributed monster had on the field, but 1 Level lower. You can only activate 1 \"Downbeat\" per turn.",
+    "release_date": "2018-02-02",
+    "available_set": [
+        "EXTREME FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

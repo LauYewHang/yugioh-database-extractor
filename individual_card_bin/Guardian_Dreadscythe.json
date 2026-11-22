@@ -1,0 +1,24 @@
+{
+    "name": "Guardian Dreadscythe",
+    "filename": "Guardian_Dreadscythe",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. If a \"Guardian Eatos\" is destroyed by battle or card effect and sent to your GY: You can Special Summon this card from your hand. When this card is Special Summoned: You can equip 1 \"Reaper Scythe - Dreadscythe\" from your Deck to this card. You cannot Normal or Special Summon monsters (but you can Normal Set). If this card is sent from the field to the GY: Send 1 card from your hand to the GY, and if you do, Special Summon this card from the GY.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Arsenal Summoner",
+        "Guardian Eatos",
+        "Principug",
+        "Reaper Scythe - Dreadscythe"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Danger! Nessie!",
+    "filename": "Danger__Nessie_",
+    "card_text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Nessie!\", Special Summon 1 \"Danger! Nessie!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can add 1 \"Danger!\" card from your Deck to your hand, except \"Danger! Nessie!\". You can only use this effect of \"Danger! Nessie!\" once per turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON",
+        "STRUCTURE DECK: THE CRIMSON KING",
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "MAXIMUM GOLD: EL DORADO",
+        "RARITY COLLECTION 5",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Danger! Bigfoot!",
+        "Danger! Chupacabra!",
+        "Danger! Disturbance! Disorder!",
+        "Danger! Dogman!",
+        "Danger! Excitement! Mystery!",
+        "Danger! Feets of Strength!",
+        "Danger! Mothman!",
+        "Danger! Ogopogo!",
+        "Danger! Response Team",
+        "Danger! Thunderbird!",
+        "Danger! Zone",
+        "Danger!? Jackalope?",
+        "Danger!? Tsuchinoko?",
+        "Realm of Danger!",
+        "Second Expedition into Danger!",
+        "You're in Danger!"
+    ],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 2800,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

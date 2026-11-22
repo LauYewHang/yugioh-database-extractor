@@ -1,0 +1,13 @@
+{
+    "name": "Abyss Stungray",
+    "filename": "Abyss_Stungray",
+    "card_text": "Special Summon this card as an Effect Monster (Thunder-Type/LIGHT/Level 5/ATK 1900/DEF 0). (This card is also still a Trap Card.) If Summoned this way, this card cannot be destroyed by battle.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

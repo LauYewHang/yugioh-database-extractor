@@ -1,0 +1,30 @@
+{
+    "name": "Dual Avatar Fists - Yuhi",
+    "filename": "Dual_Avatar_Fists___Yuhi",
+    "card_text": "You can target 1 \"Dual Avatar\" monster you control; destroy it, and if you do, add 1 \"Dual Avatar\" Spell from your Deck to your hand. If a face-up \"Dual Avatar\" Fusion Monster(s) you control, that was Fusion Summoned using an Effect Monster as material, is destroyed by battle or an opponent's card effect, while this card is in your GY: You can add this card to your hand. You can only use each effect of \"Dual Avatar Fists - Yuhi\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE"
+    ],
+    "related_card": [
+        "Dual Avatar - Empowered Kon-Gyo",
+        "Dual Avatar - Empowered Mitsu-Jaku",
+        "Dual Avatar - Manifested A-Un",
+        "Dual Avatar Ascendance",
+        "Dual Avatar Compact",
+        "Dual Avatar Defeating Evil",
+        "Dual Avatar Feet - Armored Un-Gyo",
+        "Dual Avatar Feet - Kokoku",
+        "Dual Avatar Fists - Armored Ah-Gyo",
+        "Dual Avatar Invitation",
+        "Dual Avatar Return",
+        "Perfect Sync - A-Un"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

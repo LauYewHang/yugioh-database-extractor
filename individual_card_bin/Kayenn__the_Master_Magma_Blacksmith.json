@@ -1,0 +1,42 @@
+{
+    "name": "Kayenn, the Master Magma Blacksmith",
+    "filename": "Kayenn__the_Master_Magma_Blacksmith",
+    "card_text": "You can banish this card from your Graveyard; all face-up \"Laval\" monsters you currently control gain 400 ATK.",
+    "release_date": "2011-05-29",
+    "available_set": [
+        "DUEL TERMINAL 5A",
+        "HIDDEN ARSENAL 5 STEELSWARM INVASION"
+    ],
+    "related_card": [
+        "Laval Archer",
+        "Laval Blaster",
+        "Laval Burner",
+        "Laval Cannon",
+        "Laval Coatl",
+        "Laval Dual Slasher",
+        "Laval Forest Sprite",
+        "Laval Judgment Lord",
+        "Laval Lakeside Lady",
+        "Laval Lancelord",
+        "Laval Magma Cannoneer",
+        "Laval Miller",
+        "Laval Phlogis",
+        "Laval Stennon",
+        "Laval the Greater",
+        "Laval Volcano Handmaiden",
+        "Laval Warrior",
+        "Lavalval Chain",
+        "Lavalval Dragon",
+        "Lavalval Dragun",
+        "Lavalval Exlord",
+        "Lavalval Ignis",
+        "Lavalval Salamander"
+    ],
+    "attribute": "FIRE",
+    "attack": 1200,
+    "defense": 200,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

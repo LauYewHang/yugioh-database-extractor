@@ -1,0 +1,32 @@
+{
+    "name": "Magical Musketeer Doc",
+    "filename": "Magical_Musketeer_Doc",
+    "card_text": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can add 1 \"Magical Musket\" card from your GY to your hand, but not a card with the same name as that activated card. You can only use this effect of \"Magical Musketeer Doc\" once per turn.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Desperado",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Starfire",
+        "Magical Musketeer Wild"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

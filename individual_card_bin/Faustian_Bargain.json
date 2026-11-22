@@ -1,0 +1,14 @@
+{
+    "name": "Faustian Bargain",
+    "filename": "Faustian_Bargain",
+    "card_text": "Target 1 Special Summoned monster on either field; send it to the GY, and if you do, Special Summon 1 Level 4 or lower Normal Monster from your hand.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "STARDUST OVERDRIVE",
+        "SPEED DUEL TOURNAMENT PACK 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

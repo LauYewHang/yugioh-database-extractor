@@ -1,0 +1,24 @@
+{
+    "name": "Cannon Soldier",
+    "filename": "Cannon_Soldier",
+    "card_text": "You can Tribute 1 monster; inflict 500 damage to your opponent.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "DARK LEGENDS",
+        "STRUCTURE DECK MACHINE RE-VOLT",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2",
+        "RETRO PACK",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [
+        "Labyrinth Tank"
+    ],
+    "attribute": "DARK",
+    "attack": 1400,
+    "defense": 1300,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

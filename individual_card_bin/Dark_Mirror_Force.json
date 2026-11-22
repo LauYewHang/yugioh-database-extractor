@@ -1,0 +1,16 @@
+{
+    "name": "Dark Mirror Force",
+    "filename": "Dark_Mirror_Force",
+    "card_text": "When an opponent's monster declares an attack: Banish all Defense Position monsters your opponent controls.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD",
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

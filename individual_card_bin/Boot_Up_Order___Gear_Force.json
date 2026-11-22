@@ -1,0 +1,12 @@
+{
+    "name": "Boot-Up Order - Gear Force",
+    "filename": "Boot_Up_Order___Gear_Force",
+    "card_text": "When either player's monster declares an attack and all monsters you control are face-up Machine monsters (min. 1): Destroy Attack Position monsters your opponent controls, up to the number of Machine monsters you control.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

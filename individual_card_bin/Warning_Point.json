@@ -1,0 +1,14 @@
+{
+    "name": "Warning Point",
+    "filename": "Warning_Point",
+    "card_text": "When a monster(s) is Summoned: This turn, that face-up monster(s) cannot attack, its effects are negated, also it cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES",
+        "STRUCTURE DECK: ALBAZ STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

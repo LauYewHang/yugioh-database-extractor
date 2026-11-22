@@ -1,0 +1,17 @@
+{
+    "name": "Stealth Angecradle",
+    "filename": "Stealth_Angecradle",
+    "card_text": "A mysterious entity said to be an angel who brings salvation to heretical souls. After \"it\" passes through, only eternal silence remains - Ange Passe.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2700,
+    "defense": 2700,
+    "monster_type": "Fairy",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

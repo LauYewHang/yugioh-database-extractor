@@ -1,0 +1,13 @@
+{
+    "name": "Discord",
+    "filename": "Discord",
+    "card_text": "Neither player can Synchro Summon. Send this card to the Graveyard during your 3rd End Phase after activation.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY",
+        "DUEL TERMINAL 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

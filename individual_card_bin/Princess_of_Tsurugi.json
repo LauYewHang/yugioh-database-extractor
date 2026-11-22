@@ -1,0 +1,21 @@
+{
+    "name": "Princess of Tsurugi",
+    "filename": "Princess_of_Tsurugi",
+    "card_text": "FLIP: Inflict 500 points of damage to your opponent's Life Points for each Spell and Trap Card on your opponent's side of the field.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "STARTER DECK 2006",
+        "STARTER DECK JOEY",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 900,
+    "defense": 700,
+    "monster_type": "Warrior",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

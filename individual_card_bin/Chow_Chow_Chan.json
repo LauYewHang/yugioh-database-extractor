@@ -1,0 +1,17 @@
+{
+    "name": "Chow Chow Chan",
+    "filename": "Chow_Chow_Chan",
+    "card_text": "When your opponent activates a Normal Trap Card in response to your monster's attack declaration targeting an opponent's monster: You can discard this card; negate the activation, and if you do, destroy that card (this is a Quick Effect).",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

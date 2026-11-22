@@ -1,0 +1,16 @@
+{
+    "name": "Drop Off",
+    "filename": "Drop_Off",
+    "card_text": "When your opponent draws for their normal draw in their Draw Phase: Your opponent discards 1 card they just drew.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2",
+        "Speed Duel: Battle City Box",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Gold Pride - It's Neck and Neck!",
+    "filename": "Gold_Pride___It_s_Neck_and_Neck_",
+    "card_text": "Target 1 \"Gold Pride\" monster you control or 1 \"Gold Pride\" card in your GY, except \"Gold Pride - It's Neck and Neck!\"; return it to the hand. If your opponent controls a monster with higher ATK than your LP: You can banish this card and 1 \"Gold Pride\" monster from your GY; Special Summon 1 other \"Gold Pride\" monster from your Extra Deck that mentions that banished monster's name. You can only use each effect of \"Gold Pride - It's Neck and Neck!\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Gold Pride - Better Luck Next Time!",
+        "Gold Pride - Captain Carrie",
+        "Gold Pride - Chariot Carrie",
+        "Gold Pride - Eliminator",
+        "Gold Pride - Eradicator",
+        "Gold Pride - Leon",
+        "Gold Pride - Nytro Blaster",
+        "Gold Pride - Nytro Head",
+        "Gold Pride - Pedal to the Metal!",
+        "Gold Pride - Pin Baller",
+        "Gold Pride - Roller Baller",
+        "Gold Pride - Star Leon",
+        "Gold Pride - Start Your Engines!",
+        "Gold Pride - That Came Out of Nowhere!",
+        "Gold Pride - The Crowd Goes Wild!"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

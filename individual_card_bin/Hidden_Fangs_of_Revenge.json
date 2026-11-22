@@ -1,0 +1,12 @@
+{
+    "name": "Hidden Fangs of Revenge",
+    "filename": "Hidden_Fangs_of_Revenge",
+    "card_text": "Neither player can activate cards or effects in response to this card's activation. When a monster declares an attack: Destroy 2 Set cards you control, and if you do, negate that attack, then, if any Monster Cards were destroyed by this effect and sent to the GY, choose 1 and destroy as many monsters your opponent controls as possible with ATK less than or equal to that monster's DEF, then it becomes the End Phase. You can only activate 1 \"Hidden Fangs of Revenge\" per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

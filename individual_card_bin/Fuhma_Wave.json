@@ -1,0 +1,12 @@
+{
+    "name": "Fuhma Wave",
+    "filename": "Fuhma_Wave",
+    "card_text": "Target 1 face-up monster on the field; destroy 1 monster on the field with the same Attribute, but a different name, as that monster.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

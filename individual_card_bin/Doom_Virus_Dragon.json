@@ -1,0 +1,24 @@
+{
+    "name": "Doom Virus Dragon",
+    "filename": "Doom_Virus_Dragon",
+    "card_text": "Must be Special Summoned with \"The Fang of Critias\", using \"Crush Card Virus\". If this card is Special Summoned: Look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this effect's activation, and destroy all those monsters with 1500 or more ATK.",
+    "release_date": "2015-07-17",
+    "available_set": [
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "LEGENDARY DRAGON DECKS",
+        "DRAGONS OF LEGEND -UNLEASHED-",
+        "DRAGONS OF LEGEND 2"
+    ],
+    "related_card": [
+        "Crush Card Virus",
+        "The Fang of Critias"
+    ],
+    "attribute": "DARK",
+    "attack": 1900,
+    "defense": 1500,
+    "monster_type": "Dragon",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

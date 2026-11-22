@@ -1,0 +1,31 @@
+{
+    "name": "Brain Control",
+    "filename": "Brain_Control",
+    "card_text": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "STARTER DECK 2006",
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 28",
+        "RISE OF THE DRAGON LORDS STRUCTURE DECK",
+        "QUARTER CENTURY BONANZA",
+        "YUGI'S LEGENDARY DECKS",
+        "DARK REVELATION Volume 3",
+        "THE LOST MILLENNIUM",
+        "EGYPTIAN GOD DECK: OBELISK THE TORMENTOR",
+        "DUELIST SAGA",
+        "STRUCTURE DECK INVINCIBLE FORTRESS",
+        "GOLD SERIES",
+        "LEGENDARY DUELISTS: RAGE OF RA",
+        "STARTER DECK JADEN YUKI",
+        "DUEL TERMINAL 3",
+        "STARTER DECK SYRUS TRUESDALE",
+        "DUELIST PACK - YUGI -",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Brain Controller"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

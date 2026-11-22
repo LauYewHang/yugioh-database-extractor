@@ -1,0 +1,30 @@
+{
+    "name": "Arcana Reading",
+    "filename": "Arcana_Reading",
+    "card_text": "Toss a coin and apply this effect. If \"Light Barrier\" is in your Field Zone, you can choose the effect instead.\n\u25cfHeads: Add 1 card from your Deck to your hand that has a coin tossing effect, except \"Arcana Reading\".\n\u25cfTails: Your opponent adds 1 card from their Deck to their hand.\nYou can banish this card from your GY; immediately after this effect resolves, Normal Summon 1 \"Arcana Force\" monster.\nYou can only use each effect of \"Arcana Reading\" once per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "SPEED DUEL GX: MIDTERM DESTRUCTION"
+    ],
+    "related_card": [
+        "Arcana Force 0 - The Fool",
+        "Arcana Force EX - The Chaos Ruler",
+        "Arcana Force EX - The Dark Ruler",
+        "Arcana Force EX - The Light Ruler",
+        "Arcana Force I - The Magician",
+        "Arcana Force III - The Empress",
+        "Arcana Force IV - The Emperor",
+        "Arcana Force V - The Hierophant",
+        "Arcana Force VI - The Lovers",
+        "Arcana Force VII - The Chariot",
+        "Arcana Force XIV - Temperance",
+        "Arcana Force XIX - The Sun",
+        "Arcana Force XV - The Fiend",
+        "Arcana Force XVIII - The Moon",
+        "Arcana Force XXI - The World",
+        "Light Barrier"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

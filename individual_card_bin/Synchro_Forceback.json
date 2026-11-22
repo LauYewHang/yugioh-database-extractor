@@ -1,0 +1,14 @@
+{
+    "name": "Synchro Forceback",
+    "filename": "Synchro_Forceback",
+    "card_text": "Target monsters on the field, up to the number of Synchro Monsters with different names you control; return them to the hand. You can only activate 1 \"Synchro Forceback\" per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Duelist Genesis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

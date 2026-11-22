@@ -1,0 +1,25 @@
+{
+    "name": "Destiny Board",
+    "filename": "Destiny_Board",
+    "card_text": "When this card and all 4 \"Spirit Message\" cards with different names are placed on your field, you win the Duel. Once per turn, during your opponent's End Phase: Place 1 \"Spirit Message\" card from your hand or Deck in your Spell & Trap Zone face-up, in the proper order of \"I\", \"N\", \"A\", and \"L\". When any \"Spirit Message\" card or \"Destiny Board\" you control leaves the field, send all \"Spirit Message\" cards and \"Destiny Board\" you control to the GY.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "LEGENDARY DUELISTS: SEASON 3",
+        "DARK BEGINNING 2",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "RETRO PACK 2"
+    ],
+    "related_card": [
+        "Dark Sanctuary",
+        "Dark Spirit's Mastery",
+        "Sentence of Doom",
+        "Spirit Message \"A\"",
+        "Spirit Message \"I\"",
+        "Spirit Message \"L\"",
+        "Spirit Message \"N\""
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Live\u2606Twin Lil-la Treat",
+    "filename": "Live_Twin_Lil_la_Treat",
+    "card_text": "If you control a \"Ki-sikil\" monster, you can Special Summon this card (from your hand). You can only Special Summon \"Live\u2606Twin Lil-la Treat\" once per turn this way. When either player takes damage from a battle involving an \"Evil\u2605Twin\" monster: You can banish this card from your GY, then target 1 face-up monster your opponent controls; it loses ATK equal to that battle damage. You can only use this effect of \"Live\u2606Twin Lil-la Treat\" once per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Evil\u2605Twin Challenge",
+        "Evil\u2605Twin GG EZ",
+        "Evil\u2605Twin Ki-sikil",
+        "Evil\u2605Twin Ki-sikil Deal",
+        "Evil\u2605Twin Lil-la",
+        "Evil\u2605Twin Present",
+        "Evil\u2605Twin's Trouble Sunny",
+        "Evil\u2605Twins Ki-sikil & Lil-la",
+        "Live\u2606Twin Channel",
+        "Live\u2606Twin Home",
+        "Live\u2606Twin Ki-sikil",
+        "Live\u2606Twin Ki-sikil Frost",
+        "Live\u2606Twin Lil-la Sweet",
+        "Live\u2606Twin Sunny's Snitch",
+        "Secret Password"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Fortress Warrior",
+    "filename": "Fortress_Warrior",
+    "card_text": "You take no battle damage from attacks involving this card. Once per turn, this card cannot be destroyed by battle.",
+    "release_date": "2009-02-24",
+    "available_set": [
+        "DUELIST PACK - YUSEI -",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Parsec, the Interstellar Dragon",
+    "filename": "Parsec__the_Interstellar_Dragon",
+    "card_text": "If you control a Level 8 monster, you can Normal Summon this card without Tributing.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

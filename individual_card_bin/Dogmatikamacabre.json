@@ -1,0 +1,43 @@
+{
+    "name": "Dogmatikamacabre",
+    "filename": "Dogmatikamacabre",
+    "card_text": "This card can be used to Ritual Summon any \"Dogmatika\" Ritual Monster from your hand or GY. You must also Tribute monsters from your hand or field, and/or banish Fusion or Synchro Monsters from your GY, whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon, then, if both \"White Knight of Dogmatika\" and \"White Relic of Dogmatika\" are on the field, you can look at either your Extra Deck or your opponent's, and send 1 monster from it to the GY. You can only activate 1 \"Dogmatikamacabre\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Alba System Dogmatikalamity",
+        "Branded in Central Dogmatika",
+        "Dogmatika Adin, the Enlightened",
+        "Dogmatika Alba Zoa",
+        "Dogmatika Ashiyan",
+        "Dogmatika Ecclesia, the Virtuous",
+        "Dogmatika Encounter",
+        "Dogmatika Fleurdelis, the Knighted",
+        "Dogmatika Fleurdelis, the Thunderbolt",
+        "Dogmatika Genesis",
+        "Dogmatika Lawbringer",
+        "Dogmatika Maximus",
+        "Dogmatika Nation",
+        "Dogmatika Nexus",
+        "Dogmatika Punishment",
+        "Dogmatika Theo, the Iron Punch",
+        "Dogmatikacism",
+        "Dogmatikalamity",
+        "Dogmatikamatrix",
+        "Dogmatikaturgy",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Nadir Servant",
+        "Quadogmatika Beast",
+        "The Dragon that Devours the Dogma",
+        "The Fallen & The Virtuous",
+        "Titaniklad the Ash Dragon",
+        "White Knight of Dogmatika",
+        "White Relic of Dogmatika"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Reaper Scythe - Dreadscythe",
+    "filename": "Reaper_Scythe___Dreadscythe",
+    "card_text": "Equip only to \"Guardian Dreadscythe\". It gains 500 ATK for each monster in the GYs.",
+    "release_date": "2014-04-25",
+    "available_set": [
+        "DRAGONS OF LEGEND",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [
+        "Guardian Dreadscythe"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Dyna Tank",
+    "filename": "Dyna_Tank",
+    "card_text": "1 Machine monster + 1 Dinosaur monster\nGains ATK equal to the original ATK of the Dinosaur monster used for its Fusion Summon. You can only use each of the following effects of \"Dyna Tank\" once per turn. When a card or effect is activated that targets this 1 card on the field (and no other cards) (Quick Effect): You can target 1 other card on the field that would be an appropriate target; that card or effect now targets the new target. If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 Dinosaur monster from your GY.",
+    "release_date": "2022-11-18",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "BATTLES OF LEGEND: CRYSTAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": "?",
+    "defense": 2100,
+    "monster_type": "Machine",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Sinful Spoils of Doom - Rciela",
+    "filename": "Sinful_Spoils_of_Doom___Rciela",
+    "card_text": "Target 1 Level 7 or higher Spellcaster monster you control; apply the following effects.\n\u25cfWhile face-up, that monster is unaffected by other monsters' effects this turn, and is sent to the GY during the Standby Phase of the next turn.\n\u25cfAll monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, then if their ATK becomes 0 by this effect, destroy them.\nYou can only activate 1 \"Sinful Spoils of Doom - Rciela\" per turn.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Azamina Debtors",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Diabellze the Original Sinkeeper",
+        "Diabellze the White Witch",
+        "Elzette, Azamina of the White Forest",
+        "Queen Azamina",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils Struggle",
+        "The Hallowed Azamina",
+        "WANTED: Seeker of Sinful Spoils"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

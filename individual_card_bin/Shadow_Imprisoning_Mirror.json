@@ -1,0 +1,17 @@
+{
+    "name": "Shadow-Imprisoning Mirror",
+    "filename": "Shadow_Imprisoning_Mirror",
+    "card_text": "Negate all DARK monster effects activated on the field or in the GY.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "MAGNIFICENT MAVENS",
+        "TURBO PACK BOOSTER TWO",
+        "ASTRAL PACK SEVEN",
+        "DUEL TERMINAL 7B",
+        "GLADIATOR'S ASSAULT",
+        "DUELIST LEAGUE 14"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Card Advance",
+    "filename": "Card_Advance",
+    "card_text": "Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order. You can Tribute Summon 1 monster in addition to your Normal Summon/Set this turn. (You can only gain this effect once per turn.)",
+    "release_date": "2014-08-01",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "EGYPTIAN GOD DECK: SLIFER THE SKY DRAGON"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

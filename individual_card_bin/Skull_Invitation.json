@@ -1,0 +1,16 @@
+{
+    "name": "Skull Invitation",
+    "filename": "Skull_Invitation",
+    "card_text": "Each time a card(s) is sent to the Graveyard, inflict 300 damage to its owner for each card sent.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "DARK BEGINNING 1",
+        "STRUCTURE DECK - MARIK -",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

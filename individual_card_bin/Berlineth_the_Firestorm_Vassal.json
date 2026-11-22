@@ -1,0 +1,17 @@
+{
+    "name": "Berlineth the Firestorm Vassal",
+    "filename": "Berlineth_the_Firestorm_Vassal",
+    "card_text": "You can discard 1 card; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can look at your opponent's hand and banish 1 card from their hand until the End Phase. You can only use each effect of \"Berlineth the Firestorm Vassal\" once per turn.",
+    "release_date": "2016-01-29",
+    "available_set": [
+        "EMPEROR OF DARKNESS STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

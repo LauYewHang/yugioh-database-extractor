@@ -1,0 +1,16 @@
+{
+    "name": "Bashing Shield",
+    "filename": "Bashing_Shield",
+    "card_text": "Equip only to a Normal Summoned/Set monster. It gains 1000 ATK. You take no battle damage from battles involving it.",
+    "release_date": "2014-08-01",
+    "available_set": [
+        "DEMO DECK 2016 (UK)",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

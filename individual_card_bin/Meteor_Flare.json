@@ -1,0 +1,12 @@
+{
+    "name": "Meteor Flare",
+    "filename": "Meteor_Flare",
+    "card_text": "Activate by sending 2 cards from your hand to the Graveyard while your opponent has more than 3000 Life Points. Inflict 2000 damage to your opponent. If this card is in the Graveyard, you can add it to your hand instead of conducting your normal draw during your Draw Phase.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Sealing Ceremony of Suiton",
+    "filename": "Sealing_Ceremony_of_Suiton",
+    "card_text": "Once per turn: You can send 1 WATER monster from your hand to the GY, then target 1 card in your opponent's GY; banish that target.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE",
+        "SPEED DUEL: TRIALS OF THE KINGDOM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

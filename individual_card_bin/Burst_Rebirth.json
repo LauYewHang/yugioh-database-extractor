@@ -1,0 +1,12 @@
+{
+    "name": "Burst Rebirth",
+    "filename": "Burst_Rebirth",
+    "card_text": "Pay 2000 Life Points, then target 1 monster in your Graveyard; Special Summon that target in face-down Defense Position.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "SHADOW SPECTERS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

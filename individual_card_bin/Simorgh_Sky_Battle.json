@@ -1,0 +1,27 @@
+{
+    "name": "Simorgh Sky Battle",
+    "filename": "Simorgh_Sky_Battle",
+    "card_text": "Winged Beast monsters you control cannot be targeted by your opponent's card effects, or their monsters' attacks, except your Winged Beast monster(s) with the highest ATK. You can send to the GY, this card and 2 \"Simorgh\" monsters you control with different original Attributes whose original Levels are 7 or higher; return as many cards on the field to the hand as possible, and if you do, take 500 damage for each card returned to the hand, then inflict damage to your opponent equal to the damage you took. You can only use this effect of \"Simorgh Sky Battle\" once per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Dark Simorgh",
+        "Elborz, the Sacred Lands of Simorgh",
+        "Simorgh of Darkness",
+        "Simorgh Onslaught",
+        "Simorgh Repulsion",
+        "Simorgh, Bird of Ancestry",
+        "Simorgh, Bird of Beginning",
+        "Simorgh, Bird of Bringing",
+        "Simorgh, Bird of Calamity",
+        "Simorgh, Bird of Divinity",
+        "Simorgh, Bird of Perfection",
+        "Simorgh, Bird of Protection",
+        "Simorgh, Bird of Sovereignty",
+        "Simorgh, Lord of the Storm"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

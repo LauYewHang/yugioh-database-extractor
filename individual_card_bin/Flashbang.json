@@ -1,0 +1,12 @@
+{
+    "name": "Flashbang",
+    "filename": "Flashbang",
+    "card_text": "Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "STRIKE OF NEOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

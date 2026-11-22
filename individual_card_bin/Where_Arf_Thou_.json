@@ -1,0 +1,17 @@
+{
+    "name": "Where Arf Thou?",
+    "filename": "Where_Arf_Thou_",
+    "card_text": "If you control a Level 1 monster: Add 1 Level 1 monster from your Deck to your hand. During the End Phase of this turn, take 2000 damage if you did not Normal Summon the added monster, or a card with the same name, after activating this card.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "LEGENDARY DECKS II",
+        "OTS TOURNAMENT PACK 13",
+        "Justice Hunters",
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "RETURN OF THE DUELIST",
+        "STRUCTURE DECK : CYBERSE LINK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

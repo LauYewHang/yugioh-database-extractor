@@ -1,0 +1,17 @@
+{
+    "name": "Featherizer",
+    "filename": "Featherizer",
+    "card_text": "When this card is destroyed by battle and sent to the Graveyard, you can send 1 Gemini monster from your Deck to the Graveyard and draw 1 card.",
+    "release_date": "2009-10-27",
+    "available_set": [
+        "WARRIORS' STRIKE STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 700,
+    "defense": 1100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

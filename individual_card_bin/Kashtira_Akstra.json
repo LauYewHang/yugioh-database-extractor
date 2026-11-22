@@ -1,0 +1,34 @@
+{
+    "name": "Kashtira Akstra",
+    "filename": "Kashtira_Akstra",
+    "card_text": "If a face-up \"Kashtira\" Xyz Monster(s) you control is destroyed by battle or card effect: Banish 1 \"Visas Starfrost\" from your hand, your Deck, or your Monster Zone, and if you do, Special Summon 1 \"Vicious Astraloud\" from your Extra Deck, ignoring its Summoning conditions. If this card is banished: You can target 1 of your banished \"Visas Starfrost\"; add it to your hand. You can only use each effect of \"Kashtira Akstra\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Kashtira Arise-Heart",
+        "Kashtira Big Bang",
+        "Kashtira Birth",
+        "Kashtira Fenrir",
+        "Kashtira Ogre",
+        "Kashtira Overlap",
+        "Kashtira Preparations",
+        "Kashtira Riseheart",
+        "Kashtira Shangri-Ira",
+        "Kashtira Unicorn",
+        "Kashtiratheosis",
+        "New World Formation",
+        "Pressured Planet Wraitsoth",
+        "Scareclaw Kashtira",
+        "Tearlaments Kashtira",
+        "Trivikarma",
+        "Vicious Astraloud",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

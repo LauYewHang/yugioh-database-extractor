@@ -1,0 +1,31 @@
+{
+    "name": "Evil Eyes Unleashed",
+    "filename": "Evil_Eyes_Unleashed",
+    "card_text": "Send 1 \"Evil Eye\" monster and 1 \"Evil Eye\" Spell/Trap from your Deck to the GY; add 1 \"Evil Eye\" Equip Spell from your Deck to your hand, but for the rest of this turn, each time you activate a non-\"Evil Eye\" card or effect, you lose 500 LP. If you Link Summon an \"Evil Eye\" Link Monster: You can banish this card from your GY; equip 1 \"Evil Eye\" Equip Spell from your GY to 1 \"Evil Eye\" Link Monster you control. You can only use each effect of \"Evil Eyes Unleashed\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Basilius, Familiar of the Evil Eye",
+        "Basiltrice, Familiar of the Evil Eye",
+        "Catoblepas, Familiar of the Evil Eye",
+        "Evil Eye Awakening",
+        "Evil Eye Confrontation",
+        "Evil Eye Defeat",
+        "Evil Eye Domain - Pareidolia",
+        "Evil Eye Mesmerism",
+        "Evil Eye of Gorgoneio",
+        "Evil Eye of Selene",
+        "Evil Eye Reemergence",
+        "Evil Eye Repose",
+        "Evil Eye Retribution",
+        "Gorgon, Empress of the Evil Eyed",
+        "Medusa, Watcher of the Evil Eye",
+        "Serziel, Watcher of the Evil Eye",
+        "Zerrziel, Ruler of the Evil Eyed"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

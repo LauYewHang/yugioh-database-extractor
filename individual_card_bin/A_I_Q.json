@@ -1,0 +1,40 @@
+{
+    "name": "A.I.Q",
+    "filename": "A_I_Q",
+    "card_text": "Activate only if you control an \"@Ignister\" monster. Once per turn, during your Standby Phase, Tribute 1 Link Monster, or destroy this card. Each player can only Link Summon a monster once per turn while this card is face-up on the field.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "ETERNITY CODE"
+    ],
+    "related_card": [
+        "A.I.dle Reborn",
+        "Achichi @Ignister",
+        "Allied Code Talker @Ignister",
+        "Backup @Ignister",
+        "Bururu @Ignister",
+        "Code Igniter",
+        "Danmari @Ignister",
+        "Dark Infant @Ignister",
+        "Dark Templar @Ignister",
+        "Donyoribo @Ignister",
+        "Doshin @Ignister",
+        "Doyon @Ignister",
+        "Earth Golem @Ignister",
+        "Fire Phoenix @Ignister",
+        "Firewall Saber Dragon",
+        "Gatchiri @Ignister",
+        "Gussari @Ignister",
+        "Hiyari @Ignister",
+        "Kurikurinku @Ignister",
+        "Light Dragon @Ignister",
+        "Linkslayer @Ignister",
+        "Pikari @Ignister",
+        "The Arrival Cyberse @Ignister",
+        "Water Leviathan @Ignister",
+        "Wind Pegasus @Ignister",
+        "Wizard @Ignister"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

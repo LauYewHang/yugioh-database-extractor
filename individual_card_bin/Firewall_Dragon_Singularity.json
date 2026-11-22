@@ -1,0 +1,23 @@
+{
+    "name": "Firewall Dragon Singularity",
+    "filename": "Firewall_Dragon_Singularity",
+    "card_text": "3+ Effect Monsters\n(Quick Effect): You can target cards in your opponent's field and/or GY, up to the number of different card types (Ritual, Fusion, Synchro, Xyz) in your field and GY; return them to the hand, also this card gains 500 ATK for each returned card. If a monster this card points to is destroyed by battle, or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Firewall Dragon Singularity\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [
+        "Cynet Circuit",
+        "Firewall Defenser",
+        "Protectcode Talker"
+    ],
+    "attribute": "DARK",
+    "attack": 3500,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 6,
+    "link_arrow": 980
+}

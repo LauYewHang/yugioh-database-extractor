@@ -1,0 +1,12 @@
+{
+    "name": "Poisonous Winds",
+    "filename": "Poisonous_Winds",
+    "card_text": "WIND monsters cannot be Special Summoned. All face-up WIND monsters on the field lose 500 ATK.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

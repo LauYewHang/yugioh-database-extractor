@@ -1,0 +1,40 @@
+{
+    "name": "Wind-Up Factory",
+    "filename": "Wind_Up_Factory",
+    "card_text": "Once per turn, if an effect of a \"Wind-Up\" monster is activated (except during the Damage Step): You can add 1 Level 4 or lower \"Wind-Up\" monster from your Deck to your hand.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE",
+        "TURBO PACK BOOSTER EIGHT"
+    ],
+    "related_card": [
+        "Legendary Wind-Up Key",
+        "Overwind",
+        "Weights & Zenmaisures",
+        "Wind-Up Arsenal Zenmaioh",
+        "Wind-Up Bat",
+        "Wind-Up Carrier Zenmaity",
+        "Wind-Up Dog",
+        "Wind-Up Honeybee",
+        "Wind-Up Hunter",
+        "Wind-Up Juggler",
+        "Wind-Up Kitten",
+        "Wind-Up Knight",
+        "Wind-Up Magician",
+        "Wind-Up Rabbit",
+        "Wind-Up Rat",
+        "Wind-Up Shark",
+        "Wind-Up Snail",
+        "Wind-Up Soldier",
+        "Wind-Up Warrior",
+        "Wind-Up Zenmaines",
+        "Wind-Up Zenmaintenance",
+        "Wind-Up Zenmaister",
+        "Zenmaiday",
+        "Zenmailfunction",
+        "Zenmailstrom",
+        "Zenmairch"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

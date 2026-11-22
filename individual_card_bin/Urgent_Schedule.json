@@ -1,0 +1,17 @@
+{
+    "name": "Urgent Schedule",
+    "filename": "Urgent_Schedule",
+    "card_text": "If your opponent controls more monsters than you do: Special Summon 1 Level 4 or lower and 1 Level 5 or higher EARTH Machine monsters from your Deck in Defense Position, but negate their effects. You cannot declare attacks the turn you activate this card, except with Machine monsters. If this Set card is sent from the field to the GY: You can add 1 Level 10 Machine monster from your Deck to your hand. You can only use each effect of \"Urgent Schedule\" once per turn.",
+    "release_date": "2019-01-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "RARITY COLLECTION 5",
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "MAXIMUM GOLD: EL DORADO"
+    ],
+    "related_card": [
+        "Exceptional Schedule"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

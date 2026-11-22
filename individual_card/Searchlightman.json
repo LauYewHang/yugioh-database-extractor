@@ -12,7 +12,10 @@
     "attack": 1000,
     "defense": 1000,
     "monster_type": "Machine",
-    "monster_card_type": 2050,
+    "monster_card_type": [
+        "Flip",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3
 }

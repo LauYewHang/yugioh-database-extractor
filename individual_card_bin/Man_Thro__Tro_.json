@@ -1,0 +1,18 @@
+{
+    "name": "Man-Thro' Tro'",
+    "filename": "Man_Thro__Tro_",
+    "card_text": "By tributing 1 Normal Monster (except a Token) on your side of the field, inflict 800 points of damage to your opponent's Life Points.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Helpoemer",
+    "filename": "Helpoemer",
+    "card_text": "Cannot be Special Summoned from the GY. At the end of your opponent's Battle Phase, if this card is in the GY because it was destroyed by battle: Make your opponent discard 1 random card. This card must be in the GY to activate and to resolve this effect.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "PHARAONIC GUARDIAN",
+        "GOLD SERIES HAUNTED MINE",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": 1400,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

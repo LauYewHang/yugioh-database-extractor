@@ -1,0 +1,13 @@
+{
+    "name": "Invincibility Barrier",
+    "filename": "Invincibility_Barrier",
+    "card_text": "Once per turn: You can banish 1 face-up Ritual, Fusion, Synchro, Xyz, Pendulum, or Link Monster you control; this turn, the effects of monsters with the same card type as that banished monster (Ritual, Fusion, Synchro, Xyz, Pendulum, or Link) are negated.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

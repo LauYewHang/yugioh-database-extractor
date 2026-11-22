@@ -1,0 +1,12 @@
+{
+    "name": "Destruct Potion",
+    "filename": "Destruct_Potion",
+    "card_text": "Select 1 monster you control. Destroy it, and gain Life Points equal to it's ATK.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

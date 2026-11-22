@@ -1,0 +1,22 @@
+{
+    "name": "Mask of Weakness",
+    "filename": "Mask_of_Weakness",
+    "card_text": "Target 1 attacking monster; that target loses 700 ATK until the end of this turn.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DUEL TERMINAL - PREVIEW WAVE 1",
+        "LABYRINTH OF NIGHTMARE",
+        "DEMO DECK",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "DARK BEGINNING 1",
+        "Speed Duel: Battle City Box",
+        "STARTER DECK DARK LEGION (US)",
+        "DUEL TERMINAL - PREVIEW WAVE 2",
+        "DUEL TERMINAL 1",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

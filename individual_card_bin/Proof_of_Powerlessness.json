@@ -1,0 +1,12 @@
+{
+    "name": "Proof of Powerlessness",
+    "filename": "Proof_of_Powerlessness",
+    "card_text": "Activate only while you control a face-up Level 7 or higher monster. Destroy all face-up Level 5 or lower monsters your opponent controls. Monsters you control cannot attack this turn.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

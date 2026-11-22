@@ -1,0 +1,14 @@
+{
+    "name": "Magical Contract Door",
+    "filename": "Magical_Contract_Door",
+    "card_text": "Add 1 Spell Card from your hand to your opponent's hand, then add 1 Level 7 or 8 DARK monster from your Deck to your hand.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

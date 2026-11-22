@@ -1,0 +1,31 @@
+{
+    "name": "R.B. Shepherd's Crook",
+    "filename": "R_B__Shepherd_s_Crook",
+    "card_text": "2+ monsters, including an \"R.B.\" monster\nGains 500 ATK for each monster you control, except this card. You can only use each of the following effects of \"R.B. Shepherd's Crook\" once per turn. During your Main Phase: You can Set 1 \"R.B.\" Trap from your Deck or GY. During your opponent's Main Phase (Quick Effect): You can target 3 Level 3 or higher \"R.B.\" monsters in your GY; place 2 on the bottom of the Deck in any order, and if you do, Special Summon the other in Defense Position.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "R.B. Funk Dock",
+        "R.B. Ga10 Cutter",
+        "R.B. Ga10 Driller",
+        "R.B. Ga10 Pile Bunker",
+        "R.B. Lambda Blade",
+        "R.B. Lambda Cannon",
+        "R.B. Last Stand",
+        "R.B. Next Phase",
+        "R.B. Operation Test",
+        "R.B. Stage Landing",
+        "R.B. The Brute Blues",
+        "R.B. VALCan Booster",
+        "R.B. VALCan Rocket"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 28
+}

@@ -22,7 +22,10 @@
     "attack": 1950,
     "defense": 0,
     "monster_type": "Dragon",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Negate the effects of face-up Pendulum Monsters while your opponent controls them.",

@@ -1,0 +1,29 @@
+{
+    "name": "Awakening of Nephthys",
+    "filename": "Awakening_of_Nephthys",
+    "card_text": "All \"Nephthys\" monsters you control gain 300 ATK. If this face-up card in the Spell & Trap Zone is destroyed by card effect and sent to the GY: You can Special Summon 1 \"Nephthys\" monster from your hand, Deck, or GY, but destroy it during the End Phase. You can only use this effect of \"Awakening of Nephthys\" once per turn.",
+    "release_date": "2018-11-16",
+    "available_set": [
+        "HIDDEN SUMMONERS"
+    ],
+    "related_card": [
+        "Cerulean Sacred Phoenix of Nephthys",
+        "Chaos Nephthys",
+        "Chronicler of Nephthys",
+        "Conductor of Nephthys",
+        "Dark Nephthys",
+        "Defender of Nephthys",
+        "Devotee of Nephthys",
+        "Disciple of Nephthys",
+        "Hand of Nephthys",
+        "Last Hope of Nephthys",
+        "Matriarch of Nephthys",
+        "Metaphys Nephthys",
+        "Nephthys, the Sacred Flame",
+        "Nephthys, the Sacred Preserver",
+        "Rebirth of Nephthys",
+        "Sacred Phoenix of Nephthys"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

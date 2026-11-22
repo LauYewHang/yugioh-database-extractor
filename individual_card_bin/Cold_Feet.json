@@ -1,0 +1,12 @@
+{
+    "name": "Cold Feet",
+    "filename": "Cold_Feet",
+    "card_text": "You cannot activate, Set, or use the effects of any Spell/Trap Cards this turn.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

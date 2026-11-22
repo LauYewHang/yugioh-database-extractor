@@ -1,0 +1,15 @@
+{
+    "name": "Urgent Tuning",
+    "filename": "Urgent_Tuning",
+    "card_text": "During the Battle Phase: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster using monsters you control.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI -",
+        "STAR PACK BATTLE ROYAL",
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

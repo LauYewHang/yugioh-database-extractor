@@ -1,0 +1,37 @@
+{
+    "name": "Shining Hope Road",
+    "filename": "Shining_Hope_Road",
+    "card_text": "Target 3 monsters in your Graveyard; Special Summon all 3, but their effects are negated. Immediately after this effect resolves, Xyz Summon 1 \"Utopia\" or \"Utopic\" Xyz Monster using only those 3 monsters. You cannot Special Summon other monsters during the turn you activate this card.",
+    "release_date": "2016-03-18",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [
+        "Full Armored Utopic Ray Lancer",
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number 99: Utopic Dragon",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number F0: Utopic Draco Future",
+        "Number F0: Utopic Future",
+        "Number F0: Utopic Future Slash",
+        "Number F0: Utopic Future Zexal",
+        "Number S0: Utopic ZEXAL",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Number XX: Utopic Dark Infinity",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray",
+        "ZS - Utopic Sage"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

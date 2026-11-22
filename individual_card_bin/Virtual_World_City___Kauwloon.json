@@ -1,0 +1,29 @@
+{
+    "name": "Virtual World City - Kauwloon",
+    "filename": "Virtual_World_City___Kauwloon",
+    "card_text": "Place 1 \"Virtual World Gate\" card from your Deck face-up in your Spell & Trap Zone, then you can apply any of the following effect(s) in sequence, based on the number of \"Virtual World Gate\" cards you control.\n\u25cf2+: All \"Virtual World\" monsters you control gain 200 ATK this turn.\n\u25cf3+: Send the top 3 cards of your Deck to the GY.\n\u25cf4: Special Summon up to 4 \"Virtual World\" monsters with different names from your Extra Deck.\nYou can only activate 1 \"Virtual World City - Kauwloon\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Virtual World Beast - Jiujiu",
+        "Virtual World Dragon - Longlong",
+        "Virtual World Gate - Chuche",
+        "Virtual World Gate - Qinglong",
+        "Virtual World Gate - Xuanwu",
+        "Virtual World Hime - Nyannyan",
+        "Virtual World Kirin - Lili",
+        "Virtual World Kyubi - Shenshen",
+        "Virtual World Mai-Hime - Lulu",
+        "Virtual World Oto-Hime - Toutou",
+        "Virtual World Phoenix - Fanfan",
+        "Virtual World Roshi - Laolao",
+        "Virtual World Shell - Jaja",
+        "Virtual World Tiger - Fufu",
+        "Virtual World Xiezhi - Jiji"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

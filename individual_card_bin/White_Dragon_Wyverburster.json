@@ -1,0 +1,27 @@
+{
+    "name": "White Dragon Wyverburster",
+    "filename": "White_Dragon_Wyverburster",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. You can only Special Summon \"White Dragon Wyverburster\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"Black Dragon Collapserpent\" from your Deck to your hand.",
+    "release_date": "2013-11-08",
+    "available_set": [
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "SYNCHRON EXTREME STRUCTURE DECK",
+        "2014 MEGA-TINS MEGA PACK",
+        "SHADOW SPECTERS",
+        "ASTRAL PACK SIX",
+        "MAXIMUM GOLD: EL DORADO",
+        "STRUCTURE DECK: ALBAZ STRIKE",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Black Dragon Collapserpent"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1800,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

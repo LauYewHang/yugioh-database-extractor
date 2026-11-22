@@ -1,0 +1,33 @@
+{
+    "name": "Yang Zing Unleashed",
+    "filename": "Yang_Zing_Unleashed",
+    "card_text": "All monsters your opponent controls must attack, if able. During either player's Main Phase or Battle Phase: You can send this face-up card from your Spell & Trap Zone to the Graveyard; immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using 1 or more \"Yang Zing\" monsters you control as Synchro Materials.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE DELUXE EDITION",
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Baxia, Brightness of the Yang Zing",
+        "Bi'an, Earth of the Yang Zing",
+        "Bixi, Water of the Yang Zing",
+        "Chaofeng, Phantom of the Yang Zing",
+        "Chiwen, Light of the Yang Zing",
+        "Denglong, First of the Yang Zing",
+        "Jiaotu, Darkness of the Yang Zing",
+        "Nine Pillars of Yang Zing",
+        "Pulao, Wind of the Yang Zing",
+        "Suanni, Fire of the Yang Zing",
+        "Taotie, Shadow of the Yang Zing",
+        "Yang Zing Brutality",
+        "Yang Zing Creation",
+        "Yang Zing Path",
+        "Yang Zing Prana",
+        "Yazi, Evil of the Yang Zing",
+        "Zefraniu, Secret of the Yang Zing",
+        "Zefraxi, Treasure of the Yang Zing"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

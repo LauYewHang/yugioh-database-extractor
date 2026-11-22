@@ -1,0 +1,28 @@
+{
+    "name": "Vaylantz World - Shinra Bansho",
+    "filename": "Vaylantz_World___Shinra_Bansho",
+    "card_text": "When this card is activated: Place 1 \"Vaylantz\" Field Spell from your Deck face-up in your opponent's Field Zone, except \"Vaylantz World - Shinra Bansho\". If there are 2 cards in the Field Zones: The turn player can target 1 Monster Card in their own Spell & Trap Zone; they Special Summon that card to their own Main Monster Zone in its same column. The turn player can only use this effect of \"Vaylantz World - Shinra Bansho\" once per turn.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "TACTICAL MASTERS"
+    ],
+    "related_card": [
+        "Arktos XII - Chronochasm Vaylantz",
+        "Hojo the Vaylantz Warrior",
+        "Mamonaka the Vaylantz United",
+        "Nazuki the Vaylantz Ninja",
+        "Saion the Vaylantz Archer",
+        "Shinonome the Vaylantz Priestess",
+        "Vaylantz Buster Baron",
+        "Vaylantz Dominator Duke",
+        "Vaylantz Genesis Grand Duke",
+        "Vaylantz Mad Marquess",
+        "Vaylantz Voltage Viscount",
+        "Vaylantz Wakening - Solo Activation",
+        "Vaylantz Wars - The Place of Beginning",
+        "Vaylantz Wave - Master Phase",
+        "Vaylantz World - Konig Wissen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

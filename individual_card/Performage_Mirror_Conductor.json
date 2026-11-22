@@ -28,7 +28,10 @@
     "attack": 600,
     "defense": 1400,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn: You can target 1 face-up Special Summoned monster on the field; its ATK and DEF become equal to its current ATK or DEF (whichever is lower) until the end of this turn (even if this card leaves the field).",

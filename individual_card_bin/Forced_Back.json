@@ -1,0 +1,13 @@
+{
+    "name": "Forced Back",
+    "filename": "Forced_Back",
+    "card_text": "Negate the Normal Summon or Flip Summon of a monster and return it to its owner's hand.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "ENEMY OF JUSTICE",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

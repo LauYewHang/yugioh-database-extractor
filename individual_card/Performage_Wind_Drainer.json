@@ -29,7 +29,10 @@
     "attack": 2100,
     "defense": 0,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "Once per turn: You can target 1 \"Performage\" Pendulum Monster you control, then activate 1 of these effects;\n\u25cfReduce its Level by 1.\n\u25cfIncrease this card's Pendulum Scale by that monster's.",

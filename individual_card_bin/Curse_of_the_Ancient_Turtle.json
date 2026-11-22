@@ -1,0 +1,12 @@
+{
+    "name": "Curse of the Ancient Turtle",
+    "filename": "Curse_of_the_Ancient_Turtle",
+    "card_text": "Banish 1 Zombie monster from your hand or GY; send 1 Zombie monster from your Deck to the GY. When your Zombie monster is destroyed by battle: You can banish this card from your GY; Special Summon 1 Zombie monster with 2000 or less DEF from your Deck. You can only use each effect of \"Curse of the Ancient Turtle\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

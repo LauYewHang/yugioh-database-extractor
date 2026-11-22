@@ -1,0 +1,32 @@
+{
+    "name": "Heavenly Dragon Circle",
+    "filename": "Heavenly_Dragon_Circle",
+    "card_text": "Tribute 1 Wyrm monster; add 1 Wyrm monster from your Deck to your hand, or if you Tributed a non-Effect Monster to activate this card, you can Special Summon it instead, but negate its effects. During your Main Phase, if you control a face-up non-Effect Monster: You can banish this card from your GY; add 1 \"Tenyi\" card from your Deck to your hand. You can only use 1 \"Heavenly Dragon Circle\" effect per turn, and only once that turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST",
+        "MAZE OF THE MASTER",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Berserker of the Tenyi",
+        "Draco Berserker of the Tenyi",
+        "Draco Masters of the Tenyi",
+        "Fists of the Unrivaled Tenyi",
+        "Flawless Perfection of the Tenyi",
+        "Monk of the Tenyi",
+        "Shaman of the Tenyi",
+        "Tenyi Spirit - Adhara",
+        "Tenyi Spirit - Ashuna",
+        "Tenyi Spirit - Mapura",
+        "Tenyi Spirit - Mula Adhara",
+        "Tenyi Spirit - Nahata",
+        "Tenyi Spirit - Sahasrara",
+        "Tenyi Spirit - Shthana",
+        "Tenyi Spirit - Suruya",
+        "Tenyi Spirit - Vishuda",
+        "Tenyinfinity"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

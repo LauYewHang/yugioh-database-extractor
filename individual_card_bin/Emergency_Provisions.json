@@ -1,0 +1,18 @@
+{
+    "name": "Emergency Provisions",
+    "filename": "Emergency_Provisions",
+    "card_text": "Send any number of other Spells/Traps you control to the GY; gain 1000 LP for each card sent to the GY this way.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "TOURNAMENT PACK 6",
+        "5D's STARTER DECK 2009",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 2",
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "RETRO PACK 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

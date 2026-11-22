@@ -1,0 +1,12 @@
+{
+    "name": "Chain Whirlwind",
+    "filename": "Chain_Whirlwind",
+    "card_text": "Activate only when a card on the field is destroyed by a card effect. Select 2 Spell/Trap Cards on the field and destroy them.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "DNA Surgery",
+    "filename": "DNA_Surgery",
+    "card_text": "Activate this card by declaring 1 Monster Type. All face-up monsters on the field become that Type.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "PHARAOH'S SERVANT",
+        "DUELIST LEAGUE 18",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 1",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

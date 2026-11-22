@@ -1,0 +1,22 @@
+{
+    "name": "Windwitch Chimes",
+    "filename": "Windwitch_Chimes",
+    "card_text": "Target 1 \"Windwitch\" monster you control; Special Summon 1 \"Windwitch\" monster with a different name from your Deck in Defense Position. You can only activate 1 \"Windwitch Chimes\" per turn. You cannot Special Summon monsters the turn you activate this card, except WIND monsters.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Windwitch - Blizzard Bell",
+        "Windwitch - Crystal Bell",
+        "Windwitch - Diamond Bell",
+        "Windwitch - Freeze Bell",
+        "Windwitch - Glass Bell",
+        "Windwitch - Ice Bell",
+        "Windwitch - Snow Bell",
+        "Windwitch - Winter Bell"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

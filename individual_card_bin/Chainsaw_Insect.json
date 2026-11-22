@@ -1,0 +1,21 @@
+{
+    "name": "Chainsaw Insect",
+    "filename": "Chainsaw_Insect",
+    "card_text": "If this card battled, at the end of the Damage Step: Your opponent draws 1 card.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SHADOW OF INFINITY",
+        "DARK REVELATION Volume 4",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2400,
+    "defense": 0,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

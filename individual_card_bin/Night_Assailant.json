@@ -1,0 +1,27 @@
+{
+    "name": "Night Assailant",
+    "filename": "Night_Assailant",
+    "card_text": "FLIP: Target 1 monster your opponent controls; destroy that target.\nIf this card is sent from the hand to the GY: Target 1 Flip monster in your GY, except \"Night Assailant\"; add that target to your hand.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "ANCIENT SANCTUARY",
+        "CHAMPION PACK GAME ONE",
+        "QUARTER CENTURY BONANZA",
+        "OTS TOURNAMENT PACK 19",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "SPEED DUEL TOURNAMENT PACK 6",
+        "Speed Duel: Battle City Box",
+        "DARK REVELATION Volume 2",
+        "DUEL TERMINAL 3",
+        "HIDDEN ARSENAL CHAPTER 1",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 200,
+    "defense": 500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

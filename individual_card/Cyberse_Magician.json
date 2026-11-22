@@ -20,7 +20,10 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Cyberse",
-    "monster_card_type": 6,
+    "monster_card_type": [
+        "Ritual",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

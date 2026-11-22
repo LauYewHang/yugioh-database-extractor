@@ -1,0 +1,29 @@
+{
+    "name": "Rikka Glamour",
+    "filename": "Rikka_Glamour",
+    "card_text": "When you activate this card, you can also Tribute 1 Plant monster; add 1 \"Rikka\" monster from your Deck to your hand, then, if you Tributed a monster when you activated this card, add 1 Plant monster, with the same original Level as that \"Rikka\" monster but a different name, from your Deck to your hand. You can only activate 1 \"Rikka Glamour\" per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "MAZE OF MEMORIES"
+    ],
+    "related_card": [
+        "Cyclamen the Rikka Fairy",
+        "Erica the Rikka Fairy",
+        "Hellebore the Rikka Fairy",
+        "Kanzashi the Rikka Queen",
+        "Mudan the Rikka Fairy",
+        "Primula the Rikka Fairy",
+        "Rikka Flurries",
+        "Rikka Konkon",
+        "Rikka Petal",
+        "Rikka Princess",
+        "Rikka Queen Strenna",
+        "Rikka Sheet",
+        "Rikka Tranquility",
+        "Snowdrop the Rikka Fairy",
+        "Teardrop the Rikka Queen"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

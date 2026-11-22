@@ -1,0 +1,17 @@
+{
+    "name": "Kumenyo, the Nine-Hued Deer",
+    "filename": "Kumenyo__the_Nine_Hued_Deer",
+    "card_text": "2+ Level 4 LIGHT and/or DARK monsters\nDuring the Main Phase (Quick Effect): You can detach 1 material from this card; attach 1 card from your hand, GY, or banishment to this card, except the detached material. You can only use this effect of \"Kumenyo, the Nine-Hued Deer\" once per turn. Gains the following effects, based on the number of different Monster Types attached to it.\n\u25cf2+: Cannot be destroyed by card effects.\n\u25cf3+: Draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

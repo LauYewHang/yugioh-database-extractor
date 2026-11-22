@@ -1,0 +1,29 @@
+{
+    "name": "Machina Armored Unit",
+    "filename": "Machina_Armored_Unit",
+    "card_text": "Once per turn, when a Machine monster is destroyed by battle and sent to your GY: You can Special Summon 1 Machine monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the GY.",
+    "release_date": "2010-02-23",
+    "available_set": [
+        "STRUCTURE DECK: MECHANIZED MADNESS",
+        "CYBER DRAGON REVOLUTION STRUCTURE DECK",
+        "LEGENDARY DRAGON DECKS",
+        "ASTRAL PACK TWO",
+        "MACHINA MAYHEM STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Machina Air Raider",
+        "Machina Gearframe",
+        "Machina Irradiator",
+        "Machina Megaform",
+        "Machina Overdrive",
+        "Machina Possesstorage",
+        "Machina Redeployment",
+        "Machina Resavenger",
+        "Machina Ruinforce",
+        "Machina Sniper",
+        "Machina Soldier",
+        "Machina Unclaspare"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

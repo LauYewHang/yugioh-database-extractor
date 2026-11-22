@@ -1,0 +1,20 @@
+{
+    "name": "Impcantation Thanatosis",
+    "filename": "Impcantation_Thanatosis",
+    "card_text": "When this card is activated: You can reveal 1 \"Impcantation\" monster in your hand and Special Summon 2 monsters with that monster's name from your Deck, then shuffle the revealed monster into the Deck. Once per turn, if a Ritual Monster is Special Summoned to your field (except during the Damage Step): You can target 1 card on the field; destroy it. You can only activate 1 \"Impcantation Thanatosis\" per turn.",
+    "release_date": "2019-05-03",
+    "available_set": [
+        "DARK NEOSTORM"
+    ],
+    "related_card": [
+        "Crealtar, the Impcantation Originator",
+        "Impcantation Bookstone",
+        "Impcantation Candoll",
+        "Impcantation Chalislime",
+        "Impcantation Inception",
+        "Impcantation Penciplume",
+        "Impcantation Talismandra"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

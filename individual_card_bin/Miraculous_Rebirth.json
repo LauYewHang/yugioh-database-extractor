@@ -1,0 +1,13 @@
+{
+    "name": "Miraculous Rebirth",
+    "filename": "Miraculous_Rebirth",
+    "card_text": "Activate only as Chain Link 4 or higher. Select 1 monster from either player's Graveyard and Special Summon it. You cannot activate this card if multiple cards/effects with the same name are in that Chain.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "CYBERDARK IMPACT",
+        "CHAMPION PACK GAME EIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

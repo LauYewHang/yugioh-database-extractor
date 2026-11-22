@@ -1,0 +1,16 @@
+{
+    "name": "Double Spell",
+    "filename": "Double_Spell",
+    "card_text": "Discard 1 Spell, then target 1 Spell in your opponent's GY; place that target in the appropriate Zone on your field, and as this card's effect resolution, follow its card text as if you had used it yourself.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "YUGI'S LEGENDARY DECKS",
+        "MAGICIAN'S FORCE",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

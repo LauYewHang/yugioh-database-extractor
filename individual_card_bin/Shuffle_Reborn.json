@@ -1,0 +1,14 @@
+{
+    "name": "Shuffle Reborn",
+    "filename": "Shuffle_Reborn",
+    "card_text": "If you control no monsters: Target 1 monster in your GY; Special Summon it, but it has its effects negated, also banish it during the End Phase. You can banish this card from your GY, then target 1 card you control; shuffle it into the Deck, then draw 1 card, also during the End Phase of this turn, banish 1 card from your hand. You can only use this effect of \"Shuffle Reborn\" once per turn.",
+    "release_date": "2015-11-06",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "DIMENSION OF CHAOS",
+        "STRUCTURE DECK : CYBERSE LINK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

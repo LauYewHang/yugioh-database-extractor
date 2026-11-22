@@ -1,0 +1,20 @@
+{
+    "name": "Doll Monster Miss M\u00e4dchen",
+    "filename": "Doll_Monster_Miss_M\u00e4dchen",
+    "card_text": "Welcome to our house!\nHere I live with Cologne, Grandpa Demetto, and all the other dolls!",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Doll Happiness"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

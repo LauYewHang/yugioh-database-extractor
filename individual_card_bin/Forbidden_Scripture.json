@@ -1,0 +1,18 @@
+{
+    "name": "Forbidden Scripture",
+    "filename": "Forbidden_Scripture",
+    "card_text": "If a monster battles an opponent's monster, during damage calculation: Negate all other card effects on the field until the end of the Damage Step, also damage calculation for this battle uses each monster's original ATK and DEF.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN",
+        "2015 MEGA-TINS MEGA PACK",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [
+        "Condemned Witch",
+        "Darklord Djehuty",
+        "Darklord Gulgolet"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

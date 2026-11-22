@@ -1,0 +1,28 @@
+{
+    "name": "Evilswarm Thanatos",
+    "filename": "Evilswarm_Thanatos",
+    "card_text": "2 Level 4 DARK monsters\nOnce per turn (Quick Effect): You can detach 1 material from this card; this face-up card is unaffected by other monster effects this turn.",
+    "release_date": "2013-02-01",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS",
+        "DUEL TERMINAL 7B"
+    ],
+    "related_card": [
+        "Evilswarm Bahamut",
+        "Evilswarm Castor",
+        "Evilswarm Kerykeion",
+        "Evilswarm Ophion",
+        "Infestation Infection",
+        "Infestation Pandemic",
+        "Infestation Terminus",
+        "Steelswarm Origin"
+    ],
+    "attribute": "DARK",
+    "attack": 2350,
+    "defense": 1350,
+    "monster_type": "Fiend",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 4
+}

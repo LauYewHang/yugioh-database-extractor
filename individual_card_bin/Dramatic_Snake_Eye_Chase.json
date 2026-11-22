@@ -1,0 +1,25 @@
+{
+    "name": "Dramatic Snake-Eye Chase",
+    "filename": "Dramatic_Snake_Eye_Chase",
+    "card_text": "Place 1 \"Diabellstar\" monster from your hand, Deck, or GY face-up in its owner's Spell & Trap Zone as a Continuous Spell. During the End Phase: You can banish this card from your GY, then target 1 Monster Card treated as a Continuous Spell you control; Special Summon it. You can only use each effect of \"Dramatic Snake-Eye Chase\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Divine Temple of the Snake-Eye",
+        "Original Sinful Spoils - Snake-Eye",
+        "Snake-Eye Ash",
+        "Snake-Eye Birch",
+        "Snake-Eye Oak",
+        "Snake-Eyes Diabellstar",
+        "Snake-Eyes Doomed Dragon",
+        "Snake-Eyes Poplar",
+        "Startling Stare of the Snake-Eyes"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

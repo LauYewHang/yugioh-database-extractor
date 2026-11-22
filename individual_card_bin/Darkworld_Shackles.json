@@ -1,0 +1,13 @@
+{
+    "name": "Darkworld Shackles",
+    "filename": "Darkworld_Shackles",
+    "card_text": "The equipped monster cannot attack, also its ATK and DEF become 100. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

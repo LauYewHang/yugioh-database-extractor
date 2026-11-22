@@ -1,0 +1,17 @@
+{
+    "name": "Kaiser Eagle, the Heavens' Mandate",
+    "filename": "Kaiser_Eagle__the_Heavens__Mandate",
+    "card_text": "3+ Winged Beast Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+    "release_date": "2019-08-10",
+    "available_set": [
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2019"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": null,
+    "monster_type": "Winged Beast",
+    "monster_card_type": 8194,
+    "link_rating": 5,
+    "link_arrow": 94
+}

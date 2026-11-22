@@ -1,0 +1,22 @@
+{
+    "name": "Graydle Combat",
+    "filename": "Graydle_Combat",
+    "card_text": "When a Spell/Trap Card, or monster effect, that targets exactly 1 \"Graydle\" monster you control (and no other cards) is activated: Activate 1 of these effects;\n\u25cfThe activated effect becomes \"Destroy that monster\".\n\u25cfNegate the activation, and if you do, destroy that card.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "Graydle Alligator",
+        "Graydle Cobra",
+        "Graydle Dragon",
+        "Graydle Eagle",
+        "Graydle Impact",
+        "Graydle Parasite",
+        "Graydle Slime",
+        "Graydle Slime Jr.",
+        "Graydle Split"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

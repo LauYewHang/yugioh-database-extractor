@@ -1,0 +1,40 @@
+{
+    "name": "Fusion Recovery",
+    "filename": "Fusion_Recovery",
+    "card_text": "Target 1 \"Polymerization\" in your GY, and 1 monster in your GY that was used as material for a Fusion Summon; add them to your hand.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK",
+        "SPEED DUEL: ATTACK FROM THE DEEP",
+        "FUSION ENFORCERS",
+        "RA YELLOW MEGA PACK",
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Fusion Substitute",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Polymerization",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Call of the Earthbound",
+    "filename": "Call_of_the_Earthbound",
+    "card_text": "When an opponent's monster declares an attack: You choose the target of the attack.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 3",
+        "LEGENDARY DUELISTS: IMMORTAL DESTINY",
+        "PHANTOM DARKNESS",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Earthbound Fusion",
+        "Earthbound Immortal Red Nova",
+        "Earthbound Prison",
+        "Earthbound Prisoner Ground Keeper",
+        "Earthbound Prisoner Line Walker",
+        "Earthbound Release",
+        "Earthbound Servant Geo Grasha",
+        "Earthbound Servant Geo Gremlin",
+        "Earthbound Servant Geo Gremlina",
+        "Earthbound Servant Geo Gryphon",
+        "Earthbound Servant Geo Kraken"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

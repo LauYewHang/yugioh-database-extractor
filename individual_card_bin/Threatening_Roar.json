@@ -1,0 +1,27 @@
+{
+    "name": "Threatening Roar",
+    "filename": "Threatening_Roar",
+    "card_text": "Your opponent cannot declare an attack this turn.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "5D's STARTER DECK 2008",
+        "STRUCTURE DECK: SOULBURNER",
+        "DUELIST LEAGUE 2010",
+        "CHAMPION PACK GAME ONE",
+        "DEMO DECK",
+        "CHAMPION PACK GAME SEVEN",
+        "DEMO DECK 2015",
+        "DARK REVELATION Volume 3",
+        "STARTER DECK KAIBA RELOADED",
+        "STARTER DECK YUYA",
+        "FLAMING ETERNITY",
+        "DUEL TERMINAL 3",
+        "STARTER DECK SYRUS TRUESDALE",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

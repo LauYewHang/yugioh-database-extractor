@@ -1,0 +1,12 @@
+{
+    "name": "Bamboo Scrap",
+    "filename": "Bamboo_Scrap",
+    "card_text": "Tribute 1 Plant-Type monster. Special Summon 2 \"Plant Tokens\" (Plant-Type/EARTH/Level 1/ATK 800/DEF 500) to your opponent's side of the field in Defense Position.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

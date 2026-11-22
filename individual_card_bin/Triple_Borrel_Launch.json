@@ -1,0 +1,39 @@
+{
+    "name": "Triple Borrel Launch",
+    "filename": "Triple_Borrel_Launch",
+    "card_text": "Activate 1 of these effects (but you can only use each effect of \"Triple Borrel Launch\" once per turn);\n\u25cfShuffle 1 Dragon monster from your GY into the Deck, then you can Special Summon 1 \"Rokket\" monster with a different name from your Deck.\n\u25cfShuffle 2 Dragon monsters from your GY into the Deck, then add 1 Field Spell from your GY to your hand.\n\u25cfShuffle 3 Dragon monsters from your GY into the Deck, then shuffle up to 3 monsters from your opponent's GY into the Deck.",
+    "release_date": "2026-11-13",
+    "available_set": [
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Anesthrokket Dragon",
+        "Autorokket Dragon",
+        "Bayonet Punisher",
+        "Borrel Cooling",
+        "Borrel Reboot",
+        "Borrel Supplier",
+        "Borreload eXcharge Dragon",
+        "Borreload Riot Dragon",
+        "Borrelshroud Dragon",
+        "Breachborrel Dragon",
+        "Execute Protocols",
+        "Exploderokket Dragon",
+        "Hollowrokket Dragon",
+        "Magnarokket Dragon",
+        "Metalrokket Dragon",
+        "Miniborrel Dragon",
+        "Rokket Barrage",
+        "Rokket Caliber",
+        "Rokket Coder",
+        "Rokket Detonator",
+        "Rokket Loader",
+        "Rokket Recharger",
+        "Rokket Synchron",
+        "Rokket Tracer",
+        "Shelrokket Dragon",
+        "Silverrokket Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Living Fossil",
+    "filename": "Living_Fossil",
+    "card_text": "Activate this card by targeting 1 Level 4 or lower monster in your GY; Special Summon it and equip it with this card, but banish it when it leaves the field (even if this card leaves the field). When this card leaves the field, banish the equipped monster. The equipped monster loses 1000 ATK/DEF, also its effects are negated. You can only activate 1 \"Living Fossil\" per turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM PARADOX",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "STRUCTURE DECK: SHADDOLL SHOWDOWN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

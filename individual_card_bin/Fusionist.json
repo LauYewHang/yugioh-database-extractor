@@ -1,0 +1,23 @@
+{
+    "name": "Fusionist",
+    "filename": "Fusionist",
+    "card_text": "\"Petit Angel\" + \"Mystical Sheep #2\"",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "OTS TOURNAMENT PACK 3",
+        "LEGEND OF BLUE EYES WHITE DRAGON"
+    ],
+    "related_card": [
+        "Mystical Sheep #2",
+        "Petit Angel",
+        "Rare Fish"
+    ],
+    "attribute": "EARTH",
+    "attack": 900,
+    "defense": 700,
+    "monster_type": "Beast",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

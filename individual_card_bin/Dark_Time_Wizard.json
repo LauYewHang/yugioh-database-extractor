@@ -1,0 +1,23 @@
+{
+    "name": "Dark Time Wizard",
+    "filename": "Dark_Time_Wizard",
+    "card_text": "Activate 1 of these effects (but you can only use each effect of \"Dark Time Wizard\" once per turn);\n\u25cfAdd 1 card that mentions \"Dark Time Wizard\" from your Deck to your hand, except \"Dark Time Wizard\", also during the End Phase of this turn, add 1 \"Dark Time Wizard\" from your GY to your hand.\n\u25cfToss a coin and call it. If you call it right, destroy as many monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to half the combined original ATK of those destroyed monsters. If you call it wrong, destroy all monsters you control.",
+    "release_date": "2026-10-03",
+    "available_set": [
+        "BEYOND THE BRAVE Core Booster Premiere!",
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Alligator's Dragon Knight",
+        "Fisherman of Legend",
+        "Foolish Graverobber",
+        "Graceful & Skull Dice",
+        "Jinzo - Energy Shocker",
+        "Red-Eyes Black Dragon Exceed",
+        "Reversal Box",
+        "Sleepy Scapegoats",
+        "Swiftwind Panther Warrior"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

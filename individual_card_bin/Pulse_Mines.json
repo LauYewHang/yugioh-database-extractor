@@ -1,0 +1,14 @@
+{
+    "name": "Pulse Mines",
+    "filename": "Pulse_Mines",
+    "card_text": "If you control a Machine monster: Change your opponent's Attack Position monsters (if any) to Defense Position, also, until the end of this turn, if a monster(s) is Normal or Special Summoned to your opponent's field, change them to Defense Position.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST",
+        "STAR PACK: VRAINS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

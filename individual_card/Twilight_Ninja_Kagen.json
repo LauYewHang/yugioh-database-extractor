@@ -73,7 +73,10 @@
     "attack": 0,
     "defense": 2000,
     "monster_type": "Warrior",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 1,
     "pendulum_effect": "You cannot Pendulum Summon monsters, except \"Ninja\" monsters. This effect cannot be negated. Once per turn, when your \"Ninja\" monster declares an attack: You can make that monster gain 1000 ATK until the end of the Damage Step (even if this card leaves the field).",

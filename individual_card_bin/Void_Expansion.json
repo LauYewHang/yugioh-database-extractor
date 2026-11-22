@@ -1,0 +1,33 @@
+{
+    "name": "Void Expansion",
+    "filename": "Void_Expansion",
+    "card_text": "During your Standby Phase: You can Special Summon 1 \"Infernoid Token\" (Fiend-Type/FIRE/Level 1/ATK 0/DEF 0). To Special Summon an \"Infernoid\" monster using its own procedure, you can banish \"Infernoid\" monster(s) you control instead of those in the Graveyard (or any combination of both). Your opponent cannot target \"Infernoid\" monsters you control for attacks or with card effects, except the \"Infernoid\" monster you control with the highest Level (either, if tied).",
+    "release_date": "2015-01-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "SECRETS OF ETERNITY"
+    ],
+    "related_card": [
+        "El Shaddoll Meshachrer",
+        "Infernity Pawn",
+        "Infernoid Antra",
+        "Infernoid Attondel",
+        "Infernoid Decatron",
+        "Infernoid Devyaty",
+        "Infernoid Evil",
+        "Infernoid Flood",
+        "Infernoid Harmadik",
+        "Infernoid Onuncu",
+        "Infernoid Patrulea",
+        "Infernoid Piaty",
+        "Infernoid Pirmais",
+        "Infernoid Seitsemas",
+        "Infernoid Sjette",
+        "Infernoid Tierra",
+        "Void Feast",
+        "Void Reignition",
+        "Void Vanishment"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

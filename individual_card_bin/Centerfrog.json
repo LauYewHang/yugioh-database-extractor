@@ -1,0 +1,28 @@
+{
+    "name": "Centerfrog",
+    "filename": "Centerfrog",
+    "card_text": "Cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. If this card is Normal or Flip Summoned: Change it to Defense Position. Once per turn: You can target 1 monster in your opponent's Main Monster Zone; give your opponent control of this Defense Position card by moving it to their zone adjacent to the target, then if your opponent controls exactly 2 \"Centerfrog\" in the Main Monster Zone, gain control of all monsters in between those 2 cards.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Dupe Frog",
+        "Flip Flop Frog",
+        "Froggy Forcefield",
+        "Ronintoadin",
+        "Substitoad",
+        "Swap Frog",
+        "Toadally Awesome",
+        "Tradetoad",
+        "Unifrog"
+    ],
+    "attribute": "WATER",
+    "attack": 100,
+    "defense": 2000,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

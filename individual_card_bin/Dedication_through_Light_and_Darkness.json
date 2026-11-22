@@ -1,0 +1,34 @@
+{
+    "name": "Dedication through Light and Darkness",
+    "filename": "Dedication_through_Light_and_Darkness",
+    "card_text": "Tribute 1 \"Dark Magician\"; Special Summon 1 \"Dark Magician of Chaos\" from your hand, Deck, or Graveyard.",
+    "release_date": "2004-03-01",
+    "available_set": [
+        "YUGI'S LEGENDARY DECKS",
+        "DARK REVELATION Volume 2",
+        "INVASION OF CHAOS",
+        "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DUELIST PACK - RIVALS OF THE PHARAOH -"
+    ],
+    "related_card": [
+        "Chronicle Sorceress",
+        "Dark Magic Inheritance",
+        "Dark Magic Talisman",
+        "Dark Magical Curtain",
+        "Dark Magician",
+        "Dark Magician of Chaos",
+        "Dark Magician of Destruction",
+        "Dark Magician the Dragon Knight",
+        "Dark Magician the Magician of Black Magic",
+        "Dark Magician, the Pharaoh's Servant",
+        "Illusion of Chaos",
+        "Magician of Chaos",
+        "Magician of Dark Illusion",
+        "Magician's Rod",
+        "Soul Servant",
+        "Timaeus the United Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

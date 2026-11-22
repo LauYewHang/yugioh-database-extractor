@@ -1,0 +1,19 @@
+{
+    "name": "Tempura of Fortune - EBI",
+    "filename": "Tempura_of_Fortune___EBI",
+    "card_text": "We went to EDO-FRONT, which has been the talk of the town. The scale of the Tempura here is not only large but also so beautifully shaped that it has earned the nickname of \"Golden Tempura\". The state-of-the-art facilities and the atmosphere of other cultures are all in the harbor, but there is also a mellow, nostalgic aroma in the air, and the occasional crackle of the crackling sounds will lift your spirits. We have been looking forward to this cruise for a year, but I think 3 stars is just about right.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Aqua",
+    "monster_card_type": 4097,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3,
+    "pendulum_effect": "You can target 1 card in your Pendulum Zone; toss a coin.\n\u25cfHeads: Special Summon it.\n\u25cfTails: Destroy it, but lose LP equal to its Pendulum Scale x 300.\nYou can only use this effect of \"Tempura of Fortune - EBI\" once per turn.",
+    "pendulum_scale": 8
+}

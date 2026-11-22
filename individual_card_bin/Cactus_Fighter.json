@@ -1,0 +1,17 @@
+{
+    "name": "Cactus Fighter",
+    "filename": "Cactus_Fighter",
+    "card_text": "If this card destroys an opponent's monster by battle, Special Summon 1 \"Needle Token\" (Plant-Type/EARTH/Level 1/ATK 500/DEF 500) to your opponent's side of the field in Defense Position.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 400,
+    "monster_type": "Plant",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

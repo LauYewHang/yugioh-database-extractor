@@ -1,0 +1,25 @@
+{
+    "name": "Time Stream",
+    "filename": "Time_Stream",
+    "card_text": "Target 1 \"Fossil\" Fusion Monster you control; Tribute it, and if you do, Special Summon 1 \"Fossil\" Fusion Monster from your Extra Deck, whose original Level is 2 higher than that monster's. (This is treated as a Fusion Summon with \"Fossil Fusion\".) During your Main Phase, except the turn this card was sent to the GY: You can banish this card and 1 \"Fossil\" Fusion Monster from your GY, then target 1 \"Fossil\" Fusion Monster in your GY; Special Summon it.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "SPEED DUEL GX: MIDTERM DESTRUCTION",
+        "BATTLES OF LEGEND: ARMAGEDDON",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [
+        "Fossil Dragon Skullgar",
+        "Fossil Dragon Skullgios",
+        "Fossil Fusion",
+        "Fossil Machine Skull Buggy",
+        "Fossil Machine Skull Convoy",
+        "Fossil Machine Skull Wagon",
+        "Fossil Warrior Skull Bone",
+        "Fossil Warrior Skull King",
+        "Fossil Warrior Skull Knight",
+        "Weathering Soldier"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

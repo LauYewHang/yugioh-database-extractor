@@ -1,0 +1,13 @@
+{
+    "name": "Disarmament",
+    "filename": "Disarmament",
+    "card_text": "Destroy all Equip Cards on the field.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "MAGICIAN'S FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

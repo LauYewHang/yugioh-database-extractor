@@ -1,0 +1,21 @@
+{
+    "name": "Meteor Dragon",
+    "filename": "Meteor_Dragon",
+    "card_text": "This dragon appeared from the sky and crashed to the earth.",
+    "release_date": "2006-12-26",
+    "available_set": [
+        "PREMIUM COLLECTION TIN",
+        "Promotional Cards 2",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW"
+    ],
+    "related_card": [
+        "Meteor Black Dragon"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Storm Cipher",
+    "filename": "Storm_Cipher",
+    "card_text": "Cannot attack directly, or attack monsters in the Extra Monster Zone. Unaffected by monster effects activated in the Extra Monster Zone. Cannot be destroyed by battle with monsters in the Extra Monster Zone.",
+    "release_date": "2018-08-10",
+    "available_set": [
+        "STRUCTURE DECK: POWERCODE LINK"
+    ],
+    "related_card": [
+        "Cipher Biplane",
+        "Cipher Bit",
+        "Cipher Etranger",
+        "Cipher Interference",
+        "Cipher Mirror Knight",
+        "Cipher Spectrum",
+        "Cipher Twin Raptor",
+        "Cipher Wing",
+        "Double Cipher",
+        "Double Exposure",
+        "Neo Galaxy-Eyes Cipher Dragon",
+        "Rank-Up-Magic Cipher Ascension"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 0,
+    "monster_type": "Cyberse",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pendulum Pendant",
+    "filename": "Pendulum_Pendant",
+    "card_text": "Banish 5 face-up Pendulum Monsters from your Extra Deck; place 1 Pendulum Monster from your Deck or face-up Extra Deck in your Pendulum Zone. You can banish this card from your GY, then target 1 card in any Pendulum Zone; reduce its Pendulum Scale by 1 (min. 0). You can only activate 1 \"Pendulum Pendant\" per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Duelist Alliance",
+        "PenduLuMoon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

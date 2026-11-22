@@ -1,0 +1,17 @@
+{
+    "name": "Cupid Serve",
+    "filename": "Cupid_Serve",
+    "card_text": "Unaffected by the activated effects of monsters, except monsters whose Level is equal or lower than this card. You can banish up to 3 cards from your GY; increase this card's Level by that number, until the end of this turn. You can only use this effect of \"Cupid Serve\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 600,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

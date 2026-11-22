@@ -1,0 +1,35 @@
+{
+    "name": "Evo-Singularity",
+    "filename": "Evo_Singularity",
+    "card_text": "Target 1 \"Evoltile\" monster and 1 \"Evolsaur\" monster in your Graveyard; Special Summon 1 \"Evolzar\" Xyz Monster from your Extra Deck, and if you do, attach those monsters to it as Xyz Materials.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Evolsaur Cerato",
+        "Evolsaur Darwino",
+        "Evolsaur Diplo",
+        "Evolsaur Elias",
+        "Evolsaur Lios",
+        "Evolsaur Pelta",
+        "Evolsaur Terias",
+        "Evolsaur Vulcano",
+        "Evoltile Casinerio",
+        "Evoltile Elginero",
+        "Evoltile Gephyro",
+        "Evoltile Lagosucho",
+        "Evoltile Megachirella",
+        "Evoltile Najasho",
+        "Evoltile Odonto",
+        "Evoltile Pholis",
+        "Evoltile Pleuro",
+        "Evoltile Westlo",
+        "Evolzar Dolkka",
+        "Evolzar Laggia",
+        "Evolzar Lars",
+        "Evolzar Solda"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Mini-Guts",
+    "filename": "Mini_Guts",
+    "card_text": "Tribute 1 monster, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase. This turn, when it is destroyed by battle and sent to their GY: Inflict damage to your opponent equal to its original ATK in the GY.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "STAR PACK 2014",
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

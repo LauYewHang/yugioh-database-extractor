@@ -1,0 +1,17 @@
+{
+    "name": "Cestus of Dagla",
+    "filename": "Cestus_of_Dagla",
+    "card_text": "Equip only to a Fairy monster. It gains 500 ATK. If it inflicts battle damage to your opponent: Gain LP equal to the damage inflicted.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "Speed Duel: Battle City Box",
+        "DARK CRISIS",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

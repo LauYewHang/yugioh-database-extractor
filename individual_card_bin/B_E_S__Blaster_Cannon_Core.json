@@ -1,0 +1,25 @@
+{
+    "name": "B.E.S. Blaster Cannon Core",
+    "filename": "B_E_S__Blaster_Cannon_Core",
+    "card_text": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"B.E.S. Blaster Cannon Core\" once per turn this way. If this card is Normal or Special Summoned: Place 3 counters on this card. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove 1 counter from this card. If you cannot, destroy it.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "B.E.F. Zelos",
+        "B.E.S. Big Core MK-3",
+        "B.E.S. Derringer Core",
+        "Boss on Parade",
+        "Boss Rush",
+        "Super B.E.S. Metal Slave"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 3000,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

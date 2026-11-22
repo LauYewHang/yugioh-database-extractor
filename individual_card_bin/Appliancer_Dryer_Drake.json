@@ -1,0 +1,30 @@
+{
+    "name": "Appliancer Dryer Drake",
+    "filename": "Appliancer_Dryer_Drake",
+    "card_text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. This linked card gains 1000 ATK. Once per turn, during your Battle Phase, if this card is co-linked (except during the Damage Step): You can switch the locations of 2 \"Appliancer\" monsters in your Main Monster Zones, including this card, and if you do, the other monster can make a second attack during each Battle Phase this turn. Once per turn, when this card that is not co-linked is targeted for an attack: You can negate that attack.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Appliancer Breakerbuncle",
+        "Appliancer Celtopus",
+        "Appliancer Conversion",
+        "Appliancer Copybokkle",
+        "Appliancer Electrilyrical World",
+        "Appliancer Kappa Scale",
+        "Appliancer Laundry Dragon",
+        "Appliancer Propelion",
+        "Appliancer Reuse",
+        "Appliancer Socketroll",
+        "Appliancer Test",
+        "Appliancer Vacculephant"
+    ],
+    "attribute": "FIRE",
+    "attack": 0,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": 8194,
+    "link_rating": 1,
+    "link_arrow": 512
+}

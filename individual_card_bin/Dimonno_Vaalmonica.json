@@ -1,0 +1,35 @@
+{
+    "name": "Dimonno Vaalmonica",
+    "filename": "Dimonno_Vaalmonica",
+    "card_text": "If this card is in your hand: You can discard 1 other card; take 1 \"Angello Vaalmonica\" from your Deck, and place this card and that card in your Pendulum Zones. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 \"Vaalmonica\" Normal Spell/Trap from your GY; apply whichever effect on that card includes taking damage. You can only use each effect of \"Dimonno Vaalmonica\" once per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Angello Vaalmonica",
+        "Duralume, Vaalmonican Heathen Hallow",
+        "Selettrice Vaalmonica",
+        "Vaalmonica Chosen Melody",
+        "Vaalmonica Creation",
+        "Vaalmonica Disarmonia",
+        "Vaalmonica Ereditare",
+        "Vaalmonica Followed Rhythm",
+        "Vaalmonica Intonare",
+        "Vaalmonica Invitare",
+        "Vaalmonica Scelta",
+        "Vaalmonica Versare",
+        "Vaalmonica, the Agathokakological Voice",
+        "Varar, Vaalmonican Concord",
+        "Zebufera, Vaalmonican Hallow Heathen"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1200,
+    "defense": 2100,
+    "monster_type": "Fiend",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Each time you take effect damage while you control a Fairy Monster Card in your other Pendulum Zone, place 1 Resonance Counter on this card. Monsters your opponent controls lose 100 ATK for each Resonance Counter on your field.",
+    "pendulum_scale": 5
+}

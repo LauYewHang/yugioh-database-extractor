@@ -1,0 +1,18 @@
+{
+    "name": "March Towards Ragnarok",
+    "filename": "March_Towards_Ragnarok",
+    "card_text": "Target 1 \"Aesir\" monster you control; until the end of this turn, its effects are negated, also that face-up monster is unaffected by the effects of other Spells/Traps.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Loki, Lord of the Aesir",
+        "Odin, Father of the Aesir",
+        "Thor, Lord of the Aesir"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

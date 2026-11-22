@@ -1,0 +1,12 @@
+{
+    "name": "Brutal Potion",
+    "filename": "Brutal_Potion",
+    "card_text": "This card becomes an Equip Card, and equips to 1 monster you control. Once per turn, when you inflict damage to your opponent with a card effect, the equipped monster gains 1000 ATK until the End Phase.",
+    "release_date": "2008-01-08",
+    "available_set": [
+        "Yu-Gi-Oh! GX The Beginning of Destiny Bundles"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

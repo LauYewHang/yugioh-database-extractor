@@ -1,0 +1,17 @@
+{
+    "name": "Spiral Reborn",
+    "filename": "Spiral_Reborn",
+    "card_text": "Target 1 Level 7 or lower Dragon monster in your GY; Special Summon it. If you Special Summoned a \"Gaia the Dragon Champion\" by this effect, your opponent cannot target it with card effects, and it cannot be destroyed by their card effects. You can only activate 1 \"Spiral Reborn\" per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "RISE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Curse of Dragon, the Cursed Dragon",
+        "Gaia the Dragon Champion",
+        "Gaia the Magical Knight of Dragons",
+        "Sky Galloping Gaia the Dragon Champion"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

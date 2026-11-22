@@ -1,0 +1,12 @@
+{
+    "name": "Fukubiki",
+    "filename": "Fukubiki",
+    "card_text": "Each player shuffles their Deck and excavates the top card of their Deck. Add the excavated card with the higher ATK to that player's hand, also send the card with the lower ATK to that player's GY (Spells/Traps, and monsters with ? ATK, are treated as 0). If tied, place those cards on the bottoms of the Decks.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

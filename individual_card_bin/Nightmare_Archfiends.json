@@ -1,0 +1,42 @@
+{
+    "name": "Nightmare Archfiends",
+    "filename": "Nightmare_Archfiends",
+    "card_text": "Tribute 1 monster; Special Summon 3 \"Nightmare Archfiend Tokens\" (Fiend-Type/DARK/Level 6/ATK 2000/DEF 2000) to your opponent's field in Attack Position. Each time 1 is destroyed, its controller takes 800 damage.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Archfiend Black Skull Dragon",
+        "Archfiend Cavalry",
+        "Archfiend Commander",
+        "Archfiend Emperor, the First Lord of Horror",
+        "Archfiend Giant",
+        "Archfiend Heiress",
+        "Archfiend Matriarch",
+        "Archfiend Palabyrinth",
+        "Archfiend Playtime",
+        "Archfiend Strategy",
+        "Archfiend's Fervor",
+        "Archfiend's Roar",
+        "Archfiend's Usurpation",
+        "Battle-Scarred",
+        "Checkmate",
+        "Darkbishop Archfiend",
+        "Duke Archfiend",
+        "Falling Down",
+        "Highness Archfiend",
+        "Infernalqueen Archfiend",
+        "Matador Archfiend",
+        "Pandemonium",
+        "Ritual of the Matador",
+        "Royal Archfiend",
+        "Skilled Red Magician",
+        "Terrorking Archfiend",
+        "Throne of the Archfiends",
+        "Vilepawn Archfiend"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

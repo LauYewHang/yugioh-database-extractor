@@ -1,0 +1,20 @@
+{
+    "name": "Graceful Charity",
+    "filename": "Graceful_Charity",
+    "card_text": "Draw 3 cards, then discard 2 cards.",
+    "release_date": "2003-03-30",
+    "available_set": [
+        "DARK LEGENDS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "HOBBY LEAGUE 4",
+        "DARK BEGINNING 2",
+        "STARTER DECK PEGASUS",
+        "RETRO PACK",
+        "BATTLE PACK EPIC DAWN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

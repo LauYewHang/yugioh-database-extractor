@@ -1,0 +1,37 @@
+{
+    "name": "Heroic Envoy",
+    "filename": "Heroic_Envoy",
+    "card_text": "Add 1 \"Heroic\" monster from your Deck to your hand. If your LP are 500 or less: You can banish this card from your GY, then target 1 \"Heroic\" card in your GY; add it to your hand. You can only use each effect of \"Heroic Envoy\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Ambush Soldier",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Clasp Sword",
+        "Heroic Challenger - Double Lance",
+        "Heroic Challenger - Extra Sword",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Night Watchman",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Challenger - War Hammer",
+        "Heroic Champion - Claivesolish",
+        "Heroic Champion - Excalibur",
+        "Heroic Champion - Gandiva",
+        "Heroic Champion - Jarngreipr",
+        "Heroic Champion - Kusanagi",
+        "Heroic Champion - Magnum Excalibur",
+        "Heroic Chance",
+        "Heroic Gift",
+        "Heroic Retribution Sword",
+        "Number 86: Heroic Champion - Rhongomyniad"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

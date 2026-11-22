@@ -1,0 +1,22 @@
+{
+    "name": "Harvest Angel of Doom",
+    "filename": "Harvest_Angel_of_Doom",
+    "card_text": "If this card is Normal or Pendulum Summoned: You can add 1 \"Horn of Heaven\" from your Deck to your hand. If this card is Tributed: You can place this card in your Pendulum Zone. You can only use each effect of \"Harvest Angel of Doom\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Black Horn of Heaven",
+        "Horn of Heaven"
+    ],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "During your Main Phase: You can destroy this card, and if you do, add 1 \"Black Horn of Heaven\" from your Deck to your hand. You can only use this effect of \"Harvest Angel of Doom\" once per turn.",
+    "pendulum_scale": 8
+}

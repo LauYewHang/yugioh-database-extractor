@@ -1,0 +1,27 @@
+{
+    "name": "Chef's Special Recipe",
+    "filename": "Chef_s_Special_Recipe",
+    "card_text": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Nouvelles\" Ritual Monster: Negate the activation, then you can destroy that card if you control a monster that was Special Summoned by the effect of a \"Nouvelles\" monster. If you Special Summon \"Hungry Burger\": You can banish this card from your GY; Tribute as many monsters your opponent controls as possible. You can only use each effect of \"Chef's Special Recipe\" once per turn.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Baelgrill de Nouvelles",
+        "Balameuniere de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef de Nouvelles",
+        "Concours de Cuisine (Culinary Confrontation)",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Hungry Burger",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Poisson (Fish Recipe)"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

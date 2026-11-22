@@ -1,0 +1,15 @@
+{
+    "name": "Power Capsule",
+    "filename": "Power_Capsule",
+    "card_text": "Select 1 face-up \"Victory Viper XX03\" you control to activate this card. Select 1 effect of \"Victory Viper XX03\", and apply it as this card's effect.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "ENEMY OF JUSTICE",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [
+        "Victory Viper XX03"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

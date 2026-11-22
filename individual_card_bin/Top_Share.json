@@ -1,0 +1,12 @@
+{
+    "name": "Top Share",
+    "filename": "Top_Share",
+    "card_text": "Reveal 1 card from your Deck and place it on top of your Deck, then your opponent reveals 1 card from their Deck and places it on top of their Deck. You can only activate 1 \"Top Share\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

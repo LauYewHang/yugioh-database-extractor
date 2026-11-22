@@ -1,0 +1,35 @@
+{
+    "name": "Borrelcode Dragon",
+    "filename": "Borrelcode_Dragon",
+    "card_text": "2+ Effect Monsters\nThis card cannot be destroyed by card effects while a Link Monster points to it. You can only use each of the following effects of \"Borrelcode Dragon\" once per turn. At the start of the Damage Step, if this card that was Link Summoned using 3 monsters as material battles an opponent's monster: You can destroy all monsters on the field. You can banish this card from your GY; banish 1 DARK monster with 3000 or more ATK from the field, and if you do, Special Summon 1 \"Topologic\" monster from your Extra Deck or GY.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Bayonet Punisher",
+        "Borrel Cooling",
+        "Borrel Reboot",
+        "Borrel Supplier",
+        "Borreload eXcharge Dragon",
+        "Borreload Riot Dragon",
+        "Borrelshroud Dragon",
+        "Breachborrel Dragon",
+        "Execute Protocols",
+        "Miniborrel Dragon",
+        "Rokket Coder",
+        "Topologic Blaster Dragon",
+        "Topologic Bomber Dragon",
+        "Topologic Gumblar Dragon",
+        "Topologic Trisbaena",
+        "Topologic Zeroboros"
+    ],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 266
+}

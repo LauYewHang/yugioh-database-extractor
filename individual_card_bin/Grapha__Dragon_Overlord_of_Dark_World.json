@@ -1,0 +1,32 @@
+{
+    "name": "Grapha, Dragon Overlord of Dark World",
+    "filename": "Grapha__Dragon_Overlord_of_Dark_World",
+    "card_text": "\"Grapha, Dragon Lord of Dark World\" + 1 DARK monster\nWhen your opponent activates a monster effect, or a Normal Spell/Trap Card, while you have a card(s) in your hand (Quick Effect): You can activate this effect; the activated effect becomes \"Your opponent discards 1 card\". You can only use this effect of \"Grapha, Dragon Overlord of Dark World\" once per turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your \"Grapha, Dragon Lord of Dark World\" that is banished or in your GY, then each player with a hand discards 1 card.",
+    "release_date": "2022-12-02",
+    "available_set": [
+        "STRUCTURE DECK: DARK WORLD"
+    ],
+    "related_card": [
+        "Ceruli, Guru of Dark World",
+        "Dark Corridor",
+        "Dark World Accession",
+        "Dark World Archives",
+        "Dark World Brainwashing",
+        "Dark World Punishment",
+        "Gateway to Dark World",
+        "Genta, Gateman of Dark World",
+        "Grapha, Dragon Lord of Dark World",
+        "Parl, Hermit of Dark World",
+        "Reign-Beaux, Overking of Dark World",
+        "Scarr, Scout of Dark World",
+        "Snoww, Unlight of Dark World",
+        "The Forces of Darkness"
+    ],
+    "attribute": "DARK",
+    "attack": 3200,
+    "defense": 2300,
+    "monster_type": "Fiend",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

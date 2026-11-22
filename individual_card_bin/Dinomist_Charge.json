@@ -1,0 +1,27 @@
+{
+    "name": "Dinomist Charge",
+    "filename": "Dinomist_Charge",
+    "card_text": "When this card is activated: Add 1 \"Dinomist\" monster from your Deck to your hand. Once per turn, if a \"Dinomist\" card(s) is added from the field to your Extra Deck face-up: Add 1 of those cards to your hand. You can only activate 1 \"Dinomist Charge\" per turn.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Dinomic Powerload",
+        "Dinomight Powerload, the Dracoslayer",
+        "Dinomist Ankylos",
+        "Dinomist Brachion",
+        "Dinomist Ceratops",
+        "Dinomist Eruption",
+        "Dinomist Plesios",
+        "Dinomist Pteran",
+        "Dinomist Rex",
+        "Dinomist Rush",
+        "Dinomist Spinos",
+        "Dinomist Stegosaur",
+        "Dinomists Howling"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

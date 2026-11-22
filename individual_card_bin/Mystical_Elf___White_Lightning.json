@@ -1,0 +1,17 @@
+{
+    "name": "Mystical Elf - White Lightning",
+    "filename": "Mystical_Elf___White_Lightning",
+    "card_text": "When a monster your opponent controls activates its effect, while you control a Level 5 or higher Normal Monster (Quick Effect): You can Special Summon this card from your hand, and if you do, negate that effect. During your opponent's Battle Phase (Quick Effect): You can target 1 Normal Monster in either GY; Special Summon it to your field, and if you do, all monsters your opponent controls must attack that monster this turn, if able, while you control it. You can only use each effect of \"Mystical Elf - White Lightning\" once per turn.",
+    "release_date": "2022-07-22",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 3"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 800,
+    "defense": 2000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

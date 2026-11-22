@@ -1,0 +1,36 @@
+{
+    "name": "SPYRAL Double Helix",
+    "filename": "SPYRAL_Double_Helix",
+    "card_text": "2 \"SPYRAL\" monsters\nThis card's name becomes \"SPYRAL Super Agent\" while on the field or in the GY. You can declare 1 card type (Monster, Spell, or Trap); reveal the top card of your opponent's Deck, and if you do, and its type matches the declared type, take 1 \"SPYRAL\" monster from your Deck or GY, and either add it to your hand or Special Summon it to your zone this card points to. You can only use this effect of \"SPYRAL Double Helix\" once per turn.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [
+        "Charming Resort Staff",
+        "SPYGAL Misty",
+        "SPYRAL Double Agent",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Assault",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": null,
+    "monster_type": "Warrior",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 20
+}

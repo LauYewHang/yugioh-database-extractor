@@ -1,0 +1,37 @@
+{
+    "name": "Cyber Emergency",
+    "filename": "Cyber_Emergency",
+    "card_text": "Add 1 LIGHT Machine monster that cannot be Normal Summoned/Set, or 1 \"Cyber Dragon\" monster, from your Deck to your hand. If the activation of this card in its owner's possession was negated by your opponent's card effect and sent to your GY: You can discard 1 card; add this card to your hand. You can only activate 1 \"Cyber Emergency\" per turn.",
+    "release_date": "2018-06-29",
+    "available_set": [
+        "GENESIS IMPACT",
+        "BATTLES OF LEGEND: RELENTLESS REVENGE",
+        "STRUCTURE DECK: CYBER STRIKE",
+        "BATTLES OF LEGEND - CHAPTER 1",
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Dragon",
+        "Cyber Dragon Core",
+        "Cyber Dragon Drei",
+        "Cyber Dragon Herz",
+        "Cyber Dragon Infinity",
+        "Cyber Dragon Nachster",
+        "Cyber Dragon Nova",
+        "Cyber Dragon Sieger",
+        "Cyber Dragon Vier",
+        "Cyber Dragon Zwei",
+        "Cyber Dragon, the Luminous Mech Dragon",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Cybernetic Overflow",
+        "Prima Light",
+        "Proto-Cyber Dragon",
+        "Toon Cyber Dragon"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

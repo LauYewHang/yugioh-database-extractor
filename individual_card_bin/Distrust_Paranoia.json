@@ -1,0 +1,12 @@
+{
+    "name": "Distrust Paranoia",
+    "filename": "Distrust_Paranoia",
+    "card_text": "Take control of all your opponent's monsters in this card's column. If this Set card in its owner's control has left the field by an opponent's effect, and is now in the GY or banished: You can Special Summon this card as an Effect Monster (Fiend/DARK/Level 10/ATK 4000/DEF 4000) with the following effect (this card is NOT treated as a Trap).\n\u25cfUnaffected by your opponent's card effects activated in the same column.\nYou can only activate 1 \"Distrust Paranoia\" per turn.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

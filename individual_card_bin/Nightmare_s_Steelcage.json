@@ -1,0 +1,16 @@
+{
+    "name": "Nightmare's Steelcage",
+    "filename": "Nightmare_s_Steelcage",
+    "card_text": "This card remains on the field for 2 of your opponent's turns. While this card is face-up on the field, no monsters can attack.",
+    "release_date": "2006-01-18",
+    "available_set": [
+        "STRUCTURE DECK SPELLCASTER'S JUDGMENT",
+        "DEMO DECK 2016 (UK)",
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "STRUCTURE DECK - MARIK -",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

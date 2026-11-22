@@ -1,0 +1,33 @@
+{
+    "name": "Virtual World Tiger - Fufu",
+    "filename": "Virtual_World_Tiger___Fufu",
+    "card_text": "2+ Level 9 monsters\nGains the following effects, based on the number of \"Virtual World Gate\" cards you control.\n\u25cf2+: This card can attack directly.\n\u25cf4: This card is unaffected by activated card effects, except \"Virtual World\" cards.\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 Effect Monster you control and 1 Effect Monster on the field with a different Type and Attribute from it; negate their effects until the end of this turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Virtual World Beast - Jiujiu",
+        "Virtual World City - Kauwloon",
+        "Virtual World Dragon - Longlong",
+        "Virtual World Gate - Chuche",
+        "Virtual World Gate - Qinglong",
+        "Virtual World Gate - Xuanwu",
+        "Virtual World Hime - Nyannyan",
+        "Virtual World Kirin - Lili",
+        "Virtual World Kyubi - Shenshen",
+        "Virtual World Mai-Hime - Lulu",
+        "Virtual World Oto-Hime - Toutou",
+        "Virtual World Phoenix - Fanfan",
+        "Virtual World Roshi - Laolao",
+        "Virtual World Shell - Jaja",
+        "Virtual World Xiezhi - Jiji"
+    ],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": 2800,
+    "monster_type": "Wyrm",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 9
+}

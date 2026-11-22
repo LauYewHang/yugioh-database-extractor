@@ -1,0 +1,35 @@
+{
+    "name": "Furtive Techniques Fur Hire, Fur All Your Ultimate Moves",
+    "filename": "Furtive_Techniques_Fur_Hire__Fur_All_Your_Ultimate_Moves",
+    "card_text": "Target face-up cards on the field, up to the number of monsters \"Fur Hire\" you control with different names; destroy those targeted cards, or if you control at least 1 each of Level 8 or higher and Link-3 or higher monsters \"Fur Hire\", you can banish those targeted cards instead. If a Level 8 or higher, or Link-3 or higher, monster \"Fur Hire\" is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use 1 \"Furtive Techniques Fur Hire, Fur All Your Ultimate Moves\" effect per turn, and only once that turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Beat, Bladesman Fur Hire",
+        "Bravo, Fighter Fur Hire",
+        "Donner, Dagger Fur Hire",
+        "Donpa, Marksman Fur Hire",
+        "Dyna, Hero Fur Hire",
+        "Fandora, the Flying Fighting Furtress",
+        "Fandora, the Flying Furtress",
+        "Filo, Messenger Fur Hire",
+        "Folgo, Justice Fur Hire",
+        "Helmer, Helmsman Fur Hire",
+        "Keel, Shipwright Fur Hire",
+        "Mayhem Fur Hire",
+        "Rafale, Champion Fur Hire",
+        "Recon, Scout Fur Hire",
+        "Rex, Freight Fur Hire",
+        "Rex, Ride Fur Hire",
+        "Rookie Fur Hire",
+        "Sagitta, Maverick Fur Hire",
+        "Seal, Strategist Fur Hire",
+        "Training Fur Hire, Fur All Your Training Needs",
+        "Whirlwind Fur Hire",
+        "Wiz, Sage Fur Hire"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

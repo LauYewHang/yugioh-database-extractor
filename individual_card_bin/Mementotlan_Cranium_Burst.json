@@ -1,0 +1,30 @@
+{
+    "name": "Mementotlan Cranium Burst",
+    "filename": "Mementotlan_Cranium_Burst",
+    "card_text": "While you control a \"Memento\" monster, your opponent's monsters that can attack must attack the \"Memento\" monster you control with the highest ATK (their choice, if tied). When your opponent activates a monster effect on the field (except during the Damage Step): You can target 1 \"Mementoal Tecuhtlica - Combined Creation\" you control; it loses exactly 1000 ATK/DEF, and if it does, negate that activated effect. You can only activate this effect of \"Mementotlan Cranium Burst\" once per Chain.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Mementoal Tecuhtlica - Combined Creation",
+        "Mementomictlan",
+        "Mementomictlan Tecuhtlica - Creation King",
+        "Mementotlan Akihiron",
+        "Mementotlan Angwitch",
+        "Mementotlan Bone Back",
+        "Mementotlan Bone Party",
+        "Mementotlan Dark Blade",
+        "Mementotlan Fracture Dance",
+        "Mementotlan Fusion",
+        "Mementotlan Ghattic",
+        "Mementotlan Goblin",
+        "Mementotlan Mace",
+        "Mementotlan Shleepy",
+        "Mementotlan Tatsunootoshigo",
+        "Mementotlan Twin Dragon",
+        "Mementotlan-Horned Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Senet Switch",
+    "filename": "Senet_Switch",
+    "card_text": "Once per turn: You can target 1 monster in your Main Monster Zone and choose 1 of its unused adjacent (horizontal) Monster Zones; move that target to the chosen adjacent zone.",
+    "release_date": "2006-11-15",
+    "available_set": [
+        "TACTICAL MASTERS",
+        "CYBERDARK IMPACT"
+    ],
+    "related_card": [
+        "Vaylantz Wars - The Place of Beginning"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

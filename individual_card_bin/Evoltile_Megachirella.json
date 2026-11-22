@@ -1,0 +1,36 @@
+{
+    "name": "Evoltile Megachirella",
+    "filename": "Evoltile_Megachirella",
+    "card_text": "You can Tribute 1 Reptile monster, then discard 1 card; Special Summon 1 Level 6 or lower FIRE Dinosaur monster from your Deck. You can banish this card from your GY, then target 1 Dragon Xyz Monster you control with no material; attach up to 2 Reptile and/or Dinosaur monsters with different names from your hand and/or GY to that monster as material. You can only use each effect of \"Evoltile Megachirella\" once per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Evo-Branch",
+        "Evo-Diversity",
+        "Evo-Force",
+        "Evo-Karma",
+        "Evo-Miracle",
+        "Evo-Price",
+        "Evo-Singularity",
+        "Evolsaur Cerato",
+        "Evolsaur Darwino",
+        "Evolsaur Diplo",
+        "Evolsaur Elias",
+        "Evolsaur Pelta",
+        "Evolsaur Terias",
+        "Evolsaur Vulcano",
+        "Evoltile Elginero",
+        "Evoltile Lagosucho",
+        "Evoltile Pholis",
+        "Evolutionary Bridge"
+    ],
+    "attribute": "FIRE",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Renewal of the World",
+    "filename": "Renewal_of_the_World",
+    "card_text": "When this card is activated: Banish 1 Ritual Monster from your Deck. You can send this card to the GY, then activate 1 of these effects;\n\u25cfTribute 1 monster from your hand or field, or shuffle 1 Ritual Monster from your GY into the Deck, whose Level equals or exceeds the Level of the monster banished by this card's effect, then Ritual Summon that monster.\n\u25cfAdd the monster banished by this card's effect to your hand.\nYou can only use 1 \"Renewal of the World\" effect per turn, and only once that turn.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

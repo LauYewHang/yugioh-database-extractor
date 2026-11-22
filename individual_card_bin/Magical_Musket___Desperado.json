@@ -1,0 +1,27 @@
+{
+    "name": "Magical Musket - Desperado",
+    "filename": "Magical_Musket___Desperado",
+    "card_text": "If you control a \"Magical Musket\" monster: Target 1 face-up card on the field; destroy it. You can only activate 1 \"Magical Musket - Desperado\" per turn.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Starfire",
+        "Magical Musketeer Wild"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

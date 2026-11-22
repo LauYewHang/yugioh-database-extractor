@@ -1,0 +1,17 @@
+{
+    "name": "Queen Butterfly Danaus",
+    "filename": "Queen_Butterfly_Danaus",
+    "card_text": "If you control this Normal Summoned/Set card (Quick Effect): You can target up to 3 Level 4 or lower Insect monsters in your GY; change this card's ATK to 0, and if you do, Special Summon those monsters, but their effects are negated. You can only use this effect of \"Queen Butterfly Danaus\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2800,
+    "defense": 1900,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Dummy Golem",
+    "filename": "Dummy_Golem",
+    "card_text": "FLIP: Your opponent selects 1 monster they control. Switch control of the selected monster and this card.",
+    "release_date": "2005-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 3",
+        "THE LOST MILLENNIUM"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 800,
+    "monster_type": "Rock",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

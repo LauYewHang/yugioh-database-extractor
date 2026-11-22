@@ -1,0 +1,20 @@
+{
+    "name": "Loris, Lady of Lament",
+    "filename": "Loris__Lady_of_Lament",
+    "card_text": "You can target 3 or 6 of your Normal Traps that are banished and/or in your GY; place them on the bottom of your Deck in any order, then draw 1 card for every 3 cards placed. If another monster(s) is Tributed, or if a Normal Trap(s) is sent to your GY by an opponent's card effect (except during the Damage Step): You can target 1 Normal Trap in your GY; Set it. You can only use each effect of \"Loris, Lady of Lament\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS"
+    ],
+    "related_card": [
+        "Alice, Lady of Lament"
+    ],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 500,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

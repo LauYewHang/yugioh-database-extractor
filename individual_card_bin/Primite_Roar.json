@@ -1,0 +1,23 @@
+{
+    "name": "Primite Roar",
+    "filename": "Primite_Roar",
+    "card_text": "Pay 2000 LP, then declare 1 Normal Monster Card name; the declared Normal Monsters and \"Primite\" monsters you control cannot be destroyed by battle (until the end of your opponent's turn), then if you control no monsters, you can Special Summon 1 declared Normal Monster from your Deck in Defense Position. If your opponent Normal Summons a monster: You can banish this card from your GY, then target 1 Normal Monster you control or in your GY; banish 1 monster from the field with less ATK than that monster.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS",
+        "LEGENDARY ARC-V DECKS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Primite Dragon Ether Beryl",
+        "Primite Dragon Nether Berzelius",
+        "Primite Drillbeam",
+        "Primite Fusion",
+        "Primite Howl",
+        "Primite Imperial Dragon",
+        "Primite Lordly Lode",
+        "Primite Scream"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Swallow Flip",
+    "filename": "Swallow_Flip",
+    "card_text": "Negate the activation of an Effect Monster's effect that activates when a monster is Special Summoned (including itself), and destroy it.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "TURBO PACK BOOSTER FOUR",
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

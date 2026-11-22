@@ -1,0 +1,28 @@
+{
+    "name": "Umbral Horror Ghost",
+    "filename": "Umbral_Horror_Ghost",
+    "card_text": "During your Main Phase: You can Special Summon this card and 1 Level 4 or lower Fiend monster from your hand. You cannot Normal Summon/Set the turn you activate this effect. You can only use this effect of \"Umbral Horror Ghost\" once per turn.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "PRIMAL ORIGIN",
+        "ULTIMATE TOURNAMENT PACK 2"
+    ],
+    "related_card": [
+        "Barian's Hope",
+        "Barian's Seal",
+        "Barian's Seventh Untopia",
+        "Gorgonic Umbral Horror",
+        "Shining Umbral Horror",
+        "Umbral Horror Ghoul",
+        "Umbral Horror Unform",
+        "Umbral Horror Will o' the Wisp",
+        "V Umbral Horror"
+    ],
+    "attribute": "DARK",
+    "attack": 200,
+    "defense": 200,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Noh-P.U.N.K. Deer Note",
+    "filename": "Noh_P_U_N_K__Deer_Note",
+    "card_text": "You can reveal 1 other \"P.U.N.K.\" monster in your hand; Special Summon either the revealed monster or this card, and send the other to the GY. If this card is sent from the field to your GY: You can target 1 \"P.U.N.K.\" monster in your GY, except a Level 5 monster; Special Summon it, but you cannot Special Summon \"Noh-P.U.N.K. Deer Note\" for the rest of this turn. You can only use each effect of \"Noh-P.U.N.K. Deer Note\" once per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE",
+        "DIMENSION FORCE",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Gagaku-P.U.N.K. Crash Beat",
+        "Gagaku-P.U.N.K. Wa Gon",
+        "Gagaku-P.U.N.K. Wild Picking",
+        "Joruri-P.U.N.K. Dangerous Gabu",
+        "Joruri-P.U.N.K. Madame Spider",
+        "Joruri-P.U.N.K. Nashiwari Surprise",
+        "Noh-P.U.N.K. Foxy Tune",
+        "Noh-P.U.N.K. Ogre Dance",
+        "Noh-P.U.N.K. Rising Scale",
+        "Noh-P.U.N.K. Ze Amin",
+        "P.U.N.K. JAM Dragon Drive",
+        "P.U.N.K. JAM Extreme Session",
+        "P.U.N.K. JAM FEVER!",
+        "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "Ukiyoe-P.U.N.K. Rising Carp",
+        "Ukiyoe-P.U.N.K. Sharakusai"
+    ],
+    "attribute": "EARTH",
+    "attack": 2100,
+    "defense": 1800,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

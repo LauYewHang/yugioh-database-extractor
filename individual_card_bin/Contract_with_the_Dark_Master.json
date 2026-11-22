@@ -1,0 +1,19 @@
+{
+    "name": "Contract with the Dark Master",
+    "filename": "Contract_with_the_Dark_Master",
+    "card_text": "This card is used to Ritual Summon \"Dark Master - Zorc\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "MILLENNIUM PACK"
+    ],
+    "related_card": [
+        "Dark Master - Zorc"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

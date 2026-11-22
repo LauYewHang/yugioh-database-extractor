@@ -39,7 +39,10 @@
     "attack": 1100,
     "defense": 1000,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "If you control no monsters: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Curtain Raiser\" once per Duel.",

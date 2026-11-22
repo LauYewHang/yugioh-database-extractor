@@ -1,0 +1,30 @@
+{
+    "name": "Ursarctic Slider",
+    "filename": "Ursarctic_Slider",
+    "card_text": "Target 1 of your \"Ursarctic\" monsters that is banished or in your GY; Special Summon it, but it cannot attack, also destroy it during the End Phase. For the rest of this turn after this card resolves, you cannot Special Summon, except monsters with a Level. You can only activate 1 \"Ursarctic Slider\" per turn.",
+    "release_date": "2021-05-07",
+    "available_set": [
+        "ANCIENT\u3000GUARDIANS"
+    ],
+    "related_card": [
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Big Dipper",
+        "Ursarctic Departure",
+        "Ursarctic Drytron",
+        "Ursarctic Grand Chariot",
+        "Ursarctic Megabilis",
+        "Ursarctic Megapolar",
+        "Ursarctic Megatanus",
+        "Ursarctic Mikbilis",
+        "Ursarctic Mikpolar",
+        "Ursarctic Miktanus",
+        "Ursarctic Polar Star",
+        "Ursarctic Polari",
+        "Ursarctic Quint Charge",
+        "Ursarctic Radiation",
+        "Ursarctic Septentrion"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

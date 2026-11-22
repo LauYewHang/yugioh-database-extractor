@@ -1,0 +1,18 @@
+{
+    "name": "Some Summer Summoner",
+    "filename": "Some_Summer_Summoner",
+    "card_text": "2 Thunder monsters\nOnce per opponent's turn (Quick Effect): You can discard 1 card, then target 1 Thunder monster in your GY, except a Link Monster; Special Summon it to your zone this card points to.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": null,
+    "monster_type": "Thunder",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

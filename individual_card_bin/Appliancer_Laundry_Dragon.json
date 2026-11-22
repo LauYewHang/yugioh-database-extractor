@@ -1,0 +1,30 @@
+{
+    "name": "Appliancer Laundry Dragon",
+    "filename": "Appliancer_Laundry_Dragon",
+    "card_text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. Neither player takes any battle damage from attacks involving this card. Once per turn, after damage calculation, if this co-linked card battles an opponent's monster: You can banish that opponent's monster. Once per turn, after damage calculation, if this monster that is not co-linked battles an opponent's monster: You can destroy that opponent's monster, and if you do, inflict damage to your opponent equal to its original ATK.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [
+        "Appliancer Breakerbuncle",
+        "Appliancer Celtopus",
+        "Appliancer Conversion",
+        "Appliancer Copybokkle",
+        "Appliancer Dryer Drake",
+        "Appliancer Electrilyrical World",
+        "Appliancer Kappa Scale",
+        "Appliancer Propelion",
+        "Appliancer Reuse",
+        "Appliancer Socketroll",
+        "Appliancer Test",
+        "Appliancer Vacculephant"
+    ],
+    "attribute": "WATER",
+    "attack": 1500,
+    "defense": null,
+    "monster_type": "Machine",
+    "monster_card_type": 8194,
+    "link_rating": 1,
+    "link_arrow": 256
+}

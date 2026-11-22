@@ -1,0 +1,19 @@
+{
+    "name": "Elephant Statue of Blessing",
+    "filename": "Elephant_Statue_of_Blessing",
+    "card_text": "When this card is sent from your hand to your Graveyard by an opponent's card effect: You gain 2000 Life Points.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY",
+        "TURBO PACK BOOSTER EIGHT"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 0,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,28 @@
+{
+    "name": "DoomZ Command \"D.O.O.M.D.U.R.G.\"",
+    "filename": "DoomZ_Command__D_O_O_M_D_U_R_G__",
+    "card_text": "Once per turn, during the Standby Phase: Inflict 500 damage to the controller of the equipped monster. A \"DoomZ\" monster equipped with this card, or a WIND Machine Xyz Monster that has this card as material, gains the following effects.\n\u25cfYour opponent cannot target this card with card effects.\n\u25cfOnce per turn (Quick Effect): You can activate this effect; destroy 1 other face-up card you control, also for the rest of this turn, this card gains ATK equal to its own Level/Rank x 100, can attack directly, and if it battled, it is destroyed at the end of the Damage Step.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [
+        "Ars Magna \"Citrinitas\"",
+        "DoomZ Break - Diactorus",
+        "DoomZ Change",
+        "DoomZ Command \"A.D.R.A.S.T.E.I.A.\"",
+        "DoomZ Destruction",
+        "DoomZ Raiders",
+        "DoomZ V Five - Amalthe",
+        "DoomZ VII Seven - Elara",
+        "DoomZ XII End - Drastrius",
+        "DoomZ XII Zero - Drastea",
+        "DoomZ XIII Over - Graflareio",
+        "Jupiter the Power Patron of Destruction",
+        "Jupredo the Shademachine Power Patron",
+        "Power Patron DoomZ",
+        "Theorealize Past Lull"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

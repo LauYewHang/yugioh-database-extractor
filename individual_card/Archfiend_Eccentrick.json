@@ -45,7 +45,10 @@
     "attack": 800,
     "defense": 1000,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "You can target 1 other Spell/Trap on the field; destroy both it and this card. You can only use this effect of \"Archfiend Eccentrick\" once per turn.",

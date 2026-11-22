@@ -1,0 +1,17 @@
+{
+    "name": "Flux Ochsenfeld",
+    "filename": "Flux_Ochsenfeld",
+    "card_text": "1 Level 5 or higher EARTH monster + 1 Rock monster\nIf this card is Fusion Summoned: You can Special Summon 1 Rock monster from your hand or GY, except \"Flux Ochsenfeld\". (Quick Effect): You can target 1 EARTH monster you control and 1 card your opponent controls; return them to the hand. You can only use each effect of \"Flux Ochsenfeld\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": 2000,
+    "monster_type": "Rock",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

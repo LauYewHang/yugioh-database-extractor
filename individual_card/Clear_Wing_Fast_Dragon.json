@@ -58,7 +58,11 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": 4114,
+    "monster_card_type": [
+        "Pendulum",
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "You can send 1 face-up \"Speedroid\" Tuner and 1 face-up non-Tuner monster you control to the GY, whose total Levels equal 7; Special Summon this card from your Pendulum Zone. You can only use this effect of \"Clear Wing Fast Dragon\" once per turn.",

@@ -1,0 +1,28 @@
+{
+    "name": "Solitaire Magician",
+    "filename": "Solitaire_Magician",
+    "card_text": "Once per turn, you can select 1 face-up \"Fortune Lady\" monster you control and 1 other face-up monster on the field. Reduce the Level of the selected \"Fortune Lady\" monster by 3, and destroy the other selected monster.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE"
+    ],
+    "related_card": [
+        "Fortune Lady Calling",
+        "Fortune Lady Dark",
+        "Fortune Lady Earth",
+        "Fortune Lady Every",
+        "Fortune Lady Fire",
+        "Fortune Lady Light",
+        "Fortune Lady Past",
+        "Fortune Lady Rewind",
+        "Fortune Lady Water",
+        "Fortune Lady Wind"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1300,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

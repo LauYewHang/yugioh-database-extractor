@@ -1,0 +1,37 @@
+{
+    "name": "Altergeist Revitalization",
+    "filename": "Altergeist_Revitalization",
+    "card_text": "Target 1 \"Altergeist\" Link Monster in your GY; Special Summon it. You can banish this card from your GY; immediately after this effect resolves, Normal Summon 1 \"Altergeist\" monster. You can only use 1 \"Altergeist Revitalization\" effect per turn, and only once that turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Altergeist Adminia",
+        "Altergeist Camouflage",
+        "Altergeist Dragvirion",
+        "Altergeist Emulatelf",
+        "Altergeist Failover",
+        "Altergeist Fifinellag",
+        "Altergeist Fijialert",
+        "Altergeist Haunted Rock",
+        "Altergeist Hexstia",
+        "Altergeist Kidolga",
+        "Altergeist Kunquery",
+        "Altergeist Malwisp",
+        "Altergeist Manifestation",
+        "Altergeist Marionetter",
+        "Altergeist Meluseek",
+        "Altergeist Memorygant",
+        "Altergeist Multifaker",
+        "Altergeist Peritrator",
+        "Altergeist Pixiel",
+        "Altergeist Pookuery",
+        "Altergeist Primebanshee",
+        "Altergeist Protocol",
+        "Altergeist Silquitous",
+        "Personal Spoofing"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

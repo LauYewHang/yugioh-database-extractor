@@ -1,0 +1,21 @@
+{
+    "name": "Andro Sphinx",
+    "filename": "Andro_Sphinx",
+    "card_text": "You can pay 500 Life Points to Special Summon this card when \"Pyramid of Light\" is on the field. This card cannot attack during the turn that it is Normal Summoned or Special Summoned. This card cannot be Special Summoned from the Graveyard. If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent's Life Points equal to half of the ATK of the destroyed monster.",
+    "release_date": "2004-08-01",
+    "available_set": [
+        "EXCLUSIVE PACK"
+    ],
+    "related_card": [
+        "Exxod, Master of The Guard",
+        "Pyramid of Light",
+        "Theinen the Great Sphinx"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

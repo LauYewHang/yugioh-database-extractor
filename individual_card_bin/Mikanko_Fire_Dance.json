@@ -1,0 +1,31 @@
+{
+    "name": "Mikanko Fire Dance",
+    "filename": "Mikanko_Fire_Dance",
+    "card_text": "Special Summon 1 \"Mikanko\" monster from your hand or GY, and if you do, equip it with this card, then you can Special Summon 1 monster from your opponent's GY to their field, but negate its effects. The equipped monster cannot be destroyed by card effects. You can only activate 1 \"Mikanko Fire Dance\" per turn.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Arahime the Manifested Mikanko",
+        "Ha-Re the Sword Mikanko",
+        "Heavenly Gate of the Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Kagura",
+        "Mikanko Promise",
+        "Mikanko Purification Dance",
+        "Mikanko Reflection Rondo",
+        "Mikanko Rivalry",
+        "Mikanko Shinbu - Noble Twins",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Ohime the Manifested Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Transcendosaurus Drillygnathus",
+    "filename": "Transcendosaurus_Drillygnathus",
+    "card_text": "2 Level 6 monsters\nWhile this card has no materials, if it battles a monster, any battle damage it inflicts to your opponent is doubled. You can only use each of the following effects of \"Transcendosaurus Drillygnathus\" once per turn. You can detach 1 material from this card, then target 1 of your banished Dinosaur monsters; Special Summon it. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card.",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 3000,
+    "defense": 2300,
+    "monster_type": "Dinosaur",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

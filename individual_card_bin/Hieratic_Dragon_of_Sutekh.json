@@ -1,0 +1,30 @@
+{
+    "name": "Hieratic Dragon of Sutekh",
+    "filename": "Hieratic_Dragon_of_Sutekh",
+    "card_text": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by banishing 3 Dragon-Type Normal Monsters from your Graveyard. Once per turn: You can banish 1 Dragon-Type monster from your Graveyard to target 1 card on the field; destroy that target.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Hieratic Dragon of Asar",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Su",
+        "Hieratic Seal From the Ashes",
+        "Hieratic Seal of Banishment",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Creation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

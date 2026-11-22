@@ -1,0 +1,34 @@
+{
+    "name": "Centur-Ion Auxila",
+    "filename": "Centur_Ion_Auxila",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nFace-up cards in your Spell & Trap Zone cannot be destroyed by card effects. You can only use each of the following effects of \"Centur-Ion Auxila\" once per turn. If this card is Special Summoned: You can add 1 \"Centur-Ion\" card from your Deck to your hand. During the End Phase: You can place 1 of your non-Synchro \"Centur-Ion\" monsters that is banished or in your GY, in your Spell & Trap Zone as a face-up Continuous Trap.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Centur-Ion Atrii",
+        "Centur-Ion Bonds",
+        "Centur-Ion Chimerea",
+        "Centur-Ion Emeth VI",
+        "Centur-Ion Gargoyle II",
+        "Centur-Ion Legatia",
+        "Centur-Ion Phalanx",
+        "Centur-Ion Primera",
+        "Centur-Ion Primera Primus",
+        "Centur-Ion Trudea",
+        "Centur-Ion True Awakening",
+        "Emblema Oath",
+        "Emblema Salvation",
+        "Stand Up Centur-Ion!",
+        "Wake Up Centur-Ion!"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 12
+}

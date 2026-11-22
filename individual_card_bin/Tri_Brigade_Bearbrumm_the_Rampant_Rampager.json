@@ -1,0 +1,40 @@
+{
+    "name": "Tri-Brigade Bearbrumm the Rampant Rampager",
+    "filename": "Tri_Brigade_Bearbrumm_the_Rampant_Rampager",
+    "card_text": "2 \"Tri-Brigade\" monsters\nYou can discard 2 cards, then target 1 of your banished Level 4 or lower Beast, Beast-Warrior, or Winged Beast monsters; Special Summon it. If this card is sent to the GY: You can add 1 \"Tri-Brigade\" Spell/Trap from your Deck to your hand, then, place 1 card from your hand on the bottom of the Deck, also you cannot Special Summon for the rest of this turn, except \"Tri-Brigade\" monsters. You can only use each effect of \"Tri-Brigade Bearbrumm the Rampant Rampager\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Brigrand the Glory Dragon",
+        "The Dragon that Devours the Dogma",
+        "Tri-Brigade Airborne Assault",
+        "Tri-Brigade Arms Bucephalus II",
+        "Tri-Brigade Arms Mouser",
+        "Tri-Brigade Ferrijit the Barren Blossom",
+        "Tri-Brigade Fraktall",
+        "Tri-Brigade Hammer",
+        "Tri-Brigade Kerass",
+        "Tri-Brigade Kitt",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Nervall",
+        "Tri-Brigade Oath",
+        "Tri-Brigade Rendezvous",
+        "Tri-Brigade Revolt",
+        "Tri-Brigade Roar",
+        "Tri-Brigade Rugal the Silver Sheller",
+        "Tri-Brigade Showdown",
+        "Tri-Brigade Shuraig the Ominous Omen",
+        "Tri-Brigade Springans Kitt",
+        "Tri-Brigade Stand-Off"
+    ],
+    "attribute": "FIRE",
+    "attack": 1700,
+    "defense": null,
+    "monster_type": "Beast",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 24
+}

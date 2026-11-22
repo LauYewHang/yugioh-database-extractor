@@ -1,0 +1,20 @@
+{
+    "name": "Beelze of the Diabolic Dragons",
+    "filename": "Beelze_of_the_Diabolic_Dragons",
+    "card_text": "1 DARK Tuner + 1+ non-Tuner monsters\nCannot be destroyed by battle or card effects. If you take damage from an attack involving this card, or from an opponent's card effect: This card gains ATK equal to the damage you took.",
+    "release_date": "2014-03-28",
+    "available_set": [
+        "LEGENDARY HERO DECKS",
+        "PREMIUM GOLD",
+        "2025 MEGA-PACK TIN",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

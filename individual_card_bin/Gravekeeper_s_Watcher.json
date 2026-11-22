@@ -1,0 +1,42 @@
+{
+    "name": "Gravekeeper's Watcher",
+    "filename": "Gravekeeper_s_Watcher",
+    "card_text": "When your opponent activates a Spell/Trap Card or monster effect that includes an effect that makes them discard a card(s) (Quick Effect): You can send this card from your hand to the GY; negate the activation, and if you do, destroy it.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "PHARAONIC GUARDIAN",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Charm of Shabti",
+        "Gravekeeper's Cannonholder",
+        "Gravekeeper's Chief",
+        "Gravekeeper's Descendant",
+        "Gravekeeper's Headman",
+        "Gravekeeper's Nobleman",
+        "Gravekeeper's Oracle",
+        "Gravekeeper's Priestess",
+        "Gravekeeper's Recruiter",
+        "Gravekeeper's Shaman",
+        "Gravekeeper's Spy",
+        "Gravekeeper's Stele",
+        "Gravekeeper's Supernaturalist",
+        "Gravekeeper's Trap",
+        "Gravekeeper's Visionary",
+        "Hidden Temples of Necrovalley",
+        "Imperial Tombs of Necrovalley",
+        "Necrovalley",
+        "Necrovalley Temple",
+        "Necrovalley Throne",
+        "Rite of Spirit"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

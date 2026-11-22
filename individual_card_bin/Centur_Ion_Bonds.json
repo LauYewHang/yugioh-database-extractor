@@ -1,0 +1,29 @@
+{
+    "name": "Centur-Ion Bonds",
+    "filename": "Centur_Ion_Bonds",
+    "card_text": "Place 1 \"Centur-Ion\" monster from your hand or GY in your Spell & Trap Zone as a face-up Continuous Trap. If a \"Centur-Ion\" Synchro Monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can banish this card, then target 1 \"Centur-Ion\" monster in your GY; place it in your Spell & Trap Zone as a face-up Continuous Trap. You can only use each effect of \"Centur-Ion Bonds\" once per turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Centur-Ion Atrii",
+        "Centur-Ion Auxila",
+        "Centur-Ion Chimerea",
+        "Centur-Ion Emeth VI",
+        "Centur-Ion Gargoyle II",
+        "Centur-Ion Legatia",
+        "Centur-Ion Phalanx",
+        "Centur-Ion Primera",
+        "Centur-Ion Primera Primus",
+        "Centur-Ion Trudea",
+        "Centur-Ion True Awakening",
+        "Emblema Oath",
+        "Emblema Salvation",
+        "Stand Up Centur-Ion!",
+        "Wake Up Centur-Ion!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

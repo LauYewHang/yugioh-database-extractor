@@ -1,0 +1,42 @@
+{
+    "name": "Madolche Dessert",
+    "filename": "Madolche_Dessert",
+    "card_text": "Target 2 Effect Monsters on the field, including a \"Madolche\" monster; return those Effect Monsters to the hand/Extra Deck, then you can Special Summon 1 \"Madolche\" monster from your hand or Extra Deck with ATK less than or equal to the total original ATK of those returned monsters. If a \"Madolche\" card(s) is shuffled from your GY into the Deck/Extra Deck, while this card is in your GY (except during the Damage Step): You can attach this card to an Xyz Monster you control. You can only use 1 \"Madolche Dessert\" effect per turn, and only once that turn.",
+    "release_date": "2024-07-19",
+    "available_set": [
+        "THE INFINITE FORBIDDEN",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [
+        "Madolche Anjelly",
+        "Madolche Baaple",
+        "Madolche Butlerusk",
+        "Madolche Chateau",
+        "Madolche Chickolates",
+        "Madolche Chouxvalier",
+        "Madolche Cruffssant",
+        "Madolche Fresh Sistart",
+        "Madolche Hootcake",
+        "Madolche Lesson",
+        "Madolche Magileine",
+        "Madolche Marmalmaide",
+        "Madolche Messengelato",
+        "Madolche Mewfeuille",
+        "Madolche Mini Meowcaroons",
+        "Madolche Nights",
+        "Madolche Petingcessoeur",
+        "Madolche Promenade",
+        "Madolche Puddingcess",
+        "Madolche Puddingcess Chocolat-a-la-Mode",
+        "Madolche Queen Tiarafraise",
+        "Madolche Queen Tiaramisu",
+        "Madolche Salon",
+        "Madolche Tea Break",
+        "Madolche Teacher Glassouffle",
+        "Madolche Ticket",
+        "Madolche Waltz",
+        "Madolchepalooza"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

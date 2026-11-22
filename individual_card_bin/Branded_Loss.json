@@ -1,0 +1,37 @@
+{
+    "name": "Branded Loss",
+    "filename": "Branded_Loss",
+    "card_text": "Target 1 monster your opponent controls that was Special Summoned from the Extra Deck and 1 Fusion Monster you control; shuffle them into the Deck(s), also, during the End Phase of this turn, each player can Special Summon 1 Fusion Monster that mentions \"Fallen of Albaz\" as material from their own Extra Deck. You can only activate 1 \"Branded Loss\" per turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Albaz the Ashen",
+        "Albion the Branded Dragon",
+        "Albion the Shrouded Dragon",
+        "Aluber the Jester of Despia",
+        "Branded Beast",
+        "Branded in High Spirits",
+        "Branded Lost",
+        "Branded Retribution",
+        "Branded Sword",
+        "Bystial Saronir",
+        "Despian Tragedy",
+        "Ecclesia and the Dark Dragon",
+        "Fallen of Albaz",
+        "Fallen of the White Dragon",
+        "Guiding Quem, the Virtuous",
+        "Gung-Ho! Springans!",
+        "New Frontier",
+        "Springans Kitt",
+        "The Bystial Aluber",
+        "The Bystial Lubellion",
+        "The Fallen & The Virtuous",
+        "Tri-Brigade Mercourier",
+        "Tri-Brigade Springans Kitt"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

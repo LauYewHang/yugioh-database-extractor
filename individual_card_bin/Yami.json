@@ -1,0 +1,16 @@
+{
+    "name": "Yami",
+    "filename": "Yami",
+    "card_text": "All Fiend and Spellcaster monsters on the field gain 200 ATK/DEF, also all Fairy monsters on the field lose 200 ATK/DEF.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "STARTER DECK PEGASUS",
+        "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

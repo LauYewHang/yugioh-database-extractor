@@ -1,0 +1,13 @@
+{
+    "name": "Release Brainwashing",
+    "filename": "Release_Brainwashing",
+    "card_text": "If a monster(s) is Tributed from the hand or field (except during the Damage Step): Target 1 face-up monster your opponent controls; apply the following effect, based on which player owns that face-up monster.\n\u25cfYou: Take control of it, but return it to the hand during the End Phase.\n\u25cfYour opponent: Negate its effects until the end of this turn.\nYou can only activate 1 \"Release Brainwashing\" per turn.",
+    "release_date": "2024-10-11",
+    "available_set": [
+        "RAGE OF THE ABYSS",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Des Feral Imp",
+    "filename": "Des_Feral_Imp",
+    "card_text": "FLIP: Target 1 card in your GY; shuffle that target into the Deck.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (Reprint)",
+        "STRUCTURE DECK : SETO KAIBA",
+        "SPEED DUEL: BATTLE CITY FINALS",
+        "STARTER DECK KAIBA RELOADED",
+        "DARK CRISIS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1800,
+    "monster_type": "Reptile",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Miasma Necromancer",
+    "filename": "Miasma_Necromancer",
+    "card_text": "2 monsters, including a DARK Spellcaster monster\nIf this card is Link Summoned: You can add 1 Level 5 or higher DARK Spellcaster monster from your GY to your hand, but you cannot activate cards, or the effects of cards, with its name for the rest of this turn. You can send 1 Spell/Trap from your hand or field to the GY; immediately after this effect resolves, Normal Summon 1 Spellcaster monster. You can only use each effect of \"Miasma Necromancer\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1800,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 80
+}

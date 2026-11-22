@@ -1,0 +1,36 @@
+{
+    "name": "Ignister Prominence, the Blasting Dracoslayer",
+    "filename": "Ignister_Prominence__the_Blasting_Dracoslayer",
+    "card_text": "1 Tuner + 1+ non-Tuner Pendulum Monsters\nOnce per turn: You can target 1 Pendulum Monster on the field or 1 card in the Pendulum Zone; destroy it, and if you do, shuffle 1 card on the field into the Deck. Once per turn: You can Special Summon 1 \"Dracoslayer\" monster from your Deck in Defense Position, but it cannot be used as Synchro Material.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "CLASH OF REBELLIONS",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "ANCIENT\u3000GUARDIANS",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Dinomight Powerload, the Dracoslayer",
+        "Dinoster Power, the Mighty Dracoslayer",
+        "Draco Awakening",
+        "Draco Face-Off",
+        "Dragonic Pendulum",
+        "Forge of the True Dracos",
+        "Ignis Phoenix, the Dracoslayer",
+        "Luster Pendulum, the Dracoslayer",
+        "Majespecter Draco - Ryu",
+        "Majespecter Orthrus - Nue",
+        "Majester Paladin, the Ascending Dracoslayer",
+        "Majesty Pegasus, the Dracoslayer",
+        "Master Peace, the True Dracoslayer",
+        "Master Pendulum, the Dracoslayer",
+        "Wind Unicorn Parallel, the Dracoslayer"
+    ],
+    "attribute": "FIRE",
+    "attack": 2850,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Elborz, the Sacred Lands of Simorgh",
+    "filename": "Elborz__the_Sacred_Lands_of_Simorgh",
+    "card_text": "All WIND Winged Beast monsters on the field gain 300 ATK/DEF. You can only use each of the following effects of \"Elborz, the Sacred Lands of Simorgh\" once per turn.\n\u25cfYou can reveal 1 Level 5 or higher WIND Winged Beast monster in your hand; this turn, you can Normal Summon Winged Beast monsters for 1 less Tribute (even if this card leaves the field).\n\u25cfIf you control a WIND Winged Beast monster, you can: Immediately after this effect resolves, Normal Summon 1 Winged Beast monster.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Simorgh Onslaught",
+        "Simorgh Sky Battle",
+        "Simorgh, Bird of Beginning",
+        "Simorgh, Bird of Bringing",
+        "Simorgh, Bird of Calamity",
+        "Simorgh, Bird of Perfection",
+        "Simorgh, Bird of Sovereignty"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

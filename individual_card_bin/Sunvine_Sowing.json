@@ -1,0 +1,25 @@
+{
+    "name": "Sunvine Sowing",
+    "filename": "Sunvine_Sowing",
+    "card_text": "Special Summon 1 \"Sunseed\" monster from your Deck, and if you do, take 1000 damage. If you control no \"Sunavalon\" Link Monsters, you can only Special Summon \"Sunseed Genius Loci\" with this effect. For the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except Plant monsters. If a Plant Link Monster(s) you control would be destroyed by battle or an opponent's card effect, you can banish this card from your GY instead. You can only activate 1 \"Sunvine Sowing\" per turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Sunavalon Bloom",
+        "Sunavalon Daphne",
+        "Sunavalon Dryades",
+        "Sunavalon Dryanome",
+        "Sunavalon Dryas",
+        "Sunavalon Dryatrentiay",
+        "Sunavalon Melias",
+        "Sunseed Genius Loci",
+        "Sunseed Shadow",
+        "Sunseed Twin",
+        "Sunvine Maiden"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Emergency Assistance",
+    "filename": "Emergency_Assistance",
+    "card_text": "Activate during your Main Phase 2, to Special Summon 1 Level 4 monster from your Graveyard that was destroyed by a card effect and sent to the Graveyard this turn.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "ANCIENT PROPHECY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

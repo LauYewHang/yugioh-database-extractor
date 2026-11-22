@@ -1,0 +1,18 @@
+{
+    "name": "Absorbing Kid from the Sky",
+    "filename": "Absorbing_Kid_from_the_Sky",
+    "card_text": "When this card destroys a monster and sends it to the Graveyard as a result of battle, increase your Life Points by the Level of the destroyed monster x 300 points.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1300,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

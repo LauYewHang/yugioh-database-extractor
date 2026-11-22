@@ -1,0 +1,38 @@
+{
+    "name": "Ohime the Manifested Mikanko",
+    "filename": "Ohime_the_Manifested_Mikanko",
+    "card_text": "You can Ritual Summon this card with \"Mikanko Kagura\". Cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. You can only use each of the following effects of \"Ohime the Manifested Mikanko\" once per turn. You can reveal this card in your hand; add 1 \"Mikanko\" card from your Deck to your hand, except \"Ohime the Manifested Mikanko\", then discard 1 card. (Quick Effect): You can target 1 Equip Spell in your GY; equip it to 1 appropriate monster on the field.",
+    "release_date": "2023-01-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "MAZE OF MUERTOS",
+        "AMAZING DEFENDERS"
+    ],
+    "related_card": [
+        "Arahime the Manifested Mikanko",
+        "Ha-Re the Sword Mikanko",
+        "Heavenly Gate of the Mikanko",
+        "Hu-Li the Jewel Mikanko",
+        "Mikanko Dance - Mayowashidori",
+        "Mikanko Fire Dance",
+        "Mikanko Kagura",
+        "Mikanko Promise",
+        "Mikanko Purification Dance",
+        "Mikanko Reflection Rondo",
+        "Mikanko Rivalry",
+        "Mikanko Shinbu - Noble Twins",
+        "Mikanko Spiritwalk",
+        "Mikanko Water Arabesque",
+        "Ni-Ni the Mirror Mikanko",
+        "Sanaki the Mikanko Devotee",
+        "The Great Mikanko Ceremony",
+        "Uzuhime the Manifested Mikanko"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Power Break",
+    "filename": "Power_Break",
+    "card_text": "Activate only while you control a face-up \"Power Tool Dragon\". Select up to 3 Equip Cards on your side of the field and/or in your Graveyard and return them to the Deck, and inflict 500 damage to your opponent for each card returned.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "THE SHINING DARKNESS"
+    ],
+    "related_card": [
+        "Power Tool Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

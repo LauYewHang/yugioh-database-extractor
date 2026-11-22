@@ -79,7 +79,10 @@
     "attack": 100,
     "defense": 500,
     "monster_type": "Beast",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 1,
     "pendulum_effect": "When exactly 1 monster you control (and no other cards) is destroyed by battle: You can destroy this card, and if you do, Special Summon that monster destroyed by battle in Attack Position, and if you do that, it cannot be destroyed by battle this turn (even if this card leaves the field).",

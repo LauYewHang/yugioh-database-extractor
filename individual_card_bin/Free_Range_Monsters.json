@@ -1,0 +1,13 @@
+{
+    "name": "Free-Range Monsters",
+    "filename": "Free_Range_Monsters",
+    "card_text": "During the Main Phase: Immediately after this effect resolves, Normal Summon/Set 1 monster.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

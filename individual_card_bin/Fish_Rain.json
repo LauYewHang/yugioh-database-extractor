@@ -1,0 +1,12 @@
+{
+    "name": "Fish Rain",
+    "filename": "Fish_Rain",
+    "card_text": "When a face-up Fish, Sea Serpent, or Aqua-Type monster on the field is banished: Special Summon 1 Level 3 or lower Fish, Sea Serpent, or Aqua-Type monster from your hand. (The banished monster(s) must be Fish, Sea Serpent, or Aqua-Type even after being banished.)",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

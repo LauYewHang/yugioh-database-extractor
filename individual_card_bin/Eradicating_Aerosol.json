@@ -1,0 +1,14 @@
+{
+    "name": "Eradicating Aerosol",
+    "filename": "Eradicating_Aerosol",
+    "card_text": "Destroy all Insect monsters on the field.",
+    "release_date": "2011-07-01",
+    "available_set": [
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

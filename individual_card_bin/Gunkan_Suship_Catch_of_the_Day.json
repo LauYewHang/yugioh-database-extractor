@@ -1,0 +1,23 @@
+{
+    "name": "Gunkan Suship Catch-of-the-Day",
+    "filename": "Gunkan_Suship_Catch_of_the_Day",
+    "card_text": "Once per turn: You can reveal 1 \"Gunkan Suship Shari\" in your hand; place 1 counter on this card, and if you do, reveal 1 \"Gunkan\" Xyz Monster from your Extra Deck, and your opponent declares 1 \"Gunkan\" monster's card name, except \"Gunkan Suship Shari\", that is mentioned on any \"Gunkan\" Xyz Monster, then, you add that declared card from your Deck to your hand. If you cannot add, shuffle this card into the Deck. If this card in its owner's possession is destroyed by an opponent's card: Your opponent pays exactly 500 LP for each counter on this card.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Gunkan Suship Daily Special",
+        "Gunkan Suship Ikura",
+        "Gunkan Suship Ikura-class Dreadnought",
+        "Gunkan Suship Shari",
+        "Gunkan Suship Shari Red",
+        "Gunkan Suship Shirauo",
+        "Gunkan Suship Shirauo-class Carrier",
+        "Gunkan Suship Uni",
+        "Gunkan Suship Uni-class Super-Dreadnought",
+        "Gunkan Sushipyard Seaside Supper Spot"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

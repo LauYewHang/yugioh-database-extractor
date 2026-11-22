@@ -1,0 +1,13 @@
+{
+    "name": "Summon Breaker",
+    "filename": "Summon_Breaker",
+    "card_text": "During Main Phase 1, if the turn player successfully conducts their third Summon of a monster(s) this turn: It becomes the End Phase.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

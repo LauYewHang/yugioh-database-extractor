@@ -1,0 +1,22 @@
+{
+    "name": "Link Spider",
+    "filename": "Link_Spider",
+    "card_text": "1 Normal Monster\nOnce per turn: You can Special Summon 1 Level 4 or lower Normal Monster from your hand to your zone this card points to.",
+    "release_date": "2017-07-21",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "OTS ULTIMATE TOURNAMENT PACK 1",
+        "STARTER DECK - LINK STRIKE -",
+        "OTS TOURNAMENT PACK 7",
+        "Advanced Demo Deck Extra Pack",
+        "STARTER DECK CODEBREAKER"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 1,
+    "link_arrow": 4
+}

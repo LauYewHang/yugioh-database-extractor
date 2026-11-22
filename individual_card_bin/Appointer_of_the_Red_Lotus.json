@@ -1,0 +1,14 @@
+{
+    "name": "Appointer of the Red Lotus",
+    "filename": "Appointer_of_the_Red_Lotus",
+    "card_text": "Pay 2000 LP and reveal your entire hand; look at your opponent's hand and banish 1 card from their hand, until your opponent's next End Phase.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STRUCTURE DECK: FREEZING CHAINS",
+        "STARDUST OVERDRIVE",
+        "OTS TOURNAMENT PACK 14"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

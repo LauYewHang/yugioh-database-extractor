@@ -1,0 +1,16 @@
+{
+    "name": "The Reliable Guardian",
+    "filename": "The_Reliable_Guardian",
+    "card_text": "Increase 1 face-up monster's DEF by 700 points until the end of this turn.",
+    "release_date": "2002-09-16",
+    "available_set": [
+        "STARTER DECK JOEY",
+        "STARTER DECK YUGI Evolution",
+        "DARK BEGINNING 1",
+        "SPELL RULER (LC01 25th Anniversary Edition)",
+        "SPELL RULER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

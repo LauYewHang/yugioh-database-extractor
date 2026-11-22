@@ -1,0 +1,23 @@
+{
+    "name": "Vennominaga the Deity of Poisonous Snakes",
+    "filename": "Vennominaga_the_Deity_of_Poisonous_Snakes",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Rise of the Snake Deity\" or by its own effect. Gains 500 ATK for each Reptile monster in your GY. Neither player can target this card with card effects, also it is unaffected by other cards and their effects. When this card is destroyed by battle and sent to the GY: You can banish 1 other Reptile monster from your GY; Special Summon this card. When this card inflicts battle damage to your opponent: Place 1 Hyper-Venom Counter on it. When the 3rd Hyper-Venom Counter is placed on this card, you win the Duel.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "RA YELLOW MEGA PACK",
+        "TACTICAL EVOLUTION",
+        "ANCIENT\u3000GUARDIANS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Rise of the Snake Deity",
+        "Venom Shot"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

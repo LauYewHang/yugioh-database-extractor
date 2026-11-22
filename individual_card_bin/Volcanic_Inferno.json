@@ -1,0 +1,31 @@
+{
+    "name": "Volcanic Inferno",
+    "filename": "Volcanic_Inferno",
+    "card_text": "When your opponent activates a monster effect on the field: You can banish 1 Pyro monster from your GY; inflict 500 damage to your opponent, then, if you banished a \"Volcanic\" monster to activate this effect, you can negate that effect. During your opponent's End Phase: You can target up to 2 of your \"Volcanic\" monsters that are banished and/or in your GY; place them on the bottom of your Deck in any order. You can only use each effect of \"Volcanic Inferno\" once per turn.",
+    "release_date": "2023-08-11",
+    "available_set": [
+        "LEGENDARY DUELISTS: SOULBURNING VOLCANO"
+    ],
+    "related_card": [
+        "Blaze Accelerator Reload",
+        "Fire Ejection",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Counter",
+        "Volcanic Doomfire",
+        "Volcanic Emission",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Queen",
+        "Volcanic Rat",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Rocket",
+        "Volcanic Scattershot",
+        "Volcanic Shell",
+        "Volcanic Slicer",
+        "Volcanic Trooper"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

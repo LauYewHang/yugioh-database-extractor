@@ -1,0 +1,21 @@
+{
+    "name": "Cycle of the World",
+    "filename": "Cycle_of_the_World",
+    "card_text": "This card is used to Ritual Summon \"Ruin, Queen of Oblivion\" or \"Demise, King of Armageddon\". You must also Tribute monsters from your field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card into the Deck; add 1 \"End of the World\" from your Deck to your hand, then, you can add 1 \"Ruin, Queen of Oblivion\" or \"Demise, King of Armageddon\" from your GY to your hand.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Demise, Agent of Armageddon",
+        "Demise, King of Armageddon",
+        "Demise, Supreme King of Armageddon",
+        "End of the World",
+        "Ruin, Angel of Oblivion",
+        "Ruin, Queen of Oblivion",
+        "Ruin, Supreme Queen of Oblivion",
+        "Ruler of the End of the World"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

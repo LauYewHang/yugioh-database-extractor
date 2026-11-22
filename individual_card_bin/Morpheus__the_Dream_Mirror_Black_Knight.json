@@ -1,0 +1,35 @@
+{
+    "name": "Morpheus, the Dream Mirror Black Knight",
+    "filename": "Morpheus__the_Dream_Mirror_Black_Knight",
+    "card_text": "If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: You can target 1 card on the field; destroy it. During the Main or Battle Phase, if \"Dream Mirror of Joy\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Morpheus, the Dream Mirror White Knight\" from your Deck. You can only use each effect of \"Morpheus, the Dream Mirror Black Knight\" once per turn.",
+    "release_date": "2019-07-27",
+    "available_set": [
+        "RISING RAMPAGE"
+    ],
+    "related_card": [
+        "Dream Mirror Fantasy",
+        "Dream Mirror Hypnagogia",
+        "Dream Mirror of Chaos",
+        "Dream Mirror of Joy",
+        "Dream Mirror of Terror",
+        "Dream Mirror Oneiromancy",
+        "Dream Mirror Phantasms",
+        "Dream Mirror Recap",
+        "Ikelos, the Dream Mirror Mara",
+        "Ikelos, the Dream Mirror Sprite",
+        "Morpheus, the Dream Mirror White Knight",
+        "Neiroy, the Dream Mirror Disciple",
+        "Neiroy, the Dream Mirror Traitor",
+        "Oneiros, the Dream Mirror Erlking",
+        "Oneiros, the Dream Mirror Tormentor",
+        "Phantasos, the Dream Mirror Foe",
+        "Phantasos, the Dream Mirror Friend"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 1000,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

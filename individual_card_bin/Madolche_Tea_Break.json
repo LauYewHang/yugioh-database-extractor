@@ -1,0 +1,40 @@
+{
+    "name": "Madolche Tea Break",
+    "filename": "Madolche_Tea_Break",
+    "card_text": "When a Spell/Trap Card is activated, if you have no monsters in your Graveyard: Negate the activation, and if you do, return it to the hand, then, if you control a face-up \"Madolche Puddingcess\", you can destroy 1 card your opponent controls.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Madolche Anjelly",
+        "Madolche Baaple",
+        "Madolche Butlerusk",
+        "Madolche Chateau",
+        "Madolche Chickolates",
+        "Madolche Chouxvalier",
+        "Madolche Cruffssant",
+        "Madolche Dessert",
+        "Madolche Fresh Sistart",
+        "Madolche Hootcake",
+        "Madolche Lesson",
+        "Madolche Magileine",
+        "Madolche Marmalmaide",
+        "Madolche Messengelato",
+        "Madolche Mewfeuille",
+        "Madolche Mini Meowcaroons",
+        "Madolche Petingcessoeur",
+        "Madolche Promenade",
+        "Madolche Puddingcess",
+        "Madolche Puddingcess Chocolat-a-la-Mode",
+        "Madolche Queen Tiarafraise",
+        "Madolche Queen Tiaramisu",
+        "Madolche Salon",
+        "Madolche Teacher Glassouffle",
+        "Madolche Ticket",
+        "Madolche Waltz",
+        "Madolchepalooza"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

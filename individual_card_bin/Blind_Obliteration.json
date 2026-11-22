@@ -1,0 +1,12 @@
+{
+    "name": "Blind Obliteration",
+    "filename": "Blind_Obliteration",
+    "card_text": "Roll a six-sided die twice and destroy all face-up monsters with Levels/Ranks lower than the total roll.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "CODE OF THE DUELIST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Worm Apocalypse",
+    "filename": "Worm_Apocalypse",
+    "card_text": "FLIP: Target 1 Spell/Trap Card on the field; destroy that target.",
+    "release_date": "2009-11-10",
+    "available_set": [
+        "HIDDEN ARSENAL",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "DUEL TERMINAL 1",
+        "5D's STARTER DECK DUELIST TOOLBOX"
+    ],
+    "related_card": [
+        "Worm Call",
+        "Worm Cartaros",
+        "Worm Erokin",
+        "Worm Falco",
+        "Worm King",
+        "Worm Opera",
+        "Worm Prince",
+        "Worm Queen",
+        "Worm Solid",
+        "Worm Tentacles",
+        "Worm Ugly",
+        "Worm Victory",
+        "Worm Xex",
+        "Worm Zero"
+    ],
+    "attribute": "LIGHT",
+    "attack": 300,
+    "defense": 200,
+    "monster_type": "Reptile",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

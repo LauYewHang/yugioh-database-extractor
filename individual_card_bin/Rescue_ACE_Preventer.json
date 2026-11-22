@@ -1,0 +1,36 @@
+{
+    "name": "Rescue-ACE Preventer",
+    "filename": "Rescue_ACE_Preventer",
+    "card_text": "You can banish 1 \"Rescue-ACE\" card from your GY; Special Summon this card from your hand. If you control another \"Rescue-ACE\" monster (Quick Effect): You can target 1 Effect Monster your opponent controls; change it to face-down Defense Position. If this card is sent to the GY: You can target 1 of your banished \"Rescue-ACE\" monsters, except a Level 8 monster; Special Summon it. You can only use each effect of \"Rescue-ACE Preventer\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "OTS TOURNAMENT PACK 23",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "ALERT!",
+        "CONTAIN!",
+        "EMERGENCY!",
+        "EXTINGUISH!",
+        "REINFORCE!",
+        "RESCUE!",
+        "Rescue-ACE Air Lifter",
+        "Rescue-ACE Arbitrator",
+        "Rescue-ACE Fire Attacker",
+        "Rescue-ACE Fire Engine",
+        "Rescue-ACE HQ",
+        "Rescue-ACE Hydrant",
+        "Rescue-ACE Impulse",
+        "Rescue-ACE Monitor",
+        "Rescue-ACE Quick Attacker",
+        "Rescue-ACE Turbulence"
+    ],
+    "attribute": "FIRE",
+    "attack": 2800,
+    "defense": 2800,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

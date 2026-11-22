@@ -1,0 +1,21 @@
+{
+    "name": "Puppet Master",
+    "filename": "Puppet_Master",
+    "card_text": "When this card is Tribute Summoned: You can pay 2000 LP, then target 2 Fiend monsters in your GY; Special Summon those targets, but they cannot attack this turn.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS",
+        "DUEL TERMINAL 5B",
+        "SPEED DUEL STARTER DECKS: TWISTED NIGHTMARES",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Evil Blast",
+    "filename": "Evil_Blast",
+    "card_text": "Activate only when a monster is Special Summoned to your opponent's side of the field. Equip this card to that monster. It gains 500 ATK. During each of your opponent's Standby Phases, inflict 500 damage to your opponent.",
+    "release_date": "2010-02-16",
+    "available_set": [
+        "ABSOLUTE POWERFORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

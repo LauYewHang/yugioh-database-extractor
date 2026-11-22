@@ -1,0 +1,33 @@
+{
+    "name": "Icejade Gymir Aegirine",
+    "filename": "Icejade_Gymir_Aegirine",
+    "card_text": "1 WATER Tuner + 1+ non-Tuner monsters\n(Quick Effect): You can activate this effect; face-up monsters you control cannot be destroyed, or banished, by your opponent's card effects this turn. Then, if you activated this effect in response to your opponent's card or effect activation, and your opponent has a card(s) with that name on their field and/or GY, you can banish those cards. If a card(s) is banished by your opponent's card effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of \"Icejade Gymir Aegirine\" once per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA",
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [
+        "Icejade Acti",
+        "Icejade Aegirine",
+        "Icejade Cenote Enion Cradle",
+        "Icejade Cradle",
+        "Icejade Creation Aegirocassis",
+        "Icejade Creation Kingfisher",
+        "Icejade Curse",
+        "Icejade Erosion",
+        "Icejade Kosmochlor",
+        "Icejade Manifestation",
+        "Icejade Ran Aegirine",
+        "Icejade Tinola",
+        "Icejade Tremora"
+    ],
+    "attribute": "WATER",
+    "attack": 3000,
+    "defense": 1500,
+    "monster_type": "Aqua",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

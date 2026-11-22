@@ -1,0 +1,17 @@
+{
+    "name": "Water Spirit",
+    "filename": "Water_Spirit",
+    "card_text": "This ancient water spirit haunts the glacial monoliths of Antarctica. It has the power to seep into the pores of any substance and chill it to the bone.",
+    "release_date": "2008-08-05",
+    "available_set": [
+        "5D's STARTER DECK 2008"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 400,
+    "defense": 1200,
+    "monster_type": "Aqua",
+    "monster_card_type": 1025,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

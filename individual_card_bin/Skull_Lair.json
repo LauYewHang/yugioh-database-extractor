@@ -1,0 +1,13 @@
+{
+    "name": "Skull Lair",
+    "filename": "Skull_Lair",
+    "card_text": "Remove from play any number of Monster Cards in your Graveyard to destroy 1 face-up monster on the field whose Level is equal to the number of the cards you removed from play.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 2",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Tornado Wall",
+    "filename": "Tornado_Wall",
+    "card_text": "Activate only if \"Umi\" is on the field. While \"Umi\" is on the field, you take no battle damage. If \"Umi\" is not on the field, destroy this card.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "LABYRINTH OF NIGHTMARE",
+        "REALM OF THE SEA EMPEROR STRUCTURE DECK",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "DARK BEGINNING 1",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "RETRO PACK 2"
+    ],
+    "related_card": [
+        "A Legendary Ocean",
+        "Advent of Atlantis",
+        "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
+        "Fish Sonar",
+        "Forgotten Temple of the Deep",
+        "Kairyu-Shin's Dark Reef",
+        "Lemuria, the Forgotten City",
+        "Levia-Dragon of Atlantis - Daedalus",
+        "Levia-Dragoon - Daedalus",
+        "Magellanica, the Deep Sea City",
+        "Monster Arms of Atlantis",
+        "Pacifis, the Phantasm City",
+        "Sea Stealth II",
+        "Siren Vortex of Atlantis",
+        "Umi",
+        "Warchief of Atlantis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Metal Detector",
+    "filename": "Metal_Detector",
+    "card_text": "You can activate this card when a Continuous Trap Card is activated. Negate all Continuous Trap Cards during the turn this card is activated.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

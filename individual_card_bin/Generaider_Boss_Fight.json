@@ -1,0 +1,30 @@
+{
+    "name": "Generaider Boss Fight",
+    "filename": "Generaider_Boss_Fight",
+    "card_text": "Activate 1 \"Generaider\" Field Spell directly from your Deck or GY, then your opponent draws 1 card. You can only activate 1 \"Generaider Boss Fight\" per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS"
+    ],
+    "related_card": [
+        "Dovelgus, Generaider Boss of Iron",
+        "Frodi, Generaider Boss of Swords",
+        "Generaider Boss Bite",
+        "Generaider Boss Loot",
+        "Generaider Boss Quest",
+        "Generaider Boss Room",
+        "Generaider Boss Stage",
+        "Harr, Generaider Boss of Storms",
+        "Hela, Generaider Boss of Doom",
+        "Jormungandr, Generaider Boss of Eternity",
+        "Laevatein, Generaider Boss of Shadows",
+        "Loptr, Shadow of the Generaider Bosses",
+        "Mardel, Generaider Boss of Light",
+        "Naglfar, Generaider Boss of Fire",
+        "Nidhogg, Generaider Boss of Ice",
+        "Utgarda, Generaider Boss of Delusion",
+        "Vala, Seidhr of the Generaider Bosses"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Revival Gift",
+    "filename": "Revival_Gift",
+    "card_text": "Select 1 Tuner monster from your Graveyard and Special Summon it. Its effects are negated. Special Summon 2 \"Gift Fiend Tokens\" (Fiend-Type/DARK/Level 3/ATK 1500/DEF 1500) to your opponent's side of the field.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

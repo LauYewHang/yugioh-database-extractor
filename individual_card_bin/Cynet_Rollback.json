@@ -1,0 +1,16 @@
+{
+    "name": "Cynet Rollback",
+    "filename": "Cynet_Rollback",
+    "card_text": "Target 1 of your banished Cyberse monsters; Special Summon it. During your Main Phase, if your LP are 2000 or less: You can banish this card from your GY, then target 2 of your banished Cyberse monsters; add them to your hand. You can only use each effect of \"Cynet Rollback\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Cyberse Reminder",
+        "Firewall Phantom",
+        "Micro Coder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

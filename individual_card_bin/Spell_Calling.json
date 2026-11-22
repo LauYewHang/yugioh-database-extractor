@@ -1,0 +1,12 @@
+{
+    "name": "Spell Calling",
+    "filename": "Spell_Calling",
+    "card_text": "When this face-down card is destroyed and sent to the Graveyard by the effect of a Spell or Trap Card controlled by your opponent, select 1 Quick-Play Spell Card from your Deck and Set it after showing it to your opponent.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

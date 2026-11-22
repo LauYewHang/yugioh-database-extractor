@@ -1,0 +1,28 @@
+{
+    "name": "Evil\u2605Twin GG EZ",
+    "filename": "Evil_Twin_GG_EZ",
+    "card_text": "You can Tribute 1 \"Ki-sikil\" monster or 1 \"Lil-la\" monster, then activate 1 of the following effects.\n\u25cfYou can target 1 \"Ki-sikil\" monster or 1 \"Lil-la\" monster you control; it gains ATK equal to the original ATK of the Tributed monster, until the end of this turn.\n\u25cfWhen a card or effect is activated that would destroy a card(s) on the field: You can negate that effect.\nYou can only use this effect of \"Evil\u2605Twin GG EZ\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Evil\u2605Twin Challenge",
+        "Evil\u2605Twin Ki-sikil",
+        "Evil\u2605Twin Ki-sikil Deal",
+        "Evil\u2605Twin Lil-la",
+        "Evil\u2605Twin's Trouble Sunny",
+        "Evil\u2605Twins Ki-sikil & Lil-la",
+        "Lil-la Rap",
+        "Live\u2606Twin Home",
+        "Live\u2606Twin Ki-sikil",
+        "Live\u2606Twin Ki-sikil Frost",
+        "Live\u2606Twin Lil-la",
+        "Live\u2606Twin Lil-la Sweet",
+        "Live\u2606Twin Lil-la Treat",
+        "Live\u2606Twin Sunny's Snitch",
+        "Secret Password"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

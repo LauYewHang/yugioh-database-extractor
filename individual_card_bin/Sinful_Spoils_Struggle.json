@@ -1,0 +1,40 @@
+{
+    "name": "Sinful Spoils Struggle",
+    "filename": "Sinful_Spoils_Struggle",
+    "card_text": "Target any number of cards on the field (the max. number of targets on each side is the number of that player's \"Sinful Spoils\" cards that are banished or in their GY); destroy them. If this Set card is destroyed or banished by your opponent's activated effect: You can shuffle up to 2 cards from the field into the Deck. You can only activate 1 \"Sinful Spoils Struggle\" per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Azamina Debtors",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Deception of the Sinful Spoils",
+        "Diabellstar the Black Witch",
+        "Diabellstar Vengeance",
+        "Diabellze the Original Sinkeeper",
+        "Diabellze the White Witch",
+        "Elzette, Azamina of the White Forest",
+        "Guilt of the Sinful Spoils",
+        "Original Sinful Spoils - Snake-Eye",
+        "Queen Azamina",
+        "Sinful Spoils Awakening",
+        "Sinful Spoils of Betrayal - Silvera",
+        "Sinful Spoils of Doom - Rciela",
+        "Sinful Spoils of Slumber - Morrian",
+        "Sinful Spoils of Subversion - Snake-Eye",
+        "Sinful Spoils of the White Forest",
+        "Sinful Spoils Sanctification",
+        "Sinful Spoils Subdual",
+        "Susurrus of the Sinful Spoils",
+        "The Hallowed Azamina",
+        "WANTED: Seeker of Sinful Spoils"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

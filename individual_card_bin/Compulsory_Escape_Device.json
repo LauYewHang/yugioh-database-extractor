@@ -1,0 +1,12 @@
+{
+    "name": "Compulsory Escape Device",
+    "filename": "Compulsory_Escape_Device",
+    "card_text": "Each player chooses 1 monster they control, then shuffles it into the Deck.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

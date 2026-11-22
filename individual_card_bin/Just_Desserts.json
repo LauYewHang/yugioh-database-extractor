@@ -1,0 +1,15 @@
+{
+    "name": "Just Desserts",
+    "filename": "Just_Desserts",
+    "card_text": "Inflict 500 damage to your opponent for each monster they control.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK JOEY",
+        "STARTER DECK KAIBA Evolution",
+        "STARTER DECK KAIBA",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

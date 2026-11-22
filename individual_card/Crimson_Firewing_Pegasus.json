@@ -11,7 +11,9 @@
     "attack": 2250,
     "defense": 1800,
     "monster_type": "Beast",
-    "monster_card_type": 2,
+    "monster_card_type": [
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6
 }

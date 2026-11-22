@@ -36,7 +36,10 @@
     "attack": 2000,
     "defense": 1800,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 6,
     "pendulum_effect": "You cannot Pendulum Summon, except \"Lunalight\" monsters. This effect cannot be negated. Once per turn: You can Fusion Summon 1 \"Lunalight\" Fusion Monster from your Extra Deck, by banishing its materials from your field or GY.",

@@ -89,7 +89,11 @@
     "attack": 3500,
     "defense": 3000,
     "monster_type": "Fiend",
-    "monster_card_type": 4106,
+    "monster_card_type": [
+        "Pendulum",
+        "Fusion",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 10,
     "pendulum_effect": "Once per turn, before damage calculation, if your \"D/D/D\" Fusion Monster battles an opponent's monster: You can make that opponent's monster lose 1000 ATK until the end of this turn (even if this card leaves the field).",

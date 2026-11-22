@@ -1,0 +1,12 @@
+{
+    "name": "Tuner's Barrier",
+    "filename": "Tuner_s_Barrier",
+    "card_text": "Select 1 face-up Tuner monster you control. That monster cannot be destroyed by battle or by card effects, until the End Phase of the next turn.",
+    "release_date": "2010-01-26",
+    "available_set": [
+        "DUELIST PACK - YUSEI 2 -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

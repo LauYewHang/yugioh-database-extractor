@@ -1,0 +1,15 @@
+{
+    "name": "XYZ Hyper Cannon",
+    "filename": "XYZ_Hyper_Cannon",
+    "card_text": "You must control \"XYZ-Dragon Cannon\", or a Fusion Monster that lists \"XYZ-Dragon Cannon\" as material, to activate this card's effect. This card's effect depends on whose turn it is.\n\u25cfYour turn: You can target 1 of your banished Union monsters; place it on the bottom of your Deck, and if you do, draw 1 card.\n\u25cfYour opponent's turn: You can discard any number of cards, then target the same number of cards your opponent controls; destroy those cards.\nYou can only use this effect of \"XYZ Hyper Cannon\" once per turn.",
+    "release_date": "2021-07-09",
+    "available_set": [
+        "KING'S COURT"
+    ],
+    "related_card": [
+        "Union Controller",
+        "XYZ-Dragon Cannon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

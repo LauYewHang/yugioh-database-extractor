@@ -1,0 +1,37 @@
+{
+    "name": "Adamancipator Crystal - Leonite",
+    "filename": "Adamancipator_Crystal___Leonite",
+    "card_text": "If this card is Special Summoned by the effect of an \"Adamancipator\" card: You can place 1 \"Adamancipator\" card from your hand or GY on top of the Deck. If this card is in your GY: You can target 1 FIRE Synchro Monster you control or in your GY; return it to the Extra Deck, and if you do, place this card on top of the Deck. You can only use each effect of \"Adamancipator Crystal - Leonite\" once per turn.",
+    "release_date": "2020-04-02",
+    "available_set": [
+        "SECRET SLAYERS",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Adamancipator Analyzer",
+        "Adamancipator Conductor",
+        "Adamancipator Crystal - Dragite",
+        "Adamancipator Crystal - Raptite",
+        "Adamancipator Crystal - Tiamite",
+        "Adamancipator Friends",
+        "Adamancipator Laputite",
+        "Adamancipator Luminous",
+        "Adamancipator Mates",
+        "Adamancipator Relief",
+        "Adamancipator Researcher",
+        "Adamancipator Resonance",
+        "Adamancipator Risen - Dragite",
+        "Adamancipator Risen - Leonite",
+        "Adamancipator Risen - Raptite",
+        "Adamancipator Risen - Tiamite",
+        "Adamancipator Seeker",
+        "Adamancipator Signs"
+    ],
+    "attribute": "FIRE",
+    "attack": 0,
+    "defense": 2200,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

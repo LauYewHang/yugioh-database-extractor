@@ -89,7 +89,11 @@
     "attack": 3000,
     "defense": 3000,
     "monster_type": "Fiend",
-    "monster_card_type": 4130,
+    "monster_card_type": [
+        "Pendulum",
+        "Xyz",
+        "Effect"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 10,
     "pendulum_effect": "While you have a card in your other Pendulum Zone: You can target 1 Pendulum Monster you control or in your GY; Special Summon the card in your other Pendulum Zone, and if you do, place that targeted Pendulum Monster in your Pendulum Zone. You can only use this effect of \"D/D/D Deviser King Deus Machinex\" once per turn.",

@@ -1,0 +1,27 @@
+{
+    "name": "Magical Musket - Steady Hands",
+    "filename": "Magical_Musket___Steady_Hands",
+    "card_text": "Target 1 \"Magical Musket\" monster you control; its ATK/DEF become double its original ATK/DEF until the end of this turn. It cannot attack directly during the turn you activate this card. You can only activate 1 \"Magical Musket - Steady Hands\" per turn.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Desperado",
+        "Magical Musket - Fiendish Deal",
+        "Magical Musket - Last Stand",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Starfire",
+        "Magical Musketeer Wild"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

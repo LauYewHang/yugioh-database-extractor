@@ -1,0 +1,34 @@
+{
+    "name": "The Terminus of the Burning Abyss",
+    "filename": "The_Terminus_of_the_Burning_Abyss",
+    "card_text": "Fusion Summon 1 \"Burning Abyss\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 \"Burning Abyss\" monster on the field; it gains 800 ATK and DEF until the end of your opponent's next turn.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD",
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "Alich, Malebranche of the Burning Abyss",
+        "Barbar, Malebranche of the Burning Abyss",
+        "Beatrice, Lady of the Eternal",
+        "Cagna, Malebranche of the Burning Abyss",
+        "Calcab, Malebranche of the Burning Abyss",
+        "Cherubini, Ebon Angel of the Burning Abyss",
+        "Cir, Malebranche of the Burning Abyss",
+        "Dante, Pilgrim of the Burning Abyss",
+        "Dante, Traveler of the Burning Abyss",
+        "Draghig, Malebranche of the Burning Abyss",
+        "Farfa, Malebranche of the Burning Abyss",
+        "Fire Lake of the Burning Abyss",
+        "Good & Evil in the Burning Abyss",
+        "Graff, Malebranche of the Burning Abyss",
+        "Libic, Malebranche of the Burning Abyss",
+        "Malacoda, Netherlord of the Burning Abyss",
+        "Rubic, Malebranche of the Burning Abyss",
+        "Scarm, Malebranche of the Burning Abyss",
+        "The Traveler and the Burning Abyss",
+        "Virgil, Rock Star of the Burning Abyss"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

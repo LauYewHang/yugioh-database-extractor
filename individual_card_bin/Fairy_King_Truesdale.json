@@ -1,0 +1,18 @@
+{
+    "name": "Fairy King Truesdale",
+    "filename": "Fairy_King_Truesdale",
+    "card_text": "While this card is in Defense Position, all Plant-Type monsters you control gain 500 ATK and DEF.",
+    "release_date": "2004-02-10",
+    "available_set": [
+        "CHAMPION PACK GAME SEVEN",
+        "Yu-Gi-Oh! World Championship Tournament 2004 Bundles"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2200,
+    "defense": 1500,
+    "monster_type": "Plant",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

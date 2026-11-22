@@ -1,0 +1,39 @@
+{
+    "name": "Vylon Polytope",
+    "filename": "Vylon_Polytope",
+    "card_text": "Target any number of \"Vylon\" Monster Cards you control that are Equip Cards; Special Summon them in face-up Defense Position. Banish them when they leave the field.",
+    "release_date": "2012-05-25",
+    "available_set": [
+        "DUEL TERMINAL 6B",
+        "HIDDEN ARSENAL 6 OMEGA XYZ"
+    ],
+    "related_card": [
+        "Vylon Alpha",
+        "Vylon Charger",
+        "Vylon Component",
+        "Vylon Cube",
+        "Vylon Delta",
+        "Vylon Disigma",
+        "Vylon Element",
+        "Vylon Epsilon",
+        "Vylon Filament",
+        "Vylon Hept",
+        "Vylon Material",
+        "Vylon Matter",
+        "Vylon Ohm",
+        "Vylon Omega",
+        "Vylon Pentachloro",
+        "Vylon Prism",
+        "Vylon Segment",
+        "Vylon Sigma",
+        "Vylon Soldier",
+        "Vylon Sphere",
+        "Vylon Stella",
+        "Vylon Stigma",
+        "Vylon Tesseract",
+        "Vylon Tetra",
+        "Vylon Vanguard"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

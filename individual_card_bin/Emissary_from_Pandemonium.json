@@ -1,0 +1,17 @@
+{
+    "name": "Emissary from Pandemonium",
+    "filename": "Emissary_from_Pandemonium",
+    "card_text": "This card cannot be Special Summoned. You can Normal Summon this card with 1 Tribute. If you do, it becomes Level 5 and its original ATK and DEF are halved.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2600,
+    "defense": 1800,
+    "monster_type": "Fiend",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

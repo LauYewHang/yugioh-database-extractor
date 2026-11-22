@@ -1,0 +1,25 @@
+{
+    "name": "Geargiagear",
+    "filename": "Geargiagear",
+    "card_text": "Special Summon 2 \"Geargiano\" monsters from your Deck and increase their Levels by 1. You can only activate 1 \"Geargiagear\" per turn.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK",
+        "GEARGIA RAMPAGE STRUCTURE DECK"
+    ],
+    "related_card": [
+        "Gear Gigant X",
+        "Geargiaccelerator",
+        "Geargiagear Gigant XG",
+        "Geargianchor",
+        "Geargiano",
+        "Geargiano Mk-II",
+        "Geargiano Mk-III",
+        "Geargiarmor",
+        "Geargiarsenal",
+        "Geargiattacker"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

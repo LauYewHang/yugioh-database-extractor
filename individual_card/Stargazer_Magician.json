@@ -92,7 +92,10 @@
     "attack": 1200,
     "defense": 2400,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "If a Pendulum Monster you control battles, your opponent cannot activate Spell Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.",

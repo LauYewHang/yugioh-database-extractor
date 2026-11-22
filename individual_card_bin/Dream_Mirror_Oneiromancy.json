@@ -1,0 +1,29 @@
+{
+    "name": "Dream Mirror Oneiromancy",
+    "filename": "Dream_Mirror_Oneiromancy",
+    "card_text": "Activate 1 of these effects.\n\u25cfWhen your opponent activates a Spell/Trap Card while a \"Dream Mirror of Joy\" is in a Field Zone: Negate the activation, and if you do, destroy that card.\n\u25cfWhen your opponent would Special Summon monster(s) while a \"Dream Mirror of Terror\" is in a Field Zone: Negate the Summon, and if you do, destroy that monster.\nYou can only activate 1 \"Dream Mirror Oneiromancy\" per turn.",
+    "release_date": "2019-10-25",
+    "available_set": [
+        "CHAOS IMPACT"
+    ],
+    "related_card": [
+        "Dream Mirror Fantasy",
+        "Dream Mirror of Chaos",
+        "Dream Mirror of Joy",
+        "Dream Mirror of Terror",
+        "Dream Mirror Phantasms",
+        "Dream Mirror Recap",
+        "Ikelos, the Dream Mirror Mara",
+        "Ikelos, the Dream Mirror Sprite",
+        "Morpheus, the Dream Mirror Black Knight",
+        "Morpheus, the Dream Mirror White Knight",
+        "Neiroy, the Dream Mirror Disciple",
+        "Neiroy, the Dream Mirror Traitor",
+        "Oneiros, the Dream Mirror Erlking",
+        "Oneiros, the Dream Mirror Tormentor",
+        "Phantasos, the Dream Mirror Foe",
+        "Phantasos, the Dream Mirror Friend"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

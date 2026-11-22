@@ -1,0 +1,12 @@
+{
+    "name": "Tsukumo Slash",
+    "filename": "Tsukumo_Slash",
+    "card_text": "If a monster you control attacks a monster whose ATK is higher than itself during damage calculation: Your battling monster gains ATK equal to the difference between your LP and your opponent's, during that damage calculation only. You can only activate 1 \"Tsukumo Slash\" per turn.",
+    "release_date": "2016-03-18",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

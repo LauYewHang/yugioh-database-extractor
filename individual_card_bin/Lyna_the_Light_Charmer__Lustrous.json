@@ -1,0 +1,43 @@
+{
+    "name": "Lyna the Light Charmer, Lustrous",
+    "filename": "Lyna_the_Light_Charmer__Lustrous",
+    "card_text": "2 monsters, including a LIGHT monster\n(This card is always treated as a \"Familiar-Possessed\" card.)\nYou can target 1 LIGHT monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 LIGHT monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Lyna the Light Charmer, Lustrous\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS",
+        "QUARTER CENTURY STAMPEDE"
+    ],
+    "related_card": [
+        "Aussa the Earth Channeler",
+        "Aussa the Earth Charmer, Immovable",
+        "Awakening of the Possessed",
+        "Charmers of the Grand Circle",
+        "Dharc the Dark Charmer, Gloomy",
+        "Eria the Water Channeler",
+        "Eria the Water Charmer, Gentle",
+        "Familiar-Possessed - Aussa",
+        "Familiar-Possessed - Dharc",
+        "Familiar-Possessed - Eria",
+        "Familiar-Possessed - Hiita",
+        "Familiar-Possessed - Lyna",
+        "Familiar-Possessed - Wynn",
+        "Hiita the Fire Channeler",
+        "Hiita the Fire Charmer, Ablaze",
+        "Possessed Destiny",
+        "Possessed Destiny - Wynn",
+        "Spellbook of the Grand Circle",
+        "Spirit Charmers",
+        "Spiritual Art Familiars",
+        "Unpossessed",
+        "Wynn the Wind Channeler",
+        "Wynn the Wind Charmer, Verdant"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1850,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

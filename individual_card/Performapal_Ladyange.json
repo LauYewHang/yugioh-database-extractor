@@ -150,7 +150,10 @@
     "attack": 1000,
     "defense": 1500,
     "monster_type": "Fairy",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 3,
     "pendulum_effect": "Once per turn, when an attack is declared involving your monster and an opponent's monster: You can discard 1 Pendulum Monster; that opponent's monster loses 1000 ATK, until the end of this turn.",

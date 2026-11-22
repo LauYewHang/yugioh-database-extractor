@@ -1,0 +1,22 @@
+{
+    "name": "Kwagar Hercules",
+    "filename": "Kwagar_Hercules",
+    "card_text": "\"Kuwagata \u03b1\" + \"Hercules Beetle\"",
+    "release_date": "2002-09-01",
+    "available_set": [
+        "TOURNAMENT PACK 3RD SEASON",
+        "TOURNAMENT PACK 1ST SEASON",
+        "OTS TOURNAMENT PACK 18"
+    ],
+    "related_card": [
+        "Hercules Beetle",
+        "Kuwagata \u03b1"
+    ],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 1700,
+    "monster_type": "Insect",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

@@ -11,7 +11,10 @@
     "attack": 100,
     "defense": 100,
     "monster_type": "Fiend",
-    "monster_card_type": 1026,
+    "monster_card_type": [
+        "Tuner",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

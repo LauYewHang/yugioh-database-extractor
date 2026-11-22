@@ -1,0 +1,13 @@
+{
+    "name": "Dark-Piercing Light",
+    "filename": "Dark_Piercing_Light",
+    "card_text": "Flip all face-down monsters on your opponent's side of the field face-up.",
+    "release_date": "2002-12-20",
+    "available_set": [
+        "DARK BEGINNING 2",
+        "Promotional Cards 1"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Code Exporter",
+    "filename": "Code_Exporter",
+    "card_text": "If a Cyberse monster you control would be used as Link Material for a \"Code Talker\" monster, this card in your hand can also be used as material. If this card is sent from the hand or field to the GY as material for the Link Summon of a \"Code Talker\" monster: You can target 1 Level 4 or lower Cyberse monster in your GY; add it to your hand, or, if this card on the field was used as material, you can Special Summon that monster instead, but negate its effects. You can only use each effect of \"Code Exporter\" once per turn.",
+    "release_date": "2022-05-06",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING"
+    ],
+    "related_card": [
+        "Accesscode Talker",
+        "Allied Code Talker @Ignister",
+        "Code Talker",
+        "Code Talker Inverted",
+        "Decode Talker",
+        "Decode Talker Extended",
+        "Decode Talker Heatsoul",
+        "Decode Talker Integration",
+        "Encode Talker",
+        "Excode Talker",
+        "Powercode Talker",
+        "Protectcode Talker",
+        "Shootingcode Talker",
+        "Transcode Talker"
+    ],
+    "attribute": "WIND",
+    "attack": 500,
+    "defense": 2300,
+    "monster_type": "Cyberse",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

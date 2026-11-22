@@ -155,7 +155,10 @@
     "attack": 1200,
     "defense": 1600,
     "monster_type": "Beast-Warrior",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "If your \"Performapal\" or \"Odd-Eyes\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",

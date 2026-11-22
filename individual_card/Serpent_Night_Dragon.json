@@ -16,7 +16,9 @@
     "attack": 2350,
     "defense": 2400,
     "monster_type": "Dragon",
-    "monster_card_type": 1,
+    "monster_card_type": [
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

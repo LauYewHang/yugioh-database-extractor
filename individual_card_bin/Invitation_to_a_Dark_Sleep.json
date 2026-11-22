@@ -1,0 +1,19 @@
+{
+    "name": "Invitation to a Dark Sleep",
+    "filename": "Invitation_to_a_Dark_Sleep",
+    "card_text": "If this card is Normal or Flip Summoned: Target 1 monster your opponent controls; this card gains the following effect.\n\u25cfWhile this card is in the Monster Zone, that monster cannot attack.",
+    "release_date": "2002-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY ULTIMATE KAIBA SET",
+        "PHARAOH'S SERVANT",
+        "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": 1800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

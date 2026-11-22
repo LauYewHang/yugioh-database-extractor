@@ -1,0 +1,17 @@
+{
+    "name": "Armored White Bear",
+    "filename": "Armored_White_Bear",
+    "card_text": "If this card is Normal or Special Summoned while a Synchro Monster is on the field: You can target 1 Field Spell in your GY; add it to your hand. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can Special Summon 1 Level 4 or lower Beast monster from your Deck or GY, except \"Armored White Bear\". You can only use each effect of \"Armored White Bear\" once per turn.",
+    "release_date": "2020-07-24",
+    "available_set": [
+        "BATTLES OF LEGEND: ARMAGEDDON"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 1400,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

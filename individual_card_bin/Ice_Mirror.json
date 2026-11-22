@@ -1,0 +1,12 @@
+{
+    "name": "Ice Mirror",
+    "filename": "Ice_Mirror",
+    "card_text": "Target 1 Level 3 or lower WATER monster you control; Special Summon 1 monster with the same name from your Deck, but you cannot Special Summon from the Extra Deck while you control that face-up Special Summoned monster.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

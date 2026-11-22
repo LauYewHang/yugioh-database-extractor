@@ -1,0 +1,27 @@
+{
+    "name": "War Rock Big Blow",
+    "filename": "War_Rock_Big_Blow",
+    "card_text": "During the Main Phase, if a face-up \"War Rock\" monster(s) you control leaves the field by an opponent's card effect: Destroy up to 2 cards your opponent controls. You can only activate 1 \"War Rock Big Blow\" per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "War Rock Bashileos",
+        "War Rock Dignity",
+        "War Rock Fortia",
+        "War Rock Gactos",
+        "War Rock Generations",
+        "War Rock Mammud",
+        "War Rock Medium",
+        "War Rock Meteoragon",
+        "War Rock Mountain",
+        "War Rock Ordeal",
+        "War Rock Orpis",
+        "War Rock Skyler",
+        "War Rock Spirit",
+        "War Rock Wento"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

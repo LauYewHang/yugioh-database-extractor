@@ -1,0 +1,15 @@
+{
+    "name": "Disturbance Strategy",
+    "filename": "Disturbance_Strategy",
+    "card_text": "Your opponent shuffles their entire hand into the Deck, then draws the same number of cards.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "PHARAONIC GUARDIAN",
+        "OTS TOURNAMENT PACK 6",
+        "DUELIST LEAGUE 15"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

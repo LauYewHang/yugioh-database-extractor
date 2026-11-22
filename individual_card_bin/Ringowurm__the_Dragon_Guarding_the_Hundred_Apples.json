@@ -1,0 +1,18 @@
+{
+    "name": "Ringowurm, the Dragon Guarding the Hundred Apples",
+    "filename": "Ringowurm__the_Dragon_Guarding_the_Hundred_Apples",
+    "card_text": "If a face-up non-Effect Monster is on the field: You can Special Summon this card from your hand. During your Main Phase, if you Synchro Summoned this turn: You can banish this card from your GY; Special Summon 1 \"Hundred Apples Token\" (Wyrm/LIGHT/Level 2/ATK 100/DEF 100). The player who Summoned it can treat it as a Tuner for a Synchro Summon. You can only use each effect of \"Ringowurm, the Dragon Guarding the Hundred Apples\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 1100,
+    "monster_type": "Dragon",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

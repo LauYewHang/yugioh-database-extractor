@@ -33,7 +33,11 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Psychic",
-    "monster_card_type": 4106,
+    "monster_card_type": [
+        "Pendulum",
+        "Fusion",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "If a face-up \"Metalfoes\" card(s) you control is destroyed by card effect (except during the Damage Step): You can target 1 face-up card on the field; destroy it. You can only use this effect of \"Parametalfoes Azortless\" once per turn.",

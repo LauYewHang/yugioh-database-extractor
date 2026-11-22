@@ -1,0 +1,12 @@
+{
+    "name": "Shichi-Go-San",
+    "filename": "Shichi_Go_San",
+    "card_text": "Special Summon 1 Level/Rank 1 monster from either GY to your field, and if you do, equip this card to it. Once per turn, during the End Phase: Increase the equipped monster's Level/Rank by 1. Apply the following effects based on the equipped monster's Level/Rank.\n\u25cf3+: It gains ATK equal to its original ATK.\n\u25cf5+: It is unaffected by your opponent's activated effects.\nOnce per turn, during your Standby Phase, if the equipped monster's Level/Rank is 7 or higher: Send all cards on the field to the GY.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

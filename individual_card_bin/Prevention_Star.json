@@ -1,0 +1,13 @@
+{
+    "name": "Prevention Star",
+    "filename": "Prevention_Star",
+    "card_text": "Equip only to a monster you control, if it was changed from face-up Attack Position to face-up Defense Position this turn. Select 1 monster your opponent controls. That monster cannot attack or change its battle position. When the equipped monster is destroyed and this card is sent to the Graveyard, remove from play the selected monster.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "DUELIST PACK - YUSEI 2 -",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Exchange of Night and Day",
+    "filename": "Exchange_of_Night_and_Day",
+    "card_text": "You can only use 1 \"Exchange of Night and Day\" effect per turn, and only once that turn. You can activate 1 of these effects;\n\u25cfSend 1 LIGHT Warrior-Type monster from your hand to the Graveyard, then add 1 DARK Warrior-Type monster from your Deck to your hand, with the same Level the sent monster had in your hand.\n\u25cfSend 1 DARK Warrior-Type monster from your hand to the Graveyard, then add 1 LIGHT Warrior-Type monster from your Deck to your hand, with the same Level the sent monster had in your hand.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

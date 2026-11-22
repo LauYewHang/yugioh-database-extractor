@@ -11,7 +11,9 @@
     "attack": 1250,
     "defense": 900,
     "monster_type": "Fish",
-    "monster_card_type": 1,
+    "monster_card_type": [
+        "Normal"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4
 }

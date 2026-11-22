@@ -1,0 +1,17 @@
+{
+    "name": "Aspischool",
+    "filename": "Aspischool",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 Level 6 or lower Fish monster from your hand in Defense Position, but banish it when it leaves the field. If this card is banished: You can Special Summon this card in Defense Position. You can only use this effect of \"Aspischool\" once per turn.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 300,
+    "monster_type": "Fish",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Summon Limit",
+    "filename": "Summon_Limit",
+    "card_text": "Neither player can Summon more than two times per turn.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "25TH ANNIVERSARY RARITY COLLECTION",
+        "OTS TOURNAMENT PACK 22",
+        "DUELIST LEAGUE 17",
+        "MAXIMUM GOLD: EL DORADO",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

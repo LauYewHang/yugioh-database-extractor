@@ -1,0 +1,19 @@
+{
+    "name": "Absorbing Jar",
+    "filename": "Absorbing_Jar",
+    "card_text": "FLIP: Destroy all Set Spells/Traps on the field, then each player draws 1 card for each of the cards they controlled that was destroyed by this effect. You cannot Set any cards this turn.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "Speed Duel: Battle City Box",
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 600,
+    "defense": 500,
+    "monster_type": "Rock",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

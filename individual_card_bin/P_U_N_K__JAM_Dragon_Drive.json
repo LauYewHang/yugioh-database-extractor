@@ -1,0 +1,36 @@
+{
+    "name": "P.U.N.K. JAM Dragon Drive",
+    "filename": "P_U_N_K__JAM_Dragon_Drive",
+    "card_text": "1 Psychic Tuner + 1+ non-Tuners\nIf this card is Special Summoned by the effect of a \"P.U.N.K.\" card, or Synchro Summoned: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to your \"P.U.N.K.\" card or effect activation, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"P.U.N.K. JAM Dragon Drive\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "RARITY COLLECTION 5",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Gagaku-P.U.N.K. Crash Beat",
+        "Gagaku-P.U.N.K. Wa Gon",
+        "Gagaku-P.U.N.K. Wild Picking",
+        "Joruri-P.U.N.K. Dangerous Gabu",
+        "Joruri-P.U.N.K. Madame Spider",
+        "Joruri-P.U.N.K. Nashiwari Surprise",
+        "Noh-P.U.N.K. Deer Note",
+        "Noh-P.U.N.K. Foxy Tune",
+        "Noh-P.U.N.K. Ogre Dance",
+        "Noh-P.U.N.K. Rising Scale",
+        "Noh-P.U.N.K. Ze Amin",
+        "P.U.N.K. JAM Extreme Session",
+        "P.U.N.K. JAM FEVER!",
+        "Ukiyoe-P.U.N.K. Amazing Dragon",
+        "Ukiyoe-P.U.N.K. Rising Carp",
+        "Ukiyoe-P.U.N.K. Sharakusai"
+    ],
+    "attribute": "EARTH",
+    "attack": 2700,
+    "defense": 2400,
+    "monster_type": "Psychic",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

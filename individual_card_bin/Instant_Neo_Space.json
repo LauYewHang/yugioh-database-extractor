@@ -1,0 +1,21 @@
+{
+    "name": "Instant Neo Space",
+    "filename": "Instant_Neo_Space",
+    "card_text": "Equip only to a Fusion Monster that lists \"Elemental HERO Neos\" as material. It does not have to activate its effect during the End Phase to shuffle itself into the Extra Deck. If the equipped monster leaves the field: You can Special Summon 1 \"Elemental HERO Neos\" from your hand, Deck, or GY.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "OTS TOURNAMENT PACK 9",
+        "PHANTOM DARKNESS",
+        "LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK"
+    ],
+    "related_card": [
+        "Elemental HERO Brave Neos",
+        "Elemental HERO Divine Neos",
+        "Elemental HERO Neos",
+        "Elemental HERO Neos Alius",
+        "Elemental HERO Spirit of Neos",
+        "Miracle Ejector"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

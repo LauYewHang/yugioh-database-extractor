@@ -1,0 +1,15 @@
+{
+    "name": "Cyclon Laser",
+    "filename": "Cyclon_Laser",
+    "card_text": "You can only equip this card to \"Gradius\". Increase the ATK of \"Gradius\" by 300 points. When the equipped \"Gradius\" attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 2",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [
+        "Gradius"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Munin the Runick Wings",
+    "filename": "Munin_the_Runick_Wings",
+    "card_text": "2 \"Runick\" monsters\nIf this card is Special Summoned from the Extra Deck: You can discard 1 card; add 1 \"Runick\" Continuous Spell from your Deck to your hand. When your opponent activates a card or effect that targets a \"Runick\" card(s) you control or a Set card(s) you control (Quick Effect): You can banish this card you control; negate the activation, and if you do, destroy that card. Once per turn, during the End Phase: Gain 1000 LP.",
+    "release_date": "2022-08-26",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "TACTICAL MASTERS"
+    ],
+    "related_card": [
+        "Freki the Runick Fangs",
+        "Geri the Runick Fangs",
+        "Hugin the Runick Wings",
+        "Runick Allure",
+        "Runick Destruction",
+        "Runick Dispelling",
+        "Runick Flashing Fire",
+        "Runick Fountain",
+        "Runick Freezing Curses",
+        "Runick Golden Droplet",
+        "Runick Slumber",
+        "Runick Smiting Storm",
+        "Runick Tip",
+        "Sleipnir the Runick Mane"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Gold Pride - Start Your Engines!",
+    "filename": "Gold_Pride___Start_Your_Engines_",
+    "card_text": "If your opponent Normal or Special Summons a monster(s): Target 1 of those monsters; reveal 3 \"Gold Pride\" monsters from your Deck, your opponent randomly picks 1 for you to Special Summon, shuffle the rest into your Deck, then destroy the targeted monster.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA"
+    ],
+    "related_card": [
+        "Gold Pride - Better Luck Next Time!",
+        "Gold Pride - Captain Carrie",
+        "Gold Pride - Chariot Carrie",
+        "Gold Pride - Eliminator",
+        "Gold Pride - Eradicator",
+        "Gold Pride - It's Neck and Neck!",
+        "Gold Pride - Leon",
+        "Gold Pride - Nytro Blaster",
+        "Gold Pride - Nytro Head",
+        "Gold Pride - Pedal to the Metal!",
+        "Gold Pride - Pin Baller",
+        "Gold Pride - Roller Baller",
+        "Gold Pride - Star Leon",
+        "Gold Pride - That Came Out of Nowhere!",
+        "Gold Pride - The Crowd Goes Wild!"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

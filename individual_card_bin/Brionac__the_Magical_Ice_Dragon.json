@@ -1,0 +1,17 @@
+{
+    "name": "Brionac, the Magical Ice Dragon",
+    "filename": "Brionac__the_Magical_Ice_Dragon",
+    "card_text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can discard 1 card, then target 1 card on the field; return it to the hand. If this card is Special Summoned from the GY: You can discard 1 card, then target 1 card on the field; return it to the hand. You can only use each effect of \"Brionac, the Magical Ice Dragon\" once per turn.",
+    "release_date": "2024-06-21",
+    "available_set": [
+        "BATTLES OF LEGEND: TERMINAL REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2300,
+    "defense": 1400,
+    "monster_type": "Sea Serpent",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

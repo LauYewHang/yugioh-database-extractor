@@ -1,0 +1,24 @@
+{
+    "name": "Chaos Mystic Box",
+    "filename": "Chaos_Mystic_Box",
+    "card_text": "When your opponent activates a card or effect that targets another card(s) you control: Return 1 of your targeted cards to the hand (if face-down, reveal it), and if you do, destroy 1 card on the field, then you can Special Summon 1 monster from your hand that mentions \"Light and Darkness Ritual\" with a different name than the card returned to the hand, ignoring its Summoning conditions. If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 Ritual Monster that mentions \"Light and Darkness Ritual\" from your hand or Deck.",
+    "release_date": "2026-07-03",
+    "available_set": [
+        "CHAOS ORIGINS"
+    ],
+    "related_card": [
+        "Black Chaos",
+        "Black Luster Soldier - Soldier of Light and Darkness",
+        "Black Skull Dragon, the Archfiend of Unity",
+        "Celtic Mystic",
+        "Chaos Magical Hats",
+        "Griffoh",
+        "Light and Darkness Ritual",
+        "Magician of Dark Chaos - Black Chaos",
+        "Mind Shuffle",
+        "Skull Archfiend of Chaos",
+        "Spell Shattering Sword"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

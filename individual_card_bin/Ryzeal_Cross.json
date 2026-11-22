@@ -1,0 +1,26 @@
+{
+    "name": "Ryzeal Cross",
+    "filename": "Ryzeal_Cross",
+    "card_text": "You cannot Xyz Summon monsters with the same name as a card you control. You can target 2 \"Ryzeal\" cards in your GY, except \"Ryzeal Cross\"; place them on the bottom of the Deck in any order, then draw 1 card. You can only use this effect of \"Ryzeal Cross\" once per turn. Once per turn, when a monster effect activated by your opponent resolves, you can detach 1 material from a \"Ryzeal\" Xyz Monster you control, and if you do, negate that effect.",
+    "release_date": "2024-12-06",
+    "available_set": [
+        "LIMITED PACK WORLD CHAMPIONSHIP 2025",
+        "2025 MEGA-PACK TIN",
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Ext Ryzeal",
+        "Ice Ryzeal",
+        "Node Ryzeal",
+        "Palm Ryzeal",
+        "Ryzeal Detonator",
+        "Ryzeal Duo Drive",
+        "Ryzeal Mass Driver",
+        "Ryzeal Plasma Hole",
+        "Ryzeal Plugin",
+        "Star Ryzeal",
+        "Sword Ryzeal"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "War Rock Mammud",
+    "filename": "War_Rock_Mammud",
+    "card_text": "If you control no monsters, or all monsters you control are Warrior monsters, you can Normal Summon this card without Tributing. If your EARTH Warrior monster battles, after damage calculation: You can target 1 Spell/Trap your opponent controls; destroy it, then all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent's turn. You can only use this effect of \"War Rock Mammud\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "War Rock Bashileos",
+        "War Rock Big Blow",
+        "War Rock Dignity",
+        "War Rock Fortia",
+        "War Rock Gactos",
+        "War Rock Generations",
+        "War Rock Medium",
+        "War Rock Meteoragon",
+        "War Rock Mountain",
+        "War Rock Ordeal",
+        "War Rock Orpis",
+        "War Rock Skyler",
+        "War Rock Spirit",
+        "War Rock Wento"
+    ],
+    "attribute": "EARTH",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

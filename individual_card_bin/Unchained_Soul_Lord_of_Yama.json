@@ -1,0 +1,41 @@
+{
+    "name": "Unchained Soul Lord of Yama",
+    "filename": "Unchained_Soul_Lord_of_Yama",
+    "card_text": "2 Fiend monsters\nIf this card is Special Summoned: You can add 1 \"Unchained\" monster from your Deck or GY to your hand. If a card(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 Fiend monster from your hand or GY, then you can destroy 1 card you control. You can only use each effect of \"Unchained Soul Lord of Yama\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS",
+        "MAGNIFICENT MAESTROS"
+    ],
+    "related_card": [
+        "Abominable Chamber of the Unchained",
+        "Abominable Unchained Soul",
+        "Abomination's Prison",
+        "Escape of the Unchained",
+        "Reincarnation of the Unchained",
+        "Unchained Abomination",
+        "Unchained Firelord of Yama",
+        "Unchained Hunger",
+        "Unchained Oni of Shara",
+        "Unchained Oni of Shyma",
+        "Unchained Soul of Abominable Rage",
+        "Unchained Soul of Anguish",
+        "Unchained Soul of Disaster",
+        "Unchained Soul of Rage",
+        "Unchained Soul of Sharvara",
+        "Unchained Soul of Shyama",
+        "Unchained Twins - Aruha",
+        "Unchained Twins - Rakea",
+        "Unchained Twins - Sarama",
+        "Unchained Zealot - Kamra",
+        "Wailing of the Unchained Souls"
+    ],
+    "attribute": "DARK",
+    "attack": 2000,
+    "defense": null,
+    "monster_type": "Fiend",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

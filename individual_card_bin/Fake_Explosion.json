@@ -1,0 +1,14 @@
+{
+    "name": "Fake Explosion",
+    "filename": "Fake_Explosion",
+    "card_text": "Activate only when an opponent's monster declares an attack. Monsters cannot be destroyed by this battle. After damage calculation, Special Summon 1 \"Summon Reactor \u30fbSK\" from your hand or Graveyard.",
+    "release_date": "2009-03-03",
+    "available_set": [
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Summon Reactor \u30fbSK"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

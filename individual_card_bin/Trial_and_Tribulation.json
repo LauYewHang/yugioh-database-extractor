@@ -1,0 +1,12 @@
+{
+    "name": "Trial and Tribulation",
+    "filename": "Trial_and_Tribulation",
+    "card_text": "You can only activate 1 \"Trial and Tribulation\" per turn. During the End Phase of the turn this card was activated, apply this effect, depending on the number of monsters you Tributed from the field and from your hand this turn, except Tokens.\n\u25cf1: Draw 1 card.\n\u25cf2: Add 2 monsters from your Graveyard to your hand.\n\u25cf3+: Destroy up to 3 face-up cards on the field.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

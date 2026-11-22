@@ -1,0 +1,37 @@
+{
+    "name": "Heroic Retribution Sword",
+    "filename": "Heroic_Retribution_Sword",
+    "card_text": "Target 1 face-up \"Heroic\" monster you control; equip this card to that target. All Battle Damage you take from battles involving the equipped monster is also inflicted to your opponent. After damage calculation: Destroy any opponent's monster that battles the equipped monster.",
+    "release_date": "2012-08-28",
+    "available_set": [
+        "RETURN OF THE DUELIST"
+    ],
+    "related_card": [
+        "Heroic Advance",
+        "Heroic Call",
+        "Heroic Challenger - Ambush Soldier",
+        "Heroic Challenger - Assault Halberd",
+        "Heroic Challenger - Clasp Sword",
+        "Heroic Challenger - Double Lance",
+        "Heroic Challenger - Extra Sword",
+        "Heroic Challenger - Knuckle Sword",
+        "Heroic Challenger - Morning Star",
+        "Heroic Challenger - Night Watchman",
+        "Heroic Challenger - Spartan",
+        "Heroic Challenger - Swordshield",
+        "Heroic Challenger - Thousand Blades",
+        "Heroic Challenger - War Hammer",
+        "Heroic Champion - Claivesolish",
+        "Heroic Champion - Excalibur",
+        "Heroic Champion - Gandiva",
+        "Heroic Champion - Jarngreipr",
+        "Heroic Champion - Kusanagi",
+        "Heroic Champion - Magnum Excalibur",
+        "Heroic Chance",
+        "Heroic Envoy",
+        "Heroic Gift",
+        "Number 86: Heroic Champion - Rhongomyniad"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Mirror Ladybug",
+    "filename": "Mirror_Ladybug",
+    "card_text": "If you control at least 1 face-up monster and have no monsters in your Graveyard, you can Special Summon this card from your hand. When this card is Special Summoned this way, this card's Level becomes equal to the total Levels of all other monsters you control. If the Level of this card is higher than 12, destroy this card.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "STARSTRIKE BLAST"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 100,
+    "defense": 100,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

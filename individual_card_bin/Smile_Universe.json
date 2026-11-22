@@ -1,0 +1,15 @@
+{
+    "name": "Smile Universe",
+    "filename": "Smile_Universe",
+    "card_text": "Special Summon as many face-up Pendulum Monsters from your Extra Deck as possible, but they have their effects negated (if any), then your opponent gains LP equal to the total original ATK of those Special Summoned monsters. You cannot Normal or Special Summon other monsters, or attack, during the turn you activate this card.",
+    "release_date": "2017-08-04",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CODE OF THE DUELIST"
+    ],
+    "related_card": [
+        "Performapal Smile Sorcerer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

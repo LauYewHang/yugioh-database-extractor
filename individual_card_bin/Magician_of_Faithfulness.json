@@ -1,0 +1,19 @@
+{
+    "name": "Magician of Faithfulness",
+    "filename": "Magician_of_Faithfulness",
+    "card_text": "FLIP: You can target 1 Spell in your GY; add it to your hand, then you can Special Summon 1 \"Magician of Faith\" or \"Magician of Faithfulness\" from your Deck in face-down Defense Position. You can only use this effect of \"Magician of Faithfulness\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Magician of Faith"
+    ],
+    "attribute": "LIGHT",
+    "attack": 600,
+    "defense": 800,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

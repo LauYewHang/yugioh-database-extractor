@@ -1,0 +1,20 @@
+{
+    "name": "The Forgiving Maiden",
+    "filename": "The_Forgiving_Maiden",
+    "card_text": "Offer this face-up card as a Tribute to return to your hand 1 of your monsters destroyed as a result of battle during this turn.",
+    "release_date": "2003-03-01",
+    "available_set": [
+        "DARK BEGINNING 1",
+        "LABYRINTH OF NIGHTMARE"
+    ],
+    "related_card": [
+        "St. Joan"
+    ],
+    "attribute": "LIGHT",
+    "attack": 850,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

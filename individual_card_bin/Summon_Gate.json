@@ -1,0 +1,13 @@
+{
+    "name": "Summon Gate",
+    "filename": "Summon_Gate",
+    "card_text": "Each player can Special Summon a maximum of 3 monsters from the Extra Deck each turn.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

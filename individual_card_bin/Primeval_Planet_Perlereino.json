@@ -1,0 +1,34 @@
+{
+    "name": "Primeval Planet Perlereino",
+    "filename": "Primeval_Planet_Perlereino",
+    "card_text": "When this card is activated: You can add 1 \"Tearlaments\" monster or 1 \"Visas Starfrost\" from your Deck to your hand. Fusion Monsters and \"Tearlaments\" monsters you control gain 500 ATK. If a \"Tearlaments\" monster(s) you control or in your GY is shuffled into the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of \"Primeval Planet Perlereino\" once per turn. You can only activate 1 \"Primeval Planet Perlereino\" per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Tearlaments Cryme",
+        "Tearlaments Grief",
+        "Tearlaments Havnis",
+        "Tearlaments Heartbeat",
+        "Tearlaments Kaleido-Heart",
+        "Tearlaments Kashtira",
+        "Tearlaments Kitkallos",
+        "Tearlaments Merrli",
+        "Tearlaments Metanoise",
+        "Tearlaments Perlegia",
+        "Tearlaments Reinoheart",
+        "Tearlaments Rulkallos",
+        "Tearlaments Scheiren",
+        "Tearlaments Scream",
+        "Tearlaments Sulliek",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

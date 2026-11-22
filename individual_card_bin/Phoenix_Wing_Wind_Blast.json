@@ -1,0 +1,22 @@
+{
+    "name": "Phoenix Wing Wind Blast",
+    "filename": "Phoenix_Wing_Wind_Blast",
+    "card_text": "Discard 1 card, then target 1 card your opponent controls; place that target on the top of the Deck.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "CHAMPION PACK GAME SIX",
+        "HIDDEN SUMMONERS",
+        "PREMIUM GOLD",
+        "QUARTER CENTURY BONANZA",
+        "FUSION ENFORCERS",
+        "DARK REVELATION Volume 3",
+        "FLAMING ETERNITY",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "DUEL TERMINAL 4",
+        "GOLD SERIES 2009",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

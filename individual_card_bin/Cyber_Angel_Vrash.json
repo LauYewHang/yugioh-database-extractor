@@ -1,0 +1,33 @@
+{
+    "name": "Cyber Angel Vrash",
+    "filename": "Cyber_Angel_Vrash",
+    "card_text": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can destroy as many face-up monsters your opponent controls as possible that were Special Summoned from the Extra Deck, and if you do, inflict 1000 damage to your opponent for each, and if you do that, this card can make a second attack during each Battle Phase this turn. Once per turn, during either player's turn, when a card or effect is activated that would destroy a card on the field: You can shuffle 1 Ritual Monster from your Graveyard into the Deck; negate the activation, and if you do, destroy that card.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE",
+        "DUELIST PACK - DIMENSIONAL GUARDIANS -"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Angel Izana",
+        "Cyber Angel Natasha",
+        "Cyber Eternal",
+        "Cyber Petit Angel",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Incarnated Machine Angel",
+        "Machine Angel Absolute Ritual",
+        "Machine Angel Ritual",
+        "Magnificent Machine Angel",
+        "Merciful Machine Angel",
+        "Prima Light"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3000,
+    "defense": 2000,
+    "monster_type": "Fairy",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

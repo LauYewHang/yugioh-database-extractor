@@ -1,0 +1,20 @@
+{
+    "name": "A-to-Z-Dragon Buster Cannon",
+    "filename": "A_to_Z_Dragon_Buster_Cannon",
+    "card_text": "\"ABC-Dragon Buster\" + \"XYZ-Dragon Cannon\"\nMust be Special Summoned (from your Extra Deck) by banishing cards you control with the above original names, and cannot be Special Summoned by other ways. (You do not use \"Polymerization\".) During either player's turn, when your opponent activates a Spell/Trap Card, or monster effect: You can discard 1 card; negate the activation, and if you do, destroy that card. During either player's turn: You can banish this card, then target 1 each of your banished \"ABC-Dragon Buster\", and \"XYZ-Dragon Cannon\"; Special Summon them.",
+    "release_date": "2016-10-21",
+    "available_set": [
+        "STRUCTURE DECK : SETO KAIBA"
+    ],
+    "related_card": [
+        "ABC-Dragon Buster",
+        "XYZ-Dragon Cannon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 4000,
+    "defense": 4000,
+    "monster_type": "Machine",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Joker's Wild",
+    "filename": "Joker_s_Wild",
+    "card_text": "During the Main or Battle Phase: Send 1 Spell from your Deck to the GY that mentions all of \"Queen's Knight\", \"King's Knight\", and \"Jack's Knight\"; this effect becomes that card's activation effect. During the End Phase, if this card is in your GY: You can target 1 LIGHT Warrior monster in your GY; shuffle it into the Deck, and if you do, add this card to your hand. You can only use each effect of \"Joker's Wild\" once per turn.",
+    "release_date": "2021-07-09",
+    "available_set": [
+        "KING'S COURT",
+        "SPEED DUEL: BATTLE CITY FINALS"
+    ],
+    "related_card": [
+        "Arcana Knight Joker",
+        "Arcana Triumph Joker",
+        "Court of Cards",
+        "Face Card Fusion",
+        "Imperial Bower",
+        "Jack's Knight",
+        "Joker's Knight",
+        "Joker's Straight",
+        "King's Knight",
+        "Queen's Knight",
+        "Royal Straight",
+        "Royal Straight Slasher",
+        "Thunderspeed Summon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Execute Protocols",
+    "filename": "Execute_Protocols",
+    "card_text": "During each Battle Phase: You can banish 1 DARK Link Monster from your GY, then target 1 \"Borrel\" monster you control; until the end of this turn, it gains ATK equal to the ATK of the monster banished to activate this effect. You can only use this effect of \"Execute Protocols\" once per turn.",
+    "release_date": "2019-08-16",
+    "available_set": [
+        "STRUCTURE DECK: ROKKET REVOLT"
+    ],
+    "related_card": [
+        "Borrel Cooling",
+        "Borrel Reboot",
+        "Borrel Regenerator",
+        "Borrel Supplier",
+        "Borrelcode Dragon",
+        "Borrelend Dragon",
+        "Borrelguard Dragon",
+        "Borreload Dragon",
+        "Borreload eXcharge Dragon",
+        "Borreload Fatalflare Dragon",
+        "Borreload Furious Dragon",
+        "Borreload Liberator Dragon",
+        "Borreload Riot Dragon",
+        "Borreload Savage Dragon",
+        "Borrelshroud Dragon",
+        "Borrelsword Dragon",
+        "Breachborrel Dragon",
+        "Miniborrel Dragon",
+        "Quadborrel Dragon",
+        "Triple Borrel Launch",
+        "Trisborrel Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

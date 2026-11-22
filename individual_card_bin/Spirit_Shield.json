@@ -1,0 +1,12 @@
+{
+    "name": "Spirit Shield",
+    "filename": "Spirit_Shield",
+    "card_text": "Once per battle, when an opponent's monster declares an attack: You can banish 1 Fiend or Zombie monster from your GY; negate that attack. Once per turn, when your opponent activates a card or effect that would destroy a card(s): You can banish 1 Fiend or Zombie monster from your GY; negate that activation. Once per turn, during the End Phase, if you do not control a Fiend or Zombie monster: Send this card to the GY.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

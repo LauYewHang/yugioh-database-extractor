@@ -1,0 +1,37 @@
+{
+    "name": "Performage Fire Dancer",
+    "filename": "Performage_Fire_Dancer",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Performage\" monster from your Deck to your hand, except \"Performage Fire Dancer\". You can only use this effect of \"Performage Fire Dancer\" once per turn. If this card on the field is destroyed by battle or card effect: You can target 1 face-up monster on the field; it loses 500 ATK.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [
+        "Bubble Barrier",
+        "Performage Ball Balancer",
+        "Performage Cup Tricker",
+        "Performage Damage Juggler",
+        "Performage Flame Eater",
+        "Performage Hat Tricker",
+        "Performage Mirror Conductor",
+        "Performage Plushfire",
+        "Performage Shadow Maker",
+        "Performage Stilts Launcher",
+        "Performage Trapeze High Magician",
+        "Performage Trapeze Magician",
+        "Performage Trapeze Witch",
+        "Performage Trick Clown",
+        "Performage Water Dancer",
+        "Performage Wind Drainer",
+        "Trick Box"
+    ],
+    "attribute": "FIRE",
+    "attack": 1400,
+    "defense": 1200,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 4098,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4,
+    "pendulum_effect": "Once per turn: You can target 1 \"Performage\" monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent.",
+    "pendulum_scale": 6
+}

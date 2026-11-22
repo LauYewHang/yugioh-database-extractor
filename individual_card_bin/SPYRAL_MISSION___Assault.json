@@ -1,0 +1,28 @@
+{
+    "name": "SPYRAL MISSION - Assault",
+    "filename": "SPYRAL_MISSION___Assault",
+    "card_text": "Destroy this card during your 3rd End Phase after activation. Once per turn, if a \"SPYRAL\" monster you control destroys a monster by battle, or if you destroy a card(s) on the field with a \"SPYRAL\" monster's effect you control: You can draw 1 card. You can banish this card from your Graveyard; Special Summon 1 \"SPYRAL\" monster from your hand.",
+    "release_date": "2016-11-04",
+    "available_set": [
+        "INVASION: VENGEANCE"
+    ],
+    "related_card": [
+        "SPYRAL Double Agent",
+        "SPYRAL Double Helix",
+        "SPYRAL GEAR - Big Red",
+        "SPYRAL GEAR - Drone",
+        "SPYRAL GEAR - Fully Armed",
+        "SPYRAL GEAR - Last Resort",
+        "SPYRAL GEAR - Utility Wire",
+        "SPYRAL Master Plan",
+        "SPYRAL MISSION - Recapture",
+        "SPYRAL MISSION - Rescue",
+        "SPYRAL Quik-Fix",
+        "SPYRAL Resort",
+        "SPYRAL Sleeper",
+        "SPYRAL Super Agent",
+        "SPYRAL Tough"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

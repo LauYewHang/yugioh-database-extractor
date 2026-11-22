@@ -1,0 +1,28 @@
+{
+    "name": "Pressured Planet Wraitsoth",
+    "filename": "Pressured_Planet_Wraitsoth",
+    "card_text": "When this card is activated: You can add 1 \"Kashtira\" monster from your Deck to your hand. Monsters you control gain 100 ATK/DEF for each different Attribute on the field. If a \"Kashtira Shangri-Ira\" you control activates an effect (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of \"Pressured Planet Wraitsoth\" once per turn. You can only activate 1 \"Pressured Planet Wraitsoth\" per turn.",
+    "release_date": "2023-02-10",
+    "available_set": [
+        "PHOTON HYPERNOVA",
+        "25TH ANNIVERSARY RARITY COLLECTION 2"
+    ],
+    "related_card": [
+        "Kashtira Akstra",
+        "Kashtira Arise-Heart",
+        "Kashtira Big Bang",
+        "Kashtira Birth",
+        "Kashtira Fenrir",
+        "Kashtira Ogre",
+        "Kashtira Overlap",
+        "Kashtira Preparations",
+        "Kashtira Riseheart",
+        "Kashtira Shangri-Ira",
+        "Kashtira Unicorn",
+        "Kashtiratheosis",
+        "Scareclaw Kashtira",
+        "Tearlaments Kashtira"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

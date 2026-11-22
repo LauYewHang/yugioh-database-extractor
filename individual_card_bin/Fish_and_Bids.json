@@ -1,0 +1,12 @@
+{
+    "name": "Fish and Bids",
+    "filename": "Fish_and_Bids",
+    "card_text": "At the start of your Main Phase 1: Banish 1 card from your hand; your opponent can banish 2 cards from their hand, if they do not, you apply this effect.\n\u25cfTake 2 Fish monsters from your Deck and either banish both or send both to the GY, also you cannot Special Summon for the rest of this turn, except Fish monsters.",
+    "release_date": "2025-05-02",
+    "available_set": [
+        "ALLIANCE INSIGHT"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

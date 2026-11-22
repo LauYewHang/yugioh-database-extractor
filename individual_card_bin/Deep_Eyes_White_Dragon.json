@@ -1,0 +1,42 @@
+{
+    "name": "Deep-Eyes White Dragon",
+    "filename": "Deep_Eyes_White_Dragon",
+    "card_text": "When a face-up \"Blue-Eyes\" monster(s) you control is destroyed by battle or an opponent's card effect, and you have a Dragon-Type monster in your Graveyard: You can Special Summon this card from your hand, and if you do, inflict 600 damage to your opponent for each Dragon-Type monster with different names in your Graveyard. If this card is Normal or Special Summoned: Target 1 Dragon-Type monster in your Graveyard; this card's ATK becomes equal to that monster's. If this card on the field is destroyed by a card effect: Destroy all monsters your opponent controls.",
+    "release_date": "2016-07-22",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION"
+    ],
+    "related_card": [
+        "Blue-Eyes Abyss Dragon",
+        "Blue-Eyes Alternative Ultimate Dragon",
+        "Blue-Eyes Alternative White Dragon",
+        "Blue-Eyes Chaos Dragon",
+        "Blue-Eyes Chaos MAX Dragon",
+        "Blue-Eyes Jet Dragon",
+        "Blue-Eyes Shining Dragon",
+        "Blue-Eyes Solid Dragon",
+        "Blue-Eyes Spirit Dragon",
+        "Blue-Eyes Toon Dragon",
+        "Blue-Eyes Toon Ultimate Dragon",
+        "Blue-Eyes Twin Burst Dragon",
+        "Blue-Eyes Tyrant Dragon",
+        "Blue-Eyes Ultimate Dragon",
+        "Blue-Eyes Ultimate Spirit Dragon",
+        "Blue-Eyes White Dragon",
+        "Blue-Eyes White Dragon, the White Phantom Beast",
+        "Deep-Eyes White Dragon, the Blue Abyss",
+        "Dragon Spirit of White",
+        "Heart of the Blue-Eyes",
+        "Malefic Blue-Eyes White Dragon",
+        "Neo Blue-Eyes Ultimate Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Shiranui Skillsaga Supremacy",
+    "filename": "Shiranui_Skillsaga_Supremacy",
+    "card_text": "2+ Zombie monsters\nSynchro Monsters you control cannot be destroyed by card effects. FIRE monsters you control cannot be destroyed by battle. During your opponent's turn (Quick Effect): You can target 1 of your banished Zombie Synchro Monsters; Special Summon it to your zone this card points to. You can only use this effect of \"Shiranui Skillsaga Supremacy\" once per turn.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [
+        "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+        "Ghost Meets Girl - A Shiranui's Story",
+        "Shiranui Samurai",
+        "Shiranui Smith",
+        "Shiranui Solitaire",
+        "Shiranui Spectralsword Shade",
+        "Shiranui Spiritmaster",
+        "Shiranui Style Swallow's Slash",
+        "Shiranui Sunsaga",
+        "Shiranui Swordmaster"
+    ],
+    "attribute": "FIRE",
+    "attack": 2300,
+    "defense": null,
+    "monster_type": "Zombie",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 276
+}

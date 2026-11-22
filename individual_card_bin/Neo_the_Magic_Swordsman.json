@@ -1,0 +1,21 @@
+{
+    "name": "Neo the Magic Swordsman",
+    "filename": "Neo_the_Magic_Swordsman",
+    "card_text": "A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "STARTER DECK YUGI RELOADED",
+        "STARTER DECK YUGI Evolution",
+        "SUPER STARTER V FOR VICTORY",
+        "MAGNIFICENT MAESTROS",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1700,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

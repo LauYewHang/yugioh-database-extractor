@@ -1,0 +1,14 @@
+{
+    "name": "Ultimeat Offering",
+    "filename": "Ultimeat_Offering",
+    "card_text": "During your Main Phase: You can pay 1000 LP; you can conduct up to 3 Normal Summons/Sets this turn, not just 1. During your opponent's Battle Phase: You can pay 500 LP; immediately after this effect resolves, Normal Summon 1 monster. You can only use each effect of \"Ultimeat Offering\" once per turn.",
+    "release_date": "2024-02-09",
+    "available_set": [
+        "PHANTOM NIGHTMARE",
+        "The Lost Art Promotion 9",
+        "2025 MEGA-PACK TIN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

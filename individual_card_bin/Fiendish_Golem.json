@@ -1,0 +1,41 @@
+{
+    "name": "Fiendish Golem",
+    "filename": "Fiendish_Golem",
+    "card_text": "Target 1 monster on the field with 2000 or more ATK; banish it (until the End Phase of the next turn), then if you activated this card while you controlled \"Red Dragon Archfiend\" or a Synchro Monster that mentions it, you can Set 1 \"Fiendish Chain\" directly from your Deck or GY.",
+    "release_date": "2023-09-22",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING"
+    ],
+    "related_card": [
+        "Absolute Powerforce",
+        "Champion's Pulse",
+        "Crimson Call",
+        "Crimson Fire",
+        "Crimson Gaia",
+        "Darkness Resonator",
+        "Earthbound Immortal Red Nova",
+        "Fiend Piece Golem",
+        "Fiendish Chain",
+        "King's Resonance",
+        "Majestic Red Dragon",
+        "Power Vice Dragon",
+        "Red Cocoon",
+        "Red Dragon Archfiend",
+        "Red Dragon Archfiend's Chains",
+        "Red Dragon Archfiend/Assault Mode",
+        "Red Dragon Vase",
+        "Red Nova Dragon",
+        "Red Nova Dragon - Burning Soul",
+        "Red Screen",
+        "Red Zone",
+        "Scarlet Security",
+        "Scarlight Red Dragon Archfiend",
+        "Scarred Dragon Archfiend",
+        "Soul Fist",
+        "Soul Resonator",
+        "The Crimson King",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

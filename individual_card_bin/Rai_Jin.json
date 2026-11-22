@@ -1,0 +1,17 @@
+{
+    "name": "Rai-Jin",
+    "filename": "Rai_Jin",
+    "card_text": "All LIGHT monsters you control gain 100 ATK for each LIGHT monster in your Graveyard. During your End Phase, destroy 1 LIGHT monster you control. There can only be 1 face-up \"Rai-Jin\" on the field.",
+    "release_date": "2008-11-18",
+    "available_set": [
+        "CROSSROADS OF CHAOS"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": "?",
+    "defense": 1000,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

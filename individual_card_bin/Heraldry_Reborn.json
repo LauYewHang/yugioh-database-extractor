@@ -1,0 +1,25 @@
+{
+    "name": "Heraldry Reborn",
+    "filename": "Heraldry_Reborn",
+    "card_text": "Target 1 \"Heraldic Beast\" monster in your GY; Special Summon it.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Augmented Heraldry",
+        "Heraldic Beast Aberconway",
+        "Heraldic Beast Amphisbaena",
+        "Heraldic Beast Basilisk",
+        "Heraldic Beast Berners Falcon",
+        "Heraldic Beast Eale",
+        "Heraldic Beast Gryphon",
+        "Heraldic Beast Leo",
+        "Heraldic Beast Stad Whale",
+        "Heraldic Beast Twin-Headed Eagle",
+        "Heraldic Beast Unicorn"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

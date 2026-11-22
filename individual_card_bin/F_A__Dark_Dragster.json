@@ -1,0 +1,39 @@
+{
+    "name": "F.A. Dark Dragster",
+    "filename": "F_A__Dark_Dragster",
+    "card_text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having a Level 7 or higher \"F.A.\" monster on the field, but no \"F.A. Dark Dragster\" in your Monster Zone. Gains ATK equal to its Level x 300. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. Once per turn: You can target 1 card on the field; reduce this card's Level by 3, and if you do, destroy that target.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "F.A. Auto Navigator",
+        "F.A. Circuit Grand Prix",
+        "F.A. City Grand Prix",
+        "F.A. Dawn Dragster",
+        "F.A. Dead Heat",
+        "F.A. Downforce",
+        "F.A. Hang On Mach",
+        "F.A. Motorhome Transport",
+        "F.A. Off-Road Grand Prix",
+        "F.A. Overheat",
+        "F.A. Pit Stop",
+        "F.A. Shining Star GT",
+        "F.A. Sonic Meister",
+        "F.A. Test Run",
+        "F.A. Turbo Charger",
+        "F.A. Whip Crosser",
+        "F.A. Winners",
+        "U.A. Hyper Stadium",
+        "U.A. Locker Room",
+        "U.A. Man of the Match"
+    ],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

@@ -49,7 +49,11 @@
     "attack": 600,
     "defense": 1400,
     "monster_type": "Spellcaster",
-    "monster_card_type": 3074,
+    "monster_card_type": [
+        "Flip",
+        "Tuner",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

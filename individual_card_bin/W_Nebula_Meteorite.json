@@ -1,0 +1,12 @@
+{
+    "name": "W Nebula Meteorite",
+    "filename": "W_Nebula_Meteorite",
+    "card_text": "Change all face-down monsters on the field to face-up Defense Position. During the End Phase this turn, change all face-up LIGHT Reptile-Type monsters you control to face-down Defense Position, then draw 1 card for each. After that, you can Special Summon 1 Level 7 or higher LIGHT Reptile-Type monster from your Deck.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

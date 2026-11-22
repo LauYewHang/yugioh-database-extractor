@@ -40,7 +40,9 @@
     "attack": 0,
     "defense": 2000,
     "monster_type": "Spellcaster",
-    "monster_card_type": 2,
+    "monster_card_type": [
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2
 }

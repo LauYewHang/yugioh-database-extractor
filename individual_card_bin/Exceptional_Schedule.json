@@ -1,0 +1,15 @@
+{
+    "name": "Exceptional Schedule",
+    "filename": "Exceptional_Schedule",
+    "card_text": "Add 1 \"Special Schedule\" or \"Urgent Schedule\" from your Deck to your hand, then you can Special Summon 1 \"Diagram Token\" (Machine/EARTH/Level 10/ATK 3000/DEF 3000) to your opponent's field. You can banish this card from your GY, then target 1 Level 10 Machine monster in your GY or banishment; send 1 card you control to the GY, and if you do, Special Summon that monster. You can only use each effect of \"Exceptional Schedule\" once per turn.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Special Schedule",
+        "Urgent Schedule"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

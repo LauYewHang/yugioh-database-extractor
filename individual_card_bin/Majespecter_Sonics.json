@@ -1,0 +1,32 @@
+{
+    "name": "Majespecter Sonics",
+    "filename": "Majespecter_Sonics",
+    "card_text": "Target 1 \"Majespecter\" monster you control; until the end of this turn, its ATK and DEF become double its current ATK and DEF, also any battle damage it inflicts to your opponent is halved.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Majespecter Cat - Nekomata",
+        "Majespecter Crow - Yata",
+        "Majespecter Cyclone",
+        "Majespecter Draco - Ryu",
+        "Majespecter Fox - Kyubi",
+        "Majespecter Gust",
+        "Majespecter Orthrus - Nue",
+        "Majespecter Porcupine - Yamarashi",
+        "Majespecter Raccoon - Bunbuku",
+        "Majespecter Storm",
+        "Majespecter Supercell",
+        "Majespecter Tempest",
+        "Majespecter Toad - Ogama",
+        "Majespecter Tornado",
+        "Majespecter Unicorn - Kirin",
+        "Majespecter Wind",
+        "Majesty Pegasus, the Dracoslayer",
+        "Majesty's Pegasus"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

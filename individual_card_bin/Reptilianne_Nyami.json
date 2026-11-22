@@ -1,0 +1,25 @@
+{
+    "name": "Reptilianne Nyami",
+    "filename": "Reptilianne_Nyami",
+    "card_text": "During the Main Phase, if you have a Reptile monster in your GY (Quick Effect): You can send this card from your hand to the GY, then target 1 face-up monster your opponent controls; change its ATK to 0. If your opponent controls a monster with 0 ATK: You can Special Summon this card from your GY. You can only use 1 \"Reptilianne Nyami\" effect per turn, and only once that turn.",
+    "release_date": "2021-11-05",
+    "available_set": [
+        "BURST OF DESTINY"
+    ],
+    "related_card": [
+        "Reptilianne Coatl",
+        "Reptilianne Gardna",
+        "Reptilianne Hydra",
+        "Reptilianne Poison",
+        "Reptilianne Ramifications",
+        "Reptilianne Spawn",
+        "Serpent Suppression"
+    ],
+    "attribute": "DARK",
+    "attack": 200,
+    "defense": 0,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

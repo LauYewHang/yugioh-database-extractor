@@ -1,0 +1,37 @@
+{
+    "name": "Armed Dragon Thunderbolt",
+    "filename": "Armed_Dragon_Thunderbolt",
+    "card_text": "Target 1 \"Armed Dragon\" monster you control; it gains 1000 ATK for each \"Armed Dragon\" monster in your GY with an equal or lower Level than it and with different names from each other, also for the rest of this turn, your opponent takes no battle damage from its attacks. You can banish this card from your GY, then target 1 \"Armed Dragon\" Spell in your GY; add it to your hand. You can only use 1 \"Armed Dragon Thunderbolt\" effect per turn, and only once that turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Armed Dragon Blitz",
+        "Armed Dragon Catapult Cannon",
+        "Armed Dragon Flash",
+        "Armed Dragon Lightning",
+        "Armed Dragon LV10",
+        "Armed Dragon LV10 White",
+        "Armed Dragon LV3",
+        "Armed Dragon LV5",
+        "Armed Dragon LV7",
+        "Armed Dragon Thunder LV10",
+        "Armed Dragon Thunder LV3",
+        "Armed Dragon Thunder LV5",
+        "Armed Dragon Thunder LV7",
+        "Armed Dragon, the Armored Dragon",
+        "Armed Neos",
+        "Dark Armed Dragon",
+        "Drill Armed Dragon",
+        "Fist Armed Dragon",
+        "Knight Armed Dragon, the Armored Knight Dragon",
+        "Metaphys Armed Dragon",
+        "Ojama Pajama",
+        "Ojamatch",
+        "Pile Armed Dragon"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

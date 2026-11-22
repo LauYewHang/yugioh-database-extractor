@@ -1,0 +1,39 @@
+{
+    "name": "Spenta, the Magistus Sealer",
+    "filename": "Spenta__the_Magistus_Sealer",
+    "card_text": "You can discard this card, then activate 1 of these effects;\n\u25cfAdd 1 \"Magistus\" monster from your Deck to your hand, except \"Spenta, the Magistus Sealer\".\n\u25cfHalve the ATK of 1 monster your opponent controls until the end of this turn.\nYou can banish this card from your GY, then target 1 face-up monster you control; equip 1 \"Magistus\" monster from your Extra Deck or GY to it as an Equip Spell. You can only use each effect of \"Spenta, the Magistus Sealer\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Aiwass, the Magistus Spell Spirit",
+        "Artemis, the Magistus Moon Maiden",
+        "Crowley, the Gifted Magistus",
+        "Crowley, the Magistus of Grimoires",
+        "Endymion, the Crescent Magistus",
+        "Endymion, the Magistus of Mastery",
+        "Invoked Magistus Omega",
+        "Magia Magic - Thunder of Judgment",
+        "Magistus Chorozo",
+        "Magistus Invocation",
+        "Magistus Theurgy",
+        "Magistus Vritra",
+        "Ninaruru, the Magistus Glass Goddess",
+        "Rilliona, the Magistus of Verre",
+        "Rilliona, the Wondrous Magistus Witch Wardrobe",
+        "Trismagistus",
+        "Vahram, the Magistus Divinity Dragon",
+        "Verre Magic - Lacrima of Light",
+        "Zoroa, the Magistus Conflagrant Calamity",
+        "Zoroa, the Magistus of Flame",
+        "Zoroa, the Magistus Verethragna"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

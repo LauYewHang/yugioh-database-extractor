@@ -1,0 +1,27 @@
+{
+    "name": "Libromancer Origin Story",
+    "filename": "Libromancer_Origin_Story",
+    "card_text": "When this card is activated: You can Set 1 \"Libromancer\" Spell/Trap directly from your Deck, except \"Libromancer Origin Story\". \"Libromancer\" Ritual Monsters you control gain ATK equal to their own Level x 100. If a Ritual Monster is Ritual Summoned to your field (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it. You can only use this effect of \"Libromancer Origin Story\" once per turn. You can only activate 1 \"Libromancer Origin Story\" per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [
+        "Libromancer Agent",
+        "Libromancer Bonded",
+        "Libromancer Displaced",
+        "Libromancer Doombroker",
+        "Libromancer Fire",
+        "Libromancer Fireburst",
+        "Libromancer Firestarter",
+        "Libromancer First Appearance",
+        "Libromancer Geek Boy",
+        "Libromancer Intervention",
+        "Libromancer Magigirl",
+        "Libromancer Mystigirl",
+        "Libromancer Prevented",
+        "Libromancer Realized"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

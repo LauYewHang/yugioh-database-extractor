@@ -1,0 +1,17 @@
+{
+    "name": "Aurora Paragon",
+    "filename": "Aurora_Paragon",
+    "card_text": "Neither player can Special Summon monsters. When another monster is Normal Summoned to either player's side of the field, destroy this card.",
+    "release_date": "2011-05-10",
+    "available_set": [
+        "EXTREME VICTORY"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

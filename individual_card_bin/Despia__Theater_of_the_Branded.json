@@ -1,0 +1,35 @@
+{
+    "name": "Despia, Theater of the Branded",
+    "filename": "Despia__Theater_of_the_Branded",
+    "card_text": "During your Main Phase: You can Fusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, using monsters from your hand or field as material. If a face-up non-Fusion Fairy monster you control leaves the field by an opponent's card effect, or is destroyed by battle: You can target 1 Level 8 or higher Fusion Monster in your GY; Special Summon it. You can only use each effect of \"Despia, Theater of the Branded\" once per turn.",
+    "release_date": "2021-08-13",
+    "available_set": [
+        "DAWN OF MAJESTY",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [
+        "Ad Libitum of Despia",
+        "Albion the Branded Dragon",
+        "Albion the Shrouded Dragon",
+        "Aluber the Jester of Despia",
+        "Branded Banishment",
+        "Branded Beast",
+        "Branded in Red",
+        "Branded Opening",
+        "Branded Retribution",
+        "Branded Sword",
+        "Bystial Saronir",
+        "Despian Comedy",
+        "Despian Proskenion",
+        "Despian Quaeritis",
+        "Despian Tragedy",
+        "Granguignol the Dusk Dragon",
+        "Guiding Quem, the Virtuous",
+        "Masquerade the Blazing Dragon",
+        "Springans Kitt",
+        "The Bystial Lubellion"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

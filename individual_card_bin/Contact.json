@@ -1,0 +1,20 @@
+{
+    "name": "Contact",
+    "filename": "Contact",
+    "card_text": "Send all \"Chrysalis\" monsters you control to the Graveyard, and Special Summon 1 monster from your hand or Deck that is written in the card text of those cards.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "DUELIST PACK - JADEN YUKI 2 -",
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [
+        "Chrysalis Chicky",
+        "Chrysalis Dolphin",
+        "Chrysalis Larva",
+        "Chrysalis Mole",
+        "Chrysalis Pantail",
+        "Chrysalis Pinny"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

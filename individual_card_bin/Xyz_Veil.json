@@ -1,0 +1,22 @@
+{
+    "name": "Xyz Veil",
+    "filename": "Xyz_Veil",
+    "card_text": "Face-up Xyz Monsters with Xyz Material cannot be targeted by card effects.",
+    "release_date": "2011-08-06",
+    "available_set": [
+        "GENERATION FORCE",
+        "GENERATION FORCE Sneak Peek"
+    ],
+    "related_card": [
+        "Astraltopia",
+        "Endless Bond",
+        "Full Armored Dark Knight Lancer",
+        "Gagagaga Girl",
+        "Generation Force",
+        "Hydrojet Shark",
+        "Xyz Force",
+        "Xyz Lay"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

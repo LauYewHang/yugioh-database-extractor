@@ -1,0 +1,32 @@
+{
+    "name": "Sunavalon Dryatrentiay",
+    "filename": "Sunavalon_Dryatrentiay",
+    "card_text": "2+ Link Monsters\nIf this card is Link Summoned: You can add 1 \"Sunavalon\" Spell/Trap from your Deck to your hand. This card cannot be destroyed by your opponent's card effects, and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Once per turn: You can Tribute 1 Link Monster this card points to; destroy any number of cards your opponent controls, up to that monster's Link Rating.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Sunavalon Bloom",
+        "Sunavalon Daphne",
+        "Sunavalon Dryades",
+        "Sunavalon Dryanome",
+        "Sunavalon Dryas",
+        "Sunavalon Melias",
+        "Sunseed Shadow",
+        "Sunseed Twin",
+        "Sunvine Gardna",
+        "Sunvine Healer",
+        "Sunvine Maiden",
+        "Sunvine Shrine",
+        "Sunvine Sowing",
+        "Sunvine Thrasher"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": null,
+    "monster_type": "Plant",
+    "monster_card_type": 8194,
+    "link_rating": 4,
+    "link_arrow": 270
+}

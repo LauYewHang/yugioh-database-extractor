@@ -1,0 +1,38 @@
+{
+    "name": "Altergeist Emulatelf",
+    "filename": "Altergeist_Emulatelf",
+    "card_text": "Special Summon this card as an Effect Monster (Spellcaster/LIGHT/Level 4/ATK 1400/DEF 1800). (This card is also still a Trap.) If Summoned this way, while it is in the Monster Zone, other \"Altergeist\" Traps you control cannot be destroyed by card effects, also neither player can target them with card effects.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Altergeist Adminia",
+        "Altergeist Camouflage",
+        "Altergeist Dragvirion",
+        "Altergeist Failover",
+        "Altergeist Fifinellag",
+        "Altergeist Fijialert",
+        "Altergeist Haunted Rock",
+        "Altergeist Hexstia",
+        "Altergeist Kidolga",
+        "Altergeist Kunquery",
+        "Altergeist Malwisp",
+        "Altergeist Manifestation",
+        "Altergeist Marionetter",
+        "Altergeist Meluseek",
+        "Altergeist Memorygant",
+        "Altergeist Multifaker",
+        "Altergeist Peritrator",
+        "Altergeist Pixiel",
+        "Altergeist Pookuery",
+        "Altergeist Primebanshee",
+        "Altergeist Protocol",
+        "Altergeist Revitalization",
+        "Altergeist Silquitous",
+        "Personal Spoofing"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

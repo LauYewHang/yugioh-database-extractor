@@ -1,0 +1,18 @@
+{
+    "name": "Security Dragon",
+    "filename": "Security_Dragon",
+    "card_text": "2 monsters\nOnce while face-up on the field, if this card is co-linked: You can target 1 monster your opponent controls; return it to the hand. You can only use this effect of \"Security Dragon\" once per turn.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER",
+        "BATTLES OF LEGEND - CHAPTER 1"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1100,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 260
+}

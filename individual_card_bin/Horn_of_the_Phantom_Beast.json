@@ -1,0 +1,23 @@
+{
+    "name": "Horn of the Phantom Beast",
+    "filename": "Horn_of_the_Phantom_Beast",
+    "card_text": "Target 1 Beast or Beast-Warrior monster you control; equip this card to that target. It gains 800 ATK. If the equipped monster destroys your opponent's monster by battle and sends it to the GY: Draw 1 card.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DARK SAVIORS",
+        "QUARTER CENTURY BONANZA",
+        "Speed Duel: Battle City Box",
+        "DUELIST LEAGUE 15",
+        "TURBO PACK BOOSTER SEVEN",
+        "DUELIST REVOLUTION",
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "OTS TOURNAMENT PACK 4"
+    ],
+    "related_card": [
+        "Phantom Beast Cross-Wing",
+        "Phantom Beast Rock-Lizard",
+        "Phantom Beast Thunder-Pegasus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

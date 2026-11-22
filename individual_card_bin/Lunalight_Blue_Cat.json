@@ -1,0 +1,42 @@
+{
+    "name": "Lunalight Blue Cat",
+    "filename": "Lunalight_Blue_Cat",
+    "card_text": "If this card is Special Summoned: You can target 1 \"Lunalight\" monster you control, except \"Lunalight Blue Cat\"; its ATK becomes double its original ATK until the end of this turn. You can only use this effect of \"Lunalight Blue Cat\" once per turn. If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Lunalight\" monster from your Deck.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "SHINING VICTORIES"
+    ],
+    "related_card": [
+        "Luna Light Perfume",
+        "Lunalight Black Sheep",
+        "Lunalight Cat Dancer",
+        "Lunalight Crimson Fox",
+        "Lunalight Emerald Bird",
+        "Lunalight Fusion",
+        "Lunalight Gold Leo",
+        "Lunalight Kaleido Chick",
+        "Lunalight Leo Dancer",
+        "Lunalight Liger Dancer",
+        "Lunalight Masquerade",
+        "Lunalight Panther Dancer",
+        "Lunalight Perfume Dancer",
+        "Lunalight Purple Butterfly",
+        "Lunalight Reincarnation Dance",
+        "Lunalight Sabre Dancer",
+        "Lunalight Scarlet Tiger",
+        "Lunalight Serenade Dance",
+        "Lunalight Silver Hound",
+        "Lunalight Tiger",
+        "Lunalight White Rabbit",
+        "Lunalight Wolf",
+        "Lunalight Yellow Marten"
+    ],
+    "attribute": "DARK",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

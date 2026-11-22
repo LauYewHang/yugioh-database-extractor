@@ -1,0 +1,31 @@
+{
+    "name": "Pot of Greed",
+    "filename": "Pot_of_Greed",
+    "card_text": "Draw 2 cards.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "YUGI'S LEGENDARY DECKS",
+        "STARTER DECK YUGI Evolution",
+        "STRUCTURE DECK ZOMBIE MADNESS",
+        "STRUCTURE DECK DRAGON'S ROAR",
+        "DARK BEGINNING 1",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "BATTLE PACK EPIC DAWN",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "STRUCTURE DECK FURY FROM THE DEEP",
+        "TOURNAMENT PACK 3RD SEASON",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "DUELIST PACK - KAIBA -",
+        "2025 MEGA-PACK TIN",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Avatar of The Pot",
+        "Jar Robber",
+        "Spirit of the Pot of Greed"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

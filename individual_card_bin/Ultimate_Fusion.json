@@ -1,0 +1,40 @@
+{
+    "name": "Ultimate Fusion",
+    "filename": "Ultimate_Fusion",
+    "card_text": "During the Main Phase: Fusion Summon 1 Fusion Monster from your Extra Deck that mentions \"Blue-Eyes White Dragon\" or \"Blue-Eyes Ultimate Dragon\" as material, by shuffling the materials mentioned on it from your hand, field, and/or GY into the Deck, then, you can destroy face-up cards your opponent controls, up to the number of \"Blue-Eyes White Dragon\" and \"Blue-Eyes Ultimate Dragon\" used from the field as material. You can only activate 1 \"Ultimate Fusion\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "STRUCTURE DECK: BLUE-EYES WHITE DESTINY",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Bingo Machine, Go!!!",
+        "Blue-Eyes Alternative White Dragon",
+        "Blue-Eyes Ultimate Dragon",
+        "Blue-Eyes White Dragon",
+        "Chronicle Sorceress",
+        "Cyberdark Inferno",
+        "Dictator of D.",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

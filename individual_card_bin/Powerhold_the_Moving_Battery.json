@@ -1,0 +1,28 @@
+{
+    "name": "Powerhold the Moving Battery",
+    "filename": "Powerhold_the_Moving_Battery",
+    "card_text": "Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK 0/DEF 2000), then, you can equip 1 Level 4 Machine \"Gadget\" monster from your hand or Deck to this card. (This card is also still a Trap.) If Summoned this way, this card gains ATK equal to double the ATK of the monster equipped to it by this effect.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [
+        "Ancient Gear Gadget",
+        "Cyberse Gadget",
+        "Gadget Arms",
+        "Gadget Box",
+        "Gadget Driver",
+        "Gadget Gamer",
+        "Gadget Hauler",
+        "Gadget Soldier",
+        "Gadget Trio",
+        "Gold Gadget",
+        "Green Gadget",
+        "Platinum Gadget",
+        "Red Gadget",
+        "Silver Gadget",
+        "Yellow Gadget"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mistaken Arrest",
+    "filename": "Mistaken_Arrest",
+    "card_text": "Until the end of your next turn after this card resolves, neither player can add cards from their Deck to their hand except by drawing them.",
+    "release_date": "2015-08-07",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "Gold Series: Maximum Gold",
+        "PREMIUM GOLD: INFINITE GOLD",
+        "OTS Tournament Pack 29",
+        "CLASH OF REBELLIONS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

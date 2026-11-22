@@ -1,0 +1,14 @@
+{
+    "name": "Assault on GHQ",
+    "filename": "Assault_on_GHQ",
+    "card_text": "Target 1 monster you control; destroy it, then send 2 cards from the top of your opponent's Deck to the GY.",
+    "release_date": "2005-03-01",
+    "available_set": [
+        "SPEED DUEL: TRIALS OF THE KINGDOM",
+        "FLAMING ETERNITY",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

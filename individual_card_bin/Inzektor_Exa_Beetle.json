@@ -1,0 +1,41 @@
+{
+    "name": "Inzektor Exa-Beetle",
+    "filename": "Inzektor_Exa_Beetle",
+    "card_text": "2 Level 6 monsters\nWhen this card is Xyz Summoned: You can target 1 monster in either GY; equip that target to this card. This card gains ATK/DEF equal to half the original ATK/DEF of the monster equipped by this effect. Once per turn: You can detach 1 material from this card, then target 1 face-up card on each field; send those targets to the GY.",
+    "release_date": "2012-01-24",
+    "available_set": [
+        "BROTHERS OF LEGEND",
+        "THE GRAND CREATORS",
+        "ORDER OF CHAOS"
+    ],
+    "related_card": [
+        "Armor Blast",
+        "Final Inzektion",
+        "Inzektor Ant",
+        "Inzektor Axe - Zektahawk",
+        "Inzektor Centipede",
+        "Inzektor Crossbow - Zektarrow",
+        "Inzektor Dragonfly",
+        "Inzektor Earwig",
+        "Inzektor Firefly",
+        "Inzektor Gauntlet",
+        "Inzektor Giga-Cricket",
+        "Inzektor Giga-Mantis",
+        "Inzektor Giga-Weevil",
+        "Inzektor Hopper",
+        "Inzektor Hornet",
+        "Inzektor Ladybug",
+        "Inzektor Orb",
+        "Inzektor Sword - Zektkaliber",
+        "Variable Form",
+        "Zekt Conversion",
+        "Zektrike Kou-ou"
+    ],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1000,
+    "monster_type": "Insect",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 6
+}

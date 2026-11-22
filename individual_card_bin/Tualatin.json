@@ -1,0 +1,19 @@
+{
+    "name": "Tualatin",
+    "filename": "Tualatin",
+    "card_text": "If it is your opponent's Battle Phase, and all monsters you controlled at the start of this Battle Phase (min. 2) have been destroyed by battle and sent to the Graveyard: You can Special Summon this card from your hand. If Summoned this way: Choose an Attribute and destroy all face-up monsters with that Attribute. Your opponent cannot Normal or Special Summon monsters with that Attribute.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "DUEL TERMINAL 5A",
+        "YU-GI-OH! ADVENT CALENDAR 2018",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2800,
+    "defense": 2500,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

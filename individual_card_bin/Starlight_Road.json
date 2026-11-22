@@ -1,0 +1,32 @@
+{
+    "name": "Starlight Road",
+    "filename": "Starlight_Road",
+    "card_text": "When a card or effect is activated that would destroy 2 or more cards you control: Negate the effect, and if you do, destroy that card, then you can Special Summon 1 \"Stardust Dragon\" from your Extra Deck.",
+    "release_date": "2010-03-09",
+    "available_set": [
+        "TOON CHAOS",
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "QUARTER CENTURY BONANZA",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "GOLD SERIES HAUNTED MINE",
+        "DUELIST PACK COLLECTION TIN 2010",
+        "DUELIST LEAGUE 17",
+        "MAXIMUM GOLD: EL DORADO",
+        "2025 MEGA-PACK TIN",
+        "BROTHERS OF LEGEND",
+        "DUELIST PACK - YUSEI 3 -"
+    ],
+    "related_card": [
+        "Arrive in Light",
+        "Junk Signal",
+        "Majestic Absorption",
+        "Majestic Mirage",
+        "Shooting Majestic Star Dragon",
+        "Stardust Dragon",
+        "Stardust Illumination",
+        "Stardust Synchron",
+        "Synchro Fellowship"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

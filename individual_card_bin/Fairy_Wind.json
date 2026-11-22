@@ -1,0 +1,15 @@
+{
+    "name": "Fairy Wind",
+    "filename": "Fairy_Wind",
+    "card_text": "Destroy as many face-up Spells/Traps on the field as possible, except this card, and if you do, each player takes damage equal to the total number of cards destroyed by this effect x 300.",
+    "release_date": "2009-09-01",
+    "available_set": [
+        "PREMIUM GOLD: INFINITE GOLD",
+        "ANCIENT PROPHECY",
+        "Speed Duel: Battle City Box",
+        "ASTRAL PACK SEVEN"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

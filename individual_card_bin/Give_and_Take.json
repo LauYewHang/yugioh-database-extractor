@@ -1,0 +1,12 @@
+{
+    "name": "Give and Take",
+    "filename": "Give_and_Take",
+    "card_text": "Special Summon 1 monster from your Graveyard to your opponent's side of the field in Defense Position, and increase the Level of 1 monster you control by the Level of the Special Summoned monster, until the End Phase.",
+    "release_date": "2009-02-24",
+    "available_set": [
+        "DUELIST PACK - YUSEI -"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

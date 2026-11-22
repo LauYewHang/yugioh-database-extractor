@@ -1,0 +1,29 @@
+{
+    "name": "Dharc the Dark Charmer",
+    "filename": "Dharc_the_Dark_Charmer",
+    "card_text": "FLIP: Take control of 1 DARK monster your opponent controls, while this card remains face-up on the field.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [
+        "Aussa the Earth Channeler",
+        "Awakening of the Possessed",
+        "Charmers of the Grand Circle",
+        "Eria the Water Channeler",
+        "Familiar-Possessed - Dharc",
+        "Hiita the Fire Channeler",
+        "Possessed Destiny",
+        "Spellbook of the Grand Circle",
+        "Spirit Charmers",
+        "Unpossessed",
+        "Wynn the Wind Channeler"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": 1500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2050,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

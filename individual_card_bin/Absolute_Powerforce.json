@@ -1,0 +1,24 @@
+{
+    "name": "Absolute Powerforce",
+    "filename": "Absolute_Powerforce",
+    "card_text": "Target 1 \"Red Dragon Archfiend\" you control; if that monster you control battles an opponent's monster this turn, apply these effects until the end of the Damage Step.\n\u25cfIt gains 1000 ATK.\n\u25cfYour opponent cannot activate cards or effects.\n\u25cfIf it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\u25cfAny battle damage your opponent takes from that battle is doubled.",
+    "release_date": "2023-09-22",
+    "available_set": [
+        "STRUCTURE DECK: THE CRIMSON KING"
+    ],
+    "related_card": [
+        "Crimson Call",
+        "Crimson Gaia",
+        "Fiend Piece Golem",
+        "Fiendish Golem",
+        "Red Dragon Archfiend",
+        "Red Zone",
+        "Scarlight Red Dragon Archfiend",
+        "Scarred Dragon Archfiend",
+        "Soul Resonator",
+        "The Crimson King",
+        "Vision Resonator"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

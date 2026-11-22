@@ -1,0 +1,13 @@
+{
+    "name": "Raregold Armor",
+    "filename": "Raregold_Armor",
+    "card_text": "As long as you control the monster equipped with this card, your opponent cannot attack other monsters other than the equipped monster.",
+    "release_date": "2003-10-10",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "MAGICIAN'S FORCE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

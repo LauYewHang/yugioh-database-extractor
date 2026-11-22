@@ -1,0 +1,33 @@
+{
+    "name": "Raigeki",
+    "filename": "Raigeki",
+    "card_text": "Destroy all monsters your opponent controls.",
+    "release_date": "2002-03-08",
+    "available_set": [
+        "STRUCTURE DECK: BEWARE OF TRAPTRIX",
+        "LEGENDARY COLLECTION KAIBA MEGA PACK",
+        "2019 GOLD SARCOPHAGUS TIN",
+        "LEGEND OF BLUE EYES WHITE DRAGON",
+        "DARK LEGENDS",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "MAXIMUM GOLD: EL DORADO",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "LEGEND OF BLUE EYES WHITE DRAGON (LC01 25th Anniversary Edition)",
+        "2025 MEGA-PACK TIN",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "STRUCTURE DECK: SPIRIT CHARMERS",
+        "RETRO PACK",
+        "BATTLE PACK EPIC DAWN",
+        "LEGENDARY MODERN DECKS 2026",
+        "OTS TOURNAMENT PACK 2",
+        "QUARTER CENTURY BONANZA",
+        "DARK BEGINNING 1",
+        "RARITY COLLECTION 5",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Anti Raigeki"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

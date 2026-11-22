@@ -1,0 +1,41 @@
+{
+    "name": "The Sanctum of Parshath",
+    "filename": "The_Sanctum_of_Parshath",
+    "card_text": "This card's name becomes \"The Sanctuary in the Sky\" while on the field or in the GY. Fairy monsters on the field gain 300 ATK/DEF. Set Spells/Traps cannot be destroyed by card effects, also neither player can target them with card effects. Once per turn: You can target a total of 3 Fairy monsters and/or Counter Traps with different names in your GY; place them on top of your Deck in any order.",
+    "release_date": "2018-01-19",
+    "available_set": [
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "STRUCTURE DECK WAVE OF LIGHT"
+    ],
+    "related_card": [
+        "Archlord Zerato",
+        "Celestial Knightlord Parshath",
+        "Divine Punishment",
+        "Fallen Sanctuary",
+        "Light of Judgment",
+        "Majesty Hyperion",
+        "Master Hyperion",
+        "Masterflare Hyperion",
+        "Meltiel, Sage of the Sky",
+        "Minerva, Scholar of the Sky",
+        "Neo-Parshath, the Sky Paladin",
+        "Nova Summoner",
+        "Protector of The Agents - Moon",
+        "Radiant Jeral",
+        "Rebirth of Parshath",
+        "Sacred Arch-Airknight Parshath",
+        "The Agent of Entropy - Uranus",
+        "The Agent of Force - Mars",
+        "The Agent of Judgment - Saturn",
+        "The Agent of Life - Neptune",
+        "The Agent of Miracles - Jupiter",
+        "The Agent of Mystery - Earth",
+        "The Chorus in the Sky",
+        "The Executor of the Underworld - Pluto",
+        "The Sacred Waters in the Sky",
+        "The Sanctuary in the Sky",
+        "Zeradias, Herald of Heaven"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

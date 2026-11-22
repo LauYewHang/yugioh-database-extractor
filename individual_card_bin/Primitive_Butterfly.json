@@ -1,0 +1,18 @@
+{
+    "name": "Primitive Butterfly",
+    "filename": "Primitive_Butterfly",
+    "card_text": "If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can increase the Levels of all Insect-Type monsters you currently control by 1.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "CROSSED SOULS"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 1200,
+    "defense": 900,
+    "monster_type": "Insect",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

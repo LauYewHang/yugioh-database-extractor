@@ -1,0 +1,12 @@
+{
+    "name": "Wonder Clover",
+    "filename": "Wonder_Clover",
+    "card_text": "Select 1 face-up monster you control and send 1 Level 4 Plant-Type monster from your hand to the Graveyard. During this turn, the selected monster can attack twice, but other monsters you control cannot declare an attack.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

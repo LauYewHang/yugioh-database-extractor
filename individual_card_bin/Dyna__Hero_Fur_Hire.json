@@ -1,0 +1,41 @@
+{
+    "name": "Dyna, Hero Fur Hire",
+    "filename": "Dyna__Hero_Fur_Hire",
+    "card_text": "If this card is Special Summoned: You can banish cards from your opponent's GY, up to the number of monsters \"Fur Hire\" you control with different names. You can only use this effect of \"Dyna, Hero Fur Hire\" once per turn. Monsters your opponent controls cannot target monsters \"Fur Hire\" you control for attacks, except this one.",
+    "release_date": "2018-05-25",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "DARK SAVIORS"
+    ],
+    "related_card": [
+        "Beat, Bladesman Fur Hire",
+        "Bravo, Fighter Fur Hire",
+        "Donner, Dagger Fur Hire",
+        "Donpa, Marksman Fur Hire",
+        "Fandora, the Flying Fighting Furtress",
+        "Fandora, the Flying Furtress",
+        "Filo, Messenger Fur Hire",
+        "Folgo, Justice Fur Hire",
+        "Furtive Techniques Fur Hire, Fur All Your Ultimate Moves",
+        "Helmer, Helmsman Fur Hire",
+        "Keel, Shipwright Fur Hire",
+        "Mayhem Fur Hire",
+        "Rafale, Champion Fur Hire",
+        "Recon, Scout Fur Hire",
+        "Rex, Freight Fur Hire",
+        "Rex, Ride Fur Hire",
+        "Rookie Fur Hire",
+        "Sagitta, Maverick Fur Hire",
+        "Seal, Strategist Fur Hire",
+        "Training Fur Hire, Fur All Your Training Needs",
+        "Whirlwind Fur Hire",
+        "Wiz, Sage Fur Hire"
+    ],
+    "attribute": "EARTH",
+    "attack": 2500,
+    "defense": 1400,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

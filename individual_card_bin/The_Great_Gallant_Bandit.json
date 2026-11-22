@@ -1,0 +1,17 @@
+{
+    "name": "The Great Gallant Bandit",
+    "filename": "The_Great_Gallant_Bandit",
+    "card_text": "You can Tribute Summon this card face-up by Tributing monsters in your hand and/or your opponent's field, while you control no monsters. You can only use each of the following effects of \"The Great Gallant Bandit\" once per turn. When your opponent activates a card effect in the hand, GY, or banishment, and you control this Normal Summoned/Set card (Quick Effect): You can negate that effect, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can reveal your entire hand; change all monsters your opponent controls to Defense Position.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [],
+    "attribute": "WIND",
+    "attack": 2500,
+    "defense": 2000,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

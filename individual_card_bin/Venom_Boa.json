@@ -1,0 +1,25 @@
+{
+    "name": "Venom Boa",
+    "filename": "Venom_Boa",
+    "card_text": "Once per turn, you can place 2 Venom Counters on 1 monster your opponent controls. If you activate this effect, this card cannot attack during this turn.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [
+        "Ambush Fangs",
+        "Snake Deity's Command",
+        "Venom Burn",
+        "Venom Serpent",
+        "Venom Shot",
+        "Venom Snake",
+        "Venom Swamp"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 1200,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

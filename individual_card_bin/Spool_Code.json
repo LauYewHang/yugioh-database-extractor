@@ -1,0 +1,12 @@
+{
+    "name": "Spool Code",
+    "filename": "Spool_Code",
+    "card_text": "When an opponent's monster declares a direct attack, while you have 3 or more Cyberse monsters in your GY: Negate the attack, then, you can Special Summon up to 3 \"Spool Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon.",
+    "release_date": "2019-08-23",
+    "available_set": [
+        "FISTS OF THE GADGETS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

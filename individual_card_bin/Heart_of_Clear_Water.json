@@ -1,0 +1,13 @@
+{
+    "name": "Heart of Clear Water",
+    "filename": "Heart_of_Clear_Water",
+    "card_text": "If the equipped monster's ATK is 1300 or higher, this card is destroyed. The monster equipped with this card is not destroyed as a result of battle or by the effect of a card that targets the monster. (Damage calculation is applied normally.)",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

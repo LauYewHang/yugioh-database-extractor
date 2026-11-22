@@ -1,0 +1,28 @@
+{
+    "name": "Light Wing Shield",
+    "filename": "Light_Wing_Shield",
+    "card_text": "When a monster's attack is negated: Activate 1 of these effects;\n\u25cfIt becomes the End Phase of this turn.\n\u25cfTarget 1 \"Utopia\" Xyz Monster you control; its ATK becomes double its original ATK until the end of this turn.\nIf a \"Utopia\" Xyz Monster you control would detach exactly 1 Xyz Material to activate its effect, you can banish this card from your Graveyard instead.",
+    "release_date": "2017-03-31",
+    "available_set": [
+        "DUELIST SAGA"
+    ],
+    "related_card": [
+        "Number 39: Utopia",
+        "Number 39: Utopia Beyond",
+        "Number 39: Utopia Double",
+        "Number 39: Utopia Rising",
+        "Number 39: Utopia Roots",
+        "Number 39: Utopia, Emissary of Light",
+        "Number 93: Utopia Kaiser",
+        "Number 99: Utopia Dragonar",
+        "Number C39: Utopia Ray",
+        "Number C39: Utopia Ray V",
+        "Number C39: Utopia Ray Victory",
+        "Number S39: Utopia Prime",
+        "Number S39: Utopia the Lightning",
+        "Ultimate Dragonic Utopia Ray",
+        "Ultimate Leo Utopia Ray"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

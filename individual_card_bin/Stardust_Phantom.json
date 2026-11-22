@@ -1,0 +1,43 @@
+{
+    "name": "Stardust Phantom",
+    "filename": "Stardust_Phantom",
+    "card_text": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard, you can select 1 \"Stardust Dragon\" in your Graveyard and Special Summon it in face-up Defense Position. You can remove from play this card in the Graveyard to select 1 face-up Dragon-Type Synchro Monster you control. Once per turn, that Synchro Monster cannot be destroyed by battle, but each time this effect is applied, it loses 800 ATK and DEF at the end of the Damage Step.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [
+        "Arrive in Light",
+        "Cosmic Flare",
+        "Final Cross",
+        "Junk Armor",
+        "Junk Mail",
+        "Junk Meister",
+        "Junk Signal",
+        "Majestic Absorption",
+        "Majestic Mirage",
+        "Necroid Synchro",
+        "Satellite Synchron",
+        "Satellite Warrior",
+        "Shooting Majestic Star Dragon",
+        "Shooting Star",
+        "Stardust Dragon",
+        "Stardust Dragon - Victim Sanctuary",
+        "Stardust Flash",
+        "Stardust Illumination",
+        "Stardust Re-Spark",
+        "Stardust Sifr Divine Dragon",
+        "Stardust Synchron",
+        "Stardust Trail",
+        "Stardust Wish",
+        "Synchro Chase",
+        "Synchro Fellowship"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Fallen of Argyros",
+    "filename": "Fallen_of_Argyros",
+    "card_text": "If a Level/Rank/Link 2 monster is on the field, you can Special Summon this card (from your hand) to either field. You can only Special Summon \"Fallen of Argyros\" once per turn this way. Neither player can activate the effects of Link Monsters that point to this card. During your opponent's turn (Quick Effect): You can target 1 Xyz Monster on the field; detach 1 or 2 materials from it. You can only use this effect of \"Fallen of Argyros\" once per turn.",
+    "release_date": "2023-05-05",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "CYBERSTORM ACCESS"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 700,
+    "defense": 700,
+    "monster_type": "Thunder",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

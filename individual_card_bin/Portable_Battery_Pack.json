@@ -1,0 +1,23 @@
+{
+    "name": "Portable Battery Pack",
+    "filename": "Portable_Battery_Pack",
+    "card_text": "Select 2 \"Batteryman\" monsters from your Graveyard and Special Summon them in Attack Position. When this card is removed from the field, destroy those monsters. When both of those monsters have been removed from the field, destroy this card.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Batteryman 9-Volt",
+        "Batteryman AA",
+        "Batteryman AAA",
+        "Batteryman C",
+        "Batteryman Charger",
+        "Batteryman D",
+        "Batteryman Fuel Cell",
+        "Batteryman Industrial Strength",
+        "Batteryman Micro-Cell",
+        "Batteryman Solar"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

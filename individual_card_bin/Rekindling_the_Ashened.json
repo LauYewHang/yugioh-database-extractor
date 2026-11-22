@@ -1,0 +1,27 @@
+{
+    "name": "Rekindling the Ashened",
+    "filename": "Rekindling_the_Ashened",
+    "card_text": "Place 1 of your \"Ashened\" cards that is banished or in your GY on the bottom of your Main Deck, except \"Rekindling the Ashened\", then target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only activate 1 \"Rekindling the Ashened\" per turn.",
+    "release_date": "2024-04-26",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Ashened for Eternity",
+        "Ashened to Endlessness",
+        "Embers of the Ashened",
+        "Extinguishing the Ashened",
+        "Hero of the Ashened City",
+        "Inferno of the Ashened",
+        "King of the Ashened City",
+        "Obsidim, the Ashened City",
+        "Priestess of the Ashened City",
+        "Shaman of the Ashened City",
+        "Spearhead of the Ashened City",
+        "Veidos the Dragon of Endless Darkness",
+        "Veidos the Eruption Dragon of Extinction"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

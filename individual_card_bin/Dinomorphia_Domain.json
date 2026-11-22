@@ -1,0 +1,26 @@
+{
+    "name": "Dinomorphia Domain",
+    "filename": "Dinomorphia_Domain",
+    "card_text": "During the Main Phase: Pay half your LP; Fusion Summon 1 \"Dinomorphia\" Fusion Monster from your Extra Deck, using monsters from your hand, Deck, or field as material. When your opponent activates a card or effect, while your LP are 2000 or less: You can banish this card from your GY; you take no effect damage from your opponent's card effects this turn. You can only activate 1 \"Dinomorphia Domain\" per turn.",
+    "release_date": "2022-02-11",
+    "available_set": [
+        "BATTLE OF CHAOS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Dinomorphia Alert",
+        "Dinomorphia Brute",
+        "Dinomorphia Diplos",
+        "Dinomorphia Frenzy",
+        "Dinomorphia Intact",
+        "Dinomorphia Kentregina",
+        "Dinomorphia Reversion",
+        "Dinomorphia Rexterm",
+        "Dinomorphia Shell",
+        "Dinomorphia Sonic",
+        "Dinomorphia Stealthbergia",
+        "Dinomorphia Therizia"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

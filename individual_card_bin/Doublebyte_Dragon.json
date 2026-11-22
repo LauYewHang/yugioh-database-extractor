@@ -1,0 +1,17 @@
+{
+    "name": "Doublebyte Dragon",
+    "filename": "Doublebyte_Dragon",
+    "card_text": "2 Link Monsters\nGains ATK equal to the combined Link Ratings of the monsters used for its Link Summon x 300. Unaffected by monster effects, except Link Monsters' effects, and cannot be destroyed by battle, except by battle with a Link Monster.",
+    "release_date": "2019-04-03",
+    "available_set": [
+        "DUEL POWER"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1500,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 260
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Dice-nied",
+    "filename": "Dice_nied",
+    "card_text": "Each time your opponent Special Summons a monster(s): Roll a six-sided die, and return all of those Summoned monster(s) to the hand with a current Level that's the same as the result.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

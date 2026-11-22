@@ -1,0 +1,31 @@
+{
+    "name": "GMX Researcher Selande",
+    "filename": "GMX_Researcher_Selande",
+    "card_text": "If this card is Normal Summoned: You can Special Summon 1 non-Warrior \"GMX\" monster or 1 Level 3 or lower Dinosaur monster from your Deck. If this card is Special Summoned by a monster effect: You can add 1 \"GMX\" Spell/Trap from your Deck to your hand. If a Dinosaur Fusion Monster is on the field: You can shuffle this card from the field into the Deck, and if you do, negate the effects of 1 face-up card on the field until the end of this turn. You can only use each effect of \"GMX Researcher Selande\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Anti-GMX Final Experiment",
+        "Evolved Daneen",
+        "GMX - ALLOS",
+        "GMX - COMPREX",
+        "GMX - VELOX",
+        "GMX 55th Experiment Report",
+        "GMX Applied Experiment #55",
+        "GMX Associate Noma",
+        "GMX Chairman Kimridge",
+        "GMX Lab #5",
+        "GMX Partner Selandea",
+        "GMX Suppression Squad",
+        "Returned Dino Daneen"
+    ],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 700,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

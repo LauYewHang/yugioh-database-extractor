@@ -1,0 +1,35 @@
+{
+    "name": "Abyss-steam",
+    "filename": "Abyss_steam",
+    "card_text": "Draw cards equal to the number of different Monster Types among the monsters you control that are Fish, Sea Serpent, or Aqua monsters, also until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck, except WATER monsters. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; add 1 \"Mermail\" monster from your GY or banishment to your hand. You can only use each effect of \"Abyss-steam\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Abyssrhine, the Atlantean Spirit",
+        "Abysstrite, the Atlantean Spirit",
+        "Mermail Abyssalacia",
+        "Mermail Abyssbalaen",
+        "Mermail Abyssdine",
+        "Mermail Abyssgaios",
+        "Mermail Abyssgunde",
+        "Mermail Abysshilde",
+        "Mermail Abyssleed",
+        "Mermail Abysslinde",
+        "Mermail Abysslung",
+        "Mermail Abyssmander",
+        "Mermail Abyssmegalo",
+        "Mermail Abyssnerei",
+        "Mermail Abyssnose",
+        "Mermail Abyssocea",
+        "Mermail Abysspike",
+        "Mermail Abyssteus",
+        "Mermail Abysstrite",
+        "Mermail Abyssturge",
+        "Mermail King - Neptabyss",
+        "Mermail Shadow Squad"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Clown Crew Fiends",
+    "filename": "Clown_Crew_Fiends",
+    "card_text": "2 Level 3 monsters\nTribute Summoned monsters you control gain 1000 ATK. If this card is Tributed: You can activate 1 of these effects (but you can only use each effect of \"Clown Crew Fiends\" once per turn);\n\u25cfReturn all Xyz Monsters from the field and the GYs to the Extra Deck.\n\u25cfSet 1 \"Clown Crew\" Spell from your Deck.",
+    "release_date": "2026-05-08",
+    "available_set": [
+        "BLAZING DOMINION"
+    ],
+    "related_card": [
+        "Clown Crew Biancaviso",
+        "Clown Crew Cappello",
+        "Clown Crew Diabolo",
+        "Clown Crew Dristy",
+        "Clown Crew Finale",
+        "Clown Crew Flair",
+        "Clown Crew Malabarisme",
+        "Clown Crew Matinee Operatics",
+        "Clown Crew Meteor",
+        "Clown Crew New Face",
+        "Clown Crew Rehearsal",
+        "Clown Crew Soiree Operations"
+    ],
+    "attribute": "LIGHT",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

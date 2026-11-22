@@ -1,0 +1,27 @@
+{
+    "name": "Ashtraya Mikumari-no-Mikoto",
+    "filename": "Ashtraya_Mikumari_no_Mikoto",
+    "card_text": "1 Tuner + 1+ non-Tuners\nIf this card is Special Summoned: You can send 1 \"Ashtra\" card from your Deck to the GY, and if you do, send 1 card on the field to the GY. You can only use this effect of \"Ashtraya Mikumari-no-Mikoto\" once per turn. If your opponent activates a monster effect (except during the Damage Step): You can target 1 \"Ashtra\" Trap in your GY or banishment, or if 3 or more cards are face-down on the field, you can target any 1 Trap in your GY instead; Set it.",
+    "release_date": "2026-10-09",
+    "available_set": [
+        "BEYOND THE BRAVE"
+    ],
+    "related_card": [
+        "Akasuna the Battle Ashtra",
+        "Ashtra's Domain",
+        "Ashtra's Howl",
+        "Ashtra's Web",
+        "Ashtraja Susanoo",
+        "Ashtrashen - Gate to the Worlds Beyond",
+        "Kuzuha the Hex Ashtra",
+        "Mikumari the Banisher Ashtra",
+        "Yoa the Plague Ashtra"
+    ],
+    "attribute": "WATER",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Wyrm",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

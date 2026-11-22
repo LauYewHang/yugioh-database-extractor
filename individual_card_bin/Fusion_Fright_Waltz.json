@@ -1,0 +1,37 @@
+{
+    "name": "Fusion Fright Waltz",
+    "filename": "Fusion_Fright_Waltz",
+    "card_text": "Target 1 \"Frightfur\" Fusion Monster you control and 1 Fusion Monster your opponent controls; destroy as many other Special Summoned monsters on the field as possible, then each player that had a monster(s) destroyed by this effect takes damage equal to the combined current ATK of the targeted monster(s) on the field.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Dangerous Frightfur Nightmary",
+        "Designer Frightfur",
+        "Edge Imp Frightfuloid",
+        "Frightfur Bear",
+        "Frightfur Chimera",
+        "Frightfur Cruel Whale",
+        "Frightfur Daredevil",
+        "Frightfur Factory",
+        "Frightfur Fusion",
+        "Frightfur Jar",
+        "Frightfur Kraken",
+        "Frightfur Leo",
+        "Frightfur March",
+        "Frightfur Meister",
+        "Frightfur Patchwork",
+        "Frightfur Reborn",
+        "Frightfur Repair",
+        "Frightfur Sabre-Tooth",
+        "Frightfur Sanctuary",
+        "Frightfur Sheep",
+        "Frightfur Tiger",
+        "Frightfur Wolf",
+        "Toy Parade"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

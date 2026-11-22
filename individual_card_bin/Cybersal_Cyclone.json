@@ -1,0 +1,22 @@
+{
+    "name": "Cybersal Cyclone",
+    "filename": "Cybersal_Cyclone",
+    "card_text": "Target 1 Link Monster your opponent controls; banish 1 monster from your GY that has the same Link Rating as that monster, and if you do, destroy that monster, then, if the original Type of the monster you banished was Cyberse, you can destroy 1 face-up card in your opponent's Spell & Trap Zone.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [
+        "Attachment Cybern",
+        "Cyber Dragon Core",
+        "Cyber Eternal",
+        "Cyberdark Chimera",
+        "Cyberdark Wurm",
+        "Cybernetic Horizon",
+        "Cybernetic Overflow",
+        "Prima Light"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

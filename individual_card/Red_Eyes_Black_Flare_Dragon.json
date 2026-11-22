@@ -36,7 +36,10 @@
     "attack": 2400,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": 514,
+    "monster_card_type": [
+        "Gemini",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7
 }

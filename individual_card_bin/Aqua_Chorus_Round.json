@@ -1,0 +1,13 @@
+{
+    "name": "Aqua Chorus Round",
+    "filename": "Aqua_Chorus_Round",
+    "card_text": "Banish 1 card from your hand, and if you do, during your next Standby Phase, you can add up to 2 cards with the same name as that banished card from your Deck to your hand. If you activated this card while your opponent controlled no cards, for the rest of this turn you cannot activate cards, or the effects of cards, with the same original name as that banished card.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

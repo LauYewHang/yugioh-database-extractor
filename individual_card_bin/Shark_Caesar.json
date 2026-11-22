@@ -1,0 +1,21 @@
+{
+    "name": "Shark Caesar",
+    "filename": "Shark_Caesar",
+    "card_text": "3 or more (max. 5) Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; place 1 Shark Counter on this card. If this card attacks or is attacked, it gains 1000 ATK for each Shark Counter on it, during the Damage Step only.",
+    "release_date": "2013-08-09",
+    "available_set": [
+        "JUDGMENT OF THE LIGHT"
+    ],
+    "related_card": [
+        "Hydrojet Shark",
+        "Surfacing Big Jaws",
+        "Veiss Shark"
+    ],
+    "attribute": "WATER",
+    "attack": 1800,
+    "defense": 2000,
+    "monster_type": "Fish",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

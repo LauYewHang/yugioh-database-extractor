@@ -1,0 +1,12 @@
+{
+    "name": "Ocean of Regeneration",
+    "filename": "Ocean_of_Regeneration",
+    "card_text": "You can target 1 WATER monster with 1000 or less ATK in your GY; Special Summon it, but destroy it during the End Phase. You can only use this effect of \"Ocean of Regeneration\" once per turn.",
+    "release_date": "2025-03-14",
+    "available_set": [
+        "MAZE OF THE MASTER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Extox Hydra",
+    "filename": "Extox_Hydra",
+    "card_text": "2+ monsters you control, Special Summoned from the Extra Deck\nMonsters your opponent controls with the same card type (Fusion, Synchro, Xyz, Pendulum, or Link) as any material used for this card's Fusion Summon lose ATK equal to their own original ATK. When this card inflicts 1000 or more battle damage to your opponent: You can draw 1 card for every 1000 damage you inflicted.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 2000,
+    "defense": 2000,
+    "monster_type": "Reptile",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

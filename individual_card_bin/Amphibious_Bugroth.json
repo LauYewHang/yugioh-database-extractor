@@ -1,0 +1,20 @@
+{
+    "name": "Amphibious Bugroth",
+    "filename": "Amphibious_Bugroth",
+    "card_text": "\"Ground Attacker Bugroth\" + \"Defender of the Sea\"",
+    "release_date": "2006-12-26",
+    "available_set": [
+        "Promotional Cards 2"
+    ],
+    "related_card": [
+        "Ground Attacker Bugroth",
+        "Sentinel of the Seas"
+    ],
+    "attribute": "WATER",
+    "attack": 1850,
+    "defense": 1300,
+    "monster_type": "Aqua",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

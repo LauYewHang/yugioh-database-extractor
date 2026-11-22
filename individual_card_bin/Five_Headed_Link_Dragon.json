@@ -1,0 +1,17 @@
+{
+    "name": "Five-Headed Link Dragon",
+    "filename": "Five_Headed_Link_Dragon",
+    "card_text": "5 monsters\nMust be Link Summoned. If this card is Link Summoned using DARK, EARTH, WATER, FIRE, and WIND Attributes: You can destroy all cards your opponent controls. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster. Unaffected by other cards' effects. Once per turn, during your opponent's End Phase: You must banish 5 cards from your GY face-down (this is not optional), or send this card to the GY.",
+    "release_date": "2020-03-20",
+    "available_set": [
+        "DUEL OVERLOAD"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 5000,
+    "defense": null,
+    "monster_type": "Dragon",
+    "monster_card_type": 8194,
+    "link_rating": 5,
+    "link_arrow": 94
+}

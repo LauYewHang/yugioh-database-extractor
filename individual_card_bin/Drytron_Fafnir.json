@@ -1,0 +1,32 @@
+{
+    "name": "Drytron Fafnir",
+    "filename": "Drytron_Fafnir",
+    "card_text": "When this card is activated: You can add 1 \"Drytron\" Spell/Trap from your Deck to your hand, except \"Drytron Fafnir\". The activation and the activated effects of Ritual Spell Cards cannot be negated. Once per turn, if a monster is Normal or Special Summoned face-up while you control a \"Drytron\" monster (except during the Damage Step): You can reduce that monster's Level by 1 per 1000 of its current ATK (min. Level 1) for the rest of this turn. You can only activate 1 \"Drytron Fafnir\" per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Drytron Alpha Thuban",
+        "Drytron Asterism",
+        "Drytron Beta Rastaban",
+        "Drytron Delta Altais",
+        "Drytron Eclipse",
+        "Drytron Gamma Eltanin",
+        "Drytron Meteonis DA Draconids",
+        "Drytron Meteonis Draconids",
+        "Drytron Meteonis Quadrantids",
+        "Drytron Meteor Shower",
+        "Drytron Mu Beta Fafnir",
+        "Drytron Nova",
+        "Drytron Nu II",
+        "Drytron Zeta Aldhibah",
+        "Meteonis Drytron",
+        "Meteoroa Drytron",
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Drytron"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

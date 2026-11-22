@@ -1,0 +1,14 @@
+{
+    "name": "Smile World",
+    "filename": "Smile_World",
+    "card_text": "All face-up monsters currently on the field gain 100 ATK for each monster currently on the field, until the end of this turn.",
+    "release_date": "2016-05-27",
+    "available_set": [
+        "STARTER DECK YUYA"
+    ],
+    "related_card": [
+        "Performapal Smile Sorcerer"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

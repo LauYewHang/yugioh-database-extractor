@@ -1,0 +1,14 @@
+{
+    "name": "Witch's Strike",
+    "filename": "Witch_s_Strike",
+    "card_text": "If your opponent negates the Normal or Special Summon of a monster(s), or the activation of a card or effect: Destroy all cards your opponent controls and in their hand.",
+    "release_date": "2019-02-01",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "2020 TIN OF LOST MEMORIES",
+        "SAVAGE STRIKE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

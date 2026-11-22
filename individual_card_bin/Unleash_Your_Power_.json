@@ -1,0 +1,15 @@
+{
+    "name": "Unleash Your Power!",
+    "filename": "Unleash_Your_Power_",
+    "card_text": "All Gemini monsters that were on your side of the field when this card was activated are treated as Effect Monsters, and gain their effect(s). During the End Phase of this turn, Set all monsters affected by this card's effect.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [
+        "Geminize Lord Golknight"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Bottomless Shifting Sand",
+    "filename": "Bottomless_Shifting_Sand",
+    "card_text": "At the end of your opponent's turn, destroy the face-up monster(s) with the highest ATK on the field. During your own Standby Phase, if you have 4 or less cards in your hand, this card is destroyed.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "PHARAONIC GUARDIAN",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

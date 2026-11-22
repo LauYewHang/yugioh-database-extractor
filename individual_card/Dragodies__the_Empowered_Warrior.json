@@ -15,7 +15,10 @@
     "attack": 1500,
     "defense": 1500,
     "monster_type": "Warrior",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "At the start of the Damage Step, if a monster you control battles an opponent's face-up monster: You can discard 1 card; the opponent's battling monster's ATK and DEF become half its current ATK and DEF (even if this card leaves the field).",

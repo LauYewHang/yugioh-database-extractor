@@ -1,0 +1,17 @@
+{
+    "name": "Landrobe the Rock Vassal",
+    "filename": "Landrobe_the_Rock_Vassal",
+    "card_text": "If this card is in your hand: You can target 1 face-up monster your opponent controls; you cannot Special Summon monsters from the Extra Deck for the rest of this turn, also Special Summon this card, and if you do, change that monster to face-down Defense Position. If this card is Tributed for a Tribute Summon: You can target 1 monster with 800 ATK and 1000 DEF in your Graveyard, except \"Landrobe the Rock Vassal\"; add it to your hand. You can only use each effect of \"Landrobe the Rock Vassal\" once per turn.",
+    "release_date": "2016-01-29",
+    "available_set": [
+        "EMPEROR OF DARKNESS STRUCTURE DECK"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 800,
+    "defense": 1000,
+    "monster_type": "Rock",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

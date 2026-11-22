@@ -1,0 +1,17 @@
+{
+    "name": "Laevateinn the Burning Blade",
+    "filename": "Laevateinn_the_Burning_Blade",
+    "card_text": "2 FIRE monsters\nDuring the Main Phase (Quick Effect): You can Tribute 1 other FIRE monster, then target 1 FIRE monster in your GY with the same original Type but a lower original Level than that monster; Special Summon it in Defense Position. If a face-down card(s) in your Spell & Trap Zone would be destroyed by an opponent's card effect, you can banish this card you control instead. You can only use each effect of \"Laevateinn the Burning Blade\" once per turn.",
+    "release_date": "2025-09-26",
+    "available_set": [
+        "DOOM OF DIMENSIONS"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1000,
+    "defense": null,
+    "monster_type": "Warrior",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

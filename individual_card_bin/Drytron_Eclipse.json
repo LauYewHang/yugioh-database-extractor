@@ -1,0 +1,32 @@
+{
+    "name": "Drytron Eclipse",
+    "filename": "Drytron_Eclipse",
+    "card_text": "Target 1 \"Drytron\" monster in your GY; add it to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"Drytron\" monster you control; it gains 2000 ATK until the end of your opponent's turn. You can only use each effect of \"Drytron Eclipse\" once per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Drytron Alpha Thuban",
+        "Drytron Asterism",
+        "Drytron Beta Rastaban",
+        "Drytron Delta Altais",
+        "Drytron Fafnir",
+        "Drytron Gamma Eltanin",
+        "Drytron Meteonis DA Draconids",
+        "Drytron Meteonis Draconids",
+        "Drytron Meteonis Quadrantids",
+        "Drytron Meteor Shower",
+        "Drytron Mu Beta Fafnir",
+        "Drytron Nova",
+        "Drytron Nu II",
+        "Drytron Zeta Aldhibah",
+        "Meteonis Drytron",
+        "Meteoroa Drytron",
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Drytron"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

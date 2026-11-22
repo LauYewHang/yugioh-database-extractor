@@ -1,0 +1,40 @@
+{
+    "name": "Abyss Actors' Curtain Call",
+    "filename": "Abyss_Actors__Curtain_Call",
+    "card_text": "If an \"Abyss Script\" Spell Card or effect is activated this turn: Add face-up \"Abyss Actor\" Pendulum Monsters from your Extra Deck to your hand, up to the number of \"Abyss Script\" Spells in your GY. Then, you can Special Summon \"Abyss Actor\" Pendulum Monsters from your hand with different names, up to the number of monsters added to the hand by this effect. You cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" Pendulum Monsters. You can only activate 1 \"Abyss Actors' Curtain Call\" per turn.",
+    "release_date": "2018-09-28",
+    "available_set": [
+        "LEGENDARY DUELISTS: SEASON 2",
+        "LEGENDARY DUELISTS: WHITE DRAGON ABYSS"
+    ],
+    "related_card": [
+        "Abyss Actor - Comic Relief",
+        "Abyss Actor - Curtain Raiser",
+        "Abyss Actor - Evil Heel",
+        "Abyss Actor - Extras",
+        "Abyss Actor - Funky Comedian",
+        "Abyss Actor - Hyper Director",
+        "Abyss Actor - Leading Lady",
+        "Abyss Actor - Liberty Dramatist",
+        "Abyss Actor - Mellow Madonna",
+        "Abyss Actor - Sassy Rookie",
+        "Abyss Actor - Super Producer",
+        "Abyss Actor - Superstar",
+        "Abyss Actor - Trendy Understudy",
+        "Abyss Actor - Twinkle Little Star",
+        "Abyss Actor - Wild Hope",
+        "Abyss Actors Back Stage",
+        "Abyss Actors' Dress Rehearsal",
+        "Abyss Playhouse - Fantastic Theater",
+        "Abyss Prop - Wild Wagon",
+        "Abyss Script - Abysstainment",
+        "Abyss Script - Dramatic Story",
+        "Abyss Script - Fantasy Magic",
+        "Abyss Script - Fire Dragon's Lair",
+        "Abyss Script - Opening Ceremony",
+        "Abyss Script - Rise of the Abyss King",
+        "Abyss Script - Romantic Terror"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Tearlaments Rulkallos",
+    "filename": "Tearlaments_Rulkallos",
+    "card_text": "\"Tearlaments Kitkallos\" + 1 \"Tearlaments\" monster\nOther Aqua monsters you control cannot be destroyed by battle. You can only use each of the following effects of \"Tearlaments Rulkallos\" once per turn. When your opponent activates a card or effect that includes an effect that Special Summons a monster(s) (Quick Effect): You can negate the activation, and if you do, destroy it, then, send 1 \"Tearlaments\" card from your hand or face-up field to the GY. If this Fusion Summoned card is sent to the GY by a card effect: You can Special Summon this card.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST"
+    ],
+    "related_card": [
+        "Primeval Planet Perlereino",
+        "Tearlaments Cryme",
+        "Tearlaments Grief",
+        "Tearlaments Havnis",
+        "Tearlaments Heartbeat",
+        "Tearlaments Kaleido-Heart",
+        "Tearlaments Kashtira",
+        "Tearlaments Kitkallos",
+        "Tearlaments Merrli",
+        "Tearlaments Metanoise",
+        "Tearlaments Perlegia",
+        "Tearlaments Reinoheart",
+        "Tearlaments Scheiren",
+        "Tearlaments Scream",
+        "Tearlaments Sulliek"
+    ],
+    "attribute": "WATER",
+    "attack": 3000,
+    "defense": 2500,
+    "monster_type": "Aqua",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

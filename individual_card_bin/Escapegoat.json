@@ -1,0 +1,13 @@
+{
+    "name": "Escapegoat",
+    "filename": "Escapegoat",
+    "card_text": "When your opponent activates a card or effect that targets a monster(s) you control, except a Token: You can Tribute 1 monster; Special Summon 1 \"Escapegoat Token\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. If a non-Token monster(s) you control would be destroyed by battle or card effect, you can destroy 1 Token in your Monster Zone instead.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Scramble!! Scramble!!",
+    "filename": "Scramble___Scramble__",
+    "card_text": "If your opponent's monsters on the field outnumber your non-Token monsters on the field: Tribute any number of \"Mecha Phantom Beast Tokens\"; Special Summon an equal number of \"Mecha Phantom Beast\" monsters from your Deck. Shuffle them into the Deck during the End Phase. You can only activate 1 \"Scramble!! Scramble!!\" per turn.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY",
+        "2014 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Aerial Recharge",
+        "Do a Barrel Roll",
+        "Mecha Phantom Beast Aerosguin",
+        "Mecha Phantom Beast Auroradon",
+        "Mecha Phantom Beast Blackfalcon",
+        "Mecha Phantom Beast Blue Impala",
+        "Mecha Phantom Beast Coltwing",
+        "Mecha Phantom Beast Concoruda",
+        "Mecha Phantom Beast Dracossack",
+        "Mecha Phantom Beast Hamstrat",
+        "Mecha Phantom Beast Harrliard",
+        "Mecha Phantom Beast Jaculuslan",
+        "Mecha Phantom Beast Kalgriffin",
+        "Mecha Phantom Beast Megaraptor",
+        "Mecha Phantom Beast O-Lion",
+        "Mecha Phantom Beast Raiten",
+        "Mecha Phantom Beast Sabre Hawk",
+        "Mecha Phantom Beast Stealthray",
+        "Mecha Phantom Beast Tetherwolf",
+        "Mecha Phantom Beast Turtletracer",
+        "Mecha Phantom Beast Warbluran",
+        "Vertical Landing"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

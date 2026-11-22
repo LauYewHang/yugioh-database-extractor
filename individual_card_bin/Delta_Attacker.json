@@ -1,0 +1,13 @@
+{
+    "name": "Delta Attacker",
+    "filename": "Delta_Attacker",
+    "card_text": "You can only activate this card while there are 3 Normal Monsters of the same name (except Tokens) on your side of the field. The 3 Normal Monsters of the same name can attack your opponent's Life Points directly during the turn this card is activated.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "ANCIENT SANCTUARY"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

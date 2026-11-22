@@ -1,0 +1,12 @@
+{
+    "name": "Pestilence",
+    "filename": "Pestilence",
+    "card_text": "Equip only to a Warrior-Type, Beast-Warrior-Type, or Spellcaster-Type monster. Its ATK becomes 0. During each of your Standby Phases, inflict 500 damage to the controller of the equipped monster.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

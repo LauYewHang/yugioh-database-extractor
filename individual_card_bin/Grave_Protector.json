@@ -1,0 +1,20 @@
+{
+    "name": "Grave Protector",
+    "filename": "Grave_Protector",
+    "card_text": "Any monster destroyed by battle is shuffled into the Deck instead of going to the GY.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "DARK REVELATION Volume 2",
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "ANCIENT SANCTUARY",
+        "BATTLE PACK EPIC DAWN"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 0,
+    "defense": 2000,
+    "monster_type": "Fiend",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

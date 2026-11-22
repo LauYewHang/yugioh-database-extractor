@@ -1,0 +1,32 @@
+{
+    "name": "Megalith Ophiel",
+    "filename": "Megalith_Ophiel",
+    "card_text": "You can Ritual Summon this card with a \"Megalith\" card. If this card is Ritual Summoned: You can add 1 \"Megalith\" monster from your Deck to your hand, except \"Megalith Ophiel\". During your Main Phase: You can activate this effect; Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this effect of \"Megalith Ophiel\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "OTS Tournament Pack 29",
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Megalith Anastasis",
+        "Megalith Aratron",
+        "Megalith Bethor",
+        "Megalith Emergence",
+        "Megalith Hagith",
+        "Megalith Notrah Plura",
+        "Megalith Och",
+        "Megalith Phaleg",
+        "Megalith Phul",
+        "Megalith Phuloch",
+        "Megalith Portal",
+        "Megalith Promotion",
+        "Megalith Unformed"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 2500,
+    "monster_type": "Rock",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,26 @@
+{
+    "name": "One for One",
+    "filename": "One_for_One",
+    "card_text": "Send 1 monster from your hand to the GY; Special Summon 1 Level 1 monster from your hand or Deck.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "AMAZING DEFENDERS",
+        "Legendary 5D's Decks",
+        "WINNER'S PACK 2026-2027",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "QUARTER CENTURY BONANZA",
+        "SYNCHRON EXTREME STRUCTURE DECK",
+        "RAGING BATTLE",
+        "PENDULUM DOMINATION STRUCTURE DECK",
+        "ADVENT CALENDAR 2019",
+        "STAR PACK 2013",
+        "DUELIST PACK COLLECTION TIN 2010 PROMO PACK",
+        "DUELIST PACK - YUSEI 2 -",
+        "STRUCTURE DECK: POWERCODE LINK",
+        "STRUCTURE DECK: SACRED BEASTS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Magicians of Bonds and Unity",
+    "filename": "Magicians_of_Bonds_and_Unity",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 25 or more cards in your GY. While your opponent has 25 or more cards in their GY, this card gains 2500 ATK/DEF.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "PHANTOM NIGHTMARE",
+        "DUELIST NEXUS",
+        "AGE OF OVERLORD",
+        "LEGACY OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 2500,
+    "defense": 2500,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

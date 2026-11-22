@@ -1,0 +1,15 @@
+{
+    "name": "Pyramid of Light",
+    "filename": "Pyramid_of_Light",
+    "card_text": "If this face-up card is removed from your side of the field, destroy \"Andro Sphinx\" and \"Sphinx Teleia\" on your side of the field and remove them from play.",
+    "release_date": "2004-08-13",
+    "available_set": [
+        "MOVIE PACK"
+    ],
+    "related_card": [
+        "Andro Sphinx",
+        "Sphinx Teleia"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

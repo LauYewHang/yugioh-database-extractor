@@ -1,0 +1,29 @@
+{
+    "name": "Metaphys Ragnarok",
+    "filename": "Metaphys_Ragnarok",
+    "card_text": "If this card is Normal or Special Summoned: You can banish the top 3 cards of your Deck, and if you do, this card gains 300 ATK for each \"Metaphys\" card banished by this effect. When this card inflicts battle damage to your opponent: You can Special Summon 1 Level 5 or higher \"Metaphys\" monster from your Deck, but banish it during the End Phase of the next turn. You can only use each effect of \"Metaphys Ragnarok\" once per turn.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [
+        "Asymmetaphys",
+        "Metaphys Armed Dragon",
+        "Metaphys Ascension",
+        "Metaphys Daedalus",
+        "Metaphys Decoy Dragon",
+        "Metaphys Dimension",
+        "Metaphys Executor",
+        "Metaphys Factor",
+        "Metaphys Horus",
+        "Metaphys Nephthys",
+        "Metaphys Tyrant Dragon"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Wyrm",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

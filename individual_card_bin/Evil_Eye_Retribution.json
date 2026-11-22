@@ -1,0 +1,31 @@
+{
+    "name": "Evil Eye Retribution",
+    "filename": "Evil_Eye_Retribution",
+    "card_text": "When a Spell/Trap Card is activated, while you control an \"Evil Eye\" monster: Negate the activation, and if you do, destroy it. If \"Evil Eye of Selene\" is in your Spell & Trap Zone, this card's activation and effect cannot be negated. You can only activate 1 \"Evil Eye Retribution\" per turn.",
+    "release_date": "2019-03-22",
+    "available_set": [
+        "2020 TIN OF LOST MEMORIES",
+        "THE INFINITY CHASERS"
+    ],
+    "related_card": [
+        "Basilius, Familiar of the Evil Eye",
+        "Basiltrice, Familiar of the Evil Eye",
+        "Catoblepas, Familiar of the Evil Eye",
+        "Evil Eye Awakening",
+        "Evil Eye Confrontation",
+        "Evil Eye Defeat",
+        "Evil Eye Domain - Pareidolia",
+        "Evil Eye Mesmerism",
+        "Evil Eye of Gorgoneio",
+        "Evil Eye of Selene",
+        "Evil Eye Reemergence",
+        "Evil Eye Repose",
+        "Evil Eyes Unleashed",
+        "Gorgon, Empress of the Evil Eyed",
+        "Medusa, Watcher of the Evil Eye",
+        "Serziel, Watcher of the Evil Eye",
+        "Zerrziel, Ruler of the Evil Eyed"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Counter"
+}

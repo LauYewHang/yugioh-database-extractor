@@ -1,0 +1,20 @@
+{
+    "name": "Milus Radiant",
+    "filename": "Milus_Radiant",
+    "card_text": "As long as this card remains face-up on the field, increase the ATK of all EARTH monsters by 500 points and decrease the ATK of all WIND monsters by 400 points.",
+    "release_date": "2002-06-26",
+    "available_set": [
+        "STARTER DECK JOEY",
+        "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "METAL RAIDERS",
+        "DARK BEGINNING 2"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 300,
+    "defense": 250,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

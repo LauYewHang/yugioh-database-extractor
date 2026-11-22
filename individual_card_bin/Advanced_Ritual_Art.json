@@ -1,0 +1,22 @@
+{
+    "name": "Advanced Ritual Art",
+    "filename": "Advanced_Ritual_Art",
+    "card_text": "This card is used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the GY whose total Levels equal the Level of that Ritual Monster.",
+    "release_date": "2007-02-28",
+    "available_set": [
+        "DUEL TERMINAL 6A",
+        "PREMIUM GOLD: RETURN OF THE BLING",
+        "STRIKE OF NEOS",
+        "DUELIST SAGA",
+        "SPEED DUEL TOURNAMENT PACK 3",
+        "ULTIMATE TOURNAMENT PACK 2",
+        "TURBO PACK BOOSTER FOUR",
+        "THE SECRET FORCES",
+        "ASTRAL PACK FIVE",
+        "GHOSTS FROM THE PAST: THE 2ND HAUNTING",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

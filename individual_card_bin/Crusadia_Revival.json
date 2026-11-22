@@ -1,0 +1,28 @@
+{
+    "name": "Crusadia Revival",
+    "filename": "Crusadia_Revival",
+    "card_text": "All \"Crusadia\" Link Monsters on the field gain 500 ATK. Once per turn: You can target 1 \"Crusadia\" Link Monster you control; this turn (even if this card leaves the field), it can attack all monsters your opponent controls once each, also other monsters you control cannot attack.",
+    "release_date": "2018-07-27",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "CYBERNETIC HORIZON"
+    ],
+    "related_card": [
+        "Crusadia Arboria",
+        "Crusadia Draco",
+        "Crusadia Equimax",
+        "Crusadia Krawler",
+        "Crusadia Leonis",
+        "Crusadia Magius",
+        "Crusadia Maximus",
+        "Crusadia Power",
+        "Crusadia Reclusia",
+        "Crusadia Regulex",
+        "Crusadia Spatha",
+        "Crusadia Testament",
+        "Crusadia Vanguard",
+        "Mekk-Knight Crusadia Avramax"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Millennium Shield",
+    "filename": "Millennium_Shield",
+    "card_text": "A famous shield said to belong to an ancient Egyptian Pharaoh. Legends tell of its power to block any strong attack.",
+    "release_date": "2002-12-20",
+    "available_set": [
+        "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "Promotional Cards 1",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "GOLD SERIES 4 PYRAMIDS EDITION"
+    ],
+    "related_card": [
+        "Millennium Ankh",
+        "Sengenjin Wakes from a Millennium",
+        "Wedju Temple"
+    ],
+    "attribute": "EARTH",
+    "attack": 0,
+    "defense": 3000,
+    "monster_type": "Warrior",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

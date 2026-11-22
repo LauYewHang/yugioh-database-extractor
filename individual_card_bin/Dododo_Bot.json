@@ -1,0 +1,35 @@
+{
+    "name": "Dododo Bot",
+    "filename": "Dododo_Bot",
+    "card_text": "Cannot be Normal Summoned (but can be Normal Set). If this card attacks, it is unaffected by other card effects until the end of the Damage Step.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER",
+        "BATTLE PACK 2 WAR OF THE GIANTS"
+    ],
+    "related_card": [
+        "Dododo Buster",
+        "Dododo Driver",
+        "Dododo Witch",
+        "Dodododo Warrior",
+        "Dodododraw",
+        "Dodododwarf Gogogoglove",
+        "Gagaga Magician - Gagaga Magic",
+        "Gagagaga Girl",
+        "Gogogo Goblindbergh",
+        "Guard Go!",
+        "Onomatokage",
+        "Onomatopaira",
+        "Onomatopia",
+        "Onomatopickup",
+        "Utopic Onomatopoeia",
+        "Zubababancho Gagagacoat"
+    ],
+    "attribute": "EARTH",
+    "attack": 1800,
+    "defense": 1900,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

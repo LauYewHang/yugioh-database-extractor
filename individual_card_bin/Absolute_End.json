@@ -1,0 +1,13 @@
+{
+    "name": "Absolute End",
+    "filename": "Absolute_End",
+    "card_text": "Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks.",
+    "release_date": "2004-10-01",
+    "available_set": [
+        "SOUL OF THE DUELIST",
+        "DARK REVELATION Volume 3"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

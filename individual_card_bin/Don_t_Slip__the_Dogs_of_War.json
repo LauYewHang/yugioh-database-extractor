@@ -1,0 +1,12 @@
+{
+    "name": "Don't Slip, the Dogs of War",
+    "filename": "Don_t_Slip__the_Dogs_of_War",
+    "card_text": "When either player draws a Tuner(s) for their normal draw in their Draw Phase: They can reveal that card(s); they draw 2 cards. If your opponent draws by this effect: You lose 2000 LP, and if you do, send this card to the GY.",
+    "release_date": "2023-06-23",
+    "available_set": [
+        "BATTLES OF LEGEND: MONSTROUS REVENGE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

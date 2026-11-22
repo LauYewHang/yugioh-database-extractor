@@ -142,7 +142,9 @@
     "attack": 1100,
     "defense": 2400,
     "monster_type": "Winged Beast",
-    "monster_card_type": 2,
+    "monster_card_type": [
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

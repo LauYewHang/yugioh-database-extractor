@@ -1,0 +1,35 @@
+{
+    "name": "Gold Pride - Leon",
+    "filename": "Gold_Pride___Leon",
+    "card_text": "If your LP are lower than your opponent's: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 non-Warrior \"Gold Pride\" monster in your GY; Special Summon it in Defense Position, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Gold Pride\" monsters. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using only \"Gold Pride\" monsters you control. You can only use each effect of \"Gold Pride - Leon\" once per turn.",
+    "release_date": "2023-02-04",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "PHOTON HYPERNOVA",
+        "PHOTON HYPERNOVA Core Booster Premiere!"
+    ],
+    "related_card": [
+        "Gold Pride - Better Luck Next Time!",
+        "Gold Pride - Captain Carrie",
+        "Gold Pride - Chariot Carrie",
+        "Gold Pride - Eliminator",
+        "Gold Pride - Eradicator",
+        "Gold Pride - It's Neck and Neck!",
+        "Gold Pride - Nytro Blaster",
+        "Gold Pride - Nytro Head",
+        "Gold Pride - Pedal to the Metal!",
+        "Gold Pride - Pin Baller",
+        "Gold Pride - Roller Baller",
+        "Gold Pride - Star Leon",
+        "Gold Pride - Start Your Engines!",
+        "Gold Pride - That Came Out of Nowhere!",
+        "Gold Pride - The Crowd Goes Wild!"
+    ],
+    "attribute": "WIND",
+    "attack": 1500,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

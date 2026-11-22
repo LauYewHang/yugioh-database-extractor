@@ -1,0 +1,32 @@
+{
+    "name": "S-Force Showdown",
+    "filename": "S_Force_Showdown",
+    "card_text": "Activate 1 of the following effects.\n\u25cfSpecial Summon 1 \"S-Force\" monster from your hand in Defense Position.\n\u25cfTarget 1 \"S-Force\" monster in your GY; add it to your hand.\nYou can only activate 1 \"S-Force Showdown\" per turn.",
+    "release_date": "2021-02-05",
+    "available_set": [
+        "BLAZING VORTEX"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Chase",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

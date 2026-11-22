@@ -1,0 +1,15 @@
+{
+    "name": "Butterspy Protection",
+    "filename": "Butterspy_Protection",
+    "card_text": "Target 1 face-up Attack Position monster on the field; change it to face-up Defense Position, also any damage you take for the rest of this turn is halved.",
+    "release_date": "2013-07-12",
+    "available_set": [
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "NUMBER HUNTERS",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

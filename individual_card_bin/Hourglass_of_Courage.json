@@ -1,0 +1,17 @@
+{
+    "name": "Hourglass of Courage",
+    "filename": "Hourglass_of_Courage",
+    "card_text": "If this card is Normal or Flip Summoned, its original ATK and DEF are halved until the End Phase of your next turn. After that, the original ATK and DEF are doubled.",
+    "release_date": "2011-02-08",
+    "available_set": [
+        "STORM OF RAGNAROK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1100,
+    "defense": 1200,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Feast of the Wild LV5",
+    "filename": "Feast_of_the_Wild_LV5",
+    "card_text": "Special Summon up to 2 Level 5 Warrior-Type monsters from your hand and/or Graveyard, but their effects are negated, also, for the rest of this turn, they cannot attack.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK",
+        "STAR PACK ARC-V"
+    ],
+    "related_card": [
+        "Battleguard Cadet"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Perfect Sync - A-Un",
+    "filename": "Perfect_Sync___A_Un",
+    "card_text": "When this card is activated: You can add 1 \"Dual Avatar\" monster from your Deck to your hand. If you control a \"Dual Avatar\" Effect Monster: You can Special Summon 1 \"Dual Avatar Spirit Token\" (Warrior/LIGHT/Level 2/ATK 0/DEF 0), also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. You can only use this effect of \"Perfect Sync - A-Un\" once per turn. You can only activate 1 \"Perfect Sync - A-Un\" per turn.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Dual Avatar - Empowered Kon-Gyo",
+        "Dual Avatar - Empowered Mitsu-Jaku",
+        "Dual Avatar - Manifested A-Un",
+        "Dual Avatar Ascendance",
+        "Dual Avatar Compact",
+        "Dual Avatar Defeating Evil",
+        "Dual Avatar Feet - Armored Un-Gyo",
+        "Dual Avatar Feet - Kokoku",
+        "Dual Avatar Fists - Armored Ah-Gyo",
+        "Dual Avatar Fists - Yuhi",
+        "Dual Avatar Invitation",
+        "Dual Avatar Return"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

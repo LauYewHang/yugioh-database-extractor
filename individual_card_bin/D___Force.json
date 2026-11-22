@@ -1,0 +1,17 @@
+{
+    "name": "D - Force",
+    "filename": "D___Force",
+    "card_text": "When this card is activated: You can add 1 \"Destiny HERO - Plasma\" from your Deck or GY to your hand. While you control \"Destiny HERO - Plasma\", apply the following effects.\n\u25cfYou cannot draw during the Draw Phase.\n\u25cfYour opponent cannot target cards you control with card effects.\n\u25cfEach \"Destiny HERO - Plasma\" you control gains 100 ATK for each monster in the GYs, cannot be destroyed by your opponent's card effects, also can make a second attack during each Battle Phase.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [
+        "Break the Destiny",
+        "Dark City at Midnight",
+        "Destiny HERO - Dreadnought Master",
+        "Destiny HERO - Plasma"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

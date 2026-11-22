@@ -1,0 +1,20 @@
+{
+    "name": "Tenyinfinity",
+    "filename": "Tenyinfinity",
+    "card_text": "When this card is activated: You can add 1 \"Vessel for the Dragon Cycle\" or \"Heavenly Dragon Circle\" from your Deck to your hand. You can Tribute 1 Wyrm monster, then target 1 monster on the field; destroy it. You can only use this effect of \"Tenyinfinity\" once per turn. Once per turn, during your End Phase: You can send this card to the GY, and if you do, place 1 \"Flawless Perfection of the Tenyi\" from your Deck or GY, face-up in your Field Zone. You can only activate 1 \"Tenyinfinity\" per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Flawless Perfection of the Tenyi",
+        "Heavenly Dragon Circle",
+        "Monk of the Tenyi",
+        "Shaman of the Tenyi",
+        "Tenyi Spirit - Ashuna",
+        "Tenyi Spirit - Suruya",
+        "Vessel for the Dragon Cycle"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

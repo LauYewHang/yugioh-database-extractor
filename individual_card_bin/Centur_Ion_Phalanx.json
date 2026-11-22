@@ -1,0 +1,29 @@
+{
+    "name": "Centur-Ion Phalanx",
+    "filename": "Centur_Ion_Phalanx",
+    "card_text": "Target 1 face-up Monster Card on the field; banish it, and if you do, during the Standby Phase of the next turn, Special Summon that banished monster to its owner's field. You can banish this card from your GY, then target 1 \"Centur-Ion\" Synchro Monster in your GY; Special Summon it, but it loses 1500 ATK. You can only use 1 \"Centur-Ion Phalanx\" effect per turn, and only once that turn.",
+    "release_date": "2023-11-17",
+    "available_set": [
+        "2025 MEGA-PACK TIN",
+        "VALIANT SMASHERS"
+    ],
+    "related_card": [
+        "Centur-Ion Atrii",
+        "Centur-Ion Auxila",
+        "Centur-Ion Bonds",
+        "Centur-Ion Chimerea",
+        "Centur-Ion Emeth VI",
+        "Centur-Ion Gargoyle II",
+        "Centur-Ion Legatia",
+        "Centur-Ion Primera",
+        "Centur-Ion Primera Primus",
+        "Centur-Ion Trudea",
+        "Centur-Ion True Awakening",
+        "Emblema Oath",
+        "Emblema Salvation",
+        "Stand Up Centur-Ion!",
+        "Wake Up Centur-Ion!"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

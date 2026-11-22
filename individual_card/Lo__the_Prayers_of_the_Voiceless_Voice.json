@@ -23,7 +23,9 @@
     "attack": 50,
     "defense": 2050,
     "monster_type": "Fairy",
-    "monster_card_type": 2,
+    "monster_card_type": [
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 1
 }

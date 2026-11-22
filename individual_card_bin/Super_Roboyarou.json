@@ -1,0 +1,21 @@
+{
+    "name": "Super Roboyarou",
+    "filename": "Super_Roboyarou",
+    "card_text": "\"Roboyarou\" + \"Robolady\"\nYou can Special Summon \"Super Robolady\" by returning this card from the field to the Extra Deck. You cannot use this effect during the same turn this monster is Special Summoned. In addition, increase the ATK of this monster by 1000 points during the Damage Step when this monster battles with a monster.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "LEGACY OF DARKNESS"
+    ],
+    "related_card": [
+        "Robolady",
+        "Roboyarou",
+        "Super Robolady"
+    ],
+    "attribute": "EARTH",
+    "attack": 1200,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

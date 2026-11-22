@@ -1,0 +1,37 @@
+{
+    "name": "Kozmo Dark Eclipser",
+    "filename": "Kozmo_Dark_Eclipser",
+    "card_text": "Cannot be targeted by an opponent's card effects. During either player's turn, when a Trap Card is activated: You can banish 1 \"Kozmo\" monster from your Graveyard; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; add 1 Level 8 or lower \"Kozmo\" monster from your Deck to your hand.",
+    "release_date": "2016-01-15",
+    "available_set": [
+        "BREAKERS OF SHADOW"
+    ],
+    "related_card": [
+        "Kozmo Dark Destroyer",
+        "Kozmo Dark Planet",
+        "Kozmo Delta Shuttle",
+        "Kozmo DOG Fighter",
+        "Kozmo Farmgirl",
+        "Kozmo Forerunner",
+        "Kozmo Goodwitch",
+        "Kozmo Landwalker",
+        "Kozmo Lightsword",
+        "Kozmo Scaredy Lion",
+        "Kozmo Sliprider",
+        "Kozmo Soartroopers",
+        "Kozmo Strawman",
+        "Kozmo Tincan",
+        "Kozmojo",
+        "Kozmoll Dark Lady",
+        "Kozmoll Wickedwitch",
+        "Kozmotown",
+        "Kozmourning"
+    ],
+    "attribute": "DARK",
+    "attack": 3000,
+    "defense": 2600,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 9
+}

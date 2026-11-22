@@ -1,0 +1,21 @@
+{
+    "name": "Acrobat Monkey",
+    "filename": "Acrobat_Monkey",
+    "card_text": "An autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "STARTER DECK SYRUS TRUESDALE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 1800,
+    "monster_type": "Machine",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

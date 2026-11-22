@@ -1,0 +1,15 @@
+{
+    "name": "Symbols of Duty",
+    "filename": "Symbols_of_Duty",
+    "card_text": "Send 1 Normal Monster you control to the Graveyard, then target 1 monster in either player's Graveyard; Special Summon it, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster.",
+    "release_date": "2007-08-15",
+    "available_set": [
+        "5D's STARTER DECK 2008",
+        "WARRIORS' STRIKE STRUCTURE DECK",
+        "LEGENDARY DECKS II",
+        "TACTICAL EVOLUTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

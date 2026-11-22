@@ -1,0 +1,13 @@
+{
+    "name": "Life Absorbing Machine",
+    "filename": "Life_Absorbing_Machine",
+    "card_text": "During your Standby Phase, gain Life Points equal to half of the total Life Points you paid during your last turn.",
+    "release_date": "2003-06-06",
+    "available_set": [
+        "CHAMPION PACK GAME SEVEN",
+        "LEGACY OF DARKNESS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

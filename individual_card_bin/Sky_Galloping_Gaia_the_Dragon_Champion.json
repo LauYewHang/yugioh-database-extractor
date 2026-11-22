@@ -1,0 +1,37 @@
+{
+    "name": "Sky Galloping Gaia the Dragon Champion",
+    "filename": "Sky_Galloping_Gaia_the_Dragon_Champion",
+    "card_text": "1 \"Gaia The Fierce Knight\" monster + 1 Dragon-Type monster\nThis card's name becomes \"Gaia the Dragon Champion\" while it is on the field. If this card is Special Summoned: You can add 1 \"Spiral Spear Strike\" from your Deck or Graveyard to your hand. When this card declares an attack on an opponent's monster: You can change the battle position of that opponent's monster.",
+    "release_date": "2016-04-15",
+    "available_set": [
+        "MILLENNIUM PACK"
+    ],
+    "related_card": [
+        "Arisen Gaia the Fierce Knight",
+        "Charging Gaia the Fierce Knight",
+        "Curse of Dragon",
+        "Curse of Dragon, the Magical Knight Dragon",
+        "Dark Magician the Knight of Dragon Magic",
+        "Gaia the Dragon Champion",
+        "Gaia The Fierce Knight",
+        "Gaia the Fierce Knight Origin",
+        "Gaia the Magical Knight",
+        "Gaia the Magical Knight of Dragons",
+        "Galloping Gaia",
+        "Heart of Gaia",
+        "Lord Gaia the Fierce Knight",
+        "Soldier Gaia The Fierce Knight",
+        "Spiral Discharge",
+        "Spiral Fusion",
+        "Spiral Reborn",
+        "Spiral Spear Strike",
+        "Swift Gaia the Fierce Knight"
+    ],
+    "attribute": "WIND",
+    "attack": 2600,
+    "defense": 2100,
+    "monster_type": "Dragon",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 7
+}

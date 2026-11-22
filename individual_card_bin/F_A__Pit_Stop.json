@@ -1,0 +1,34 @@
+{
+    "name": "F.A. Pit Stop",
+    "filename": "F_A__Pit_Stop",
+    "card_text": "Target 1 \"F.A.\" monster you control; reduce its Level by 2, and if you do, draw cards equal to the number of \"F.A. Pit Stop\" in your GY +1. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 \"F.A.\" monster in your GY; Special Summon it. You can only use each effect of \"F.A. Pit Stop\" once per turn.",
+    "release_date": "2017-10-20",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "CIRCUIT BREAK"
+    ],
+    "related_card": [
+        "F.A. Auto Navigator",
+        "F.A. Circuit Grand Prix",
+        "F.A. City Grand Prix",
+        "F.A. Dark Dragster",
+        "F.A. Dawn Dragster",
+        "F.A. Dead Heat",
+        "F.A. Downforce",
+        "F.A. Hang On Mach",
+        "F.A. Motorhome Transport",
+        "F.A. Off-Road Grand Prix",
+        "F.A. Overheat",
+        "F.A. Shining Star GT",
+        "F.A. Sonic Meister",
+        "F.A. Test Run",
+        "F.A. Turbo Charger",
+        "F.A. Whip Crosser",
+        "F.A. Winners",
+        "U.A. Hyper Stadium",
+        "U.A. Locker Room",
+        "U.A. Man of the Match"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

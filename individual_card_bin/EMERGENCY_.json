@@ -1,0 +1,32 @@
+{
+    "name": "EMERGENCY!",
+    "filename": "EMERGENCY_",
+    "card_text": "(This card is always treated as a \"Rescue-ACE\" card.)\nSpecial Summon 1 \"Rescue-ACE\" monster from your Deck in Defense Position, then Tribute 1 \"Rescue-ACE\" monster from your hand or field. During your Main Phase: You can banish this card from your GY, then target 1 \"Rescue-ACE\" Trap in your GY; Set it. You can only use each effect of \"EMERGENCY!\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "OTS TOURNAMENT PACK 23",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "DUELIST NEXUS",
+        "MAZE OF MILLENNIA"
+    ],
+    "related_card": [
+        "ALERT!",
+        "CONTAIN!",
+        "EXTINGUISH!",
+        "REINFORCE!",
+        "RESCUE!",
+        "Rescue-ACE Air Lifter",
+        "Rescue-ACE Arbitrator",
+        "Rescue-ACE Fire Attacker",
+        "Rescue-ACE Fire Engine",
+        "Rescue-ACE HQ",
+        "Rescue-ACE Hydrant",
+        "Rescue-ACE Impulse",
+        "Rescue-ACE Monitor",
+        "Rescue-ACE Preventer",
+        "Rescue-ACE Quick Attacker",
+        "Rescue-ACE Turbulence"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Power Breaker",
+    "filename": "Power_Breaker",
+    "card_text": "If this card in your possession is destroyed by your opponent's attack or card effect and sent to your Graveyard: Target 1 face-up Spell/Trap Card your opponent controls; destroy that target. If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "STARSTRIKE BLAST",
+        "BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS",
+        "BATTLE PACK 2 WAR OF THE GIANTS ROUND 2"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1900,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

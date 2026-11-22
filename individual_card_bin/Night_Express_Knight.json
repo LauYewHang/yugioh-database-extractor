@@ -1,0 +1,20 @@
+{
+    "name": "Night Express Knight",
+    "filename": "Night_Express_Knight",
+    "card_text": "Cannot be Special Summoned from the Deck. You can Normal Summon this card without Tributing, but its original ATK becomes 0.",
+    "release_date": "2014-06-26",
+    "available_set": [
+        "LEGENDARY DUELISTS: SISTERS OF THE ROSE",
+        "Yu-Gi-Oh! ZEXAL World Duel Carnival Bundles (UK)",
+        "DRAGONS OF LEGEND: THE COMPLETE SERIES",
+        "DRAGONS OF LEGEND -UNLEASHED-"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 3000,
+    "defense": 3000,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

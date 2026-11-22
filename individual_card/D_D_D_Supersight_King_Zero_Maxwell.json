@@ -82,7 +82,10 @@
     "attack": 2800,
     "defense": 2500,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "You can target 1 face-up monster on the field; its DEF becomes 0 until the end of this turn (even if this card leaves the field). You can only use this effect of \"D/D/D Supersight King Zero Maxwell\" once per turn.",

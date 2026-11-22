@@ -1,0 +1,12 @@
+{
+    "name": "Spell Wall",
+    "filename": "Spell_Wall",
+    "card_text": "Activate 1 of these effects. Your opponent takes no further damage this turn.\n\u25cfDuring this turn, no Summon of a Spellcaster-Type monster can be negated, and when a Spellcaster-Type monster is Summoned, your opponent cannot activate cards or effects.\n\u25cfTarget 1 Spellcaster-Type monster you control; if it attacks this turn, your opponent cannot activate cards or effects until the end of the Damage Step.",
+    "release_date": "2013-01-25",
+    "available_set": [
+        "COSMO BLAZER"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

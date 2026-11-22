@@ -1,0 +1,18 @@
+{
+    "name": "Digital Bug Scaradiator",
+    "filename": "Digital_Bug_Scaradiator",
+    "card_text": "2 or more Level 3 LIGHT Insect-Type monsters\nOnce per turn, during either player's turn: You can detach 2 Xyz Materials from this card, then target 1 monster your opponent controls; change its battle position, and if you do, it has its effects negated until the end of this turn. Once per turn, when this card destroys an opponent's monster by battle and sends it to the Graveyard: You can attach that destroyed monster to this card as Xyz Material.",
+    "release_date": "2016-05-06",
+    "available_set": [
+        "SHINING VICTORIES",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1400,
+    "monster_type": "Insect",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Cyber-Stein",
+    "filename": "Cyber_Stein",
+    "card_text": "(This card is not treated as a \"Cyber\" card.)\nYou can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.",
+    "release_date": "2004-12-04",
+    "available_set": [
+        "BATTLES OF LEGEND: HERO'S REVENGE",
+        "QUARTER CENTURY BONANZA",
+        "DARK BEGINNING 2",
+        "SHONEN JUMP Championship 2004",
+        "OTS TOURNAMENT PACK 16"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 700,
+    "defense": 500,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

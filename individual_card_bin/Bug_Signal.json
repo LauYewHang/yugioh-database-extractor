@@ -1,0 +1,13 @@
+{
+    "name": "Bug Signal",
+    "filename": "Bug_Signal",
+    "card_text": "Target 1 Insect Xyz Monster you control; Special Summon from your Extra Deck, 1 Insect monster that is 2 Ranks higher or lower than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to that target also become Xyz Materials on the Summoned monster.) You can only activate 1 \"Bug Signal\" per turn.",
+    "release_date": "2017-05-05",
+    "available_set": [
+        "2018 MEGA-TINS MEGA PACK",
+        "MAXIMUM CRISIS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Tatakawa Knight",
+    "filename": "Tatakawa_Knight",
+    "card_text": "If the activation of your Spell/Trap Card is negated by your opponent's card effect: You can send this card from your hand to the Graveyard; inflict 1500 damage to your opponent.",
+    "release_date": "2013-05-17",
+    "available_set": [
+        "LORD OF THE TACHYON GALAXY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1500,
+    "defense": 0,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

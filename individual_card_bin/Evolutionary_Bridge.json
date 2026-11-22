@@ -1,0 +1,24 @@
+{
+    "name": "Evolutionary Bridge",
+    "filename": "Evolutionary_Bridge",
+    "card_text": "When a monster you control is targeted for an attack: Target 1 \"Evoltile\" monster in your Graveyard; Special Summon that target, then switch the attack target to that monster and conduct damage calculation.",
+    "release_date": "2011-11-15",
+    "available_set": [
+        "PHOTON SHOCKWAVE"
+    ],
+    "related_card": [
+        "Evolsaur Lios",
+        "Evoltile Casinerio",
+        "Evoltile Elginero",
+        "Evoltile Gephyro",
+        "Evoltile Lagosucho",
+        "Evoltile Megachirella",
+        "Evoltile Najasho",
+        "Evoltile Odonto",
+        "Evoltile Pholis",
+        "Evoltile Pleuro",
+        "Evoltile Westlo"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

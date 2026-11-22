@@ -115,7 +115,11 @@
     "attack": 2100,
     "defense": 2900,
     "monster_type": "Fiend",
-    "monster_card_type": 4102,
+    "monster_card_type": [
+        "Pendulum",
+        "Ritual",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "You can target 1 \"Archfiend\" Spell/Trap in your GY or banishment; destroy this card, and if you do, add that target to your hand. You can only use this effect of \"Archfiend Matriarch\" once per turn.",

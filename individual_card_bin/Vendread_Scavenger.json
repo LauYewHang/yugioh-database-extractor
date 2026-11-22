@@ -1,0 +1,39 @@
+{
+    "name": "Vendread Scavenger",
+    "filename": "Vendread_Scavenger",
+    "card_text": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. During the Main Phase (Quick Effect): You can Tribute 1 other Zombie monster; this card gains ATK equal to the Tributed monster's original ATK until the end of this turn. If you control \"Revendread Slayer\" and this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Vendread Scavenger\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS"
+    ],
+    "related_card": [
+        "Avendread Savior",
+        "Ravenous Vendread",
+        "Revendread Evolution",
+        "Revendread Executor",
+        "Revendread Origin",
+        "Revendread Slayer",
+        "Scar of the Vendread",
+        "Vendread Anima",
+        "Vendread Battlelord",
+        "Vendread Charge",
+        "Vendread Chimera",
+        "Vendread Core",
+        "Vendread Daybreak",
+        "Vendread Houndhorde",
+        "Vendread Nightmare",
+        "Vendread Nights",
+        "Vendread Reorigin",
+        "Vendread Reunion",
+        "Vendread Revenants",
+        "Vendread Revolution",
+        "Vendread Striges"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 0,
+    "monster_type": "Zombie",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

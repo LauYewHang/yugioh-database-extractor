@@ -1,0 +1,37 @@
+{
+    "name": "Colossal Fighter/Assault Mode",
+    "filename": "Colossal_Fighter_Assault_Mode",
+    "card_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". When this card is Special Summoned, you can send up to 2 Warrior-Type monsters from your Deck to the Graveyard. All monsters your opponent controls lose 100 ATK for every Warrior-Type monster in your Graveyard. When this card on the field is destroyed, you can Special Summon 1 \"Colossal Fighter\" from your Graveyard.",
+    "release_date": "2009-02-28",
+    "available_set": [
+        "CRIMSON CRISIS Sneak Peek",
+        "CRIMSON CRISIS"
+    ],
+    "related_card": [
+        "Assault Counter",
+        "Assault Lich",
+        "Assault Mode Activate",
+        "Assault Mode Zero",
+        "Assault Overload",
+        "Assault Reboot",
+        "Assault Revival",
+        "Assault Sentinel",
+        "Assault Slash",
+        "Assault Sonic Warrior",
+        "Assault Teleport",
+        "Colossal Fighter",
+        "Crimson Blader/Assault Mode",
+        "Crimson Call",
+        "Duel Evolution - Assault Zone",
+        "Junk Warrior/Assault Mode",
+        "Nightwinged Cleric",
+        "Psi-Reflector"
+    ],
+    "attribute": "DARK",
+    "attack": 3300,
+    "defense": 1500,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

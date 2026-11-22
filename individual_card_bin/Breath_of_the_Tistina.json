@@ -1,0 +1,27 @@
+{
+    "name": "Breath of the Tistina",
+    "filename": "Breath_of_the_Tistina",
+    "card_text": "During your Main Phase, you can Normal Summon 1 \"Tistina\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can target 1 face-up monster you control, or if you control a LIGHT \"Tistina\" monster, you can target 1 face-up monster on the field instead; change that monster to face-down Defense Position, then add 1 \"Tistina\" card from your Deck to your hand, except \"Breath of the Tistina\". You can only use this effect of \"Breath of the Tistina\" once per turn.",
+    "release_date": "2023-07-28",
+    "available_set": [
+        "DUELIST NEXUS"
+    ],
+    "related_card": [
+        "Crystal God Tistina",
+        "Demigod of the Tistina",
+        "Discordance of the Tistina",
+        "Divine Domain Baatistina",
+        "Embrace of the Tistina",
+        "Fallen of the Tistina",
+        "Hound of the Tistina",
+        "Miasma Dragon Tistina",
+        "Play of the Tistina",
+        "Returned of the Tistina",
+        "Sentinel of the Tistina",
+        "Signs of the Tistina",
+        "Tainted of the Tistina",
+        "Tistina, the Divinity that Defies Darkness"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

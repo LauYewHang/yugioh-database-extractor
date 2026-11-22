@@ -1,0 +1,14 @@
+{
+    "name": "Silent Graveyard (Updated from: Forbidden Graveyard)",
+    "filename": "Silent_Graveyard__Updated_from__Forbidden_Graveyard_",
+    "card_text": "Discard 1 card; effects that activate in the GY this turn are negated.",
+    "release_date": "2010-05-11",
+    "available_set": [
+        "OTS TOURNAMENT PACK 9",
+        "THE SHINING DARKNESS",
+        "Duel Devastator"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Scareclaw Light-Heart",
+    "filename": "Scareclaw_Light_Heart",
+    "card_text": "1 \"Scareclaw\" monster or 1 \"Visas Starfrost\"\nFor this card's Link Summon, you can only use monsters in your Main Monster Zone as material. If this card is Link Summoned in the Extra Monster Zone: You can add 1 \"Primitive Planet Reichphobia\" from your Deck to your hand. If you control \"Visas Starfrost\": You can Special Summon this card from your GY. You can only use this effect of \"Scareclaw Light-Heart\" once per Duel.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "New World Formation",
+        "Primitive Planet Reichphobia",
+        "Scareclaw Acro",
+        "Scareclaw Alternative",
+        "Scareclaw Arrival",
+        "Scareclaw Astra",
+        "Scareclaw Belone",
+        "Scareclaw Decline",
+        "Scareclaw Defanging",
+        "Scareclaw Kashtira",
+        "Scareclaw Reichheart",
+        "Scareclaw Sclash",
+        "Scareclaw Straddle",
+        "Scareclaw Tri-Heart",
+        "Scareclaw Twinsaw",
+        "Trivikarma",
+        "Visas Amritara",
+        "Visas Samsara",
+        "Visas Starfrost"
+    ],
+    "attribute": "DARK",
+    "attack": 500,
+    "defense": null,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 8194,
+    "link_rating": 1,
+    "link_arrow": 16
+}

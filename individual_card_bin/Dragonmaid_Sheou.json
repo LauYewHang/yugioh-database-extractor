@@ -1,0 +1,38 @@
+{
+    "name": "Dragonmaid Sheou",
+    "filename": "Dragonmaid_Sheou",
+    "card_text": "1 \"Dragonmaid\" monster + 1 Level 5 or higher Dragon monster\nDuring each Standby Phase: You can Special Summon 1 Level 9 or lower \"Dragonmaid\" monster from your hand or GY. When your opponent activates a card or effect (Quick Effect): You can negate the activation, and if you do, destroy that card, also, after that, return this card to the Extra Deck, and if you do, Special Summon 1 \"House Dragonmaid\" from your Extra Deck. You can only use each effect of \"Dragonmaid Sheou\" once per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "ETERNITY CODE",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Chamber Dragonmaid",
+        "Dragonmaid Cehrmba",
+        "Dragonmaid Changeover",
+        "Dragonmaid Downtime",
+        "Dragonmaid Ernus",
+        "Dragonmaid Hospitality",
+        "Dragonmaid Lorpar",
+        "Dragonmaid Nudyarl",
+        "Dragonmaid Send-Off",
+        "Dragonmaid Tidying",
+        "Dragonmaid Tinkhec",
+        "Dragonmaid Welcome",
+        "House Dragonmaid",
+        "Kitchen Dragonmaid",
+        "Lady's Dragonmaid",
+        "Laundry Dragonmaid",
+        "Nurse Dragonmaid",
+        "Parlor Dragonmaid"
+    ],
+    "attribute": "LIGHT",
+    "attack": 3500,
+    "defense": 2000,
+    "monster_type": "Dragon",
+    "monster_card_type": 10,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

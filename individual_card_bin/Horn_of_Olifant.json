@@ -1,0 +1,18 @@
+{
+    "name": "Horn of Olifant",
+    "filename": "Horn_of_Olifant",
+    "card_text": "Activate 1 of these effects;\n\u25cfBanish 1 Equip Spell you control or in your GY, then you can destroy 1 card on the field.\n\u25cfDestroy 1 \"Roland\" monster you control, then Special Summon in Defense Position up to 3 FIRE Warrior monsters from your Deck, whose total Levels equal 9, but their effects are negated, also, until the end of your next turn after this effect resolves, you cannot Special Summon monsters, except Warrior monsters.\nYou can only activate 1 \"Horn of Olifant\" per turn.",
+    "release_date": "2020-08-07",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "RISE OF THE DUELIST",
+        "OTS TOURNAMENT PACK 22"
+    ],
+    "related_card": [
+        "Angelica, Princess of Noble Arms",
+        "Infernoble Knight - Roland",
+        "Infernoble Knight Captain Roland"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

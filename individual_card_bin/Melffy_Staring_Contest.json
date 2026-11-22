@@ -1,0 +1,33 @@
+{
+    "name": "Melffy Staring Contest",
+    "filename": "Melffy_Staring_Contest",
+    "card_text": "You can reveal 1 Beast monster in your hand; add 1 \"Melffy\" monster with a different name from your Deck or GY to your hand and place that revealed monster on the bottom of the Deck. You can only use this effect of \"Melffy Staring Contest\" once per turn. At the start of your opponent's Battle Phase: You can reveal any number of \"Melffy\" monsters in your hand and keep them revealed during this Battle Phase only. Monsters your opponent controls lose ATK equal to the combined ATK and DEF of the monsters revealed by this effect.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Joyous Melffys",
+        "Melffy Catty",
+        "Melffy Fenny",
+        "Melffy Footsteps",
+        "Melffy Godmommy",
+        "Melffy Hide-and-Seek",
+        "Melffy Mommy",
+        "Melffy of the Forest",
+        "Melffy Pinny",
+        "Melffy Playhouse",
+        "Melffy Playtime Surprise",
+        "Melffy Pony",
+        "Melffy Puppy",
+        "Melffy Rabby",
+        "Melffy Rabbys",
+        "Melffy Tag",
+        "Melffy Wally",
+        "Melffys' Joyful Surprise",
+        "Merry Melffys"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

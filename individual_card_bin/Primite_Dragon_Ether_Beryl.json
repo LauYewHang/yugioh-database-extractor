@@ -1,0 +1,28 @@
+{
+    "name": "Primite Dragon Ether Beryl",
+    "filename": "Primite_Dragon_Ether_Beryl",
+    "card_text": "If this card is Normal Summoned: You can Set 1 \"Primite\" Spell/Trap from your Deck. You can only use each of the following effects of \"Primite Dragon Ether Beryl\" once per turn. You can Tribute this card; send 1 Normal Monster from your Deck to the GY. During your Standby Phase, if you have a Normal Monster in your field or GY: You can add this card from the GY to your hand.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "RARITY COLLECTION 5",
+        "SUPREME DARKNESS",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Primite Dragon Nether Berzelius",
+        "Primite Drillbeam",
+        "Primite Fusion",
+        "Primite Howl",
+        "Primite Imperial Dragon",
+        "Primite Lordly Lode",
+        "Primite Roar",
+        "Primite Scream"
+    ],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 0,
+    "monster_type": "Dragon",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

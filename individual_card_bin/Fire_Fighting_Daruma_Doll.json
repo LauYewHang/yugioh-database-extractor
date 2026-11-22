@@ -1,0 +1,18 @@
+{
+    "name": "Fire Fighting Daruma Doll",
+    "filename": "Fire_Fighting_Daruma_Doll",
+    "card_text": "2 Beast, Beast-Warrior, and/or Winged Beast monsters\nThis card gains 100 ATK for each Beast, Beast-Warrior, and Winged Beast monster on the field. Once per turn: You can target 1 Spell/Trap on each field; destroy them. When this card destroys an opponent's monster by battle: You can target 1 of your Beast, Beast-Warrior, or Winged Beast monsters, that is banished or is in your GY; add it to your hand.",
+    "release_date": "2018-05-04",
+    "available_set": [
+        "FLAMES OF DESTRUCTION",
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": null,
+    "monster_type": "Beast-Warrior",
+    "monster_card_type": 8194,
+    "link_rating": 2,
+    "link_arrow": 10
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Diamond-Dust Cyclone",
+    "filename": "Diamond_Dust_Cyclone",
+    "card_text": "Target 1 monster with 4 or more Fog Counters; destroy it, and if you do, draw 1 card for every 4 Fog Counters that was on it.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "SPEED DUEL GX: DUELISTS OF SHADOWS",
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [
+        "Cloudian - Acid Cloud",
+        "Cloudian - Altus",
+        "Cloudian - Cirrostratus",
+        "Cloudian - Ghost Fog",
+        "Cloudian - Nimbusman",
+        "Cloudian - Storm Dragon",
+        "Cloudian - Turbulence",
+        "Cloudian Aerosol",
+        "Cloudian Squall",
+        "Fog Control",
+        "Raging Cloudian",
+        "Updraft"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

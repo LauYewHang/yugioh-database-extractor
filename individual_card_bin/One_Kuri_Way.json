@@ -1,0 +1,13 @@
+{
+    "name": "One-Kuri-Way",
+    "filename": "One_Kuri_Way",
+    "card_text": "Target 1 Link-1 monster in either GY; return it to the Extra Deck or Special Summon it to its owner's field. You can only activate 1 \"One-Kuri-Way\" per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE",
+        "2022 TIN OF THE PHARAOH'S GODS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

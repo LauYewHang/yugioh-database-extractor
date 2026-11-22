@@ -156,7 +156,10 @@
     "attack": 1000,
     "defense": 2100,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5,
     "pendulum_effect": "Once per turn, when an opponent's monster declares an attack: You can add 1 \"Odd-Eyes\" Pendulum Monster from your GY to the Extra Deck face-up, and if you do, negate the attack, then you can gain LP equal to that Pendulum Monster's ATK.",

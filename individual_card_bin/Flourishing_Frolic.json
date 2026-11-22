@@ -1,0 +1,13 @@
+{
+    "name": "Flourishing Frolic",
+    "filename": "Flourishing_Frolic",
+    "card_text": "Excavate cards from your Deck equal to the number of \"Flourishing Frolic\" in your GY + 3, and if you excavate at least 1 Monster, 1 Spell, and 1 Trap, add 1 of them to your hand and send the other cards to the GY. If you did not, shuffle all excavated cards into your Deck. You can only activate 1 \"Flourishing Frolic\" per turn.",
+    "release_date": "2020-05-01",
+    "available_set": [
+        "2021 TIN OF ANCIENT BATTLES",
+        "ETERNITY CODE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

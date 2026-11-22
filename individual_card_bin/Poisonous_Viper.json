@@ -1,0 +1,17 @@
+{
+    "name": "Poisonous Viper",
+    "filename": "Poisonous_Viper",
+    "card_text": "You can reveal this card in your hand; Special Summon it, or if your opponent controls no monsters, Special Summon it to their field in Defense Position instead. Once per turn, during your Standby Phase: Take 500 damage. If this card is banished, or sent to the GY by card effect: You can target 1 Set Spell/Trap your opponent controls; destroy it. Your opponent cannot activate that card in response to this effect's activation. You can only use this effect of \"Poisonous Viper\" once per turn.",
+    "release_date": "2026-06-05",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 200,
+    "monster_type": "Reptile",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 1
+}

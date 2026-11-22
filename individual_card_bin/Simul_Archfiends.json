@@ -1,0 +1,42 @@
+{
+    "name": "Simul Archfiends",
+    "filename": "Simul_Archfiends",
+    "card_text": "This turn, neither player can Special Summon monsters with the same card types (Ritual, Fusion, Synchro, Xyz, or Link) they already control. If you do not control 2 or more of the same card types (Ritual, Fusion, Synchro, Xyz, or Link), all Ritual, Fusion, Synchro, Xyz, and Link Monsters you currently control gain 500 ATK. You can only activate 1 \"Simul Archfiends\" per turn.",
+    "release_date": "2022-10-21",
+    "available_set": [
+        "DARKWING BLAST",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Archfiend Black Skull Dragon",
+        "Archfiend Cavalry",
+        "Archfiend Commander",
+        "Archfiend Emperor, the First Lord of Horror",
+        "Archfiend Giant",
+        "Archfiend Heiress",
+        "Archfiend Matriarch",
+        "Archfiend Palabyrinth",
+        "Archfiend Playtime",
+        "Archfiend Strategy",
+        "Archfiend's Fervor",
+        "Archfiend's Roar",
+        "Archfiend's Usurpation",
+        "Battle-Scarred",
+        "Checkmate",
+        "Darkbishop Archfiend",
+        "Duke Archfiend",
+        "Falling Down",
+        "Highness Archfiend",
+        "Infernalqueen Archfiend",
+        "Matador Archfiend",
+        "Pandemonium",
+        "Ritual of the Matador",
+        "Royal Archfiend",
+        "Skilled Red Magician",
+        "Terrorking Archfiend",
+        "Throne of the Archfiends",
+        "Vilepawn Archfiend"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

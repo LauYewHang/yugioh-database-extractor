@@ -1,0 +1,15 @@
+{
+    "name": "Fossil Excavation",
+    "filename": "Fossil_Excavation",
+    "card_text": "Activate this card by discarding 1 card, then target 1 Dinosaur-Type monster in your Graveyard; Special Summon that target. Negate the effects of that monster on the field. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+    "release_date": "2006-08-16",
+    "available_set": [
+        "DINOSMASHER\u2019S FURY STRUCTURE DECK",
+        "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "STRUCTURE DECK DINOSAUR'S RAGE",
+        "POWER OF THE DUELIST"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

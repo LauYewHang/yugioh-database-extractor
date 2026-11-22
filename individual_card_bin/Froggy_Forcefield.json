@@ -1,0 +1,25 @@
+{
+    "name": "Froggy Forcefield",
+    "filename": "Froggy_Forcefield",
+    "card_text": "Activate only when a face-up \"Frog\" monster you control, except \"Frog the Jam\", is selected as an attack target. Destroy all Attack Position monsters your opponent controls.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [
+        "Beelze Frog",
+        "Centerfrog",
+        "D.3.S. Frog",
+        "Des Frog",
+        "Dupe Frog",
+        "Flip Flop Frog",
+        "Poison Draw Frog",
+        "Ronintoadin",
+        "Submarine Frog",
+        "Swap Frog",
+        "Treeborn Frog",
+        "Unifrog"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

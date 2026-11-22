@@ -59,7 +59,10 @@
     "attack": 1000,
     "defense": 3500,
     "monster_type": "Machine",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 8,
     "pendulum_effect": "If you control a \"Superheavy Samurai\" monster: You can add 1 \"Superheavy Samurai Soul\" monster from your Deck to your hand. You can only use this effect of \"Superheavy Samurai Monk Big Benkei\" once per turn.",

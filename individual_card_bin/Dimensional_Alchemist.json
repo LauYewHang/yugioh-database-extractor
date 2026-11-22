@@ -1,0 +1,19 @@
+{
+    "name": "Dimensional Alchemist",
+    "filename": "Dimensional_Alchemist",
+    "card_text": "Once per turn: You can activate this effect; banish the top card of your Deck, and if you do, until the end of this turn, this card gains 500 ATK. When this card you control is destroyed and sent to your GY: You can target 1 of your banished monsters; add it to your hand.",
+    "release_date": "2008-04-02",
+    "available_set": [
+        "THE DARK EMPEROR STRUCTURE DECK",
+        "Speed Duel: Battle City Box",
+        "GOLD SERIES 3"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1300,
+    "defense": 200,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Virtual World Shell - Jaja",
+    "filename": "Virtual_World_Shell___Jaja",
+    "card_text": "2+ Level 3 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 face-up monster you control; it cannot be destroyed by battle until the end of your opponent's turn. Once per turn, after damage calculation, if this card battled an opponent's monster, while you have 2 or more monsters in your GY with the same original Type and Attribute as each other: You can banish that opponent's monster.",
+    "release_date": "2020-11-06",
+    "available_set": [
+        "PHANTOM RAGE",
+        "2021 TIN OF ANCIENT BATTLES"
+    ],
+    "related_card": [
+        "Virtual World City - Kauwloon",
+        "Virtual World Gate - Chuche",
+        "Virtual World Gate - Qinglong",
+        "Virtual World Gate - Xuanwu",
+        "Virtual World Kirin - Lili",
+        "Virtual World Mai-Hime - Lulu",
+        "Virtual World Phoenix - Fanfan",
+        "Virtual World Roshi - Laolao",
+        "Virtual World Tiger - Fufu",
+        "Virtual World Xiezhi - Jiji"
+    ],
+    "attribute": "EARTH",
+    "attack": 1000,
+    "defense": 2400,
+    "monster_type": "Wyrm",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 3
+}

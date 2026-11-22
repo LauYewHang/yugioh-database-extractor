@@ -1,0 +1,20 @@
+{
+    "name": "Kamionwizard",
+    "filename": "Kamionwizard",
+    "card_text": "\"Mystical Elf\" + \"Curtain of the Dark Ones\"",
+    "release_date": "2013-09-13",
+    "available_set": [
+        "ASTRAL PACK THREE"
+    ],
+    "related_card": [
+        "Curtain of the Dark Ones",
+        "Mystical Elf"
+    ],
+    "attribute": "DARK",
+    "attack": 1300,
+    "defense": 1100,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 8,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

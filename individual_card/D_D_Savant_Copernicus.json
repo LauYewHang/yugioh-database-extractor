@@ -91,7 +91,10 @@
     "attack": 0,
     "defense": 0,
     "monster_type": "Fiend",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "You cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once, while this card is in your Pendulum Zone, you can negate an activated Spell effect that would inflict damage to you, then destroy this card.",

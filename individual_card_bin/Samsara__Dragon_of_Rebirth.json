@@ -1,0 +1,19 @@
+{
+    "name": "Samsara, Dragon of Rebirth",
+    "filename": "Samsara__Dragon_of_Rebirth",
+    "card_text": "1 Tuner + 1+ non-Tuners\nIf this card is destroyed by battle and sent to the GY, or if this card you control is sent to your GY by an opponent's card effect: You can target 1 monster in either GY, except \"Samsara, Dragon of Rebirth\"; Special Summon it. You can only use this effect of \"Samsara, Dragon of Rebirth\" once per turn.",
+    "release_date": "2014-08-15",
+    "available_set": [
+        "DEMO PROGRESSION SET 2026",
+        "DUELIST ALLIANCE",
+        "2015 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 100,
+    "defense": 2600,
+    "monster_type": "Dragon",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 5
+}

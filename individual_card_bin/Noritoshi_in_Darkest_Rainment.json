@@ -1,0 +1,18 @@
+{
+    "name": "Noritoshi in Darkest Rainment",
+    "filename": "Noritoshi_in_Darkest_Rainment",
+    "card_text": "3+ Spellcaster Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+    "release_date": "2018-08-05",
+    "available_set": [
+        "Yu-Gi-Oh! WORLD CHAMPIONSHIP 2018",
+        "Yu-Gi-Oh! CHAMPIONSHIP SERIES 2019"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 2500,
+    "defense": null,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 8194,
+    "link_rating": 5,
+    "link_arrow": 94
+}

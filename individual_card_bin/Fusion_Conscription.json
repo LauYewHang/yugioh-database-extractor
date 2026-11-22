@@ -1,0 +1,34 @@
+{
+    "name": "Fusion Conscription",
+    "filename": "Fusion_Conscription",
+    "card_text": "Reveal 1 Fusion Monster in your Extra Deck and add 1 of the Fusion Materials whose name is specifically listed on that card from your Deck or Graveyard to your hand, and if you do, for the rest of this turn after this card resolves, you cannot Normal Summon/Set or Special Summon monsters with the added monster's name, also your monsters with that name cannot activate their effects. You can only activate 1 \"Fusion Conscription\" per turn.",
+    "release_date": "2015-05-15",
+    "available_set": [
+        "2016 MEGA-TINS MEGA PACK",
+        "FUSION ENFORCERS",
+        "CROSSED SOULS"
+    ],
+    "related_card": [
+        "Alba-Lenatus the Abyss Dragon",
+        "Cyberdark Inferno",
+        "Evil Mind",
+        "Fluffal Dolphin",
+        "Frightfur Factory",
+        "Fusion Duplication",
+        "Gem-Knight Quartz",
+        "Kahyoreigetsu",
+        "Keeper of Dragon Magic",
+        "Magnum the Reliever",
+        "Predaplant Chimerafflesia",
+        "Predaplant Darlingtonia Cobra",
+        "Predaplant Verte Anaconda",
+        "Predaprimitive",
+        "Sabatiel - The Philosopher's Stone",
+        "Supreme King Gate Zero",
+        "Synchro Fusionist",
+        "Winged Kuriboh Sabatiel LV10",
+        "Xtra HERO Wonder Driver"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

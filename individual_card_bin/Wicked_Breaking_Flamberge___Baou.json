@@ -1,0 +1,20 @@
+{
+    "name": "Wicked-Breaking Flamberge - Baou",
+    "filename": "Wicked_Breaking_Flamberge___Baou",
+    "card_text": "Send 1 card from your hand to the GY, then target 1 monster on the field; equip this card to that target. It gains 500 ATK. Negate the effects of opponent's monsters destroyed by battle with the equipped monster.",
+    "release_date": "2003-12-01",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "DARK CRISIS (Reprint)",
+        "DARK CRISIS",
+        "STRUCTURE DECK WARRIOR'S TRIUMPH",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK"
+    ],
+    "related_card": [
+        "Guardian Baou"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

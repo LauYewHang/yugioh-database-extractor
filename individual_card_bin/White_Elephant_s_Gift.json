@@ -1,0 +1,17 @@
+{
+    "name": "White Elephant's Gift",
+    "filename": "White_Elephant_s_Gift",
+    "card_text": "Send 1 face-up non-Effect Monster you control to the GY; draw 2 cards.",
+    "release_date": "2010-11-16",
+    "available_set": [
+        "SPEED DUEL: ARENA OF LOST SOULS",
+        "SAGA OF BLUE-EYES WHITE DRAGON STRUCTURE DECK",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS",
+        "2-PLAYER STARTER SET",
+        "STARSTRIKE BLAST",
+        "SPEED DUEL STARTER DECKS: MATCH OF THE MILLENNIUM"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

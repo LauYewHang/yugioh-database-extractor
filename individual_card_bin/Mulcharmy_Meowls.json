@@ -1,0 +1,24 @@
+{
+    "name": "Mulcharmy Meowls",
+    "filename": "Mulcharmy_Meowls",
+    "card_text": "If you control no cards (Quick Effect): You can discard this card; apply these effects this turn.\n\u25cfEach time your opponent Special Summons a monster(s) from any GY(s) or banishment, immediately draw 1 card.\n\u25cfOnce, during this End Phase, if the number of cards in your hand is more than the number of cards your opponent controls +6, you must randomly shuffle cards from your hand into the Deck so the number in your hand equals the number your opponent controls +6.\nYou can only activate 1 other \"Mulcharmy\" monster effect, the turn you activate this effect.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "LEGENDARY MODERN DECKS 2026",
+        "SUPREME DARKNESS",
+        "Legendary 5D's Decks",
+        "WINNER'S PACK 2026-2027",
+        "LEGENDARY ARC-V DECKS"
+    ],
+    "related_card": [
+        "Mulcharmy Fuwalos",
+        "Mulcharmy Purulia"
+    ],
+    "attribute": "EARTH",
+    "attack": 100,
+    "defense": 600,
+    "monster_type": "Beast",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

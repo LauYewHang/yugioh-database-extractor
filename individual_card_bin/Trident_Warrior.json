@@ -1,0 +1,20 @@
+{
+    "name": "Trident Warrior",
+    "filename": "Trident_Warrior",
+    "card_text": "When this card is Normal Summoned: You can Special Summon 1 Level 3 monster from your hand.",
+    "release_date": "2010-08-17",
+    "available_set": [
+        "STARTER DECK XYZ SYMPHONY",
+        "STARTER DECK DAWN OF THE XYZ",
+        "BATTLE PACK 3 MONSTER LEAGUE",
+        "DUELIST REVOLUTION"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1800,
+    "defense": 1200,
+    "monster_type": "Warrior",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

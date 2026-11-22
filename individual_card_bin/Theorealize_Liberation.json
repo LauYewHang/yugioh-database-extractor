@@ -1,0 +1,17 @@
+{
+    "name": "Theorealize Liberation",
+    "filename": "Theorealize_Liberation",
+    "card_text": "If you control \"Medius the Pure\": Add to your hand or Special Summon 1 monster with 300 ATK/200 DEF from your Deck. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster you control; it is treated as a Tuner this turn. You can only use each effect of \"Theorealize Liberation\" once per turn.",
+    "release_date": "2026-02-06",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "BURST PROTOCOL"
+    ],
+    "related_card": [
+        "Medius the Pure",
+        "Purification Power Patron",
+        "Theorealized Medius"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Drytron Asterism",
+    "filename": "Drytron_Asterism",
+    "card_text": "During the Main Phase: Target 1 \"Drytron\" monster or 1 Ritual Monster you control, and 1 face-up monster your opponent controls; your monster loses exactly 1000 ATK until the end of your opponent's turn, and if it does, destroy that opponent's monster. You can only activate 1 \"Drytron Asterism\" per turn.",
+    "release_date": "2020-12-03",
+    "available_set": [
+        "GENESIS IMPACT"
+    ],
+    "related_card": [
+        "Drytron Alpha Thuban",
+        "Drytron Beta Rastaban",
+        "Drytron Delta Altais",
+        "Drytron Eclipse",
+        "Drytron Fafnir",
+        "Drytron Gamma Eltanin",
+        "Drytron Meteonis DA Draconids",
+        "Drytron Meteonis Draconids",
+        "Drytron Meteonis Quadrantids",
+        "Drytron Meteor Shower",
+        "Drytron Mu Beta Fafnir",
+        "Drytron Nova",
+        "Drytron Nu II",
+        "Drytron Zeta Aldhibah",
+        "Meteonis Drytron",
+        "Meteoroa Drytron",
+        "Ultimate Bright Knight Ursatron Alpha",
+        "Ultimate Flagship Ursatron",
+        "Ursarctic Drytron"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

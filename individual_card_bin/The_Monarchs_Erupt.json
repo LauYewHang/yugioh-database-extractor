@@ -1,0 +1,28 @@
+{
+    "name": "The Monarchs Erupt",
+    "filename": "The_Monarchs_Erupt",
+    "card_text": "Activate this card only if you have no cards in your Extra Deck and control a Tribute Summoned monster. Negate the effects of all face-up monsters on the field, while those monsters are face-up on the field, except Tribute Summoned monsters'. During your End Phase, if you control no Tribute Summoned monsters, send this card to the GY.",
+    "release_date": "2014-05-16",
+    "available_set": [
+        "2015 MEGA-TINS MEGA PACK",
+        "Gold Series: Maximum Gold",
+        "GHOSTS FROM THE PAST",
+        "EMPEROR OF DARKNESS STRUCTURE DECK",
+        "PRIMAL ORIGIN"
+    ],
+    "related_card": [
+        "Edea the Heavenly Squire",
+        "Ehther the Heavenly Monarch",
+        "Eidos the Underworld Monarch",
+        "Erebus the Underworld Monarch",
+        "Frost Blast of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Tenacity of the Monarchs",
+        "Tessera the Primal Squire",
+        "The Monarchs Masterplan",
+        "The Prime Monarch"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

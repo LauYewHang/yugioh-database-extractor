@@ -1,0 +1,19 @@
+{
+    "name": "Destructotron",
+    "filename": "Destructotron",
+    "card_text": "You can pay 1000 LP, then target 1 Set Spell/Trap your opponent controls; destroy that target. Once per turn, during the End Phase: Destroy this card. This card must be the only Psychic monster you control to activate and to resolve this effect.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "THE DUELIST GENESIS",
+        "SPEED DUEL: STREETS OF BATTLE CITY",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 1600,
+    "defense": 400,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

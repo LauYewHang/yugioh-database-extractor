@@ -1,0 +1,34 @@
+{
+    "name": "Dragonmaid Hospitality",
+    "filename": "Dragonmaid_Hospitality",
+    "card_text": "Special Summon 1 \"Dragonmaid\" monster from your hand or GY in Defense Position, then, you can send 1 \"Dragonmaid\" monster with the same Attribute, but a different Level, from your Deck to the GY. You can only activate 1 \"Dragonmaid Hospitality\" per turn.",
+    "release_date": "2019-11-22",
+    "available_set": [
+        "MYSTIC FIGHTERS",
+        "MAXIMUM GOLD: EL DORADO",
+        "QUARTER CENTURY BONANZA",
+        "BATTLES OF LEGEND: MONSTER MAYHEM"
+    ],
+    "related_card": [
+        "Chamber Dragonmaid",
+        "Dragonmaid Cehrmba",
+        "Dragonmaid Changeover",
+        "Dragonmaid Downtime",
+        "Dragonmaid Ernus",
+        "Dragonmaid Lorpar",
+        "Dragonmaid Nudyarl",
+        "Dragonmaid Send-Off",
+        "Dragonmaid Sheou",
+        "Dragonmaid Tidying",
+        "Dragonmaid Tinkhec",
+        "Dragonmaid Welcome",
+        "House Dragonmaid",
+        "Kitchen Dragonmaid",
+        "Lady's Dragonmaid",
+        "Laundry Dragonmaid",
+        "Nurse Dragonmaid",
+        "Parlor Dragonmaid"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

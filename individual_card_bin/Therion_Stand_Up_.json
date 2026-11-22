@@ -1,0 +1,28 @@
+{
+    "name": "Therion Stand Up!",
+    "filename": "Therion_Stand_Up_",
+    "card_text": "Target 1 \"Therion\" monster in your GY; Special Summon it, then you can equip 1 \"Therion\" monster from your hand or GY to it. During the Main Phase: You can banish this card from your GY, then target 2 \"Therion\" monsters (1 on your field and 1 in your GY); equip that monster from your GY to the other monster you control. You can only use 1 \"Therion Stand Up!\" effect per turn, and only once that turn.",
+    "release_date": "2022-05-20",
+    "available_set": [
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK",
+        "DIMENSION FORCE"
+    ],
+    "related_card": [
+        "Endless Engine Argyro System",
+        "Gigantic \"Champion\" Sargas",
+        "Gung-Ho! Springans!",
+        "Spright Smashers",
+        "Therion \"Bull\" Ain",
+        "Therion \"Duke\" Yul",
+        "Therion \"Empress\" Alasia",
+        "Therion \"King\" Regulus",
+        "Therion \"Lily\" Borea",
+        "Therion \"Reaper\" Fum",
+        "Therion Charge",
+        "Therion Cross",
+        "Therion Discolosseum",
+        "Therion Irregular"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

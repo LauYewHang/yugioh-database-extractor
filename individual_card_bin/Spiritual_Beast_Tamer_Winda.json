@@ -1,0 +1,42 @@
+{
+    "name": "Spiritual Beast Tamer Winda",
+    "filename": "Spiritual_Beast_Tamer_Winda",
+    "card_text": "If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 \"Ritual Beast\" monster from your Deck or Extra Deck, ignoring its Summoning conditions. You can only Special Summon \"Spiritual Beast Tamer Winda(s)\" once per turn.",
+    "release_date": "2017-02-10",
+    "available_set": [
+        "RAGING TEMPEST",
+        "BATTLES OF LEGEND: TERMINAL REVENGE",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [
+        "Ritual Beast Ambush",
+        "Ritual Beast Inheritance",
+        "Ritual Beast Return",
+        "Ritual Beast Steeds",
+        "Ritual Beast Tamer Elder",
+        "Ritual Beast Tamer Lara",
+        "Ritual Beast Tamer Wen",
+        "Ritual Beast Tamer Zeframpilica",
+        "Ritual Beast Tamer Zefrawendi",
+        "Ritual Beast Ulti-Apelio",
+        "Ritual Beast Ulti-Cannahawk",
+        "Ritual Beast Ulti-Gaiapelio",
+        "Ritual Beast Ulti-Kimunfalcos",
+        "Ritual Beast Ulti-Nochiudrago",
+        "Ritual Beast Ulti-Pettlephin",
+        "Ritual Beast Ulti-Reirautari",
+        "Ritual Beast's Bond",
+        "Spiritual Beast Apelio",
+        "Spiritual Beast Cannahawk",
+        "Spiritual Beast Pettlephin",
+        "Spiritual Beast Rampengu",
+        "Spiritual Beast Tamer Lara"
+    ],
+    "attribute": "WIND",
+    "attack": 1600,
+    "defense": 1800,
+    "monster_type": "Psychic",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

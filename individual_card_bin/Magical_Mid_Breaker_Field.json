@@ -1,0 +1,13 @@
+{
+    "name": "Magical Mid-Breaker Field",
+    "filename": "Magical_Mid_Breaker_Field",
+    "card_text": "Activate this card at the start of your Main Phase 1 or 2. During each player's Main Phase 1, monsters on the field cannot be destroyed by their opponent's card effects, also neither player can target monsters their opponent controls. You cannot activate or Set Field Spell Cards.",
+    "release_date": "2016-08-05",
+    "available_set": [
+        "THE DARK ILLUSION",
+        "2017 MEGA-TINS MEGA PACK"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

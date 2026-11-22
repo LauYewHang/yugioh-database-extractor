@@ -1,0 +1,23 @@
+{
+    "name": "Ally of Justice Decisive Armor",
+    "filename": "Ally_of_Justice_Decisive_Armor",
+    "card_text": "1 Tuner + 2+ non-Tuner monsters\nOnce per turn, if your opponent controls a LIGHT monster: You can activate 1 of these effects.\n\u25cfTarget 1 Set card your opponent controls; destroy that target.\n\u25cfSend 1 card from your hand to the GY; destroy all Spells and Traps your opponent controls.\n\u25cfSend your entire hand to the GY; look at your opponent's hand and send all LIGHT monsters in their hand to the GY, then, inflict damage to your opponent equal to the total ATK of those monsters sent to the GY.",
+    "release_date": "2010-09-25",
+    "available_set": [
+        "DUEL TERMINAL 3",
+        "HIDDEN ARSENAL 3",
+        "HIDDEN ARSENAL CHAPTER 1"
+    ],
+    "related_card": [
+        "Ally of Justice Thunder Armor",
+        "Ally of Justice Unlimiter",
+        "Flamvell Magician"
+    ],
+    "attribute": "DARK",
+    "attack": 3300,
+    "defense": 3300,
+    "monster_type": "Machine",
+    "monster_card_type": 18,
+    "level_rank_type": "Level",
+    "level_rank_rating": 10
+}

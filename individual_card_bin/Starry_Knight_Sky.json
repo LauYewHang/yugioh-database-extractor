@@ -1,0 +1,22 @@
+{
+    "name": "Starry Knight Sky",
+    "filename": "Starry_Knight_Sky",
+    "card_text": "During your Main Phase, you can Normal Summon 1 \"Starry Knight\" monster, or 1 Level 7 LIGHT Dragon monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) During your turn, if a face-up Level 7 LIGHT Dragon monster you control returns to the hand: You can draw 1 card. You can only use this effect of \"Starry Knight Sky\" once per turn.",
+    "release_date": "2021-04-16",
+    "available_set": [
+        "GHOSTS FROM THE PAST"
+    ],
+    "related_card": [
+        "Starry Knight Arrival",
+        "Starry Knight Astel",
+        "Starry Knight Balefire",
+        "Starry Knight Blast",
+        "Starry Knight Ceremony",
+        "Starry Knight Ciel",
+        "Starry Knight Flamel",
+        "Starry Knight Orbitael",
+        "Starry Knight Rayel"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

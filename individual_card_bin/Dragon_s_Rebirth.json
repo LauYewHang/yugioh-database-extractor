@@ -1,0 +1,16 @@
+{
+    "name": "Dragon's Rebirth",
+    "filename": "Dragon_s_Rebirth",
+    "card_text": "Target 1 Dragon monster you control; banish that target, and if you do, Special Summon 1 Dragon monster from your hand or GY.",
+    "release_date": "2012-02-07",
+    "available_set": [
+        "RISE OF THE TRUE DRAGONS STRUCTURE DECK",
+        "DRAGONS COLLIDE STRUCTURE DECK",
+        "SPEED DUEL TOURNAMENT PACK 5",
+        "SPEED DUEL STARTER DECK: DUELISTS OF TOMORROW",
+        "RARITY COLLECTION 5"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

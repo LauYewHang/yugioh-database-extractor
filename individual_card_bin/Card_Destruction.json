@@ -1,0 +1,25 @@
+{
+    "name": "Card Destruction",
+    "filename": "Card_Destruction",
+    "card_text": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+    "release_date": "2002-03-29",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "DARK LEGENDS",
+        "STRUCTURE DECK: DARK WORLD",
+        "OTS TOURNAMENT PACK 9",
+        "YUGI'S LEGENDARY DECKS",
+        "STARTER DECK YUGI Evolution",
+        "ZOMBIE WORLD STRUCTURE DECK",
+        "STRUCTURE DECK LORD OF THE STORM",
+        "RETRO PACK",
+        "DRAGUNITY LEGION STRUCTURE DECK",
+        "GATES OF THE UNDERWORLD STRUCTURE DECK",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "STARTER DECK YUGI"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

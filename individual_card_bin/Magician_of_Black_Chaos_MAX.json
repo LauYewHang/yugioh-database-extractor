@@ -1,0 +1,21 @@
+{
+    "name": "Magician of Black Chaos MAX",
+    "filename": "Magician_of_Black_Chaos_MAX",
+    "card_text": "You can Ritual Summon this card with \"Chaos Form\". If this card is Special Summoned: You can Tribute 1 monster; your opponent cannot activate monster effects this turn. When this card destroys an opponent's monster by battle: You can target 1 Spell in your GY; add it to your hand. You can only use each effect of \"Magician of Black Chaos MAX\" once per turn.",
+    "release_date": "2019-08-30",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN"
+    ],
+    "related_card": [
+        "Chaos Form",
+        "Magician of Chaos",
+        "Master of Chaos"
+    ],
+    "attribute": "DARK",
+    "attack": 2800,
+    "defense": 2600,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 6,
+    "level_rank_type": "Level",
+    "level_rank_rating": 8
+}

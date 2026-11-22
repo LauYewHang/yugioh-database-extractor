@@ -1,0 +1,19 @@
+{
+    "name": "Banner of Courage",
+    "filename": "Banner_of_Courage",
+    "card_text": "All monsters you control gain 200 ATK during your Battle Phase only.",
+    "release_date": "2003-07-18",
+    "available_set": [
+        "DARK REVELATION Volume 1",
+        "PHARAONIC GUARDIAN",
+        "2-PLAYER STARTER DECK YUYA & DECLAN (UK)",
+        "STARTER DECK DARK LEGION (US)",
+        "STARTER DECK JADEN YUKI",
+        "STARTER DECK DAWN OF THE XYZ",
+        "5D's STARTER DECK DUELIST TOOLBOX",
+        "BATTLE PACK 3 MONSTER LEAGUE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

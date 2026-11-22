@@ -1,0 +1,32 @@
+{
+    "name": "S-Force Chase",
+    "filename": "S_Force_Chase",
+    "card_text": "Target face-up cards your opponent controls, up to the number of \"S-Force\" monsters you control with different names; return them to the hand. If a \"S-Force\" monster you control would banish a card(s) from your hand to activate its effect, you can banish this card from your GY instead. You can only use each effect of \"S-Force Chase\" once per turn.",
+    "release_date": "2021-06-04",
+    "available_set": [
+        "LIGHTNING OVERDRIVE"
+    ],
+    "related_card": [
+        "S-Force Bridgehead",
+        "S-Force Dog Tag",
+        "S-Force Edge Razor",
+        "S-Force Gravitino",
+        "S-Force Justify",
+        "S-Force Lapcewell",
+        "S-Force Mystify",
+        "S-Force Nightcatcher",
+        "S-Force Nightchaser",
+        "S-Force Origin",
+        "S-Force Orrafist",
+        "S-Force Pla-Tina",
+        "S-Force Professor DiGamma",
+        "S-Force Rappa Chiyomaru",
+        "S-Force Retroactive",
+        "S-Force Showdown",
+        "S-Force Signify",
+        "S-Force Specimen",
+        "S-Force World Sorting"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

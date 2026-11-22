@@ -1,0 +1,32 @@
+{
+    "name": "Tistina, the Divinity that Defies Darkness",
+    "filename": "Tistina__the_Divinity_that_Defies_Darkness",
+    "card_text": "2 Level 10 monsters\nIf this card is Special Summoned: You can send all face-down cards your opponent controls to the GY. You can only use this effect of \"Tistina, the Divinity that Defies Darkness\" once per turn. Once per turn, if this card has \"Crystal God Tistina\" as material: You can detach 1 material from this card; it gains 2000 ATK until the end of your opponent's turn. If this card you control is destroyed by an opponent's card while it has material: You can Special Summon 1 \"Tistina\" monster from your GY.",
+    "release_date": "2023-10-20",
+    "available_set": [
+        "AGE OF OVERLORD"
+    ],
+    "related_card": [
+        "Breath of the Tistina",
+        "Crystal God Tistina",
+        "Demigod of the Tistina",
+        "Discordance of the Tistina",
+        "Divine Domain Baatistina",
+        "Embrace of the Tistina",
+        "Fallen of the Tistina",
+        "Hound of the Tistina",
+        "Miasma Dragon Tistina",
+        "Play of the Tistina",
+        "Returned of the Tistina",
+        "Sentinel of the Tistina",
+        "Signs of the Tistina",
+        "Tainted of the Tistina"
+    ],
+    "attribute": "LIGHT",
+    "attack": 2000,
+    "defense": 3000,
+    "monster_type": "Aqua",
+    "monster_card_type": 34,
+    "level_rank_type": "Rank",
+    "level_rank_rating": 10
+}

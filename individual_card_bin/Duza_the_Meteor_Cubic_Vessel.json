@@ -1,0 +1,36 @@
+{
+    "name": "Duza the Meteor Cubic Vessel",
+    "filename": "Duza_the_Meteor_Cubic_Vessel",
+    "card_text": "If this card is Normal or Special Summoned: You can send 1 \"Cubic\" card from your Deck to the Graveyard. Once per turn, during either player's turn, if a monster was sent to your Graveyard this turn while this card was face-up on the field: You can make this card gain 200 ATK for each monster with a different name in your Graveyard, until the end of this turn.",
+    "release_date": "2017-01-13",
+    "available_set": [
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK SECRET EDITION Variant Cards",
+        "Yu-Gi-Oh! THE DARK SIDE OF DIMENSIONS MOVIE PACK GOLD EDITION"
+    ],
+    "related_card": [
+        "Blade Garoodia the Cubic Beast",
+        "Buster Gundil the Cubic Behemoth",
+        "Crimson Nova the Dark Cubic Lord",
+        "Crimson Nova Trinity the Dark Cubic Lord",
+        "Cubic Ascension",
+        "Cubic Causality",
+        "Cubic Dharma",
+        "Cubic Karma",
+        "Cubic Mandala",
+        "Cubic Rebirth",
+        "Cubic Wave",
+        "Dark Garnex the Cubic Beast",
+        "Geira Guile the Cubic King",
+        "Indiora Doom Volt the Cubic Emperor",
+        "Unification of the Cubic Lords",
+        "Vijam the Cubic Seed",
+        "Vulcan Dragni the Cubic King"
+    ],
+    "attribute": "LIGHT",
+    "attack": 1600,
+    "defense": 1600,
+    "monster_type": "Machine",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

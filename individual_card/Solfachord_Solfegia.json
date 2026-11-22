@@ -31,7 +31,10 @@
     "attack": 400,
     "defense": 400,
     "monster_type": "Fairy",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 2,
     "pendulum_effect": "When your opponent's monster effect activated on the field resolves, if you control a \"GranSolfachord\" monster, you can negate that effect, then destroy this card. You can only use this effect of \"Solfachord Solfegia\" once per turn.",

@@ -1,0 +1,12 @@
+{
+    "name": "Supremacy Berry",
+    "filename": "Supremacy_Berry",
+    "card_text": "If your Life Points were lower than your opponent's when this card was activated, gain 2000 Life Points. If your Life Points were higher than your opponent's, you take 1000 damage.",
+    "release_date": "2009-05-12",
+    "available_set": [
+        "RAGING BATTLE"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

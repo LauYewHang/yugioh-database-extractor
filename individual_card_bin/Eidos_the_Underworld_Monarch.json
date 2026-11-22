@@ -1,0 +1,35 @@
+{
+    "name": "Eidos the Underworld Monarch",
+    "filename": "Eidos_the_Underworld_Monarch",
+    "card_text": "If this card is Normal or Special Summoned: You can add 1 \"Monarch\" Spell/Trap or 1 monster with 2800 ATK/1000 DEF from your Deck or GY to your hand. You can declare 1 Attribute; make 1 face-up monster on the field become that Attribute. If you Tribute Summon a monster with 2400 or more ATK and 1000 DEF, while this card is in your GY: You can add this card to your hand or Special Summon it. You can only use each effect of \"Eidos the Underworld Monarch\" once per turn.",
+    "release_date": "2025-07-04",
+    "available_set": [
+        "DUELIST'S ADVANCE"
+    ],
+    "related_card": [
+        "Domain of the True Monarchs",
+        "Escalation of the Monarchs",
+        "Frost Blast of the Monarchs",
+        "March of the Monarchs",
+        "Monarchic Perfection",
+        "Pantheism of the Monarchs",
+        "Restoration of the Monarchs",
+        "Return of the Monarchs",
+        "Strike of the Monarchs",
+        "Tenacity of the Monarchs",
+        "The First Monarch",
+        "The Monarchs Awaken",
+        "The Monarchs Erupt",
+        "The Monarchs Masterplan",
+        "The Monarchs Revolt",
+        "The Monarchs Stormforth",
+        "The Prime Monarch"
+    ],
+    "attribute": "DARK",
+    "attack": 2400,
+    "defense": 1000,
+    "monster_type": "Spellcaster",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 6
+}

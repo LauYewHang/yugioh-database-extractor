@@ -1,0 +1,13 @@
+{
+    "name": "Insect Neglect",
+    "filename": "Insect_Neglect",
+    "card_text": "When your opponent's monster declares an attack: You can banish 1 Insect monster from your GY; negate the attack.",
+    "release_date": "2009-11-17",
+    "available_set": [
+        "STARDUST OVERDRIVE",
+        "SPEED DUEL STARTER DECKS: ULTIMATE PREDATORS"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Volcanic Counter",
+    "filename": "Volcanic_Counter",
+    "card_text": "When you take battle damage while this card is in your Graveyard: Banish it from your Graveyard, then if there is a FIRE monster other than \"Volcanic Counter\" in your Graveyard, inflict damage to your opponent equal to the amount of battle damage you took.",
+    "release_date": "2008-02-13",
+    "available_set": [
+        "ONSLAUGHT OF THE FIRE KINGS STRUCTURE DECK",
+        "DUEL TERMINAL 5B",
+        "PHANTOM DARKNESS"
+    ],
+    "related_card": [
+        "Blaze Accelerator Reload",
+        "Fire Ejection",
+        "Volcanic Blaster",
+        "Volcanic Blaze Accelerator",
+        "Volcanic Emission",
+        "Volcanic Emperor",
+        "Volcanic Hammerer",
+        "Volcanic Inferno",
+        "Volcanic Recharge",
+        "Volcanic Rimfire",
+        "Volcanic Trooper"
+    ],
+    "attribute": "FIRE",
+    "attack": 300,
+    "defense": 1300,
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Danger! Response Team",
+    "filename": "Danger__Response_Team",
+    "card_text": "Target 1 \"Danger!\" monster you control and 1 monster on the field; return them to the hand. If this card is in the GY: You can discard 1 \"Danger!\" monster; place this card on the bottom of the Deck, then draw 1 card. You can only use each effect of \"Danger! Response Team\" once per turn.",
+    "release_date": "2018-10-19",
+    "available_set": [
+        "2019 GOLD SARCOPHAGUS TIN MEGA PACK",
+        "SOUL FUSION"
+    ],
+    "related_card": [
+        "Danger! Bigfoot!",
+        "Danger! Chupacabra!",
+        "Danger! Disturbance! Disorder!",
+        "Danger! Dogman!",
+        "Danger! Excitement! Mystery!",
+        "Danger! Feets of Strength!",
+        "Danger! Mothman!",
+        "Danger! Nessie!",
+        "Danger! Ogopogo!",
+        "Danger! Thunderbird!",
+        "Danger! Zone",
+        "Danger!? Jackalope?",
+        "Danger!? Tsuchinoko?",
+        "Realm of Danger!",
+        "Second Expedition into Danger!",
+        "You're in Danger!"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Normal"
+}

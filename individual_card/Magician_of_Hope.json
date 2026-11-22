@@ -37,7 +37,11 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4130,
+    "monster_card_type": [
+        "Pendulum",
+        "Xyz",
+        "Effect"
+    ],
     "level_rank_type": "Rank",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn, when a monster declares an attack: You can negate that attack, then destroy this card.",

@@ -1,0 +1,41 @@
+{
+    "name": "Interdimensional Warp",
+    "filename": "Interdimensional_Warp",
+    "card_text": "Select a monster you control and a monster with an A-Counter(s) your opponent controls. Switch control of those monsters.",
+    "release_date": "2007-11-14",
+    "available_set": [
+        "GLADIATOR'S ASSAULT"
+    ],
+    "related_card": [
+        "\"A\" Cell Breeding Device",
+        "\"A\" Cell Incubator",
+        "\"A\" Cell Recombination Device",
+        "\"A\" Cell Scatter Burst",
+        "Alien Dog",
+        "Alien Grey",
+        "Alien Hunter",
+        "Alien Hypno",
+        "Alien Kid",
+        "Alien Mars",
+        "Alien Mother",
+        "Alien Overlord",
+        "Alien Psychic",
+        "Alien Shocktrooper M-Frame",
+        "Alien Skull",
+        "Alien Stealthbuster",
+        "Alien Telepath",
+        "Alien Warrior",
+        "Brainwashing Beam",
+        "Cell Explosion Virus",
+        "Code A Ancient Ruins",
+        "Corruption Cell \"A\"",
+        "Cosmic Fortress Gol'gar",
+        "Cosmic Horror Gangi'el",
+        "Detonator Circle \"A\"",
+        "Mass Hypnosis",
+        "Mysterious Triangle",
+        "Planet Pollutant Virus"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

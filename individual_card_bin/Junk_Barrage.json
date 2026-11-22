@@ -1,0 +1,28 @@
+{
+    "name": "Junk Barrage",
+    "filename": "Junk_Barrage",
+    "card_text": "When the equipped monster destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the destroyed monster's ATK in the Graveyard.",
+    "release_date": "2008-09-02",
+    "available_set": [
+        "LEGENDARY COLLECTION 5D's MEGA PACK",
+        "DUELIST PACK - YUSEI -",
+        "THE DUELIST GENESIS"
+    ],
+    "related_card": [
+        "Catapult Warrior",
+        "Jet Synchron",
+        "Junk Anchor",
+        "Junk Armor",
+        "Junk Berserker",
+        "Junk Blader",
+        "Junk Changer",
+        "Junk Connector",
+        "Junk Meister",
+        "Junk Servant",
+        "Junk Warrior Extreme",
+        "Scrap-Iron Statue",
+        "Stardust Assault Warrior"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Equip"
+}

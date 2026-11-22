@@ -1,0 +1,30 @@
+{
+    "name": "Recette de Poisson (Fish Recipe)",
+    "filename": "Recette_de_Poisson__Fish_Recipe_",
+    "card_text": "This card can be used to Ritual Summon any \"Nouvelles\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then, if you Ritual Summoned \"Buerillabaisse de Nouvelles\", you can apply the following effect.\n\u25cfAdd 1 \"Recipe\" Ritual Spell from your Deck or GY to your hand, except \"Recette de Poisson (Fish Recipe)\".",
+    "release_date": "2023-06-02",
+    "available_set": [
+        "WILD SURVIVORS"
+    ],
+    "related_card": [
+        "Angry Burger",
+        "Baelgrill de Nouvelles",
+        "Balameuniere de Nouvelles",
+        "Buerillabaisse de Nouvelles",
+        "Chef de Nouvelles",
+        "Chef's Special Recipe",
+        "Concours de Cuisine (Culinary Confrontation)",
+        "Confiras de Nouvelles",
+        "Foie Glasya de Nouvelles",
+        "Hamburger Recipe",
+        "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
+        "Nouvelles Restaurant \"At Table\"",
+        "Poeltis de Nouvelles",
+        "Poissonniere de Nouvelles",
+        "Recette de Personnel (Staff Recipe)",
+        "Recette de Viande (Meat Recipe)",
+        "Voici la Carte (Today's Menu)"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Ritual"
+}

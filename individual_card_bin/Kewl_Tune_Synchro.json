@@ -1,0 +1,27 @@
+{
+    "name": "Kewl Tune Synchro",
+    "filename": "Kewl_Tune_Synchro",
+    "card_text": "Add 1 \"Kewl Tune\" card from your Deck to your hand, except \"Kewl Tune Synchro\", then immediately after this effect resolves, you can Synchro Summon 1 Tuner Synchro Monster. You cannot Special Summon for the rest of this turn after this card resolves, except Tuners. You can activate up to 2 \"Kewl Tune Synchro\" per turn.",
+    "release_date": "2025-12-05",
+    "available_set": [
+        "Phantom Revenge"
+    ],
+    "related_card": [
+        "Duelist Genesis",
+        "JJ \"Kewl Tune\"",
+        "Kewl Tune B2B",
+        "Kewl Tune Clip",
+        "Kewl Tune Crackle",
+        "Kewl Tune Cue",
+        "Kewl Tune Loudness War",
+        "Kewl Tune Mix",
+        "Kewl Tune Playlist",
+        "Kewl Tune Reco",
+        "Kewl Tune Remix",
+        "Kewl Tune Rotary",
+        "Kewl Tune RS",
+        "Kewl Tune Track Maker"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

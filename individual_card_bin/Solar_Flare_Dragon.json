@@ -1,0 +1,21 @@
+{
+    "name": "Solar Flare Dragon",
+    "filename": "Solar_Flare_Dragon",
+    "card_text": "While you control another Pyro-Type monster, this card cannot be attacked. During each of your End Phases: Inflict 500 damage to your opponent.",
+    "release_date": "2004-06-01",
+    "available_set": [
+        "ANCIENT SANCTUARY",
+        "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "DARK REVELATION Volume 2",
+        "STRUCTURE DECK BLAZE OF DESTRUCTION",
+        "GOLD SERIES"
+    ],
+    "related_card": [],
+    "attribute": "FIRE",
+    "attack": 1500,
+    "defense": 1000,
+    "monster_type": "Pyro",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

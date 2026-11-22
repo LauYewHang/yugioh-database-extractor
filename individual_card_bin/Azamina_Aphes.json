@@ -1,0 +1,39 @@
+{
+    "name": "Azamina Aphes",
+    "filename": "Azamina_Aphes",
+    "card_text": "(This card is always treated as a \"White Forest\" card.)\nTarget cards on the field, up to the number of Fusion and Synchro Monsters in your field and GY that are Fiend, Illusion, or Spellcaster; return them to the hand. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of \"Azamina Aphes\" once per turn.",
+    "release_date": "2025-01-24",
+    "available_set": [
+        "SUPREME DARKNESS"
+    ],
+    "related_card": [
+        "Astellar of the White Forest",
+        "Azamina Debtors",
+        "Azamina Determination",
+        "Azamina Ilia Silvia",
+        "Azamina Moa Regina",
+        "Azamina Mu Rcielago",
+        "Azamina Sol Erysichthon",
+        "Beware the White Forest",
+        "Deception of the Sinful Spoils",
+        "Diabell, Queen of the White Forest",
+        "Diabellze the White Witch",
+        "Elzette of the White Forest",
+        "Elzette, Azamina of the White Forest",
+        "Poplar of the White Forest",
+        "Queen Azamina",
+        "Rciela, Sinister Soul of the White Forest",
+        "Rucia of the White Forest",
+        "Saint Azamina",
+        "Scourge of the White Forest",
+        "Silvera, Wolf Tamer of the White Forest",
+        "Silvy of the White Forest",
+        "Sinful Spoils of the White Forest",
+        "Tales of the White Forest",
+        "The Hallowed Azamina",
+        "Witch of the White Forest",
+        "Woes of the White Forest"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

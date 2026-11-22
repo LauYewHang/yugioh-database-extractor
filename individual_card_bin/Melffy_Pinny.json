@@ -1,0 +1,39 @@
+{
+    "name": "Melffy Pinny",
+    "filename": "Melffy_Pinny",
+    "card_text": "If a face-up Beast monster you control was returned to the hand this turn, except \"Melffy Pinny\" (Quick Effect): You can Special Summon this card from your hand, then immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only this card you control and \"Melffy\" monsters in your hand. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Melffy Pinny\" once per turn.",
+    "release_date": "2022-08-05",
+    "available_set": [
+        "POWER OF THE ELEMENTS",
+        "25TH ANNIVERSARY TIN: DUELING MIRRORS",
+        "25TH ANNIVERSARY TIN: DUELING HEROES MEGA PACK"
+    ],
+    "related_card": [
+        "Joyous Melffys",
+        "Melffy Catty",
+        "Melffy Fenny",
+        "Melffy Footsteps",
+        "Melffy Godmommy",
+        "Melffy Hide-and-Seek",
+        "Melffy Mommy",
+        "Melffy of the Forest",
+        "Melffy Playhouse",
+        "Melffy Playtime Surprise",
+        "Melffy Pony",
+        "Melffy Puppy",
+        "Melffy Rabby",
+        "Melffy Rabbys",
+        "Melffy Staring Contest",
+        "Melffy Tag",
+        "Melffy Wally",
+        "Melffys' Joyful Surprise",
+        "Merry Melffys"
+    ],
+    "attribute": "WATER",
+    "attack": 300,
+    "defense": 100,
+    "monster_type": "Beast",
+    "monster_card_type": 1026,
+    "level_rank_type": "Level",
+    "level_rank_rating": 2
+}

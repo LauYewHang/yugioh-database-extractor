@@ -1,0 +1,20 @@
+{
+    "name": "Hallohallo",
+    "filename": "Hallohallo",
+    "card_text": "Hallo Hallo, brain of tallow,\nGuts are gone, noggin's hollow.\nSeeking sweets and marshing mallows,\nWatch your back, and your candy sack.",
+    "release_date": "2017-10-14",
+    "available_set": [
+        "CIRCUIT BREAK",
+        "CIRCUIT BREAK Sneak Peek"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 800,
+    "defense": 600,
+    "monster_type": "Fiend",
+    "monster_card_type": 5121,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3,
+    "pendulum_effect": "Once per turn: You can target 1 face-up monster on the field; roll a six-sided die and that monster's Level becomes the same as the result until the end of this turn.",
+    "pendulum_scale": 2
+}

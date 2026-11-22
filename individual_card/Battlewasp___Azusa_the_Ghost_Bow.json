@@ -27,7 +27,11 @@
     "attack": 2200,
     "defense": 1600,
     "monster_type": "Insect",
-    "monster_card_type": 1042,
+    "monster_card_type": [
+        "Tuner",
+        "Synchro",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 5
 }

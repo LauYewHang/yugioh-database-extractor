@@ -1,0 +1,26 @@
+{
+    "name": "Megalith Portal",
+    "filename": "Megalith_Portal",
+    "card_text": "The first time each Ritual Summoned monster would be destroyed by battle each turn, it is not destroyed. If a \"Megalith\" monster is Special Summoned (except during the Damage Step): You can target 1 Ritual Monster in your GY; add it to your hand. You can only use this effect of \"Megalith Portal\" once per turn.",
+    "release_date": "2020-01-31",
+    "available_set": [
+        "IGNITION ASSAULT"
+    ],
+    "related_card": [
+        "Megalith Anastasis",
+        "Megalith Aratron",
+        "Megalith Bethor",
+        "Megalith Emergence",
+        "Megalith Hagith",
+        "Megalith Notrah Plura",
+        "Megalith Och",
+        "Megalith Ophiel",
+        "Megalith Phaleg",
+        "Megalith Phul",
+        "Megalith Phuloch",
+        "Megalith Promotion",
+        "Megalith Unformed"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Field"
+}

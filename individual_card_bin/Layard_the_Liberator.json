@@ -1,0 +1,19 @@
+{
+    "name": "Layard the Liberator",
+    "filename": "Layard_the_Liberator",
+    "card_text": "Each time a Counter Trap Card is activated, immediately after it resolves, add 2 of your banished Fairy monsters to your hand.",
+    "release_date": "2006-05-17",
+    "available_set": [
+        "ENEMY OF JUSTICE",
+        "STRUCTURE DECK WAVE OF LIGHT",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [],
+    "attribute": "LIGHT",
+    "attack": 1400,
+    "defense": 1500,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

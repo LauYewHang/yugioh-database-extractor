@@ -1,0 +1,27 @@
+{
+    "name": "Magical Musket - Fiendish Deal",
+    "filename": "Magical_Musket___Fiendish_Deal",
+    "card_text": "\"Magical Musket\" monsters you control cannot be destroyed by card effects. If this card in your possession is sent to your GY by an opponent's card effect: You can add 1 \"Magical Musket\" card from your Deck or GY to your hand, except \"Magical Musket - Fiendish Deal\". You can only activate 1 \"Magical Musket - Fiendish Deal\" per turn.",
+    "release_date": "2017-11-17",
+    "available_set": [
+        "SPIRIT WARRIORS"
+    ],
+    "related_card": [
+        "Magical Musket - Crooked Crown",
+        "Magical Musket - Cross-Domination",
+        "Magical Musket - Dancing Needle",
+        "Magical Musket - Desperado",
+        "Magical Musket - Last Stand",
+        "Magical Musket - Steady Hands",
+        "Magical Musket Mastermind Zakiel",
+        "Magical Musketeer Calamity",
+        "Magical Musketeer Caspar",
+        "Magical Musketeer Doc",
+        "Magical Musketeer Kidbrave",
+        "Magical Musketeer Max",
+        "Magical Musketeer Starfire",
+        "Magical Musketeer Wild"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

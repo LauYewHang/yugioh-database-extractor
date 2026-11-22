@@ -1,0 +1,18 @@
+{
+    "name": "Tri-Gate Wizard",
+    "filename": "Tri_Gate_Wizard",
+    "card_text": "2+ monsters, except Tokens\nGains these effects based on the number of monsters co-linked to this card.\n\u25cf1+: If a monster co-linked to this card battles your opponent's monster, any battle damage it inflicts to your opponent is doubled.\n\u25cf2+: Once per turn: You can target 1 card on the field; banish it.\n\u25cf3: Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, banish that card.",
+    "release_date": "2017-11-03",
+    "available_set": [
+        "STRUCTURE DECK : CYBERSE LINK",
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [],
+    "attribute": "EARTH",
+    "attack": 2200,
+    "defense": null,
+    "monster_type": "Cyberse",
+    "monster_card_type": 8194,
+    "link_rating": 3,
+    "link_arrow": 336
+}

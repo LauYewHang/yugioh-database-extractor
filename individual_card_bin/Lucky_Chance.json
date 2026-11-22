@@ -1,0 +1,13 @@
+{
+    "name": "Lucky Chance",
+    "filename": "Lucky_Chance",
+    "card_text": "Once per Chain, if a monster effect is activated that tosses a coin once: Call heads or tails. If your call matches the coin toss for that monster effect, draw 1 card immediately after that effect resolves.",
+    "release_date": "2008-05-13",
+    "available_set": [
+        "OTS TOURNAMENT PACK 7",
+        "LIGHT OF DESTRUCTION"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Trap",
+    "icon": "Continuous"
+}

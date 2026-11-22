@@ -1,0 +1,17 @@
+{
+    "name": "Silent Sea Nettle",
+    "filename": "Silent_Sea_Nettle",
+    "card_text": "If you control a WATER monster: You can Special Summon this card from your hand. You cannot Special Summon monsters, except WATER monsters, the turn you activate this effect. You can banish this card from your GY, then target up to 3 WATER monsters in your GY; shuffle them into the Deck. You can only use each effect of \"Silent Sea Nettle\" once per turn.",
+    "release_date": "2021-12-03",
+    "available_set": [
+        "BROTHERS OF LEGEND"
+    ],
+    "related_card": [],
+    "attribute": "WATER",
+    "attack": 800,
+    "defense": 1300,
+    "monster_type": "Aqua",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

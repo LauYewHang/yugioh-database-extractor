@@ -1,0 +1,13 @@
+{
+    "name": "Samsara",
+    "filename": "Samsara",
+    "card_text": "Monster Cards Tributed for a Ritual Summon are returned to the owner's Deck instead of being sent to the Graveyard.",
+    "release_date": "2006-02-18",
+    "available_set": [
+        "SHADOW OF INFINITY",
+        "DARK REVELATION Volume 4"
+    ],
+    "related_card": [],
+    "spell_trap_type": "Spell",
+    "icon": "Continuous"
+}

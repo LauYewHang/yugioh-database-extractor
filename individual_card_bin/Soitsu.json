@@ -1,0 +1,20 @@
+{
+    "name": "Soitsu",
+    "filename": "Soitsu",
+    "card_text": "Apparently totally unreliable, he wonders if he has incredible potential.",
+    "release_date": "2005-08-06",
+    "available_set": [
+        "DARK REVELATION Volume 4",
+        "CYBERNETIC REVOLUTION"
+    ],
+    "related_card": [
+        "Doitsu"
+    ],
+    "attribute": "WIND",
+    "attack": 0,
+    "defense": 0,
+    "monster_type": "Fairy",
+    "monster_card_type": 1,
+    "level_rank_type": "Level",
+    "level_rank_rating": 3
+}

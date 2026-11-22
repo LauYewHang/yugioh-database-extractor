@@ -1,0 +1,19 @@
+{
+    "name": "Sophia, Goddess of Rebirth",
+    "filename": "Sophia__Goddess_of_Rebirth",
+    "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 face-up Ritual, Fusion, Synchro, and Xyz Monster from anywhere on the field. This card's Special Summon cannot be negated. If this card is Special Summoned: Banish all other cards from both players' hands, fields, and GYs. Neither player can activate cards or effects in response to this effect's activation.",
+    "release_date": "2013-02-01",
+    "available_set": [
+        "BATTLES OF LEGEND: GLORIOUS GALLERY",
+        "HIDDEN ARSENAL 7 KNIGHT OF STARS",
+        "DUEL TERMINAL 7B"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 3600,
+    "defense": 3400,
+    "monster_type": "Fairy",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 11
+}

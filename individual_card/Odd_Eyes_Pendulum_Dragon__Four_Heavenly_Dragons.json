@@ -67,7 +67,10 @@
     "attack": 2500,
     "defense": 2000,
     "monster_type": "Dragon",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 7,
     "pendulum_effect": "During your Main Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand, also for the rest of this turn, you cannot activate monster effects on the field until you Pendulum Summon. You can only use this effect of \"Odd-Eyes Pendulum Dragon, Four Heavenly Dragons\" once per turn.",

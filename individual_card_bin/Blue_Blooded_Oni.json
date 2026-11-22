@@ -1,0 +1,17 @@
+{
+    "name": "Blue-Blooded Oni",
+    "filename": "Blue_Blooded_Oni",
+    "card_text": "When this card is Normal or Flip Summoned: It is changed to Defense Position. Once per turn: You can detach 1 Xyz Material you control to target 1 Level 4 Zombie-Type monster in your Graveyard; Special Summon that target.",
+    "release_date": "2011-08-16",
+    "available_set": [
+        "GENERATION FORCE"
+    ],
+    "related_card": [],
+    "attribute": "DARK",
+    "attack": 1000,
+    "defense": 1700,
+    "monster_type": "Zombie",
+    "monster_card_type": 2,
+    "level_rank_type": "Level",
+    "level_rank_rating": 4
+}

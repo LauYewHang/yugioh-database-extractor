@@ -1,0 +1,18 @@
+{
+    "name": "Cynet Backdoor",
+    "filename": "Cynet_Backdoor",
+    "card_text": "Target 1 Cyberse monster you control; banish it, and if you do, add 1 Cyberse monster from your Deck to your hand, whose ATK is lower than that monster's original ATK. During your next Standby Phase, return that monster banished by this effect to the field, and it can attack directly that turn. You can only activate 1 \"Cynet Backdoor\" per turn.",
+    "release_date": "2017-11-03",
+    "available_set": [
+        "MYSTIC FIGHTERS",
+        "STRUCTURE DECK : CYBERSE LINK",
+        "CROSSOVER BREAKERS"
+    ],
+    "related_card": [
+        "Cyberse Reminder",
+        "Firewall Phantom",
+        "Micro Coder"
+    ],
+    "spell_trap_type": "Spell",
+    "icon": "Quick-Play"
+}

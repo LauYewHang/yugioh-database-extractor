@@ -1,0 +1,33 @@
+{
+    "name": "Hieratic Seal of Banishment",
+    "filename": "Hieratic_Seal_of_Banishment",
+    "card_text": "Tribute 1 \"Hieratic\" monster, then target 1 card your opponent controls; banish that target.",
+    "release_date": "2012-05-08",
+    "available_set": [
+        "GHOSTS FROM THE PAST",
+        "GALACTIC OVERLORD"
+    ],
+    "related_card": [
+        "Hieratic Dragon King of Atum",
+        "Hieratic Dragon of Asar",
+        "Hieratic Dragon of Eset",
+        "Hieratic Dragon of Gebeb",
+        "Hieratic Dragon of Nebthet",
+        "Hieratic Dragon of Nuit",
+        "Hieratic Dragon of Su",
+        "Hieratic Dragon of Sutekh",
+        "Hieratic Dragon of Tefnuit",
+        "Hieratic Seal From the Ashes",
+        "Hieratic Seal of Convocation",
+        "Hieratic Seal of Creation",
+        "Hieratic Seal of Reflection",
+        "Hieratic Seal of Supremacy",
+        "Hieratic Seal of the Dragon King",
+        "Hieratic Seal of the Heavenly Spheres",
+        "Hieratic Seal of the Sun Dragon Overlord",
+        "Hieratic Sky Dragon Overlord of Heliopolis",
+        "Hieratic Sun Dragon Overlord of Heliopolis"
+    ],
+    "spell_trap_type": "Trap",
+    "icon": "Normal"
+}

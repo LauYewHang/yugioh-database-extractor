@@ -89,7 +89,10 @@
     "attack": 1800,
     "defense": 400,
     "monster_type": "Spellcaster",
-    "monster_card_type": 4098,
+    "monster_card_type": [
+        "Pendulum",
+        "Effect"
+    ],
     "level_rank_type": "Level",
     "level_rank_rating": 4,
     "pendulum_effect": "Once per turn, at the start of the Damage Step, if a monster battles a monster: You can return this card to the hand, and if you do, banish 1 Spell from your Deck. For that battle, your monster cannot be destroyed, also the battle damage you take is halved.",
