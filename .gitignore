@@ -4,3 +4,6 @@ __pycache__
 *log.txt
 
 # miscellaneous for commit related stuff
+# or supporting files useful in development
+card_image_split/
+cards/images/
