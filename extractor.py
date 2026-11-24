@@ -1,4 +1,4 @@
-import json, requests, re, html, datetime, math, os
+import json, requests, re, html, datetime, math, os, time
 from typing import List, TypedDict
 from enum import Enum
 
@@ -6,15 +6,26 @@ from reference.card_reference import *
 from reference.request_reference import *
 from reference.Card import *
 
+# official Yu-Gi-Oh database
 # the root url for the database
 YUGIOH_DATABASE_URL = "https://www.db.yugioh-card.com"
 # the url for search action on the database
 YUGIOH_DATABASE_SEARCH_URL = "https://www.db.yugioh-card.com/yugiohdb/card_search.action"
 
+# YGO Pro Deck api for images
+YGO_PRO_DECK_API = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
+
 # exponential waiting varible
 # in case of sending multiple requests results in the request being blocked,
 # wait for some time (exponentially) before sending another request
 DELAY = 1
+
+# for YGO Pro Deck api, the rate limit is 20 requests per second
+# we only use the api for image
+# we need two version of the image: full & cropped
+# we also need to get the JSON of the card info to get the image link
+# so to get the image(s) of a specific card, we need to send 3 requests
+YGO_PRO_DECK_RATE = 20
 
 # default parameter: the default / compulsory parameter for the request
 # "ope" should stand for operation type? not so sure,
@@ -895,6 +906,97 @@ def retrieve_all_cards(
         file.close()
         retrieve_all_cards(from_page = currentPage, results_per_page = results_per_page)
 
+# retrieve images
+def retrieve_images(
+        full: bool = True,
+        cropped: bool = True,
+        card_json_folder: str = "individual_card/",
+        save_to_folder: str = "card_image/"
+    ):
+
+    # check if folder to save to exist
+    if (not os.path.exists(save_to_folder)):
+        os.makedirs(save_to_folder)
+    # check for folder to save full / cropped to, and create log file
+    if (full):
+        if (not os.path.exists(os.path.join(save_to_folder, "full"))):
+            os.makedirs(os.path.join(save_to_folder, "full"))
+        fullLogFile = open(f"{os.path.join(save_to_folder, 'full', 'log.txt')}", mode = "w", encoding = "utf-8")
+    if (cropped):
+        if (not os.path.exists(os.path.join(save_to_folder, "cropped"))):
+            os.makedirs(os.path.join(save_to_folder, "cropped"))
+        croppedLogFile = open(f"{os.path.join(save_to_folder, 'cropped', 'log.txt')}", mode = "w", encoding = "utf-8")
+
+    imageTypeAmount = full + cropped
+    fileList = []
+
+    # open JSON files in the folder to read the card name
+    fileList = [file for file in os.listdir(card_json_folder) if file.endswith(".json")]
+    fileList.sort()
+    # keep track of how many image to download and how many total card there is
+    downloadedImage = 0
+    totalCard = len(fileList)
+
+    # iterate fileList to read the card JSON
+    while (len(fileList) > 0):
+        cardFile = open(os.path.join(card_json_folder, fileList.pop()), mode = "r", encoding = "utf-8")
+        cardJSON = cardFile.read()
+        cardFile.close()
+        cardDict = json.loads(cardJSON)
+
+        ygoProDeckRequest = requests.request(
+            url = YGO_PRO_DECK_API,
+            method = "GET",
+            params = {"name" : cardDict["name"]}
+        )
+
+        requestJSON = ygoProDeckRequest.json()
+        # check to download full image and cropped image
+        try:
+            # check if the image has already exists or not,
+            # and if the file not exist, download the file
+            if (full and not os.path.exists(os.path.join(save_to_folder, "full", f"{cardDict['filename']}.jpg"))):
+                # get the full image link
+                fullImageLink = requestJSON["data"][0]["card_images"][0]["image_url"]
+                imageResponse = requests.get(fullImageLink)
+                # write to the file with binary
+                # refference: https://stackoverflow.com/a/63978199/21952784 (write image to file with requests)
+                # refference: https://stackoverflow.com/a/2665873/21952784 (what is "wb")
+                fullImage = open(f"{os.path.join(save_to_folder, 'full', cardDict['filename'])}.jpg", mode = "wb")
+                fullImage.write(imageResponse.content) # content is bytes type
+                fullImage.close()
+                fullLogFile.write(f"Downloaded full image of: {cardDict['name']}\n")
+                print(f"Downloaded full image of: {cardDict['name']}")
+        except Exception as e:
+            fullLogFile.write(f"##############################\n")
+            fullLogFile.write(f"Exception occured for full image of: {cardDict['name']}\t\t{e}\n")
+            fullLogFile.write(f"##############################\n")
+
+        # TODO: manually process the images that cannot be retrieved from YGO Pro deck
+        try:
+            if (cropped and not os.path.exists(os.path.join(save_to_folder, "cropped", f"{cardDict['filename']}.jpg"))):
+                croppedImageLink = requestJSON["data"][0]["card_images"][0]["image_url_cropped"]
+                imageResponse = requests.get(croppedImageLink)
+                croppedImage = open(f"{os.path.join(save_to_folder, 'cropped', cardDict['filename'])}.jpg", mode = "wb")
+                croppedImage.write(imageResponse.content)
+                croppedImage.close()
+                croppedLogFile.write(f"Downloaded cropped image of: {cardDict['name']}\n")
+                print(f"Downloaded cropped image of: {cardDict['name']}")
+        except Exception as e:
+            croppedLogFile.write(f"##############################\n")
+            croppedLogFile.write(f"Exception occured for cropped image of: {cardDict['name']}\t\t{e}\n")
+            croppedLogFile.write(f"##############################\n")
+
+        downloadedImage += 1
+        print(f"Progress: downloaded {downloadedImage} of {totalCard}\n")
+        # sleep to prevent reaching rate limit
+        time.sleep(1 / (YGO_PRO_DECK_RATE / (imageTypeAmount + 1)))
+
+    if (full):
+        fullLogFile.close()
+    if (cropped):
+        croppedLogFile.close()
+
 # convert existing JSON from bin to non-bin or vise versa
 def convert_bin_format(
         folder_path: str = "individual_card_bin/",
@@ -974,5 +1076,6 @@ def convert_bin_format(
         writeFile.close()
                 
 if __name__ == "__main__":
-    retrieve_all_cards()
+    # retrieve_all_cards()
+    retrieve_images()
     None
