@@ -1,13 +1,21 @@
 # Yu-Gi-Oh database extractor
-A simple Python program that helps to extract card information from the [official Yu-Gi-Oh! database](https://www.db.yugioh-card.com/yugiohdb/card_search.action?wname=CardSearch).  
-The program retrieves the card information and save each card in an individual JSON files. 
+A simple Python program that helps to extract card information (TCG, English) from the [official Yu-Gi-Oh! database](https://www.db.yugioh-card.com/yugiohdb/card_search.action?wname=CardSearch). The program retrieves the card information and save each card in an individual JSON files.  
+Additionally, the program can help download the card images from [YGOPRODeck website](https://ygoprodeck.com/) with its API. Some images may be missing due to the image not available from the website, or different display name between official database and said website. (available images: 14009/14068 as of 24/11/2026)  
 
 ## Downloading zip
 You can download the extracted cards' JSON files with the zip:
 - [Default version](cards/individual_card.zip)
 - [With integer representation](cards/individual_card_bin.zip)  
+
 The zip file will extract into a folder containing a list of JSON files that represent each individual cards. E.g. "Sky_Striker_Ace___Azalea_Temperance.json", "Arahime_the_Manifested_Mikanko.json", ...  
 Visit the [section below](#different-versions) to see what is the difference between the two versions.
+
+## Card images
+The card images are available in the following directory:
+- [Full version](card_image/full/)  
+- [Cropped version](card_image/cropped/)  
+
+Unfortunately currently directly downloading a zip file for images is not possible due to the file size. (even after splitting 15 fold)
 
 ## Different versions
 There exists two version of the output:  
@@ -18,7 +26,7 @@ The difference between the two versions is how they store some card information 
 **individual_card** is the default version where it stores cards' information in a way that it is easily comprehensible by reading directly.  
 E.g.  
 
-<details>
+<details open>
 <summary> <strong> Maliss &lt;Q&gt; White Binder </strong> </summary>  
 
 ```json
@@ -66,7 +74,7 @@ E.g.
 **individual_card_bin** version stores card information such as `link arrow direction` and `monster card type` with integer representation in a way that they can be easily compared / check equality during the programming process. For more details explanation, kindly visit the [documentation](docs/) for extra info.  
 E.g.  
 
-<details>
+<details open>
 <summary> <strong> Zenna's Deceiving Doll Maidens </strong> </summary>
 
 ```json
