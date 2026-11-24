@@ -6,6 +6,13 @@ from reference.card_reference import *
 from reference.request_reference import *
 from reference.Card import *
 
+# default size for image split
+DEFAULT_IMAGE_SPLIT_AMOUNT = 1000
+# default path to save the folders, files
+DEFAULT_FOLDER_IMAGE = "card_image"
+DEFAULT_FOLDER_FULL_IMAGE = "full"
+DEFAULT_FOLDER_CROPPED_IMAGE = "cropped"
+
 # official Yu-Gi-Oh database
 # the root url for the database
 YUGIOH_DATABASE_URL = "https://www.db.yugioh-card.com"
@@ -906,6 +913,7 @@ def retrieve_all_cards(
         file.close()
         retrieve_all_cards(from_page = currentPage, results_per_page = results_per_page)
 
+# TODO: make the retrieve image doesn't require preexisting individual card JSON files
 # retrieve images
 def retrieve_images(
         full: bool = True,
@@ -997,6 +1005,96 @@ def retrieve_images(
     if (cropped):
         croppedLogFile.close()
 
+# split the card images into smaller folder (batch) for easier transfer
+def split_card_images(
+        full: bool = True,
+        cropped: bool = True,
+        full_folder: str = os.path.join(DEFAULT_FOLDER_IMAGE, DEFAULT_FOLDER_FULL_IMAGE),
+        cropped_folder: str = os.path.join(DEFAULT_FOLDER_IMAGE, DEFAULT_FOLDER_CROPPED_IMAGE)
+    ):
+
+    if (full):
+        # list the image files and sort by name
+        fullImageFiles = [file for file in os.listdir(full_folder) if file.endswith(".jpg")]
+        fullImageFiles.sort()
+
+        # calculate how many time to split the image to batch
+        # ceiling because 1200 / 1000 -> 1.2, which should be 2 batch
+        splitCount = math.ceil(len(fullImageFiles) / DEFAULT_IMAGE_SPLIT_AMOUNT)
+
+        if (not os.path.exists("card_image_split/full")):
+            os.makedirs("card_image_split/full")
+
+        for index in range(splitCount):
+            imageBatch = []
+            # if not the last batch
+            if (index != splitCount - 1):
+                # add the split amount into the batch
+                for i in range(DEFAULT_IMAGE_SPLIT_AMOUNT):
+                    # add the first image to the image batch list
+                    imageBatch.append(fullImageFiles.pop(0))
+            # else, add the remaining image files into the batch
+            else:
+                while (len(fullImageFiles) > 0):
+                    imageBatch.append(fullImageFiles.pop(0))
+            
+            # save the files to a new folder
+            # name: batch_<current index>_<max index>
+            savePath = f"card_image_split/full/batch_{index + 1}_{splitCount}"
+            if (not os.path.exists(savePath)):
+                os.makedirs(savePath)
+            
+            # copy the file to the save path by reading and writing binary
+            while (len(imageBatch) > 0):
+                imageFileName = imageBatch.pop(0)
+                readImageFile = open(os.path.join(full_folder, imageFileName), mode = "rb")
+                imageFile = readImageFile.read()
+                readImageFile.close()
+                writeImageFile = open(os.path.join(savePath, imageFileName), mode = "wb")
+                writeImageFile.write(imageFile)
+                writeImageFile.close()
+
+    if (cropped):
+        # list the image files and sort by name
+        croppedImageFiles = [file for file in os.listdir(cropped_folder) if file.endswith(".jpg")]
+        croppedImageFiles.sort()
+
+        # calculate how many time to split the image to batch
+        # ceiling because 1200 / 1000 -> 1.2, which should be 2 batch
+        splitCount = math.ceil(len(croppedImageFiles) / DEFAULT_IMAGE_SPLIT_AMOUNT)
+
+        if (not os.path.exists("card_image_split/cropped")):
+            os.makedirs("card_image_split/cropped")
+
+        for index in range(splitCount):
+            imageBatch = []
+            # if not the last batch
+            if (index != splitCount - 1):
+                # add the split amount into the batch
+                for i in range(DEFAULT_IMAGE_SPLIT_AMOUNT):
+                    # add the first image to the image batch list
+                    imageBatch.append(croppedImageFiles.pop(0))
+            # else, add the remaining image files into the batch
+            else:
+                while (len(croppedImageFiles) > 0):
+                    imageBatch.append(croppedImageFiles.pop(0))
+            
+            # save the files to a new folder
+            # name: batch_<current index>_<max index>
+            savePath = f"card_image_split/cropped/batch_{index + 1}_{splitCount}"
+            if (not os.path.exists(savePath)):
+                os.makedirs(savePath)
+            
+            # copy the file to the save path by reading and writing binary
+            while (len(imageBatch) > 0):
+                imageFileName = imageBatch.pop(0)
+                readImageFile = open(os.path.join(cropped_folder, imageFileName), mode = "rb")
+                imageFile = readImageFile.read()
+                readImageFile.close()
+                writeImageFile = open(os.path.join(savePath, imageFileName), mode = "wb")
+                writeImageFile.write(imageFile)
+                writeImageFile.close()
+
 # convert existing JSON from bin to non-bin or vise versa
 def convert_bin_format(
         folder_path: str = "individual_card_bin/",
@@ -1076,6 +1174,6 @@ def convert_bin_format(
         writeFile.close()
                 
 if __name__ == "__main__":
-    # retrieve_all_cards()
+    retrieve_all_cards()
     retrieve_images()
     None
