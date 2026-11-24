@@ -1,4 +1,6 @@
 __pycache__
 
 # unecessary log.txt that logged individual card retrieve history
-individual_card/log.txt
+*log.txt
+
+# miscellaneous for commit related stuff
