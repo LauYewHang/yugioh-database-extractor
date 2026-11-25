@@ -2,8 +2,17 @@
 A simple Python program that helps to extract card information (TCG, English) from the [official Yu-Gi-Oh! database](https://www.db.yugioh-card.com/yugiohdb/card_search.action?wname=CardSearch). The program retrieves the card information and save each card in an individual JSON files.  
 Additionally, the program can help download the card images from [YGOPRODeck website](https://ygoprodeck.com/) with its API. Some images may be missing due to the image not available from the website, or different display name between official database and said website. (available images: 14009/14068 as of 24/11/2026)  
 
+## Card information
+You can download the JSON file that contain the cards information at:  
+(compact all cards into a single file)
+- [Default version](card_information/card_information.json)
+- [With integer representation](card_information/card_information_bin.json)
+
+If you want to have each card being an individual JSON file, you can check out the [downloading zip](#downloading-zip).  
+Check out the [section below](#different-versions) to see what is the difference between the two versions.
+
 ## Downloading zip
-You can download the extracted cards' JSON files with the zip:
+You can download all the extracted cards' JSON files with the zip:
 - [Default version](cards/individual_card.zip)
 - [With integer representation](cards/individual_card_bin.zip)  
 
@@ -147,4 +156,5 @@ Any poor performance and unoptimization of this program is all due to I am too s
 For any suggestions, questions, or anything else, feel free to contact me on:  
 - [Discord](https://discord.com/users/1225424004630974496): sunshinetsu0411 (let me know you come from GitHub)
 - [Email](yewhang2004@gmail.com): yewhang2004@gmail.com  
+
 Thanks for stopping by to visit this hot mess <3
