@@ -913,6 +913,21 @@ def retrieve_all_cards(
         file.close()
         retrieve_all_cards(from_page = currentPage, results_per_page = results_per_page)
 
+# convert the card JSON list into a single JSON file
+def convert_single_json(folder_path: str):
+    jsonFiles = [file for file in os.listdir(folder_path) if file.endswith(".json")]
+    jsonFiles.sort()
+    cardInformationList = []
+    for jsonFile in jsonFiles:
+        jsonFile = open(os.path.join(folder_path, jsonFile), mode = "r", encoding = "utf-8")
+        cardInformationList.append(json.loads(jsonFile.read()))
+        jsonFile.close()
+
+    newJSONstring = json.dumps(cardInformationList, indent = 4)
+    newFile = open("card_information.json", mode = "w", encoding = "utf-8")
+    newFile.write(newJSONstring)
+    newFile.close()
+
 # TODO: make the retrieve image doesn't require preexisting individual card JSON files
 # retrieve images
 def retrieve_images(
